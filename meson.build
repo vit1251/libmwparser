@@ -1,9 +1,9 @@
 project('libmwparser', 'c', version: '')
 
 sources = [
-    'src/expr.y',
-    'src/expr.l',
-    'src/itex2MML_yy.tab.c',
+    'src/expr.tab.c',
+#    'src/itex2MML_yy.tab.c',
+    'src/itex2MML.tab.c',
     'src/itex2MML_yy.c',
     'src/wiki_lang.c',
     'src/lexer.c',
