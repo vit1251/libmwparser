@@ -1,5 +1,7 @@
 project('libmwparser', 'c', version: '')
 
+eina_dep = dependency('eina')
+
 sources = [
     'src/expr.tab.c',
 #    'src/itex2MML_yy.tab.c',
@@ -24,4 +26,4 @@ sources = [
     'src/md5.c',
 ]
 
-static_library('libmwparser', sources)
+static_library('libmwparser', sources, dependencies: [ eina_dep ] )

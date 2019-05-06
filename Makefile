@@ -3,6 +3,7 @@ all: compile
 depend:
 	apt install flex
 	apt install bison
+	apt install libeina-dev
 
 clean:
 
