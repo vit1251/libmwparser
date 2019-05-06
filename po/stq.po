@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: stq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "wikimedialicensetexts-desc"
+msgstr  "Wikimedia-Lizenztexte"
+
+msgid  "wm-license-cc-wiki-link"
+msgstr  "w:stq:Creative Commons"
+
+msgid  "wm-license-cc-attribution"
+msgstr  "Noomenaamenge"
+
+msgid  "wm-license-cc-by-1.0-text"
+msgstr  "Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/1.0/deed.de Noomenaamenge 1.0 US-amerikanisk (nit portierd)] lizenzierd."
+
+msgid  "wm-license-cc-by-2.0-text"
+msgstr  "Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/deed.de Noomenaamenge 2.0 US-amerikanisk (nit portierd)] lizenzierd."
+
+msgid  "wm-license-cc-by-2.5-text"
+msgstr  "Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/deed.de Noomenaamenge 2.5 US-amerikanisk (nit portierd)] lizenzierd."
+
+msgid  "wm-license-cc-by-3.0-text"
+msgstr  "Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/3.0/deed.de Noomenaamenge 3.0 US-amerikanisk (nit portierd)] lizenzierd."
+
+msgid  "wm-license-cc-by-sa-1.0-text"
+msgstr  "Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by-sa/1.0/deed.de Noomenaamenge-Fäärereeken unner glieke Bedingengen 1.0 US-amerikanisk (nit portierd)] lizenzierd."
+
+msgid  "wm-license-cc-by-sa-2.0-text"
+msgstr  "Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by-sa/2.0/deed.de Noomenaamenge-Fäärereeken unner glieke Bedingengen 2.0 US-amerikanisk (nit portierd)] lizenzierd."
+
+msgid  "wm-license-cc-by-sa-2.5-text"
+msgstr  "Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by-sa/2.5/deed.de Noomenaamenge-Fäärereeken unner glieke Bedingengen 2.5 US-amerikanisk (nit portierd)] lizenzierd."
+
+msgid  "wm-license-cc-by-sa-3.0-text"
+msgstr  "Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by-sa/3.0/deed.de Noomenaamenge-Fäärereeken unner glieke Bedingengen 3.0 US-amerikanisk (nit portierd)] lizenzierd."
+
+msgid  "wm-license-cc-free"
+msgstr  "Du duurst:"
+
+msgid  "wm-license-cc-free-to-share-header"
+msgstr  "meedeele"
+
+msgid  "wm-license-cc-free-to-share-text"
+msgstr  "dät Wierk ferfuuulfoooldigje, ferspreede un eepentelk tougängelk moakje"
+
+msgid  "wm-license-cc-free-to-remix-header"
+msgstr  "näi kombinierje"
+
+msgid  "wm-license-cc-free-to-remix-text"
+msgstr  "Annerengen un Beoarbaidengen fon dät Wierk moakje"
+
+msgid  "wm-license-cc-conditions"
+msgstr  "Tou do foulgjende Bedingengen:"
+
+msgid  "wm-license-cc-conditions-attribution-header"
+msgstr  "Noomenaamenge"
+
+msgid  "wm-license-cc-conditions-attribution-text"
+msgstr  "Du moast dän Noome fon dän Autor/Gjuchtienhääber in ju fon him fäästlaide Wiese naame (oawers nit so, dät et so uutsjucht, as wüül hie die of dien Ferweendenge fon dät Wierk unnerstutsje)."
+
+msgid  "wm-license-cc-conditions-share_alike-header"
+msgstr  "Fäärereeken unner glieke Bedingengen"
+
+msgid  "wm-license-cc-conditions-share_alike-text"
+msgstr  "Wan du dät lizenzierde Wierk blw. dän lizenzierde Inhoold beoarbaidest, annerst of in ne uur Wiese ärkanboar as Gruundloage foar dät oaine Schafjen ferwoanst, duurst du do deertruch näi äntsteene Wierke blw. Inhoolde bloot unner Ferweendenge fon Lizenzbedingengen fäärereeke, do mäd do fon dissen Lizenzferdraach identisk, fergliekboar of kompatibel sunt."
+
+msgid  "wm-license-information-description"
+msgstr  "Beschrieuwenge"
+
+msgid  "wm-license-information-source"
+msgstr  "Wälle"
+
+msgid  "wm-license-information-date"
+msgstr  "Doatum"
+
+msgid  "wm-license-information-author"
+msgstr  "Autor"
+

@@ -1,0 +1,2766 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mwl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "#ANCAMINAR"
+msgstr "#REDIRECT"
+
+msgid  "#REDIRECIONAMENTO"
+msgstr "#REDIRECT"
+
+msgid  "dreita"
+msgstr "right"
+
+msgid  "direita"
+msgstr "right"
+
+msgid  "squierda"
+msgstr "left"
+
+msgid  "esquerda"
+msgstr "left"
+
+msgid  "nanhun"
+msgstr "none"
+
+msgid  "nenhum"
+msgstr "none"
+
+msgid  "centro"
+msgstr "centre"
+
+msgid  "center"
+msgstr "centre"
+
+msgid  "meio"
+msgstr "middle"
+
+msgid  "#LHENGUA:"
+msgstr "#LANGUAGE:"
+
+msgid  "#IDIOMA:"
+msgstr "#LANGUAGE:"
+
+msgid  "CAMINOFEXEIRO:"
+msgstr "FILEPATH:"
+
+msgid  "CAMINHODOARQUIVO"
+msgstr "FILEPATH:"
+
+msgid  "eitiqueta"
+msgstr "tag"
+
+msgid  "TAMANHOFEXEIRO"
+msgstr "PAGESIZE"
+
+msgid  "TAMANHODAPAGINA"
+msgstr "PAGESIZE"
+
+msgid  "TAMANHODAPÁGINA"
+msgstr "PAGESIZE"
+
+msgid  "_ANCAMINARSTATICO_"
+msgstr "__STATICREDIRECT__"
+
+msgid  "__REDIRECIONAMENTOESTATICO__"
+msgstr "__STATICREDIRECT__"
+
+msgid  "__REDIRECIONAMENTOESTÁTICO__"
+msgstr "__STATICREDIRECT__"
+
+msgid  "tog-underline"
+msgstr  "Sublinhar lhigaçones:"
+
+msgid  "tog-highlightbroken"
+msgstr  "Formatar lhigaçones para páiginas ineisistentes <a href=\"\" class=\"new\">assi</a> (altarnatiba: assi<a href=\"\" class=\"internal\">?</a>)."
+
+msgid  "tog-justify"
+msgstr  "Justeficar parágrafos"
+
+msgid  "tog-hideminor"
+msgstr  "Scunder eidiçones mais pequeinhas nas redadeiras altaraçones"
+
+msgid  "tog-hidepatrolled"
+msgstr  "Scunder eidiçones patrulhadas nas redadeiras altaraçones"
+
+msgid  "tog-newpageshidepatrolled"
+msgstr  "Scunder  páiginas patrulhadas na lhista de páiginas nuobas"
+
+msgid  "tog-extendwatchlist"
+msgstr  "Lhistaige spandida de todas las altaraçones a las páiginas begiadas, nun solo de las redadeiras"
+
+msgid  "tog-usenewrc"
+msgstr  "Ousar la berson melhorada de las mudanças recentes (requer JavaScrit)"
+
+msgid  "tog-numberheadings"
+msgstr  "Outo-numerar cabeçalhos"
+
+msgid  "tog-showtoolbar"
+msgstr  "Amostrar barra d'eidiçon (JavaScrit)"
+
+msgid  "tog-editondblclick"
+msgstr  "Eiditar páiginas quando houbir un clique duplo (JavaScrit)"
+
+msgid  "tog-editsection"
+msgstr  "Possiblitar l'eidiçon de cachos cun lhigaçones [eiditar]"
+
+msgid  "tog-editsectiononrightclick"
+msgstr  "Posseblitar l'eidiçon de cachos por clique cul boton dreito ne l títalo de la seçon (JavaScrit)"
+
+msgid  "tog-showtoc"
+msgstr  "Amostrar índice (para páiginas cun mais de trés cachos)"
+
+msgid  "tog-rememberpassword"
+msgstr  "Recordar la mie palabra-chabe antre sessones (for a maximum of $1 {{PLURAL:$1|day|days}})"
+
+msgid  "tog-watchcreations"
+msgstr  "Ajuntar las páiginas que you criar a las minhas páiginas begiadas"
+
+msgid  "tog-watchdefault"
+msgstr  "Ajuntar las páiginas que you eiditar a las minhas páiginas begiadas"
+
+msgid  "tog-watchmoves"
+msgstr  " Ajuntar las páiginas que you mober a las minhas páiginas begiadas"
+
+msgid  "tog-watchdeletion"
+msgstr  " Ajuntar las páiginas que you eileminar a las minhas páiginas begiadas"
+
+msgid  "tog-minordefault"
+msgstr  "Por oumisson, marcar todas las eidiçones cumo menores"
+
+msgid  "tog-previewontop"
+msgstr  "Amostrar l'antebison antes de la caixa d'eidiçon"
+
+msgid  "tog-previewonfirst"
+msgstr  "Amostrar l'antebison na purmeira eidiçon"
+
+msgid  "tog-nocache"
+msgstr  "Zatibar caching de páiginas"
+
+msgid  "tog-enotifwatchlistpages"
+msgstr  "Notificar-me por correio eiletrónico quando ua páigina begiada ye altarada"
+
+msgid  "tog-enotifusertalkpages"
+msgstr  "Abisar -me por correio eiletrónico quando la mie páigina de çcusson ye eiditada"
+
+msgid  "tog-enotifminoredits"
+msgstr  "Abisar-me por correio eiletrónico tamien quando las eidiçones fúren pequeinhas"
+
+msgid  "tog-enotifrevealaddr"
+msgstr  "Rebelar l miu andereço de correio eiletrónico nas noteficaçones"
+
+msgid  "tog-shownumberswatching"
+msgstr  "Amostrar l númaro d'outelizadores a begiar"
+
+msgid  "tog-fancysig"
+msgstr  "Tratar assinatura cumo wikitesto (sin lhigaçon outomática)"
+
+msgid  "tog-externaleditor"
+msgstr  "Por oumisson, outelizar un eiditor sterno (solo para outelizadores abançados, eisige cunfiguraçones adecionales ne l tou cumputador)"
+
+msgid  "tog-externaldiff"
+msgstr  "Por oumisson, outelizar defrenças sternas (solo para outelizadores abançados, eisige cunfiguraçones adicionales ne l tou cumputador)"
+
+msgid  "tog-showjumplinks"
+msgstr  "Posseblitar lhigaçones d'acessibelidade \"{{ant:jumpto}}\""
+
+msgid  "tog-uselivepreview"
+msgstr  "Ousar l'antebison an tiempo rial (JavaScrit) (Spurmental)"
+
+msgid  "tog-forceeditsummary"
+msgstr  "Abisar-me al antroduzir un sumairo bazio"
+
+msgid  "tog-watchlisthideown"
+msgstr  "Scunder las mies eidiçones al lhistar mudanças a las páiginas begiadas"
+
+msgid  "tog-watchlisthidebots"
+msgstr  "Scunder eidiçones de robós al lhistar mudanças a las páiginas begiadas"
+
+msgid  "tog-watchlisthideminor"
+msgstr  "Scunder eidiçones menores al lhistar mudanças a las páiginas begiadas"
+
+msgid  "tog-watchlisthideliu"
+msgstr  "Scunder eidiçones d'outelizadores outenticados al lhistar mudanças a las páiginas begiadas"
+
+msgid  "tog-watchlisthideanons"
+msgstr  "Scunder  eidiçones d'outelizadores anónimos al lhistar mudanças a las páiginas begiadas"
+
+msgid  "tog-watchlisthidepatrolled"
+msgstr  "Scunder  eidiçones patrulhadas al lhistar mudanças a las páiginas begiadas"
+
+msgid  "tog-ccmeonemails"
+msgstr  "Ambiar-me cópias de l correio eiletrónico que you ambiar a outros outelizadores"
+
+msgid  "tog-diffonly"
+msgstr  "Nun amostrar l cuntenido de la páigina al acumparar dues eidiçones"
+
+msgid  "tog-showhiddencats"
+msgstr  "Amostrar catadories oucultas"
+
+msgid  "tog-norollbackdiff"
+msgstr  "Scunder defrenças depuis de reberter eidiçones an bloco"
+
+msgid  "underline-always"
+msgstr  "Siempre"
+
+msgid  "underline-never"
+msgstr  "Nunca"
+
+msgid  "underline-default"
+msgstr  "Ousar la cunfiguraçon de l nabegador"
+
+msgid  "sunday"
+msgstr  "Demingo"
+
+msgid  "monday"
+msgstr  "Segunda-feira"
+
+msgid  "tuesday"
+msgstr  "Terça"
+
+msgid  "wednesday"
+msgstr  "Quarta"
+
+msgid  "thursday"
+msgstr  "Quinta"
+
+msgid  "friday"
+msgstr  "Sesta"
+
+msgid  "saturday"
+msgstr  "Sábado"
+
+msgid  "sun"
+msgstr  "dem"
+
+msgid  "mon"
+msgstr  "seg"
+
+msgid  "tue"
+msgstr  "ter"
+
+msgid  "wed"
+msgstr  "qua"
+
+msgid  "thu"
+msgstr  "qui"
+
+msgid  "fri"
+msgstr  "ses"
+
+msgid  "sat"
+msgstr  "sáb"
+
+msgid  "january"
+msgstr  "Janeiro"
+
+msgid  "february"
+msgstr  "Febreiro"
+
+msgid  "march"
+msgstr  "Março"
+
+msgid  "april"
+msgstr  "Abril"
+
+msgid  "may_long"
+msgstr  "Maio"
+
+msgid  "june"
+msgstr  "Junho"
+
+msgid  "july"
+msgstr  "Júlio"
+
+msgid  "august"
+msgstr  "Agosto"
+
+msgid  "september"
+msgstr  "Setembre"
+
+msgid  "october"
+msgstr  "Outubro"
+
+msgid  "november"
+msgstr  "Nobembre"
+
+msgid  "december"
+msgstr  "Dezembro"
+
+msgid  "january-gen"
+msgstr  "Janeiro"
+
+msgid  "february-gen"
+msgstr  "Fevereiro"
+
+msgid  "march-gen"
+msgstr  "Márcio"
+
+msgid  "april-gen"
+msgstr  "Abril"
+
+msgid  "may-gen"
+msgstr  "Maio"
+
+msgid  "june-gen"
+msgstr  "Júnio"
+
+msgid  "july-gen"
+msgstr  "Júlio"
+
+msgid  "august-gen"
+msgstr  "Agosto"
+
+msgid  "september-gen"
+msgstr  "Setembre"
+
+msgid  "october-gen"
+msgstr  "Outubre"
+
+msgid  "november-gen"
+msgstr  "Nobembre"
+
+msgid  "december-gen"
+msgstr  "Dezembre"
+
+msgid  "jan"
+msgstr  "Jan."
+
+msgid  "feb"
+msgstr  "Feb."
+
+msgid  "mar"
+msgstr  "Mar."
+
+msgid  "apr"
+msgstr  "Abr."
+
+msgid  "may"
+msgstr  "Mai."
+
+msgid  "jun"
+msgstr  "Jún."
+
+msgid  "jul"
+msgstr  "Júl."
+
+msgid  "aug"
+msgstr  "Ago."
+
+msgid  "sep"
+msgstr  "Set."
+
+msgid  "oct"
+msgstr  "Out."
+
+msgid  "nov"
+msgstr  "Nob."
+
+msgid  "dec"
+msgstr  "Dez."
+
+msgid  "pagecategories"
+msgstr  "{{PLURAL:$1|Catadorie|Catadories}}"
+
+msgid  "category_header"
+msgstr  "Páiginas na catadorie \"$1\""
+
+msgid  "subcategories"
+msgstr  "Subcatadories"
+
+msgid  "category-media-header"
+msgstr  "Multimédia na catadorie \"$1\""
+
+msgid  "category-empty"
+msgstr  "''Esta catadorie nun cuntén atualmente nanhue páigina ó fexeiro multimédia.''"
+
+msgid  "hidden-categories"
+msgstr  "{{PLURAL:$1|Catadorie scundida|Catadories scundidas}}"
+
+msgid  "hidden-category-category"
+msgstr  "Catadories scundidas"
+
+msgid  "category-subcat-count"
+msgstr  "{{PLURAL:$2|Esta catadorie solo cuntén la seguinte subcatadorie.|Esta catadorie cuntén {{PLURAL:$1|la seguinte subcatadorie|las seguintes $1 subcatadories}} (dun total de $2).}}"
+
+msgid  "category-subcat-count-limited"
+msgstr  "Esta catadorie ten {{PLURAL:$1|la seguinte subcatadorie|las $1 subcatadories a seguir}}."
+
+msgid  "category-article-count"
+msgstr  "{{PLURAL:$2|Esta catadorie solo cuntén la seguinte páigina.|Esta catadorie cuntén {{PLURAL:$1|la seguinte páigina|las seguintes $1 páiginas}} (dun total de $2).}}"
+
+msgid  "category-article-count-limited"
+msgstr  "Hai, nesta catadorie, {{PLURAL:$1|la páigina a seguir|las $1 páiginas a seguir}}."
+
+msgid  "category-file-count"
+msgstr  "{{PLURAL:$2|Esta catadorie solo cuntén l seguinte fexeiro.|Esta catadorie cuntén {{PLURAL:$1|l seguinte fexeiro|ls seguintes $1 fexeiros}} (dun total de $2).}}"
+
+msgid  "category-file-count-limited"
+msgstr  "Nesta catadorie hai {{PLURAL:$1|un fexeiro|$1 fexeiros}}."
+
+msgid  "listingcontinuesabbrev"
+msgstr  "cunt."
+
+msgid  "about"
+msgstr  "Subre"
+
+msgid  "article"
+msgstr  "Páigina de cuntenido"
+
+msgid  "newwindow"
+msgstr  "(abre nua nuoba jinela)"
+
+msgid  "cancel"
+msgstr  "Çfazer"
+
+msgid  "moredotdotdot"
+msgstr  "Mais..."
+
+msgid  "mypage"
+msgstr  "Mie páigina"
+
+msgid  "mytalk"
+msgstr  "Mie cumbersa"
+
+msgid  "anontalk"
+msgstr  "Çcusson pa este IP"
+
+msgid  "navigation"
+msgstr  "Nabegaçon"
+
+msgid  "and"
+msgstr  "&#32;i"
+
+msgid  "qbfind"
+msgstr  "Percurar"
+
+msgid  "qbbrowse"
+msgstr  "Nabegar"
+
+msgid  "qbedit"
+msgstr  "Eiditar"
+
+msgid  "qbpageoptions"
+msgstr  "Esta páigina"
+
+msgid  "qbpageinfo"
+msgstr  "Cuntesto"
+
+msgid  "qbmyoptions"
+msgstr  "Mies páiginas"
+
+msgid  "qbspecialpages"
+msgstr  "Páiginas speciales"
+
+msgid  "faq"
+msgstr  "FAQ"
+
+msgid  "faqpage"
+msgstr  "Project:FAQ"
+
+msgid  "errorpagetitle"
+msgstr  "Erro"
+
+msgid  "returnto"
+msgstr  "Retornar pa $1."
+
+msgid  "tagline"
+msgstr  "De {{SITENAME}}"
+
+msgid  "help"
+msgstr  "Ajuda"
+
+msgid  "search"
+msgstr  "Percura"
+
+msgid  "searchbutton"
+msgstr  "Percurar"
+
+msgid  "go"
+msgstr  "Bota"
+
+msgid  "searcharticle"
+msgstr  "Bota"
+
+msgid  "history"
+msgstr  "Stórico de la Páigina"
+
+msgid  "history_short"
+msgstr  "Stórico"
+
+msgid  "info_short"
+msgstr  "Anformaçon"
+
+msgid  "printableversion"
+msgstr  "Berson pa Ampremir"
+
+msgid  "permalink"
+msgstr  "Lhigaçon pa siempre"
+
+msgid  "print"
+msgstr  "Ampremir"
+
+msgid  "edit"
+msgstr  "Eiditar"
+
+msgid  "create"
+msgstr  "Criar"
+
+msgid  "editthispage"
+msgstr  "Eiditar esta páigina"
+
+msgid  "create-this-page"
+msgstr  "Criar esta páigina"
+
+msgid  "delete"
+msgstr  "Botar fuora"
+
+msgid  "deletethispage"
+msgstr  "Apagar esta páigina"
+
+msgid  "protect"
+msgstr  "Porteger"
+
+msgid  "protect_change"
+msgstr  "demudar"
+
+msgid  "protectthispage"
+msgstr  "Porteger esta páigina"
+
+msgid  "unprotect"
+msgstr  "Çporteger"
+
+msgid  "unprotectthispage"
+msgstr  "Çporteger esta páigina"
+
+msgid  "newpage"
+msgstr  "Nuoba páigina"
+
+msgid  "talkpage"
+msgstr  "Çcutir esta páigina"
+
+msgid  "talkpagelinktext"
+msgstr  "Cumbersar"
+
+msgid  "specialpage"
+msgstr  "Páigina special"
+
+msgid  "personaltools"
+msgstr  "Ferramientas pessonales"
+
+msgid  "postcomment"
+msgstr  "Nuobo cacho"
+
+msgid  "articlepage"
+msgstr  "Ber páigina de cuntenido"
+
+msgid  "talk"
+msgstr  "Çcusson"
+
+msgid  "views"
+msgstr  "Besitas"
+
+msgid  "toolbox"
+msgstr  "Caixa de Ferramientas"
+
+msgid  "userpage"
+msgstr  "Ber páigina de outelizador"
+
+msgid  "imagepage"
+msgstr  "Ber páigina de fexeiro"
+
+msgid  "mediawikipage"
+msgstr  "Ber páigina de mensaiges"
+
+msgid  "templatepage"
+msgstr  "Ber páigina de modelos"
+
+msgid  "viewhelppage"
+msgstr  "Ber páigina de ajuda"
+
+msgid  "viewtalkpage"
+msgstr  "Ber çcusson"
+
+msgid  "otherlanguages"
+msgstr  "Outras lhénguas"
+
+msgid  "redirectedfrom"
+msgstr  "(Ancaminamiento de <b>$1</b>)"
+
+msgid  "redirectpagesub"
+msgstr  "Páigina de ancaminamiento"
+
+msgid  "lastmodifiedat"
+msgstr  "Esta páigina fui demudada pula redadeira beç a las $2 de $1."
+
+msgid  "protectedpage"
+msgstr  "Páigina portegida"
+
+msgid  "jumpto"
+msgstr  "Saltar pa:"
+
+msgid  "jumptonavigation"
+msgstr  "nabegaçon"
+
+msgid  "jumptosearch"
+msgstr  "percura"
+
+msgid  "aboutsite"
+msgstr  "Subre {{SITENAME}}"
+
+msgid  "aboutpage"
+msgstr  "Project:Subre"
+
+msgid  "copyright"
+msgstr  "Cuntenido çponible subre la lhicença $1."
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:Dreitos de outor"
+
+msgid  "currentevents"
+msgstr  "Amboras atuales"
+
+msgid  "currentevents-url"
+msgstr  "Project:Amboras atuales"
+
+msgid  "disclaimers"
+msgstr  "Abiso de Cuntenido"
+
+msgid  "disclaimerpage"
+msgstr  "Project:Abiso giral"
+
+msgid  "edithelp"
+msgstr  "Ajuda de eidiçon"
+
+msgid  "edithelppage"
+msgstr  "Help:Eiditar"
+
+msgid  "helppage"
+msgstr  "Help:Cuntenidos"
+
+msgid  "mainpage"
+msgstr  "Páigina Percipal"
+
+msgid  "mainpage-description"
+msgstr  "Páigina Percipal"
+
+msgid  "policy-url"
+msgstr  "Project:Políticas"
+
+msgid  "portal"
+msgstr  "Portal da quemunidade"
+
+msgid  "portal-url"
+msgstr  "Project:Portal de la quemunidade"
+
+msgid  "privacy"
+msgstr  "Política de pribacidade"
+
+msgid  "privacypage"
+msgstr  "Project:Política de pribacidade"
+
+msgid  "badaccess"
+msgstr  "Erro de premisson"
+
+msgid  "versionrequired"
+msgstr  "Ye percisa la beson $1 de l MediaWiki"
+
+msgid  "ok"
+msgstr  "OK"
+
+msgid  "retrievedfrom"
+msgstr  "Sacado an \"$1\""
+
+msgid  "youhavenewmessages"
+msgstr  "Tu tenes $1 ($2)."
+
+msgid  "newmessageslink"
+msgstr  "nuobas mensaiges"
+
+msgid  "newmessagesdifflink"
+msgstr  "redadeira altaraçon"
+
+msgid  "youhavenewmessagesmulti"
+msgstr  "Tenes nuobas mensaiges an $1"
+
+msgid  "editsection"
+msgstr  "eiditar"
+
+msgid  "editold"
+msgstr  "eiditar"
+
+msgid  "viewsourceold"
+msgstr  "ber código"
+
+msgid  "editlink"
+msgstr  "eiditar"
+
+msgid  "viewsourcelink"
+msgstr  "ber código"
+
+msgid  "editsectionhint"
+msgstr  "Eiditar cacho: $1"
+
+msgid  "toc"
+msgstr  "Tabela de cuntenido"
+
+msgid  "showtoc"
+msgstr  "amostrar"
+
+msgid  "hidetoc"
+msgstr  "scunder"
+
+msgid  "thisisdeleted"
+msgstr  "Ber ó restourar $1?"
+
+msgid  "viewdeleted"
+msgstr  "Ber $1?"
+
+msgid  "restorelink"
+msgstr  "{{PLURAL:$1|ua eidiçon apagada|$1 eidiçones apagadas}}"
+
+msgid  "feedlinks"
+msgstr  "Feed:"
+
+msgid  "site-rss-feed"
+msgstr  "Feed RSS $1"
+
+msgid  "site-atom-feed"
+msgstr  "Feed Atom $1"
+
+msgid  "page-rss-feed"
+msgstr  "Feed RSS de \"$1\""
+
+msgid  "page-atom-feed"
+msgstr  "Feed Atom de \"$1\""
+
+msgid  "red-link-title"
+msgstr  "$1 (la páigina nun eisiste)"
+
+msgid  "nstab-main"
+msgstr  "Páigina"
+
+msgid  "nstab-user"
+msgstr  "Páigina de l outelizador"
+
+msgid  "nstab-media"
+msgstr  "Páigina de média"
+
+msgid  "nstab-special"
+msgstr  "Páigina special"
+
+msgid  "nstab-project"
+msgstr  "Páigina de porjeto"
+
+msgid  "nstab-image"
+msgstr  "Fexeiro"
+
+msgid  "nstab-mediawiki"
+msgstr  "Mensaige"
+
+msgid  "nstab-template"
+msgstr  "Modelo"
+
+msgid  "nstab-help"
+msgstr  "Páigina d'ajuda"
+
+msgid  "nstab-category"
+msgstr  "Catadorie"
+
+msgid  "nosuchaction"
+msgstr  "Acion nun eisiste"
+
+msgid  "nosuchspecialpage"
+msgstr  "Nun eisiste la páigina special que pediste"
+
+msgid  "error"
+msgstr  "Erro"
+
+msgid  "databaseerror"
+msgstr  "Erro na base de dados"
+
+msgid  "laggedslavemode"
+msgstr  "Abiso: La páigina poderá nun cuntener las redadeiras atualizaçones."
+
+msgid  "readonly"
+msgstr  "Base de dados bloquiada"
+
+msgid  "missing-article"
+msgstr  "La base de dados nun achou l testo dua páigina que deberie tener achado, cul nome \"$1\" $2.\n\nEsto normalmente ye por bias de la besita a ua lhigaçon zatualizada ó de stória dua páigina que fui apagada.\n\nSe nun fur este l causo, tu puodes tener ancuntrado algun porblema ne l software.\nPor fabor, diç esto a un [[Special:ListUsers/sysop|admenistrador]], dezindo la lhigaçon."
+
+msgid  "missingarticle-rev"
+msgstr  "(rebison#: $1)"
+
+msgid  "missingarticle-diff"
+msgstr  "(Dif.: $1, $2)"
+
+msgid  "internalerror"
+msgstr  "Erro anterno"
+
+msgid  "internalerror_info"
+msgstr  "Erro anterno: $1"
+
+msgid  "filecopyerror"
+msgstr  "Nun fui possible copiar l fexeiro \"$1\" pa \"$2\"."
+
+msgid  "filerenameerror"
+msgstr  "Nun fui possible renomear l fexeiro \"$1\" pa \"$2\"."
+
+msgid  "filedeleteerror"
+msgstr  "Nun fui possible apagar l fexeiro \"$1\"."
+
+msgid  "directorycreateerror"
+msgstr  "Nun fui possible criar la diretorie \"$1\"."
+
+msgid  "filenotfound"
+msgstr  "Nun fui possible achar l fexeiro \"$1\"."
+
+msgid  "fileexistserror"
+msgstr  "Nun fui possible grabar ne l fexeiro \"$1\": yá eisiste"
+
+msgid  "unexpected"
+msgstr  "Balor nun sperado: \"$1\"=\"$2\"."
+
+msgid  "formerror"
+msgstr  "Erro: Nun fui possible ambiar l formulário"
+
+msgid  "badarticleerror"
+msgstr  "Esta acion nun puode ser feita nesta páigina."
+
+msgid  "badtitle"
+msgstr  "Títalo ambálido"
+
+msgid  "badtitletext"
+msgstr  "La páigina que pediste ye ambálida, bazia, ó ua lhigaçon mal feita dun títalo antre-lhéngua ó antre-biqui.\nPuode tener un ó mais carateres que nun puoden ser outelizados an títalos."
+
+msgid  "viewsource"
+msgstr  "Ber código"
+
+msgid  "viewsourcefor"
+msgstr  "pa $1"
+
+msgid  "actionthrottled"
+msgstr  "Acion lhemitada"
+
+msgid  "viewsourcetext"
+msgstr  "Tu puodes ber i copiar l código desta páigina:"
+
+msgid  "virus-scanfailed"
+msgstr  "la berificaçon falhou (código $1)"
+
+msgid  "virus-unknownscanner"
+msgstr  "antibírus çcoincido:"
+
+msgid  "yourname"
+msgstr  "Nome de Outelizador"
+
+msgid  "yourpassword"
+msgstr  "Palabra chabe"
+
+msgid  "yourpasswordagain"
+msgstr  "Repite la tue palabra-chabe"
+
+msgid  "remembermypassword"
+msgstr  "Lhembrar-se de mi neste cumputador (for a maximum of $1 {{PLURAL:$1|day|days}})"
+
+msgid  "yourdomainname"
+msgstr  "L tou domínio"
+
+msgid  "login"
+msgstr  "Antrar"
+
+msgid  "nav-login-createaccount"
+msgstr  "Antrar / criar cuonta"
+
+msgid  "loginprompt"
+msgstr  "Tenes que tener ls <i>cookies</i> atibos para te outenticares an{{SITENAME}}."
+
+msgid  "userlogin"
+msgstr  "Antrar / criar cuonta"
+
+msgid  "logout"
+msgstr  "Salir"
+
+msgid  "userlogout"
+msgstr  "Salir"
+
+msgid  "notloggedin"
+msgstr  "Por outenticar"
+
+msgid  "nologin"
+msgstr  "Nun tenes ua cuonta? '''$1'''."
+
+msgid  "nologinlink"
+msgstr  "Criar ua cuonta"
+
+msgid  "createaccount"
+msgstr  "Criar nuoba cuonta"
+
+msgid  "gotaccount"
+msgstr  "Yá tenes ua cuonta? '''$1'''."
+
+msgid  "gotaccountlink"
+msgstr  "Antrar"
+
+msgid  "createaccountmail"
+msgstr  "por morada eiletrónica"
+
+msgid  "loginerror"
+msgstr  "Erro de outenticaçon"
+
+msgid  "loginsuccesstitle"
+msgstr  "Antreste cumo debe de ser"
+
+msgid  "loginsuccess"
+msgstr  "'''Stás agora lhigado a {{SITENAME}} cumo \"$1\"'''."
+
+msgid  "nosuchuser"
+msgstr  "Num eisiste nanhun outelizador cul nome \"$1\".\nLs nomes de outelizador son defrentes an lhetra grande ó pequeinha.\nBei cumo screbiste, ó [[Special:UserLogin/signup|cria ua nuoba cuonta]]."
+
+msgid  "nosuchusershort"
+msgstr  "Nun eisiste nanhun outelizador cul nome \"<nowiki>$1</nowiki>\".\nBei se l screbiste bien."
+
+msgid  "nouserspecified"
+msgstr  "Tenes que dezir un nome de outelizador."
+
+msgid  "wrongpassword"
+msgstr  "La palabra chabe ye ambálida.\nPor fabor, spurmenta outra beç."
+
+msgid  "wrongpasswordempty"
+msgstr  "Tenes que poner la palabra chabe.\nPor fabor, spurmenta outra beç."
+
+msgid  "passwordtooshort"
+msgstr  "La tue palabra chabe ye ambálida ó mui pequeinha.\nDebe de tener pul menos {{PLURAL:$1|1 caracter|$1 caracteres}}."
+
+msgid  "password-name-match"
+msgstr  "La tue palabra-chabe ten que ser defrente de l tou nome de outelizador."
+
+msgid  "mailmypassword"
+msgstr  "Ambiar nuoba palabra chabe por carta eiletrónica"
+
+msgid  "passwordremindertitle"
+msgstr  "Nuoba palabra chabe temporária an {{SITENAME}}"
+
+msgid  "passwordremindertext"
+msgstr  "Alguém (l mais cierto tu, a partir de la morada de IP $1) pediu que le fusse ambiada ua nouba palabra-chabe pa {{SITENAME}} ($4).\nFui criada ua palabra-chabe temporária pa l outelizador \"$2\", i fui puosta outra beç cumo \"$3\". Causo tengas feito cun este perpósito, entra na tue cuonta i scolhe ua nouba palabra-chabe agora.\nLa tue palabra-chabe temporária queda fuora de balidade {{PLURAL:$5|nun die|an $5 dies}}.\n\nCauso tenga sido outra pessona a fazer este pedido, ó causo tu yá te tengas lhembrado de la palabra-chabe i nun queiras demudar-la, squece esta mensaige i cuntina a outelizar la palabra-chabe antiga."
+
+msgid  "noemail"
+msgstr  "Nun eisiste morada eiletrónica pa l outelizador \"$1\"."
+
+msgid  "passwordsent"
+msgstr  "Ua nuoba palabra chabe stá a ambiada pa la morada de correio eiletrónico de l outelizador \"$1\".\nPor fabor, bolta a fazer la outenticaçon al recebir-la."
+
+msgid  "eauthentsent"
+msgstr  "Ua carta eiletrónica de cunfirmaçon fui ambiada pa la morada de correio eiletrónico nomeada.\nAntes de qualquier outra carta eiletrónica seia ambiada pa la cuonta, terás de seguir las anstruçones na carta eiletrónica,\nde modo a cunfirmar que la cuonta ye mesmo la tue."
+
+msgid  "mailerror"
+msgstr  "Erro al ambiar la carta eiletrónica: $1"
+
+msgid  "emailconfirmlink"
+msgstr  "Cunfirma la tue morada de correio eiletrónico"
+
+msgid  "loginlanguagelabel"
+msgstr  "Lhéngua: $1"
+
+msgid  "resetpass"
+msgstr  "Demudar palabra-chabe"
+
+msgid  "retypenew"
+msgstr  "Pon outra beç la nuoba palabra chabe:"
+
+msgid  "bold_sample"
+msgstr  "Testo carregado"
+
+msgid  "bold_tip"
+msgstr  "Testo a negrito"
+
+msgid  "italic_sample"
+msgstr  "Testo eitálico"
+
+msgid  "italic_tip"
+msgstr  "Testo an eitálico"
+
+msgid  "link_sample"
+msgstr  "Títalo de la lhigaçon"
+
+msgid  "link_tip"
+msgstr  "Lhigaçon anterna"
+
+msgid  "extlink_sample"
+msgstr  "http://www.example.com títalo de la lhigaçon"
+
+msgid  "extlink_tip"
+msgstr  "Lhigaçon sterna (lembra-te de l perfixo http://)"
+
+msgid  "headline_sample"
+msgstr  "Testo de cabeçailho"
+
+msgid  "headline_tip"
+msgstr  "Cacho de nible 2"
+
+msgid  "math_sample"
+msgstr  "Poner fórmula eiqui"
+
+msgid  "math_tip"
+msgstr  "Fórmula matemática (LaTeX)"
+
+msgid  "nowiki_sample"
+msgstr  "Poner testo nun-formatado eiqui"
+
+msgid  "nowiki_tip"
+msgstr  "Nun fazer causo de la formataçon biqui"
+
+msgid  "image_tip"
+msgstr  "Fexeiro ambutido"
+
+msgid  "media_tip"
+msgstr  "Lhigaçon pa fexeiro"
+
+msgid  "sig_tip"
+msgstr  "La tue assinatura, cun hora i data"
+
+msgid  "hr_tip"
+msgstr  "Lhinha hourizontal (outeliza cun regra)"
+
+msgid  "summary"
+msgstr  "Sumário:"
+
+msgid  "subject"
+msgstr  "Assunto/cabeçailho:"
+
+msgid  "minoredit"
+msgstr  "Marcar cumo eidiçon pequerrixa"
+
+msgid  "watchthis"
+msgstr  "Ber esta páigina"
+
+msgid  "savearticle"
+msgstr  "Grabar páigina"
+
+msgid  "preview"
+msgstr  "Ber cumo queda"
+
+msgid  "showpreview"
+msgstr  "Ber cumo queda"
+
+msgid  "showdiff"
+msgstr  "Amostrar altaraçones"
+
+msgid  "anoneditwarning"
+msgstr  "'''Abiso''': Tu nun stás outenticado. L tou IP será registrado ne l stórico de las eidiçones desta páigina."
+
+msgid  "summary-preview"
+msgstr  "Amostra de l sumário:"
+
+msgid  "blockedtext"
+msgstr  "L tou nome d'outelizador ó morada de IP foi bloquiada\n\nL bloqueio fui feito por $1. La rezon fui ''$2''.\n\n* Ampeço de l bloqueio: $8\n* Balidade de l bloqueio: $6\n* Çtino de l bloqueio: $7\n\nTu puodes cuntatar $1 ó outro [[{{MediaWiki:Grouppage-sysop}}|admenistrador]] pa çcutir subre l bloqueio.\n\nBei que nun poderás outelizar la funcionalidade \"Cuntatar outelizador\" se nun tubires ua counta neste wiki ({{SITENAME}}) cun ua morada eiletrónica bálida andicada an las tues [[Special:Preferences|preferéncias d'outelizador]] i se tubires sido bloquiado de outelizar essa ferramienta.\n\nLa tue morada de IP atual ye $3 i l ID de l bloqueio ye $5. Por fabor, anclui un deilhes (ó dambos ls dous) dados an qualquier tentatibas de sclarecimentos."
+
+msgid  "loginreqtitle"
+msgstr  "Outenticaçon oubrigatória"
+
+msgid  "loginreqlink"
+msgstr  "antrar"
+
+msgid  "loginreqpagetext"
+msgstr  "Percisas de $1 pa poder ber outras páiginas."
+
+msgid  "accmailtitle"
+msgstr  "Palabra-chabe ambiada."
+
+msgid  "accmailtext"
+msgstr  "Ua palabra-chabe criada al calhas pa [[User talk:$1|$1]] fui ambiada pa $2.\n\nLa palabra-chabe para esta nuoba cuonta puode ser demudada na páigina pa ''[[Special:ChangePassword|demudar palabra-chabe]]'' apuis de la outenticaçon."
+
+msgid  "newarticle"
+msgstr  "(Nuoba)"
+
+msgid  "newarticletext"
+msgstr  "Tu bejiteste ua lhigaçon para ua páigina que inda nun eisiste.\nPara criar la páigina, ampeça a screbir an la caixa ambaixo (bei la [[{{MediaWiki:Helppage}}|páigina de ajuda]] pa mais detailhes).\nSe stás eiqui por anganho, carrega ne l boton '''retornar''' de l tou nabegador de la Anternete."
+
+msgid  "noarticletext"
+msgstr  "Nun hai neste sfergante testo nesta páigina.\nTu puodes [[Special:Search/{{PAGENAME}}|percurar pul títalo desta páigina]] noutras páiginas,\n<span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} percurar ls registros que téngan a ber],\nó [{{fullurl:{{FULLPAGENAME}}|action=edit}} eiditar esta páigina]</span>."
+
+msgid  "note"
+msgstr  "'''Abiso:'''"
+
+msgid  "previewnote"
+msgstr  "'''Esto ye solo ua amostra; las altaraçones inda nun fúrun grabadas!'''"
+
+msgid  "editing"
+msgstr  "A eiditar $1"
+
+msgid  "editingsection"
+msgstr  "A eiditar $1 (cacho)"
+
+msgid  "yourtext"
+msgstr  "L tou testo"
+
+msgid  "storedversion"
+msgstr  "berson guardada"
+
+msgid  "copyrightwarning"
+msgstr  "Por fabor, bei que todas las tues cuntribuiçones an {{SITENAME}} son cunsideradas cumo feitas ne ls termos de la lhicença $2 (bei $1 pa detailhes). Se nun quieres que l tou testo seia eiditado sin piedade i reçtribuído cunsante la gana, nun l ambies.<br />\nTu stás, al mesmo tiempo, a garantir-mos qu'esto ye algo screbido por ti, ó algo copiado d'ua fuonte de testos an domínio público ó parecido de teor lhibre.\n'''NUN AMBIES TRABALHO PORTEGIDO POR DREITOS D'OUTOR SIEN L DEBIDO PERMISSO!'''"
+
+msgid  "templatesused"
+msgstr  "{{PLURAL:$1|Modelo ousado|Modelos ousados}} nesta páigina:"
+
+msgid  "templatesusedpreview"
+msgstr  "{{PLURAL:$1|Modelo outelizado|Modelos outelizados}} neste amostra:"
+
+msgid  "template-protected"
+msgstr  "(portegida)"
+
+msgid  "template-semiprotected"
+msgstr  "(semi-protegida)"
+
+msgid  "hiddencategories"
+msgstr  "Esta páigina faç parte {{PLURAL:$1|dua catadorie scundida|$1 duas catadories scundidas}}:"
+
+msgid  "nocreatetext"
+msgstr  "{{SITENAME}} tem restringida la possibilidade de criar nuobas páginas.\nPode boltar atrás i editar unha página yá eisistente, o [[Special:UserLogin|autenticar-se o criar unha cuonta]]."
+
+msgid  "permissionserrorstext-withaction"
+msgstr  "Tu nun tenes premisson pa $2, {{PLURAL:$1|pula seguinte rezon|pulas seguintes rezones}}:"
+
+msgid  "recreate-moveddeleted-warn"
+msgstr  "Abiso: Tu stás a criar ua páigina que yá fui d'atrás botada fuora.'''\n\nBei bien se ye própio cuntinar a eiditar esta páigina.\nL registro de la eileminaçon i de l arrastrar ye amostrado eiqui por cumbeniéncia:"
+
+msgid  "moveddeleted-notice"
+msgstr  "Esta páigina fui apagada.\nL registro de la eileminaçon i de l arrastrar stá ambaixo pa refréncia."
+
+msgid  "viewpagelogs"
+msgstr  "Ber registros pa esta páigina"
+
+msgid  "currentrev"
+msgstr  "Rebison atual"
+
+msgid  "currentrev-asof"
+msgstr  "Eidiçon atual cumo $1"
+
+msgid  "revisionasof"
+msgstr  "Eidiçon cumo la de $1"
+
+msgid  "revision-info"
+msgstr  "Rebison de $1 por $2"
+
+msgid  "previousrevision"
+msgstr  "← Berson d'atrás"
+
+msgid  "nextrevision"
+msgstr  "Berson mais nuoba→"
+
+msgid  "currentrevisionlink"
+msgstr  "Ber berson atual"
+
+msgid  "cur"
+msgstr  "atu"
+
+msgid  "last"
+msgstr  "redadeiro"
+
+msgid  "page_first"
+msgstr  "purmeira"
+
+msgid  "page_last"
+msgstr  "redadeira"
+
+msgid  "histlegend"
+msgstr  "Scuolhe de defrénça: marca las caixas an ua de las bersones que queiras cumparar i carrega ne l boton.<br />\nLegenda: (atu) = defrénças de la berson atual,\n(red) = defrénça de la redadeira berson, m = eidiçon pequerrixa"
+
+msgid  "history-fieldset-title"
+msgstr  "Nabegar pul stórico"
+
+msgid  "histfirst"
+msgstr  "Mais antigas"
+
+msgid  "histlast"
+msgstr  "Redadeiras"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$1 a $2"
+
+msgid  "rev-delundel"
+msgstr  "amostrar/scunder"
+
+msgid  "revdel-restore"
+msgstr  "Demudar besiblidade"
+
+msgid  "revdelete-content"
+msgstr  "cuntenido"
+
+msgid  "revdelete-uname"
+msgstr  "nome de outelizador"
+
+msgid  "mergehistory-submit"
+msgstr  "Misturar eidiçones"
+
+msgid  "revertmerge"
+msgstr  "Çfazer ounion"
+
+msgid  "history-title"
+msgstr  "Stórico de eidiçones de \"$1\""
+
+msgid  "difference"
+msgstr  "(Defréncias antre rebisones)"
+
+msgid  "lineno"
+msgstr  "Lhinha $1:"
+
+msgid  "compareselectedversions"
+msgstr  "Cumparar las bersones marcadas"
+
+msgid  "showhideselectedversions"
+msgstr  "Amostrar/ocultar bersones selecionadas"
+
+msgid  "editundo"
+msgstr  "çfazer"
+
+msgid  "diff-multi"
+msgstr  "({{PLURAL:$1|ua eidiçon antermédia nun stá a ser amostrada|$1 eidiçones antermédias nun stan a ser amostradas}}.)"
+
+msgid  "searchresults"
+msgstr  "Resultados de la percura"
+
+msgid  "searchresults-title"
+msgstr  "Resultados de la percura por \"$1\""
+
+msgid  "searchresulttext"
+msgstr  "Pa mais anformaçones subre cumo percurar an {{SITENAME}}, bei [[{{MediaWiki:Helppage}}|{{int:help}}]]."
+
+msgid  "searchsubtitle"
+msgstr  "Tu percureste por '''[[:$1]]''' ([[Special:Prefixindex/$1|páiginas ampeçadas por \"$1\"]]{{int:pipe-separator}}[[Special:WhatLinksHere/$1|páiginas que apuntan pa \"$1\"]])"
+
+msgid  "searchsubtitleinvalid"
+msgstr  "Tu percureste por \"$1\""
+
+msgid  "notitlematches"
+msgstr  "Nanhun títalo de páigina bate cierto cula percura"
+
+msgid  "notextmatches"
+msgstr  "Nun fui possible achar, ne l cuntenido de las páiginas, la palabra percurada"
+
+msgid  "prevn"
+msgstr  "anteriores {{PLURAL:$1|$1}}"
+
+msgid  "nextn"
+msgstr  "próssimos {{PLURAL:$1|$1}}"
+
+msgid  "viewprevnext"
+msgstr  "Ber ($1 {{int:pipe-separator}} $2) ($3)"
+
+msgid  "searchhelp-url"
+msgstr  "Help:Conteúdos"
+
+msgid  "searchprofile-images"
+msgstr  "Multimédia"
+
+msgid  "searchprofile-everything"
+msgstr  "Todo"
+
+msgid  "searchprofile-advanced"
+msgstr  "Abançado"
+
+msgid  "search-result-size"
+msgstr  "$1 ({{PLURAL:$2|1 palabra|$2 palabras}})"
+
+msgid  "search-redirect"
+msgstr  "(ancaminamiento pa $1)"
+
+msgid  "search-section"
+msgstr  "(cacho $1)"
+
+msgid  "search-suggest"
+msgstr  "Será que queries dezir: $1"
+
+msgid  "search-interwiki-caption"
+msgstr  "Porjetos armanos"
+
+msgid  "search-interwiki-default"
+msgstr  "Resultados de $1:"
+
+msgid  "search-interwiki-more"
+msgstr  "(mais)"
+
+msgid  "search-mwsuggest-enabled"
+msgstr  "cun sugestones"
+
+msgid  "search-mwsuggest-disabled"
+msgstr  "sien sugestones"
+
+msgid  "searchall"
+msgstr  "todos"
+
+msgid  "nonefound"
+msgstr  "'''Abiso''': solo alguns spácios nominales son percurados por oumisson. Spurmenta outelizar l perfixo ''all:'' na percura, pa percurar por todos ls cuntenidos desta Biqui (até páiginas de çcusson, modelos etc), ó mesmo, outelizando l spácio nominal que queiras cumo perfixo."
+
+msgid  "powersearch"
+msgstr  "Percura Abançada"
+
+msgid  "powersearch-legend"
+msgstr  "Percura abançada"
+
+msgid  "powersearch-ns"
+msgstr  "Percurar ne ls spácios nominales:"
+
+msgid  "powersearch-redir"
+msgstr  "Listar ancaminamientos"
+
+msgid  "powersearch-field"
+msgstr  "Percurar"
+
+msgid  "preferences"
+msgstr  "Perfréncias"
+
+msgid  "mypreferences"
+msgstr  "Las mies perfréncias"
+
+msgid  "prefs-skin"
+msgstr  "Maçcarilha"
+
+msgid  "skin-preview"
+msgstr  "Amostrar"
+
+msgid  "prefs-math"
+msgstr  "Matemática"
+
+msgid  "prefs-datetime"
+msgstr  "Data i hora"
+
+msgid  "prefs-personal"
+msgstr  "Calantriç"
+
+msgid  "prefs-rc"
+msgstr  "Redadeiras alteraçones"
+
+msgid  "saveprefs"
+msgstr  "Grabar"
+
+msgid  "prefs-editing"
+msgstr  "Oupçones de eidiçon"
+
+msgid  "rows"
+msgstr  "Lhinhas:"
+
+msgid  "servertime"
+msgstr  "Hora de l serbidor:"
+
+msgid  "timezoneregion-africa"
+msgstr  "África"
+
+msgid  "timezoneregion-america"
+msgstr  "América"
+
+msgid  "timezoneregion-antarctica"
+msgstr  "Antártida"
+
+msgid  "timezoneregion-arctic"
+msgstr  "Ártico"
+
+msgid  "timezoneregion-asia"
+msgstr  "Ásia"
+
+msgid  "timezoneregion-atlantic"
+msgstr  "Ouceano Atlântico"
+
+msgid  "timezoneregion-australia"
+msgstr  "Oustrália"
+
+msgid  "timezoneregion-europe"
+msgstr  "Ouropa"
+
+msgid  "timezoneregion-indian"
+msgstr  "Ouceano Índico"
+
+msgid  "timezoneregion-pacific"
+msgstr  "Ouceano Pacífico"
+
+msgid  "default"
+msgstr  "defeito"
+
+msgid  "prefs-files"
+msgstr  "Fexeiros"
+
+msgid  "prefs-emailconfirm-label"
+msgstr  "Cunfirmaçon de l correio eiletrónico:"
+
+msgid  "youremail"
+msgstr  "Morada de correio eiletrónico:"
+
+msgid  "username"
+msgstr  "Nome de outelizador:"
+
+msgid  "uid"
+msgstr  "Númaro de eidentificaçon:"
+
+msgid  "prefs-memberingroups"
+msgstr  "Nembro {{PLURAL:$1|de l grupo|de ls grupos}}:"
+
+msgid  "yourrealname"
+msgstr  "Nome berdadeiro:"
+
+msgid  "yourlanguage"
+msgstr  "Lhéngua:"
+
+msgid  "yournick"
+msgstr  "Assinatura:"
+
+msgid  "yourgender"
+msgstr  "Sexo:"
+
+msgid  "gender-unknown"
+msgstr  "Nun specificado"
+
+msgid  "gender-male"
+msgstr  "Home"
+
+msgid  "gender-female"
+msgstr  "Mulhier"
+
+msgid  "email"
+msgstr  "Morada Eiletrónica"
+
+msgid  "prefs-help-realname"
+msgstr  "L nome berdadeiro ye oupcional.\nCauso l çponiblizes, este será outelizado pa te dar crédito pul tou trabalho."
+
+msgid  "prefs-signature"
+msgstr  "Assinatura"
+
+msgid  "prefs-dateformat"
+msgstr  "Formato de la data"
+
+msgid  "editusergroup"
+msgstr  "Eiditar grupos de outelizadores"
+
+msgid  "userrights-groupsmember"
+msgstr  "Nembro de:"
+
+msgid  "group"
+msgstr  "Grupo:"
+
+msgid  "group-user"
+msgstr  "Outelizadores"
+
+msgid  "group-bot"
+msgstr  "Rubós"
+
+msgid  "group-sysop"
+msgstr  "Admenistradores"
+
+msgid  "group-bureaucrat"
+msgstr  "Burocratas"
+
+msgid  "group-bot-member"
+msgstr  "Rubó"
+
+msgid  "group-sysop-member"
+msgstr  "Admenistrador"
+
+msgid  "group-bureaucrat-member"
+msgstr  "Burocrata"
+
+msgid  "grouppage-bot"
+msgstr  "{{ns:project}}:Rubós"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:Admenistradores"
+
+msgid  "right-edit"
+msgstr  "Eiditar páiginas"
+
+msgid  "right-move"
+msgstr  "Arrastrar páiginas"
+
+msgid  "right-movefile"
+msgstr  "Arrastrar fexeiros"
+
+msgid  "rightslog"
+msgstr  "Registro de dreitos de l outelizador"
+
+msgid  "rightsnone"
+msgstr  "(nanhun)"
+
+msgid  "action-read"
+msgstr  "lher esta páigina"
+
+msgid  "action-edit"
+msgstr  "eiditar esta páigina"
+
+msgid  "action-createpage"
+msgstr  "criar páiginas"
+
+msgid  "action-move"
+msgstr  "arrastrar esta páigina"
+
+msgid  "action-movefile"
+msgstr  "arrastrar este fexeiro"
+
+msgid  "action-delete"
+msgstr  "apagar esta páigina"
+
+msgid  "nchanges"
+msgstr  "$1 {{PLURAL:$1|altaraçon|altaraçones}}"
+
+msgid  "recentchanges"
+msgstr  "Redadeiras altaraçones"
+
+msgid  "recentchanges-legend"
+msgstr  "Oupçones de las redadeiras altaraçones"
+
+msgid  "recentchanges-feed-description"
+msgstr  "Acumpanha las redadeiras altaraçones de l biqui por esta semiente."
+
+msgid  "rcnote"
+msgstr  "A seguir {{PLURAL:$1|stá listada '''ua''' altaraçon feita|stan '''$1''' altaraçones feitas}} {{PLURAL:$2|ne l redadeiro die|ne ls redadeiros '''$2''' dies}}, a partir de las $5 de $4."
+
+msgid  "rcnotefrom"
+msgstr  "Alteraçones feitas zde <b>$2</b> (amostradas até <b>$1</b>)."
+
+msgid  "rclistfrom"
+msgstr  "Amostrar las noubas altaraçones a partir de $1"
+
+msgid  "rcshowhideminor"
+msgstr  "$1 eidiçones pequerrixas"
+
+msgid  "rcshowhidebots"
+msgstr  "$1 robós"
+
+msgid  "rcshowhideliu"
+msgstr  "$1 outelizadores registrados"
+
+msgid  "rcshowhideanons"
+msgstr  "$1 outelizadores anónimos"
+
+msgid  "rcshowhidepatr"
+msgstr  "$1 eidiçones patrulhadas"
+
+msgid  "rcshowhidemine"
+msgstr  "$1 mies eidiçones"
+
+msgid  "rclinks"
+msgstr  "Amostrar las redadeiras $1 altaraçones ne ls redadeiros $2 dies<br />$3"
+
+msgid  "diff"
+msgstr  "defr"
+
+msgid  "hist"
+msgstr  "stór"
+
+msgid  "hide"
+msgstr  "Scunder"
+
+msgid  "show"
+msgstr  "Amostrar"
+
+msgid  "minoreditletter"
+msgstr  "m"
+
+msgid  "newpageletter"
+msgstr  "N"
+
+msgid  "boteditletter"
+msgstr  "b"
+
+msgid  "rc_categories_any"
+msgstr  "Qualquiera"
+
+msgid  "newsectionsummary"
+msgstr  "/* $1 */ nuobo cacho"
+
+msgid  "rc-enhanced-expand"
+msgstr  "Amostrar detailhes (ye perciso JavaScript)"
+
+msgid  "rc-enhanced-hide"
+msgstr  "Scunder detailhes"
+
+msgid  "recentchangeslinked"
+msgstr  "Altaraçones relacionadas"
+
+msgid  "recentchangeslinked-feed"
+msgstr  "Alterações relacionadas"
+
+msgid  "recentchangeslinked-toolbox"
+msgstr  "Alterações relacionadas"
+
+msgid  "recentchangeslinked-title"
+msgstr  "Altaraçones que ténen a ber cun \"$1\""
+
+msgid  "recentchangeslinked-noresult"
+msgstr  "Nun houbo alteraçones an páiginas relacionadas ne l anterbalo de tiempo."
+
+msgid  "recentchangeslinked-summary"
+msgstr  "Esta páigina special amostra las redadeiras altaraçones de páiginas que téngan ua lhigaçon a outra (ó de nembros dua catadorie speceficada).\nPáiginas que steian ne ls [[Special:Watchlist|tous begiados]] son amostradas an '''negrito'''."
+
+msgid  "recentchangeslinked-page"
+msgstr  "Nome de la páigina:"
+
+msgid  "recentchangeslinked-to"
+msgstr  "Amostrar antes altaraçones a páiginas que téngan a ber cula páigina dada"
+
+msgid  "upload"
+msgstr  "Cargar fexeiro"
+
+msgid  "uploadbtn"
+msgstr  "Cargar fexeiro"
+
+msgid  "uploadlogpage"
+msgstr  "Registro de carregamiento"
+
+msgid  "filename"
+msgstr  "Nome de l fexeiro"
+
+msgid  "filesource"
+msgstr  "Fuonte:"
+
+msgid  "ignorewarnings"
+msgstr  "Eignorar qualquiera abiso"
+
+msgid  "savefile"
+msgstr  "Grabar fexeiro"
+
+msgid  "uploadedimage"
+msgstr  "cargou \"[[$1]]\""
+
+msgid  "watchthisupload"
+msgstr  "Begiar este fexeiro"
+
+msgid  "upload-unknown-size"
+msgstr  "Tamanho çcoincido"
+
+msgid  "upload-curl-error28"
+msgstr  "Ultrapassado l tiempo lhemite pa l ambio de l fexeiro"
+
+msgid  "license"
+msgstr  "Lhicença:"
+
+msgid  "license-header"
+msgstr  "Lhicença:"
+
+msgid  "nolicense"
+msgstr  "Nanhua scolhida"
+
+msgid  "imgfile"
+msgstr  "fexeiro"
+
+msgid  "listfiles"
+msgstr  "Fexeiros"
+
+msgid  "listfiles_date"
+msgstr  "Data"
+
+msgid  "listfiles_name"
+msgstr  "Nome"
+
+msgid  "listfiles_user"
+msgstr  "Outelizador"
+
+msgid  "listfiles_size"
+msgstr  "Tamanho"
+
+msgid  "listfiles_description"
+msgstr  "Çcriçon"
+
+msgid  "file-anchor-link"
+msgstr  "Fexeiro"
+
+msgid  "filehist"
+msgstr  "Stórico de l fexeiro"
+
+msgid  "filehist-help"
+msgstr  "Clique an ua data/hora para ber l fexeiro tal cumo el staba naquel sfergante."
+
+msgid  "filehist-current"
+msgstr  "atual"
+
+msgid  "filehist-datetime"
+msgstr  "Data/Hora"
+
+msgid  "filehist-thumb"
+msgstr  "Amostra"
+
+msgid  "filehist-thumbtext"
+msgstr  "Amostra de la berson de las $1"
+
+msgid  "filehist-user"
+msgstr  "Outelizador"
+
+msgid  "filehist-dimensions"
+msgstr  "Tamanho"
+
+msgid  "filehist-filesize"
+msgstr  "Tamanho de l fexeiro"
+
+msgid  "filehist-comment"
+msgstr  "Comentairo"
+
+msgid  "imagelinks"
+msgstr  "Lhigaçones de Fexeiros"
+
+msgid  "linkstoimage"
+msgstr  "{{PLURAL:$1|Esta páigina lhigan|Estas $1 páiginas lhigan}} este fexeiro:"
+
+msgid  "nolinkstoimage"
+msgstr  "Nanhua páigina apunta pa este fexeiro."
+
+msgid  "sharedupload"
+msgstr  "Este fexeiro ye de $1 i puode ser outelizado por outros porjetos."
+
+msgid  "uploadnewversion-linktext"
+msgstr  "Cargar ua nuoba berson deste fexeiro"
+
+msgid  "shared-repo-from"
+msgstr  "de $1"
+
+msgid  "filerevert-comment"
+msgstr  "Comentairo:"
+
+msgid  "filedelete"
+msgstr  "Apagar $1"
+
+msgid  "filedelete-legend"
+msgstr  "Apagar fexeiro"
+
+msgid  "filedelete-submit"
+msgstr  "Apagar"
+
+msgid  "filedelete-nofile"
+msgstr  "'''$1''' nun eisiste."
+
+msgid  "filedelete-reason-otherlist"
+msgstr  "Outra rezon"
+
+msgid  "mimesearch"
+msgstr  "Percura MIME"
+
+msgid  "listredirects"
+msgstr  "Amostrar ancaminamientos"
+
+msgid  "unusedtemplates"
+msgstr  "Modelos nun outelizados"
+
+msgid  "randompage"
+msgstr  "Páigina al calhas"
+
+msgid  "randomredirect"
+msgstr  "Ancaminamiento al calhas"
+
+msgid  "statistics"
+msgstr  "Statísticas"
+
+msgid  "statistics-pages"
+msgstr  "Páiginas"
+
+msgid  "statistics-views-total"
+msgstr  "Total de bejitas"
+
+msgid  "statistics-users-active"
+msgstr  "Outelizadores atibos"
+
+msgid  "disambiguations"
+msgstr  "Páigina de zambiguaçon"
+
+msgid  "doubleredirects"
+msgstr  "Ancaminamientos duplos"
+
+msgid  "brokenredirects"
+msgstr  "Ancaminamientos scachados"
+
+msgid  "brokenredirects-edit"
+msgstr  "eiditar"
+
+msgid  "brokenredirects-delete"
+msgstr  "Botar fuora"
+
+msgid  "withoutinterwiki"
+msgstr  "Páiginas sin lhigaçones de lhénguas"
+
+msgid  "withoutinterwiki-submit"
+msgstr  "Amostrar"
+
+msgid  "fewestrevisions"
+msgstr  "Páiginas de cuntenido cun menos rebisones"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|byte|bytes}}"
+
+msgid  "nlinks"
+msgstr  "$1 {{PLURAL:$1|lhigaçon|lhigaçones}}"
+
+msgid  "nmembers"
+msgstr  "$1 {{PLURAL:$1|nembro|nembros}}"
+
+msgid  "lonelypages"
+msgstr  "Páiginas uorfanas"
+
+msgid  "uncategorizedpages"
+msgstr  "Páiginas sin catadories"
+
+msgid  "uncategorizedcategories"
+msgstr  "Catadories nun catadorizadas"
+
+msgid  "uncategorizedimages"
+msgstr  "Eimaiges sin catadorie"
+
+msgid  "uncategorizedtemplates"
+msgstr  "Modelos sin catadorie"
+
+msgid  "unusedcategories"
+msgstr  "Catadories nun outelizadas"
+
+msgid  "unusedimages"
+msgstr  "Fexeiros nun outelizados"
+
+msgid  "popularpages"
+msgstr  "Páiginas populares"
+
+msgid  "wantedcategories"
+msgstr  "Catadories pedidas"
+
+msgid  "wantedpages"
+msgstr  "Páiginas pedidas"
+
+msgid  "mostlinked"
+msgstr  "Páiginas mais lhigadas"
+
+msgid  "mostlinkedcategories"
+msgstr  "Catadories cun mais nembros"
+
+msgid  "mostlinkedtemplates"
+msgstr  "Modelos mais populares de lhigaçones"
+
+msgid  "mostcategories"
+msgstr  "Páiginas de cuntenido cun mais catadories"
+
+msgid  "mostimages"
+msgstr  "Eimaiges cun mais refréncias"
+
+msgid  "mostrevisions"
+msgstr  "Páiginas de cuntenido cun mais rebisones"
+
+msgid  "prefixindex"
+msgstr  "Todas las páiginas cun perfixo"
+
+msgid  "shortpages"
+msgstr  "Páiginas pequeinhas"
+
+msgid  "longpages"
+msgstr  "Páiginas cumpridas"
+
+msgid  "deadendpages"
+msgstr  "Páiginas sin salida"
+
+msgid  "protectedpages"
+msgstr  "Páginas protegidas"
+
+msgid  "listusers"
+msgstr  "Lhista de outelizadores"
+
+msgid  "newpages"
+msgstr  "Nuobas páiginas"
+
+msgid  "ancientpages"
+msgstr  "Páiginas mais antigas"
+
+msgid  "move"
+msgstr  "Arrastrar"
+
+msgid  "movethispage"
+msgstr  "Arrastrar esta páigina"
+
+msgid  "pager-newer-n"
+msgstr  "{{PLURAL:$1|1 nuoba|$1 nuobas}}"
+
+msgid  "pager-older-n"
+msgstr  "{{PLURAL:$1|1 atrasada|$1 atrasadas}}"
+
+msgid  "booksources"
+msgstr  "Fuontes de lhibros"
+
+msgid  "booksources-search-legend"
+msgstr  "Percurar por fuontes de libros"
+
+msgid  "booksources-go"
+msgstr  "Bota"
+
+msgid  "specialloguserlabel"
+msgstr  "Outelizador:"
+
+msgid  "speciallogtitlelabel"
+msgstr  "Títalo:"
+
+msgid  "log"
+msgstr  "Registros"
+
+msgid  "all-logs-page"
+msgstr  "Todos ls registros públicos"
+
+msgid  "allpages"
+msgstr  "Todas las páiginas"
+
+msgid  "alphaindexline"
+msgstr  "$1 a $2"
+
+msgid  "nextpage"
+msgstr  "Próssima páigina ($1)"
+
+msgid  "prevpage"
+msgstr  "Páigina d'atrás ($1)"
+
+msgid  "allpagesfrom"
+msgstr  "Amostrar páiginas ampeçando an:"
+
+msgid  "allpagesto"
+msgstr  "Acabar de amostra las páiginas an:"
+
+msgid  "allarticles"
+msgstr  "Todas las páiginas"
+
+msgid  "allpagessubmit"
+msgstr  "Bota"
+
+msgid  "allpagesprefix"
+msgstr  "Amostrar páiginas cul perfixo:"
+
+msgid  "categories"
+msgstr  "Catadories"
+
+msgid  "linksearch"
+msgstr  "Lhigaçones sternas"
+
+msgid  "linksearch-ok"
+msgstr  "Percurar"
+
+msgid  "listusers-submit"
+msgstr  "Amostrar"
+
+msgid  "newuserlogpage"
+msgstr  "Registro de criaçon de outelizadores"
+
+msgid  "newuserlog-create-entry"
+msgstr  "Nuobo outelizador"
+
+msgid  "listgrouprights-rights"
+msgstr  "Dreitos"
+
+msgid  "listgrouprights-members"
+msgstr  "(lista de nembros)"
+
+msgid  "emailuser"
+msgstr  "Ambiar carta eiletrónica a este outelizador"
+
+msgid  "emailfrom"
+msgstr  "De:"
+
+msgid  "emailto"
+msgstr  "Para:"
+
+msgid  "watchlist"
+msgstr  "Ls mius begiados"
+
+msgid  "mywatchlist"
+msgstr  "Las mies páiginas begiadas"
+
+msgid  "addedwatch"
+msgstr  "Ajuntada a las páiginas begiadas"
+
+msgid  "addedwatchtext"
+msgstr  "La páigina \"[[:$1]]\" fui ajuntada a la tue [[Special:Watchlist|lista de páiginas begiadas]].\nAltaraçones feturas na tal páigina i páiginas de çcusson a eilha associadas seran listadas alhá, cun la páigina aparecendo a '''negrito''' na [[Special:RecentChanges|lista de redadeiras altaraçones]], para que se pouda ancuntrar cun maior facelidade."
+
+msgid  "removedwatch"
+msgstr  "Botada fuora de las begiadas"
+
+msgid  "removedwatchtext"
+msgstr  "La páigina \"[[:$1]]\" fui botada fuora de la [[Special:Watchlist|tue lista de páiginas begiadas]]."
+
+msgid  "watch"
+msgstr  "Begiar"
+
+msgid  "watchthispage"
+msgstr  "Begiar esta páigina"
+
+msgid  "unwatch"
+msgstr  "Zantressar-se"
+
+msgid  "watchlist-details"
+msgstr  "{{PLURAL:$1|$1 páigina begiada|$1 páiginas begiadas}}, fuora las páiginas de çcuçon."
+
+msgid  "wlshowlast"
+msgstr  "Ber redadeiras $1 horas $2 dies $3"
+
+msgid  "watchlist-options"
+msgstr  "Oupçones de la lista de begiados"
+
+msgid  "watching"
+msgstr  "A begiar..."
+
+msgid  "unwatching"
+msgstr  "A deixar de begiar..."
+
+msgid  "changed"
+msgstr  "demudada"
+
+msgid  "created"
+msgstr  "criada"
+
+msgid  "deletepage"
+msgstr  "Botar fuora páigina"
+
+msgid  "delete-confirm"
+msgstr  "Botar fuora \"$1\""
+
+msgid  "delete-legend"
+msgstr  "Botar fuora"
+
+msgid  "historywarning"
+msgstr  "Abiso: La páigina que stás quaije a botar fuora ten un stórico:"
+
+msgid  "confirmdeletetext"
+msgstr  "Stás quaije a botar fuora para siempre ua páigina ó ua eimaige i todos ls sous stóricos.\nPor fabor, bei se ye esso que quieres fazer, que antendes las cunsequéncias i se esso stá d'acordo culas [[{{MediaWiki:Policy-url}}|políticas]]."
+
+msgid  "actioncomplete"
+msgstr  "Acion acabada"
+
+msgid  "deletedtext"
+msgstr  "\"<nowiki>$1</nowiki>\" fue elhiminada.\nConsulte $2 para um registo de eliminações recentes."
+
+msgid  "deletedarticle"
+msgstr  "botado pa la rue \"[[$1]]\""
+
+msgid  "dellogpage"
+msgstr  "Registro de botado fuora"
+
+msgid  "deletecomment"
+msgstr  "Rezon:"
+
+msgid  "deleteotherreason"
+msgstr  "Rezon adicional:"
+
+msgid  "deletereasonotherlist"
+msgstr  "Outra rezon"
+
+msgid  "rollbacklink"
+msgstr  "retornar"
+
+msgid  "protectlogpage"
+msgstr  "Registro de porteçon"
+
+msgid  "protectedarticle"
+msgstr  "porteger \"[[$1]]\""
+
+msgid  "modifiedarticleprotection"
+msgstr  "demudeste l nible de porteçon pa \"[[$1]]\""
+
+msgid  "prot_1movedto2"
+msgstr  "[[$1]] foi movido para [[$2]]"
+
+msgid  "protect-legend"
+msgstr  "Confirmar protecçon"
+
+msgid  "protectcomment"
+msgstr  "Rezon:"
+
+msgid  "protectexpiry"
+msgstr  "Data de balidade:"
+
+msgid  "protect_expiry_invalid"
+msgstr  "La data de balidade ye ambálido."
+
+msgid  "protect_expiry_old"
+msgstr  "La data de balidade stá ne l passado."
+
+msgid  "protect-text"
+msgstr  "Tu eiqui puodes ber i demudar ls nibles de porteçon pa esta páigina '''<nowiki>$1</nowiki>'''."
+
+msgid  "protect-locked-access"
+msgstr  "La tue cuonta nun ten permissones pa demudar ls nibles de porteçon dua páigina.\nEsta ye la cunfiguraçon atual pa la páigina '''$1''':"
+
+msgid  "protect-cascadeon"
+msgstr  "Esta páigina ancontra-se portegida, ua beç que se ancontra ancluída {{PLURAL:$1|na páigina listada a seguir, portegida|nas páiginas listadas a seguir, portegidas}} cun la \"porteçon porgressiba\" atibada. Tu puodes demudar l nible de porteçon desta páigina, mas esso nun terá eifeito na \"porteçon an cachon\"."
+
+msgid  "protect-default"
+msgstr  "Premitir todos ls outelizadores"
+
+msgid  "protect-fallback"
+msgstr  "Ye perciso la outorizaçon \"$1\""
+
+msgid  "protect-level-autoconfirmed"
+msgstr  "Bloquiar outelizadores nuobos i por registrar"
+
+msgid  "protect-level-sysop"
+msgstr  "Solo admenistradores"
+
+msgid  "protect-summary-cascade"
+msgstr  "\"an cachon\""
+
+msgid  "protect-expiring"
+msgstr  "termina an $1 (UTC)"
+
+msgid  "protect-cascade"
+msgstr  "Portege qualquiera páigina que steia ancluída nesta (porteçon an cachon)"
+
+msgid  "protect-cantedit"
+msgstr  "Tu nun puodes demudar l nible de porteçon desta páigina, porque tu nun tener outorizaçon pa la eiditar."
+
+msgid  "protect-expiry-options"
+msgstr  "1 hora:1 hour,1 die:1 day,1 sumana:1 week,2 sumanas:2 weeks,1 més:1 month,3 meses:3 months,6 meses:6 months,1 anho:1 year,anfenito:infinite"
+
+msgid  "restriction-type"
+msgstr  "Permisson:"
+
+msgid  "restriction-level"
+msgstr  "Nible de restriçon:"
+
+msgid  "restriction-edit"
+msgstr  "Eiditar"
+
+msgid  "restriction-move"
+msgstr  "Arrastrar"
+
+msgid  "undeletebtn"
+msgstr  "Recuperar"
+
+msgid  "undeletelink"
+msgstr  "ber/restourar"
+
+msgid  "undeletedarticle"
+msgstr  "restourado \"[[$1]]\""
+
+msgid  "namespace"
+msgstr  "Spácio de nomes:"
+
+msgid  "invert"
+msgstr  "Amberter scuolha"
+
+msgid  "blanknamespace"
+msgstr  "(Percipal)"
+
+msgid  "contributions"
+msgstr  "Cuntribuiçones de l outelizador"
+
+msgid  "contributions-title"
+msgstr  "Upas {{GENDER:$1|de l outelizador|de la outelizadora}} $1"
+
+msgid  "mycontris"
+msgstr  "Las mies upas"
+
+msgid  "contribsub2"
+msgstr  "Pa $1 ($2)"
+
+msgid  "uctop"
+msgstr  "(rebison atual)"
+
+msgid  "month"
+msgstr  "De l més (i atrasados):"
+
+msgid  "year"
+msgstr  "De l anho (i atrasados):"
+
+msgid  "sp-contributions-newbies"
+msgstr  "Percurar solo an las cuntribuiçones de nuobas cuontas"
+
+msgid  "sp-contributions-newbies-sub"
+msgstr  "Pa nuobas cuontas"
+
+msgid  "sp-contributions-blocklog"
+msgstr  "Registro de bloqueios"
+
+msgid  "sp-contributions-talk"
+msgstr  "Cumbersa"
+
+msgid  "sp-contributions-search"
+msgstr  "Percurar cuntribuiçones"
+
+msgid  "sp-contributions-username"
+msgstr  "Morada de IP ó outelizador:"
+
+msgid  "sp-contributions-submit"
+msgstr  "Percurar"
+
+msgid  "whatlinkshere"
+msgstr  "L que lhiga eiqui"
+
+msgid  "whatlinkshere-title"
+msgstr  "Páiginas que lhígan a \"$1\""
+
+msgid  "whatlinkshere-page"
+msgstr  "Páigina:"
+
+msgid  "linkshere"
+msgstr  "Estas páiginas ténen lhigaçones pa '''[[:$1]]''':"
+
+msgid  "nolinkshere"
+msgstr  "Nun eisisten lhigaçones pa '''[[:$1]]'''."
+
+msgid  "isredirect"
+msgstr  "páigina de ancaminamiento"
+
+msgid  "istemplate"
+msgstr  "ancluson"
+
+msgid  "isimage"
+msgstr  "lhigaçon d'eimaige"
+
+msgid  "whatlinkshere-prev"
+msgstr  "{{PLURAL:$1|pa trás|$1 pa trás}}"
+
+msgid  "whatlinkshere-next"
+msgstr  "{{PLURAL:$1|próssimo|próssimos $1}}"
+
+msgid  "whatlinkshere-links"
+msgstr  "← lhigaçones"
+
+msgid  "whatlinkshere-hideredirs"
+msgstr  "$1 ancaminamientos"
+
+msgid  "whatlinkshere-hidetrans"
+msgstr  "$1 anclusones"
+
+msgid  "whatlinkshere-hidelinks"
+msgstr  "$1 lhigaçones"
+
+msgid  "whatlinkshere-filters"
+msgstr  "Filtros"
+
+msgid  "blockip"
+msgstr  "Bloquiar outelizador"
+
+msgid  "ipboptions"
+msgstr  "2 horas:2 hours,1 die:1 day,3 dias:3 days,1 sumana:1 week,2 sumanas:2 weeks,1 més:1 month,3 meses:3 months,6 meses:6 months,1 anho:1 year,anfenito:infinite"
+
+msgid  "ipblocklist"
+msgstr  "IPs i outelizadores bloquiados"
+
+msgid  "blocklink"
+msgstr  "bloquiar"
+
+msgid  "unblocklink"
+msgstr  "zbloquiar"
+
+msgid  "change-blocklink"
+msgstr  "altarar bloqueio"
+
+msgid  "contribslink"
+msgstr  "contribs"
+
+msgid  "blocklogpage"
+msgstr  "Registro de l bloqueio"
+
+msgid  "blocklogentry"
+msgstr  "\"[[$1]]\" fui bloquiado cun un tiempo de balidade de $2 $3"
+
+msgid  "unblocklogentry"
+msgstr  "zbloqueste $1"
+
+msgid  "block-log-flags-nocreate"
+msgstr  "criaçon de cuontas zatibada"
+
+msgid  "move-page"
+msgstr  "Arrastrar $1"
+
+msgid  "move-page-legend"
+msgstr  "Mover página"
+
+msgid  "movepagetext"
+msgstr  "Outelizando este formulário tu puodes renomear ua páigina, arrastrando to l stórico para l nuobo títalo. L títalo anterior será transformado nun ancaminamiento para l nuobo.\nYe possible amanhar de forma outomática ancaminamientos que lhigen un títalo oureginal.\nCauso scuolhas para que esso nun seia feito, bei se nun hai ancaminamientos [[Special:DoubleRedirects|dues bezes]] ó [[Special:BrokenRedirects|scachados]].\nYe de la tue respunsablidade tener la certeza de que las lhigaçones cuntinan a apuntar pa adonde dében.\n\nArrepara que la páigina '''nun''' será arrastrada se yá eisistir ua páigina cul nuobo títalo, a nun ser que steia bazio ó seia un ancaminamiento i nun tenga stórico de eidiçones. Esto quier dezir que puodes renomear outra beç ua páigina pa l nome que tenie antes de l anganho i que nun puodes subrescrebir ua páigina.\n\n<b>CUIDADO!</b>\nEsto puode ser ua altaraçon drástica i einesperada pa ua páigina popular; por fabor, ten la certeza de que antendes las cunsequéncias desto antes de cuntinar."
+
+msgid  "movepagetalktext"
+msgstr  "La páigina de \"çcusson\" associada, se eistir, será outomaticamente arrastrada, '''a nun ser que:'''\n*Ua páigina de çcusson cun contenido yá eisista subre l nuobo títalo, ou\n*Tu marques la caixa ambaixo.\n\nNestes causos, tu terás que arrastrar ou ajuntar la páigina a la mano, se assi quejires."
+
+msgid  "movearticle"
+msgstr  "Arrastrar páigina"
+
+msgid  "newtitle"
+msgstr  "Pa nuobo títalo:"
+
+msgid  "move-watch"
+msgstr  "Begiar esta páigina"
+
+msgid  "movepagebtn"
+msgstr  "Arrastrar páigina"
+
+msgid  "pagemovedsub"
+msgstr  "Páigina arrastrada cumo debe de ser"
+
+msgid  "movepage-moved"
+msgstr  "'''\"$1\" fui arrastrado pa \"$2\"'''"
+
+msgid  "articleexists"
+msgstr  "Yá eisiste ua páigina cun este títalo, ou l títalo que scolhiste ye ambálido.\nPor fabor, scuolhe outro nome."
+
+msgid  "talkexists"
+msgstr  "'''La páigina an si fui arrastrada cun éisito. Inda assi, la páigina de çcusson nun fui arrastrada, ua beç que yá eisistie ua cun este títalo. Por fabor, ajunta-las a la mano.'''"
+
+msgid  "movedto"
+msgstr  "arrastrado pa"
+
+msgid  "movetalk"
+msgstr  "Arrastrar tamien la páigina de çcusson associada."
+
+msgid  "1movedto2"
+msgstr  "[[$1]] fui arrastrado pa [[$2]]"
+
+msgid  "1movedto2_redir"
+msgstr  "arrastreste [[$1]] pa [[$2]] nun ancaminamiento"
+
+msgid  "movelogpage"
+msgstr  "Registro d'arrastros"
+
+msgid  "movereason"
+msgstr  "Rezon:"
+
+msgid  "revertmove"
+msgstr  "poner al robés"
+
+msgid  "export"
+msgstr  "Sportar páiginas"
+
+msgid  "export-download"
+msgstr  "Grabar cumo fexeiro"
+
+msgid  "allmessages"
+msgstr  "Todas las mensaiges de l sistema"
+
+msgid  "allmessagesname"
+msgstr  "Nome"
+
+msgid  "allmessagesdefault"
+msgstr  "Testo por oumisson"
+
+msgid  "allmessages-filter-all"
+msgstr  "Todas"
+
+msgid  "thumbnail-more"
+msgstr  "Oumentar"
+
+msgid  "thumbnail_error"
+msgstr  "Erro al criar eimaige pequeinha: $1"
+
+msgid  "importlogpage"
+msgstr  "Registro de amportaçones"
+
+msgid  "tooltip-pt-userpage"
+msgstr  "Páigina d'outelizador"
+
+msgid  "tooltip-pt-mytalk"
+msgstr  "Mie cumbersa"
+
+msgid  "tooltip-pt-preferences"
+msgstr  "Las mies perfréncias"
+
+msgid  "tooltip-pt-watchlist"
+msgstr  "Lhista de páiginas subre las quales stás a begiar las altaraçones."
+
+msgid  "tooltip-pt-mycontris"
+msgstr  "Mies upas"
+
+msgid  "tooltip-pt-login"
+msgstr  "Tu sós animado pa que te outentiques, inda que esso nun seia oubrigatório."
+
+msgid  "tooltip-pt-logout"
+msgstr  "Salir"
+
+msgid  "tooltip-ca-talk"
+msgstr  "Çcusson subre l cuntenido de la páigina"
+
+msgid  "tooltip-ca-edit"
+msgstr  "Tu puodes eiditar esta páigina. Por fabor, outeliza l boton \"Ber cumo queda\" antes de grabar."
+
+msgid  "tooltip-ca-addsection"
+msgstr  "Ampeçar un cacho nuobo"
+
+msgid  "tooltip-ca-viewsource"
+msgstr  "Esta páigina stá portegida. Inda assi, tu puodes ber l sou código."
+
+msgid  "tooltip-ca-history"
+msgstr  "Eidiçones mais antigas deste páigina."
+
+msgid  "tooltip-ca-protect"
+msgstr  "Porteger esta páigina"
+
+msgid  "tooltip-ca-delete"
+msgstr  "Botar fuora esta páigina"
+
+msgid  "tooltip-ca-move"
+msgstr  "Arrastrar esta páigina"
+
+msgid  "tooltip-ca-watch"
+msgstr  "Ajuntar esta páigina als mius begiados"
+
+msgid  "tooltip-ca-unwatch"
+msgstr  "Botar pa la rue esta páigina de ls mius begiados"
+
+msgid  "tooltip-search"
+msgstr  "Pesquisa {{SITENAME}}"
+
+msgid  "tooltip-search-go"
+msgstr  "Ir pa ua páigina cun este nome, causo eisista"
+
+msgid  "tooltip-search-fulltext"
+msgstr  "Percurar por páiginas cun este testo"
+
+msgid  "tooltip-n-mainpage"
+msgstr  "Besitar la Páigina Percipal"
+
+msgid  "tooltip-n-mainpage-description"
+msgstr  "Besitar la Páigina Percipal"
+
+msgid  "tooltip-n-portal"
+msgstr  "Subre l porjeto, l que puodes fazer, adonde ancuntrar cousas"
+
+msgid  "tooltip-n-currentevents"
+msgstr  "Ancuntrar anformaçon de fondo subre amboras atuales"
+
+msgid  "tooltip-n-recentchanges"
+msgstr  "Lhista de redadeiras altaraçones nesta biqui."
+
+msgid  "tooltip-n-randompage"
+msgstr  "Ber páigina al calhas"
+
+msgid  "tooltip-n-help"
+msgstr  "Lhugar cun anformaçon pa ajuda."
+
+msgid  "tooltip-t-whatlinkshere"
+msgstr  "Todas las páiginas que se lhigan eiqui"
+
+msgid  "tooltip-t-recentchangeslinked"
+msgstr  "Redadeiras altaraçones an páiginas que ténen a ber cun esta"
+
+msgid  "tooltip-feed-rss"
+msgstr  "Feed RSS pa esta páigina"
+
+msgid  "tooltip-feed-atom"
+msgstr  "Feed Atom pa esta páigina"
+
+msgid  "tooltip-t-contributions"
+msgstr  "Ber las cuntribuiçones d'este outelizador"
+
+msgid  "tooltip-t-emailuser"
+msgstr  "Ambiar ua carta eiletrónica a este outelizador"
+
+msgid  "tooltip-t-upload"
+msgstr  "Cargar eimaiges ó fexeiros"
+
+msgid  "tooltip-t-specialpages"
+msgstr  "Todas las páiginas speciales"
+
+msgid  "tooltip-t-print"
+msgstr  "Berson pa ampremir desta páigina"
+
+msgid  "tooltip-t-permalink"
+msgstr  "Lhigaçon pa siempre desta berson desta páigina"
+
+msgid  "tooltip-ca-nstab-main"
+msgstr  "Ber la páigina de l cuntenido"
+
+msgid  "tooltip-ca-nstab-user"
+msgstr  "Ber la páigina de l outelizador"
+
+msgid  "tooltip-ca-nstab-special"
+msgstr  "Esta ye ua páigina special, nun puode ser eiditada."
+
+msgid  "tooltip-ca-nstab-project"
+msgstr  "Ber la páigina de l porjeto"
+
+msgid  "tooltip-ca-nstab-image"
+msgstr  "Ber la páigina de l fexeiro"
+
+msgid  "tooltip-ca-nstab-template"
+msgstr  "Ber l modelo"
+
+msgid  "tooltip-ca-nstab-help"
+msgstr  "Ber la páigina de ajuda"
+
+msgid  "tooltip-ca-nstab-category"
+msgstr  "Ber la páigina de la catadorie"
+
+msgid  "tooltip-minoredit"
+msgstr  "Marcar cumo eidiçon pequerrixa"
+
+msgid  "tooltip-save"
+msgstr  "Grabar las tues altaraçones"
+
+msgid  "tooltip-preview"
+msgstr  "Bei purmeiro las altaraçones, por fabor outeliza esto antes de grabar!"
+
+msgid  "tooltip-diff"
+msgstr  "Amostrar altaraçones que faziste neste testo."
+
+msgid  "tooltip-compareselectedversions"
+msgstr  "Ber las defréncias antre las dues bersones marcadas desta páigina."
+
+msgid  "tooltip-watch"
+msgstr  "Ajuntar esta páigina als tous begiados"
+
+msgid  "tooltip-rollback"
+msgstr  "\"{{int:rollbacklink}}\" çfazer, cun un solo clique, las eidiçones de l redadeiro eiditor desta páigina."
+
+msgid  "tooltip-undo"
+msgstr  "\"Çfazer\" çfaç esta eidiçoni abre ls campos de eidiçon ne l modo \"ber cumo queda\".\nPremite ajuntar la rezon de la eidiçon ne l sumário."
+
+msgid  "skinname-standard"
+msgstr  "Clássico"
+
+msgid  "skinname-nostalgia"
+msgstr  "Suidade"
+
+msgid  "skinname-cologneblue"
+msgstr  "Azul"
+
+msgid  "skinname-monobook"
+msgstr  "Lhibro"
+
+msgid  "skinname-myskin"
+msgstr  "Piel"
+
+msgid  "skinname-chick"
+msgstr  "Cipe-Çape"
+
+msgid  "skinname-simple"
+msgstr  "Simpre"
+
+msgid  "skinname-modern"
+msgstr  "Moderno"
+
+msgid  "previousdiff"
+msgstr  "← Eidiçon d'atrás"
+
+msgid  "nextdiff"
+msgstr  "Redadeira eidiçon →"
+
+msgid  "file-info-size"
+msgstr  "$1 × $2 pixel, tamanho: $3, tipo MIME: $4"
+
+msgid  "file-nohires"
+msgstr  "<small>Sin resoluçon maior çponible.</small>"
+
+msgid  "svg-long-desc"
+msgstr  "fexeiro SVG, de $1 × $2 pixeles, tamanho: $3"
+
+msgid  "show-big-image"
+msgstr  "Resoluçon cumpleta"
+
+msgid  "show-big-image-thumb"
+msgstr  "<small>Tamanho desta prebison: $1 × $2 pixeles</small>"
+
+msgid  "newimages"
+msgstr  "Galerie de nuobos fexeiros"
+
+msgid  "noimages"
+msgstr  "Nun hai nada pa ber."
+
+msgid  "ilsubmit"
+msgstr  "Percurar"
+
+msgid  "bad_image_list"
+msgstr  "L formato ye l seguinte:\n\nSolo son cunsiderados cousas de la lista (lhinhas ampeçadas por *). La purmeira lhigaçon nua lhinha debe ser ua lhigaçon pa ua \"bad image\".\nLhigaçones a seguir na mesma lhinha son cunsideradas eicepçones, i.e. artigos adonde la eimaige puode acuntecer \"inline\"."
+
+msgid  "metadata"
+msgstr  "Metadados"
+
+msgid  "metadata-help"
+msgstr  "Este fexeiro ten mais anformaçon, l mais cierto ajuntada a partir de la máquina de retratos ó de l ''scanner'' outelizada para l criar.\nCauso l fexeiro tenga sido demudado a partir de l sou stado oureginal, alguns detailhes poderán nun amostrar por cumpleto las altaraçones feitas."
+
+msgid  "metadata-expand"
+msgstr  "Amostrar mais detailhes"
+
+msgid  "metadata-collapse"
+msgstr  "Scunder mais detailhes"
+
+msgid  "metadata-fields"
+msgstr  "Ls campos de metadados EXIF amostrados nesta mensaige poderán star persentes an la eisebiçon de la páigina de la eimaige quando la tabela de metadados stubir ne l modo \"spandida\". Outros poderán star scundidos por oumisson.\n* make\n* model\n* datetimeoriginal\n* exposuretime\n* fnumber\n* isospeedratings\n* focallength"
+
+msgid  "exif-imagewidth"
+msgstr  "Ancho"
+
+msgid  "exif-imagelength"
+msgstr  "Altura"
+
+msgid  "exif-imagedescription"
+msgstr  "Títalo de la eimaige"
+
+msgid  "exif-artist"
+msgstr  "Outor"
+
+msgid  "exif-colorspace"
+msgstr  "Spácio de quelor"
+
+msgid  "exif-contrast"
+msgstr  "Cuntraste"
+
+msgid  "exif-orientation-1"
+msgstr  "Normal"
+
+msgid  "exif-exposureprogram-1"
+msgstr  "Manual"
+
+msgid  "exif-scenecapturetype-2"
+msgstr  "Retrato"
+
+msgid  "exif-gaincontrol-0"
+msgstr  "Nanhun"
+
+msgid  "exif-contrast-0"
+msgstr  "Normal"
+
+msgid  "exif-contrast-1"
+msgstr  "Suabe"
+
+msgid  "exif-contrast-2"
+msgstr  "Duro"
+
+msgid  "exif-sharpness-0"
+msgstr  "Normal"
+
+msgid  "exif-sharpness-1"
+msgstr  "Suabe"
+
+msgid  "exif-sharpness-2"
+msgstr  "Duro"
+
+msgid  "exif-subjectdistancerange-0"
+msgstr  "Çcoincido"
+
+msgid  "edit-externally"
+msgstr  "Eiditar este fexeiro outelizando ua aplicaçon sterna"
+
+msgid  "edit-externally-help"
+msgstr  "(Bei las [http://www.mediawiki.org/wiki/Manual:External_editors anstruçones de anstalaçon] pa mais anformaçon)."
+
+msgid  "recentchangesall"
+msgstr  "todo"
+
+msgid  "imagelistall"
+msgstr  "todo"
+
+msgid  "watchlistall2"
+msgstr  "todas"
+
+msgid  "namespacesall"
+msgstr  "todas"
+
+msgid  "monthsall"
+msgstr  "todos"
+
+msgid  "confirm_purge_button"
+msgstr  "Stá bien"
+
+msgid  "imgmultipageprev"
+msgstr  "← páigina atrasada"
+
+msgid  "imgmultipagenext"
+msgstr  "páigina seguinte →"
+
+msgid  "imgmultigo"
+msgstr  "Bota!"
+
+msgid  "imgmultigoto"
+msgstr  "Ir pa páigina $1"
+
+msgid  "ascending_abbrev"
+msgstr  "chubir"
+
+msgid  "descending_abbrev"
+msgstr  "decer"
+
+msgid  "table_pager_next"
+msgstr  "Páigina seguinte"
+
+msgid  "table_pager_prev"
+msgstr  "Páigina atrasada"
+
+msgid  "table_pager_first"
+msgstr  "Purmeira páigina"
+
+msgid  "table_pager_last"
+msgstr  "Redadeira páigina"
+
+msgid  "table_pager_limit"
+msgstr  "Amostrar $1 antradas por páigina"
+
+msgid  "table_pager_empty"
+msgstr  "Sien resultados"
+
+msgid  "livepreview-loading"
+msgstr  "A cargar..."
+
+msgid  "livepreview-ready"
+msgstr  "A cargar... Pronto!"
+
+msgid  "watchlistedit-raw-titles"
+msgstr  "Títalos"
+
+msgid  "watchlisttools-view"
+msgstr  "Ber altaraçones amportantes"
+
+msgid  "watchlisttools-edit"
+msgstr  "Ber i eiditar ls mius begiados"
+
+msgid  "watchlisttools-raw"
+msgstr  "Ediçon bruta da lhista de ls bigiados"
+
+msgid  "version"
+msgstr  "Berson"
+
+msgid  "version-specialpages"
+msgstr  "Páiginas Speciales"
+
+msgid  "version-variables"
+msgstr  "Bariables"
+
+msgid  "version-other"
+msgstr  "Outro"
+
+msgid  "version-license"
+msgstr  "Licença"
+
+msgid  "version-software-product"
+msgstr  "Perduto"
+
+msgid  "version-software-version"
+msgstr  "Berson"
+
+msgid  "filepath"
+msgstr  "Camino de l fexeiro"
+
+msgid  "filepath-page"
+msgstr  "Fexeiro"
+
+msgid  "filepath-submit"
+msgstr  "Camino"
+
+msgid  "fileduplicatesearch-filename"
+msgstr  "Nome de l fexeiro"
+
+msgid  "fileduplicatesearch-submit"
+msgstr  "Percurar"
+
+msgid  "specialpages"
+msgstr  "Páiginas speciales"
+
+msgid  "specialpages-group-login"
+msgstr  "Antrar / anscrebir"
+
+msgid  "specialpages-group-pages"
+msgstr  "Lhistas de páiginas"
+
+msgid  "specialpages-group-pagetools"
+msgstr  "Ferramienta de páiginas"
+
+msgid  "tags-title"
+msgstr  "Eitiquetas"
+
+msgid  "tags-edit"
+msgstr  "eiditar"
+
+msgid  "wm-license-information-description"
+msgstr  "Çcriçon"
+
+msgid  "wm-license-information-source"
+msgstr  "Fuonte"
+

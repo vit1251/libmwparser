@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fur\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "wm-license-cc-wiki-link"
+msgstr  "w:fur:Creative Commons"
+
+msgid  "wm-license-information-description"
+msgstr  "Descrizion"
+
+msgid  "wm-license-information-source"
+msgstr  "Sorzint"
+
+msgid  "wm-license-information-date"
+msgstr  "Date"
+
+msgid  "wm-license-information-author"
+msgstr  "Autôr"
+
+msgid  "wm-license-information-permission"
+msgstr  "Permès"
+
+msgid  "wm-license-information-other-versions"
+msgstr  "Altris versions"
+

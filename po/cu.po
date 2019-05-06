@@ -1,0 +1,2052 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "#ПРѢНАПРАВЛЄНИѤ"
+msgstr "#REDIRECT"
+
+msgid  "#ѨꙀꙐКЪ:"
+msgstr "#LANGUAGE:"
+
+msgid  "sunday"
+msgstr  "нєдѣлꙗ"
+
+msgid  "monday"
+msgstr  "понедѣл҄ьникъ"
+
+msgid  "tuesday"
+msgstr  "въторьникъ"
+
+msgid  "wednesday"
+msgstr  "срѣда"
+
+msgid  "thursday"
+msgstr  "чєтврьтъкъ"
+
+msgid  "friday"
+msgstr  "пѧтъкъ"
+
+msgid  "saturday"
+msgstr  "сѫбота"
+
+msgid  "sun"
+msgstr  "н҃д"
+
+msgid  "mon"
+msgstr  "п҃н"
+
+msgid  "tue"
+msgstr  "в҃т"
+
+msgid  "wed"
+msgstr  "с҃р"
+
+msgid  "thu"
+msgstr  "ч҃т"
+
+msgid  "fri"
+msgstr  "п҃т"
+
+msgid  "sat"
+msgstr  "с҃б"
+
+msgid  "january"
+msgstr  "їаноуарїи"
+
+msgid  "february"
+msgstr  "фєвроуарїи"
+
+msgid  "march"
+msgstr  "мартїи"
+
+msgid  "april"
+msgstr  "апрїлїи"
+
+msgid  "may_long"
+msgstr  "маїи"
+
+msgid  "june"
+msgstr  "їоунїи"
+
+msgid  "july"
+msgstr  "їоулїи"
+
+msgid  "august"
+msgstr  "аѷгоустъ"
+
+msgid  "september"
+msgstr  "сєптємврїи"
+
+msgid  "october"
+msgstr  "октѡврїи"
+
+msgid  "november"
+msgstr  "ноємврїи"
+
+msgid  "december"
+msgstr  "дєкємврїи"
+
+msgid  "january-gen"
+msgstr  "їаноуарїꙗ"
+
+msgid  "february-gen"
+msgstr  "фєвроуарїꙗ"
+
+msgid  "march-gen"
+msgstr  "мартїꙗ"
+
+msgid  "april-gen"
+msgstr  "апрїлїꙗ"
+
+msgid  "may-gen"
+msgstr  "маїꙗ"
+
+msgid  "june-gen"
+msgstr  "їоунїꙗ"
+
+msgid  "july-gen"
+msgstr  "їоулїꙗ"
+
+msgid  "august-gen"
+msgstr  "аѷгоуста"
+
+msgid  "september-gen"
+msgstr  "сєптємврїꙗ"
+
+msgid  "october-gen"
+msgstr  "октѡврїꙗ"
+
+msgid  "november-gen"
+msgstr  "ноємврїꙗ"
+
+msgid  "december-gen"
+msgstr  "дєкємврїꙗ"
+
+msgid  "jan"
+msgstr  "ꙗ҃н"
+
+msgid  "feb"
+msgstr  "фє҃в"
+
+msgid  "mar"
+msgstr  "ма҃р"
+
+msgid  "apr"
+msgstr  "ап҃р"
+
+msgid  "may"
+msgstr  "маїи"
+
+msgid  "jun"
+msgstr  "їо҃ун"
+
+msgid  "jul"
+msgstr  "їо҃ул"
+
+msgid  "aug"
+msgstr  "аѵ҃г"
+
+msgid  "sep"
+msgstr  "сє҃п"
+
+msgid  "oct"
+msgstr  "ок҃т"
+
+msgid  "nov"
+msgstr  "но҃є"
+
+msgid  "dec"
+msgstr  "дє҃к"
+
+msgid  "pagecategories"
+msgstr  "{{PLURAL:$1|Катигорїꙗ|Катигорїи|Катигорїѩ|Катигорїѩ}}"
+
+msgid  "category_header"
+msgstr  "катигорїѩ ⁖ $1 ⁖ страницѧ"
+
+msgid  "subcategories"
+msgstr  "подъкатигорїѩ"
+
+msgid  "hidden-categories"
+msgstr  "{{PLURAL:$1|съкрꙑта катигорїꙗ|съкрꙑти катигорїи|съкрꙑтꙑ катигорїѩ}}"
+
+msgid  "listingcontinuesabbrev"
+msgstr  "· вѧщє"
+
+msgid  "linkprefix"
+msgstr  "/^(.*?)(„|«)$/sD"
+
+msgid  "about"
+msgstr  "опьсаниѥ"
+
+msgid  "article"
+msgstr  "члѣнъ"
+
+msgid  "newwindow"
+msgstr  "(иномь окънѣ)"
+
+msgid  "moredotdotdot"
+msgstr  "вѧщє ···"
+
+msgid  "mypage"
+msgstr  "моꙗ страница"
+
+msgid  "mytalk"
+msgstr  "моꙗ бєсѣда"
+
+msgid  "navigation"
+msgstr  "плаваниѥ"
+
+msgid  "and"
+msgstr  "&#32;и"
+
+msgid  "qbedit"
+msgstr  "исправи"
+
+msgid  "qbpageoptions"
+msgstr  "си страни́ца"
+
+msgid  "qbmyoptions"
+msgstr  "моꙗ страницѧ"
+
+msgid  "qbspecialpages"
+msgstr  "нарочьнꙑ страницѧ"
+
+msgid  "vector-action-delete"
+msgstr  "поничьжєниѥ"
+
+msgid  "vector-action-move"
+msgstr  "прѣимєнованиѥ"
+
+msgid  "vector-action-protect"
+msgstr  "ꙁабранѥниѥ"
+
+msgid  "vector-action-unprotect"
+msgstr  "поущєниѥ"
+
+msgid  "vector-view-create"
+msgstr  "сътворѥниѥ"
+
+msgid  "vector-view-edit"
+msgstr  "исправи"
+
+msgid  "vector-view-history"
+msgstr  "їсторїꙗ"
+
+msgid  "vector-view-view"
+msgstr  "чьтѥниѥ"
+
+msgid  "vector-view-viewsource"
+msgstr  "страницѧ источьнъ обраꙁъ"
+
+msgid  "actions"
+msgstr  "дѣиства"
+
+msgid  "namespaces"
+msgstr  "имєнъ просторꙑ"
+
+msgid  "errorpagetitle"
+msgstr  "блаꙁна"
+
+msgid  "tagline"
+msgstr  "{{grammar:genitive|{{SITENAME}}}} страница"
+
+msgid  "help"
+msgstr  "помощь"
+
+msgid  "search"
+msgstr  "исканиѥ"
+
+msgid  "searchbutton"
+msgstr  "ищи"
+
+msgid  "go"
+msgstr  "прѣиди"
+
+msgid  "searcharticle"
+msgstr  "прѣиди"
+
+msgid  "history"
+msgstr  "страницѧ їсторїꙗ"
+
+msgid  "history_short"
+msgstr  "їсторїꙗ"
+
+msgid  "info_short"
+msgstr  "плирофорїꙗ"
+
+msgid  "printableversion"
+msgstr  "пєчатьнъ обраꙁъ"
+
+msgid  "permalink"
+msgstr  "въиньна съвѧꙁь"
+
+msgid  "print"
+msgstr  "пєчатаниѥ"
+
+msgid  "edit"
+msgstr  "исправи"
+
+msgid  "create"
+msgstr  "сътворѥниѥ"
+
+msgid  "editthispage"
+msgstr  "си страницѧ исправлѥниѥ"
+
+msgid  "create-this-page"
+msgstr  "си страницѧ сътворѥниѥ"
+
+msgid  "delete"
+msgstr  "поничьжєниѥ"
+
+msgid  "deletethispage"
+msgstr  "си страницѧ поничьжєниѥ"
+
+msgid  "protect"
+msgstr  "ꙁабранѥниѥ"
+
+msgid  "protect_change"
+msgstr  "иꙁмѣнѥниѥ"
+
+msgid  "protectthispage"
+msgstr  "си страницѧ ꙁабранєниѥ"
+
+msgid  "unprotect"
+msgstr  "поущєниѥ"
+
+msgid  "newpage"
+msgstr  "нова страница"
+
+msgid  "talkpage"
+msgstr  "си страницѧ бєсѣда"
+
+msgid  "talkpagelinktext"
+msgstr  "бєсѣда"
+
+msgid  "specialpage"
+msgstr  "нарочьна страница"
+
+msgid  "personaltools"
+msgstr  "моꙗ орѫдиꙗ"
+
+msgid  "postcomment"
+msgstr  "нова чѧсть"
+
+msgid  "talk"
+msgstr  "бєсѣда"
+
+msgid  "toolbox"
+msgstr  "орѫдиꙗ"
+
+msgid  "otherlanguages"
+msgstr  "дроугꙑ ѩꙁꙑкꙑ"
+
+msgid  "redirectedfrom"
+msgstr  "(прѣнаправлѥниѥ отъ ⁖ $1 ⁖)"
+
+msgid  "redirectpagesub"
+msgstr  "прѣнаправлѥниѥ"
+
+msgid  "lastmodifiedat"
+msgstr  "страницѧ послѣдьнꙗ мѣна сътворѥна $2 · $1 бѣ ⁙"
+
+msgid  "jumpto"
+msgstr  "прѣиди къ :"
+
+msgid  "jumptonavigation"
+msgstr  "плаваниѥ"
+
+msgid  "jumptosearch"
+msgstr  "исканиѥ"
+
+msgid  "pool-errorunknown"
+msgstr  "нєвѣдома блаꙁна"
+
+msgid  "aboutsite"
+msgstr  "О {{grammar:instrumental|{{SITENAME}}}}"
+
+msgid  "aboutpage"
+msgstr  "Project:О сѥмь опꙑтьствовании"
+
+msgid  "copyright"
+msgstr  "подъ прощєниѥмь $1 пьсано ѥстъ"
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:Творьцъ права"
+
+msgid  "currentevents"
+msgstr  "сѫщѧѩ вѣщи"
+
+msgid  "currentevents-url"
+msgstr  "Project:Сѫщѧѩ вѣщи"
+
+msgid  "edithelp"
+msgstr  "помощь по исправлѥниѭ"
+
+msgid  "edithelppage"
+msgstr  "Help:Исправлѥниѥ страницѧ"
+
+msgid  "helppage"
+msgstr  "Help:Каталогъ"
+
+msgid  "mainpage"
+msgstr  "главьна страница"
+
+msgid  "mainpage-description"
+msgstr  "главьна страница"
+
+msgid  "policy-url"
+msgstr  "Project:Полїтїка"
+
+msgid  "portal"
+msgstr  "обьщєниꙗ съвѣтъ"
+
+msgid  "portal-url"
+msgstr  "Project:Обьщєниꙗ съвѣтъ"
+
+msgid  "retrievedfrom"
+msgstr  "поѩто иꙁ ⁖ $1 ⁖"
+
+msgid  "youhavenewmessages"
+msgstr  "$1 тєбѣ напьсанꙑ сѫтъ ($2)"
+
+msgid  "newmessageslink"
+msgstr  "нови напьсаниꙗ"
+
+msgid  "newmessagesdifflink"
+msgstr  "послѣдьнꙗ мѣна"
+
+msgid  "editsection"
+msgstr  "исправи"
+
+msgid  "editold"
+msgstr  "исправи"
+
+msgid  "viewsourceold"
+msgstr  "страницѧ источьнъ обраꙁъ"
+
+msgid  "editlink"
+msgstr  "исправи"
+
+msgid  "viewsourcelink"
+msgstr  "страницѧ источьнъ обраꙁъ"
+
+msgid  "editsectionhint"
+msgstr  "исправлѥниѥ чѧсти : $1"
+
+msgid  "toc"
+msgstr  "каталогъ"
+
+msgid  "showtoc"
+msgstr  "виждь"
+
+msgid  "hidetoc"
+msgstr  "съкрꙑи"
+
+msgid  "viewdeleted"
+msgstr  "$1 видєти хощєши ;"
+
+msgid  "red-link-title"
+msgstr  "$1 (си страницѧ нѣстъ)"
+
+msgid  "nstab-main"
+msgstr  "члѣнъ"
+
+msgid  "nstab-user"
+msgstr  "польꙃєватєл҄ь"
+
+msgid  "nstab-media"
+msgstr  "срѣдьства"
+
+msgid  "nstab-special"
+msgstr  "нарочьна"
+
+msgid  "nstab-project"
+msgstr  "съвѣтъ"
+
+msgid  "nstab-image"
+msgstr  "дѣло"
+
+msgid  "nstab-mediawiki"
+msgstr  "напьсаниѥ"
+
+msgid  "nstab-template"
+msgstr  "обраꙁьць"
+
+msgid  "nstab-help"
+msgstr  "страница помощи"
+
+msgid  "nstab-category"
+msgstr  "катигорїꙗ"
+
+msgid  "error"
+msgstr  "блаꙁна"
+
+msgid  "viewsource"
+msgstr  "страницѧ источьнъ обраꙁъ"
+
+msgid  "viewsourcefor"
+msgstr  "$1 дѣлꙗ"
+
+msgid  "yourname"
+msgstr  "твоѥ имѧ"
+
+msgid  "yourpassword"
+msgstr  "таино слово напиши"
+
+msgid  "yourpasswordagain"
+msgstr  "опакꙑ таиноѥ слово напиши"
+
+msgid  "login"
+msgstr  "въниди"
+
+msgid  "nav-login-createaccount"
+msgstr  "въниди / съꙁижди си мѣсто"
+
+msgid  "userlogin"
+msgstr  "въниди / съꙁижди си мѣсто"
+
+msgid  "userloginnocreate"
+msgstr  "въниди"
+
+msgid  "logout"
+msgstr  "ис̾ходъ"
+
+msgid  "userlogout"
+msgstr  "ис̾ходъ"
+
+msgid  "nologin"
+msgstr  "мѣсто ти нѣстъ ли ? $1"
+
+msgid  "nologinlink"
+msgstr  "съꙁижди си мѣсто"
+
+msgid  "createaccount"
+msgstr  "съꙁижди си мѣсто"
+
+msgid  "gotaccount"
+msgstr  "мѣсто ти ѥстъ ли? $1"
+
+msgid  "gotaccountlink"
+msgstr  "въниди"
+
+msgid  "createaccountreason"
+msgstr  "какъ съмꙑслъ :"
+
+msgid  "userexists"
+msgstr  "сѫщє польꙃєватєлꙗ имѧ пьса ⁙ ино иꙁобрѧщи"
+
+msgid  "loginerror"
+msgstr  "въхода блаꙁна"
+
+msgid  "accountcreated"
+msgstr  "мѣсто сътворєно ѥстъ"
+
+msgid  "loginlanguagelabel"
+msgstr  "ѩꙁꙑкъ : $1"
+
+msgid  "resetpass"
+msgstr  "таина словєсє иꙁмѣнѥниѥ"
+
+msgid  "oldpassword"
+msgstr  "старо таино слово :"
+
+msgid  "newpassword"
+msgstr  "ново таино слово :"
+
+msgid  "resetpass-submit-loggedin"
+msgstr  "таина словєсє иꙁмѣнѥниѥ"
+
+msgid  "link_sample"
+msgstr  "съвѧꙁи имѧ"
+
+msgid  "link_tip"
+msgstr  "вънѫтрьнꙗ съвѧꙁь"
+
+msgid  "extlink_sample"
+msgstr  "http://www.example.com съвѧꙁи имѧ"
+
+msgid  "extlink_tip"
+msgstr  "вънѣщьнꙗ съвѧꙁь (помьни о http://)"
+
+msgid  "math_tip"
+msgstr  "маѳиматїчьна формоула (LaTeX)"
+
+msgid  "sig_tip"
+msgstr  "твои аѵтографъ и нꙑнѣшьна врѣмѧ и дьнь"
+
+msgid  "summary"
+msgstr  "опьсаниѥ :"
+
+msgid  "minoredit"
+msgstr  "малаꙗ мѣна"
+
+msgid  "watchthis"
+msgstr  "си страницѧ блюдєниѥ"
+
+msgid  "savearticle"
+msgstr  "съхранѥниѥ"
+
+msgid  "showpreview"
+msgstr  "мѣнꙑ поꙁьрѣниѥ (бєꙁ съхранѥниꙗ)"
+
+msgid  "blockedtitle"
+msgstr  "польꙃєватєл҄ь ꙁаграждєнъ ѥстъ"
+
+msgid  "loginreqlink"
+msgstr  "въниди"
+
+msgid  "newarticle"
+msgstr  "(новъ)"
+
+msgid  "noarticletext"
+msgstr  "нꙑнѣ с̑ьдє ничєсожє нє напьсано ѥстъ ⁙\n[[Special:Search/{{PAGENAME}}|си страницѧ имѧ искати]] дроугꙑ страницѧ ·\n<span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} съвѧꙁанꙑ їсторїѩ видѣти] ·\nили [{{fullurl:{{FULLPAGENAME}}|action=edit}} ѭжє исправити]</span> можєши"
+
+msgid  "noarticletext-nopermission"
+msgstr  "нꙑнѣ с̑ьдє ничєсожє нє напьсано ѥстъ ⁙\n[[Special:Search/{{PAGENAME}}|си страницѧ имѧ искати]] дроугꙑ страницѧ или\n<span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} съвѧꙁанꙑ їсторїѩ видѣти]</span> можєши"
+
+msgid  "clearyourcache"
+msgstr  "НАРОЧИТО: По съхранѥнии можєши обити своѥго съмотрила съхранъ да видѣлъ би мѣнꙑ ⁙ Mozilla ли Firefox ли Safari ли жьмꙑи Shift а мꙑшиѭ жьми Reload или жьми Ctrl-Shift-R (Cmd-Shift-R вън Apple Mac)  ⁙ Konqueror ли жьми кромѣ Reload или F5 ⁙ Опєрꙑ польꙃєватєльмъ можєть бꙑти ноужда пльнѣ поничьжити ихъ съмотрила съхранъ въ Tools > Preferences ⁙ IE ли жьмꙑи Ctrl а мꙑшиѭ жьми Refresh или жьми Ctrl-F5"
+
+msgid  "note"
+msgstr  "'''НАРОЧИТО:'''"
+
+msgid  "editing"
+msgstr  "исправлѥниѥ: $1"
+
+msgid  "editingsection"
+msgstr  "исправлѥниѥ ⁖ $1 ⁖ (чѧсть)"
+
+msgid  "editingcomment"
+msgstr  "исправлѥниѥ ⁖ $1 ⁖ (нова чѧсть)"
+
+msgid  "templatesused"
+msgstr  "сѥѩ страницѧ {{PLURAL:$1|сь обраꙁьць польꙃоуѥтъ сѧ ѥстъ|с҄и обраꙁьца польꙃоуѭтъ сѧ ѥстє|с҄и обраꙁьци польꙃоуѭтъ сѧ сѫтъ}} :"
+
+msgid  "template-protected"
+msgstr  "(ꙁабранєно ѥстъ)"
+
+msgid  "viewpagelogs"
+msgstr  "си страницѧ їсторїѩ"
+
+msgid  "cur"
+msgstr  "нꙑ҃н"
+
+msgid  "last"
+msgstr  "пс҃лд"
+
+msgid  "page_first"
+msgstr  "прьва страница"
+
+msgid  "page_last"
+msgstr  "послѣдьнꙗ страница"
+
+msgid  "histfirst"
+msgstr  "прьвꙑ"
+
+msgid  "histlast"
+msgstr  "послѣдьнꙗ"
+
+msgid  "historysize"
+msgstr  "{{PLURAL:$1|1 баитъ|$1 баита|$1 баитъ}}"
+
+msgid  "historyempty"
+msgstr  "(поусто)"
+
+msgid  "history-feed-title"
+msgstr  "мѣнъ їсторїꙗ"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$1 при $2"
+
+msgid  "rev-delundel"
+msgstr  "каꙁаниѥ / съкрꙑтиѥ"
+
+msgid  "rev-showdeleted"
+msgstr  "виждь"
+
+msgid  "revdelete-show-file-submit"
+msgstr  "да"
+
+msgid  "revdelete-radio-set"
+msgstr  "да"
+
+msgid  "revdelete-radio-unset"
+msgstr  "нѣтъ"
+
+msgid  "revdelete-log"
+msgstr  "какъ съмꙑслъ :"
+
+msgid  "pagehist"
+msgstr  "страницѧ їсторїꙗ"
+
+msgid  "deletedhist"
+msgstr  "поничьжєна їсторїꙗ"
+
+msgid  "revdelete-summary"
+msgstr  "мѣнꙑ опьсаниѥ"
+
+msgid  "revdelete-uname"
+msgstr  "польꙃєватєлꙗ имѧ"
+
+msgid  "revdelete-otherreason"
+msgstr  "инъ или допльнитєл҄ьнъ съмꙑслъ :"
+
+msgid  "revdelete-reasonotherlist"
+msgstr  "инъ съмꙑслъ"
+
+msgid  "mergehistory-reason"
+msgstr  "какъ съмꙑслъ :"
+
+msgid  "searchresults"
+msgstr  "исканиꙗ слѣдьствиѥ"
+
+msgid  "searchresults-title"
+msgstr  "исканиꙗ ⁖ $1 ⁖ слѣдьствиѥ"
+
+msgid  "viewprevnext"
+msgstr  "виждь ($1 {{int:pipe-separator}} $2) ($3)"
+
+msgid  "searchmenu-new"
+msgstr  "'''страницѫ ⁖ [[:$1]] ⁖ сътворити можєши'''"
+
+msgid  "searchhelp-url"
+msgstr  "Help:Каталогъ"
+
+msgid  "searchprofile-articles"
+msgstr  "члѣни"
+
+msgid  "searchprofile-project"
+msgstr  "опꙑтьствовании и помощи страницѧ"
+
+msgid  "searchprofile-images"
+msgstr  "дѣла"
+
+msgid  "searchprofile-everything"
+msgstr  "вьсѩ страницѧ"
+
+msgid  "searchprofile-articles-tooltip"
+msgstr  "ищи въ $1"
+
+msgid  "search-result-size"
+msgstr  "$1 ({{PLURAL:$2|$2 слово|$2 слова|$2 словєсъ}})"
+
+msgid  "search-redirect"
+msgstr  "(прѣнаправлєниѥ $1)"
+
+msgid  "search-section"
+msgstr  "(чѧсть $1)"
+
+msgid  "search-interwiki-caption"
+msgstr  "родьствьна опꙑтьствованиꙗ"
+
+msgid  "search-interwiki-more"
+msgstr  "(вѧщє)"
+
+msgid  "searchall"
+msgstr  "вьсꙗ"
+
+msgid  "powersearch"
+msgstr  "ищи"
+
+msgid  "powersearch-redir"
+msgstr  "прѣнаправлѥниꙗ"
+
+msgid  "preferences"
+msgstr  "строи"
+
+msgid  "mypreferences"
+msgstr  "мои строи"
+
+msgid  "changepassword"
+msgstr  "таина словєсє иꙁмѣнѥниѥ"
+
+msgid  "prefs-rc"
+msgstr  "послѣдьнѩ мѣнꙑ"
+
+msgid  "prefs-watchlist"
+msgstr  "блюдєниꙗ"
+
+msgid  "prefs-resetpass"
+msgstr  "таина словєсє иꙁмѣнѥниѥ"
+
+msgid  "saveprefs"
+msgstr  "съхранѥниѥ"
+
+msgid  "prefs-editing"
+msgstr  "исправлѥниѥ"
+
+msgid  "rows"
+msgstr  "рѧдꙑ :"
+
+msgid  "searchresultshead"
+msgstr  "исканиѥ"
+
+msgid  "timezoneregion-africa"
+msgstr  "Афрїка"
+
+msgid  "timezoneregion-america"
+msgstr  "Амєрїка"
+
+msgid  "timezoneregion-antarctica"
+msgstr  "Антарктїка"
+
+msgid  "timezoneregion-arctic"
+msgstr  "Арктїка"
+
+msgid  "timezoneregion-asia"
+msgstr  "Асїꙗ"
+
+msgid  "timezoneregion-atlantic"
+msgstr  "Атлантїчьскъ ѡкєанъ"
+
+msgid  "timezoneregion-australia"
+msgstr  "Аѵстралїꙗ"
+
+msgid  "timezoneregion-europe"
+msgstr  "Єѵрѡпа"
+
+msgid  "timezoneregion-indian"
+msgstr  "Їндїискъ ѡкєанъ"
+
+msgid  "timezoneregion-pacific"
+msgstr  "Тихꙑи ѡкєанъ"
+
+msgid  "prefs-searchoptions"
+msgstr  "исканиꙗ строи"
+
+msgid  "prefs-namespaces"
+msgstr  "имєнъ просторꙑ"
+
+msgid  "prefs-files"
+msgstr  "дѣла"
+
+msgid  "username"
+msgstr  "польꙃєватєлꙗ имѧ :"
+
+msgid  "uid"
+msgstr  "польꙃєватєлꙗ число :"
+
+msgid  "yourrealname"
+msgstr  "истиньно имѧ :"
+
+msgid  "yourlanguage"
+msgstr  "ѩꙁꙑкъ :"
+
+msgid  "yournick"
+msgstr  "аѵтографъ :"
+
+msgid  "yourgender"
+msgstr  "полъ :"
+
+msgid  "gender-male"
+msgstr  "мѫжъ"
+
+msgid  "gender-female"
+msgstr  "жєна"
+
+msgid  "prefs-signature"
+msgstr  "аѵтографъ"
+
+msgid  "userrights-reason"
+msgstr  "какъ съмꙑслъ :"
+
+msgid  "group"
+msgstr  "чинъ :"
+
+msgid  "group-user"
+msgstr  "польꙃєватєлє"
+
+msgid  "group-bot"
+msgstr  "аѵтомати"
+
+msgid  "group-sysop"
+msgstr  "съмотритєлє"
+
+msgid  "group-bureaucrat"
+msgstr  "чинодатєлє"
+
+msgid  "group-user-member"
+msgstr  "польꙃєватєл҄ь"
+
+msgid  "group-bot-member"
+msgstr  "аѵтоматъ"
+
+msgid  "group-sysop-member"
+msgstr  "съмотритєл҄ь"
+
+msgid  "group-bureaucrat-member"
+msgstr  "чинодатєл҄ь"
+
+msgid  "grouppage-user"
+msgstr  "{{ns:project}}:Польꙃєватєлє"
+
+msgid  "grouppage-bot"
+msgstr  "{{ns:project}}:Аѵтомати"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:Съмотритєлє"
+
+msgid  "grouppage-bureaucrat"
+msgstr  "{{ns:project}}:Чинодатєлє"
+
+msgid  "rightslog"
+msgstr  "чинодатєльства їсторїꙗ"
+
+msgid  "action-edit"
+msgstr  "си страницѧ исправлєниѥ"
+
+msgid  "nchanges"
+msgstr  "$1 {{PLURAL:$1|мѣна|мѣнꙑ|мѣнъ}}"
+
+msgid  "recentchanges"
+msgstr  "послѣдьнѩ мѣнꙑ"
+
+msgid  "recentchanges-legend"
+msgstr  "послѣдьн҄ь мѣнъ строи"
+
+msgid  "recentchangestext"
+msgstr  "с҄ьдє послѣдьнѩ мѣнꙑ сѥѩ викиопꙑтьствованиꙗ видѣти можєши"
+
+msgid  "recentchanges-label-newpage"
+msgstr  "по сѥи мѣнꙑ нова страница сътворѥна ѥстъ"
+
+msgid  "recentchanges-label-minor"
+msgstr  "малаꙗ мѣна"
+
+msgid  "recentchanges-label-bot"
+msgstr  "сѭ мѣноу аѵтоматъ сътворихъ"
+
+msgid  "rcnote"
+msgstr  "нижѣ {{PLURAL:$1|'''1''' послѣдьнѭ мѣнѫ|'''$1''' послѣдьни мѣнꙑ|'''$1''' послѣдьнъ мѣнъ|'''$1''' послѣдьнъ мѣнъ}} ꙁа {{PLURAL:$2|дьнь|'''$2''' дьнꙗ|'''$2''' дьнъ|'''$2''' дьнъ}} · ꙗко нꙑнѣ $5 · $4 лѣта"
+
+msgid  "rcshowhideminor"
+msgstr  "$1 малꙑ мѣнꙑ"
+
+msgid  "rcshowhidebots"
+msgstr  "$1 аѵтоматъ"
+
+msgid  "rcshowhideliu"
+msgstr  "$1 польꙃєватєлъ · ѩжє съꙁижьдє сѥ мѣсто · мѣнꙑ"
+
+msgid  "rcshowhideanons"
+msgstr  "$1 анѡнѷмьнъ польꙃєватєлъ мѣнꙑ"
+
+msgid  "rcshowhidemine"
+msgstr  "$1 моꙗ мѣнꙑ"
+
+msgid  "rclinks"
+msgstr  "$1 послѣдьн҄ь  мѣнъ · ѩжє $2 послѣдьни дьни створѥнꙑ сѫтъ · каꙁаниѥ<br />$3"
+
+msgid  "diff"
+msgstr  "ра҃ꙁн"
+
+msgid  "hist"
+msgstr  "їс҃т"
+
+msgid  "hide"
+msgstr  "съкрꙑи"
+
+msgid  "show"
+msgstr  "виждь"
+
+msgid  "minoreditletter"
+msgstr  "м҃л"
+
+msgid  "newpageletter"
+msgstr  "н҃в"
+
+msgid  "boteditletter"
+msgstr  "а҃ѵ"
+
+msgid  "recentchangeslinked"
+msgstr  "съвѧꙁанꙑ страницѧ"
+
+msgid  "recentchangeslinked-feed"
+msgstr  "съвѧꙁанꙑ страницѧ"
+
+msgid  "recentchangeslinked-toolbox"
+msgstr  "съвѧꙁанꙑ страницѧ"
+
+msgid  "recentchangeslinked-page"
+msgstr  "страницѧ имѧ :"
+
+msgid  "upload"
+msgstr  "положєниѥ дѣла"
+
+msgid  "uploadbtn"
+msgstr  "положєниѥ дѣла"
+
+msgid  "uploadlog"
+msgstr  "дѣлъ положєниꙗ їсторїꙗ"
+
+msgid  "uploadlogpage"
+msgstr  "дѣлъ положєниꙗ їсторїꙗ"
+
+msgid  "filename"
+msgstr  "дѣла имѧ"
+
+msgid  "filedesc"
+msgstr  "опьсаниѥ"
+
+msgid  "fileuploadsummary"
+msgstr  "опьсаниѥ:"
+
+msgid  "uploadedimage"
+msgstr  "⁖ [[$1]] ⁖ положєнъ ѥстъ"
+
+msgid  "watchthisupload"
+msgstr  "си дѣла блюдєниѥ"
+
+msgid  "upload-success-subj"
+msgstr  "дѣло положєно ѥстъ"
+
+msgid  "license"
+msgstr  "прощєниѥ :"
+
+msgid  "license-header"
+msgstr  "прощєниѥ"
+
+msgid  "imgfile"
+msgstr  "дѣло"
+
+msgid  "listfiles"
+msgstr  "дѣлъ каталогъ"
+
+msgid  "listfiles_name"
+msgstr  "и́мѧ"
+
+msgid  "listfiles_user"
+msgstr  "польꙃєватєл҄ь"
+
+msgid  "listfiles_size"
+msgstr  "мѣра"
+
+msgid  "file-anchor-link"
+msgstr  "дѣло"
+
+msgid  "filehist"
+msgstr  "дѣла їсторїꙗ"
+
+msgid  "filehist-deleteone"
+msgstr  "поничьжєниѥ"
+
+msgid  "filehist-current"
+msgstr  "нꙑнѣщьн҄ь обраꙁъ"
+
+msgid  "filehist-datetime"
+msgstr  "дьнь / врѣмѧ"
+
+msgid  "filehist-user"
+msgstr  "польꙃєватєл҄ь"
+
+msgid  "filehist-filesize"
+msgstr  "дѣла мѣра"
+
+msgid  "filehist-comment"
+msgstr  "опьсаниѥ"
+
+msgid  "imagelinks"
+msgstr  "дѣла съвѧꙁи"
+
+msgid  "sharedupload"
+msgstr  "сѥ дѣло въ $1 съхранѥно ѥстъ дѣла · ѥгожє дроугꙑ опꙑтьствованиѩ польꙃєвати могѫтъ"
+
+msgid  "filerevert-comment"
+msgstr  "какъ съмꙑслъ :"
+
+msgid  "filedelete"
+msgstr  "поничьжєниѥ $1"
+
+msgid  "filedelete-legend"
+msgstr  "дѣла поничьжєниѥ"
+
+msgid  "filedelete-comment"
+msgstr  "какъ съмꙑслъ :"
+
+msgid  "filedelete-submit"
+msgstr  "поничьжєниѥ"
+
+msgid  "mimetype"
+msgstr  "MIME тѷпъ :"
+
+msgid  "download"
+msgstr  "поѩти"
+
+msgid  "listredirects"
+msgstr  "прѣнаправлѥниꙗ"
+
+msgid  "randompage"
+msgstr  "страница въ нєꙁаапѫ"
+
+msgid  "randomredirect"
+msgstr  "прѣнаправлѥниє въ нєꙁаапѫ"
+
+msgid  "statistics"
+msgstr  "статїстїка"
+
+msgid  "statistics-header-pages"
+msgstr  "страницѧ статїстїка"
+
+msgid  "statistics-header-edits"
+msgstr  "мѣнъ статїстїка"
+
+msgid  "statistics-header-users"
+msgstr  "польꙃєватєлъ статїстїка"
+
+msgid  "statistics-articles"
+msgstr  "истиньнꙑ члѣни"
+
+msgid  "statistics-pages"
+msgstr  "страницѧ"
+
+msgid  "statistics-files"
+msgstr  "положєнꙑ дѣла"
+
+msgid  "disambiguations"
+msgstr  "мъногосъмꙑслиꙗ"
+
+msgid  "disambiguationspage"
+msgstr  "Template:мъногосъмꙑслиѥ"
+
+msgid  "brokenredirects-edit"
+msgstr  "исправи"
+
+msgid  "brokenredirects-delete"
+msgstr  "поничьжєниѥ"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|баитъ|баита|баитъ}}"
+
+msgid  "nlinks"
+msgstr  "$1 {{PLURAL:$1|съвѧꙁь|съвѧꙁи|съвѧꙁии}}"
+
+msgid  "shortpages"
+msgstr  "кратъкꙑ страницѧ"
+
+msgid  "listusers"
+msgstr  "польꙃєватєлъ каталогъ"
+
+msgid  "newpages"
+msgstr  "нови члѣни"
+
+msgid  "newpages-username"
+msgstr  "польꙃєватєлꙗ имѧ :"
+
+msgid  "move"
+msgstr  "прѣимєнованиѥ"
+
+msgid  "movethispage"
+msgstr  "си страницѧ прѣимєнованиѥ"
+
+msgid  "booksources-go"
+msgstr  "прѣиди"
+
+msgid  "specialloguserlabel"
+msgstr  "польꙃєватєл҄ь:"
+
+msgid  "speciallogtitlelabel"
+msgstr  "страницѧ имѧ :"
+
+msgid  "log"
+msgstr  "їсторїѩ"
+
+msgid  "all-logs-page"
+msgstr  "вьсѩ обьщѧ їсторїѩ"
+
+msgid  "allpages"
+msgstr  "вьсѩ страницѧ"
+
+msgid  "alphaindexline"
+msgstr  "отъ $1 до $2"
+
+msgid  "allpagesfrom"
+msgstr  "страницѧ видѣти хощѫ съ начѧльнами боукъвами :"
+
+msgid  "allarticles"
+msgstr  "вьсѩ страницѧ"
+
+msgid  "allpagessubmit"
+msgstr  "прѣиди"
+
+msgid  "categories"
+msgstr  "катигорїѩ"
+
+msgid  "deletedcontributions"
+msgstr  "поничьжєнꙑ добродѣꙗниꙗ"
+
+msgid  "deletedcontributions-title"
+msgstr  "поничьжєнꙑ добродѣꙗниꙗ"
+
+msgid  "linksearch"
+msgstr  "вънѣщьнѩ съвѧꙁи"
+
+msgid  "linksearch-ok"
+msgstr  "ищи"
+
+msgid  "listusers-submit"
+msgstr  "виждь"
+
+msgid  "newuserlogpage"
+msgstr  "новъ мѣстъ сътворѥниꙗ їсторїꙗ"
+
+msgid  "newuserlog-create-entry"
+msgstr  "новъ польꙃєватєл҄ь"
+
+msgid  "newuserlog-autocreate-entry"
+msgstr  "польꙃєватєлꙗ мѣсто аѵтоматичьно сътворєно ѥстъ"
+
+msgid  "emailuser"
+msgstr  "посъли єпїстолѫ"
+
+msgid  "watchlist"
+msgstr  "моꙗ блюдєниꙗ"
+
+msgid  "mywatchlist"
+msgstr  "моꙗ блюдєниꙗ"
+
+msgid  "addedwatch"
+msgstr  "страница нꙑнѣ подъ твоимь блюдєниѥмь ѥстъ"
+
+msgid  "addedwatchtext"
+msgstr  "страница ⁖ [[:$1]] ⁖ нꙑнѣ подъ твоимь [[Special:Watchlist|блюдєниѥмь]] ѥстъ ⁙\nвсꙗ ѥѩ и ѥѩжє бєсѣдꙑ мѣнꙑ страницѧ ⁖ [[Special:Watchlist|моꙗ блюдєниꙗ]] ⁖ покаꙁанꙑ сѫтъ и  [[Special:RecentChanges|послѣдьнъ мѣнъ]] каталоꙃѣ '''чрьнꙑимъ''' сѧ авлꙗѭтъ"
+
+msgid  "removedwatchtext"
+msgstr  "страница ⁖ [[:$1]] ⁖ нꙑнѣ твоѥго [[Special:Watchlist|блюдєниꙗ]] иꙁнєсєна ѥстъ"
+
+msgid  "watch"
+msgstr  "блюдєниѥ"
+
+msgid  "watchthispage"
+msgstr  "си страницѧ блюдєниѥ"
+
+msgid  "unwatch"
+msgstr  "остави блюдєниѥ"
+
+msgid  "watching"
+msgstr  "блюдєниѥ ..."
+
+msgid  "unwatching"
+msgstr  "оставьлєниѥ блюдєниꙗ ..."
+
+msgid  "created"
+msgstr  "сътворѥнъ ѥстъ"
+
+msgid  "deletepage"
+msgstr  "поничьжєниѥ"
+
+msgid  "excontent"
+msgstr  "вънѫтри бѣ: '$1'"
+
+msgid  "excontentauthor"
+msgstr  "вънѫтри бѣ : '$1' (и послѣдьн҄ии дѣтєл҄ь бѣ '[[Special:Contributions/$2|$2]]')"
+
+msgid  "delete-legend"
+msgstr  "поничьжєниѥ"
+
+msgid  "actioncomplete"
+msgstr  "дѣиство сътворєно ѥстъ"
+
+msgid  "deletedtext"
+msgstr  "страница ⁖ <nowiki>$1</nowiki> ⁖ поничьжєна ѥстъ ⁙\nвиждь ⁖ $2 ⁖ послѣдьнъ поничьжєниѩ дѣлꙗ"
+
+msgid  "deletedarticle"
+msgstr  "⁖ [[$1]] ⁖ поничьжєнъ ѥстъ"
+
+msgid  "dellogpage"
+msgstr  "поничьжєниꙗ їсторїꙗ"
+
+msgid  "deletionlog"
+msgstr  "поничьжєниꙗ їсторїꙗ"
+
+msgid  "deletecomment"
+msgstr  "какъ съмꙑслъ :"
+
+msgid  "protectlogpage"
+msgstr  "ꙁабранѥниꙗ їсторїꙗ"
+
+msgid  "protectedarticle"
+msgstr  "⁖ [[$1]] ⁖ ꙁабранѥна ѥстъ"
+
+msgid  "prot_1movedto2"
+msgstr  "⁖ [[$1]] ⁖ нарєчєнъ ⁖ [[$2]] ⁖ ѥстъ"
+
+msgid  "protectcomment"
+msgstr  "какъ съмꙑслъ :"
+
+msgid  "protect-level-sysop"
+msgstr  "толико съмотритєлє"
+
+msgid  "restriction-edit"
+msgstr  "исправи"
+
+msgid  "restriction-move"
+msgstr  "прѣимєнованиѥ"
+
+msgid  "restriction-upload"
+msgstr  "положєниѥ"
+
+msgid  "undeletecomment"
+msgstr  "какъ съмꙑслъ :"
+
+msgid  "undelete-search-submit"
+msgstr  "ищи"
+
+msgid  "namespace"
+msgstr  "имєнъ просторъ:"
+
+msgid  "blanknamespace"
+msgstr  "(главьно)"
+
+msgid  "contributions"
+msgstr  "польꙃєватєлꙗ добродѣꙗниꙗ"
+
+msgid  "contributions-title"
+msgstr  "польꙃєватєлꙗ ⁖ $1 ⁖ добродѣꙗниꙗ"
+
+msgid  "mycontris"
+msgstr  "моꙗ добродѣꙗниꙗ"
+
+msgid  "contribsub2"
+msgstr  "польꙃєватєлꙗ имѧ ⁖ $1 ⁖ ѥстъ ($2)"
+
+msgid  "uctop"
+msgstr  "(послѣдьнꙗ мѣна)"
+
+msgid  "sp-contributions-blocklog"
+msgstr  "ꙁаграждєниꙗ їсторїꙗ"
+
+msgid  "sp-contributions-deleted"
+msgstr  "поничьжєнꙑ добродѣꙗниꙗ"
+
+msgid  "sp-contributions-talk"
+msgstr  "бєсѣда"
+
+msgid  "sp-contributions-username"
+msgstr  "IP число или польꙃєватєлꙗ имѧ :"
+
+msgid  "sp-contributions-submit"
+msgstr  "ищи"
+
+msgid  "whatlinkshere"
+msgstr  "дос̑ьдєщьнѩ съвѧꙁи"
+
+msgid  "whatlinkshere-title"
+msgstr  "страницѧ ижє съ ⁖ $1 ⁖ съвѧꙁи имѫтъ"
+
+msgid  "whatlinkshere-page"
+msgstr  "страница :"
+
+msgid  "isredirect"
+msgstr  "прѣнаправлѥниѥ"
+
+msgid  "istemplate"
+msgstr  "внѫтри страницѧ"
+
+msgid  "whatlinkshere-links"
+msgstr  "← съвѧꙁи"
+
+msgid  "whatlinkshere-hideredirs"
+msgstr  "$1 прѣнаправлѥниꙗ"
+
+msgid  "whatlinkshere-hidelinks"
+msgstr  "$1 съвѧꙁи"
+
+msgid  "blockip"
+msgstr  "ꙁагради польꙃєватєл҄ь"
+
+msgid  "ipadressorusername"
+msgstr  "IP число или польꙃєватєлꙗ имѧ :"
+
+msgid  "ipbreason"
+msgstr  "какъ съмꙑслъ :"
+
+msgid  "ipblocklist"
+msgstr  "ꙁаграждєнꙑ польꙃєватєлє"
+
+msgid  "ipblocklist-submit"
+msgstr  "исканиѥ"
+
+msgid  "blocklink"
+msgstr  "ꙁагради"
+
+msgid  "contribslink"
+msgstr  "добродѣꙗниꙗ"
+
+msgid  "blocklogpage"
+msgstr  "ꙁаграждєниꙗ їсторїꙗ"
+
+msgid  "move-page"
+msgstr  "прѣимєнованиѥ ⁖ $1 ⁖"
+
+msgid  "move-page-legend"
+msgstr  "страницѧ прѣимєнованиѥ"
+
+msgid  "movearticle"
+msgstr  "страница :"
+
+msgid  "newtitle"
+msgstr  "ново имѧ :"
+
+msgid  "move-watch"
+msgstr  "си страницѧ блюдєниѥ"
+
+msgid  "movepagebtn"
+msgstr  "прѣимєнованиѥ"
+
+msgid  "pagemovedsub"
+msgstr  "прѣимєнованиѥ сътворѥно ѥстъ"
+
+msgid  "movepage-moved"
+msgstr  "'''⁖ $1 ⁖ нарєчєнъ ⁖ $2⁖ ѥстъ'''"
+
+msgid  "movepage-moved-redirect"
+msgstr  "прѣнаправлѥниѥ сътворѥно бѣ"
+
+msgid  "movedto"
+msgstr  "прѣимєновано въ"
+
+msgid  "movetalk"
+msgstr  "си страницѧ бєсѣдꙑ прѣимєнованиѥ"
+
+msgid  "1movedto2"
+msgstr  "⁖ [[$1]] ⁖ нарєчєнъ ⁖ [[$2]] ⁖ ѥстъ"
+
+msgid  "1movedto2_redir"
+msgstr  "[[$1]] нарєчєнъ [[$2]] врьхоу прѣнаправлѥниꙗ ѥстъ."
+
+msgid  "movelogpage"
+msgstr  "прѣимєнованиꙗ їсторїꙗ"
+
+msgid  "movereason"
+msgstr  "какъ съмꙑслъ :"
+
+msgid  "move-leave-redirect"
+msgstr  "прѣнаправлѥниꙗ сътворѥниѥ"
+
+msgid  "allmessages"
+msgstr  "сѷстимьнꙑ напьсаниꙗ"
+
+msgid  "allmessagesname"
+msgstr  "имѧ"
+
+msgid  "tooltip-pt-userpage"
+msgstr  "твоꙗ польꙃєватєл҄ьска страница"
+
+msgid  "tooltip-pt-mytalk"
+msgstr  "твоꙗ бєсѣдꙑ страница"
+
+msgid  "tooltip-pt-preferences"
+msgstr  "твои строи"
+
+msgid  "tooltip-pt-mycontris"
+msgstr  "твоѩ добродѣꙗнии каталогъ"
+
+msgid  "tooltip-pt-logout"
+msgstr  "ис̾ходъ"
+
+msgid  "tooltip-ca-talk"
+msgstr  "си страницѧ бєсѣда"
+
+msgid  "tooltip-ca-viewsource"
+msgstr  "си страница ꙁабранєна ѥстъ ⁙\nѥѩ источьнъ обраꙁъ видєти можєши"
+
+msgid  "tooltip-ca-protect"
+msgstr  "си страницѧ ꙁабранєниѥ"
+
+msgid  "tooltip-ca-delete"
+msgstr  "си страницѧ поничьжєниѥ"
+
+msgid  "tooltip-ca-move"
+msgstr  "си страницѧ прѣимєнованиѥ"
+
+msgid  "tooltip-ca-watch"
+msgstr  "си страницѧ блюдєниѥ"
+
+msgid  "tooltip-search"
+msgstr  "ищи {{{grammar:genitive|{{SITENAME}}}}} страницѧ"
+
+msgid  "tooltip-p-logo"
+msgstr  "главьна страница"
+
+msgid  "tooltip-n-mainpage"
+msgstr  "виждь главьноу страницѫ"
+
+msgid  "tooltip-n-mainpage-description"
+msgstr  "виждь главьноу страницѫ"
+
+msgid  "tooltip-n-recentchanges"
+msgstr  "послѣдьн҄ь мѣнъ каталогъ"
+
+msgid  "tooltip-t-contributions"
+msgstr  "виждь польꙃєватєлꙗ добродѣꙗнии каталогъ"
+
+msgid  "tooltip-t-upload"
+msgstr  "положєниѥ дѣлъ"
+
+msgid  "tooltip-t-specialpages"
+msgstr  "вьсѣѩ нарочьнъ страницѧ каталогъ"
+
+msgid  "tooltip-t-print"
+msgstr  "сѥѩ страницѧ пєчатьнъ обраꙁъ"
+
+msgid  "tooltip-ca-nstab-special"
+msgstr  "си нарочьна страница ѥстъ · ѥѩжє иꙁмѣнꙗти нє можєши"
+
+msgid  "tooltip-watch"
+msgstr  "си страницѧ блюдєниѥ"
+
+msgid  "file-info-size"
+msgstr  "$1 × $2 п҃ѯ · дѣла мѣра : $3 · MIME тѷпъ : $4"
+
+msgid  "svg-long-desc"
+msgstr  "дѣло SVG · обꙑчьнъ обраꙁъ : $1 × $2 п҃ѯ · дѣла мѣра : $3"
+
+msgid  "show-big-image"
+msgstr  "пльнъ вида обраꙁъ"
+
+msgid  "ilsubmit"
+msgstr  "ищи"
+
+msgid  "exif-artist"
+msgstr  "творьць"
+
+msgid  "watchlistall2"
+msgstr  "вьсꙗ"
+
+msgid  "namespacesall"
+msgstr  "вьсꙗ"
+
+msgid  "monthsall"
+msgstr  "вьсѩ"
+
+msgid  "unit-pixel"
+msgstr  "п҃ѯ"
+
+msgid  "imgmultigo"
+msgstr  "прѣиди"
+
+msgid  "table_pager_limit_submit"
+msgstr  "прѣиди"
+
+msgid  "autosumm-new"
+msgstr  "нова страница ⁖ $1 ⁖ сътворєна  ѥстъ"
+
+msgid  "size-bytes"
+msgstr  "$1 Б҃"
+
+msgid  "version"
+msgstr  "MediaWiki обраꙁъ"
+
+msgid  "version-version"
+msgstr  "(обраꙁъ $1)"
+
+msgid  "version-license"
+msgstr  "прощєниѥ"
+
+msgid  "version-software-version"
+msgstr  "обраꙁъ"
+
+msgid  "filepath-page"
+msgstr  "дѣло :"
+
+msgid  "fileduplicatesearch-submit"
+msgstr  "ищи"
+
+msgid  "specialpages"
+msgstr  "нарочьнꙑ страницѧ"
+
+msgid  "tags-edit"
+msgstr  "исправи"
+
+msgid  "wm-license-cc-by-1.0-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-1.0-fi-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/ Attribution 1.0 Finland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-1.0-il-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/ Attribution 1.0 Israel] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-1.0-nl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/ Attribution 1.0 Netherlands] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ Attribution 2.0 Generic] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-at-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/ Attribution 2.0 Austria] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-au-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/ Attribution 2.0 Australia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-be-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/ Attribution 2.0 Belgium] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-br-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/ Attribution 2.0 Brazil] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-ca-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ca/ Attribution 2.0 Canada] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-cl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/cl/ Attribution 2.0 Chile] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-de-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/de/ Attribution 2.0 Germany] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-es-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/es/ Attribution 2.0 Spain] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-fr-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/fr/ Attribution 2.0 France] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-hr-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/hr/ Attribution 2.0 Croatia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-it-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/it/ Attribution 2.0 Italy] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-jp-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/jp/ Attribution 2.0 Japan] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-kr-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/kr/ Attribution 2.0 Korea] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-nl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/nl/ Attribution 2.0 Netherlands] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-pl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/pl/ Attribution 2.0 Poland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-tw-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/tw/ Attribution 2.0 Taiwan] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-uk-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/uk/ Attribution 2.0 UK: England & Wales] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.0-za-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/za/ Attribution 2.0 South Africa] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.1-au-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/au/ Attribution 2.1 Australia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.1-es-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/es/ Attribution 2.1 Spain] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.1-jp-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/jp/ Attribution 2.1 Japan] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ Attribution 2.5 Generic] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-au-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/au/ Attribution 2.5 Australia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-bg-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/bg/ Attribution 2.5 Bulgaria] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-br-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/br/ Attribution 2.5 Brazil] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-ca-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ca/ Attribution 2.5 Canada] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-ch-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ch/ Attribution 2.5 Switzerland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-cn-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/cn/ Attribution 2.5 China Mainland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-co-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/co/ Attribution 2.5 Colombia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-dk-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/dk/ Attribution 2.5 Denmark] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-es-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/es/ Attribution 2.5 Spain] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-hr-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hr/ Attribution 2.5 Croatia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-hu-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hu/ Attribution 2.5 Hungary] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-il-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/il/ Attribution 2.5 Israel] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-in-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/in/ Attribution 2.5 India] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-it-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/it/ Attribution 2.5 Italy] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-mk-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mk/ Attribution 2.5 Macedonia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-mt-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mt/ Attribution 2.5 Malta] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-mx-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mx/ Attribution 2.5 Mexico] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-my-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/my/ Attribution 2.5 Malaysia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-nl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/nl/ Attribution 2.5 Netherlands] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-pe-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pe/ Attribution 2.5 Peru] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-pl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pl/ Attribution 2.5 Poland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-pt-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pt/ Attribution 2.5 Portugal] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-scotland-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/scotland/ Attribution 2.5 UK: Scotland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-se-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/se/ Attribution 2.5 Sweden] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-si-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/si/ Attribution 2.5 Slovenia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-tw-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/tw/ Attribution 2.5 Taiwan] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-2.5-za-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/za/ Attribution 2.5 South Africa] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-2.5-2.0-1.0-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѩ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution [http://creativecommons.org/licenses/by/3.0/ 3.0 Unported] · [http://creativecommons.org/licenses/by/2.5/ 2.5 Generic] · [http://creativecommons.org/licenses/by/2.0/ 2.0 Generic] и [http://creativecommons.org/licenses/by/1.0/ 1.0 Generic] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-at-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/ Attribution 3.0 Austria] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-cz-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/cz/ Attribution 3.0 Czech Republic] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-de-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/de/ Attribution 3.0 Germany] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-es-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/es/ Attribution 3.0 Spain] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-gr-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/gr/ Attribution 3.0 Greece] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-gt-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/gt/ Attribution 3.0 Guatemala] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-hr-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/hr/ Attribution 3.0 Croatia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-hk-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/hk/ Attribution 3.0 Hong Kong] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-lu-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/lu/ Attribution 3.0 Luxembourg] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-nl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nl/ Attribution 3.0 Netherlands] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-no-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/no/ Attribution 3.0 Norway] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-nz-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nz/ Attribution 3.0 New Zealand] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-ph-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ph/ Attribution 3.0 Philippines] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-pl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/pl/ Attribution 3.0 Poland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-pr-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/pr/ Attribution 3.0 Puerto Rico] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-ro-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ro/ Attribution 3.0 Romania] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-rs-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/rs/ Attribution 3.0 Serbia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-sg-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/sg/ Attribution 3.0 Singapore] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-th-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/th/ Attribution 3.0 Thailand] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-tw-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/tw/ Attribution 3.0 Taiwan] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-3.0-us-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/us/ Attribution 3.0 United States] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-1.0-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/ Attribution-Share Alike 1.0 Generic] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-1.0-fi-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/fi/ Attribution-Share Alike 1.0 Finland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-1.0-il-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/il/ Attribution-Share Alike 1.0 Israel] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-1.0-nl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/nl/ Attribution-Share Alike 1.0 Netherlands] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ Attribution-Share Alike 2.0 Generic] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-at-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/at/ Attribution-Share Alike 2.0 Austria] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-au-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/au/ Attribution-Share Alike 2.0 Australia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-be-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/be/ Attribution-Share Alike 2.0 Belgium] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-br-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/br/ Attribution-Share Alike 2.0 Brazil] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-ca-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ca/ Attribution-Share Alike 2.0 Canada] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-cl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/cl/ Attribution-Share Alike 2.0 Chile] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-de-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/de/ Attribution-Share Alike 2.0 Germany] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-es-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/es/ Attribution-Share Alike 2.0 Spain] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-fr-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/fr/ Attribution-Share Alike 2.0 France] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-hr-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/hr/ Attribution-Share Alike 2.0 Croatia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-it-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/it/ Attribution-Share Alike 2.0 Italy] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-jp-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/jp/ Attribution-Share Alike 2.0 Japan] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-kr-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/kr/ Attribution-Share Alike 2.0 Korea] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-nl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/nl/ Attribution-Share Alike 2.0 Netherlands] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-pl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/pl/ Attribution-Share Alike 2.0 Poland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-tw-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/tw/ Attribution-Share Alike 2.0 Taiwan] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-uk-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/uk/ Attribution-Share Alike 2.0 UK: England & Wales] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.0-za-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/za/ Attribution-Share Alike 2.0 South Africa] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.1-au-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/au/ Attribution-Share Alike 2.1 Australia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.1-es-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/es/ Attribution-Share Alike 2.1 Spain] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.1-jp-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/jp/ Attribution-Share Alike 2.1 Japan] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ Attribution-Share Alike 2.5 Generic] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-ar-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ar/ Attribution-Share Alike 2.5 Argentina] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-au-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/au/ Attribution-Share Alike 2.5 Australia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-bg-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/bg/ Attribution-Share Alike 2.5 Bulgaria] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-br-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/br/ Attribution-Share Alike 2.5 Brazil] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-ca-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ca/ Attribution-Share Alike 2.5 Canada] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-ch-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ch/ Attribution-Share Alike 2.5 Switzerland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-cn-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/cn/ Attribution-Share Alike 2.5 China Mainland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-co-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/co/ Attribution-Share Alike 2.5 Colombia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-dk-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/dk/ Attribution-Share Alike 2.5 Denmark] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-es-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/es/ Attribution-Share Alike 2.5 Spain] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-hr-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/hr/ Attribution-Share Alike 2.5 Croatia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-hu-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/hu/ Attribution-Share Alike 2.5 Hungary] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-il-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/il/ Attribution-Share Alike 2.5 Israel] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-in-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/in/ Attribution-Share Alike 2.5 India] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-it-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/it/ Attribution-Share Alike 2.5 Italy] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-mk-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/mk/ Attribution-Share Alike 2.5 Macedonia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-mt-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/mt/ Attribution-Share Alike 2.5 Malta] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-mx-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/mx/ Attribution-Share Alike 2.5 Mexico] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-my-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/my/ Attribution-Share Alike 2.5 Malaysia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-nl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/nl/ Attribution-Share Alike 2.5 Netherlands] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-pe-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/pe/ Attribution-Share Alike 2.5 Peru] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-pl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/pl/ Attribution-Share Alike 2.5 Poland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-pt-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/pt/ Attribution-Share Alike 2.5 Portugal] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-scotland-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/scotland/ Attribution-Share Alike 2.5 UK: Scotland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-se-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/se/ Attribution-Share Alike 2.5 Sweden] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-si-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/si/ Attribution-Share Alike 2.5 Slovenia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-tw-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/tw/ Attribution-Share Alike 2.5 Taiwan] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-2.5-za-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/za/ Attribution-Share Alike 2.5 South Africa] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѩ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [http://creativecommons.org/licenses/by-sa/3.0/ 3.0 Unported] · [http://creativecommons.org/licenses/by-sa/2.5/ 2.5 Generic] · [http://creativecommons.org/licenses/by-sa/2.0/ 2.0 Generic] и [http://creativecommons.org/licenses/by-sa/1.0/ 1.0 Generic] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-at-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/at/ Attribution-Share Alike 3.0 Austria] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-cz-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/cz/ Attribution-Share Alike 3.0 Czech Republic] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-de-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/de/ Attribution-Share Alike 3.0 Germany] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-es-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/es/ Attribution-Share Alike 3.0 Spain] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-gr-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/gr/ Attribution-Share Alike 3.0 Greece] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-gt-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/gt/ Attribution-Share Alike 3.0 Guatemala] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-hk-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/hk/ Attribution-Share Alike 3.0 Hong Kong] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-hr-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/hr/ Attribution-Share Alike 3.0 Croatia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-lu-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/lu/ Attribution-Share Alike 3.0 Luxembourg] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-nl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/nl/ Attribution-Share Alike 3.0 Netherlands] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-no-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/no/ Attribution-Share Alike 3.0 Norway] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-nz-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/nz/ Attribution-Share Alike 3.0 New Zealand] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-ph-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ph/ Attribution-Share Alike 3.0 Philippines] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-pl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/pl/ Attribution-Share Alike 3.0 Poland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-pr-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/pr/ Attribution-Share Alike 3.0 Puerto Rico] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-ro-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ro/ Attribution-Share Alike 3.0 Romania] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-rs-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/rs/ Attribution-Share Alike 3.0 Serbia] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-sg-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/sg/ Attribution-Share Alike 3.0 Singapore] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-th-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/th/ Attribution-Share Alike 3.0 Thailand] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-tw-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/tw/ Attribution-Share Alike 3.0 Taiwan] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-by-sa-3.0-us-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/us/ Attribution-Share Alike 3.0 United States] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-sa-1.0-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/ Share Alike 1.0 Generic] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-sa-1.0-fi-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/fi/ Share Alike 1.0 Finland] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-sa-1.0-nl-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/nl/ Share Alike 1.0 Netherlands] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-sa-2.0-jp-text"
+msgstr  "сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/2.0/jp/ Share Alike 2.0 Japan] положєно ѥ́стъ"
+
+msgid  "wm-license-cc-free"
+msgstr  "тꙑ можєши :"
+
+msgid  "wm-license-information-author"
+msgstr  "творьць"
+

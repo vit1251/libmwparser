@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "wm-license-cc-wiki-link"
+msgstr  "w:fy:Creative Commons"
+
+msgid  "wm-license-gfdl-1.2-and-later"
+msgstr  "Der wurdt tastimming jûn ta kopiearjen, fersprieden en/of wizigjen fan dit dokumint ûnder de betinksten fan de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-lisinsje foar iepen dokumintaasje]]''', ferzje 1.2, as eltse lettere ferzje útjûn troch de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sûnder Ynfariante Seksjes, sûnder Omkaftteksten foar de Foarkante en sûnder Omkaftteksten foar de Efterkante. In kopy fan de lisinsje is opnaam yn de seksje \"[[{{int:wm-license-gfdl-full-1.2-link}}|Text of the GNU Free Documentation License]]\"."
+
+msgid  "wm-license-gfdl-wiki-link"
+msgstr  "w:fy:GNU/FDL"
+
+msgid  "wm-license-information-description"
+msgstr  "Beskriuwing"
+
+msgid  "wm-license-information-source"
+msgstr  "Boarne"
+
+msgid  "wm-license-information-date"
+msgstr  "Datum"
+
+msgid  "wm-license-information-author"
+msgstr  "Auteur"
+
+msgid  "wm-license-information-permission"
+msgstr  "Tastimming"
+
+msgid  "wm-license-information-permission-see-below"
+msgstr  "Sjoch ûnder."
+
+msgid  "wm-license-information-other-versions"
+msgstr  "Oare ferzjes"
+
+msgid  "wm-license-own-work"
+msgstr  "Eigen wurk"
+

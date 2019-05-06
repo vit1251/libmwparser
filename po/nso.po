@@ -1,0 +1,2682 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nso\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "KGWEDI_BJALE"
+msgstr "CURRENTMONTH2"
+
+msgid  "CURRENTMONTH"
+msgstr "CURRENTMONTH2"
+
+msgid  "LEINA_KGWEDI_BJALE"
+msgstr "CURRENTMONTHNAME"
+
+msgid  "LEHONO_LETSATSI"
+msgstr "CURRENTDAY"
+
+msgid  "LEHONO_LETSATSI2"
+msgstr "CURRENTDAY2"
+
+msgid  "LEHONO_LETSATSILEINA"
+msgstr "CURRENTDAYNAME"
+
+msgid  "NGWAGA_BJALE"
+msgstr "CURRENTYEAR"
+
+msgid  "NAKO_BJALE"
+msgstr "CURRENTTIME"
+
+msgid  "IRI_BJALE"
+msgstr "CURRENTHOUR"
+
+msgid  "tog-underline"
+msgstr  "Tsenya mothalafase go dihlomaganyo:"
+
+msgid  "tog-highlightbroken"
+msgstr  "Laetša dihlomaganyo tša go senyega <a href=\"\" class=\"new\">ga mokgwa wo</a> (goba: ka mokgwa wo<a href=\"\" class=\"internal\">?</a>)."
+
+msgid  "tog-hideminor"
+msgstr  "Fihla diphetogo tše nnyenyane"
+
+msgid  "tog-showtoolbar"
+msgstr  "Bontšha ''toolbar'' yago fetola (JavaScript)"
+
+msgid  "tog-editondblclick"
+msgstr  "Fetola matlakala ka go thathapa gabedi (JavaScript)"
+
+msgid  "tog-editsection"
+msgstr  "Dumella go fetola sekgao ka [fetola] hlomaganyo"
+
+msgid  "tog-editsectiononrightclick"
+msgstr  "Dumella go fetola sekgao ka thathapa ka lagoja thaetlele ya sekgao (JavaScript)"
+
+msgid  "tog-showtoc"
+msgstr  "Bontšha Tatelano ya dikagare (go matlakala a goba le dihlogo tša go feta 3)"
+
+msgid  "tog-rememberpassword"
+msgstr  "Gopola sedi yaka ya go tsena khomphutha ye (bogolo bja  $1 bja {{PLURAL:$1| ya letšatši le|ya matšatši}})"
+
+msgid  "tog-watchcreations"
+msgstr  "Tsenya matlaka a mafsa ao ke a ngwalago go lenano laka la ditlhapetšo"
+
+msgid  "tog-watchdefault"
+msgstr  "Tsenya matlaka ao ke a fetolago go lenano laka la ditlhapetšo"
+
+msgid  "tog-watchmoves"
+msgstr  "Tsenya matlaka ao ke a hudušago go lenano laka la ditlhapetšo"
+
+msgid  "tog-watchdeletion"
+msgstr  "Tsenya matlaka ao ke a phumulago go lenano laka la ditlhapetšo"
+
+msgid  "tog-minordefault"
+msgstr  "Swaya diphetogo ka moka bjalo ka diphetogo tše nnyenyane"
+
+msgid  "tog-previewontop"
+msgstr  "Bontšha Ponopele pele ga lepokisi la diphetogo"
+
+msgid  "tog-previewonfirst"
+msgstr  "Bontšha Ponopeleka phetogo ya pele"
+
+msgid  "tog-nocache"
+msgstr  "Thibela go tsenya matlakala go segakolodi (''cache'')"
+
+msgid  "tog-enotifwatchlistpages"
+msgstr  "Nromele molaetša ge letlaka leo ke le tlhapetšego le eba le diphetogo"
+
+msgid  "tog-enotifusertalkpages"
+msgstr  "Nromele molaetša ge letlakala la Dipoledišano laka le fetoga"
+
+msgid  "tog-enotifminoredits"
+msgstr  "Nromele email ge goba le diphetogo tše nnyenyane go matlakala"
+
+msgid  "tog-enotifrevealaddr"
+msgstr  "Bonagatša email atrese go temošo tša poso"
+
+msgid  "tog-shownumberswatching"
+msgstr  "Laetša palo bašomiši bao ba tlhapetšego"
+
+msgid  "tog-fancysig"
+msgstr  "Tsaeno ya gose fihliwe"
+
+msgid  "tog-externaleditor"
+msgstr  "Šomiša sengwadi sa kantle (bašumiši bao banalego botsibi fela.  [http://www.mediawiki.org/wiki/Manual:External_editors More information.])"
+
+msgid  "tog-forceeditsummary"
+msgstr  "Ntaetše ge kesa tsenye mongwalo go kakaretšo ya dithetogo"
+
+msgid  "tog-watchlisthideown"
+msgstr  "Fihla diphetogo tšeo di direlego ke nna go lenano la ditlhapetšo."
+
+msgid  "tog-watchlisthideminor"
+msgstr  "Fihla diphetogo tše nyenyane tšeo di direlego ke nna go lenano la ditlhapetšo"
+
+msgid  "tog-ccmeonemails"
+msgstr  "Nromele kopi ya melaetša yeo ke romelago bašumiši ba bangwe"
+
+msgid  "underline-always"
+msgstr  "Kamehla"
+
+msgid  "underline-never"
+msgstr  "Le ga tee"
+
+msgid  "sunday"
+msgstr  "Sontaga"
+
+msgid  "monday"
+msgstr  "Mošupologo"
+
+msgid  "tuesday"
+msgstr  "Labobedi"
+
+msgid  "wednesday"
+msgstr  "Laboraro"
+
+msgid  "thursday"
+msgstr  "Labone"
+
+msgid  "friday"
+msgstr  "Labohlano"
+
+msgid  "saturday"
+msgstr  "Mokibelo"
+
+msgid  "sun"
+msgstr  "Sontaga"
+
+msgid  "mon"
+msgstr  "Mošupologo"
+
+msgid  "tue"
+msgstr  "Labobedi"
+
+msgid  "wed"
+msgstr  "Laboraro"
+
+msgid  "thu"
+msgstr  "Labone"
+
+msgid  "fri"
+msgstr  "Labohlano"
+
+msgid  "sat"
+msgstr  "Mokibelo"
+
+msgid  "january"
+msgstr  "Pherekgong"
+
+msgid  "february"
+msgstr  "Dibokwane"
+
+msgid  "march"
+msgstr  "Hlakola"
+
+msgid  "april"
+msgstr  "Moranang"
+
+msgid  "may_long"
+msgstr  "Mopitlo"
+
+msgid  "june"
+msgstr  "Phupu"
+
+msgid  "july"
+msgstr  "Mosegamanye"
+
+msgid  "august"
+msgstr  "Phato"
+
+msgid  "september"
+msgstr  "Lewedi"
+
+msgid  "october"
+msgstr  "Diphalane"
+
+msgid  "november"
+msgstr  "Dibatsela"
+
+msgid  "december"
+msgstr  "Manthole"
+
+msgid  "january-gen"
+msgstr  "Pherekgong"
+
+msgid  "february-gen"
+msgstr  "Dibokwane"
+
+msgid  "march-gen"
+msgstr  "Hlakola"
+
+msgid  "april-gen"
+msgstr  "Moranang"
+
+msgid  "may-gen"
+msgstr  "Mopitlo"
+
+msgid  "june-gen"
+msgstr  "Phupu"
+
+msgid  "july-gen"
+msgstr  "Mosegamanye"
+
+msgid  "august-gen"
+msgstr  "Phato"
+
+msgid  "september-gen"
+msgstr  "Lewedi"
+
+msgid  "october-gen"
+msgstr  "Diphalane"
+
+msgid  "november-gen"
+msgstr  "Dibatsela"
+
+msgid  "december-gen"
+msgstr  "Manthole"
+
+msgid  "jan"
+msgstr  "Pherekgong"
+
+msgid  "feb"
+msgstr  "Dibokwane"
+
+msgid  "mar"
+msgstr  "Hlakola"
+
+msgid  "apr"
+msgstr  "Moranang"
+
+msgid  "may"
+msgstr  "May"
+
+msgid  "jun"
+msgstr  "Phupu"
+
+msgid  "jul"
+msgstr  "Mosegamanye"
+
+msgid  "aug"
+msgstr  "Phato"
+
+msgid  "sep"
+msgstr  "Lewedi"
+
+msgid  "oct"
+msgstr  "Diphalane"
+
+msgid  "nov"
+msgstr  "Dibatsela"
+
+msgid  "dec"
+msgstr  "Manthole"
+
+msgid  "pagecategories"
+msgstr  "{{PLURAL:$1|Sehlopha|Dihlopha}}"
+
+msgid  "category_header"
+msgstr  "Matlakala go sehlopha \"$1\""
+
+msgid  "subcategories"
+msgstr  "Dihlophana"
+
+msgid  "category-media-header"
+msgstr  "Matlakala goba difaele go sehlopha \"$1\""
+
+msgid  "category-empty"
+msgstr  "''Sehlopha se, ga se na matlakala goba difaele.''"
+
+msgid  "hidden-categories"
+msgstr  "{{PLURAL:$1|Sehlopha sago huta|Dihlopha tšago huta}}"
+
+msgid  "category-subcat-count"
+msgstr  "{{PLURAL:$2|\"Category\" ye, e nale \"subcategory\" ye fela.|\"Category\" ye, e nale {{PLURAL:$1|subcategory|$1 subcategories}}, go tše $2 ka palo.}}"
+
+msgid  "category-article-count"
+msgstr  "{{PLURAL:$2|Sehlopha se, se na le letlakala le fela.| {{PLURAL:$1|Letlakala le, le |$1 ya matlakala a}} go sehlopha \"category\" se, go $2 ya matlakala.}}"
+
+msgid  "listingcontinuesabbrev"
+msgstr  "tšweletša"
+
+msgid  "about"
+msgstr  "Mabapi"
+
+msgid  "article"
+msgstr  "Letlakala la mateng"
+
+msgid  "newwindow"
+msgstr  "(e bula lefastere le lempsha)"
+
+msgid  "cancel"
+msgstr  "Khansela"
+
+msgid  "moredotdotdot"
+msgstr  "Tše dingwe..."
+
+msgid  "mypage"
+msgstr  "Letlakala la ka"
+
+msgid  "mytalk"
+msgstr  "Dipolelo tša ka"
+
+msgid  "anontalk"
+msgstr  "Poledišano ya IP ye"
+
+msgid  "navigation"
+msgstr  "Tšwelotšo"
+
+msgid  "and"
+msgstr  "&#32;le"
+
+msgid  "qbfind"
+msgstr  "Humana"
+
+msgid  "qbedit"
+msgstr  "Fetola"
+
+msgid  "qbpageoptions"
+msgstr  "Letlakala le"
+
+msgid  "qbmyoptions"
+msgstr  "Matlakala a ka"
+
+msgid  "qbspecialpages"
+msgstr  "Matlakala a itšego"
+
+msgid  "errorpagetitle"
+msgstr  "Phošo"
+
+msgid  "returnto"
+msgstr  "Boela go $1."
+
+msgid  "tagline"
+msgstr  "Gotšwa go {{SITENAME}}"
+
+msgid  "help"
+msgstr  "Thušo"
+
+msgid  "search"
+msgstr  "Fetleka"
+
+msgid  "searchbutton"
+msgstr  "Fetleka"
+
+msgid  "go"
+msgstr  "Sepela"
+
+msgid  "searcharticle"
+msgstr  "Eya"
+
+msgid  "history"
+msgstr  "Histori ya letlakala"
+
+msgid  "history_short"
+msgstr  "Histori"
+
+msgid  "updatedmarker"
+msgstr  "fetotšwe esale ketelo yaka ya mafelelo"
+
+msgid  "info_short"
+msgstr  "Sedi"
+
+msgid  "printableversion"
+msgstr  "''Version'' ya go gatišega"
+
+msgid  "permalink"
+msgstr  "Hlomaganyo yao e tiišeditšwego"
+
+msgid  "edit"
+msgstr  "Fetola"
+
+msgid  "create"
+msgstr  "Tlhoma"
+
+msgid  "editthispage"
+msgstr  "Fetola letlakala  le"
+
+msgid  "create-this-page"
+msgstr  "Tlhoma letlakala le"
+
+msgid  "delete"
+msgstr  "Phumula"
+
+msgid  "deletethispage"
+msgstr  "Phumula letlakala le"
+
+msgid  "protect"
+msgstr  "Lota"
+
+msgid  "protect_change"
+msgstr  "Fetola go lotega"
+
+msgid  "protectthispage"
+msgstr  "Lota letlakala le"
+
+msgid  "unprotect"
+msgstr  "Tloša go lota"
+
+msgid  "unprotectthispage"
+msgstr  "Tloša go lota letlakaleng"
+
+msgid  "newpage"
+msgstr  "Letlakala le lempsha"
+
+msgid  "talkpage"
+msgstr  "Rêrišana ka letlakala le"
+
+msgid  "talkpagelinktext"
+msgstr  "Bolela"
+
+msgid  "specialpage"
+msgstr  "Matlaka a itšeng"
+
+msgid  "personaltools"
+msgstr  "Dithulusu tša gago (''personal'')"
+
+msgid  "postcomment"
+msgstr  "Sekgao se sempsha"
+
+msgid  "articlepage"
+msgstr  "Nyakoretša letlakala la mateng"
+
+msgid  "talk"
+msgstr  "Poledišano"
+
+msgid  "views"
+msgstr  "Dinyakorêtšo"
+
+msgid  "toolbox"
+msgstr  "Lepokisi la dithulusu"
+
+msgid  "userpage"
+msgstr  "Nyakorela letlakala la mošomiši"
+
+msgid  "projectpage"
+msgstr  "Nyakoretša letlakala la tirotherwa"
+
+msgid  "imagepage"
+msgstr  "Nyakoretša letlakala la ''file''"
+
+msgid  "mediawikipage"
+msgstr  "Nyakoretša letlakala la melaetša"
+
+msgid  "templatepage"
+msgstr  "Nyakoretša letlakala la ''template''"
+
+msgid  "viewhelppage"
+msgstr  "Nyakoretša letlakala la thušo"
+
+msgid  "categorypage"
+msgstr  "Nyakoretša letlakala la sehlopha"
+
+msgid  "viewtalkpage"
+msgstr  "Nyakoretša dipoledišano"
+
+msgid  "otherlanguages"
+msgstr  "Ka dipolelo tše dingwe"
+
+msgid  "redirectedfrom"
+msgstr  "(''Redirect'' go tšwa $1)"
+
+msgid  "redirectpagesub"
+msgstr  "''Redirect'' letlakala"
+
+msgid  "lastmodifiedat"
+msgstr  "Letlakala le  fetotšwe la mafelelo ka $2, $1."
+
+msgid  "viewcount"
+msgstr  "Letlakala le le butšwe ga {{PLURAL:$1|tee|$1}}."
+
+msgid  "protectedpage"
+msgstr  "Letlakala la go lotiwa"
+
+msgid  "jumpto"
+msgstr  "Taboga go:"
+
+msgid  "jumptonavigation"
+msgstr  "Tšweletšo"
+
+msgid  "jumptosearch"
+msgstr  "fetleka"
+
+msgid  "aboutsite"
+msgstr  "Mabapi le {{SITENAME}}"
+
+msgid  "aboutpage"
+msgstr  "Project:Mabapi"
+
+msgid  "copyright"
+msgstr  "Mateng a hwetšagala tlase ga $1."
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:Tomello ya Mongwadi"
+
+msgid  "currentevents"
+msgstr  "Ditirago tša bjale"
+
+msgid  "currentevents-url"
+msgstr  "Project:Ditiragalo tša bjale"
+
+msgid  "disclaimers"
+msgstr  "Hlapa-matsogo"
+
+msgid  "disclaimerpage"
+msgstr  "Project:Hlapa-Matsogo"
+
+msgid  "edithelp"
+msgstr  "Thušo ya go fetola"
+
+msgid  "edithelppage"
+msgstr  "Help:Fetola"
+
+msgid  "helppage"
+msgstr  "Help:Mateng"
+
+msgid  "mainpage"
+msgstr  "Letlakala la Pele"
+
+msgid  "mainpage-description"
+msgstr  "Letlakala la Pele"
+
+msgid  "policy-url"
+msgstr  "Project:Melao"
+
+msgid  "portal"
+msgstr  "''Portal'' ya badudi"
+
+msgid  "portal-url"
+msgstr  "Project:Portal ya Badudi"
+
+msgid  "privacy"
+msgstr  "Melao ya praebesi"
+
+msgid  "privacypage"
+msgstr  "Project:Polisi ya praefesi"
+
+msgid  "badaccess"
+msgstr  "Thušo ya tumello"
+
+msgid  "badaccess-group0"
+msgstr  "Ga wa dumelwa go dira seo o lekago go se dira."
+
+msgid  "badaccess-groups"
+msgstr  "Seo o lekago go se dira se dumelwetše go bašomiši bao balego {{PLURAL:$2|dihlopeng tša|sehlopheng sa}}: $1."
+
+msgid  "versionrequired"
+msgstr  "Version $1 ya MediaWiki ea hlokega"
+
+msgid  "versionrequiredtext"
+msgstr  "Version $1 ya MediaWiki ea hlokega go šomiša letlakala le. Lebelela [[Special:Version|letlakala la version]]."
+
+msgid  "retrievedfrom"
+msgstr  "Le tšwa go \"$1\""
+
+msgid  "youhavenewmessages"
+msgstr  "O na le $1 ($2)."
+
+msgid  "newmessageslink"
+msgstr  "ya melaetša ye mefsa"
+
+msgid  "newmessagesdifflink"
+msgstr  "phetogo ya mafelelo"
+
+msgid  "youhavenewmessagesmulti"
+msgstr  "O nale melaetša ye mefsa go $1"
+
+msgid  "editsection"
+msgstr  "lokiša"
+
+msgid  "editold"
+msgstr  "fetola"
+
+msgid  "editlink"
+msgstr  "Fetola"
+
+msgid  "viewsourcelink"
+msgstr  "nyakorela mothopo"
+
+msgid  "editsectionhint"
+msgstr  "Fetola sekgao: $1"
+
+msgid  "toc"
+msgstr  "Mateng"
+
+msgid  "showtoc"
+msgstr  "bontšha"
+
+msgid  "hidetoc"
+msgstr  "fihla"
+
+msgid  "thisisdeleted"
+msgstr  "Nyakorela goba hlaphola $1?"
+
+msgid  "viewdeleted"
+msgstr  "Nyakorela $1?"
+
+msgid  "restorelink"
+msgstr  "{{PLURAL:$1|e tee phetogo ye phumutšwego|phetogo tše $1 tše phumutšwego}}"
+
+msgid  "site-rss-feed"
+msgstr  "$1 RSS Feed"
+
+msgid  "site-atom-feed"
+msgstr  "$1 Atom Feed"
+
+msgid  "page-rss-feed"
+msgstr  "\"$1\" RSS Feed"
+
+msgid  "page-atom-feed"
+msgstr  "\"$1\" Atom feed"
+
+msgid  "red-link-title"
+msgstr  "$1 (ga e hwetšagale)"
+
+msgid  "nstab-main"
+msgstr  "Letlakala"
+
+msgid  "nstab-user"
+msgstr  "Letlakala la mošomiši"
+
+msgid  "nstab-special"
+msgstr  "Letlakala le itšeng"
+
+msgid  "nstab-project"
+msgstr  "Letlakala la tirotherwa"
+
+msgid  "nstab-image"
+msgstr  "Faele"
+
+msgid  "nstab-mediawiki"
+msgstr  "Molaetša"
+
+msgid  "nstab-template"
+msgstr  "Template"
+
+msgid  "nstab-help"
+msgstr  "Letlakala la thuso"
+
+msgid  "nstab-category"
+msgstr  "Sehlopha"
+
+msgid  "nosuchspecialpage"
+msgstr  "Gago letlaka le itšego le bjalo"
+
+msgid  "error"
+msgstr  "Phošo"
+
+msgid  "databaseerror"
+msgstr  "Phošo ya Database"
+
+msgid  "readonly"
+msgstr  "''Database'' e notletšwe"
+
+msgid  "enterlockreason"
+msgstr  "Fana la lebaka la go notlela, o fana le tekanyetšo yage senotlolo se tlogo tlošwa"
+
+msgid  "missing-article"
+msgstr  "\"Database\" ga ya humana  dihlaka tša letlakala tšeo e bego e swanela go di humana, tša maina  \"$1\" $2.\n\nSe, gantši se hlolwa ke ge o latela hlomanyo goba history ya kgale goya letlakaleng leo le phumitšego.\n\n\nGaeba lebaka e se leo, go ka be go na le tšhikidi go \"software\".\nBega se go  [[Special:ListUsers/sysop|administrator]], o fana ka URL."
+
+msgid  "missingarticle-rev"
+msgstr  "(Thumeletšo#: $1)"
+
+msgid  "internalerror"
+msgstr  "Phošo ya ka gare"
+
+msgid  "internalerror_info"
+msgstr  "Phošo ya ka gare :$1"
+
+msgid  "filecopyerror"
+msgstr  "Gara kgona go ngwalolla faele \"$1\" go \"$2\"."
+
+msgid  "filerenameerror"
+msgstr  "Gara kgona go fetola leina la faele \"$1\" goba \"$2\"."
+
+msgid  "filedeleteerror"
+msgstr  "Gara kgona go phumula faele \"$1\"."
+
+msgid  "filenotfound"
+msgstr  "Gara kgona go humana faele \"$1\"."
+
+msgid  "fileexistserror"
+msgstr  "Gara kgona go ngawala faele \"$1\":faele e gona"
+
+msgid  "badtitle"
+msgstr  "Taetlile ya bošula"
+
+msgid  "badtitletext"
+msgstr  "Letlakala le ga la dumelelwa, ga le na ditlhaka, goba hlomaganyo ya bogare-dipolelo goba bogare-wiki taetlele ga ya loka. Ekaba mohlomong taetlele enale hlaka goba dihlaka tšago sedumelelwe."
+
+msgid  "viewsource"
+msgstr  "Lebelela mothopo"
+
+msgid  "viewsourcefor"
+msgstr  "ya $1"
+
+msgid  "protectedpagetext"
+msgstr  "Letlakala le le notletšwe go thibela diphetogo."
+
+msgid  "viewsourcetext"
+msgstr  "O ka lebelela goba wa kôpiša mothapo wa letlakala le:"
+
+msgid  "namespaceprotected"
+msgstr  "Ga ona tokelo ya go fetola matlakala  go  '''$1''' ."
+
+msgid  "welcomecreation"
+msgstr  "Oa amogelwa, $1! ==\n\nTšhupaleloko (''account'') ya gago e tlhodilwe. O seke wa lebala go fetola [[Special:Preferences|{{SITENAME}} dikgetho/thato tša gago]]."
+
+msgid  "yourname"
+msgstr  "Leina la mošomiši:"
+
+msgid  "yourpassword"
+msgstr  "Ditlhaka-tša-siphiri:"
+
+msgid  "yourpasswordagain"
+msgstr  "Tlanya ditlhaka-tša-siphiri gape:"
+
+msgid  "remembermypassword"
+msgstr  "Gopola sedi yaka ya go tsena khomphutha ye (bogolo bja  $1 ya {{PLURAL:$1| letšatši le|matšatši a}})"
+
+msgid  "login"
+msgstr  "Tsena"
+
+msgid  "nav-login-createaccount"
+msgstr  "Tsena / Tlhola tšhupaleloko (''account'')"
+
+msgid  "loginprompt"
+msgstr  "O swanela ke go dumella ''cookies'' go ''browser'' go tsena go {{SITENAME}}."
+
+msgid  "userlogin"
+msgstr  "Tsena / tlhola tšhupaleloko (''account'')"
+
+msgid  "logout"
+msgstr  "Etšwa/Tswalela"
+
+msgid  "userlogout"
+msgstr  "Etšwa/Tswalela"
+
+msgid  "notloggedin"
+msgstr  "Ga wa tsena"
+
+msgid  "nologin"
+msgstr  "A  o nale sedi ya go tsena? '''$1'''."
+
+msgid  "nologinlink"
+msgstr  "Bula tšhupaleloko (''account'')"
+
+msgid  "createaccount"
+msgstr  "Bula tšhupaleloko"
+
+msgid  "gotaccount"
+msgstr  "O šetše o nale tšhupaleloko? '''$1'''."
+
+msgid  "gotaccountlink"
+msgstr  "Tsena"
+
+msgid  "createaccountmail"
+msgstr  "ka e-mail"
+
+msgid  "createaccountreason"
+msgstr  "Lebaka:"
+
+msgid  "badretype"
+msgstr  "Ditlhaka-tša-siphiri tše o di šomišitšego ga di swane."
+
+msgid  "noname"
+msgstr  "Gawa fana ka leina la mošomiši la go loka."
+
+msgid  "loginsuccesstitle"
+msgstr  "O tsene ka katlego"
+
+msgid  "loginsuccess"
+msgstr  "'''Bjale o tsene go {{SITENAME}} bjalo ka \"$1\".'''"
+
+msgid  "nosuchuser"
+msgstr  "Ga gona mošomiši wa leina la \"$1\".\nMaina a huduetša ke ditlhaka.\nLebele mopeleto wa gago goba [[Special:UserLogin/signup|o tlhome mošomiši yo mophsa]]."
+
+msgid  "nosuchusershort"
+msgstr  "Ga gona mošomiši wa leina la \"<nowiki>$1</nowiki>\". Hlokomela mopeleto wa gago."
+
+msgid  "nouserspecified"
+msgstr  "O swanela ke go fana ka leina la mošomiši."
+
+msgid  "wrongpassword"
+msgstr  "O loketše ditlhaka-tša-siphiri tšeo e sego tšona. Ka kgopelo, leka gape."
+
+msgid  "wrongpasswordempty"
+msgstr  "Ga wa lokela ditlhaka-tša-siphiri. Ka kgopelo, leka gape."
+
+msgid  "passwordtooshort"
+msgstr  "Ditlhaka-tša-siphiri tša gago ga tša dumelega goba di kopana.\nGo nyakega gore e be le {{PLURAL:$1|tlhaka ye tee|$1 ya ditlhaka}} gape  e seke ya swana le leina la gago (''username'')."
+
+msgid  "mailmypassword"
+msgstr  "Romela ditlhaka-tša-siphiri tše mpšha ka e-mail"
+
+msgid  "passwordremindertitle"
+msgstr  "''Password'' ye mphsa ya nakonyana go {{SITENAME}}"
+
+msgid  "passwordremindertext"
+msgstr  "Motho yo mongwe (goba wena, gotšwa IP atrese $1) o\nkgopetše gore re moromele Ditlhaka-tša-siphiri tše mfsa tša {{SITENAME}} ($4).\n\nDitlhaka-tša-siphiri tša  mošomiši \"$2\" go tloga bjale ke  \"$3\".\nEya go {{SITENAME}} o e fetole.\n\nGa eba motho yo mongwe esego wena o dirile kgopelo ye, goba o gopola Ditlhaka-tša-siphiri gomme ga o sa\nhloka gore e fetolwe, hlokomologa molaetša wo, o tšwele pele o šumiše Ditlhaka-tša-siphiri tša kgale."
+
+msgid  "noemail"
+msgstr  "Ga gona e-mail atrese ya mošomiši \"$1\"."
+
+msgid  "passwordsent"
+msgstr  "\nDihlaka tša siphiri (''password'') tše mphsa di rometšwe go e-mail atrese ya \"$1\".\nRe kgopela gore o tsene ge fetša go e hwetša."
+
+msgid  "blocked-mailpassword"
+msgstr  "IP atrese ya gago e thibetšwe go dira diphetogo, ka fao ga wa dumellwa\ngo šomiša thulusu ya go hwetša Ditlhaka-tša-siphiri go thibela go hlapanya."
+
+msgid  "eauthentsent"
+msgstr  "Molaetša wa go tiišetša o  rometšwe go e-mail atrese.\n\nPele re romela melaetša ye mengwe go atrese ye, o kgopelwa go latela ditaelo tšeo dilego molaetšeng go tiišetša gore atrese ke ya gago."
+
+msgid  "throttled-mailpassword"
+msgstr  "Kgopotšo ya ditlhaka-tša-siphiri e rometšwe {{PLURAL:$1|iring|diiring tše $1}} tša gofeta.\nGo thibela go hlapanya/kgobošo, kgopotšo e tee ka {{PLURAL:$1|iri|diiri tše $1}} e tla romellwa."
+
+msgid  "mailerror"
+msgstr  "Gobile le phošo go romeleng molaetša  : $1"
+
+msgid  "acct_creation_throttle_hit"
+msgstr  "Ka maswabi, o tlhomile {{PLURAL:$1|tšhupaleloko|$1 tša ditšhupaleloko}}.\nGa wa dumelwa go tlhoma tše dingwe."
+
+msgid  "emailauthenticated"
+msgstr  "E-mail atrese ya gago e kgonthišitšwe ka $2, $3."
+
+msgid  "accountcreated"
+msgstr  "Tšhupaleloko (Account) e tlhodilwe"
+
+msgid  "accountcreatedtext"
+msgstr  "Tšhupaleloko (account) ya modiri $1 e tlhodilwe."
+
+msgid  "loginlanguagelabel"
+msgstr  "Polelo: $1"
+
+msgid  "resetpass_text"
+msgstr  "<!-- Tsenya ditlhaka mo -->"
+
+msgid  "oldpassword"
+msgstr  "Ditlhaka-tša-siphiri tša kgale:"
+
+msgid  "newpassword"
+msgstr  "Ditlhaka-tša-siphiri tše mpsha:"
+
+msgid  "retypenew"
+msgstr  "Tlanya ditlhaka tše mphsa tša siphiri gape:"
+
+msgid  "resetpass_success"
+msgstr  "Ditlhaka tša siphiri di fetotšwe ka katlego! Bjale o kgona go tsena..."
+
+msgid  "bold_sample"
+msgstr  "Mongwalo wa '''Bold'''"
+
+msgid  "bold_tip"
+msgstr  "Ditlhaka tše Bold"
+
+msgid  "italic_sample"
+msgstr  "Ditlhaka tše Italic"
+
+msgid  "italic_tip"
+msgstr  "Mongwala wa Italic"
+
+msgid  "link_sample"
+msgstr  "Thaetlele ya hlomaganyo"
+
+msgid  "link_tip"
+msgstr  "Hlomaganyo ya kagare"
+
+msgid  "extlink_sample"
+msgstr  "http://www.example.com hlomaganyo thaetlele"
+
+msgid  "extlink_tip"
+msgstr  "Hlomaganyo ya ka ntle (gopola go thoma ka http://)"
+
+msgid  "headline_sample"
+msgstr  "Tlhaka ya hlogotaba"
+
+msgid  "headline_tip"
+msgstr  "Hlogotaba ya boemo ba 2"
+
+msgid  "math_sample"
+msgstr  "Lokela ''formula'' mo"
+
+msgid  "math_tip"
+msgstr  "Formula ya dipalo (LaTeX)"
+
+msgid  "nowiki_sample"
+msgstr  "Tsenya ditlhaka tša go sebe le ''format'' mo"
+
+msgid  "nowiki_tip"
+msgstr  "Hlokomologa tselangwalo (''formatting'') ya  wiki"
+
+msgid  "image_sample"
+msgstr  "Mohlala.jpg"
+
+msgid  "image_tip"
+msgstr  "Seswantšho/Faele yago dikanelwa (''embedded'')"
+
+msgid  "media_sample"
+msgstr  "Mohlala.ogg"
+
+msgid  "media_tip"
+msgstr  "Hlomaganyo ya Faele"
+
+msgid  "sig_tip"
+msgstr  "Tshaeno ya gago le nako ya phetogo"
+
+msgid  "hr_tip"
+msgstr  "Mothalo wago ya faase/papamela (šomiša ka hloko)"
+
+msgid  "summary"
+msgstr  "Kakaretšo:"
+
+msgid  "subject"
+msgstr  "Tabataba/Hlogo ya taba:"
+
+msgid  "minoredit"
+msgstr  "Ye ke phetogo ye nnyenyane"
+
+msgid  "watchthis"
+msgstr  "Tlhapetša letlakala le"
+
+msgid  "savearticle"
+msgstr  "Boloka letlakala"
+
+msgid  "preview"
+msgstr  "Lebelela"
+
+msgid  "showpreview"
+msgstr  "Laetša sebopego sa letlaka"
+
+msgid  "showdiff"
+msgstr  "Laetša diphetogo"
+
+msgid  "anoneditwarning"
+msgstr  "'''Temošo''' Gawa ''tsena'', IP ya gago e tla šumišwa go histori ya diphetogo tša letlakala"
+
+msgid  "summary-preview"
+msgstr  "Lebelela kakaretšo:"
+
+msgid  "blockedtitle"
+msgstr  "Mošomiši o thibilwe"
+
+msgid  "blockedtext"
+msgstr  "'''Leina la gago la mošomiši goba IP atrese e thibilwe.'''\n\nO thibilwe ke $1. Makaba a go thiba ke ''$2''.\n\n* Go thoma gago thiba: $8\n* Fetatšatši yago thiba: $6\n* Mothibiwa: $7\n\nO ka leka go boledišana le $1 goba [[{{MediaWiki:Grouppage-sysop}}|molaudi]] ka go thibiwa go.\nO ka se kgone go šumiša thulusu ya 'romela mošomiši molaetša' ka ntle gage o loketše e-mail ya gago go\n[[Special:Preferences|dikgatlhegelo]] gape ge o sa thibelwa go e šomiša.\nIP atrese ya gago ke $3, ge ID ya go thiba ele #$5. Ka kgopelo šumiša ID le IP go dipoledišano ka moka tšeo dilego mabapi le go go thiba."
+
+msgid  "blockednoreason"
+msgstr  "gago lebaka leo le filwego"
+
+msgid  "blockedoriginalsource"
+msgstr  "Mothopo wa '''$1''' oa botšhwa tlase:"
+
+msgid  "whitelistedittitle"
+msgstr  "O swanela ke go tsena go fetola"
+
+msgid  "whitelistedittext"
+msgstr  "O swanela ke go $1 go fetola matlakala."
+
+msgid  "confirmedittext"
+msgstr  "E-mail e swanetše ke go tiišetšwa pele ge o ka fetola matlakala. Ka kgopelo, tiišetša e-mail atrese ya gago go [[Special:Preferences|dikgatlhego tša mošomiši]]."
+
+msgid  "nosuchsectiontitle"
+msgstr  "Sekgao ga se humanege"
+
+msgid  "nosuchsectiontext"
+msgstr  "O lekile go fetola sekgao seo se sego gona. \nSe, se ka hlolwa ke ge letlakala le phumulwa goba la hudušwa ge wena o sa le lebeletše."
+
+msgid  "loginreqtitle"
+msgstr  "Go tsena goa hlokega"
+
+msgid  "loginreqlink"
+msgstr  "tsena"
+
+msgid  "loginreqpagetext"
+msgstr  "O swanela ke go  $1 go nyakorela matlakala a mangwe."
+
+msgid  "accmailtitle"
+msgstr  "Ditlhaka tša siphiri di rometšwe."
+
+msgid  "accmailtext"
+msgstr  "Ditlhaka-tša-siphiri tša \"$1\"  di rometšwe go $2."
+
+msgid  "newarticle"
+msgstr  "(mpsha)"
+
+msgid  "newarticletext"
+msgstr  "O latetše hlomaganyo go letlakala leo le sego gona ka se sebaka.\nGo tlhola letlakala, thoma go ngwalo lepokising le letelago\n(lebelela [[{{MediaWiki:Helppage}}|letlakala la thušo]] go hwetša šedi).\nGa eba o le fa ka phošo, o ka boela morago ka go šumiša konopo ya '''back''' go ''browser'' ya gago."
+
+msgid  "noarticletext"
+msgstr  "Ga gona ditlhaka letlakaleng le, \noka [[Special:Search/{{PAGENAME}}|fetleka liena la letlakala]] matlakaleng a mangwe,\n<span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} fetleka \"logs\"],\n goba [{{fullurl:{{FULLPAGENAME}}|action=edit}} wa fetola letlakala le]</span>."
+
+msgid  "note"
+msgstr  "'''Ela hloko:'''"
+
+msgid  "previewnote"
+msgstr  "'''Ye ke Taetšo ya sebopego sa letlakala fela; diphetogo ga di ya bolokwa!'''"
+
+msgid  "editing"
+msgstr  "O fetola $1"
+
+msgid  "editingsection"
+msgstr  "Phetolo ya $1 (sekgoba)"
+
+msgid  "editingcomment"
+msgstr  "O fetola $1 (sekgao se sempsha)"
+
+msgid  "editconflict"
+msgstr  "Tholano ya diphetogo: $1"
+
+msgid  "yourtext"
+msgstr  "Mongwalo wa gago"
+
+msgid  "storedversion"
+msgstr  "Version yeo e bolokilwego"
+
+msgid  "yourdiff"
+msgstr  "Diphapang"
+
+msgid  "copyrightwarning"
+msgstr  "Diabe kamoka go {{SITENAME}} di akanywa go ngwadiwa tlase ga $2 (lebelela $1 go hwetša taba ka bophara). Ge o sa nyake gore mengwalo ya gago e fetolwe ntle le kgaugelo goba e phatlalatšwe ntle le tumello ya gago, o seke wa fana ka mengwalo mo.<br />\nGape o re holofetša  gore mengwalo ye e ngwadile ke wena, goba o e kopiša mothapong wa pepeneneng goba  ke mahala.\n'''O SE TSENYE MEŠOMO YA BATHO BA BANGWE NTLE LE TUMELLO YA BONA!'''"
+
+msgid  "templatesused"
+msgstr  "\"{{PLURAL:$1|Template yeo e|Di-Template tšeo di}}'' šomišitšwego letlakaleng le:"
+
+msgid  "templatesusedpreview"
+msgstr  "{{PLURAL:$1|\"Template\" yeo e|\"DiTemplate\" tšeo di}} šomišitšwego go taetšo ya sebopego sa letlakala:"
+
+msgid  "template-protected"
+msgstr  "(e lotilwe)"
+
+msgid  "template-semiprotected"
+msgstr  "(lota-ka-seripa)"
+
+msgid  "hiddencategories"
+msgstr  "Letlakala le, ke setho sa {{PLURAL:$1|1 sehlopha sago uta|$1 dihlopha tšago uta}}:"
+
+msgid  "nocreatetext"
+msgstr  "{{SITENAME}} e nale dithibelo tše itšego go tlholeng ga matlakala a maphsa.\nO ka boela morago wa felola matlakala a lego gona, goba o [[Special:UserLogin|tsene]]."
+
+msgid  "nocreate-loggedin"
+msgstr  "Ga ona tumello ya go tlhola matlakala a mampsha."
+
+msgid  "permissionserrors"
+msgstr  "Phošo ya ditumello"
+
+msgid  "permissionserrorstext"
+msgstr  "Gawa dumelwa go pheta seo,ka {{PLURAL:$1|lebaka|mabaka}} a latelago:"
+
+msgid  "permissionserrorstext-withaction"
+msgstr  "Ga ona tumello ya go $2, {{PLURAL:$1|lebala le|mabaka a}} latelago:"
+
+msgid  "recreate-moveddeleted-warn"
+msgstr  "'''Temošo: O leka go tlhoma letlakala le gape, ka ge le ile la phumulwa.'''\n\nSekaseka gore letlakala le lephumutšwe ka mabaka afe pele o leka go le fetola.\nSedi ya phumulo le go huduga ga letlakala e re:"
+
+msgid  "viewpagelogs"
+msgstr  "Nyakoretša di-''log'' tša letlakala le"
+
+msgid  "currentrev"
+msgstr  "Poeletšo tša bjale"
+
+msgid  "currentrev-asof"
+msgstr  "Thumeletšo tša seswa go tloga ka $1"
+
+msgid  "revisionasof"
+msgstr  "Thumeletšo go tloga ka $1"
+
+msgid  "revision-info"
+msgstr  "Poeletšo go tloga $1 ka $2"
+
+msgid  "previousrevision"
+msgstr  "←Poeletšo tša kgalenyana"
+
+msgid  "nextrevision"
+msgstr  "Peletšo tše dimphsanyana→"
+
+msgid  "currentrevisionlink"
+msgstr  "Poeletšo ya bjale"
+
+msgid  "cur"
+msgstr  "bjale"
+
+msgid  "next"
+msgstr  "latela"
+
+msgid  "last"
+msgstr  "bofelo"
+
+msgid  "page_first"
+msgstr  "mathomo"
+
+msgid  "page_last"
+msgstr  "mafelelo"
+
+msgid  "histlegend"
+msgstr  "Tlhaolo ya diphapano: swaya lepokisi la phetogo go bapetša ke moka o thwanye ''enter'' tlase-tlase<br />\nNane: (bjale) = phapang le diphetogo tša bjale,\n(mafelelo) = phapang le diphetogo tša pele, M = diphetogo tše nyenyane."
+
+msgid  "history-fieldset-title"
+msgstr  "Laotša histori"
+
+msgid  "histfirst"
+msgstr  "Pelepele"
+
+msgid  "histlast"
+msgstr  "Ntshwantshwa"
+
+msgid  "historysize"
+msgstr  "({{PLURAL:$1|1 byte|$1 bytes}})"
+
+msgid  "history-feed-title"
+msgstr  "Histori ya poeletšo"
+
+msgid  "history-feed-description"
+msgstr  "History ya poeletšo ya letlakala le go wiki"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$1 go $2"
+
+msgid  "history-feed-empty"
+msgstr  "Letlakala lewe ga le gona.\nMohlomongwe le phumutšwe go wiki, goba le fetotšwe leina.\nLeka [[Special:Search|go fetleka wikii]] go humana matlakala a mapsha."
+
+msgid  "rev-delundel"
+msgstr  "Bontšha/Fihla"
+
+msgid  "revdelete-hide-text"
+msgstr  "Fihla dihlaka tša poeletšo"
+
+msgid  "revdelete-log"
+msgstr  "Lebaka:"
+
+msgid  "revdel-restore"
+msgstr  "\nfetola tshenolo"
+
+msgid  "pagehist"
+msgstr  "Histori ya letlakala"
+
+msgid  "mergehistory-from"
+msgstr  "Letlakala la mothopo:"
+
+msgid  "mergehistory-into"
+msgstr  "Letlakala la boyo:"
+
+msgid  "mergehistory-reason"
+msgstr  "Lebaka:"
+
+msgid  "revertmerge"
+msgstr  "Tloša kopaganyo"
+
+msgid  "history-title"
+msgstr  "Histori ya diphetogo tša \"$1\""
+
+msgid  "difference"
+msgstr  "(Phapang magareng ga dipoeletšo)"
+
+msgid  "lineno"
+msgstr  "Mothalo $1:"
+
+msgid  "compareselectedversions"
+msgstr  "Bapetša diphapang tšeo di kgethilwego"
+
+msgid  "editundo"
+msgstr  "dirolla"
+
+msgid  "diff-multi"
+msgstr  "({{PLURAL:$1|Phetogo ye kgolo|Diphetogo tše $1 tše kgolo}} gadi laetšwe.)"
+
+msgid  "searchresults"
+msgstr  "Sephetho sa go fetleka"
+
+msgid  "searchresults-title"
+msgstr  "Diphetho tša go fetleka \"$1\""
+
+msgid  "searchresulttext"
+msgstr  "Go hwetša sedi ka go fetleka {{SITENAME}}, lebelela [[{{MediaWiki:Helppage}}|{{int:help}}]]."
+
+msgid  "searchsubtitle"
+msgstr  "O fetleka o nyaka '''[[:$1]]''' ([[Special:Prefixindex/$1|matlaka ka moka ago thoma ka \"$1\"]]{{int:pipe-separator}}[[Special:WhatLinksHere/$1|matlakala ka moka a go hlamaganya go  \"$1\"]])"
+
+msgid  "searchsubtitleinvalid"
+msgstr  "O fetlekile o nyaka  '''$1'''"
+
+msgid  "notitlematches"
+msgstr  "Gago letlakala la thaetlele yago swana"
+
+msgid  "notextmatches"
+msgstr  "Gago mangwalo letlakaleng a go swana"
+
+msgid  "prevn"
+msgstr  "gofeta {{PLURAL:$1|$1}}"
+
+msgid  "nextn"
+msgstr  "latela {{PLURAL:$1|$1}}"
+
+msgid  "viewprevnext"
+msgstr  "Lebelela ($1 {{int:pipe-separator}} $2) ($3)"
+
+msgid  "searchhelp-url"
+msgstr  "Help:Mateng"
+
+msgid  "search-result-size"
+msgstr  "$1 ya ({{PLURAL:$2|lentswi|$2 mantswi}})"
+
+msgid  "search-redirect"
+msgstr  "(redirect $1)"
+
+msgid  "search-section"
+msgstr  "(sekga $1)"
+
+msgid  "search-suggest"
+msgstr  "O be o nyaka gore: $1"
+
+msgid  "search-interwiki-caption"
+msgstr  "Diprojeke tša moloko"
+
+msgid  "search-interwiki-default"
+msgstr  "$1 diphetho:"
+
+msgid  "search-interwiki-more"
+msgstr  "(gape)"
+
+msgid  "search-mwsuggest-enabled"
+msgstr  "le dikakanyo"
+
+msgid  "search-mwsuggest-disabled"
+msgstr  "ga go dikakanyo"
+
+msgid  "searchall"
+msgstr  "tšohle"
+
+msgid  "nonefound"
+msgstr  "'''Hloko''': Ke di \"namespace\" tše dingwe tšeo di  fetlekwago go \"default.\"\n\nLeka go fetleka ka go ngwala ''all:'' go fetleka mateng ka moka, goba o šumiše \"namespace\" yeo o nyakago go e fetleka."
+
+msgid  "powersearch"
+msgstr  "Fetleka ka tlhoko"
+
+msgid  "powersearch-legend"
+msgstr  "Fetleka ya tšwetše"
+
+msgid  "powersearch-ns"
+msgstr  "Fetleka go di \"namespace\""
+
+msgid  "powersearch-redir"
+msgstr  "Lenano la di \"redirect\""
+
+msgid  "powersearch-field"
+msgstr  "Fetleka"
+
+msgid  "preferences"
+msgstr  "Dikgatlhegelo"
+
+msgid  "mypreferences"
+msgstr  "Dikgatlhegelo tša ka"
+
+msgid  "prefs-edits"
+msgstr  "Palo ya diphetogo:"
+
+msgid  "prefsnologin"
+msgstr  "Ga wa tsena"
+
+msgid  "changepassword"
+msgstr  "Fetola ditlhaka-tša-siphiri"
+
+msgid  "skin-preview"
+msgstr  "Ponopele"
+
+msgid  "prefs-datetime"
+msgstr  "Tšatšikgwedi le nako"
+
+msgid  "prefs-rc"
+msgstr  "Diphetogo tša bjale"
+
+msgid  "prefs-watchlist"
+msgstr  "Lenano la tlhapetšo"
+
+msgid  "saveprefs"
+msgstr  "Boloka"
+
+msgid  "prefs-editing"
+msgstr  "Fetola"
+
+msgid  "searchresultshead"
+msgstr  "Fetleka"
+
+msgid  "savedprefs"
+msgstr  "Dikgatlhegelo tša gago di bolokilwe."
+
+msgid  "allowemail"
+msgstr  "Dumella melaetša ya e-mail go tšwa go bašomiši ba bangwe"
+
+msgid  "prefs-files"
+msgstr  "Difaele"
+
+msgid  "username"
+msgstr  "Mošomiši:"
+
+msgid  "uid"
+msgstr  "Nomoro ya mošomiši:"
+
+msgid  "prefs-memberingroups"
+msgstr  "Leloko la {{PLURAL:$1|ya sehlopha|ya dihlopha}}:"
+
+msgid  "yourrealname"
+msgstr  "Leina la mmakgonthe:"
+
+msgid  "yourlanguage"
+msgstr  "Polelo:"
+
+msgid  "yournick"
+msgstr  "Tshaeno:"
+
+msgid  "badsiglength"
+msgstr  "Leina la boreelo le letelele kudu.\nLe swanela goba fase ga $1 {{PLURAL:$1|ya tlhaka|tša ditlhaka}}"
+
+msgid  "prefs-help-realname"
+msgstr  "Leina la nnete gale gapeletšwe, efela ge o kgetha go fana ka lona, le tla šomišwa go bontšha diabe mešomong ya gago."
+
+msgid  "prefs-help-email-required"
+msgstr  "E-mail atrese eya nyakega."
+
+msgid  "editusergroup"
+msgstr  "Fetola sehlopha sa bašomiši"
+
+msgid  "editinguser"
+msgstr  "Fetola mošomiši '''[[User:$1|$1]]''' ([[User talk:$1|{{int:talkpagelinktext}}]] | [[Special:Contributions/$1|{{int:contribslink}}]])"
+
+msgid  "userrights-editusergroup"
+msgstr  "Fetola sehlopha sa bašomiši"
+
+msgid  "saveusergroups"
+msgstr  "Boloko Dihlopha tša bašomiši"
+
+msgid  "userrights-groupsmember"
+msgstr  "Leloko la:"
+
+msgid  "userrights-reason"
+msgstr  "Lebaka:"
+
+msgid  "userrights-no-interwiki"
+msgstr  "Gawa dumelwa go fetola di dumello tša mošumiši go di wiki tše dingwe."
+
+msgid  "group"
+msgstr  "Sehlopha:"
+
+msgid  "group-sysop"
+msgstr  "Bahlapetši"
+
+msgid  "group-all"
+msgstr  "(ka moka)"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:Balaudi"
+
+msgid  "right-read"
+msgstr  "Bala matlakala"
+
+msgid  "right-edit"
+msgstr  "Fetola matlakala"
+
+msgid  "right-move"
+msgstr  "Huduša matlakala"
+
+msgid  "rightslog"
+msgstr  "''log'' ya ditumello tša mošomiši"
+
+msgid  "action-edit"
+msgstr  "Fetola letlakala  le"
+
+msgid  "nchanges"
+msgstr  "$1 {{PLURAL:$1|phetogo|diphetogo}}"
+
+msgid  "recentchanges"
+msgstr  "Diphetogo tša bjale"
+
+msgid  "recentchanges-legend"
+msgstr  "Dikgetho tša diphetogo tša bjale"
+
+msgid  "recentchanges-feed-description"
+msgstr  "Lebalana diphetogo tše di mphsa-mphsa go wiki  ka ''feed'' ye."
+
+msgid  "rcnote"
+msgstr  "Go latela {{PLURAL:$1|phetogo ye '''1'''|diphetogo tša bofelo tše '''$1'''}} ka {{PLURAL:$2|letšatši|matšatši a '''$2'''}} a go feta, go tloga $4, $5."
+
+msgid  "rcnotefrom"
+msgstr  "Tlase ke diphetogo go tloga ka '''$2''' (go  fihla ka '''$1''')."
+
+msgid  "rclistfrom"
+msgstr  "Laêtša dipheto tše mfsa go thoma go $1"
+
+msgid  "rcshowhideminor"
+msgstr  "$1 ya diphetogo tše nnyenyane"
+
+msgid  "rcshowhidebots"
+msgstr  "$1 bots"
+
+msgid  "rcshowhideliu"
+msgstr  "$1 bašumiši bao batsenego"
+
+msgid  "rcshowhideanons"
+msgstr  "$1 bašumiši bago se tsebege"
+
+msgid  "rcshowhidepatr"
+msgstr  "$1 diphetogo tše ''patrolled''"
+
+msgid  "rcshowhidemine"
+msgstr  "$1 diphetogo tsa ka"
+
+msgid  "rclinks"
+msgstr  "Bontšha diphetogo tša bofelo tše $1 matšatšing a  $2  a bofelo <br />$3"
+
+msgid  "diff"
+msgstr  "phapang"
+
+msgid  "hist"
+msgstr  "histori"
+
+msgid  "hide"
+msgstr  "Fihla"
+
+msgid  "show"
+msgstr  "Bontšha"
+
+msgid  "minoreditletter"
+msgstr  "m"
+
+msgid  "newpageletter"
+msgstr  "N"
+
+msgid  "boteditletter"
+msgstr  "b"
+
+msgid  "newsectionsummary"
+msgstr  "/* $1 */ sekgao se sempsha"
+
+msgid  "rc-enhanced-expand"
+msgstr  "Laetša ka bophara (e nyaka \"JavaScript\")"
+
+msgid  "rc-enhanced-hide"
+msgstr  "Fihla bophara bja sedi"
+
+msgid  "recentchangeslinked"
+msgstr  "Diphetogo tša go tswalana"
+
+msgid  "recentchangeslinked-feed"
+msgstr  "Diphetogo tša go tswalana"
+
+msgid  "recentchangeslinked-toolbox"
+msgstr  "Diphetogo tša go tswalana"
+
+msgid  "recentchangeslinked-title"
+msgstr  "Diphetogo tša go tswalana le \"$1\""
+
+msgid  "recentchangeslinked-noresult"
+msgstr  "Gago na diphetogo go matlakala a hlomaganya ka sebaka/sekga seo o se kgethilego."
+
+msgid  "recentchangeslinked-summary"
+msgstr  "Letlakala le le laetša diphetogo tša bjale matlakaleng a go hlomaganya.\nMatlakala ago ba [[Special:Watchlist|lenanong la gago la matlakala ditlhapetšo]]  a '''ngwadilwe ka bogolo'''."
+
+msgid  "recentchangeslinked-page"
+msgstr  "Leina la letlakala:"
+
+msgid  "recentchangeslinked-to"
+msgstr  "Laetša diphetogo go matlakala ago hlomanya le letlakala leo"
+
+msgid  "upload"
+msgstr  "Lokela Faele"
+
+msgid  "uploadbtn"
+msgstr  "Lokela faele"
+
+msgid  "uploadlogpage"
+msgstr  "''log'' yago lokela"
+
+msgid  "filedesc"
+msgstr  "Kakaretšo"
+
+msgid  "fileuploadsummary"
+msgstr  "Kakaretšo:"
+
+msgid  "filesource"
+msgstr  "Mothopo:"
+
+msgid  "savefile"
+msgstr  "Boloka faele"
+
+msgid  "uploadedimage"
+msgstr  "\"[[$1]]\" e loketšwe"
+
+msgid  "watchthisupload"
+msgstr  "Tlhapetša ''faele'' ye"
+
+msgid  "license-nopreview"
+msgstr  "(Ponopele ga e gona)"
+
+msgid  "upload_source_file"
+msgstr  "(faele go khomphuthara ya gago)"
+
+msgid  "imgfile"
+msgstr  "faele"
+
+msgid  "listfiles"
+msgstr  "Lenano la difaele"
+
+msgid  "listfiles_date"
+msgstr  "Letšatšikgwedi"
+
+msgid  "listfiles_name"
+msgstr  "Leina"
+
+msgid  "listfiles_user"
+msgstr  "Mošumiši"
+
+msgid  "listfiles_size"
+msgstr  "Bogolo"
+
+msgid  "file-anchor-link"
+msgstr  "Faele"
+
+msgid  "filehist"
+msgstr  "Histori ya faele"
+
+msgid  "filehist-help"
+msgstr  "Pinyeletša go letšatšikgwedi/nako go bona faela ka tsela yeo ebego e le ka gona nakong yeo."
+
+msgid  "filehist-deleteall"
+msgstr  "phumula ka moka"
+
+msgid  "filehist-deleteone"
+msgstr  "phumula ye"
+
+msgid  "filehist-current"
+msgstr  "bjale"
+
+msgid  "filehist-datetime"
+msgstr  "LetšatšiKgwedi/Nako"
+
+msgid  "filehist-thumb"
+msgstr  "Nkgogorupo-Nala"
+
+msgid  "filehist-thumbtext"
+msgstr  "Nkgogorupo-Nala ya \"version\" go tloga $1"
+
+msgid  "filehist-user"
+msgstr  "Mošomiši"
+
+msgid  "filehist-dimensions"
+msgstr  "Bogolo"
+
+msgid  "filehist-filesize"
+msgstr  "Bogolo ba faele"
+
+msgid  "filehist-comment"
+msgstr  "Comment"
+
+msgid  "imagelinks"
+msgstr  "Dihlamaganyago tša matlakala"
+
+msgid  "linkstoimage"
+msgstr  "{{PLURAL:$1|Letlakala le ke |$1 ya matlakala a}} latelago a hlomaganya go faele ye:"
+
+msgid  "nolinkstoimage"
+msgstr  "Gago matlakala a hlomaganyago faeleng ye."
+
+msgid  "sharedupload"
+msgstr  "Faele ye e tšwa $1 e bile a kaba  e šumišwa ke ditirotherwa tše dingwe."
+
+msgid  "uploadnewversion-linktext"
+msgstr  "Lokela peoletšo ye mphsa ya faele"
+
+msgid  "filerevert-comment"
+msgstr  "Ahlaahla:"
+
+msgid  "filerevert-defaultcomment"
+msgstr  "Boela go poeletšo ya go tloga go $2, $1"
+
+msgid  "filedelete"
+msgstr  "Phumula $1"
+
+msgid  "filedelete-legend"
+msgstr  "Phumula faele"
+
+msgid  "filedelete-intro"
+msgstr  "O phumula '''[[Media:$1|$1]]'''."
+
+msgid  "filedelete-comment"
+msgstr  "Lebaka:"
+
+msgid  "filedelete-submit"
+msgstr  "Phumula"
+
+msgid  "filedelete-success"
+msgstr  "'''$1''' e phumutšwe."
+
+msgid  "filedelete-nofile"
+msgstr  "'''$1''' ga e gona."
+
+msgid  "filedelete-otherreason"
+msgstr  "Mabaka a mangwe:"
+
+msgid  "filedelete-reason-otherlist"
+msgstr  "Lebaka le lengwe"
+
+msgid  "mimesearch"
+msgstr  "fetleka MIME"
+
+msgid  "listredirects"
+msgstr  "Lenano la di-''redirect''"
+
+msgid  "unusedtemplates"
+msgstr  "''templates'' tša go se šomišwe"
+
+msgid  "unusedtemplateswlh"
+msgstr  "dihlomaganyo tše dingwe"
+
+msgid  "randompage"
+msgstr  "Letlakala le lengwe le le lengwe"
+
+msgid  "randomredirect"
+msgstr  "''redirect'' engwe le engwe"
+
+msgid  "statistics"
+msgstr  "Dipalopalo"
+
+msgid  "statistics-header-users"
+msgstr  "Dipalopalo tša mošomiši"
+
+msgid  "disambiguations"
+msgstr  "Matlakala a ''Disambiguation''"
+
+msgid  "doubleredirects"
+msgstr  "Di''redirect'' goya go ''redirect''"
+
+msgid  "brokenredirects"
+msgstr  "''redirect'' tša go robega"
+
+msgid  "brokenredirects-edit"
+msgstr  "fetola"
+
+msgid  "brokenredirects-delete"
+msgstr  "phumula"
+
+msgid  "withoutinterwiki"
+msgstr  "Matlakala a senago dihlomaganyo tša dipolelo"
+
+msgid  "withoutinterwiki-submit"
+msgstr  "Bontšha"
+
+msgid  "fewestrevisions"
+msgstr  "Matlakala a goba le diphetogo tše nnyenyane"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|byte|bytes}}"
+
+msgid  "nlinks"
+msgstr  "$1 {{PLURAL:$1|hlomaganyo|dihlomaganyo}}"
+
+msgid  "nmembers"
+msgstr  "$1 {{PLURAL:$1|leloko|maloko}}"
+
+msgid  "nrevisions"
+msgstr  "$1 {{PLURAL:$1|poeletšo|dipoeletšo}}"
+
+msgid  "lonelypages"
+msgstr  "Matlakala a ditšhuana"
+
+msgid  "uncategorizedpages"
+msgstr  "Matlakala ago sebe le magoro"
+
+msgid  "uncategorizedcategories"
+msgstr  "Dihlopha tšago sebe le magoro"
+
+msgid  "uncategorizedimages"
+msgstr  "Difaele tšago hloka magoro"
+
+msgid  "uncategorizedtemplates"
+msgstr  "''Templates'' tšago sebe le magoro"
+
+msgid  "unusedcategories"
+msgstr  "Dihlopha tša go se šomišwe"
+
+msgid  "unusedimages"
+msgstr  "Difaele tša go se šomišwe"
+
+msgid  "popularpages"
+msgstr  "Matlakala a go tuma"
+
+msgid  "wantedcategories"
+msgstr  "Dihlopha tšago nyakega"
+
+msgid  "wantedpages"
+msgstr  "Matlakala ago nyakega"
+
+msgid  "mostlinked"
+msgstr  "Matlakala a go hlomaganya go feta a mangwe"
+
+msgid  "mostlinkedcategories"
+msgstr  "Dihlopha tša go hlomaganya go feta tše dingwe"
+
+msgid  "mostlinkedtemplates"
+msgstr  "''templates'' tša go hlomaganya go feta tše dingwe"
+
+msgid  "mostcategories"
+msgstr  "Matlakala a goba le dihlopha tše dintšhi"
+
+msgid  "mostimages"
+msgstr  "Faele tša go hlomaganya go feta tše dingwe"
+
+msgid  "mostrevisions"
+msgstr  "Matlakala a goba le diphetogo tše dintšhi"
+
+msgid  "prefixindex"
+msgstr  "Matlakala ka moka a goba le hlogo (''prefix'')"
+
+msgid  "shortpages"
+msgstr  "Matlakala a makopana"
+
+msgid  "longpages"
+msgstr  "Matlakala a matelele"
+
+msgid  "deadendpages"
+msgstr  "Matlakala a seye felo(''Dead-end'')"
+
+msgid  "protectedpages"
+msgstr  "Matlakala a go lotiwa"
+
+msgid  "listusers"
+msgstr  "Lanano la mošomiši"
+
+msgid  "newpages"
+msgstr  "Matlakala a mampsha"
+
+msgid  "ancientpages"
+msgstr  "Matlakala a kgalekgale"
+
+msgid  "move"
+msgstr  "Huduša"
+
+msgid  "movethispage"
+msgstr  "Huduša letlakala le"
+
+msgid  "pager-newer-n"
+msgstr  "{{PLURAL:$1|1 ye mpšha|$1 tše mpšha}}"
+
+msgid  "pager-older-n"
+msgstr  "{{PLURAL:$1|1 ya kgale|$1 tša kgale}}"
+
+msgid  "booksources"
+msgstr  "Dipuku tša mothopo"
+
+msgid  "booksources-search-legend"
+msgstr  "Fetleka mothopo wa dipuku"
+
+msgid  "booksources-go"
+msgstr  "Sepela"
+
+msgid  "specialloguserlabel"
+msgstr  "Mošomiši:"
+
+msgid  "speciallogtitlelabel"
+msgstr  "Thaetlele:"
+
+msgid  "log"
+msgstr  "Di-''log''"
+
+msgid  "all-logs-page"
+msgstr  "Di-''log'' kamoka"
+
+msgid  "allpages"
+msgstr  "Matlakala ka moka"
+
+msgid  "alphaindexline"
+msgstr  "$1 goya go $2"
+
+msgid  "nextpage"
+msgstr  "Letlakala lago latela ($1)"
+
+msgid  "prevpage"
+msgstr  "Letlakala la go feta ($1)"
+
+msgid  "allpagesfrom"
+msgstr  "Bontšha matlakala go thoma go :"
+
+msgid  "allpagesto"
+msgstr  "Bontšha matlakala go felela go :"
+
+msgid  "allarticles"
+msgstr  "Matlakala ka moka"
+
+msgid  "allpagessubmit"
+msgstr  "Eya"
+
+msgid  "allpagesprefix"
+msgstr  "Laetša matlakala agoba le hlogo (''prefix''):"
+
+msgid  "categories"
+msgstr  "Dihlopha"
+
+msgid  "deletedcontributions"
+msgstr  "Diabe tša mošomiši tšeo di phumutšwego"
+
+msgid  "deletedcontributions-title"
+msgstr  "Diabe tša mošomiši tšeo di phumutšwego"
+
+msgid  "linksearch"
+msgstr  "Dihlomaganyo tša ntle"
+
+msgid  "linksearch-ok"
+msgstr  "Fetleka"
+
+msgid  "listusers-submit"
+msgstr  "Bontšha"
+
+msgid  "newuserlogpage"
+msgstr  "\"Log\" yago hlola mošumiši"
+
+msgid  "newuserlog-create-entry"
+msgstr  "Tšhupaleloko ya mošumiši ye mphsa"
+
+msgid  "listgrouprights-members"
+msgstr  "(Lenano la ditho)"
+
+msgid  "emailuser"
+msgstr  "Romela mošomiši yo molaetša"
+
+msgid  "emailpage"
+msgstr  "Romela email go mošomiši"
+
+msgid  "noemailtitle"
+msgstr  "Gago email atrese"
+
+msgid  "emailfrom"
+msgstr  "Go tšwa go"
+
+msgid  "emailsubject"
+msgstr  "Sebolelwa"
+
+msgid  "emailmessage"
+msgstr  "Molaetša"
+
+msgid  "emailsend"
+msgstr  "Romela"
+
+msgid  "emailccme"
+msgstr  "Nromela kopi ya melaetša."
+
+msgid  "emailccsubject"
+msgstr  "Kopi ya molaetša wa gago goya go $1: $2"
+
+msgid  "emailsent"
+msgstr  "E-mail e rometšwe"
+
+msgid  "emailsenttext"
+msgstr  "Molaetša wa gago wa email gawa romelwa."
+
+msgid  "watchlist"
+msgstr  "Lenano la ditlhapetšo tša ka"
+
+msgid  "mywatchlist"
+msgstr  "Lenano la ditlhapetšo tša ka"
+
+msgid  "addedwatch"
+msgstr  "Loketšwe go lenano la ditlhapetšo"
+
+msgid  "addedwatchtext"
+msgstr  "Letlakala \"[[:$1]]\" le tsene go [[Special:Watchlist|watchlist]] ya gago.\nGo tloga bjale, diphetogo letlakaleng le, le letlakaleng la dipoledišano la gona, di tla bontšhwa ka mongalo wa '''bold''' gare ga [[Special:RecentChanges|list of recent changes]] gore go be bonolo gore oa bone.\n\nGa eba o nyaka go hloša letlaka le go lenano la ditlhapetšo tša gago, šomiša \"Tloša tlhapetšo\" go sidebar."
+
+msgid  "removedwatch"
+msgstr  "Tlošitšwe go lenano la ditlhapetšo"
+
+msgid  "removedwatchtext"
+msgstr  "Letlakala \"[[:$1]]\" letlošitšwe go [[Special:Watchlist|lenano la gago la ditlhapetšo]]."
+
+msgid  "watch"
+msgstr  "Tlhapetša"
+
+msgid  "watchthispage"
+msgstr  "Tlhapetša letlakala le"
+
+msgid  "unwatch"
+msgstr  "Tloša tlhapešo"
+
+msgid  "watchlist-details"
+msgstr  "{{PLURAL:$1|$1 ya letlakala|$1 ya matlakala}} a lenano la ditlhapetšo tša gago, re sa bale matlakala a dipoledišano (dipolelo)."
+
+msgid  "wlshowlast"
+msgstr  "Laetša  $1 diiri $2 matšatši $3 tša gofeta"
+
+msgid  "watchlist-options"
+msgstr  "Dikgatlego tša lenano la ditlhapetšo"
+
+msgid  "watching"
+msgstr  "Tlhapeditše..."
+
+msgid  "unwatching"
+msgstr  "Tlhapetšo eya tlošwa ..."
+
+msgid  "enotif_reset"
+msgstr  "Swaya matlakala kamoka awe oa etetšego"
+
+msgid  "enotif_newpagetext"
+msgstr  "Le, ke letlakala le lempsha."
+
+msgid  "enotif_impersonal_salutation"
+msgstr  "{{SITENAME}} mošumiši"
+
+msgid  "changed"
+msgstr  "fetotšwe"
+
+msgid  "created"
+msgstr  "tlhodilwe"
+
+msgid  "enotif_subject"
+msgstr  "{{SITENAME}} letkalala $PAGETITLE le $CHANGEDORCREATED ke $PAGEEDITOR"
+
+msgid  "enotif_lastvisited"
+msgstr  "Lebelela  $1 go bona diphetogo ka moka gotloga ge go tsena la mafelelo."
+
+msgid  "enotif_lastdiff"
+msgstr  "Bona $1 go nyakorela phetogo ye."
+
+msgid  "deletepage"
+msgstr  "Phumula letlakala"
+
+msgid  "excontent"
+msgstr  "mateng ebe e le: '$1'"
+
+msgid  "delete-legend"
+msgstr  "Phumula"
+
+msgid  "historywarning"
+msgstr  "Temošo: Letlakala leo o lekago go lephumula le nale histori:"
+
+msgid  "confirmdeletetext"
+msgstr  "O phumula letlakala le histori ka moka ya lona.\nKa kgopela sitlediša gore ke se o nyakago  go sedira, le gore o kwešiša ditla morago tša se, le gore seo o se dirago se latela melawana le ditaelo go ya ka [[{{MediaWiki:Policy-url}}|polisi]]."
+
+msgid  "actioncomplete"
+msgstr  "Kgopelo e phetilwe ka katlego"
+
+msgid  "deletedtext"
+msgstr  "\"<nowiki>$1</nowiki>\" e phumutšwe.\nLebelela $2 go hweetša sedi ka diphulo tša bjale."
+
+msgid  "deletedarticle"
+msgstr  "E phumutšwe \"[[$1]]\""
+
+msgid  "dellogpage"
+msgstr  "''Log'' yago phumula"
+
+msgid  "deletecomment"
+msgstr  "Lebaka:"
+
+msgid  "deleteotherreason"
+msgstr  "Mabaka a mangwe:"
+
+msgid  "deletereasonotherlist"
+msgstr  "Mabaka a mangwe"
+
+msgid  "rollbacklink"
+msgstr  "bošetša morago"
+
+msgid  "editcomment"
+msgstr  "Ahlaahlo ya phetogo ke : \"''$1''\"."
+
+msgid  "protectlogpage"
+msgstr  "''Log'' yago lota"
+
+msgid  "protectedarticle"
+msgstr  "lotilwe \"[[$1]]\""
+
+msgid  "modifiedarticleprotection"
+msgstr  "fetotše  mokgwa wa go lota \"[[$1]]\""
+
+msgid  "prot_1movedto2"
+msgstr  "[[$1]] e hudugile goya go [[$2]]"
+
+msgid  "protect-legend"
+msgstr  "Tiišetša go lota"
+
+msgid  "protectcomment"
+msgstr  "Lebaka:"
+
+msgid  "protectexpiry"
+msgstr  "Fetatšatši:"
+
+msgid  "protect_expiry_invalid"
+msgstr  "Fetatšatši, nako ye ga ya dumelwa."
+
+msgid  "protect_expiry_old"
+msgstr  "Fetatšatši ke ya nako yeo e fetilego."
+
+msgid  "protect-text"
+msgstr  "O ka lebelela lego fetola seemo sa go lota sa letlakala '''<nowiki>$1</nowiki>'''."
+
+msgid  "protect-locked-access"
+msgstr  "Tšhupaleloko ya gago ga ena tumello ya go fetola seemo sago lota ga letlakala.\nSeemo sa go lota ga letlakala '''$1''':"
+
+msgid  "protect-cascadeon"
+msgstr  "Letlakala le lotegile ka ge le akeretšwa ke {{PLURAL:$1|letlakala, leo lenalego|matlakala, analego}} golotega ga kakaretšo. O ka fetola go lotega ga letlakala le."
+
+msgid  "protect-default"
+msgstr  "Dumella bašumiši ka moka"
+
+msgid  "protect-fallback"
+msgstr  "Go nyakega tumello ya \"$1\""
+
+msgid  "protect-level-autoconfirmed"
+msgstr  "Thiba bašumiši  ba bafša le bao ba sakago ba engwadiša(''unregistered'')"
+
+msgid  "protect-level-sysop"
+msgstr  "Sysops feela"
+
+msgid  "protect-summary-cascade"
+msgstr  "cascading"
+
+msgid  "protect-expiring"
+msgstr  "fetatšatši ke $1 (UTC)"
+
+msgid  "protect-cascade"
+msgstr  "Lota matlakala, akaretša le letlakala le (go lota ka kakaretšo)"
+
+msgid  "protect-cantedit"
+msgstr  "Ga o kgone go fetola tekano ya bolotego letlakaleng le, ka ge o sena tumello yago bofetola."
+
+msgid  "protect-expiry-options"
+msgstr  "2 diiri:2 hours,1 letšatši:1 day,3 matšatši:3 days,1 beke:1 week,2 dibeke:2 weeks,1 kgwedi:1 month,3 digkwedi:3 months,6 dikgwedi:6 months,1 ngwaga:1 year,ga efele:infinite"
+
+msgid  "restriction-type"
+msgstr  "Tumello:"
+
+msgid  "restriction-level"
+msgstr  "Seemo sago Lota:"
+
+msgid  "restriction-edit"
+msgstr  "Fetola"
+
+msgid  "restriction-move"
+msgstr  "Huduša"
+
+msgid  "restriction-create"
+msgstr  "Tlhola"
+
+msgid  "undelete"
+msgstr  "Nyakorela matlakala ago phumulwa"
+
+msgid  "viewdeletedpage"
+msgstr  "Nyakorela matlakala ago phumulwa"
+
+msgid  "undeletebtn"
+msgstr  "Hlaphola"
+
+msgid  "undeletelink"
+msgstr  "Nyakorela/hlaphola"
+
+msgid  "undeletecomment"
+msgstr  "Ahlaahla:"
+
+msgid  "undeletedarticle"
+msgstr  "hlaphola \"[[$1]]\""
+
+msgid  "undelete-search-prefix"
+msgstr  "Laetśa matlakala a go thoma ka:"
+
+msgid  "undelete-search-submit"
+msgstr  "Fetleka"
+
+msgid  "namespace"
+msgstr  "Namespace:"
+
+msgid  "invert"
+msgstr  "Fetola kgetho"
+
+msgid  "blanknamespace"
+msgstr  "(Hlogo)"
+
+msgid  "contributions"
+msgstr  "Diabe tša mošomiši"
+
+msgid  "contributions-title"
+msgstr  "Diabe tša mošumiši go $1"
+
+msgid  "mycontris"
+msgstr  "Diabe tša ka"
+
+msgid  "contribsub2"
+msgstr  "Ya $1 ($2)"
+
+msgid  "uctop"
+msgstr  "(godimo)"
+
+msgid  "month"
+msgstr  "Go tloga kgweding (le peleng):"
+
+msgid  "year"
+msgstr  "Go tloga ngwageng (le peleng):"
+
+msgid  "sp-contributions-newbies"
+msgstr  "Laetša diabe tša bašumiši ba bafsa fela"
+
+msgid  "sp-contributions-newbies-sub"
+msgstr  "Tša tšhupaleloko tše mphsa"
+
+msgid  "sp-contributions-blocklog"
+msgstr  "''Log'' yago thiba"
+
+msgid  "sp-contributions-deleted"
+msgstr  "Diabe tša mošomiši tšeo di phumutšwego"
+
+msgid  "sp-contributions-talk"
+msgstr  "Bolela"
+
+msgid  "sp-contributions-search"
+msgstr  "Fetleka diabe"
+
+msgid  "sp-contributions-username"
+msgstr  "IP Atrese goba leina la mošomiši:"
+
+msgid  "sp-contributions-submit"
+msgstr  "Fetleka"
+
+msgid  "whatlinkshere"
+msgstr  "Ke eng yeo e hlomaganyago mo"
+
+msgid  "whatlinkshere-title"
+msgstr  "Matlakala a go hlomaganya go \"$1\""
+
+msgid  "whatlinkshere-page"
+msgstr  "Letlakala:"
+
+msgid  "linkshere"
+msgstr  "Matlaka a latelago a hlomaganya le '''[[:$1]]''':"
+
+msgid  "nolinkshere"
+msgstr  "Ga go letlakala leo le hlomaganyago go '''[[:$1]]'''."
+
+msgid  "isredirect"
+msgstr  "''redirect'' letlakala"
+
+msgid  "istemplate"
+msgstr  "tsentšho"
+
+msgid  "isimage"
+msgstr  "hlomaganyo ya seswantšho"
+
+msgid  "whatlinkshere-prev"
+msgstr  "{{PLURAL:$1|fetile|fetile $1}}"
+
+msgid  "whatlinkshere-next"
+msgstr  "{{PLURAL:$1|latela|latela $1}}"
+
+msgid  "whatlinkshere-links"
+msgstr  "← dihlomaganyago"
+
+msgid  "whatlinkshere-hideredirs"
+msgstr  "$1 di \"redirect\""
+
+msgid  "whatlinkshere-hidetrans"
+msgstr  "$1 transclusions"
+
+msgid  "whatlinkshere-hidelinks"
+msgstr  "$1 dihlomaganyago"
+
+msgid  "whatlinkshere-filters"
+msgstr  "Dihlotla"
+
+msgid  "blockip"
+msgstr  "Thibela mošomiši go tsena"
+
+msgid  "ipaddress"
+msgstr  "IP Atrese:"
+
+msgid  "ipbexpiry"
+msgstr  "Fetatšatši:"
+
+msgid  "ipbreason"
+msgstr  "Lebaka:"
+
+msgid  "ipbreasonotherlist"
+msgstr  "Lebaka le lengwe"
+
+msgid  "ipbsubmit"
+msgstr  "Thiba mošomiši yo"
+
+msgid  "ipbother"
+msgstr  "Nako yengwe:"
+
+msgid  "ipboptions"
+msgstr  "2 diiri:2 hours,1 letšatši:1 day,3 matšatši:3 days,1 beke:1 week,2 dibeke:2 weeks,1 kgwedi:1 month,3 digkwedi:3 months,6 dikgwedi:6 months,1 ngwaga:1 year,ga efele:infinite"
+
+msgid  "ipbotheroption"
+msgstr  "yengwe"
+
+msgid  "ipblocklist"
+msgstr  "Lenano la IP le bašumiši bao bathibilwego(''blocked'')"
+
+msgid  "ipblocklist-submit"
+msgstr  "Fetleka"
+
+msgid  "blocklistline"
+msgstr  "$1, $2 o thibile $3 ($4)"
+
+msgid  "emailblock"
+msgstr  "e-mail e thibilwe"
+
+msgid  "blocklink"
+msgstr  "thibela"
+
+msgid  "unblocklink"
+msgstr  "tloša thibelo"
+
+msgid  "change-blocklink"
+msgstr  "fetola go thiba"
+
+msgid  "contribslink"
+msgstr  "diabelo"
+
+msgid  "blocklogpage"
+msgstr  "''log'' yago Thiba"
+
+msgid  "blocklogentry"
+msgstr  "Thibela [[$1]] ka fetšatši ya $2 $3"
+
+msgid  "unblocklogentry"
+msgstr  "Gago thibelo $1"
+
+msgid  "block-log-flags-nocreate"
+msgstr  "Go hloma tšhupaleloko gago dumelege"
+
+msgid  "block-log-flags-noemail"
+msgstr  "e-mail e thibilwe"
+
+msgid  "proxyblocksuccess"
+msgstr  "Phetilwe."
+
+msgid  "move-page-legend"
+msgstr  "Huduša letlakala"
+
+msgid  "movepagetext"
+msgstr  "Ge o šomiša fomo ye mo tlase, letlakala le kgale le history ya lona di tla huduga go ya letlakaleng le lemphsa.\nLetlakala la kgale le ba ''redirect'' go ya letlakaleng le lemphsa.\nDihlomaganyo goya letlakaleng la kgale ga di fetolwe; gopola go sekaseka di [[Special:DoubleRedirects|''double'']] goba [[Special:BrokenRedirects|''broken redirects'']].\n\nKe boikarabela ba gago go kgonthišisa gore dihlomaganyo di tšhwela pele go šupa mowe di swanetšego goya.\n\nEla hloko gore letlakala le '''ka se''' hudušwe gaeba go ena letlakala la leina le lemphsa, ntle ga le sa selo goba ele ''redirect'' ebile le sa na histori.\nSe sera gore o ka huduša letlakala morago ge o direle phošo gape o ka se ngwale godimo (''overwrite'') ga letlakala leo le lego gona.\n\n'''TEMOŠO!'''\nSe sekapa le dipheto tšeo di sa letelwago go matlakala atumilego;\nKa kgopelo kgontišiša gore o kwešiša ditla morago tša se, pele o tšwelapele."
+
+msgid  "movepagetalktext"
+msgstr  "Letlakala la dipoledišano lago hlobana le letlakala le le tla hudušwa '''ntle le ge''':\n\n*Ge letlakala la dipoledišano la leina le lemphsa lephela, goba\n*O sa kgetha go le huduša tlase ga letlakala le.\n\nGe go le bjalo,o tla swanela ke go huduša goba go kopanya matlakala ka bowena."
+
+msgid  "movearticle"
+msgstr  "Huduša letlakala:"
+
+msgid  "newtitle"
+msgstr  "Goya go taetlile:"
+
+msgid  "move-watch"
+msgstr  "Tlhapetša letlakala le"
+
+msgid  "movepagebtn"
+msgstr  "Huduša letlakala"
+
+msgid  "pagemovedsub"
+msgstr  "Hudugile ka katlego"
+
+msgid  "movepage-moved"
+msgstr  "'''\"$1\" e hudušitšwe go \"$2\"'''"
+
+msgid  "articleexists"
+msgstr  "Letlakala la goba le leina le legona, goba\nleina leo o le kgethilego ga la dumelega.\nKa kgopelo, kgetha leina le lengwe."
+
+msgid  "talkexists"
+msgstr  "'''Letlakala le hudugile ka katlego, efele letlakala la dipolešano ga la huduga kage gobe go ina letlakala leineng le lemphsa. Ka kgopelo, a gahlanye ka bowena.'''"
+
+msgid  "movedto"
+msgstr  "hudugetše go"
+
+msgid  "movetalk"
+msgstr  "Huduša letlakala la dipoledišano la go hlobana le letlakala le"
+
+msgid  "1movedto2"
+msgstr  "[[$1]] e hudugile goya go [[$2]]"
+
+msgid  "1movedto2_redir"
+msgstr  "hudušitše [[$1]] go [[$2]] godimo ga \"redirect\""
+
+msgid  "movelogpage"
+msgstr  "''log'' yago huduša"
+
+msgid  "movereason"
+msgstr  "Lebaka:"
+
+msgid  "revertmove"
+msgstr  "bušetša"
+
+msgid  "delete_and_move_confirm"
+msgstr  "E, phumula letlakala le"
+
+msgid  "export"
+msgstr  "Matlakala a diyantle"
+
+msgid  "allmessages"
+msgstr  "Melaetša ya tlhamego"
+
+msgid  "allmessagesname"
+msgstr  "Leina"
+
+msgid  "thumbnail-more"
+msgstr  "Godiša/Atologa"
+
+msgid  "thumbnail_error"
+msgstr  "Phoso go tlhama ''thumbnail'': $1"
+
+msgid  "import-comment"
+msgstr  "Ahlaahla:"
+
+msgid  "import-revision-count"
+msgstr  "$1 {{PLURAL:$1|poeletšo|dipoeletšo}}"
+
+msgid  "importlogpage"
+msgstr  "''Log'' yago lokela"
+
+msgid  "import-logentry-upload-detail"
+msgstr  "$1 {{PLURAL:$1|poeletšo|dipoeletšo}}"
+
+msgid  "import-logentry-interwiki-detail"
+msgstr  "$1 {{PLURAL:$1|poeletšo|dipoeletšo}} gotšwa go $2"
+
+msgid  "tooltip-pt-userpage"
+msgstr  "Letlakala (la mošomiši) lago"
+
+msgid  "tooltip-pt-mytalk"
+msgstr  "Letlakala la gago la dipolelo"
+
+msgid  "tooltip-pt-preferences"
+msgstr  "Dikgetho (''preference'') tša ka"
+
+msgid  "tooltip-pt-watchlist"
+msgstr  "Lenano la matlakala ago tlhapetšwa diphetogo ke wena"
+
+msgid  "tooltip-pt-mycontris"
+msgstr  "Lenano la diabe tša gago"
+
+msgid  "tooltip-pt-login"
+msgstr  "O a kgothatšwa gore o tsene, e efela ga se kgapeletšo."
+
+msgid  "tooltip-pt-logout"
+msgstr  "Etšwa fa/Tswalela/Log out"
+
+msgid  "tooltip-ca-talk"
+msgstr  "Poledišano mabapi le letlakala le"
+
+msgid  "tooltip-ca-edit"
+msgstr  "O ka fetola letlakala le. Kgopelo ke gore o šumiše konopo ya go Laetša sebopego sa letlakala pele o le boloka."
+
+msgid  "tooltip-ca-addsection"
+msgstr  "Lokela sekgao se seswa"
+
+msgid  "tooltip-ca-viewsource"
+msgstr  "Letlakala le le lotilew. O ka lebelela mothopo fela."
+
+msgid  "tooltip-ca-history"
+msgstr  "Lebelela thumeletšo ya go feta ya letlakala le"
+
+msgid  "tooltip-ca-protect"
+msgstr  "Lota letlakala le"
+
+msgid  "tooltip-ca-delete"
+msgstr  "Phumula letlakala le"
+
+msgid  "tooltip-ca-move"
+msgstr  "Huduša letlakala le"
+
+msgid  "tooltip-ca-watch"
+msgstr  "Lokela letlakala le go lenano la gago la tlhapetšo"
+
+msgid  "tooltip-ca-unwatch"
+msgstr  "Tloša letlakala le go lenano la gago la matlakala a go tlhapetšwa"
+
+msgid  "tooltip-search"
+msgstr  "Fetleka  {{SITENAME}}"
+
+msgid  "tooltip-search-go"
+msgstr  "Eya go letlakala la leina le, gaeba le le gona"
+
+msgid  "tooltip-search-fulltext"
+msgstr  "Fetleka matlakala go hwetša mongwalo wo"
+
+msgid  "tooltip-n-mainpage"
+msgstr  "Etela letlakala la pele"
+
+msgid  "tooltip-n-mainpage-description"
+msgstr  "Etela letlakala-tona"
+
+msgid  "tooltip-n-portal"
+msgstr  "Mabapi le tirotherwa, seo o ka se dirago, o ka humana dilo kae"
+
+msgid  "tooltip-n-currentevents"
+msgstr  "Humana sedi yengwe go ditiragalo tša bjale"
+
+msgid  "tooltip-n-recentchanges"
+msgstr  "Lenano la diphetogo tša bjale go wiki."
+
+msgid  "tooltip-n-randompage"
+msgstr  "Laiša letlakala le lengwe le le lengwe"
+
+msgid  "tooltip-n-help"
+msgstr  "O tla humana thušo mo."
+
+msgid  "tooltip-t-whatlinkshere"
+msgstr  "Lenano la matlakala ao a hlomaganyago (''link'') mo"
+
+msgid  "tooltip-t-recentchangeslinked"
+msgstr  "Diphetogo tša bjale go matlakala a go hlomaganya le letlakala le"
+
+msgid  "tooltip-feed-rss"
+msgstr  "RSS feed tša letlakala le"
+
+msgid  "tooltip-feed-atom"
+msgstr  "Atom \"feed\" tša letlakala le"
+
+msgid  "tooltip-t-contributions"
+msgstr  "Lebelela lenano la diabe tša mošomiši yo"
+
+msgid  "tooltip-t-emailuser"
+msgstr  "Romela molaetša go mošomiši yo"
+
+msgid  "tooltip-t-upload"
+msgstr  "Lokela senepe goba difaele"
+
+msgid  "tooltip-t-specialpages"
+msgstr  "Lenano la matlakala kamoka a itšeng"
+
+msgid  "tooltip-t-print"
+msgstr  "Seemo sa letlakala le seo se ka gatišwago"
+
+msgid  "tooltip-t-permalink"
+msgstr  "Hlomaganyo go poeletšo ye ya letlakala"
+
+msgid  "tooltip-ca-nstab-main"
+msgstr  "Nyakoretša boteng bja letlakala"
+
+msgid  "tooltip-ca-nstab-user"
+msgstr  "Lebelela letlakala la mošomiši"
+
+msgid  "tooltip-ca-nstab-special"
+msgstr  "Letlakala le le \"special\", gago kgonege go le fetola"
+
+msgid  "tooltip-ca-nstab-project"
+msgstr  "Lebelela letlakala la tirotherwa"
+
+msgid  "tooltip-ca-nstab-image"
+msgstr  "Lebelela  letlakala"
+
+msgid  "tooltip-ca-nstab-template"
+msgstr  "Lebelela ''template''"
+
+msgid  "tooltip-ca-nstab-help"
+msgstr  "Lebelea matlakala a thušo"
+
+msgid  "tooltip-ca-nstab-category"
+msgstr  "Lebelela letlakala la sehlopha"
+
+msgid  "tooltip-minoredit"
+msgstr  "Swaya se bjalo ka phetogo ye nnyenyane"
+
+msgid  "tooltip-save"
+msgstr  "Boloka diphetogo tša gago"
+
+msgid  "tooltip-preview"
+msgstr  "E laetša gore diphetogo di tla lebega bjang, e šomiše pele ga ge o boloka letlakala!"
+
+msgid  "tooltip-diff"
+msgstr  "Laetša diphetogo tšeo o di dirilego go mongwalo."
+
+msgid  "tooltip-compareselectedversions"
+msgstr  "Bontšha phapano magareng ga di dihlopha tše pedi tša diphetogo tšeo o di kgetilego letlakaleng le."
+
+msgid  "tooltip-watch"
+msgstr  "Lokela letlakala le go lenano la gago la  matlakala ago tlhapetšwa"
+
+msgid  "tooltip-rollback"
+msgstr  "Bošetša diphetogo letlakaleng morago go mošumiši wa mafelo"
+
+msgid  "tooltip-undo"
+msgstr  "\"Undo\" e tloša dipheto tše, ya bula letlakala go nyakorela fela. E go dumela go ngawla lebaka go dikakaretšo."
+
+msgid  "siteuser"
+msgstr  "{{SITENAME}} mošumiši $1"
+
+msgid  "lastmodifiedatby"
+msgstr  "Letlakala le  fetotšwe la mafelelo ka $2, $1 ke $3."
+
+msgid  "others"
+msgstr  "tše dingwe"
+
+msgid  "siteusers"
+msgstr  "{{SITENAME}} mošumiši/bašumiši $1"
+
+msgid  "numedits"
+msgstr  "Palo ya diphetogo (letlakala): $1"
+
+msgid  "numwatchers"
+msgstr  "Palo ya batlhapedi: $1"
+
+msgid  "math_unknown_error"
+msgstr  "Phošo ya gose tsebege"
+
+msgid  "math_syntax_error"
+msgstr  "phošo ya popafoko"
+
+msgid  "filedeleteerror-short"
+msgstr  "Phošo go phumuleng faele: $1"
+
+msgid  "filedeleteerror-long"
+msgstr  "Diphošo di hlagile ge go phumulwa faele:\n\n$1"
+
+msgid  "filedelete-missing"
+msgstr  "Faele \"$1\" ga e phumulege ka ge e segona."
+
+msgid  "previousdiff"
+msgstr  "← Dophapano tšago feta"
+
+msgid  "nextdiff"
+msgstr  "Diphapano tše dimpšha →"
+
+msgid  "widthheightpage"
+msgstr  "$1×$2, $3 {{PLURAL:$3|letlakala|matlakala}}"
+
+msgid  "file-info-size"
+msgstr  "$1 × $2 pixel, bogolo ba faele: $3, Mohuta wa MIME: $4"
+
+msgid  "file-nohires"
+msgstr  "<small>Gago ''resolution'' ya go feta mo.</small>"
+
+msgid  "svg-long-desc"
+msgstr  "SVG faele, nominally $1 × $2 pixels, bogolo ba faele: $3"
+
+msgid  "show-big-image"
+msgstr  "''resolution'' ya gofella"
+
+msgid  "show-big-image-thumb"
+msgstr  "<small>Bogolo ba pono: $1 × $2 pixels</small>"
+
+msgid  "newimages"
+msgstr  "''Gallery'' ya difaele tše mpsha"
+
+msgid  "ilsubmit"
+msgstr  "Fetleka"
+
+msgid  "bydate"
+msgstr  "ka letšatšikgwedi"
+
+msgid  "bad_image_list"
+msgstr  "''Format'' e ka mokgwa wo o latelago:\n\nKe fela tšeo dilego lenano (methalo ya go thoma ka *) yeo e dumeletšwego.\nHlomaganyo ya mathomo mothalong e swanetše go hlomaganya le seswantšho sa go senyega.\nDihlomaganyo tše dilatelago mothalong o tee di tšewa bjalo ka maarogi, ka mantšwe a mangwe, matlakala a we seswantšsho se ka bago gona mothalong."
+
+msgid  "metadata"
+msgstr  "Metadata"
+
+msgid  "metadata-help"
+msgstr  "Faele enale sedi yengwe, yeo ekabago e tšwa go khamera goba ''scanner'' tšeo di šumišitšwego go bopa faele ye. Sedi ye itsego ga ego goba gona go faele ye e fetolwago."
+
+msgid  "metadata-expand"
+msgstr  "Bontšha sedi ya gotlala(extended)"
+
+msgid  "metadata-collapse"
+msgstr  "Fihla sedi ya gotlala(''extended'')"
+
+msgid  "metadata-fields"
+msgstr  "EXIF metadata ''fields'' tšao dilego go molaetša wo, di tla tsenywa go\nletlakala la seswantšho ge tafola ya metadata e bulwa. Tše dingwe tša di ''fields'' di tla fihliwa.\n* make\n* model\n* datetimeoriginal\n* exposuretime\n* fnumber\n* isospeedratings\n* focallength"
+
+msgid  "exif-imagewidth"
+msgstr  "Bophara"
+
+msgid  "exif-imagelength"
+msgstr  "Botelele"
+
+msgid  "exif-artist"
+msgstr  "Mongwadi"
+
+msgid  "exif-componentsconfiguration-0"
+msgstr  "Ga e gona"
+
+msgid  "exif-subjectdistance-value"
+msgstr  "$1 metara"
+
+msgid  "exif-meteringmode-1"
+msgstr  "Palogare"
+
+msgid  "edit-externally"
+msgstr  "Fetola faele ye o šumiša thulusi ya ka ntle"
+
+msgid  "edit-externally-help"
+msgstr  "(Lebelela [http://www.mediawiki.org/wiki/Manual:External_editors Taelo ya go thoma] go humana sedi)"
+
+msgid  "recentchangesall"
+msgstr  "ka moka"
+
+msgid  "imagelistall"
+msgstr  "ka moka"
+
+msgid  "watchlistall2"
+msgstr  "ka moka"
+
+msgid  "namespacesall"
+msgstr  "ka moka"
+
+msgid  "monthsall"
+msgstr  "ka moka"
+
+msgid  "imgmultipageprev"
+msgstr  "← letlakala la go feta"
+
+msgid  "imgmultipagenext"
+msgstr  "letlakala lago latela →"
+
+msgid  "table_pager_next"
+msgstr  "Letlakala la go latela"
+
+msgid  "table_pager_prev"
+msgstr  "Letlakala la gofeta"
+
+msgid  "table_pager_first"
+msgstr  "Letlakala la pele"
+
+msgid  "table_pager_last"
+msgstr  "Letlakala la mafelelo"
+
+msgid  "table_pager_empty"
+msgstr  "Ga gona sepheto"
+
+msgid  "autosumm-new"
+msgstr  "Tlhodile letlakala ka '$1'"
+
+msgid  "watchlistedit-numitems"
+msgstr  "Lenano la gago la ditlhapetšo le na le  {{PLURAL:$1|thaetlele ye tee|di thaetlele tše $1}}, re sa bale matlakala a dipolelo."
+
+msgid  "watchlistedit-noitems"
+msgstr  "Lenano la gago la ditlhapetšo ga lena dithaetlele."
+
+msgid  "watchlistedit-normal-title"
+msgstr  "Felotal lenano la ditlhapetšo"
+
+msgid  "watchlistedit-normal-legend"
+msgstr  "Tloša dithaetlele go lenano la ditlhapetšo"
+
+msgid  "watchlistedit-normal-submit"
+msgstr  "Tloša thaetlele"
+
+msgid  "watchlisttools-view"
+msgstr  "Nyakoretša diphetogo tša gona"
+
+msgid  "watchlisttools-edit"
+msgstr  "Lebelela lego fetola lenano la ditlhapetšo"
+
+msgid  "watchlisttools-raw"
+msgstr  "Fetola lenano le letala (''raw'') la ditlhapetšo"
+
+msgid  "version"
+msgstr  "''Version''"
+
+msgid  "fileduplicatesearch-submit"
+msgstr  "Fetleka"
+
+msgid  "specialpages"
+msgstr  "Matlakala a itšeng"
+
+msgid  "wm-license-information-source"
+msgstr  "Mothopo"
+

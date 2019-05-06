@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_gb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "wm-license-cc-zero-explanation"
+msgstr  "The person who associated a work with this deed has dedicated the work to the [[{{int:wm-license-pd-wiki-link}}|public domain]] by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighbouring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission."
+
+msgid  "wm-license-information-table-summary"
+msgstr  "A standardised table providing complete information about the file, including description of what it shows and how it was made, copyright status and source."
+
+msgid  "wm-license-self-one-license-with-author"
+msgstr  "$1, the copyright holder of this work, hereby publishes it under the following licence:"
+
+msgid  "wm-license-self-multiple-licenses"
+msgstr  "I, the copyright holder of this work, hereby publish it under the following licences:"
+
+msgid  "wm-license-self-multiple-licenses-with-author"
+msgstr  "$1, the copyright holder of this work, hereby publishes it under the following licences:"
+
+msgid  "wm-license-self-multiple-licenses-select"
+msgstr  "You may select the licence of your choice."
+

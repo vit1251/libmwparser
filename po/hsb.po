@@ -1,0 +1,444 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hsb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "wikimedialicensetexts-desc"
+msgstr  "Licencne zdźělenki Wikimedije"
+
+msgid  "wm-license-book-edition"
+msgstr  "Wudaće"
+
+msgid  "wm-license-book-editor"
+msgstr  "Wudawaćel"
+
+msgid  "wm-license-book-illustrator"
+msgstr  "Ilustrator"
+
+msgid  "wm-license-book-language"
+msgstr  "Rěč"
+
+msgid  "wm-license-book-page-overview"
+msgstr  "Přehlad strony"
+
+msgid  "wm-license-book-place-of-publication"
+msgstr  "Městno wudaća"
+
+msgid  "wm-license-book-printer"
+msgstr  "Ćišćernja"
+
+msgid  "wm-license-book-publisher"
+msgstr  "Nakładnistwo"
+
+msgid  "wm-license-book-series-title"
+msgstr  "Titul serije"
+
+msgid  "wm-license-book-start-this-book"
+msgstr  "Tutu knihu započeć"
+
+msgid  "wm-license-book-subtitle"
+msgstr  "Podtitul"
+
+msgid  "wm-license-book-title"
+msgstr  "Titul"
+
+msgid  "wm-license-book-translator"
+msgstr  "Přełožowar"
+
+msgid  "wm-license-book-volume"
+msgstr  "Zwjazk"
+
+msgid  "wm-license-book-year-of-publication"
+msgstr  "Lěto wudaća"
+
+msgid  "wm-license-cc-wiki-link"
+msgstr  "w:hsb:Cresative Commons"
+
+msgid  "wm-license-cc-attribution"
+msgstr  "Připokazanje"
+
+msgid  "wm-license-cc-by-1.0-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.hsb Attribution 1.0 Generic] licencowana"
+
+msgid  "wm-license-cc-by-1.0-fi-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.de Namensnennung 1.0 Finska] licencowana."
+
+msgid  "wm-license-cc-by-1.0-il-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/deed.de Namensnennung 1.0 Israel] licencowana."
+
+msgid  "wm-license-cc-by-1.0-nl-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.de Namensnennung 1.0 Nižozemska] licencowana."
+
+msgid  "wm-license-cc-by-2.0-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ Attribution 2.0 Generic] licencowana"
+
+msgid  "wm-license-cc-by-2.0-at-text"
+msgstr  "Dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/deed.de Namensnennung 2.0 Awstriska] licencowana."
+
+msgid  "wm-license-cc-by-2.0-au-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/deed.de Namensnennung 2.0 Awstralska] licencowana."
+
+msgid  "wm-license-cc-by-2.0-be-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/deed.de Namensnennung 2.0 Belgiska] licencowana."
+
+msgid  "wm-license-cc-by-2.0-br-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/deed.de Namensnennung 2.0 Brazilska] licencowana."
+
+msgid  "wm-license-cc-by-2.0-ca-text"
+msgstr  "tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ca/deed.de Namensnennung 2.0 Kanada] licencowana."
+
+msgid  "wm-license-cc-by-2.0-cl-text"
+msgstr  "tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/cl/deed.de Namensnennung 2.0 Chile] licencowana."
+
+msgid  "wm-license-cc-by-2.0-de-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/de/deed.de Namensnennung 2.0 Němska] licencowana."
+
+msgid  "wm-license-cc-by-2.0-es-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/es/deed.de Namensnennung 2.0 Španiska] licencowana."
+
+msgid  "wm-license-cc-by-2.0-fr-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/fr/deed.de Namensnennung 2.0 Francoska] licencowana."
+
+msgid  "wm-license-cc-by-2.0-hr-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/hr/deed.de Namensnennung 2.0 Chorwatska] licencowana."
+
+msgid  "wm-license-cc-by-2.0-it-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/it/deed.de Namensnennung 2.0 Italska] licencowana."
+
+msgid  "wm-license-cc-by-2.0-jp-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/jp/deed.de Namensnennung 2.0 Japanska] licencowana."
+
+msgid  "wm-license-cc-by-2.0-kr-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/kr/deed.de Namensnennung 2.0 Koreja] licencowana."
+
+msgid  "wm-license-cc-by-2.0-nl-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/nl/deed.de Namensnennung 2.0 Nižozemska] licencowana."
+
+msgid  "wm-license-cc-by-2.0-pl-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/pl/deed.de Namensnennung 2.0 Pólska] licencowana."
+
+msgid  "wm-license-cc-by-2.0-tw-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/tw/deed.de Namensnennung 2.0 Tajwan] licencowana."
+
+msgid  "wm-license-cc-by-2.0-uk-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/uk/deed.de Namensnennung 2.0 Jendźelska a Waliziska] licencowana."
+
+msgid  "wm-license-cc-by-2.0-za-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/za/deed.de Namensnennung 2.0 Južna Afrika] licencowana."
+
+msgid  "wm-license-cc-by-2.1-au-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/au/deed.de Namensnennung 2.1 Awstralska] licencowana."
+
+msgid  "wm-license-cc-by-2.1-es-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/es/deed.de Namensnennung 2.1 Španiska] licencowana."
+
+msgid  "wm-license-cc-by-2.1-jp-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/jp/deed.de Namensnennung 2.1 Japanska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ Attribution 2.5 Generic] licencowana"
+
+msgid  "wm-license-cc-by-2.5-au-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/au/deed.de Namensnennung 2.5 Awstralska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-bg-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/bg/deed.de Namensnennung 2.5 Bołharska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-br-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/br/deed.de Namensnennung 2.5 Brazilska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-ca-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ca/deed.de Namensnennung 2.5 Kanada] licencowana."
+
+msgid  "wm-license-cc-by-2.5-ch-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ch/deed.de Namensnennung 2.5 Šwicarska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-cn-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/cn/deed.de Namensnennung 2.5 Ludowa republika China] licencowana."
+
+msgid  "wm-license-cc-by-2.5-co-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/co/deed.de Namensnennung 2.5 Kolumbiska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-dk-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/dk/deed.de Namensnennung 2.5 Danska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-es-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/es/deed.de Namensnennung 2.5 Španiska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-hr-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hr/deed.de Namensnennung 2.5 Chorwatska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-hu-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hu/deed.de Namensnennung 2.5 Madźarska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-il-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/il/deed.de Namensnennung 2.5 Israel] licencowana."
+
+msgid  "wm-license-cc-by-2.5-in-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/in/deed.de Namensnennung 2.5 Indiska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-it-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/it/deed.de Namensnennung 2.5 Italska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-mk-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mk/deed.de Namensnennung 2.5 Makedonska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-mt-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mt/deed.de Namensnennung 2.5 Malta] licencowana."
+
+msgid  "wm-license-cc-by-2.5-mx-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mx/deed.de Namensnennung 2.5 Mexiko] licencowana."
+
+msgid  "wm-license-cc-by-2.5-my-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/my/deed.de Namensnennung 2.5 Malajzija] licencowana."
+
+msgid  "wm-license-cc-by-2.5-nl-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/nl/deed.de Namensnennung 2.5 Nižozemska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-pe-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pe/deed.de Namensnennung 2.5 Peru] licencowana."
+
+msgid  "wm-license-cc-by-2.5-pl-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pl/deed.de Namensnennung 2.5 Pólska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-pt-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pt/deed.de Namensnennung 2.5 Portugalska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-scotland-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/scotland/deed.de Namensnennung 2.5 Šotiska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-se-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/se/deed.de Namensnennung 2.5 Šwedska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-si-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/si/deed.de Namensnennung 2.5 Słowjenska] licencowana."
+
+msgid  "wm-license-cc-by-2.5-tw-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/tw/deed.de Namensnennung 2.5 Tajwan] licencowana."
+
+msgid  "wm-license-cc-by-2.5-za-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/za/deed.de Namensnennung 2.5 Južna Afrika] licencowana."
+
+msgid  "wm-license-cc-by-3.0-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.hsb Attribution 3.0 Unported] licencowana"
+
+msgid  "wm-license-cc-by-3.0-2.5-2.0-1.0-text"
+msgstr  "Tuta dataja je pod licencami [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.de Namensnennung 3.0 Unported], [http://creativecommons.org/licenses/by/2.5/deed.de 2.5 Generic], [http://creativecommons.org/licenses/by/2.0/deed.de 2.0 Generic] a [http://creativecommons.org/licenses/by/1.0/deed.de 1.0 Generic] licencowana."
+
+msgid  "wm-license-cc-by-3.0-at-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/deed.de Namensnennung 3.0 Awstriska] licencowana."
+
+msgid  "wm-license-cc-by-3.0-cz-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/cs/deed.de Namensnennung 3.0 Čěska]  licencowana."
+
+msgid  "wm-license-cc-by-3.0-de-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/de/deed.de Namensnennung 3.0 Němska]  licencowana."
+
+msgid  "wm-license-cc-by-3.0-es-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/es/deed.de Namensnennung 3.0 Španiska]  licencowana."
+
+msgid  "wm-license-cc-by-3.0-gr-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/gr/deed.de Namensnennung 3.0 Grjekska]  licencowana."
+
+msgid  "wm-license-cc-by-3.0-gt-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/gt/deed.de Namensnennung 3.0 Guatemala]  licencowana."
+
+msgid  "wm-license-cc-by-3.0-hr-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/hr/deed.de Namensnennung 3.0 Chorwatska]  licencowana."
+
+msgid  "wm-license-cc-by-3.0-hk-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/hk/deed.de Namensnennung 3.0 Hongkong]  licencowana."
+
+msgid  "wm-license-cc-by-3.0-lu-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/lu/deed.de Namensnennung 3.0 Luxemburgska]  licencowana."
+
+msgid  "wm-license-cc-by-3.0-nl-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nl/deed.de Namensnennung 3.0 Nižozemska]  licencowana."
+
+msgid  "wm-license-cc-by-3.0-no-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/no/deed.de Namensnennung 3.0 Norwegska]  licencowana."
+
+msgid  "wm-license-cc-by-3.0-nz-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nz/deed.de Namensnennung 3.0 Neuseelandska]  licencowana."
+
+msgid  "wm-license-cc-by-3.0-ph-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ph/deed.de Namensnennung 3.0 Filipiny]  licencowana."
+
+msgid  "wm-license-cc-by-3.0-pl-text"
+msgstr  "Tuta dataja je pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/pl/deed.de Namensnennung 3.0 Pólska] licencowana."
+
+msgid  "wm-license-cc-by-3.0-pr-text"
+msgstr  "Tuta dataja je pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/pr/deed.de Namensnennung 3.0 Portugalska] licencowana."
+
+msgid  "wm-license-cc-by-3.0-ro-text"
+msgstr  "Tuta dataja je pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ro/deed.de Namensnennung 3.0 Rumunska] licencowana."
+
+msgid  "wm-license-cc-by-3.0-rs-text"
+msgstr  "Tuta dataja je pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/rs/deed.de Namensnennung 3.0 Serbiska] licencowana."
+
+msgid  "wm-license-cc-by-3.0-sg-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/sg/deed.de Namensnennung 3.0 Singapur] licencowana."
+
+msgid  "wm-license-cc-by-3.0-th-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/th/deed.de Namensnennung 3.0 Thailandska] licencowana."
+
+msgid  "wm-license-cc-by-3.0-tw-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/tw/deed.de Namensnennung 3.0 Tajwan] licencowana."
+
+msgid  "wm-license-cc-by-3.0-us-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/us/deed.de Namensnennung 3.0 Zjednoćene staty] licencowana."
+
+msgid  "wm-license-cc-by-sa-1.0-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/ Attribution-Share Alike 1.0 Generic] licencowana"
+
+msgid  "wm-license-cc-by-sa-1.0-fi-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/fi/deed.de Namensnennung 3.0 Finska] licencowana."
+
+msgid  "wm-license-cc-by-sa-1.0-il-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/il/deed.de Namensnennung 3.0 Israel] licencowana."
+
+msgid  "wm-license-cc-by-sa-2.0-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ Attribution-Share Alike 2.0 Generic] licencowana"
+
+msgid  "wm-license-cc-by-sa-2.5-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ Attribution-Share Alike 2.5 Generic] licencowana"
+
+msgid  "wm-license-cc-by-sa-3.0-text"
+msgstr  "Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported] licencowana"
+
+msgid  "wm-license-cc-free"
+msgstr  "Směš:"
+
+msgid  "wm-license-cc-free-to-share-header"
+msgstr  "zhromadnje wužiwać"
+
+msgid  "wm-license-cc-free-to-share-text"
+msgstr  "dźěło kopěrować, rozšěrić a dale dać"
+
+msgid  "wm-license-cc-free-to-remix-header"
+msgstr  "změšeć"
+
+msgid  "wm-license-cc-free-to-remix-text"
+msgstr  "zo by dźěło přiměrił"
+
+msgid  "wm-license-cc-conditions"
+msgstr  "Pod slědowacymi wuměnjenjemi:"
+
+msgid  "wm-license-cc-conditions-attribution-header"
+msgstr  "připokazanje"
+
+msgid  "wm-license-cc-conditions-attribution-text"
+msgstr  "Dyrbiš dźěło na wašnje připokazać, kotrež je awtor abo licencowar podał (ale nic na wašnje, kotrež da tukać, zo wón tebje abo twoje wužiwanje dźěła schwala)."
+
+msgid  "wm-license-cc-conditions-share_alike-header"
+msgstr  "dźělić"
+
+msgid  "wm-license-cc-conditions-share_alike-text"
+msgstr  "Jeli tute dźěło měnješ, přetworjuješ abo na njo natwarješ, móžeš hotowe dźěło jenož pod samsnej abo podobnej licencu kaž tuta rozšěrić."
+
+msgid  "wm-license-creator-alternative-names"
+msgstr  "Alternatiwne mjena"
+
+msgid  "wm-license-creator-description"
+msgstr  "Wopisanje"
+
+msgid  "wm-license-creator-date-of-birth"
+msgstr  "Datum narodźenja"
+
+msgid  "wm-license-creator-date-of-birth-and-death"
+msgstr  "Datum narodźenja/smjerće"
+
+msgid  "wm-license-creator-location-of-birth"
+msgstr  "Městno narodźenja"
+
+msgid  "wm-license-creator-location-of-birth-and-death"
+msgstr  "Městno narodźenja/smjerće"
+
+msgid  "wm-license-creator-work-period"
+msgstr  "Dźěłowa perioda"
+
+msgid  "wm-license-creator-work-location"
+msgstr  "Dźěłowe městno"
+
+msgid  "wm-license-creator-linkback"
+msgstr  "Wotkaz wróćo k infokašćikowej předłoze tworićela"
+
+msgid  "wm-license-gfdl-1.2-only-header"
+msgstr  "1.2&nbsp;jenož"
+
+msgid  "wm-license-information-table-summary"
+msgstr  "standardizowana tabela, kotraž dospołne informacije wo dataji dodawa, inkluziwnje wopisanje wo tym, štož pokazuje a kak je so wutworiła, status awtorskeho prawa a žórło."
+
+msgid  "wm-license-information-description"
+msgstr  "Wopis"
+
+msgid  "wm-license-information-description-missing"
+msgstr  "Tuta dataja nima '''wopisanje''' a pobrachuja snano tež druhe informacije."
+
+msgid  "wm-license-information-description-missing-request"
+msgstr  "Prošu podaj zmysłapołne wopisanje tuteje dataje."
+
+msgid  "wm-license-information-source"
+msgstr  "Žórło"
+
+msgid  "wm-license-information-source-missing"
+msgstr  "Tuta dataja nima informacije wo '''žórle'''."
+
+msgid  "wm-license-information-source-missing-request"
+msgstr  "Prošu změń wopisanje tuteje dataje a podaj žórło."
+
+msgid  "wm-license-information-date"
+msgstr  "Datum"
+
+msgid  "wm-license-information-author"
+msgstr  "Awtor"
+
+msgid  "wm-license-information-author-missing"
+msgstr  "Tuta dataja nima informacije wo '''awtorje'''."
+
+msgid  "wm-license-information-permission"
+msgstr  "Dowolnosć"
+
+msgid  "wm-license-information-permission-reusing-text"
+msgstr  "Dalewužiwanje tuteje dataje"
+
+msgid  "wm-license-information-permission-see-below"
+msgstr  "See below."
+
+msgid  "wm-license-information-other-versions"
+msgstr  "Druhe wersije tuteje dataje"
+
+msgid  "wm-license-licensing-update-text"
+msgstr  "Tuta licencna marka je so tutej dataji jako dźěl [[{{int:wm-license-licensing-update-wiki-link}}|licencneje aktualizacije]] přidała."
+
+msgid  "wm-license-original-upload-log"
+msgstr  "Originalny protokol nahraćow"
+
+msgid  "wm-license-own-work"
+msgstr  "Swójske dźěło"
+
+msgid  "wm-license-pd-author-not-legally-possible"
+msgstr  "W někotrych krajach je to snano prawnisce njemóžno; jeli tomu tak je:"
+
+msgid  "wm-license-self-one-license"
+msgstr  "Ja, awtor tutoho dźěła, wozjewjam jo z tym pod slědowacej licencu:"
+
+msgid  "wm-license-self-one-license-with-author"
+msgstr  "$1, awtor tutoho dźěła, wozjewja jo z tym pod slědowacu licencu:"
+
+msgid  "wm-license-self-multiple-licenses"
+msgstr  "Ja, awtor tutoho dźěła, wozjewjam jo z tym pod slědowacymi licencami:"
+
+msgid  "wm-license-self-multiple-licenses-with-author"
+msgstr  "$1, awtor tutoho dźěła, wozjewja jo z tym pod slědowacymi licencami:"
+
+msgid  "wm-license-self-multiple-licenses-select"
+msgstr  "Móžeš licencu swojeje wólby wubrać."
+

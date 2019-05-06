@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: yue\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "wikimedialicensetexts-desc"
+msgstr  "維基媒體版權信息"
+
+msgid  "wm-license-attribution-with-author-text"
+msgstr  "我，$1，呢個檔案嘅版權持有者，歡迎任何人係任何目的之下用呢幅圖。你可以改作、甚至用係商業用途都可以。"
+
+msgid  "wm-license-attribution-without-author-text"
+msgstr  "版權持有者同意你係任何目的之下用呢個檔案。你可以作商業用途、改變呢個作品都可以。"
+
+msgid  "wm-license-cc-wiki-link"
+msgstr  "w:en:Creative Commons"
+
+msgid  "wm-license-cc-attribution"
+msgstr  "原因"
+
+msgid  "wm-license-cc-by-1.0-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/1.0/deed.eo Atribuite 1.0 Ĝenerala]."
+
+msgid  "wm-license-cc-by-1.0-nl-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/1.0/nl/deed.eo Atribuite 1.0 Nederlando]."
+
+msgid  "wm-license-cc-by-2.0-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/deed.eo Atribuite 2.0 Ĝenerala]."
+
+msgid  "wm-license-cc-by-2.0-at-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/at/deed.eo Atribuite 2.0 Aŭstrujo]."
+
+msgid  "wm-license-cc-by-2.0-be-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/be/deed.eo Atribuite 2.0 Belgujo]."
+
+msgid  "wm-license-cc-by-2.0-br-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/br/deed.eo Atribuite 2.0 Brazilo]."
+
+msgid  "wm-license-cc-by-2.0-cl-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/cl/deed.eo Atribuite 2.0 Ĉilio]."
+
+msgid  "wm-license-cc-by-2.0-de-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/de/deed.eo Atribuite 2.0 Germanujo]."
+
+msgid  "wm-license-cc-by-2.0-es-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/es/deed.eo Atribuite 2.0 Hispanujo]."
+
+msgid  "wm-license-cc-by-2.0-fr-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/fr/deed.eo Atribuite 2.0 Francujo]."
+
+msgid  "wm-license-cc-by-2.0-it-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/it/deed.eo Atribuite 2.0 Italujo]."
+
+msgid  "wm-license-cc-by-2.0-kr-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/kr/deed.eo Atribuite 2.0 Koreujo]."
+
+msgid  "wm-license-cc-by-2.0-nl-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/nl/deed.eo Atribuite 2.0 Nederlando]."
+
+msgid  "wm-license-cc-by-2.5-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/deed.eo Atribuite 2.5 Ĝenerala]."
+
+msgid  "wm-license-cc-by-2.5-au-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/au/deed.eo Atribuite 2.5 Aŭstralio]."
+
+msgid  "wm-license-cc-by-2.5-bg-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/bg/deed.eo Atribuite 2.5 Bulgarujo]."
+
+msgid  "wm-license-cc-by-2.5-br-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/br/deed.eo Atribuite 2.5 Brazilo]."
+
+msgid  "wm-license-cc-by-2.5-cn-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/cn/deed.eo Atribuite 2.5 Ĉinujo]."
+
+msgid  "wm-license-cc-by-2.5-dk-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/dk/deed.eo Atribuite 2.5 Danujo]."
+
+msgid  "wm-license-cc-by-2.5-es-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/es/deed.eo Atribuite 2.5 Hispanujo]."
+
+msgid  "wm-license-cc-by-2.5-in-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/in/deed.eo Atribuite 2.5 Barato]."
+
+msgid  "wm-license-cc-by-2.5-it-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/it/deed.eo Atribuite 2.5 Italujo]."
+
+msgid  "wm-license-cc-by-2.5-my-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/my/deed.eo Atribuite 2.5 Malajzio]."
+
+msgid  "wm-license-cc-by-2.5-nl-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/nl/deed.eo Atribuite 2.5 Nederlando]."
+
+msgid  "wm-license-cc-by-2.5-pe-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/pe/deed.eo Atribuite 2.5 Peruo]."
+
+msgid  "wm-license-cc-by-2.5-pl-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/pl/deed.eo Atribuite 2.5 Polujo]."
+
+msgid  "wm-license-cc-by-2.5-se-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/se/deed.eo Atribuite 2.5 Svedujo]."
+
+msgid  "wm-license-cc-by-3.0-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/deed.eo Atribuite 3.0 Neadaptita]."
+
+msgid  "wm-license-cc-by-3.0-at-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/at/deed.eo Atribuite 3.0 Aŭstrujo]."
+
+msgid  "wm-license-cc-by-3.0-de-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/de/deed.eo Atribuite 3.0 Germanujo]."
+
+msgid  "wm-license-cc-by-3.0-gr-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/gr/deed.eo Atribuite 3.0 Grekujo]."
+
+msgid  "wm-license-cc-by-3.0-nl-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/nl/deed.eo Atribuite 3.0 Nederlando]."
+
+msgid  "wm-license-cc-by-3.0-nz-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/nz/deed.eo Atribuite 3.0 Nov-Zelando]."
+
+msgid  "wm-license-cc-by-3.0-ro-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/ro/deed.eo Atribuite 3.0 Rumanujo]."
+
+msgid  "wm-license-cc-by-3.0-rs-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/rs/deed.eo Atribuite 3.0 Serbujo]."
+
+msgid  "wm-license-cc-by-3.0-us-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/us/deed.eo Atribuite 3.0 Usono]."
+
+msgid  "wm-license-cc-by-sa-1.0-fi-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/1.0/fi/deed.eo Atribuite-Samkondiĉe 1.0 Suomujo]."
+
+msgid  "wm-license-cc-by-sa-1.0-nl-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/1.0/nl/deed.eo Atribuite-Samkondiĉe 1.0 Nederlando]."
+
+msgid  "wm-license-cc-by-sa-2.0-at-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/at/deed.eo Atribuite-Samkondiĉe 2.0 Aŭstrujo]."
+
+msgid  "wm-license-cc-by-sa-2.0-au-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/au/deed.eo Atribuite-Samkondiĉe 2.0 Aŭstralio]."
+
+msgid  "wm-license-cc-by-sa-2.0-be-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/be/deed.eo Atribuite-Samkondiĉe 2.0 Belgujo]."
+
+msgid  "wm-license-cc-by-sa-2.0-br-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/br/deed.eo Atribuite-Samkondiĉe 2.0 Brazilo]."
+
+msgid  "wm-license-cc-by-sa-2.0-ca-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/ca/deed.eo Atribuite-Samkondiĉe 2.0 Kanado]."
+
+msgid  "wm-license-cc-by-sa-2.0-cl-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/cl/deed.eo Atribuite-Samkondiĉe 2.0 Ĉilio]."
+
+msgid  "wm-license-cc-by-sa-2.0-de-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/de/deed.eo Atribuite-Samkondiĉe 2.0 Germanujo]."
+
+msgid  "wm-license-cc-by-sa-2.0-es-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/es/deed.eo Atribuite-Samkondiĉe 2.0 Hispanujo]."
+
+msgid  "wm-license-cc-by-sa-2.0-fr-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/fr/deed.eo Atribuite-Samkondiĉe 2.0 Francujo]."
+
+msgid  "wm-license-cc-by-sa-2.0-it-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/it/deed.eo Atribuite-Samkondiĉe 2.0 Italujo]."
+
+msgid  "wm-license-cc-by-sa-2.0-kr-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/kr/deed.eo Atribuite-Samkondiĉe 2.0 Koreujo]."
+
+msgid  "wm-license-cc-by-sa-2.0-nl-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/nl/deed.eo Atribuite-Samkondiĉe 2.0 Nederlando]."
+
+msgid  "wm-license-cc-by-sa-2.0-tw-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/tw/deed.eo Atribuite-Samkondiĉe 2.0 Tajvano]."
+
+msgid  "wm-license-cc-by-sa-2.0-uk-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/uk/deed.eo Atribuite-Samkondiĉe 2.0 Britujo: Anglujo & Kimrujo]."
+
+msgid  "wm-license-cc-by-sa-2.5-ar-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/ar/deed.eo Atribuite-Samkondiĉe 2.5 Argentino]."
+
+msgid  "wm-license-cc-by-sa-2.5-au-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/au/deed.eo Atribuite-Samkondiĉe 2.5 Aŭstralio]."
+
+msgid  "wm-license-cc-by-sa-2.5-bg-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/bg/deed.eo Atribuite-Samkondiĉe 2.5 Bulgarujo]."
+
+msgid  "wm-license-cc-by-sa-2.5-br-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/br/deed.eo Atribuite-Samkondiĉe 2.5 Brazilo]."
+
+msgid  "wm-license-cc-by-sa-2.5-ca-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/ca/deed.eo Atribuite-Samkondiĉe 2.5 Kanado]."
+
+msgid  "wm-license-cc-by-sa-2.5-ch-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/ch/deed.eo Atribuite-Samkondiĉe 2.5 Svisujo]."
+
+msgid  "wm-license-cc-by-sa-2.5-cn-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/cn/deed.eo Atribuite-Samkondiĉe 2.5 Ĉinujo]."
+
+msgid  "wm-license-cc-by-sa-2.5-dk-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/dk/deed.eo Atribuite-Samkondiĉe 2.5 Danujo]."
+
+msgid  "wm-license-cc-by-sa-2.5-es-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/es/deed.eo Atribuite-Samkondiĉe 2.5 Hispanujo]."
+
+msgid  "wm-license-cc-by-sa-2.5-hu-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/hu/deed.eo Atribuite-Samkondiĉe 2.5 Hungarujo]."
+
+msgid  "wm-license-cc-by-sa-2.5-in-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/in/deed.eo Atribuite-Samkondiĉe 2.5 Barato]."
+
+msgid  "wm-license-cc-by-sa-2.5-it-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/it/deed.eo Atribuite-Samkondiĉe 2.5 Italujo]."
+
+msgid  "wm-license-cc-by-sa-2.5-mx-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/mx/deed.eo Atribuite-Samkondiĉe 2.5 Meksiko]."
+
+msgid  "wm-license-cc-by-sa-2.5-my-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/my/deed.eo Atribuite-Samkondiĉe 2.5 Malajzio]."
+
+msgid  "wm-license-cc-by-sa-2.5-nl-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/nl/deed.eo Atribuite-Samkondiĉe 2.5 Nederlando]."
+
+msgid  "wm-license-cc-by-sa-2.5-pl-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/pl/deed.eo Atribuite-Samkondiĉe 2.5 Polujo]."
+
+msgid  "wm-license-cc-by-sa-2.5-pt-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/pt/deed.eo Atribuite-Samkondiĉe 2.5 Portugalujo]."
+
+msgid  "wm-license-cc-by-sa-2.5-scotland-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/scotland/deed.eo Atribuite-Samkondiĉe 2.5 Britujo: Skotujo]."
+
+msgid  "wm-license-cc-by-sa-2.5-se-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/se/deed.eo Atribuite-Samkondiĉe 2.5 Svedujo]."
+
+msgid  "wm-license-cc-by-sa-2.5-si-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/si/deed.eo Atribuite-Samkondiĉe 2.5 Slovenujo]."
+
+msgid  "wm-license-cc-by-sa-2.5-tw-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/tw/deed.eo Atribuite-Samkondiĉe 2.5 Tajvano]."
+
+msgid  "wm-license-cc-by-sa-3.0-at-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/at/deed.eo Atribuite-Samkondiĉe 3.0 Aŭstrujo]."
+
+msgid  "wm-license-cc-by-sa-3.0-de-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/de/deed.eo Atribuite-Samkondiĉe 3.0 Germanujo]."
+
+msgid  "wm-license-cc-by-sa-3.0-es-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/es/deed.eo Atribuite-Samkondiĉe 3.0 Hispanujo]."
+
+msgid  "wm-license-cc-by-sa-3.0-gr-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/gr/deed.eo Atribuite-Samkondiĉe 3.0 Grekujo]."
+
+msgid  "wm-license-cc-by-sa-3.0-nl-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/nl/deed.eo Atribuite-Samkondiĉe 3.0 Nederlando]."
+
+msgid  "wm-license-cc-by-sa-3.0-no-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/no/deed.eo Atribuite-Samkondiĉe 3.0 Norvegujo]."
+
+msgid  "wm-license-cc-by-sa-3.0-nz-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/nz/deed.eo Atribuite-Samkondiĉe 3.0 Nov-Zelando]."
+
+msgid  "wm-license-cc-by-sa-3.0-ro-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/ro/deed.eo Atribuite-Samkondiĉe 3.0 Rumanujo]."
+
+msgid  "wm-license-cc-by-sa-3.0-rs-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/rs/deed.eo Atribuite-Samkondiĉe 3.0 Serbujo]."
+
+msgid  "wm-license-cc-by-sa-3.0-tw-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/tw/deed.eo Atribuite-Samkondiĉe 3.0 Tajvano]."
+
+msgid  "wm-license-cc-by-sa-3.0-us-text"
+msgstr  "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/us/deed.eo Atribuite-Samkondiĉe 3.0 Usono]."
+
+msgid  "wm-license-cc-free"
+msgstr  "你可以："
+
+msgid  "wm-license-cc-free-to-share-header"
+msgstr  "去分享"
+
+msgid  "wm-license-cc-conditions-share_alike-header"
+msgstr  "相同方式分享"
+
+msgid  "wm-license-cc-conditions-share_alike-text"
+msgstr  "如果你改左呢個作品，你必須要用返原本或者相似嘅條款發佈"
+
+msgid  "wm-license-information-description"
+msgstr  "描述"
+
+msgid  "wm-license-information-source"
+msgstr  "來源"
+
+msgid  "wm-license-information-source-missing-request"
+msgstr  "請改呢個檔案嘅描述同埋提供一個來源。"
+
+msgid  "wm-license-information-date"
+msgstr  "日期"
+
+msgid  "wm-license-information-author"
+msgstr  "作者"
+
+msgid  "wm-license-information-permission"
+msgstr  "許可"
+
+msgid  "wm-license-information-permission-reusing-text"
+msgstr  "重用呢個檔案"
+
+msgid  "wm-license-own-work"
+msgstr  "自己作品"
+
+msgid  "wm-license-self-one-license"
+msgstr  "我，呢份作品嘅作者，決定用以下許可發佈呢件作品："
+

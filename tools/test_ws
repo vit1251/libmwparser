@@ -1,0 +1,26 @@
+#!/bin/bash
+
+SITE="http://localhost:8888"
+WIKIDUMP_SQLITE_DB="/opt/tmp/wikipedia/wikidump.sqlite"
+WIKIMEDIA="fr.wikiversity.org"
+WIKIMEDIA="fr.wikibooks.org"
+WIKIMEDIA="en.wikiversity.org"
+WIKIMEDIA="en.wikibooks.org"
+WIKIMEDIA="meta.wikimedia.org"
+WIKIMEDIA="www.mediawiki.org"
+
+DIR=$(dirname $0)
+
+echo "select '$SITE?wikimedia=' || sitename || '&lang=' || lang || '&entry=' || title || '&raw=4'
+from wiki_pages p, wiki_siteinfo s
+where p.siteid = s.id and sitename = '$WIKIMEDIA'  
+;" \
+| sqlite3 -separator '	' $WIKIDUMP_SQLITE_DB \
+| wget -q -i - -O /dev/null
+#|less
+
+exit
+while read sitename lang title ; do
+   etitle=$(echo -n "$title" | ${DIR}/url_encode);
+   echo "$SITE?wikimedia=$sitename&lang=$lang&entry=$etitle&raw=4"
+done 

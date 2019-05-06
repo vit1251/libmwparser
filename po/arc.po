@@ -1,0 +1,3618 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: arc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "#ܨܘܝܒܐ"
+msgstr "#REDIRECT"
+
+msgid  "ܡܢܝܢܐ_ܕܦܐܬܬ̈ܐ"
+msgstr "NUMBEROFPAGES"
+
+msgid  "ܡܢܝܢܐ_ܕܡܠܘܐ̈ܐ"
+msgstr "NUMBEROFARTICLES"
+
+msgid  "ܡܢܝܢܐ_ܕܠܦܦ̈ܐ"
+msgstr "NUMBEROFFILES"
+
+msgid  "ܫܡܐ_ܕܦܐܬܐ"
+msgstr "PAGENAME"
+
+msgid  "ܟܘܢܝܐ_ܕܦܐܬܐ"
+msgstr "PAGENAMEE"
+
+msgid  "ܚܩܠܐ"
+msgstr "NAMESPACE"
+
+msgid  "ܐܓܪܬܐ:"
+msgstr "MSG:"
+
+msgid  "ܙܥܘܪܬܐ"
+msgstr "thumb"
+
+msgid  "thumbnail"
+msgstr "thumb"
+
+msgid  "ܙܥܘܪܬܐ=$1"
+msgstr "thumb=$1"
+
+msgid  "thumbnail=$1"
+msgstr "thumb=$1"
+
+msgid  "ܝܡܝܢܐ"
+msgstr "right"
+
+msgid  "ܣܡܠܐ"
+msgstr "left"
+
+msgid  "ܠܐ_ܡܕܡ"
+msgstr "none"
+
+msgid  "ܡܨܥܐ"
+msgstr "centre"
+
+msgid  "center"
+msgstr "centre"
+
+msgid  "ܦܐܬܐ=$1"
+msgstr "page $1"
+
+msgid  "ܦܐܬܐ $1"
+msgstr "page $1"
+
+msgid  "page=$1"
+msgstr "page $1"
+
+msgid  "ܬܚܘܡܐ"
+msgstr "border"
+
+msgid  "ܣܪܛܐ_ܫܪܫܝܐ"
+msgstr "baseline"
+
+msgid  "ܦܪܥܝܐ"
+msgstr "sub"
+
+msgid  "ܬܘܪܨ_ܡܡܠܠܐ:"
+msgstr "GRAMMAR:"
+
+msgid  "ܓܢܣܐ:"
+msgstr "GENDER:"
+
+msgid  "#ܠܫܢܐ:"
+msgstr "#LANGUAGE:"
+
+msgid  "ܕܝܠܢܝܐ"
+msgstr "special"
+
+msgid  "ܫܒܝܠܐ"
+msgstr "PATH"
+
+msgid  "ܘܝܩܝ"
+msgstr "WIKI"
+
+msgid  "tog-underline"
+msgstr  "ܪܫܘܡ ܣܪܛܐ ܬܚܝܬ ܐܣܘܪܐ:"
+
+msgid  "tog-justify"
+msgstr  "ܫܘܐ ܦܬܓܡ̈ܐ"
+
+msgid  "tog-hideminor"
+msgstr  "ܛܫܝ ܫܘܚܠܦ̈ܐ ܙܥܘܪ̈ܐ ܒܫܘܚܠܦ̈ܐ ܚܕ̈ܬܐ"
+
+msgid  "tog-rememberpassword"
+msgstr  "ܕܟܘܪ ܥܠܠܬܝ ܥܠ ܡܦܐܬܢܐ ܗܢܐ (ܠܡܬܚܐ ܥܠܝܐ ܕ $1 {{PLURAL:$1|ܝܘܡܐ|ܝܘܡܬ̈ܐ}})"
+
+msgid  "tog-watchcreations"
+msgstr  "ܐܘܣܦ ܦܐܬܬ̈ܐ ܕܒܪܐ ܐܢܐ ܠܪ̈ܗܝܬܝ"
+
+msgid  "tog-watchdefault"
+msgstr  "ܐܘܣܦ ܦܐܬܬ̈ܐ ܕܫܚܠܦ ܐܢܐ ܠܪ̈ܗܝܬܝ"
+
+msgid  "tog-watchmoves"
+msgstr  "ܐܘܣܦ ܦܐܬܬ̈ܐ ܕܫܢܐ ܐܢܐ ܠܪ̈ܗܝܬܝ"
+
+msgid  "tog-watchdeletion"
+msgstr  "ܐܘܣܦ ܦܐܬܬ̈ܐ ܕܫܦܐ ܐܢܐ ܠܪ̈ܗܝܬܝ"
+
+msgid  "tog-watchlisthideown"
+msgstr  "ܛܫܝ ܫܘܚܠܦ̈ܝ ܡܢ ܪ̈ܗܝܬܐ"
+
+msgid  "tog-watchlisthidebots"
+msgstr  "ܛܫܝ ܫܘܚܠܦ̈ܐ ܕܒܘܬ ܡܢ ܪ̈ܗܝܬܐ"
+
+msgid  "tog-watchlisthideminor"
+msgstr  "ܛܫܝ ܫܘܚܠܦ̈ܐ ܙܥܘܪ̈ܐ ܡܢ ܪ̈ܗܝܬܐ"
+
+msgid  "tog-watchlisthideliu"
+msgstr  "ܛܫܝ ܫܘܚܠܦ̈ܐ ܕܡܦܠܚܢ̈ܐ ܥܠܝܠ̈ܐ ܡܢ ܪ̈ܗܝܬܐ"
+
+msgid  "tog-watchlisthideanons"
+msgstr  "ܛܫܝ ܫܘܚܠܦ̈ܐ ܕܡܦܠܚܢ̈ܐ ܠܐ ܝܕ̈ܝܥܐ ܡܢ ܪ̈ܗܝܬܐ"
+
+msgid  "tog-ccmeonemails"
+msgstr  "ܫܕܪ ܠܝ ܨܚܚ̈ܐ ܕܒܝܠܕܪ̈ܐ ܐܠܩܛܪ̈ܘܢܝܐ ܕܫܕܪ ܐܢܐ ܠܡܦܠܚܢ̈ܐ ܐܚܪ̈ܢܐ"
+
+msgid  "tog-showhiddencats"
+msgstr  "ܚܘܝ ܣܕܪ̈ܐ ܛܘܫܝ̈ܐ"
+
+msgid  "underline-always"
+msgstr  "ܐܡܝܢ"
+
+msgid  "underline-never"
+msgstr  "ܠܐ ܡܡܬܘܡ"
+
+msgid  "sunday"
+msgstr  "ܚܕܒܫܒܐ"
+
+msgid  "monday"
+msgstr  "ܬܪܝܢܒܫܒܐ"
+
+msgid  "tuesday"
+msgstr  "ܬܠܬܒܫܒܐ"
+
+msgid  "wednesday"
+msgstr  "ܐܪܒܥܒܫܒܐ"
+
+msgid  "thursday"
+msgstr  "ܚܡܫܒܫܒܐ"
+
+msgid  "friday"
+msgstr  "ܥܪܘܒܬܐ"
+
+msgid  "saturday"
+msgstr  "ܫܒܬܐ"
+
+msgid  "sun"
+msgstr  "ܚܕܒܫܒܐ"
+
+msgid  "mon"
+msgstr  "ܬܪܝܢܒܫܒܐ"
+
+msgid  "tue"
+msgstr  "ܬܠܬܒܫܒܐ"
+
+msgid  "wed"
+msgstr  "ܐܪܒܥܒܫܒܐ"
+
+msgid  "thu"
+msgstr  "ܚܡܫܒܫܒܐ"
+
+msgid  "fri"
+msgstr  "ܥܪܘܒܬܐ"
+
+msgid  "sat"
+msgstr  "ܫܒܬܐ"
+
+msgid  "january"
+msgstr  "ܒܟܢܘܢ ܐܚܪܝ"
+
+msgid  "february"
+msgstr  "ܒܫܒܛ"
+
+msgid  "march"
+msgstr  "ܒܐܕܪ"
+
+msgid  "april"
+msgstr  "ܒܢܝܣܢ"
+
+msgid  "may_long"
+msgstr  "ܒܐܝܪ"
+
+msgid  "june"
+msgstr  "ܒܚܙܝܪܢ"
+
+msgid  "july"
+msgstr  "ܒܬܡܘܙ"
+
+msgid  "august"
+msgstr  "ܒܐܒ"
+
+msgid  "september"
+msgstr  "ܒܐܝܠܘܠ"
+
+msgid  "october"
+msgstr  "ܒܬܫܪܝܢ ܩܕܡ"
+
+msgid  "november"
+msgstr  "ܒܬܫܪܝܢ ܐܚܪܝ"
+
+msgid  "december"
+msgstr  "ܒܟܢܘܢ ܩܕܡ"
+
+msgid  "january-gen"
+msgstr  "ܟܢܘܢ ܐܚܪܝ"
+
+msgid  "february-gen"
+msgstr  "ܫܒܛ"
+
+msgid  "march-gen"
+msgstr  "ܐܕܪ"
+
+msgid  "april-gen"
+msgstr  "ܢܝܣܢ"
+
+msgid  "may-gen"
+msgstr  "ܐܝܪ"
+
+msgid  "june-gen"
+msgstr  "ܚܙܝܪܢ"
+
+msgid  "july-gen"
+msgstr  "ܬܡܘܙ"
+
+msgid  "august-gen"
+msgstr  "ܐܒ"
+
+msgid  "september-gen"
+msgstr  "ܐܝܠܘܠ"
+
+msgid  "october-gen"
+msgstr  "ܬܫܪܝܢ ܩܕܡ"
+
+msgid  "november-gen"
+msgstr  "ܬܫܪܝܢ ܐܚܪܝ"
+
+msgid  "december-gen"
+msgstr  "ܟܢܘܢ ܩܕܡ"
+
+msgid  "jan"
+msgstr  "ܟܢܘܢ ܐܚܪܝ"
+
+msgid  "feb"
+msgstr  "ܫܒܛ"
+
+msgid  "mar"
+msgstr  "ܐܕܪ"
+
+msgid  "apr"
+msgstr  "ܢܝܣܢ"
+
+msgid  "may"
+msgstr  "ܐܝܪ"
+
+msgid  "jun"
+msgstr  "ܚܙܝܪܢ"
+
+msgid  "jul"
+msgstr  "ܬܡܘܙ"
+
+msgid  "aug"
+msgstr  "ܐܒ"
+
+msgid  "sep"
+msgstr  "ܐܝܠܘܠ"
+
+msgid  "oct"
+msgstr  "ܬܫܪܝܢ ܩܕܡ"
+
+msgid  "nov"
+msgstr  "ܬܫܪܝܢ ܐܚܪܝ"
+
+msgid  "dec"
+msgstr  "ܟܢܘܢ ܩܕܡ"
+
+msgid  "pagecategories"
+msgstr  "{{PLURAL:$1|ܣܕܪܐ|ܣܕܪ̈ܐ}}"
+
+msgid  "category_header"
+msgstr  "ܦܐܬܬ̈ܐ ܒܣܕܪܐ ܕ \"$1\""
+
+msgid  "subcategories"
+msgstr  "ܣܕܪ̈ܐ ܦܪ̈ܥܝܐ"
+
+msgid  "category-media-header"
+msgstr  "ܡܝܕܝܐ ܒܣܕܪܐ ܕ \"$1\""
+
+msgid  "category-empty"
+msgstr  "''ܗܢܐ ܣܕܪܐ ܗܫܐ ܠܝܬ ܒܗ ܦܐܬܬ̈ܐ ܐܘ ܡܝܕܝܐ.''"
+
+msgid  "hidden-categories"
+msgstr  "{{PLURAL:$1|ܣܕܪܐ ܛܘܫܝܐ|ܣܕܪ̈ܐ ܛܘܫܝܐ}}"
+
+msgid  "hidden-category-category"
+msgstr  "ܣܕܪ̈ܐ ܛܘܫܝ̈ܐ"
+
+msgid  "category-subcat-count-limited"
+msgstr  "ܣܕܪܐ ܗܢܐ ܐܝܬ ܒܗ {{PLURAL:$1|ܣܕܪܐ ܦܪܥܝܐ ܗܢܐ|$1 ܣܕܪ̈ܐ ܦܪ̈ܥܝܐ ܗܠܝܢ}}."
+
+msgid  "category-article-count"
+msgstr  "{{PLURAL:$2|ܣܕܪܐ ܗܢܐ ܐܝܬ ܒܗ ܦܐܬܐ ܗܕܐ ܒܠܚܘܕ.|ܐܝܬ {{PLURAL:$1|ܦܐܬܐ|$1 ܦܐܬܬ̈ܐ}} ܒܣܕܪܐ ܗܢܐ، ܡܢ $2 ܟܠܢܐܝܬ.}}"
+
+msgid  "category-article-count-limited"
+msgstr  "{{PLURAL:$1|ܦܐܬܐ ܗܕܐ|$1 ܦܐܬܬ̈ܐ ܗܠܝܢ}} ܒܣܕܪܐ ܗܢܐ."
+
+msgid  "listingcontinuesabbrev"
+msgstr  "(ܫܘܠܡܐ)"
+
+msgid  "about"
+msgstr  "ܡܢܘ"
+
+msgid  "article"
+msgstr  "ܡܓܠܬܐ"
+
+msgid  "newwindow"
+msgstr  "(ܦܬܚ ܒܟܘܬܐ ܚܕܬܐ)"
+
+msgid  "cancel"
+msgstr  "ܒܛܘܠ"
+
+msgid  "moredotdotdot"
+msgstr  "...ܝܬܝܪ"
+
+msgid  "mypage"
+msgstr  "ܦܐܬܝ"
+
+msgid  "mytalk"
+msgstr  "ܡܡܠܠܝ"
+
+msgid  "anontalk"
+msgstr  "ܡܡܠܠܐ ܕܗܢܐ ܐܝ ܦܝ (IP)"
+
+msgid  "navigation"
+msgstr  "ܐܠܦܪܘܬܐ"
+
+msgid  "and"
+msgstr  "&#32;ܘ"
+
+msgid  "qbfind"
+msgstr  "ܐܫܟܚ"
+
+msgid  "qbbrowse"
+msgstr  "ܡܦܐܬ"
+
+msgid  "qbedit"
+msgstr  "ܫܚܠܦ"
+
+msgid  "qbpageoptions"
+msgstr  "ܗܕܐ ܦܐܬܐ"
+
+msgid  "qbmyoptions"
+msgstr  "ܓܒܝܬ̈ܝ"
+
+msgid  "qbspecialpages"
+msgstr  "ܦܐܬܬ̈ܐ ܕ̈ܝܠܢܝܬܐ"
+
+msgid  "faq"
+msgstr  "ܫܘܐܠ̈ܐ ܬܢܝ̈ܐ"
+
+msgid  "faqpage"
+msgstr  "Project:ܫܘܐܠ̈ܐ ܬܢܝ̈ܐ"
+
+msgid  "vector-action-addsection"
+msgstr  "ܐܘܣܦ ܡܠܘܐܐ"
+
+msgid  "vector-action-delete"
+msgstr  "ܫܘܦ"
+
+msgid  "vector-action-move"
+msgstr  "ܫܢܝ"
+
+msgid  "vector-action-protect"
+msgstr  "ܢܛܘܪ"
+
+msgid  "vector-action-undelete"
+msgstr  "ܠܐ ܫܘܦ"
+
+msgid  "vector-action-unprotect"
+msgstr  "ܠܐ ܢܛܘܪ"
+
+msgid  "vector-view-create"
+msgstr  "ܒܪܝ"
+
+msgid  "vector-view-edit"
+msgstr  "ܫܚܠܦ"
+
+msgid  "vector-view-history"
+msgstr  "ܚܙܝ ܬܫܥܝܬܐ"
+
+msgid  "vector-view-view"
+msgstr  "ܩܪܝ"
+
+msgid  "vector-view-viewsource"
+msgstr  "ܚܙܝ ܡܒܘܥܐ"
+
+msgid  "actions"
+msgstr  "ܥܒܕ̈ܐ"
+
+msgid  "namespaces"
+msgstr  "ܚܩܠܬ̈ܐ"
+
+msgid  "errorpagetitle"
+msgstr  "ܦܘܕܐ"
+
+msgid  "returnto"
+msgstr  "ܕܥܘܪ ܠ$1."
+
+msgid  "tagline"
+msgstr  "ܡܢ {{SITENAME}}"
+
+msgid  "help"
+msgstr  "ܥܘܕܪܢܐ"
+
+msgid  "search"
+msgstr  "ܒܨܝܐ"
+
+msgid  "searchbutton"
+msgstr  "ܒܨܝ"
+
+msgid  "go"
+msgstr  "ܙܠ"
+
+msgid  "searcharticle"
+msgstr  "ܙܠ"
+
+msgid  "history"
+msgstr  "ܬܫܥܝܬܐ ܕܦܐܬܐ"
+
+msgid  "history_short"
+msgstr  "ܬܫܥܝܬܐ"
+
+msgid  "info_short"
+msgstr  "ܝܕ̈ܥܬܐ"
+
+msgid  "printableversion"
+msgstr  "ܨܚܚܐ ܡܬܛܒܥܢܐ"
+
+msgid  "permalink"
+msgstr  "ܐܣܘܪܐ ܦܝܘܫܐ"
+
+msgid  "print"
+msgstr  "ܛܒܘܥ"
+
+msgid  "edit"
+msgstr  "ܫܚܠܦ"
+
+msgid  "create"
+msgstr  "ܒܪܝ"
+
+msgid  "editthispage"
+msgstr  "ܫܚܠܦ ܦܐܬܐ ܗܕܐ"
+
+msgid  "create-this-page"
+msgstr  "ܒܪܝ ܦܐܬܐ ܗܕܐ"
+
+msgid  "delete"
+msgstr  "ܫܘܦ"
+
+msgid  "deletethispage"
+msgstr  "ܫܘܦ ܦܐܬܐ ܗܕܐ"
+
+msgid  "undelete_short"
+msgstr  "ܠܐ ܫܘܦ {{PLURAL:$1|ܚܕ ܫܘܚܠܦܐ|$1 ܫܘܚܠܦ̈ܐ}}"
+
+msgid  "protect"
+msgstr  "ܢܛܘܪ"
+
+msgid  "protect_change"
+msgstr  "ܫܚܠܦ"
+
+msgid  "protectthispage"
+msgstr  "ܢܛܘܪ ܗܕܐ ܦܐܬܐ"
+
+msgid  "unprotect"
+msgstr  "ܠܐ ܢܛܘܪ"
+
+msgid  "unprotectthispage"
+msgstr  "ܠܐ ܢܛܘܪ ܗܕܐ ܦܐܬܐ"
+
+msgid  "newpage"
+msgstr  "ܦܐܬܐ ܚܕܬܐ"
+
+msgid  "talkpage"
+msgstr  "ܕܪܘܫ ܗܕܐ ܦܐܬܐ"
+
+msgid  "talkpagelinktext"
+msgstr  "ܡܡܠܠܐ"
+
+msgid  "specialpage"
+msgstr  "ܦܐܬܐ ܕܝܠܢܝܬܐ"
+
+msgid  "personaltools"
+msgstr  "ܡܐܢ̈ܐ ܦܪ̈ܨܘܦܝܐ"
+
+msgid  "postcomment"
+msgstr  "ܡܢܬܐ ܚܕܬܐ"
+
+msgid  "articlepage"
+msgstr  "ܚܘܝܝܐ ܕܦܐܬܐ ܕܚܒܝܫܬ̈ܐ"
+
+msgid  "talk"
+msgstr  "ܡܡܠܠܐ"
+
+msgid  "views"
+msgstr  "ܚܙܝܬ̈ܐ"
+
+msgid  "toolbox"
+msgstr  "ܣܢܕܘܩܐ ܕܡܐܢ̈ܐ"
+
+msgid  "userpage"
+msgstr  "ܚܙܝ ܦܐܬܐ ܕܡܦܠܚܢܐ"
+
+msgid  "projectpage"
+msgstr  "ܚܙܝ ܦܐܬܐ ܕܬܪܡܝܬܐ"
+
+msgid  "imagepage"
+msgstr  "ܚܙܝ ܦܐܬܐ ܕܠܦܦܐ"
+
+msgid  "mediawikipage"
+msgstr  "ܚܙܝ ܦܐܬܐ ܕܐܓܪܬܐ"
+
+msgid  "templatepage"
+msgstr  "ܚܙܝ ܦܐܬܐ ܕܩܠܒܐ"
+
+msgid  "viewhelppage"
+msgstr  "ܚܙܝ ܦܐܬܐ ܕܥܘܕܪܢܐ"
+
+msgid  "categorypage"
+msgstr  "ܚܙܝ ܦܐܬܐ ܕܣܕܪܐ"
+
+msgid  "viewtalkpage"
+msgstr  "ܚܙܝ ܡܡܠܠܐ"
+
+msgid  "otherlanguages"
+msgstr  "ܠܫܢ̈ܐ ܐܚܪ̈ܢܐ"
+
+msgid  "redirectedfrom"
+msgstr  "(ܨܝܒ ܡܢ $1)"
+
+msgid  "redirectpagesub"
+msgstr  "ܦܐܬܐ ܕܨܘܝܒܐ"
+
+msgid  "lastmodifiedat"
+msgstr  "ܫܘܚܠܦܐ ܐܚܪܝܐ ܕܦܐܬܐ ܗܕܐ ܗܘܐ ܒܣܝܩܘܡ $1, $2."
+
+msgid  "viewcount"
+msgstr  "ܐܬܓܠܚܬ ܗܕܐ ܦܐܬܐ {{PLURAL:$1|ܙܒܢܬܐ ܚܕ|$1 ܙܒܢܝ̈ܢ}}."
+
+msgid  "protectedpage"
+msgstr  "ܦܐܬܐ ܢܛܝܪܬܐ"
+
+msgid  "jumpto"
+msgstr  "ܫܘܪ ܠ:"
+
+msgid  "jumptonavigation"
+msgstr  "ܐܠܦܪܘܬܐ"
+
+msgid  "jumptosearch"
+msgstr  "ܒܨܝܐ"
+
+msgid  "pool-errorunknown"
+msgstr  "ܦܘܕܐ ܠܐ ܝܕܝܥܐ"
+
+msgid  "aboutsite"
+msgstr  "ܡܢܘ {{SITENAME}}"
+
+msgid  "aboutpage"
+msgstr  "Project:ܡܢܘ"
+
+msgid  "copyright"
+msgstr  "ܚܒܝܫܬ̈ܐ ܐܝܬ ܬܚܝܬ $1."
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:ܙܕ̈ܩܐ ܕܚܬܡܐ"
+
+msgid  "currentevents"
+msgstr  "ܓܕ̈ܫܐ ܗܫܝ̈ܐ"
+
+msgid  "currentevents-url"
+msgstr  "Project:ܓܕ̈ܫܐ ܗܫܝ̈ܐ"
+
+msgid  "disclaimers"
+msgstr  "ܠܐ ܡܫܬܐܠܢܘܬܐ"
+
+msgid  "disclaimerpage"
+msgstr  "Project:ܠܐ ܡܫܬܐܠܢܘܬܐ ܓܘܢܝܬܐ"
+
+msgid  "edithelp"
+msgstr  "ܥܘܕܪܢܐ ܠܫܚܠܦܬܐ"
+
+msgid  "edithelppage"
+msgstr  "Help:ܫܚܠܦܬܐ"
+
+msgid  "helppage"
+msgstr  "Help:ܚܒܝܫܬ̈ܐ"
+
+msgid  "mainpage"
+msgstr  "ܦܐܬܐ ܪܝܫܝܬܐ"
+
+msgid  "mainpage-description"
+msgstr  "ܦܐܬܐ ܪܝܫܝܬܐ"
+
+msgid  "policy-url"
+msgstr  "Project:ܦܘܪܢܣܐ"
+
+msgid  "portal"
+msgstr  "ܬܪܥܐ ܕܟܢܫܐ"
+
+msgid  "portal-url"
+msgstr  "Project:ܬܪܥܐ ܕܟܢܫܐ"
+
+msgid  "privacy"
+msgstr  "ܦܘܪܢܣܐ ܕܕܝܠܢܝܘܬܐ"
+
+msgid  "privacypage"
+msgstr  "Project:ܦܘܪܢܣܐ ܕܕܝܠܢܝܘܬܐ"
+
+msgid  "badaccess"
+msgstr  "ܦܘܕܐ ܒܦܣܣܐ"
+
+msgid  "ok"
+msgstr  "ܛܒ"
+
+msgid  "youhavenewmessages"
+msgstr  "ܐܝܬ ܠܟ $1 ($2)."
+
+msgid  "newmessageslink"
+msgstr  "ܐܓܪ̈ܬܐ ܚܕ̈ܬܬܐ"
+
+msgid  "newmessagesdifflink"
+msgstr  "ܫܘܚܠܦܐ ܐܚܪܝܐ"
+
+msgid  "youhavenewmessagesmulti"
+msgstr  "ܐܝܬ ܠܟ ܐܓܪ̈ܬܐ ܚܕ̈ܬܬܐ ܒ $1"
+
+msgid  "editsection"
+msgstr  "ܫܚܠܦ"
+
+msgid  "editold"
+msgstr  "ܫܚܠܦ"
+
+msgid  "viewsourceold"
+msgstr  "ܚܙܝ ܡܒܘܥܐ"
+
+msgid  "editlink"
+msgstr  "ܫܚܠܦ"
+
+msgid  "viewsourcelink"
+msgstr  "ܚܙܝ ܡܒܘܥܐ"
+
+msgid  "editsectionhint"
+msgstr  "ܫܚܠܦ ܡܢܬܐ: $1"
+
+msgid  "toc"
+msgstr  "ܚܒܝܫܬ̈ܐ"
+
+msgid  "showtoc"
+msgstr  "ܚܘܝ"
+
+msgid  "hidetoc"
+msgstr  "ܛܫܝ"
+
+msgid  "viewdeleted"
+msgstr  "ܚܙܝ $1؟"
+
+msgid  "restorelink"
+msgstr  "{{PLURAL:$1|ܚܕ ܫܘܚܠܦܐ ܫܝܦܐ|$1 ܫܘܚܠܦ̈ܐ ܫܝܦ̈ܐ}}"
+
+msgid  "red-link-title"
+msgstr  "$1 (ܦܐܬܐ ܗܕܐ ܠܝܬ)"
+
+msgid  "nstab-main"
+msgstr  "ܦܐܬܐ"
+
+msgid  "nstab-user"
+msgstr  "ܦܐܬܐ ܕܡܦܠܚܢܐ"
+
+msgid  "nstab-media"
+msgstr  "ܦܐܬܐ ܕܡܝܕܝܐ"
+
+msgid  "nstab-special"
+msgstr  "ܦܐܬܐ ܕܝܠܢܝܬܐ"
+
+msgid  "nstab-project"
+msgstr  "ܦܐܬܐ ܕܬܪܡܝܬܐ"
+
+msgid  "nstab-image"
+msgstr  "ܠܦܦܐ"
+
+msgid  "nstab-mediawiki"
+msgstr  "ܐܓܪܬܐ"
+
+msgid  "nstab-template"
+msgstr  "ܩܠܒܐ"
+
+msgid  "nstab-help"
+msgstr  "ܦܐܬܐ ܕܥܘܕܪܢܐ"
+
+msgid  "nstab-category"
+msgstr  "ܣܕܪܐ"
+
+msgid  "nosuchaction"
+msgstr  "ܠܝܬ ܗܟܘܬ ܥܒܕܐ"
+
+msgid  "nosuchspecialpage"
+msgstr  "ܠܝܬ ܗܟܘܬ ܦܐܬܐ ܕܝܠܢܝܬܐ"
+
+msgid  "error"
+msgstr  "ܦܘܕܐ"
+
+msgid  "databaseerror"
+msgstr  "ܦܘܕܐ ܒܐܣ ܝܕ̈ܥܬܐ"
+
+msgid  "missingarticle-rev"
+msgstr  "(ܬܢܝܬܐ#: $1)"
+
+msgid  "missingarticle-diff"
+msgstr  "(ܦܪܝܫܘܬܐ: $1, $2)"
+
+msgid  "internalerror"
+msgstr  "ܦܘܕܐ ܓܘܝܐ"
+
+msgid  "internalerror_info"
+msgstr  "ܦܘܕܐ ܓܘܝܐ: $1"
+
+msgid  "badtitle"
+msgstr  "ܟܘܢܝܐ ܠܐ ܛܒܐ"
+
+msgid  "viewsource"
+msgstr  "ܚܙܝ ܡܒܘܥܐ"
+
+msgid  "viewsourcefor"
+msgstr  "ܕ $1"
+
+msgid  "namespaceprotected"
+msgstr  "ܠܝܬ ܠܟ ܦܣܣܐ ܠܫܚܠܦܬܐ ܕܦܐܬܬ̈ܐ ܒܚܩܠܐ ܕ'''$1'''."
+
+msgid  "logouttext"
+msgstr  "'''ܗܫܐ ܦܠܛܠܟ ܡܢ ܚܘܫܒܢܟ.'''\n\nܡܨܐ ܐܢܬ ܕܐܬܚܫܚ {{SITENAME}} ܐܝܟ ܡܦܠܚܢܐ ܠܐ ܝܕܝܥܐ ܐܘ ܡܨܐ ܐܢܬ ܕ[[Special:UserLogin|ܬܥܘܠ]] ܒܚܘܫܒܢܐ ܥܝܢܗ ܐܘ ܐܝܟ ܡܦܠܚܢܐ ܐܚܪܢܐ.\n\nܚܕ ܟܡܐ ܡܢ ܦܐܬܬ̈ܐ ܡܬܚܙܝܢ ܐܝܟ ܕܗܘ ܐܢܬ ܥܠܝܠܐ ܥܕܡܐ ܕܐܣܦܩܬ ܠܦܐܬܬ̈ܐ ܠܒܝܟ̈ܐ ܕܡܦܐܬܢܐ ܕܝܠܟ"
+
+msgid  "welcomecreation"
+msgstr  "== ܒܫܝܢܐ, $1! ==\nܐܬܒܪܝ ܚܘܫܒܢܟ.\nܠܐ ܢܫܐ ܐܢܬ ܠܫܚܠܦܬܐ ܕ[[Special:Preferences|ܓܒܝܬ̈ܐ ܒ {{SITENAME}}]]."
+
+msgid  "yourname"
+msgstr  "ܫܡܐ ܕܡܦܠܚܢܐ:"
+
+msgid  "yourpassword"
+msgstr  "ܡܠܬܐ ܕܥܠܠܐ:"
+
+msgid  "yourpasswordagain"
+msgstr  "ܟܬܘܒ ܡܠܬܐ ܕܥܠܠܐ ܙܒܢܬܐ ܐܚܪܬܐ:"
+
+msgid  "remembermypassword"
+msgstr  "ܕܟܘܪ ܥܠܠܬܝ ܥܠ ܡܦܐܬܢܐ ܗܢܐ (ܠܡܬܚܐ ܥܠܝܐ ܕ $1 {{PLURAL:$1|ܝܘܡܐ|ܝܘܡܬ̈ܐ}})"
+
+msgid  "login"
+msgstr  "ܥܘܠ"
+
+msgid  "nav-login-createaccount"
+msgstr  "ܥܘܠ / ܒܪܝ ܚܘܫܒܢܐ"
+
+msgid  "loginprompt"
+msgstr  "ܐܠܨܐ ܠܡܦܐܬܢܐ ܕܝܠܟ ܕܣܡܟ ܠܩܘܩܝܙ (cookies) ܠܥܠܠܬܐ ܠ {{SITENAME}}."
+
+msgid  "userlogin"
+msgstr  "ܥܘܠ / ܒܪܝ ܚܘܫܒܢܐ"
+
+msgid  "userloginnocreate"
+msgstr  "ܥܘܠ"
+
+msgid  "logout"
+msgstr  "ܦܠܘܛ"
+
+msgid  "userlogout"
+msgstr  "ܦܠܘܛ"
+
+msgid  "notloggedin"
+msgstr  "ܠܝܬܝܟ ܥܠܝܠܐ"
+
+msgid  "nologin"
+msgstr  "ܠܝܬ ܠܟ ܚܘܫܒܢܐ؟ '''$1'''."
+
+msgid  "nologinlink"
+msgstr  "ܒܪܝ ܚܘܫܒܢܐ"
+
+msgid  "createaccount"
+msgstr  "ܒܪܝ ܚܘܫܒܢܐ"
+
+msgid  "gotaccount"
+msgstr  "ܐܝܬ ܠܟ ܚܘܫܒܢܐ؟ '''$1'''."
+
+msgid  "gotaccountlink"
+msgstr  "ܥܘܠ"
+
+msgid  "createaccountmail"
+msgstr  "ܒܝܕ ܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ"
+
+msgid  "createaccountreason"
+msgstr  "ܥܠܬܐ"
+
+msgid  "badretype"
+msgstr  "ܡܠܬܐ ܕܥܠܠܐ ܟܬܒܬ ܐܢܬ ܠܐ ܐܘܝܢܬܐ."
+
+msgid  "userexists"
+msgstr  "ܫܡܐ ܕܡܦܠܚܢܐ ܫܩܝܠܐ.\nܓܒܝ ܫܡܐ ܐܚܪܢܐ."
+
+msgid  "loginerror"
+msgstr  "ܦܘܕܐ ܒܥܠܠܐ"
+
+msgid  "noname"
+msgstr  "ܠܐ ܦܪܫ ܐܢܬ ܫܡܐ ܕܡܦܠܚܢܐ ܬܪܝܨܐ"
+
+msgid  "loginsuccesstitle"
+msgstr  "ܥܠܠܐ ܓܡܪ"
+
+msgid  "loginsuccess"
+msgstr  "'''ܗܫܐ ܥܠܝܠܐ ܐܢܬ ܒ{{SITENAME}} ܒܫܡ \"$1\".'''"
+
+msgid  "nouserspecified"
+msgstr  "ܘܠܐ ܠܟ ܕܬܚܡ ܫܡܐ ܕܡܦܠܚܢܐ"
+
+msgid  "mailmypassword"
+msgstr  "ܫܕܪ ܠܝ ܡܠܬܐ ܚܕܬܐ ܕܥܠܠܐ"
+
+msgid  "passwordremindertitle"
+msgstr  "ܡܠܬܐ ܕܥܠܠܐ ܙܒܢܢܝܬܐ ܚܕܬܐ ܠ{{SITENAME}}"
+
+msgid  "noemail"
+msgstr  "ܠܝܬ ܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ ܠܡܦܠܚܢܐ \"$1\"."
+
+msgid  "mailerror"
+msgstr  "ܦܘܕܐ ܒܫܘܕܪܐ ܕܒܝܠܕܪܐ: $1"
+
+msgid  "emailconfirmlink"
+msgstr  "ܚܬܬ ܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ ܕܝܠܟ"
+
+msgid  "accountcreated"
+msgstr  "ܚܘܫܒܢܐ ܒܪܐ"
+
+msgid  "accountcreatedtext"
+msgstr  "ܐܬܒܪܝ ܚܘܫܒܢܐ ܕܡܦܠܚܢܐ ܠ $1."
+
+msgid  "createaccount-title"
+msgstr  "ܒܪܝܐ ܕܚܘܫܒܢܐ ܒ {{SITENAME}}"
+
+msgid  "loginlanguagelabel"
+msgstr  "ܠܫܢܐ: $1"
+
+msgid  "resetpass"
+msgstr  "ܫܚܠܦ ܡܠܬܐ ܕܥܠܠܐ"
+
+msgid  "resetpass_header"
+msgstr  "ܫܚܠܦ ܡܠܬܐ ܕܥܠܠܐ ܕܚܘܫܒܢܐ"
+
+msgid  "oldpassword"
+msgstr  "ܡܠܬܐ ܕܥܠܠܐ ܥܬܝܩܬܐ:"
+
+msgid  "newpassword"
+msgstr  "ܡܠܬܐ ܕܥܠܠܐ ܚܕܬܐ:"
+
+msgid  "retypenew"
+msgstr  "ܟܬܘܒ ܡܠܬܐ ܕܥܠܠܐ ܙܒܢܬܐ ܐܚܪܬܐ:"
+
+msgid  "resetpass-submit-loggedin"
+msgstr  "ܫܚܠܦ ܡܠܬܐ ܕܥܠܠܐ"
+
+msgid  "resetpass-submit-cancel"
+msgstr  "ܒܛܘܠ"
+
+msgid  "resetpass-temp-password"
+msgstr  "ܡܠܬܐ ܕܥܠܠܐ ܙܒܢܢܝܬܐ:"
+
+msgid  "bold_sample"
+msgstr  "ܟܬܒܬܐ ܥܒܝܬܐ"
+
+msgid  "bold_tip"
+msgstr  "ܟܬܒܬܐ ܥܒܝܬܐ"
+
+msgid  "italic_sample"
+msgstr  "ܟܬܒܬܐ ܦܠܝܡܬܐ"
+
+msgid  "italic_tip"
+msgstr  "ܟܬܒܬܐ ܦܠܝܡܬܐ"
+
+msgid  "link_sample"
+msgstr  "ܟܘܢܝܐ ܕܐܣܘܪܐ"
+
+msgid  "link_tip"
+msgstr  "ܐܣܘܪܐ ܓܘܝܐ"
+
+msgid  "extlink_tip"
+msgstr  "ܐܣܘܪܐ ܒܪܝܐ (ܕܟܘܪ http:// ܩܕܡܝܬܐ)"
+
+msgid  "headline_sample"
+msgstr  "ܨܚܚܐ ܕܦܪܫܓܢܐ ܪܫܝܐ"
+
+msgid  "image_tip"
+msgstr  "ܠܦܦܐ ܛܡܝܪܐ"
+
+msgid  "media_tip"
+msgstr  "ܐܣܘܪܐ ܕܠܦܦܐ"
+
+msgid  "sig_tip"
+msgstr  "ܪܡܝ ܐܝܕܟ ܥܡ ܙܒܢܐ ܘܣܝܩܘܡܐ"
+
+msgid  "summary"
+msgstr  "ܦܣܝܩܬ̈ܐ ܕܫܘܚܠܦܐ:"
+
+msgid  "subject"
+msgstr  "ܡܠܘܐܐ/ܦܪܫܓܢܐ ܪܫܝܐ:"
+
+msgid  "minoredit"
+msgstr  "ܗܢܐ ܗܘ ܫܘܚܠܦܐ ܙܥܘܪܐ"
+
+msgid  "watchthis"
+msgstr  "ܪܗܝ ܦܐܬܐ ܗܕܐ"
+
+msgid  "savearticle"
+msgstr  "ܠܒܘܟ ܕܦܐ"
+
+msgid  "preview"
+msgstr  "ܚܝܪܐ ܩܕܡܝܐ"
+
+msgid  "showpreview"
+msgstr  "ܚܘܝ ܚܝܪܐ ܩܕܡܝܐ"
+
+msgid  "showlivepreview"
+msgstr  "ܚܝܪܐ ܩܕܡܝܐ ܚܝܐ"
+
+msgid  "showdiff"
+msgstr  "ܚܘܝ ܫܘܚܠܦ̈ܐ"
+
+msgid  "anoneditwarning"
+msgstr  "'''ܙܘܗܪܐ:''' ܠܐ ܐܝܬܝܟ ܥܠܝܠܐ.\nܐܝ ܦܝ (IP) ܕܝܠܟ ܢܬܟܬܒ ܒܬܫܥܝܬܐ ܕܦܐܬܐ."
+
+msgid  "anonpreviewwarning"
+msgstr  "\"ܠܐ ܐܝܬܝܟ ܥܠܝܠܐ. ܐܢ ܠܒܟ ܦܐܬܐ ܐܢܬ ܐܝ ܦܝ (IP) ܕܝܠܟ ܢܬܟܬܒ ܒܬܫܥܝܬܐ ܕܫܘܚܠܦܐ ܕܦܐܬܐ.\""
+
+msgid  "summary-preview"
+msgstr  "ܚܝܪܐ ܩܕܡܝܐ ܕܦܣܝܩܬ̈ܐ :"
+
+msgid  "blockedtitle"
+msgstr  "ܡܦܠܚܢܐ ܗܘ ܡܚܪܡܐ"
+
+msgid  "blockednoreason"
+msgstr  "ܠܝܬ ܥܠܬܐ ܝܗܝܒܬܐ"
+
+msgid  "blockedoriginalsource"
+msgstr  "ܡܒܘܥܐ ܕ'''$1''' ܓܠܝܚܐ ܠܬܚܬ:"
+
+msgid  "nosuchsectiontitle"
+msgstr  "ܠܐ ܡܨܐ ܐܫܟܚ ܡܢܬܐ"
+
+msgid  "loginreqlink"
+msgstr  "ܥܘܠ"
+
+msgid  "accmailtitle"
+msgstr  "ܡܠܬܐ ܕܥܠܠܐ ܫܕܪܬ"
+
+msgid  "newarticle"
+msgstr  "(ܚܕܬܐ)"
+
+msgid  "updated"
+msgstr  "(ܐܬܚܕܬ)"
+
+msgid  "note"
+msgstr  "'''ܡܥܝܪܢܘܬܐ:'''"
+
+msgid  "previewnote"
+msgstr  "'''ܕܟܘܪ ܗܢܘ ܚܝܪܐ ܩܕܡܝܐ ܒܠܚܘܕ''' ܫܘܚܠܦ̈ܐ ܕܝܠܟ ܠܐ ܐܬܠܒܟܬ ܥܕܡܐ ܠܗܫܐ"
+
+msgid  "editing"
+msgstr  "ܫܚܠܦܬܐ ܕ $1"
+
+msgid  "editingsection"
+msgstr  "ܫܚܠܦܬܐ ܕ $1 (ܡܢܬܐ)"
+
+msgid  "editingcomment"
+msgstr  "ܫܚܠܦܬܐ ܕ $1 (ܡܢܬܐ ܚܕܬܐ)"
+
+msgid  "yourtext"
+msgstr  "ܟܬܒܬܐ ܕܝܠܟ"
+
+msgid  "editingold"
+msgstr  "'''ܙܘܗܪܐ: ܫܚܠܦ ܐܢܬ ܬܢܝܬܐ ܥܬܝܩܬܐ ܕܦܐܬܐ ܗܕܐ.'''\nܐܢ ܠܒܟ ܐܢܬ ܦܐܬܐ ܗܕܐ, ܟܠ ܫܘܚܠܦܐ ܕܥܒܕ ܒܬܪ ܟܢ ܐܬܛܠܩܬ."
+
+msgid  "yourdiff"
+msgstr  "ܦܪ̈ܝܫܘܝܬܐ"
+
+msgid  "templatesused"
+msgstr  "{{PLURAL:$1|ܩܠܒܐ|ܩܠܒ̈ܐ}} ܒܦܐܬܐ ܗܕܐ:"
+
+msgid  "template-protected"
+msgstr  "(ܢܛܝܪܐ)"
+
+msgid  "template-semiprotected"
+msgstr  "(ܕܡܘܬ ܢܛܝܪܐ)"
+
+msgid  "nocreate-loggedin"
+msgstr  "ܠܝܬ ܠܟ ܦܣܣܐ ܕܒܪܝܐ ܕܦܐܬܐ ܗܕܐ."
+
+msgid  "permissionserrors"
+msgstr  "ܦܘܕ̈ܐ ܕܦܣܣ̈ܐ"
+
+msgid  "permissionserrorstext-withaction"
+msgstr  "ܠܝܬ ܠܟ ܦܣܣܐ ܠ$2, ܒ{{PLURAL:$1|ܥܠܬܐ|ܥܠܬ̈ܐ}} ܕ:"
+
+msgid  "log-fulllog"
+msgstr  "ܚܙܝ ܣܓܠܐ ܓܡܝܪܐ"
+
+msgid  "edit-already-exists"
+msgstr  "ܒܪܝܐ ܕܦܐܬܐ ܚܕܬܐ ܠܐ ܡܬܡܨܝܢܐ.\nܗܕܐ ܦܐܬܐ ܐܝܬ ܡܢ ܟܕܘ."
+
+msgid  "undo-summary"
+msgstr  "ܠܐ ܬܥܒܕ $1 ܒܝܕ [[Special:Contributions/$2|$2]] ([[User talk:$2|ܡܡܠܠܐ]])"
+
+msgid  "cantcreateaccounttitle"
+msgstr  "ܒܪܝܐ ܕܚܘܫܒܢܐ ܠܐ ܡܬܡܨܝܢܐ"
+
+msgid  "viewpagelogs"
+msgstr  "ܚܙܝ ܣܓܠ̈ܐ ܕܦܐܬܐ ܗܕܐ"
+
+msgid  "nohistory"
+msgstr  "ܠܝܬ ܬܫܥܝܬܐ ܕܫܘܚܠܦ̈ܐ ܠܦܐܬܐ ܗܕܐ"
+
+msgid  "currentrev"
+msgstr  "ܬܢܝܬܐ ܗܫܝܬܐ"
+
+msgid  "currentrev-asof"
+msgstr  "ܬܢܝܬܐ ܗܫܝܬܐ ܒܣܝܩܘܡ $1"
+
+msgid  "revisionasof"
+msgstr  "ܬܢܝܬܐ ܒܣܝܩܘܡ $1"
+
+msgid  "revision-info"
+msgstr  "ܬܢܝܬܐ ܒܣܝܩܘܡ $1 ܒܝܕ $2"
+
+msgid  "previousrevision"
+msgstr  "← ܬܢܝܬܐ ܥܬܝܩܬܐ"
+
+msgid  "nextrevision"
+msgstr  "ܬܢܝܬܐ ܚܕܬܐ →"
+
+msgid  "currentrevisionlink"
+msgstr  "ܬܢܝܬܐ ܗܫܝܬܐ"
+
+msgid  "cur"
+msgstr  "ܗܫܝܐ"
+
+msgid  "next"
+msgstr  "ܒܬܪ"
+
+msgid  "last"
+msgstr  "ܩܕܡ"
+
+msgid  "page_first"
+msgstr  "ܩܕܡܝܐ"
+
+msgid  "page_last"
+msgstr  "ܐܚܪܝܐ"
+
+msgid  "histlegend"
+msgstr  "ܓܒܝܐ ܕܦܪܝܫܘܬܐ: ܓܒܝ ܣܢܕ̈ܘܩܐ ܕܬܢܝܬ̈ܐ ܠܦܘܚܡܐ ܘܕܘܫ '''Enter''' ܐܘ '''ܦܚܘܡ ܒܝܬ ܬܪܝܢ ܬܢܝܬ̈ܐ ܓܒܝܬ̈ܐ'''.<br />\nܩܠܝܕܐ: '''({{int:cur}})''' = ܦܪܝܫܘܬܐ ܥܡ ܬܢܝܬܐ ܗܫܝܬܐ,\n'''({{int:last}})''' = ܦܪܝܫܘܬܐ ܥܡ ܬܢܝܬܐ ܩܕܝܡܬܐ, '''{{int:minoreditletter}}''' = ܫܘܚܠܦܐ ܙܥܘܪܐ."
+
+msgid  "history-fieldset-title"
+msgstr  "ܡܦܐܬ ܬܫܥܝܬܐ"
+
+msgid  "history-show-deleted"
+msgstr  "ܫܝܦܬ̈ܐ ܒܠܚܘܕ"
+
+msgid  "histfirst"
+msgstr  "ܩܕܝܡ ܟܠ"
+
+msgid  "histlast"
+msgstr  "ܐܚܪܝ ܟܠ"
+
+msgid  "historyempty"
+msgstr  "(ܣܦܝܩܐ)"
+
+msgid  "history-feed-title"
+msgstr  "ܬܫܥܝܬܐ ܕܬܢܝܬܐ"
+
+msgid  "history-feed-description"
+msgstr  "ܬܫܥܝܬܐ ܕܬܢܝܬܐ ܕܗܕܐ ܦܐܬܐ ܥܠ ܘܝܩܝ"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$1 ܒ $2"
+
+msgid  "rev-delundel"
+msgstr  "ܚܘܝ/ܛܫܝ"
+
+msgid  "rev-showdeleted"
+msgstr  "ܚܘܝ"
+
+msgid  "revisiondelete"
+msgstr  "ܫܘܦ/ܠܐ ܫܘܦ ܬܢܝܬ̈ܐ"
+
+msgid  "revdelete-show-file-submit"
+msgstr  "ܐܝܢ"
+
+msgid  "revdelete-selected"
+msgstr  "'''{{PLURAL:$2|ܬܢܝܬܐ ܓܒܝܬܐ|ܬܢܝܬ̈ܐ ܓܒܝܬܐ}} ܕ [[:$1]]:'''"
+
+msgid  "revdelete-hide-text"
+msgstr  "ܛܫܝ ܟܬܒܬܐ ܕܬܢܝܬܐ"
+
+msgid  "revdelete-hide-image"
+msgstr  "ܛܫܝ ܚܒܝܫܬ̈ܐ ܕܠܦܦܐ"
+
+msgid  "revdelete-hide-comment"
+msgstr  "ܛܫܝ ܟܪܝܘܬܐ ܕܫܘܚܠܦܐ"
+
+msgid  "revdelete-hide-user"
+msgstr  "ܛܫܝ ܫܡܐ/ܐܝ ܦܝ (IP) ܕܡܦܠܚܢܐ"
+
+msgid  "revdelete-radio-set"
+msgstr  "ܐܝܢ"
+
+msgid  "revdelete-radio-unset"
+msgstr  "ܠܐ"
+
+msgid  "revdelete-log"
+msgstr  "ܥܠܬܐ:"
+
+msgid  "revdel-restore"
+msgstr  "ܫܚܠܦ ܚܙܝܬܐ"
+
+msgid  "revdel-restore-deleted"
+msgstr  "ܬܢܝܬ̈ܐ ܫܝܦ̈ܐ"
+
+msgid  "revdel-restore-visible"
+msgstr  "ܬܢܝܬ̈ܐ ܡܬܚܙܝܢܝܬ̈ܐ"
+
+msgid  "pagehist"
+msgstr  "ܬܫܥܝܬܐ ܕܦܐܬܐ"
+
+msgid  "deletedhist"
+msgstr  "ܬܫܥܝܬܐ ܫܝܦܬܐ"
+
+msgid  "revdelete-content"
+msgstr  "ܚܒܝܫܬ̈ܐ"
+
+msgid  "revdelete-summary"
+msgstr  "ܫܚܠܦ ܦܣܝܩܬ̈ܐ"
+
+msgid  "revdelete-uname"
+msgstr  "ܫܡܐ ܕܡܦܠܚܢܐ"
+
+msgid  "revdelete-log-message"
+msgstr  "$1 ܠ $2 {{PLURAL:$2|ܬܢܝܬܐ|ܬܢܝܬ̈ܐ}}"
+
+msgid  "logdelete-log-message"
+msgstr  "$1 ܠ $2 {{PLURAL:$2|ܓܕܫܐ|ܓܕ̈ܫܐ}}"
+
+msgid  "revdelete-otherreason"
+msgstr  "ܥܠܬܐ ܐܚܪܬܐ/ܢܩܝܦܬܐ:"
+
+msgid  "revdelete-reasonotherlist"
+msgstr  "ܥܠܬܐ ܐܚܪܬܐ"
+
+msgid  "revdelete-edit-reasonlist"
+msgstr  "ܫܚܠܦ ܥܠܠܬ̈ܐ ܕܫܝܦܐ"
+
+msgid  "revdelete-offender"
+msgstr  "ܣܝܘܡܐ ܕܬܢܝܬܐ:"
+
+msgid  "mergehistory"
+msgstr  "ܚܒܘܛ ܬܫܥܝܬ̈ܐ ܕܦܐܬܐ"
+
+msgid  "mergehistory-box"
+msgstr  "ܚܒܘܛ ܬܢܝܬ̈ܐ ܕܬܪܬܝܢ ܦܐܬܬ̈ܐ"
+
+msgid  "mergehistory-from"
+msgstr  "ܦܐܬܐ ܕܡܒܘܥܐ:"
+
+msgid  "mergehistory-into"
+msgstr  "ܦܐܬܐ ܕܢܘܦܐ:"
+
+msgid  "mergehistory-submit"
+msgstr  "ܚܒܘܛ ܬܢܝܬ̈ܐ"
+
+msgid  "mergehistory-no-source"
+msgstr  "ܦܐܬܐ ܕܡܒܘܥܐ $1 ܠܝܬ."
+
+msgid  "mergehistory-autocomment"
+msgstr  "ܚܒܛ [[:$1]] ܒ [[:$2]]"
+
+msgid  "mergehistory-comment"
+msgstr  "ܚܒܛ [[:$1]] ܒ [[:$2]]: $3"
+
+msgid  "mergehistory-reason"
+msgstr  "ܥܠܬܐ:"
+
+msgid  "mergelog"
+msgstr  "ܣܓܠܐ ܕܚܒܛܐ"
+
+msgid  "pagemerge-logentry"
+msgstr  "ܚܒܛ [[$1]] ܒ [[$2]] (ܬܢܝܬ̈ܐ ܥܕܡܐ ܠ $3)"
+
+msgid  "revertmerge"
+msgstr  "ܒܛܘܠ ܚܒܛܐ"
+
+msgid  "history-title"
+msgstr  "ܬܫܥܝܬܐ ܕܬܢܝܬܐ ܕ \"$1\""
+
+msgid  "difference"
+msgstr  "(ܦܪܝܫܘܬܐ ܒܝܬ ܬܢܝܬ̈ܐ)"
+
+msgid  "lineno"
+msgstr  "ܣܪܛܐ $1:"
+
+msgid  "compareselectedversions"
+msgstr  "ܦܚܘܡ ܒܝܬ ܬܪܝܢ ܬܢܝܬ̈ܐ ܓܒܝܬ̈ܐ"
+
+msgid  "showhideselectedversions"
+msgstr  "ܚܘܝ/ܛܫܝ ܬܢܝܬ̈ܐ ܓܒܝܬ̈ܐ"
+
+msgid  "editundo"
+msgstr  "ܠܐ ܬܥܒܕ"
+
+msgid  "diff-multi"
+msgstr  "({{PLURAL:$1|ܚܕܐ ܬܢܝܬܐ ܡܨܥܝܬܐ|$1 ܬܢܝܬ̈ܐ ܡܨܥܝܬ̈ܐ}} ܒܝܕ {{PLURAL:$2|ܚܕ ܡܦܠܚܢܐ ܠܐ ܓܠܝܚܬܐ|$2 ܡܦܠܚܢ̈ܐ ܠܐ ܓܠܝܚܬ̈ܐ}})"
+
+msgid  "diff-multi-manyusers"
+msgstr  "({{PLURAL:$1|One ܚܕܐ ܬܢܝܬܐ ܡܨܥܝܬܐ|$1 ܬܢܝܬ̈ܐ ܡܨܥܝܬ̈ܐ}} ܒܝܕ ܝܬܝܪ ܡܢ $2 {{PLURAL:$2|ܚܕ ܡܦܠܚܢܐ ܠܐ ܓܠܝܚܬܐ|ܡܦܠܚܢ̈ܐ ܠܐ ܓܠܝܚܬ̈ܐ}})"
+
+msgid  "searchresults"
+msgstr  "ܦܠܛ̈ܐ ܕܒܘܨܝܐ"
+
+msgid  "searchresults-title"
+msgstr  "ܦܠܛ̈ܐ ܕܒܘܨܝܐ ܥܠ \"$1\""
+
+msgid  "searchresulttext"
+msgstr  "ܠܝܬܝܪ ܝܕ̈ܥܬܐ ܥܠ ܒܨܝܐ ܒ {{SITENAME}}, ܚܙܝ [[{{MediaWiki:Helppage}}|{{int:help}}]]."
+
+msgid  "searchsubtitle"
+msgstr  "ܒܨܐ ܐܢܬ ܥܠ '''[[:$1]]''' ([[Special:Prefixindex/$1|ܟܠ ܦܐܬܬ̈ܐ ܕܫܪܝܢ ܒ\"$1\"]]{{int:pipe-separator}}[[Special:WhatLinksHere/$1|ܟܠ ܦܐܬܬ̈ܐ ܕܐܣܪܝܢ ܥܡ \"$1\"]])"
+
+msgid  "searchsubtitleinvalid"
+msgstr  "ܒܨܐ ܐܢܬ ܥܠ '''$1'''"
+
+msgid  "titlematches"
+msgstr  "ܫܡܐ ܕܦܐܬܐ ܐܘܝܢܐ"
+
+msgid  "notitlematches"
+msgstr  "ܠܝܬ ܫܡܐ ܕܦܐܬܐ ܐܘܝܢܐ"
+
+msgid  "textmatches"
+msgstr  "ܟܬܒܬܐ ܐܘܝܢܬܐ"
+
+msgid  "notextmatches"
+msgstr  "ܠܝܬ ܟܬܒܬܐ ܐܘܝܢܬܐ"
+
+msgid  "prevn"
+msgstr  "{{PLURAL:$1|$1}} ܩܕܝܡܐ"
+
+msgid  "nextn"
+msgstr  "{{PLURAL:$1|$1}} ܐܚܪܢܐ"
+
+msgid  "prevn-title"
+msgstr  "$1 {{PLURAL:$1|ܦܠܛܐ ܩܕܝܡܐ|ܦܠܛ̈ܐ ܩܕ̈ܝܡܐ}}"
+
+msgid  "nextn-title"
+msgstr  "$1 {{PLURAL:$1|ܦܠܛܐ ܐܚܪܢܐ|ܦܠܛ̈ܐ ܐܚܪ̈ܢܐ}}"
+
+msgid  "shown-title"
+msgstr  "ܚܘܝ $1 {{PLURAL:$1|ܦܠܛܐ|ܦܠܛ̈ܐ}} ܠܟܠ ܦܐܬܐ"
+
+msgid  "viewprevnext"
+msgstr  "ܚܘܝ ($1 {{int:pipe-separator}} $2) ($3)"
+
+msgid  "searchmenu-legend"
+msgstr  "ܓܒܝܬ̈ܐ ܕܒܘܨܝܐ"
+
+msgid  "searchmenu-exists"
+msgstr  "'''ܐܝܬ ܦܐܬܐ ܒܫܡ \"[[:$1]]\" ܥܠ ܗܢܐ ܘܝܩܝ'''"
+
+msgid  "searchmenu-new"
+msgstr  "'''ܒܪܝ ܦܐܬܐ \"[[:$1]]\" ܥܠ ܗܢܐ ܘܝܩܝ!'''"
+
+msgid  "searchhelp-url"
+msgstr  "Help:ܚܒܝܫܬ̈ܐ"
+
+msgid  "searchprofile-articles"
+msgstr  "ܦܐܬܬ̈ܐ ܕܚܒܝܫܬ̈ܐ"
+
+msgid  "searchprofile-project"
+msgstr  "ܦܐܬܬ̈ܐ ܕܬܪ̈ܡܝܬܐ ܘܕܥܘܕܪܢܐ"
+
+msgid  "searchprofile-images"
+msgstr  "ܡܝܕ̈ܝܐ ܣܓܝܐ̈ܐ (Multimedia)"
+
+msgid  "searchprofile-everything"
+msgstr  "ܟܠ ܡܕܡ"
+
+msgid  "searchprofile-advanced"
+msgstr  "ܡܬܩܕܡܢܐ"
+
+msgid  "searchprofile-articles-tooltip"
+msgstr  "Search in $1"
+
+msgid  "searchprofile-project-tooltip"
+msgstr  "Search in $1"
+
+msgid  "search-result-size"
+msgstr  "$1 ({{PLURAL:$2|1 ܡܠܬܐ|$2 ܡܠ̈ܐ}})"
+
+msgid  "search-redirect"
+msgstr  "(ܨܝܒ $1)"
+
+msgid  "search-section"
+msgstr  "(ܡܢܬܐ $1)"
+
+msgid  "search-suggest"
+msgstr  "ܣܟܠ ܐܢܬ: $1"
+
+msgid  "search-interwiki-caption"
+msgstr  "ܬܪ̈ܡܝܬܐ ܐܚܘܬ̈ܐ"
+
+msgid  "search-interwiki-default"
+msgstr  "ܦܠܛ̈ܐ ܕ $1:"
+
+msgid  "search-interwiki-more"
+msgstr  "(ܝܬܝܪ)"
+
+msgid  "search-mwsuggest-enabled"
+msgstr  "ܥܡ ܡܚܫܚܬ̈ܐ"
+
+msgid  "search-mwsuggest-disabled"
+msgstr  "ܠܐ ܡܚܫܚܬ̈ܐ"
+
+msgid  "searcheverything-enable"
+msgstr  "ܒܨܝ ܒܟܠ ܚܩܠܬ̈ܐ"
+
+msgid  "searchall"
+msgstr  "ܟܠ"
+
+msgid  "showingresults"
+msgstr  "ܚܘܘܝܐ ܠܬܚܬ {{PLURAL:$1|'''1''' ܦܠܛܐ|'''$1''' ܦܠܛ̈ܐ}} ܫܪܐ ܡܢ ܡܢܝܢܐ '''$2'''."
+
+msgid  "showingresultsheader"
+msgstr  "{{PLURAL:$5|ܦܠܛܐ '''$1''' ܡܢ '''$3'''|ܦܠܛ̈ܐ '''$1 - $2''' ܡܢ '''$3'''}} ܠ'''$4'''"
+
+msgid  "search-nonefound"
+msgstr  "ܠܝܬ ܦܠܛ̈ܐ ܐܘܝ ܠܗܢܐ ܒܨܝܐ."
+
+msgid  "powersearch"
+msgstr  "ܒܨܝܐ ܡܬܩܕܡܢܐ"
+
+msgid  "powersearch-legend"
+msgstr  "ܒܨܝܐ ܡܬܩܕܡܢܐ"
+
+msgid  "powersearch-ns"
+msgstr  "ܒܨܝ ܒܚܩܠܬ̈ܐ:"
+
+msgid  "powersearch-redir"
+msgstr  "ܚܘܝ ܨܘܝܒ̈ܐ"
+
+msgid  "powersearch-field"
+msgstr  "ܒܨܝ ܥܠ"
+
+msgid  "powersearch-togglelabel"
+msgstr  "ܓܒܝ:"
+
+msgid  "powersearch-toggleall"
+msgstr  "ܟܠ"
+
+msgid  "powersearch-togglenone"
+msgstr  "ܠܐ ܡܕܡ"
+
+msgid  "search-external"
+msgstr  "ܒܘܨܝܐ ܒܪܝܐ"
+
+msgid  "qbsettings-none"
+msgstr  "ܠܐ ܡܕܡ"
+
+msgid  "preferences"
+msgstr  "ܓܒܝܬ̈ܐ"
+
+msgid  "mypreferences"
+msgstr  "ܓܒܝܬ̈ܝ"
+
+msgid  "prefs-edits"
+msgstr  "ܡܢܝܢܐ ܕܫܘܚܠܦ̈ܐ:"
+
+msgid  "prefsnologin"
+msgstr  "ܠܝܬܝܟ ܥܠܝܠܐ"
+
+msgid  "changepassword"
+msgstr  "ܫܚܠܦ ܡܠܬܐ ܕܥܠܠܐ"
+
+msgid  "prefs-skin"
+msgstr  "ܓܠܕܐ"
+
+msgid  "skin-preview"
+msgstr  "ܚܝܪܐ ܩܕܡܝܐ"
+
+msgid  "prefs-math"
+msgstr  "ܡܬܡܐܛܝܩܘܬܐ"
+
+msgid  "datedefault"
+msgstr  "ܠܐ ܓܒܝܬܐ"
+
+msgid  "prefs-datetime"
+msgstr  "ܣܝܩܘܡܐ ܘܙܒܢܐ"
+
+msgid  "prefs-personal"
+msgstr  "ܦܘܓܪܦܐ ܕܡܦܠܚܢܐ"
+
+msgid  "prefs-rc"
+msgstr  "ܫܘܚܠܦ̈ܐ ܚܕ̈ܬܐ"
+
+msgid  "prefs-watchlist"
+msgstr  "ܪ̈ܗܝܬܐ"
+
+msgid  "prefs-watchlist-days"
+msgstr  "ܝܘܡܬ̈ܐ ܠܚܙܝܐ ܒܪ̈ܗܝܬܐ:"
+
+msgid  "prefs-watchlist-days-max"
+msgstr  "ܠܡܬܚܐ ܥܠܝܐ ܕ7 ܝܘܡܬ̈ܐ"
+
+msgid  "prefs-misc"
+msgstr  "ܦܪ̈ܝܫܬܐ"
+
+msgid  "prefs-resetpass"
+msgstr  "ܫܚܠܦ ܡܠܬܐ ܕܥܠܠܐ"
+
+msgid  "prefs-email"
+msgstr  "ܓܒܝܬ̈ܐ ܕܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ"
+
+msgid  "prefs-rendering"
+msgstr  "ܐܣܟܝܡܐ"
+
+msgid  "saveprefs"
+msgstr  "ܠܒܘܟ"
+
+msgid  "resetprefs"
+msgstr  "ܡܫܝ ܫܘܚܠܦ̈ܐ ܠܐ ܠܒܝܟ̈ܐ"
+
+msgid  "prefs-editing"
+msgstr  "ܫܚܠܦܬܐ"
+
+msgid  "columns"
+msgstr  "ܥܡܘܕ̈ܐ:"
+
+msgid  "searchresultshead"
+msgstr  "ܒܨܝ"
+
+msgid  "resultsperpage"
+msgstr  "ܡܢܝܢܐ ܕܦܠܛ̈ܐ ܒܕܦܐ:"
+
+msgid  "recentchangesdays"
+msgstr  "ܝܘܡܬ̈ܐ ܠܚܙܝܐ ܒܫܘܚܠܦ̈ܐ ܚܕ̈ܬܐ:"
+
+msgid  "recentchangescount"
+msgstr  "ܡܢܝܢܐ ܕܫܘܚܠܦ̈ܐ ܠܚܙܝܐ ܪܫܐܝܬ:"
+
+msgid  "savedprefs"
+msgstr  "ܓܒܝܬ̈ܐ ܕܝܠܟ ܐܬܠܒܟܬ."
+
+msgid  "timezonelegend"
+msgstr  "ܙܘܢܐ ܙܒܢܝܐ:"
+
+msgid  "localtime"
+msgstr  "ܥܕܢܐ ܕܘܟܬܝܐ:"
+
+msgid  "timezoneregion-africa"
+msgstr  "ܐܦܪܝܩܐ"
+
+msgid  "timezoneregion-america"
+msgstr  "ܐܡܪܝܩܐ"
+
+msgid  "timezoneregion-antarctica"
+msgstr  "ܐܢܛܐܪܩܛܝܩܐ"
+
+msgid  "timezoneregion-asia"
+msgstr  "ܐܣܝܐ"
+
+msgid  "timezoneregion-atlantic"
+msgstr  "ܐܘܩܝܢܘܣ ܐܛܠܢܛܝܐ"
+
+msgid  "timezoneregion-australia"
+msgstr  "ܐܘܣܛܪܠܝܐ"
+
+msgid  "timezoneregion-europe"
+msgstr  "ܐܘܪܘܦܐ"
+
+msgid  "timezoneregion-indian"
+msgstr  "ܐܘܩܝܢܘܣ ܗܢܕܘܝܐ"
+
+msgid  "timezoneregion-pacific"
+msgstr  "ܐܘܩܝܢܘܣ ܫܩܛܝܐ"
+
+msgid  "prefs-searchoptions"
+msgstr  "ܓܒܝܬ̈ܐ ܕܒܘܨܝܐ"
+
+msgid  "prefs-namespaces"
+msgstr  "ܚܩܠܬ̈ܐ"
+
+msgid  "defaultns"
+msgstr  "ܐܘ ܒܨܝ ܒܚܩܠܬ̈ܐ ܗܢܝܢ"
+
+msgid  "prefs-files"
+msgstr  "ܠܦܦ̈ܐ"
+
+msgid  "prefs-emailconfirm-label"
+msgstr  "ܚܘܬܬܐ ܕܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ:"
+
+msgid  "youremail"
+msgstr  "ܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ:"
+
+msgid  "username"
+msgstr  "ܫܡܐ ܕܡܦܠܚܢܐ:"
+
+msgid  "uid"
+msgstr  "ܗܝܝܘܬܐ ܕܡܦܠܚܢܐ:"
+
+msgid  "prefs-memberingroups"
+msgstr  "ܗܕܡܐ ܕ{{PLURAL:$1|ܟܢܘܫܬܐ|ܟܢܘܫܬ̈ܐ}}:"
+
+msgid  "prefs-registration"
+msgstr  "ܙܒܢܐ ܕܣܘܓܠܐ:"
+
+msgid  "yourrealname"
+msgstr  "ܫܡܐ ܫܪܝܪܐ:"
+
+msgid  "yourlanguage"
+msgstr  "ܠܫܢܐ:"
+
+msgid  "yournick"
+msgstr  "ܪܡܝ ܐܝܕܐ:"
+
+msgid  "badsiglength"
+msgstr  "ܪܡܝ ܐܝܕܟ ܣܓܝ ܐܪܝܟܬܐ.\nܐܠܨܐ ܠܟ ܠܐ ܝܬܝܪ ܡܢ $1 {{PLURAL:$1|ܐܬܘܬܐ|ܐܬܘܬ̈ܐ}} ܐܪܝܟܬܐ ܗܘܬ."
+
+msgid  "yourgender"
+msgstr  "ܓܢܣܐ:"
+
+msgid  "gender-unknown"
+msgstr  "ܠܐ ܦܣܝܩܐ"
+
+msgid  "gender-male"
+msgstr  "ܕܟܪܐ"
+
+msgid  "gender-female"
+msgstr  "ܢܩܒܐ"
+
+msgid  "email"
+msgstr  "ܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ"
+
+msgid  "prefs-info"
+msgstr  "ܝܕ̈ܥܬܐ ܪ̈ܫܝܬܐ"
+
+msgid  "prefs-i18n"
+msgstr  "ܬܘܪܓܡܐ"
+
+msgid  "prefs-signature"
+msgstr  "ܪܡܝ ܐܝܕܐ"
+
+msgid  "prefs-dateformat"
+msgstr  "ܚܫܠܬܐ ܕܣܝܩܘܡܐ"
+
+msgid  "prefs-advancedediting"
+msgstr  "ܓܒܝܬ̈ܐ ܡܬܩܕ̈ܡܢܐ"
+
+msgid  "prefs-advancedrc"
+msgstr  "ܓܒܝܬ̈ܐ ܡܬܩܕ̈ܡܢܐ"
+
+msgid  "prefs-advancedrendering"
+msgstr  "ܓܒܝܬ̈ܐ ܡܬܩܕ̈ܡܢܐ"
+
+msgid  "prefs-advancedsearchoptions"
+msgstr  "ܓܒܝܬ̈ܐ ܡܬܩܕ̈ܡܢܐ"
+
+msgid  "prefs-advancedwatchlist"
+msgstr  "ܓܒܝܬ̈ܐ ܡܬܩܕ̈ܡܢܐ"
+
+msgid  "prefs-displayrc"
+msgstr  "ܚܘܝ ܓܒܝܬ̈ܐ"
+
+msgid  "prefs-diffs"
+msgstr  "ܦܪ̈ܝܫܘܝܬܐ"
+
+msgid  "userrights"
+msgstr  "ܡܕܒܪܢܘܬܐ ܕܙܕ̈ܩܐ ܕܡܦܠܚܢܐ"
+
+msgid  "userrights-lookup-user"
+msgstr  "ܕܒܪ ܟܢܘܫܝ̈ܐ ܕܡܦܠܚܢܐ"
+
+msgid  "userrights-user-editname"
+msgstr  "ܐܥܠ ܫܡܐ ܕܡܦܠܚܢܐ:"
+
+msgid  "editusergroup"
+msgstr  "ܫܚܠܦ ܟܢܘܫܝ̈ܐ ܕܡܦܠܚܢܐ"
+
+msgid  "userrights-editusergroup"
+msgstr  "ܫܚܠܦ ܟܢܘܫܝ̈ܐ ܕܡܦܠܚܢܐ"
+
+msgid  "saveusergroups"
+msgstr  "ܠܒܘܟ ܟܢܘܫܝ̈ܐ ܕܡܦܠܚܢܐ"
+
+msgid  "userrights-groupsmember"
+msgstr  "ܗܕܡܐ ܒ:"
+
+msgid  "userrights-reason"
+msgstr  "ܥܠܬܐ:"
+
+msgid  "group"
+msgstr  "ܟܢܘܫܬܐ:"
+
+msgid  "group-user"
+msgstr  "ܡܦܠܚܢ̈ܐ"
+
+msgid  "group-bot"
+msgstr  "ܒܘܬ̈ܐ"
+
+msgid  "group-sysop"
+msgstr  "ܡܕܒܪ̈ܢܐ"
+
+msgid  "group-bureaucrat"
+msgstr  "ܒܝܪܘܩܪ̈ܛܐ"
+
+msgid  "group-suppress"
+msgstr  "ܚܝܘܪ̈ܐ"
+
+msgid  "group-all"
+msgstr  "(ܟܠ)"
+
+msgid  "group-user-member"
+msgstr  "ܡܦܠܚܢܐ"
+
+msgid  "group-autoconfirmed-member"
+msgstr  "ܡܦܠܚܢܐ ܚܬܝܬܐ ܝܬܐܝܬ"
+
+msgid  "group-bot-member"
+msgstr  "ܒܘܬ (Bot)"
+
+msgid  "group-sysop-member"
+msgstr  "ܡܕܒܪܢܐ"
+
+msgid  "group-bureaucrat-member"
+msgstr  "ܒܝܪܘܩܪܛܐ"
+
+msgid  "group-suppress-member"
+msgstr  "ܚܝܘܪܐ"
+
+msgid  "grouppage-user"
+msgstr  "{{ns:project}}:ܡܦܠܚܢ̈ܐ"
+
+msgid  "grouppage-autoconfirmed"
+msgstr  "{{ns:project}}:ܡܦܠܚܢ̈ܐ ܚܬܝܬ̈ܐ ܝܬܐܝܬ"
+
+msgid  "grouppage-bot"
+msgstr  "{{ns:project}}:ܒܘܬ̈ܐ"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:ܡܕܒܪ̈ܢܐ"
+
+msgid  "grouppage-bureaucrat"
+msgstr  "{{ns:project}}:ܒܝܪܘܩܪ̈ܛܐ"
+
+msgid  "grouppage-suppress"
+msgstr  "{{ns:project}}:ܚܝܘܪܐ"
+
+msgid  "right-read"
+msgstr  "ܩܪܝ ܦܐܬܬ̈ܐ"
+
+msgid  "right-edit"
+msgstr  "ܫܚܠܦ ܦܐܬܬ̈ܐ"
+
+msgid  "right-createtalk"
+msgstr  "ܒܪܝ ܦܐܬܬ̈ܐ ܕܡܡܠܠܐ"
+
+msgid  "right-createaccount"
+msgstr  "ܒܪܝ ܚܘܫܒܢ̈ܐ ܕܡܦܠܚܢܐ ܚܕܬܐ"
+
+msgid  "right-minoredit"
+msgstr  "ܫܘܕܥ ܥܠ ܫܘܚܠܦ̈ܐ ܐܝܟ ܙܥܘܪܐ"
+
+msgid  "right-move"
+msgstr  "ܫܢܝ ܦܐܬܬ̈ܐ"
+
+msgid  "right-move-subpages"
+msgstr  "ܫܢܝ ܕ̈ܦܐ ܥܡ ܕ̈ܦܐ ܦܪ̈ܥܝܐ ܕܝܠܗܘܢ"
+
+msgid  "right-movefile"
+msgstr  "ܫܢܝ ܠܦܦ̈ܐ"
+
+msgid  "right-upload"
+msgstr  "ܐܣܩ ܠܦܦ̈ܐ"
+
+msgid  "right-delete"
+msgstr  "ܫܘܦ ܦܐܬܬ̈ܐ"
+
+msgid  "right-bigdelete"
+msgstr  "ܫܘܦ ܦܐܬܬ̈ܐ ܥܡ ܬܫܥܝܬ̈ܐ ܪ̈ܒܬܐ"
+
+msgid  "right-browsearchive"
+msgstr  "ܒܨܝ ܦܐܬܬ̈ܐ ܫܝܦܬ̈ܐ"
+
+msgid  "right-undelete"
+msgstr  "ܠܐ ܫܘܦ ܦܐܬܬ̈ܐ"
+
+msgid  "right-suppressionlog"
+msgstr  "ܚܙܝ ܣܓܠ̈ܐ ܦܪ̈ܨܘܦܝܐ"
+
+msgid  "right-block"
+msgstr  "ܚܪܘܡ ܡܦܠܚܢ̈ܐ ܐܚܪ̈ܢܐ ܡܢ ܫܚܠܦܬܐ"
+
+msgid  "right-mergehistory"
+msgstr  "ܚܒܘܛ ܬܫܥܝܬܐ ܕܦܐܬܬ̈ܐ"
+
+msgid  "right-userrights"
+msgstr  "ܫܚܠܦ ܟܠ ܙܕ̈ܩܐ ܕܡܦܠܚܢܐ"
+
+msgid  "rightslog"
+msgstr  "ܣܓܠܐ ܕܙܕ̈ܩܐ ܕܡܦܠܚܢܐ"
+
+msgid  "rightsnone"
+msgstr  "(ܠܐ ܡܕܡ)"
+
+msgid  "action-read"
+msgstr  "ܩܪܝ ܦܐܬܐ ܗܕܐ"
+
+msgid  "action-edit"
+msgstr  "ܫܚܠܦܬܐ ܕܦܐܬܐ ܗܕܐ"
+
+msgid  "action-createpage"
+msgstr  "ܒܪܝܬܐ ܕܦܐܬܬ̈ܐ"
+
+msgid  "action-createtalk"
+msgstr  "ܒܪܝܬܐ ܕܦܐܬܬ̈ܐ ܕܡܡܠܠܐ"
+
+msgid  "action-createaccount"
+msgstr  "ܒܪܝܬܐ ܕܚܘܫܒܢܐ ܕܗܢܐ ܡܦܠܚܢܐ"
+
+msgid  "action-minoredit"
+msgstr  "ܫܘܕܥܬܐ ܥܠ ܫܘܚܠܦܐ ܗܢܐ ܐܝܟ ܙܥܘܪܐ"
+
+msgid  "action-move"
+msgstr  "ܫܢܝܬܐ ܕܦܐܬܐ ܗܕܐ"
+
+msgid  "action-move-rootuserpages"
+msgstr  "ܫܢܝܬܐ ܕܕ̈ܦܐ ܫܪ̈ܫܝܐ ܕܡܦܠܚܢܐ"
+
+msgid  "action-movefile"
+msgstr  "ܫܢܝܬܐ ܕܗܢܐ ܠܦܦܐ"
+
+msgid  "action-upload"
+msgstr  "ܐܣܩܬܐ ܕܗܢܐ ܠܦܦܐ"
+
+msgid  "action-delete"
+msgstr  "ܫܝܦܬܐ ܕܦܐܬܐ ܗܕܐ"
+
+msgid  "action-deleterevision"
+msgstr  "ܫܝܦܬܐ ܕܬܢܝܬܐ ܗܕܐ"
+
+msgid  "action-deletedhistory"
+msgstr  "ܚܙܝܬܐ ܕܬܫܥܝܬܐ ܫܝܦܬܐ ܕܦܐܬܐ ܗܕܐ"
+
+msgid  "action-browsearchive"
+msgstr  "ܒܘܨܝܐ ܥܠ ܦܐܬܬ̈ܐ ܫܝܦܬ̈ܐ"
+
+msgid  "action-undelete"
+msgstr  "ܠܐ ܫܘܦ ܦܐܬܐ ܗܕܐ"
+
+msgid  "action-suppressionlog"
+msgstr  "ܚܙܝܬܐ ܕܗܢܐ ܣܓܠܐ ܦܪܨܘܦܝܐ"
+
+msgid  "action-block"
+msgstr  "ܚܪܡܬܐ ܕܡܦܠܚܢܐ ܗܢܐ ܡܢ ܫܚܠܦܬܐ"
+
+msgid  "action-mergehistory"
+msgstr  "ܚܒܛܬܐ ܕܬܫܥܝܬܐ ܕܦܐܬܐ ܗܕܐ"
+
+msgid  "action-userrights"
+msgstr  "ܫܚܠܦܬܐ ܕܟܠ ܙܕ̈ܩܐ ܕܡܦܠܚܢܐ"
+
+msgid  "nchanges"
+msgstr  "$1 {{PLURAL:$1|ܫܘܚܠܦܐ|ܫܘܚܠܦ̈ܐ}}"
+
+msgid  "recentchanges"
+msgstr  "ܫܘܚܠܦ̈ܐ ܚܕ̈ܬܐ"
+
+msgid  "recentchanges-legend"
+msgstr  "ܓܒܝܬ̈ܐ ܕܫܘܚܠܦ̈ܐ ܚܕ̈ܬܐ"
+
+msgid  "recentchangestext"
+msgstr  "ܥܩܒ ܫܘܚܠܦ̈ܐ ܚܕܬ ܡܢ ܟܠ ܕܘܝܩܝ ܒܦܐܬܐ ܗܕܐ."
+
+msgid  "recentchanges-label-newpage"
+msgstr  "ܫܘܚܠܦܐ ܗܢܐ ܒܪܐ ܦܐܬܐ ܚܕܬܐ"
+
+msgid  "recentchanges-label-minor"
+msgstr  "ܗܢܐ ܗܘ ܫܘܚܠܦܐ ܙܥܘܪܐ"
+
+msgid  "recentchanges-label-bot"
+msgstr  "ܒܘܬ (bot) ܥܒܕ ܗܢܐ ܫܘܚܠܦܐ"
+
+msgid  "rclistfrom"
+msgstr  "ܚܘܝ ܫܘܚܠܦ̈ܐ ܚܕ̈ܬܐ ܡܢ $1"
+
+msgid  "rcshowhideminor"
+msgstr  "$1 ܫܘܚܠܦ̈ܐ ܙܥܘܪ̈ܐ"
+
+msgid  "rcshowhidebots"
+msgstr  "$1 ܒܘܬ̈ܐ (Bots)"
+
+msgid  "rcshowhideliu"
+msgstr  "$1 ܡܦܠܚܢ̈ܐ ܥܠܝܠ̈ܐ"
+
+msgid  "rcshowhideanons"
+msgstr  "$1 ܡܦܠܚܢܐ ܠܐ ܝܕܝܥܐ"
+
+msgid  "rcshowhidemine"
+msgstr  "$1 ܫܘܚܠܦ̈ܝ"
+
+msgid  "rclinks"
+msgstr  "ܚܘܝ $1 ܫܘܚܠܦ̈ܐ ܐܚܪ̈ܝܐ ܒ $2 ܝܘܡܬ̈ܐ ܐܚܪ̈ܝܐ<br />$3"
+
+msgid  "diff"
+msgstr  "ܦܪܝܫܘܬܐ"
+
+msgid  "hist"
+msgstr  "ܬܫܥܝܬܐ"
+
+msgid  "hide"
+msgstr  "ܛܫܝ"
+
+msgid  "show"
+msgstr  "ܚܘܝ"
+
+msgid  "minoreditletter"
+msgstr  "ܙ"
+
+msgid  "newpageletter"
+msgstr  "ܚ"
+
+msgid  "boteditletter"
+msgstr  "ܒ"
+
+msgid  "newsectionsummary"
+msgstr  "/* $1 */ ܡܢܬܐ ܚܕܬܐ"
+
+msgid  "rc-enhanced-expand"
+msgstr  "ܚܘܝ ܐܪ̈ܝܟܬܐ (ܒܥܐ ܠܟ JavaScript)"
+
+msgid  "rc-enhanced-hide"
+msgstr  "ܛܫܝ ܐܪ̈ܝܟܬܐ"
+
+msgid  "recentchangeslinked"
+msgstr  "ܫܘܚܠܦ̈ܐ ܕ̈ܡܝܐ"
+
+msgid  "recentchangeslinked-feed"
+msgstr  "ܫܘܚܠܦ̈ܐ ܕ̈ܡܝܐ"
+
+msgid  "recentchangeslinked-toolbox"
+msgstr  "ܫܘܚܠܦ̈ܐ ܕ̈ܡܝܐ"
+
+msgid  "recentchangeslinked-page"
+msgstr  "ܫܡܐ ܕܦܐܬܐ:"
+
+msgid  "upload"
+msgstr  "ܐܣܩ ܠܦܦܐ"
+
+msgid  "uploadbtn"
+msgstr  "ܐܣܩ ܠܦܦܐ"
+
+msgid  "uploadnologin"
+msgstr  "ܠܝܬܝܟ ܥܠܝܠܐ"
+
+msgid  "uploaderror"
+msgstr  "ܦܘܕܐ ܒܡܣܩܬܐ"
+
+msgid  "uploadlog"
+msgstr  "ܣܓܠܐ ܕܣܠܩܐ"
+
+msgid  "uploadlogpage"
+msgstr  "ܣܓܠܐ ܕܣܠܩܐ"
+
+msgid  "filename"
+msgstr  "ܫܡܐ ܕܠܦܦܐ"
+
+msgid  "filedesc"
+msgstr  "ܦܣܝܩܬ̈ܐ"
+
+msgid  "fileuploadsummary"
+msgstr  "ܦܣܝܩܬ̈ܐ:"
+
+msgid  "filereuploadsummary"
+msgstr  "ܫܘܚܠܦ̈ܐ ܕܠܦܦܐ:"
+
+msgid  "filestatus"
+msgstr  "ܐܝܟܢܝܘܬܐ ܕܙܕ̈ܩܐ ܕܛܒܥܐ"
+
+msgid  "filesource"
+msgstr  "ܡܒܘܥܐ:"
+
+msgid  "minlength1"
+msgstr  "ܫܡܗ̈ܐ ܕܠܦܦܐ ܘܠܐ ܕܢܗܘܐ ܒܪܝܐ ܡܢ ܐܬܘܬܐ ܚܕܐ ܟܕ ܙܥܘܪ"
+
+msgid  "uploadwarning"
+msgstr  "ܐܣܩ ܙܘܗܪܐ"
+
+msgid  "savefile"
+msgstr  "ܠܒܘܟ ܠܦܦܐ"
+
+msgid  "uploadvirus"
+msgstr  "ܠܦܦܐ ܐܝܬ ܒܗ ܒܝܪܘܣ!\nܐܪ̈ܝܟܬܐ: $1"
+
+msgid  "upload-source"
+msgstr  "ܡܒܘܥܐ ܕܠܦܦܐ"
+
+msgid  "sourcefilename"
+msgstr  "ܫܡܐ ܕܠܦܦܐ ܡܒܘܥܐ"
+
+msgid  "sourceurl"
+msgstr  "URL ܡܒܘܥܐ:"
+
+msgid  "upload-maxfilesize"
+msgstr  "ܡܬܚܐ ܥܠܝܐ ܕܥܓܪܐ ܕܠܦܦܐ: $1"
+
+msgid  "upload-description"
+msgstr  "ܫܘܡܗܐ ܕܠܦܦܐ"
+
+msgid  "upload-options"
+msgstr  "ܓܒܝܬ̈ܐ ܕܐܣܩܬܐ ܕܠܦܦܐ"
+
+msgid  "watchthisupload"
+msgstr  "ܪܗܝ ܗܢܐ ܠܦܦܐ"
+
+msgid  "upload-success-subj"
+msgstr  "ܠܦܦܐ ܐܣܩܬ ܢܨܝܚܐܝܬ"
+
+msgid  "upload-failure-subj"
+msgstr  "ܩܛܪܐ ܒܐܣܩܬܐ ܕܠܦܦܐ"
+
+msgid  "upload-failure-msg"
+msgstr  "ܐܝܬ ܗܘܐ ܩܛܪܐ ܒܠܦܦܐ ܕܐܣܩܬ ܡܢ [$2]:\n\n$1"
+
+msgid  "upload-warning-subj"
+msgstr  "ܙܘܗܪܐ ܥܠ ܐܣܩܬܐ ܕܠܦܦܐ"
+
+msgid  "upload-proto-error"
+msgstr  "ܦܪܘܛܘܩܘܠ ܠܐ ܬܪܝܨܐ"
+
+msgid  "upload-file-error"
+msgstr  "ܦܘܕܐ ܓܘܝܐ"
+
+msgid  "upload-misc-error"
+msgstr  "ܦܘܕܐ ܠܐ ܝܕܝܥܐ ܒܐܣܩܬܐ ܕܠܦܦܐ"
+
+msgid  "upload-unknown-size"
+msgstr  "ܥܓܪܐ ܠܐ ܝܕܝܥܐ"
+
+msgid  "img-auth-nofile"
+msgstr  "ܠܦܦܐ \"$1\" ܠܝܬ ܠܗ ܐܝܬܘܬܐ."
+
+msgid  "http-read-error"
+msgstr  "HTTP ܦܘܕܐ ܒܩܪܝܬܐ."
+
+msgid  "http-curl-error"
+msgstr  "ܦܘܕܐ ܒܫܟܚܐ ܕURL: $1"
+
+msgid  "license-nopreview"
+msgstr  "(ܠܝܬ ܚܝܪܐ ܩܕܡܝܐ)"
+
+msgid  "upload_source_file"
+msgstr  " (ܠܦܦܐ ܥܠ ܚܫܘܒܬܐ ܕܝܠܟ)"
+
+msgid  "imgfile"
+msgstr  "ܠܦܦܐ"
+
+msgid  "listfiles"
+msgstr  "ܡܟܬܒܘܬܐ ܕܠܦܦ̈ܐ"
+
+msgid  "listfiles_thumb"
+msgstr  "ܙܘܥܪܐ"
+
+msgid  "listfiles_date"
+msgstr  "ܣܝܩܘܡܐ"
+
+msgid  "listfiles_name"
+msgstr  "ܫܡܐ"
+
+msgid  "listfiles_user"
+msgstr  "ܡܦܠܚܢܐ"
+
+msgid  "listfiles_size"
+msgstr  "ܥܓܪܐ"
+
+msgid  "listfiles_description"
+msgstr  "ܫܘܡܗܐ"
+
+msgid  "listfiles_count"
+msgstr  "ܨܚܚ̈ܐ"
+
+msgid  "file-anchor-link"
+msgstr  "ܠܦܦܐ"
+
+msgid  "filehist"
+msgstr  "ܬܫܥܝܬܐ ܕܠܦܦܐ"
+
+msgid  "filehist-deleteall"
+msgstr  "ܫܘܦ ܟܠ"
+
+msgid  "filehist-deleteone"
+msgstr  "ܫܘܦ"
+
+msgid  "filehist-current"
+msgstr  "ܗܫܝܐ"
+
+msgid  "filehist-datetime"
+msgstr  "ܣܝܩܘܡܐ/ܙܒܢܐ"
+
+msgid  "filehist-thumb"
+msgstr  "ܨܘܪܬܐ ܙܥܘܪܬܐ"
+
+msgid  "filehist-nothumb"
+msgstr  "ܠܐ ܙܥܘܪܬܐ"
+
+msgid  "filehist-user"
+msgstr  "ܡܦܠܚܢܐ"
+
+msgid  "filehist-dimensions"
+msgstr  "ܩܝܡ̈ܐ"
+
+msgid  "filehist-filesize"
+msgstr  "ܥܓܪܐ ܕܠܦܦܐ"
+
+msgid  "imagelinks"
+msgstr  "ܐܣܘܪ̈ܐ ܕܠܦܦܐ"
+
+msgid  "linkstoimage"
+msgstr  "{{PLURAL:$1|ܦܐܬܐ ܗܕܐ ܐܣܪ|$1 ܦܐܬܬ̈ܐ ܗܠܝܢ ܐܣܪܝܢ}} ܥܡ ܗܢܐ ܠܦܦܐ:"
+
+msgid  "nolinkstoimage"
+msgstr  "ܠܝܬ ܦܐܬܐ ܕܐܣܪ ܠܗܢܐ ܠܦܦܐ."
+
+msgid  "redirectstofile"
+msgstr  "{{PLURAL:$1|ܠܦܦܐ|$1 ܠܦܦ̈ܐ}} ܕܐܬܐ ܐܣܪ ܠܗܢܐ ܠܦܦܐ:"
+
+msgid  "uploadnewversion-linktext"
+msgstr  "ܐܣܩ ܨܚܚܐ ܚܕܬܐ ܡܢ ܗܢܐ ܠܦܦܐ"
+
+msgid  "shared-repo-from"
+msgstr  "ܡܢ $1"
+
+msgid  "filerevert-comment"
+msgstr  "ܥܠܬܐ:"
+
+msgid  "filedelete"
+msgstr  "ܫܘܦ $1"
+
+msgid  "filedelete-legend"
+msgstr  "ܫܘܦ ܠܦܦܐ"
+
+msgid  "filedelete-comment"
+msgstr  "ܥܠܬܐ:"
+
+msgid  "filedelete-submit"
+msgstr  "ܫܘܦ"
+
+msgid  "filedelete-success"
+msgstr  "'''$1''' ܐܫܬܝܦ."
+
+msgid  "filedelete-nofile"
+msgstr  "'''$1''' ܠܝܬ."
+
+msgid  "filedelete-otherreason"
+msgstr  "ܥܠܬܐ ܐܚܪܬܐ:"
+
+msgid  "filedelete-reason-otherlist"
+msgstr  "ܥܠܬܐ ܐܚܪܬܐ"
+
+msgid  "filedelete-edit-reasonlist"
+msgstr  "ܫܚܠܦ ܥܠܠܬ̈ܐ ܕܫܝܦܐ"
+
+msgid  "mimesearch"
+msgstr  "MIME ܒܨܝܐ"
+
+msgid  "mimetype"
+msgstr  "MIME ܐܕܫܐ:"
+
+msgid  "download"
+msgstr  "ܐܚܬ"
+
+msgid  "unwatchedpages"
+msgstr  "ܦܐܬܬ̈ܐ ܠܐ ܪ̈ܗܝܬܐ"
+
+msgid  "listredirects"
+msgstr  "ܡܟܬܒܘܬܐ ܕܨܘܝܒ̈ܐ"
+
+msgid  "unusedtemplates"
+msgstr  "ܩܠܒ̈ܐ ܠܐ ܦܠܝܚ̈ܐ"
+
+msgid  "unusedtemplateswlh"
+msgstr  "ܐܣܘܪ̈ܐ ܐܚܪ̈ܢܐ"
+
+msgid  "randompage"
+msgstr  "ܡܓܠܬܐ ܚܘܝܚܬܐ"
+
+msgid  "randompage-nopages"
+msgstr  "ܠܝܬ ܦܐܬܬ̈ܐ ܒ{{PLURAL:$2|ܚܩܠܐ ܕ|ܚܩܠܬ̈ܐ ܕ}}: $1."
+
+msgid  "randomredirect"
+msgstr  "ܨܘܝܒ̈ܐ ܚܘܝܚ̈ܐ"
+
+msgid  "randomredirect-nopages"
+msgstr  "ܠܝܬ ܨܘܝܒ̈ܐ ܒܚܩܠܐ ܕ\"$1\"."
+
+msgid  "statistics-pages"
+msgstr  "ܦܐܬܬ̈ܐ"
+
+msgid  "statistics-users-active"
+msgstr  "ܡܦܠܚܢ̈ܐ ܟܫܝܪ̈ܐ"
+
+msgid  "disambiguations"
+msgstr  "ܦܐܬܬ̈ܐ ܕܠܐ ܕܠܘܚܝܐ"
+
+msgid  "disambiguationspage"
+msgstr  "Template:ܠܐ ܕܠܘܚܝܐ"
+
+msgid  "doubleredirects"
+msgstr  "ܨܘܝܒ̈ܐ ܥܦܝܦ̈ܐ"
+
+msgid  "double-redirect-fixed-move"
+msgstr  "[[$1]] ܐܫܬܢܝܬ.\nܗܫܐ ܐܝܬܝܗܝ  ܨܘܝܒܐ ܠ [[$2]]."
+
+msgid  "brokenredirects"
+msgstr  "ܨܘܝܒ̈ܐ ܬܒܝܪ̈ܐ"
+
+msgid  "brokenredirects-edit"
+msgstr  "ܫܚܠܦ"
+
+msgid  "brokenredirects-delete"
+msgstr  "ܫܘܦ"
+
+msgid  "withoutinterwiki"
+msgstr  "ܦܐܬܬ̈ܐ ܕܠܐ ܐܣܘܪ̈ܐ ܕܠܫܢ̈ܐ ܐܚܪ̈ܢܐ"
+
+msgid  "withoutinterwiki-legend"
+msgstr  "ܫܪܘܝܐ"
+
+msgid  "withoutinterwiki-submit"
+msgstr  "ܚܘܝ"
+
+msgid  "fewestrevisions"
+msgstr  "ܦܐܬܬ̈ܐ ܥܡ ܬܢܝܬ̈ܐ ܒܨܝܪ ܡܢ ܟܠ"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|ܒܐܝܛ|ܒܐܝܛ̈ܐ}}"
+
+msgid  "ncategories"
+msgstr  "$1 {{PLURAL:$1|ܣܕܪܐ|ܣܕܪ̈ܐ}}"
+
+msgid  "nlinks"
+msgstr  "$1 {{PLURAL:$1|ܐܣܘܪܐ|ܐܣܘܪ̈ܐ}}"
+
+msgid  "nmembers"
+msgstr  "$1 {{PLURAL:$1|ܗܕܡܐ|ܗܕ̈ܡܐ}}"
+
+msgid  "nrevisions"
+msgstr  "$1 {{PLURAL:$1|ܬܢܝܬܐ|ܬܢܝܬ̈ܐ }}"
+
+msgid  "nviews"
+msgstr  "$1 {{PLURAL:$1|ܚܘܘܝܐ|ܚܘܘܝ̈ܐ}}"
+
+msgid  "lonelypages"
+msgstr  "ܦܐܬܬ̈ܐ ܝܬܡܬ̈ܐ"
+
+msgid  "uncategorizedpages"
+msgstr  "ܦܐܬܬ̈ܐ ܠܐ ܣܕܝܪ̈ܬܐ"
+
+msgid  "uncategorizedcategories"
+msgstr  "ܣܕܪ̈ܐ ܠܐ ܣܕܝܪ̈ܐ"
+
+msgid  "uncategorizedimages"
+msgstr  "ܠܦܦ̈ܐ ܠܐ ܣܕܝܪ̈ܐ"
+
+msgid  "uncategorizedtemplates"
+msgstr  "ܩܠܒ̈ܐ ܠܐ ܣܕܝܪ̈ܐ"
+
+msgid  "unusedcategories"
+msgstr  "ܣܕܪ̈ܐ ܠܐ ܦܠܝܚ̈ܐ"
+
+msgid  "unusedimages"
+msgstr  "ܠܦܦ̈ܐ ܠܐ ܦܠܝܚ̈ܐ"
+
+msgid  "popularpages"
+msgstr  "ܦܐܬܬ̈ܐ ܡܫܡܗܬ̈ܐ"
+
+msgid  "wantedcategories"
+msgstr  "ܣܕܪ̈ܐ ܒܥܝ̈ܐ"
+
+msgid  "wantedpages"
+msgstr  "ܦܐܬܬ̈ܐ ܒܥܝܬ̈ܐ"
+
+msgid  "wantedfiles"
+msgstr  "ܠܦܦ̈ܐ ܒܥܝ̈ܐ"
+
+msgid  "wantedtemplates"
+msgstr  "ܩܠܒ̈ܐ ܒܥܝ̈ܐ"
+
+msgid  "prefixindex"
+msgstr  "ܟܠ ܦܐܬܬ̈ܐ ܥܡ ܫܪܘܝܐ"
+
+msgid  "shortpages"
+msgstr  "ܦܐܬܬ̈ܐ ܟܪ̈ܝܬܐ"
+
+msgid  "longpages"
+msgstr  "ܦܐܬܬ̈ܐ ܐܪ̈ܝܟܬܐ"
+
+msgid  "deadendpages"
+msgstr  "ܦܐܬܬ̈ܐ ܥܡ ܚܪܬܐ ܡܝܬܬܐ"
+
+msgid  "protectedpages"
+msgstr  "ܦܐܬܬ̈ܐ ܢܛܝܪ̈ܬܐ"
+
+msgid  "protectedtitles"
+msgstr  "ܟܘܢܝ̈ܐ ܢܛܝܪ̈ܐ"
+
+msgid  "protectedtitlestext"
+msgstr  "ܟܘܢܝ̈ܐ ܗܠܝܢ ܢܛܝܪ̈ܐ ܐܢܘܢ ܠܘܩܒܠ ܒܪܝܐ"
+
+msgid  "listusers"
+msgstr  "ܡܟܬܒܘܬܐ ܕܗܕ̈ܡܐ"
+
+msgid  "listusers-editsonly"
+msgstr  "ܚܘܝ ܡܦܠܚܢ̈ܐ ܥܡ ܫܘܚܠܦ̈ܐ ܒܠܚܘܕ"
+
+msgid  "listusers-creationsort"
+msgstr  "ܛܟܣ ܐܝܟ ܣܝܩܘܡܐ ܕܒܪܝܐ"
+
+msgid  "usereditcount"
+msgstr  "$1 {{PLURAL:$1|ܫܘܚܠܦܐ|ܫܘܚܠܦ̈ܐ}}"
+
+msgid  "usercreated"
+msgstr  "ܒܪܐ ܒܣܝܩܘܡ $1 ܫܥܬܐ $2"
+
+msgid  "newpages"
+msgstr  "ܦܐܬܬ̈ܐ ܚܕ̈ܬܬܐ"
+
+msgid  "newpages-username"
+msgstr  "ܫܡܐ ܕܡܦܠܚܢܐ:"
+
+msgid  "ancientpages"
+msgstr  "ܦܐܬܬ̈ܐ ܥܬܝܩ ܡܢ ܟܠ"
+
+msgid  "move"
+msgstr  "ܫܢܝ"
+
+msgid  "movethispage"
+msgstr  "ܫܢܝ ܦܐܬܐ ܗܕܐ"
+
+msgid  "notargettitle"
+msgstr  "ܠܐ ܢܘܦܐ"
+
+msgid  "nopagetitle"
+msgstr  "ܠܝܬ ܗܟܘܬ ܦܐܬܐ ܕܢܘܦܐ"
+
+msgid  "pager-newer-n"
+msgstr  "{{PLURAL:$1|1 1 ܚܕܬܐ|$1 ܚܕ̈ܬܐ}}"
+
+msgid  "pager-older-n"
+msgstr  "{{PLURAL:$1|1 ܥܬܝܩ̈ܐ 1|$1 ܥܬܝܩ̈ܐ}}"
+
+msgid  "suppress"
+msgstr  "ܚܝܘܪܐ"
+
+msgid  "booksources"
+msgstr  "ܙܠ"
+
+msgid  "booksources-search-legend"
+msgstr  "ܒܨܝ ܥܠ ܡܒܘܥ̈ܐ ܕܟܬܒ̈ܐ"
+
+msgid  "booksources-go"
+msgstr  "ܙܠ"
+
+msgid  "specialloguserlabel"
+msgstr  "ܡܦܠܚܢܐ:"
+
+msgid  "speciallogtitlelabel"
+msgstr  "ܟܘܢܝܐ:"
+
+msgid  "log"
+msgstr  "ܣܓܠ̈ܐ"
+
+msgid  "all-logs-page"
+msgstr  "ܟܠ ܣܓܠ̈ܐ ܓܘܢܝ̈ܐ"
+
+msgid  "log-title-wildcard"
+msgstr  "ܒܨܝ ܥܠ ܟܘܢܝ̈ܐ ܕܫܪܝܢ ܥܡ ܟܬܒܬܐ ܗܕܐ"
+
+msgid  "allpages"
+msgstr  "ܟܠ ܦܐܬܬ̈ܐ"
+
+msgid  "alphaindexline"
+msgstr  "$1 ܠ $2"
+
+msgid  "nextpage"
+msgstr  "ܦܐܬܐ ܐܚܪܬܐ ($1)"
+
+msgid  "prevpage"
+msgstr  "ܦܐܬܐ ܩܕܝܡܬܐ ($1)"
+
+msgid  "allpagesfrom"
+msgstr  "ܚܘܝ ܦܐܬܬ̈ܐ ܕܫܪܐ ܥܡ:"
+
+msgid  "allpagesto"
+msgstr  "ܚܘܝ ܦܐܬܬ̈ܐ ܕܫܠܡ ܥܡ:"
+
+msgid  "allarticles"
+msgstr  "ܟܠ ܡܓܠ̈ܐ"
+
+msgid  "allinnamespace"
+msgstr  "ܟܠ ܦܐܬܬ̈ܐ (ܚܩܠܐ ܕ $1)"
+
+msgid  "allnotinnamespace"
+msgstr  "ܟܠ ܦܐܬܬ̈ܐ (ܠܐ ܒܚܩܠܐ ܕ $1)"
+
+msgid  "allpagesprev"
+msgstr  "ܩܕܡ"
+
+msgid  "allpagesnext"
+msgstr  "ܒܬܪ"
+
+msgid  "allpagessubmit"
+msgstr  "ܙܠ"
+
+msgid  "allpagesprefix"
+msgstr  "ܚܘܝ ܦܐܬܬ̈ܐ ܕܫܪܝܢ ܒ:"
+
+msgid  "allpages-bad-ns"
+msgstr  "{{SITENAME}} ܠܝܬ ܠܗ ܚܩܠܐ \"$1\"."
+
+msgid  "categories"
+msgstr  "ܣܕܪ̈ܐ"
+
+msgid  "categoriesfrom"
+msgstr  "ܚܘܝ ܣܕܪ̈ܐ ܕܫܪܝܢ ܒ:"
+
+msgid  "special-categories-sort-count"
+msgstr  "ܛܟܣ ܒܡܢܝܢܐ"
+
+msgid  "special-categories-sort-abc"
+msgstr  "ܛܟܣ ܗܓܝܢܐܝܬ"
+
+msgid  "deletedcontributions"
+msgstr  "ܫܘܬܦܘܝܬ̈ܐ ܕܡܦܠܚܢܐ ܫܝܦܬ̈ܐ"
+
+msgid  "deletedcontributions-title"
+msgstr  "ܫܘܬܦܘܝܬ̈ܐ ܕܡܦܠܚܢܐ ܫܝܦܬ̈ܐ"
+
+msgid  "sp-deletedcontributions-contribs"
+msgstr  "ܫܘܬܦܘܝܬ̈ܐ"
+
+msgid  "linksearch"
+msgstr  "ܐܣܘܪܐ ܒܪܝܐ"
+
+msgid  "linksearch-ns"
+msgstr  "ܚܩܠܐ:"
+
+msgid  "linksearch-ok"
+msgstr  "ܒܨܝ"
+
+msgid  "listusersfrom"
+msgstr  "ܚܘܝ ܡܦܠܚܢ̈ܐ ܕܫܪܝܢ ܒ:"
+
+msgid  "listusers-submit"
+msgstr  "ܚܘܝ"
+
+msgid  "listusers-noresult"
+msgstr  "ܠܐ ܡܦܠܚܢܐ ܐܫܬܟܚ"
+
+msgid  "listusers-blocked"
+msgstr  "(ܚܪܝܡܐ)"
+
+msgid  "activeusers"
+msgstr  "ܡܟܬܒܘܬܐ ܕܗܕ̈ܡܐ ܟܫܝܪ̈ܐ"
+
+msgid  "activeusers-count"
+msgstr  "$1 {{PLURAL:$1|ܫܘܚܠܦܐ ܚܕܬܐ|ܫܘܚܠܦ̈ܐ ܚܕ̈ܬܐ}} ܒ {{PLURAL:$3|ܝܘܡܐ ܐܚܪܝܐ|$3 ܝܘܡܬ̈ܐ ܐܚܪ̈ܝܐ}}"
+
+msgid  "activeusers-from"
+msgstr  "ܚܘܝ ܡܦܠܚܢ̈ܐ ܕܫܪܐ ܥܡ:"
+
+msgid  "activeusers-hidebots"
+msgstr  "ܛܫܝ ܒܘܬ̈ܐ (bots)"
+
+msgid  "activeusers-hidesysops"
+msgstr  "ܛܫܝ ܡܕܒܪ̈ܢܐ"
+
+msgid  "activeusers-noresult"
+msgstr  "ܠܐ ܡܦܠܚܢܐ ܐܫܬܟܚ."
+
+msgid  "newuserlogpage"
+msgstr  "ܣܓܠܐ ܕܒܪܝܬܐ ܕܡܦܠܚܢܐ"
+
+msgid  "newuserlog-byemail"
+msgstr  "ܡܠܬܐ ܕܥܠܠܐ ܐܫܬܕܪܬ ܒܝܕ ܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ"
+
+msgid  "newuserlog-create-entry"
+msgstr  "ܚܘܫܒܢܐ ܕܡܦܠܚܢܐ ܚܕܬܐ"
+
+msgid  "newuserlog-create2-entry"
+msgstr  "ܒܪܐ ܚܘܫܒܢܐ ܚܕܬܐ $1"
+
+msgid  "listgrouprights"
+msgstr  "ܙܕ̈ܩܐ ܕܟܢܘܫܬܐ ܕܡܦܠܚܢ̈ܐ"
+
+msgid  "listgrouprights-group"
+msgstr  "ܟܢܘܫܬܐ"
+
+msgid  "listgrouprights-rights"
+msgstr  "ܙܕ̈ܩܐ"
+
+msgid  "listgrouprights-helppage"
+msgstr  "Help:ܙܕ̈ܩܐ ܕܟܢܘܫܬܐ"
+
+msgid  "listgrouprights-members"
+msgstr  "(ܡܟܬܒܘܬܐ ܕܗܕ̈ܡܐ)"
+
+msgid  "listgrouprights-addgroup"
+msgstr  "ܐܘܣܦ {{PLURAL:$2|ܟܢܘܫܬܐ|ܟܢܘܫܬ̈ܐ}}: $1"
+
+msgid  "listgrouprights-removegroup"
+msgstr  "ܠܚܝ {{PLURAL:$2|ܟܢܘܫܬܐ|ܟܢܘܫܬ̈ܐ}}: $1"
+
+msgid  "listgrouprights-addgroup-all"
+msgstr  "ܐܘܣܦ ܟܠ ܟܢܘܫܬ̈ܐ"
+
+msgid  "listgrouprights-removegroup-all"
+msgstr  "ܠܚܝ ܟܠ ܟܢܘܫܬ̈ܐ"
+
+msgid  "listgrouprights-removegroup-self"
+msgstr  "ܠܚܝ {{PLURAL:$2|ܟܢܘܫܬܐ|ܟܢܘܫܬ̈ܐ}} ܡܢ ܚܘܫܒܢܗ ܕܝܠܢܝܐ: $1"
+
+msgid  "listgrouprights-removegroup-self-all"
+msgstr  "ܠܚܝ ܟܠ ܟܢܘܫܬ̈ܐ ܡܢ ܚܘܫܒܢܗ ܕܝܠܢܝܐ"
+
+msgid  "mailnologin"
+msgstr  "ܠܝܬ ܦܪܫܓܢܐ"
+
+msgid  "emailuser"
+msgstr  "ܫܕܪ ܐܓܪܬܐ ܠܗܢܐ ܡܦܠܚܢܐ"
+
+msgid  "emailpage"
+msgstr  "ܫܕܪ ܐܓܪܬܐ ܒܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ ܠܡܦܠܚܢܐ"
+
+msgid  "defemailsubject"
+msgstr  "ܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ  ܡܢ {{SITENAME}}"
+
+msgid  "noemailtitle"
+msgstr  "ܠܝܬ ܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ"
+
+msgid  "email-legend"
+msgstr  "ܫܕܪ ܐܓܪܬܐ ܠܡܦܠܚܢܐ ܕ {{SITENAME}} ܐܚܪܢܐ"
+
+msgid  "emailfrom"
+msgstr  "ܡܢ:"
+
+msgid  "emailto"
+msgstr  "ܠ:"
+
+msgid  "emailsubject"
+msgstr  "ܡܠܘܐܐ:"
+
+msgid  "emailmessage"
+msgstr  "ܐܓܪܬܐ:"
+
+msgid  "emailsend"
+msgstr  "ܫܕܪ"
+
+msgid  "emailccme"
+msgstr  "ܫܕܪ ܠܝ ܨܚܚܐ ܡܢ ܐܓܪ̈ܬܐ ܕܝܠܝ."
+
+msgid  "emailccsubject"
+msgstr  "ܨܚܚܐ ܕܐܓܪܬܟ ܠ $1: $2"
+
+msgid  "emailsent"
+msgstr  "ܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ ܐܫܬܕܪ"
+
+msgid  "usermessage-summary"
+msgstr  "ܫܒܩܐ ܐܓܪܬܐ ܕܛܟܣܐ"
+
+msgid  "usermessage-editor"
+msgstr  "ܡܫܕܪܢܐ ܕܛܟܣܐ"
+
+msgid  "watchlist"
+msgstr  "ܪ̈ܗܝܬܝ"
+
+msgid  "mywatchlist"
+msgstr  "ܪ̈ܗܝܬܝ"
+
+msgid  "watchlistfor2"
+msgstr  "ܠ $1 $2"
+
+msgid  "nowatchlist"
+msgstr  "ܠܝܬ ܠܟ ܡܕܡ ܒܪ̈ܗܝܬܐ ܕܝܠܟ"
+
+msgid  "watchnologin"
+msgstr  "ܠܝܬܝܟ ܥܠܝܠܐ"
+
+msgid  "addedwatch"
+msgstr  "ܐܘܣܦ ܠܪ̈ܗܝܬܐ"
+
+msgid  "removedwatch"
+msgstr  "ܠܚܝܬ ܡܢ ܪ̈ܗܝܬܟ"
+
+msgid  "removedwatchtext"
+msgstr  "ܦܐܬܐ \"[[:$1]]\" ܐܫܬܩܠܬ ܡܢ [[Special:Watchlist|ܪ̈ܗܝܬܟ]]."
+
+msgid  "watch"
+msgstr  "ܪܗܝ"
+
+msgid  "watchthispage"
+msgstr  "ܪܗܝ ܗܕܐ ܦܐܬܐ"
+
+msgid  "unwatch"
+msgstr  "ܠܐ ܪܗܝ"
+
+msgid  "unwatchthispage"
+msgstr  "ܟܠܝ ܪܗܝܐ"
+
+msgid  "wlshowlast"
+msgstr  "ܚܘܝ $1 ܫܥܬ̈ܐ $2 ܝܘܡܬ̈ܐ ܐܚܪ̈ܝܐ $3"
+
+msgid  "watchlist-options"
+msgstr  "ܓܒܝܬ̈ܐ ܕܪ̈ܗܝܬܐ"
+
+msgid  "watching"
+msgstr  "ܪܗܝܐ..."
+
+msgid  "unwatching"
+msgstr  "ܠܐ ܪܗܝܐ..."
+
+msgid  "enotif_newpagetext"
+msgstr  "ܗܕܐ ܗܝ ܦܐܬܐ ܚܕܬܐ"
+
+msgid  "enotif_impersonal_salutation"
+msgstr  "ܡܦܠܚܢܐ {{SITENAME}}"
+
+msgid  "changed"
+msgstr  "ܐܫܬܚܠܦܬ"
+
+msgid  "created"
+msgstr  "ܒܪܐ"
+
+msgid  "enotif_lastvisited"
+msgstr  "ܚܙܝ $1 ܠܟܠ ܫܘܚܠܦ̈ܐ ܡܢ ܐܡܬܝ ܕܣܘܥܪܢܐ ܐܚܪܝܐ ܕܝܠܟ."
+
+msgid  "enotif_lastdiff"
+msgstr  "ܚܙܝ $1 ܠܚܙܝܐ ܕܫܘܚܠܦܐ ܗܢܐ."
+
+msgid  "enotif_anon_editor"
+msgstr  "ܡܦܠܚܢܐ ܠܐ ܝܕܝܥܐ $1"
+
+msgid  "deletepage"
+msgstr  "ܫܘܦ ܦܐܬܐ"
+
+msgid  "confirm"
+msgstr  "ܚܬܬ"
+
+msgid  "excontent"
+msgstr  "ܚܒܝܫܬ̈ܐ ܗܘܬ: '$1'"
+
+msgid  "excontentauthor"
+msgstr  "ܚܒܝܫܬ̈ܐ ܗܘܬ: '$1' (ܘܫܘܬܦܢܐ ܝܚܝܕܝܐ ܗܘܐ '[[Special:Contributions/$2|$2]]')"
+
+msgid  "exblank"
+msgstr  "ܦܐܬܐ ܣܦܝܩܬܐ ܗܘܐ"
+
+msgid  "delete-confirm"
+msgstr  "ܫܘܦ \"$1\""
+
+msgid  "delete-legend"
+msgstr  "ܫܘܦ"
+
+msgid  "actioncomplete"
+msgstr  "ܥܡܠܝܬܐ ܓܡܪܬ"
+
+msgid  "actionfailed"
+msgstr  "ܥܡܠܝܬܐ ܠܐ ܢܨܚܬ"
+
+msgid  "deletedarticle"
+msgstr  "ܫܦ \"[[$1]]\""
+
+msgid  "dellogpage"
+msgstr  "ܣܓܠܐ ܕܫܝܦܐ"
+
+msgid  "deletionlog"
+msgstr  "ܣܓܠܐ ܕܫܝܦܐ"
+
+msgid  "deletecomment"
+msgstr  "ܥܠܬܐ:"
+
+msgid  "deleteotherreason"
+msgstr  "ܥܠܬܐ ܐܚܪܬܐ/ܝܬܝܪܬܐ:"
+
+msgid  "deletereasonotherlist"
+msgstr  "ܥܠܬܐ ܐܚܪܬܐ"
+
+msgid  "delete-edit-reasonlist"
+msgstr  "ܫܚܠܦ ܥܠܠܬ̈ܐ ܕܫܝܦܐ"
+
+msgid  "rollbacklink"
+msgstr  "ܐܦܢܝ"
+
+msgid  "editcomment"
+msgstr  "ܦܣܝܩܬ̈ܐ ܕܫܘܚܠܦܐ ܗܘܐ: \"''$1''\"."
+
+msgid  "sessionfailure-title"
+msgstr  "ܡܘܬܒܐ ܠܐ ܢܨܚܬ"
+
+msgid  "protectlogpage"
+msgstr  "ܣܓܠܐ ܕܢܛܪܐ"
+
+msgid  "protectedarticle"
+msgstr  "ܢܛܝܪܐ \"[[$1]]\""
+
+msgid  "unprotectedarticle"
+msgstr  "ܠܐ ܢܛܝܪܐ \"[[$1]]\""
+
+msgid  "movedarticleprotection"
+msgstr  "ܫܢܐ ܛܘܝܒ̈ܐ ܕܢܛܪܐ ܡܢ \"[[$2]]\" ܠ \"[[$1]]\""
+
+msgid  "prot_1movedto2"
+msgstr  "[[$1]] ܐܬܫܢܝܬ ܠ [[$2]]"
+
+msgid  "protect-legend"
+msgstr  "ܚܬܬ ܢܘܛܪܐ"
+
+msgid  "protectcomment"
+msgstr  "ܥܠܬܐ:"
+
+msgid  "protect-default"
+msgstr  "ܦܣܣܐ ܠܟܠ ܡܦܠܚܢ̈ܐ"
+
+msgid  "protect-fallback"
+msgstr  "ܒܥܝ \"$1\" ܦܣܣܐ"
+
+msgid  "protect-level-autoconfirmed"
+msgstr  "ܚܪܘܡ ܡܦܠܚܢ̈ܐ ܚܕ̈ܬܐ ܘܠܐ ܥܠܝܠ̈ܐ"
+
+msgid  "protect-level-sysop"
+msgstr  "ܡܕܒܪ̈ܢܐ ܒܠܚܘܕ"
+
+msgid  "protect-expiry-indefinite"
+msgstr  "ܕܠܐ ܣܟ"
+
+msgid  "protect-othertime"
+msgstr  "ܥܕܢܐ ܐܚܪܬܐ:"
+
+msgid  "protect-othertime-op"
+msgstr  "ܥܕܢܐ ܐܚܪܬܐ"
+
+msgid  "protect-otherreason"
+msgstr  "ܥܠܬܐ ܐܚܪܬܐ/ܢܩܝܦܬܐ:"
+
+msgid  "protect-otherreason-op"
+msgstr  "ܥܠܬܐ ܐܚܪܬܐ"
+
+msgid  "protect-edit-reasonlist"
+msgstr  "ܫܚܠܦ ܥܠܬܐ ܕܢܛܪܐ"
+
+msgid  "protect-expiry-options"
+msgstr  "1 ܫܥܬܐ:1 hour,1 ܝܘܡܐ:1 day,1 ܫܒܘܥܐ:1 week,2 ܫܒܘܥ̈ܐ:2 weeks,1 ܝܪܚܐ:1 month,3 ܝܪ̈ܚܐ:3 months,6 ܝܪ̈ܚܐ:6 months,1 ܫܢܬܐ:1 year,ܕܠܐ ܣܟ:infinite"
+
+msgid  "restriction-type"
+msgstr  "ܦܣܣܐ:"
+
+msgid  "minimum-size"
+msgstr  "ܡܬܚܐ ܬܚܬܝܐ  ܕܥܓܪܐ"
+
+msgid  "maximum-size"
+msgstr  "ܡܬܚܐ ܥܠܝܐ ܕܥܓܪܐ"
+
+msgid  "pagesize"
+msgstr  "(ܒܐܝܛ)"
+
+msgid  "restriction-edit"
+msgstr  "ܫܚܠܦ"
+
+msgid  "restriction-move"
+msgstr  "ܫܢܝ"
+
+msgid  "restriction-create"
+msgstr  "ܒܪܝ"
+
+msgid  "restriction-upload"
+msgstr  "ܐܣܩ"
+
+msgid  "restriction-level-sysop"
+msgstr  "ܢܛܝܪܘܬܐ ܓܡܝܪܬܐ"
+
+msgid  "restriction-level-autoconfirmed"
+msgstr  "ܕܡܘܬ ܢܛܝܪܘܬܐ"
+
+msgid  "restriction-level-all"
+msgstr  "ܐܝܢܐ ܫܘܝܐ"
+
+msgid  "undelete"
+msgstr  "ܚܙܝ ܦܐܬܬ̈ܐ ܫܝܦܬ̈ܐ"
+
+msgid  "undeletepage"
+msgstr  "ܚܙܝ ܘܐܦܢܝ ܕ̈ܦܐ ܫܝܦ̈ܐ"
+
+msgid  "viewdeletedpage"
+msgstr  "ܚܙܝ ܦܐܬܬ̈ܐ ܫܝܦܬ̈ܐ"
+
+msgid  "undelete-fieldset-title"
+msgstr  "ܐܦܢܝ ܬܢܝܬ̈ܐ"
+
+msgid  "undelete-revision"
+msgstr  "ܫܦ ܬܢܝܬܐ ܕ $1 (ܒܣܝܩܘܡ $4, ܒ $5) ܒܝܕ $3:"
+
+msgid  "undelete-nodiff"
+msgstr  "ܠܝܬ ܬܢܝܬܐ ܥܬܝܩܬܐ."
+
+msgid  "undeletebtn"
+msgstr  "ܐܦܢܝ"
+
+msgid  "undeletelink"
+msgstr  "ܚܙܝ/ܐܦܢܝ"
+
+msgid  "undeleteviewlink"
+msgstr  "ܚܙܝ"
+
+msgid  "undeleteinvert"
+msgstr  "ܐܗܦܟ ܠܓܘܒܝܐ"
+
+msgid  "undeletecomment"
+msgstr  "ܥܠܬܐ:"
+
+msgid  "undeletedrevisions"
+msgstr  "{{PLURAL:$1|1 ܬܢܝܬܐ|$1 ܬܢܝܬ̈ܐ}} ܐܦܢܝܬ"
+
+msgid  "undeletedrevisions-files"
+msgstr  "{{PLURAL:$1|1 ܬܢܝܬܐ|$1 ܬܢܝܬ̈ܐ}} and {{PLURAL:$2|1 ܠܦܦܐ|$2 ܠܦܦܐ}} ܐܦܢܝܬ"
+
+msgid  "undeletedfiles"
+msgstr  "{{PLURAL:$1|1 ܠܦܦܐ|$1 ܠܦܦ̈ܐ}} ܐܦܢܝܬ"
+
+msgid  "undelete-header"
+msgstr  "ܚܙܝ [[Special:Log/delete|ܣܓܠܐ ܕܫܝܦܐ]] ܠܚܙܝܐ ܕܦܐܬܬ̈ܐ ܫܝܦܬ̈ܐ ܚܕ̈ܬܬܐ."
+
+msgid  "undelete-search-box"
+msgstr  "ܒܨܝ ܦܐܬܬ̈ܐ ܫܝܦܬ̈ܐ"
+
+msgid  "undelete-search-prefix"
+msgstr  "ܚܘܝ ܦܐܬܬ̈ܐ ܫܪܝܢ ܒ:"
+
+msgid  "undelete-search-submit"
+msgstr  "ܒܨܝ"
+
+msgid  "undelete-error-short"
+msgstr  "ܦܘܕܐ ܒܦܢܝܐ ܕܠܦܦܐ: $1"
+
+msgid  "undelete-show-file-submit"
+msgstr  "ܐܝܢ"
+
+msgid  "namespace"
+msgstr  "ܚܩܠܐ:"
+
+msgid  "invert"
+msgstr  "ܐܗܦܟ ܠܓܘܒܝܐ"
+
+msgid  "blanknamespace"
+msgstr  "(ܪܫܝܬܐ)"
+
+msgid  "contributions"
+msgstr  "ܫܘܬܦܘܝܬ̈ܐ ܕܡܦܠܚܢܐ"
+
+msgid  "contributions-title"
+msgstr  "ܫܘܬܦܘܝܬ̈ܐ ܕܡܦܠܚܢܐ ܠ$1"
+
+msgid  "mycontris"
+msgstr  "ܫܘܬܦܘܝܬ̈ܝ"
+
+msgid  "contribsub2"
+msgstr  "ܕ $1 ($2)"
+
+msgid  "uctop"
+msgstr  "(ܥܠܝܐ)"
+
+msgid  "month"
+msgstr  "ܡܢ ܝܪܚܐ ܕ (ܘܡܢ ܩܕܡ ܗܝܕܝܢ):"
+
+msgid  "year"
+msgstr  "ܡܢ ܫܢܬ (ܘܡܢ ܩܕܡ ܗܝܕܝܢ):"
+
+msgid  "sp-contributions-newbies"
+msgstr  "ܚܘܝ ܫܘܬܦܘܝܬ̈ܐ ܕ ܚܘܫܒܢ̈ܐ ܚܕ̈ܬܐ ܒܠܚܘܕ"
+
+msgid  "sp-contributions-newbies-sub"
+msgstr  "ܠܚܘܫܒܢ̈ܐ ܚܕ̈ܬܐ"
+
+msgid  "sp-contributions-newbies-title"
+msgstr  "ܫܘܬܦܘܝܬ̈ܐ ܕܡܦܠܚܢܐ ܠܚܘܫܒܢ̈ܐ ܚܕ̈ܬܐ"
+
+msgid  "sp-contributions-blocklog"
+msgstr  "ܣܓܠܐ ܕܚܪܡܐ"
+
+msgid  "sp-contributions-deleted"
+msgstr  "ܫܘܬܦܘܝܬ̈ܐ ܕܡܦܠܚܢܐ ܫܝܦܬ̈ܐ"
+
+msgid  "sp-contributions-logs"
+msgstr  "ܣܓܠ̈ܐ"
+
+msgid  "sp-contributions-talk"
+msgstr  "ܡܡܠܠܐ"
+
+msgid  "sp-contributions-userrights"
+msgstr  "ܕܘܒܪܐ ܕܙܕ̈ܩܐ ܕܡܦܠܚܢܐ"
+
+msgid  "sp-contributions-search"
+msgstr  "ܒܨܝ ܫܘܬܦܘܝܬ̈ܐ"
+
+msgid  "sp-contributions-username"
+msgstr  "ܐܝ ܦܝ (IP) ܐܘ ܫܡܐ ܕܡܦܠܚܢܐ:"
+
+msgid  "sp-contributions-submit"
+msgstr  "ܒܨܝ"
+
+msgid  "whatlinkshere"
+msgstr  "ܡܐ ܐܣܪ ܠܗܪܟܐ"
+
+msgid  "whatlinkshere-title"
+msgstr  "ܦܐܬܬ̈ܐ ܕܐܣܝܪܝܢ ܥܡ \"$1\""
+
+msgid  "whatlinkshere-page"
+msgstr  "ܦܐܬܐ:"
+
+msgid  "linkshere"
+msgstr  "ܦܐܬܬ̈ܐ ܗܠܝܢ ܐܣܝܪܝܢ ܥܡ '''[[:$1]]''':"
+
+msgid  "nolinkshere"
+msgstr  "ܠܝܬ ܦܐܬܬ̈ܐ ܐܣܪܝܢ ܥܡ '''[[:$1]]'''."
+
+msgid  "nolinkshere-ns"
+msgstr  "ܠܝܬ ܦܐܬܬ̈ܐ ܐܣܪܝܢ ܥܡ '''[[:$1]]''' ܒܚܩܠܐ ܓܒܝܐ."
+
+msgid  "isredirect"
+msgstr  "ܦܐܬܐ ܕܨܘܝܒܐ"
+
+msgid  "istemplate"
+msgstr  "ܚܒܝܫܬܐ"
+
+msgid  "isimage"
+msgstr  "ܐܣܘܪܐ ܕܨܘܪܬܐ"
+
+msgid  "whatlinkshere-prev"
+msgstr  "{{PLURAL:$1|ܩܕܝܡܐ|$1 ܩܕ̈ܝܡܐ}}"
+
+msgid  "whatlinkshere-next"
+msgstr  "{{PLURAL:$1|ܚܕܬܐ|$1 ܚܕ̈ܬܐ}}"
+
+msgid  "whatlinkshere-links"
+msgstr  "← ܐܣܘܪ̈ܐ"
+
+msgid  "whatlinkshere-hideredirs"
+msgstr  "$1 ܨܘܝܒ̈ܐ"
+
+msgid  "whatlinkshere-hidelinks"
+msgstr  "$1 ܐܣܘܪ̈ܐ"
+
+msgid  "whatlinkshere-hideimages"
+msgstr  "$1 ܐܣܘܪܐ ܕܨܘܪܬܐ"
+
+msgid  "whatlinkshere-filters"
+msgstr  "ܡܨܦܝܢܝܬ̈ܐ"
+
+msgid  "blockip"
+msgstr  "ܚܪܘܡ ܡܦܠܚܢܐ"
+
+msgid  "blockip-title"
+msgstr  "ܚܪܘܡ ܡܦܠܚܢܐ"
+
+msgid  "blockip-legend"
+msgstr  "ܚܪܘܡ ܡܦܠܚܢܐ"
+
+msgid  "ipaddress"
+msgstr  "ܐܝ ܦܝ (IP):"
+
+msgid  "ipadressorusername"
+msgstr  "ܐܝ ܦܝ (IP) ܐܘ ܫܡܐ ܕܡܦܠܚܢܐ:"
+
+msgid  "ipbreason"
+msgstr  "ܥܠܬܐ:"
+
+msgid  "ipbreasonotherlist"
+msgstr  "ܥܠܬܐ ܐܚܪܬܐ"
+
+msgid  "ipbanononly"
+msgstr  "ܚܪܘܡ ܡܦܠܚܢ̈ܐ ܠܐ ܝܕ̈ܝܥܐ ܒܠܚܘܕ"
+
+msgid  "ipbsubmit"
+msgstr  "ܚܪܘܡ ܡܦܠܚܢܐ ܗܢܐ"
+
+msgid  "ipbother"
+msgstr  "ܥܕܢܐ ܐܚܪܬܐ"
+
+msgid  "ipboptions"
+msgstr  "2 ܫܥܬ̈ܐ:2 hours,1 ܝܘܡܐ:1 day,3 ܝܘܡܬ̈ܐ:3 days,1 ܫܒܘܥܐ:1 week,2 ܫܒܘܥ̈ܐ:2 weeks,1 ܝܪܚܐ:1 month,3 ܝܪ̈ܚܐ:3 months,6 ܝܪ̈ܚܐ:6 months,1 ܫܢܬܐ:1 year,ܕܠܐ ܣܟ:infinite"
+
+msgid  "ipbotheroption"
+msgstr  "ܐܚܪܢܐ"
+
+msgid  "ipbotherreason"
+msgstr  "ܥܠܬܐ ܐܚܪܬܐ/ܢܩܝܦܬܐ:"
+
+msgid  "ipbhidename"
+msgstr  "ܛܫܝ ܫܡܐ ܕܡܦܠܚܢܐ ܡܢ ܫܘܚܠܦ̈ܐ ܘܡܟܬܒܘܬ̈ܐ"
+
+msgid  "badipaddress"
+msgstr  "ܐܝ ܦܝ (IP) ܠܐ ܬܪܝܨܐ:"
+
+msgid  "blockipsuccesssub"
+msgstr  "ܚܪܡܐ ܓܡܪ"
+
+msgid  "ipb-edit-dropdown"
+msgstr  "ܫܚܠܦ ܥܠܠܬ̈ܐ ܕܚܪܡܐ"
+
+msgid  "ipb-unblock-addr"
+msgstr  "ܫܩܘܠ ܚܪܡܐ ܡܢ $1"
+
+msgid  "ipb-unblock"
+msgstr  "ܫܩܘܠ ܚܪܡܐ ܡܢ ܐܝ ܦܝ (IP) ܐܘ ܫܡܐ ܕܡܦܠܚܢܐ"
+
+msgid  "ipb-blocklist-contribs"
+msgstr  "ܫܘܬܦܘܝܬ̈ܐ ܕ $1"
+
+msgid  "unblockip"
+msgstr  "ܫܩܘܠ ܚܪܡܐ ܡܢ ܡܦܠܚܢܐ"
+
+msgid  "ipusubmit"
+msgstr  "ܫܩܘܠ ܚܪܡܐ ܗܢܐ"
+
+msgid  "unblocked"
+msgstr  "ܐܫܬܩܠ ܚܪܡܐ ܡܢ [[User:$1|$1]]"
+
+msgid  "ipblocklist"
+msgstr  "ܡܦܠܚܢ̈ܐ ܡܚܪ̈ܡܐ"
+
+msgid  "ipblocklist-legend"
+msgstr  "ܐܫܟܚ ܡܦܠܚܢܐ ܡܚܪܡܐ"
+
+msgid  "ipblocklist-username"
+msgstr  "ܐܝ ܦܝ (IP) ܐܘ ܫܡܐ ܕܡܦܠܚܢܐ:"
+
+msgid  "ipblocklist-sh-userblocks"
+msgstr  "$1 ܚܪ̈ܡܐ ܕܚܘܫܒܢܐ"
+
+msgid  "ipblocklist-sh-tempblocks"
+msgstr  "$1 ܚܪ̈ܡܐ ܙܒܢܢܝ̈ܐ"
+
+msgid  "ipblocklist-submit"
+msgstr  "ܒܨܝ"
+
+msgid  "ipblocklist-localblock"
+msgstr  "ܚܪܡܐ ܕܘܟܬܢܝܐ"
+
+msgid  "blocklistline"
+msgstr  "$1, $2 ܚܪܡ $3 ($4)"
+
+msgid  "infiniteblock"
+msgstr  "ܕܠܐ ܣܟ"
+
+msgid  "anononlyblock"
+msgstr  "ܠܐ ܝܕ̈ܝܥܐ ܒܠܚܘܕ"
+
+msgid  "ipblocklist-empty"
+msgstr  "ܣܓܠܐ ܕܚܪܡܐ ܣܦܝܩܐ."
+
+msgid  "blocklink"
+msgstr  "ܚܪܘܡ"
+
+msgid  "unblocklink"
+msgstr  "ܫܩܘܠ ܚܪܡܐ"
+
+msgid  "change-blocklink"
+msgstr  "ܫܚܠܦ ܚܪܡܐ"
+
+msgid  "contribslink"
+msgstr  "ܫܘܬܦܘܝܬ̈ܐ"
+
+msgid  "blocklogpage"
+msgstr  "ܣܓܠܐ ܕܚܪܡܐ"
+
+msgid  "blocklogentry"
+msgstr  "ܚܪܡ [[$1]] ܠܡܬܚܐ ܕ $2 $3"
+
+msgid  "unblocklogentry"
+msgstr  "ܫܩܠ ܚܪܡܐ ܡܢ $1"
+
+msgid  "block-log-flags-anononly"
+msgstr  "ܡܦܠܚܢ̈ܐ ܠܐ ܝܕ̈ܝܥܐ ܒܠܚܘܕ"
+
+msgid  "block-log-flags-hiddenname"
+msgstr  "ܫܡܐ ܕܡܦܠܚܢܐ ܛܘܫܝܐ"
+
+msgid  "ipb_already_blocked"
+msgstr  "\"$1\" ܡܚܪܡܐ ܗܘ ܡܢ ܟܕܘ"
+
+msgid  "ipb-needreblock"
+msgstr  "==ܡܚܪܡܐ ܡܢ ܟܕܘ==\n\"$1\" ܡܚܪܡܐ ܗܘ ܡܢ ܟܕܘ\nDo you want to change the settings?"
+
+msgid  "blockme"
+msgstr  "ܚܪܘܡ ܠܝ"
+
+msgid  "proxyblocksuccess"
+msgstr  "ܒܪܐ"
+
+msgid  "move-page"
+msgstr  "ܫܢܝ $1"
+
+msgid  "move-page-legend"
+msgstr  "ܫܢܝ ܦܐܬܐ"
+
+msgid  "movearticle"
+msgstr  "ܫܢܝ ܦܐܬܐ:"
+
+msgid  "movenologin"
+msgstr  "ܠܝܬܝܟ ܥܠܝܠܐ"
+
+msgid  "newtitle"
+msgstr  "ܠܫܡܐ ܚܕܬܐ:"
+
+msgid  "move-watch"
+msgstr  "ܪܗܝ ܦܐܬܐ ܗܕܐ"
+
+msgid  "movepagebtn"
+msgstr  "ܫܢܝ ܦܐܬܐ"
+
+msgid  "pagemovedsub"
+msgstr  "ܫܘܢܝܐ ܓܡܪ"
+
+msgid  "movepage-moved"
+msgstr  "'''\"$1\" ܐܫܬܢܝܬ ܠ \"$2\"'''"
+
+msgid  "movepage-moved-redirect"
+msgstr  "ܨܘܝܒܐ ܐܬܒܪܝ"
+
+msgid  "movedto"
+msgstr  "ܐܬܫܢܝ ܠ"
+
+msgid  "move-subpages"
+msgstr  "ܫܢܝ ܕ̈ܦܐ ܦܪ̈ܥܝܐ (ܥܕܡܐ ܠ $1)"
+
+msgid  "move-talk-subpages"
+msgstr  "ܫܢܝ ܕ̈ܦܐ ܦܪ̈ܥܝܐ ܕܕܦܐ ܕܕܘܪܫܐ (ܥܕܡܐ ܠ $1)"
+
+msgid  "1movedto2"
+msgstr  "ܫܢܐ [[$1]] ܠ [[$2]]"
+
+msgid  "1movedto2_redir"
+msgstr  "ܫܢܐ [[$1]] ܠ [[$2]] ܥܠ ܪܫ ܨܘܝܒܐ"
+
+msgid  "movelogpage"
+msgstr  "ܣܓܠܐ ܕܫܘܢܝܐ"
+
+msgid  "movereason"
+msgstr  "ܥܠܬܐ:"
+
+msgid  "revertmove"
+msgstr  "ܐܦܢܝ"
+
+msgid  "delete_and_move"
+msgstr  "ܫܘܦ ܘܫܢܝ"
+
+msgid  "delete_and_move_confirm"
+msgstr  "ܐܝܢ, ܫܘܦ ܦܐܬܐ"
+
+msgid  "move-leave-redirect"
+msgstr  "ܫܒܘܩ ܨܘܝܒܐ ܒܬܪܟ"
+
+msgid  "export"
+msgstr  "ܐܦܩ ܦܐܬܬ̈ܐ"
+
+msgid  "export-submit"
+msgstr  "ܐܦܩ"
+
+msgid  "export-addcattext"
+msgstr  "ܐܘܣܦ ܦܐܬܬ̈ܐ ܡܢ ܣܕܪܐ:"
+
+msgid  "export-addcat"
+msgstr  "ܐܘܣܦ"
+
+msgid  "export-addnstext"
+msgstr  "ܐܘܣܦ ܦܐܬܬ̈ܐ ܡܢ ܚܩܠܐ:"
+
+msgid  "export-addns"
+msgstr  "ܐܘܣܦ"
+
+msgid  "export-download"
+msgstr  "ܠܒܘܟ ܐܝܟ ܠܦܦܐ"
+
+msgid  "allmessages"
+msgstr  "ܐܓܪ̈ܬܐ ܕܛܟܣܐ"
+
+msgid  "allmessagesname"
+msgstr  "ܫܡܐ"
+
+msgid  "allmessages-filter-legend"
+msgstr  "ܡܨܦܝܢܝܬܐ"
+
+msgid  "allmessages-filter-all"
+msgstr  "ܟܠ"
+
+msgid  "allmessages-prefix"
+msgstr  "ܡܨܦܝܢܝܬܐ ܐܝܟ ܫܘܪܝܐ"
+
+msgid  "allmessages-language"
+msgstr  "ܠܫܢܐ:"
+
+msgid  "allmessages-filter-submit"
+msgstr  "ܙܠ"
+
+msgid  "thumbnail-more"
+msgstr  "ܐܘܪܒ"
+
+msgid  "thumbnail_error"
+msgstr  "ܦܘܕܐ ܒܒܪܝܐ ܕܨܘܪܬܐ ܙܥܘܪܬܐ: $1"
+
+msgid  "import"
+msgstr  "ܐܥܠ ܦܐܬܬ̈ܐ"
+
+msgid  "import-interwiki-submit"
+msgstr  "ܐܥܠ"
+
+msgid  "import-upload-filename"
+msgstr  "ܫܡܐ ܕܠܦܦܐ:"
+
+msgid  "import-revision-count"
+msgstr  "$1 {{PLURAL:$1|ܬܢܝܬܐ |ܬܢܝܬ̈ܐ}}"
+
+msgid  "importnopages"
+msgstr  "ܠܝܬ ܦܐܬܬ̈ܐ ܠܡܥܠܢܘܬܐ."
+
+msgid  "importnotext"
+msgstr  "ܣܦܝܩܐ ܐܘ ܠܝܬ ܒܗ ܟܬܒܬܐ"
+
+msgid  "importsuccess"
+msgstr  "ܡܥܠܢܘܬܐ ܓܡܪܬ"
+
+msgid  "import-noarticle"
+msgstr  "ܠܝܬ ܦܐܬܬ̈ܐ ܠܡܥܠܢܘܬܐ!"
+
+msgid  "import-upload"
+msgstr  "ܐܣܩ ܓܠܝܬ̈ܐ  ܕ XML"
+
+msgid  "importlogpage"
+msgstr  "ܣܓܠܐ ܕܡܥܠܢܘܬܐ"
+
+msgid  "import-logentry-upload-detail"
+msgstr  "$1 {{PLURAL:$1|ܬܢܝܬܐ |ܬܢܝܬ̈ܐ}}"
+
+msgid  "import-logentry-interwiki-detail"
+msgstr  "$1 {{PLURAL:$1|ܬܢܝܬܐ |ܬܢܝܬ̈ܐ}} ܡܢ $2"
+
+msgid  "anonymous"
+msgstr  "{{PLURAL:$1|ܡܦܠܚܢܐ ܠܐ ܝܕܝܥܐ|ܡܦܠܚܢ̈ܐ ܠܐ ܝܕ̈ܝܥܐ}} ܕ {{SITENAME}}"
+
+msgid  "siteuser"
+msgstr  "{{SITENAME}} ܡܦܠܚܢܐ $1"
+
+msgid  "others"
+msgstr  "ܐܚܪ̈ܢܐ"
+
+msgid  "siteusers"
+msgstr  "{{SITENAME}} {{PLURAL:$2|ܡܦܠܚܢܐ|ܡܦܠܚܢ̈ܐ}} $1"
+
+msgid  "anonusers"
+msgstr  "{{SITENAME}} {{PLURAL:$2|ܡܦܠܚܢܐ ܠܐ ܝܕܝܥܐ|ܡܦܠܚܢ̈ܐ ܠܐ ܝܕ̈ܝܥܐ}} $1"
+
+msgid  "creditspage"
+msgstr  "ܙܕ̈ܩܐ ܕܦܐܬܐ"
+
+msgid  "infosubtitle"
+msgstr  "ܝܕ̈ܥܬܐ ܕܦܐܬܐ"
+
+msgid  "numedits"
+msgstr  "ܡܢܝܢܐ ܕܫܘܚܠܦ̈ܐ (ܦܐܬܐ): $1"
+
+msgid  "numtalkedits"
+msgstr  "ܡܢܝܢܐ ܕܫܘܚܠܦ̈ܐ (ܦܐܬܐ  ܕܕܘܪܫܐ): $1"
+
+msgid  "numwatchers"
+msgstr  "ܡܢܝܢܐ ܕܪ̈ܗܝܐ: $1"
+
+msgid  "numauthors"
+msgstr  "ܡܢܝܢܐ ܕܡܫܚܠܦܢ̈ܐ (ܦܐܬܐ): $1"
+
+msgid  "numtalkauthors"
+msgstr  "ܡܢܝܢܐ ܕܡܫܚܠܦܢ̈ܐ (ܦܐܬܐ ܕܕܘܪܫܐ): $1"
+
+msgid  "math_unknown_error"
+msgstr  "ܦܘܕܐ ܠܐ ܝܕܝܥܐ"
+
+msgid  "patrol-log-auto"
+msgstr  "(ܝܬܐܝܬ)"
+
+msgid  "patrol-log-diff"
+msgstr  "ܬܢܝܬܐ $1"
+
+msgid  "filedeleteerror-short"
+msgstr  "ܦܘܕܐ ܒܫܝܦܐ ܕܠܦܦܐ: $1"
+
+msgid  "filedeleteerror-long"
+msgstr  "ܦܘܕ̈ܐ ܐܫܟܚܬ ܟܕ ܫܝܦܐ ܠܦܦܐ:\n\n$1"
+
+msgid  "previousdiff"
+msgstr  "← ܫܘܚܠܦܐ ܥܬܝܩܐ"
+
+msgid  "nextdiff"
+msgstr  "ܫܘܚܠܦܐ ܚܕܬܐ →"
+
+msgid  "thumbsize"
+msgstr  "ܥܓܪܐ ܕܨܘܪܬܐ ܙܥܘܪܬܐ:"
+
+msgid  "file-info"
+msgstr  "ܥܓܪܐ ܕܠܦܦܐ: $1, MIME ܐܕܫܐ: $2"
+
+msgid  "file-nohires"
+msgstr  "<small>ܠܝܬ ܢܩܕܘܬܐ ܝܬܝܪ ܡܢ ܗܢܐ.</small>"
+
+msgid  "show-big-image"
+msgstr  "ܢܩܕܘܬܐ ܓܡܝܪܬܐ"
+
+msgid  "newimages"
+msgstr  "ܒܝܬ ܓܠܚܐ ܕܠܦܦ̈ܐ ܚܕܬ̈ܐ"
+
+msgid  "newimages-legend"
+msgstr  "ܡܨܦܝܢܝܬܐ"
+
+msgid  "newimages-label"
+msgstr  "ܫܡܐ ܕܠܦܦܐ (ܐܘ ܡܢܬܐ ܡܢܗ)"
+
+msgid  "showhidebots"
+msgstr  "($1 ܒܘܬ̈ܐ)"
+
+msgid  "noimages"
+msgstr  "ܠܝܬ ܡܕܡ ܠܚܙܝܐ."
+
+msgid  "ilsubmit"
+msgstr  "ܒܨܝ"
+
+msgid  "bydate"
+msgstr  "ܒܣܝܩܘܡܐ"
+
+msgid  "metadata"
+msgstr  "ܓܠܝܬ̈ܐ ܕܡܝܛܐ"
+
+msgid  "exif-imagewidth"
+msgstr  "ܦܬܘܐ"
+
+msgid  "exif-imagelength"
+msgstr  "ܐܘܪܟܐ"
+
+msgid  "exif-xresolution"
+msgstr  "ܢܩܕܘܬܐ ܐܘܦܩܝܬܐ"
+
+msgid  "exif-yresolution"
+msgstr  "ܢܩܕܘܬܐ ܥܡܘܕܝܬܐ"
+
+msgid  "exif-resolutionunit"
+msgstr  "ܚܕܝܘܬܐ ܕ X ܘ Y ܕܢܩܕܘܬܐ"
+
+msgid  "exif-imagedescription"
+msgstr  "ܟܘܢܝܐ ܕܨܘܪܬܐ"
+
+msgid  "exif-artist"
+msgstr  "ܣܝܘܡܐ"
+
+msgid  "exif-exposuretime-format"
+msgstr  "$1 ܪܦܦܐ ($2)"
+
+msgid  "exif-filesource"
+msgstr  "ܡܒܘܥܐ ܕܠܦܦܐ"
+
+msgid  "exif-gpsspeedref"
+msgstr  "ܚܕܝܘܬܐ ܕܩܠܘܠܘܬܐ"
+
+msgid  "exif-gpstrack"
+msgstr  "ܨܘܒܐ ܕܫܘܢܝܐ"
+
+msgid  "exif-gpsimgdirectionref"
+msgstr  "ܓܒܝܬܐ ܕܨܘܒܐ ܕܫܘܢܝܐ"
+
+msgid  "exif-gpsimgdirection"
+msgstr  "ܨܘܒܐ ܕܨܘܪܬܐ"
+
+msgid  "exif-unknowndate"
+msgstr  "ܣܝܩܘܡܐ ܠܐ ܝܕܝܥܐ"
+
+msgid  "exif-orientation-1"
+msgstr  "ܟܝܢܝܐ"
+
+msgid  "exif-exposureprogram-1"
+msgstr  "ܐܝܕܝܐ"
+
+msgid  "exif-exposureprogram-2"
+msgstr  "ܬܚܪܙܬܐ ܟܝܢܝܬܐ"
+
+msgid  "exif-meteringmode-0"
+msgstr  "ܠܐ ܝܕܝܥܐ"
+
+msgid  "exif-meteringmode-255"
+msgstr  "ܐܚܪܢܐ"
+
+msgid  "exif-lightsource-0"
+msgstr  "ܠܐ ܝܕܝܥܐ"
+
+msgid  "exif-lightsource-9"
+msgstr  "ܨܚܘܐ"
+
+msgid  "exif-lightsource-10"
+msgstr  "ܐܬܝܪܐ ܥܝܒܝܐ"
+
+msgid  "exif-lightsource-11"
+msgstr  "ܛܠܐ"
+
+msgid  "exif-focalplaneresolutionunit-2"
+msgstr  "ܐܝܢܟ̰"
+
+msgid  "exif-customrendered-0"
+msgstr  "ܥܡܠܝܬܐ ܟܝܢܝܬܐ"
+
+msgid  "exif-gaincontrol-0"
+msgstr  "ܠܐ ܡܕܡ"
+
+msgid  "exif-contrast-0"
+msgstr  "ܟܝܢܝܐ"
+
+msgid  "exif-contrast-1"
+msgstr  "ܪܟܝܟܐ"
+
+msgid  "exif-contrast-2"
+msgstr  "ܩܫܝܐ"
+
+msgid  "exif-saturation-0"
+msgstr  "ܟܝܢܝܐ"
+
+msgid  "exif-sharpness-0"
+msgstr  "ܟܝܢܝܐ"
+
+msgid  "exif-sharpness-1"
+msgstr  "ܪܟܝܟܐ"
+
+msgid  "exif-sharpness-2"
+msgstr  "ܩܫܝܐ"
+
+msgid  "exif-subjectdistancerange-0"
+msgstr  "ܠܐ ܝܕܝܥܐ"
+
+msgid  "exif-subjectdistancerange-2"
+msgstr  "ܚܝܪܐ ܩܪܝܒܐ"
+
+msgid  "exif-subjectdistancerange-3"
+msgstr  "ܚܝܪܐ ܪܚܘܩܐ"
+
+msgid  "exif-gpsspeed-k"
+msgstr  "ܟܝܠܘܡܬܪ ܒܫܥܬܐ"
+
+msgid  "exif-gpsspeed-m"
+msgstr  "ܡܝܠܐ ܒܫܥܬܐ"
+
+msgid  "exif-gpsspeed-n"
+msgstr  "ܩܛܪ̈ܐ"
+
+msgid  "exif-gpsdirection-t"
+msgstr  "ܨܘܒܐ ܬܪܝܨܐ"
+
+msgid  "exif-gpsdirection-m"
+msgstr  "ܨܘܒܐ ܡܓܢܛܝܣܝܐ"
+
+msgid  "recentchangesall"
+msgstr  "ܟܠ"
+
+msgid  "imagelistall"
+msgstr  "ܟܠ"
+
+msgid  "watchlistall2"
+msgstr  "ܟܠ"
+
+msgid  "namespacesall"
+msgstr  "ܟܠ"
+
+msgid  "monthsall"
+msgstr  "ܟܠ"
+
+msgid  "limitall"
+msgstr  "ܟܠ"
+
+msgid  "confirmemail"
+msgstr  "ܚܬܬ ܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ"
+
+msgid  "confirmemail_subject"
+msgstr  "ܚܘܬܬܐ ܕܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ ܡܢ {{SITENAME}}"
+
+msgid  "confirmemail_invalidated"
+msgstr  "ܚܘܬܬܐ ܕܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ ܒܛܠ"
+
+msgid  "invalidateemail"
+msgstr  "ܒܛܘܠ ܚܘܬܬܐ ܕܒܝܠܕܪܐ ܐܠܩܛܪܘܢܝܐ"
+
+msgid  "trackbackremove"
+msgstr  "([$1 ܫܘܦ])"
+
+msgid  "recreate"
+msgstr  "ܒܪܝ ܙܒܢܬܐ ܐܚܪܬܐ"
+
+msgid  "confirm_purge_button"
+msgstr  "ܛܒ"
+
+msgid  "imgmultipageprev"
+msgstr  "← ܫܘܚܠܦܐ ܩܕܝܡܐ"
+
+msgid  "imgmultipagenext"
+msgstr  "← ܫܘܚܠܦܐ ܚܕܬܐ"
+
+msgid  "imgmultigo"
+msgstr  "ܙܠ!"
+
+msgid  "imgmultigoto"
+msgstr  "ܙܠ ܠܦܐܬܐ $1"
+
+msgid  "ascending_abbrev"
+msgstr  "ܡܣܩܐܝܬ"
+
+msgid  "descending_abbrev"
+msgstr  "ܡܚܬܐܝܬ"
+
+msgid  "table_pager_next"
+msgstr  "ܦܐܬܐ ܐܚܪܬܐ"
+
+msgid  "table_pager_prev"
+msgstr  "ܦܐܬܐ ܩܕܝܡܬܐ"
+
+msgid  "table_pager_first"
+msgstr  "ܦܐܬܐ ܩܕܡܝܬܐ"
+
+msgid  "table_pager_last"
+msgstr  "ܦܐܬܐ ܐܚܪܝܬܐ"
+
+msgid  "table_pager_limit_label"
+msgstr  "ܡܕܡ ܠܟܠ ܕܦܐ:"
+
+msgid  "table_pager_limit_submit"
+msgstr  "ܙܠ"
+
+msgid  "table_pager_empty"
+msgstr  "ܠܝܬ ܦܠܛ̈ܐ"
+
+msgid  "autosumm-blank"
+msgstr  "ܐܣܦܩ ܦܐܬܐ"
+
+msgid  "autoredircomment"
+msgstr  "ܦܐܬܐ ܨܝܒܬ ܠ [[$1]]"
+
+msgid  "autosumm-new"
+msgstr  "ܒܪܐ ܦܐܬܐ ܥܡ '$1'"
+
+msgid  "watchlistedit-normal-title"
+msgstr  "ܫܚܠܦ ܪ̈ܗܝܬܐ"
+
+msgid  "watchlistedit-normal-legend"
+msgstr  "ܠܚܝ ܟܘܢܝ̈ܐ ܡܢ ܪ̈ܗܝܬܟ"
+
+msgid  "watchlistedit-normal-submit"
+msgstr  "ܠܚܝ ܟܘܢܝܐ"
+
+msgid  "watchlistedit-raw-titles"
+msgstr  "ܟܘܢܝ̈ܐ:"
+
+msgid  "watchlistedit-raw-submit"
+msgstr  "ܚܕܬ ܪ̈ܗܝܬܐ"
+
+msgid  "watchlisttools-view"
+msgstr  "ܚܘܝ ܫܘܚܠܦ̈ܐ ܕ̈ܡܝܐ"
+
+msgid  "watchlisttools-edit"
+msgstr  "ܚܙܝ ܘܫܚܠܦ ܪ̈ܗܝܬܐ"
+
+msgid  "version"
+msgstr  "ܨܚܚܐ"
+
+msgid  "version-specialpages"
+msgstr  "ܦܐܬܬ̈ܐ ܕ̈ܝܠܢܝܬܐ"
+
+msgid  "version-other"
+msgstr  "ܐܚܪܢܐ"
+
+msgid  "version-version"
+msgstr  "(ܨܚܚܐ $1)"
+
+msgid  "version-poweredby-others"
+msgstr  "ܐܚܪ̈ܢܐ"
+
+msgid  "version-software-version"
+msgstr  "ܨܚܚܐ"
+
+msgid  "filepath"
+msgstr  "ܫܒܝܠܐ ܕܠܦܦܐ"
+
+msgid  "filepath-page"
+msgstr  "ܠܦܦܐ"
+
+msgid  "filepath-submit"
+msgstr  "ܙܠ"
+
+msgid  "fileduplicatesearch"
+msgstr  "ܒܨܝ ܥܠ ܠܦܦ̈ܐ ܥܦܝܦ̈ܐ"
+
+msgid  "fileduplicatesearch-legend"
+msgstr  "ܒܨܝܐ ܥܠ ܥܘܦܦܐ"
+
+msgid  "fileduplicatesearch-filename"
+msgstr  "ܫܡܐ ܕܠܦܦܐ:"
+
+msgid  "fileduplicatesearch-submit"
+msgstr  "ܒܨܝ"
+
+msgid  "specialpages"
+msgstr  "ܦܐܬܬ̈ܐ ܕ̈ܝܠܢܝܬܐ"
+
+msgid  "specialpages-group-other"
+msgstr  "ܦܐܬܬ̈ܐ ܕ̈ܝܠܢܝܬܐ ܐܚܪ̈ܢܝܬܐ"
+
+msgid  "specialpages-group-login"
+msgstr  "ܥܘܠ / ܒܪܝ"
+
+msgid  "specialpages-group-changes"
+msgstr  "ܫܘܚܠܦ̈ܐ ܚܕ̈ܬܐ ܘܣܓܠ̈ܐ"
+
+msgid  "specialpages-group-users"
+msgstr  "ܡܦܠܚܢ̈ܐ ܘܙܕ̈ܩܐ"
+
+msgid  "specialpages-group-pages"
+msgstr  "ܡܟܬܒܘܬ̈ܐ ܕܦܐܬܬ̈ܐ"
+
+msgid  "specialpages-group-pagetools"
+msgstr  "ܡܐܢ̈ܐ ܕܦܐܬܐ"
+
+msgid  "specialpages-group-wiki"
+msgstr  "ܓܠܝܬ̈ܐ ܘܡܐܢ̈ܐ ܕܘܝܩܝ"
+
+msgid  "specialpages-group-redirects"
+msgstr  "ܨܘܝܒܐ ܕܦܐܬܐ ܕܝܠܢܝܬܐ"
+
+msgid  "blankpage"
+msgstr  "ܦܐܬܐ ܣܦܝܩܬܐ"
+
+msgid  "tag-filter-submit"
+msgstr  "ܡܨܦܝܢܝܬܐ"
+
+msgid  "tags-edit"
+msgstr  "ܫܚܠܦ"
+
+msgid  "tags-hitcount"
+msgstr  "$1 {{PLURAL:$1|ܫܘܚܠܦܐ|ܫܘܚܠܦ̈ܐ}}"
+
+msgid  "compare-page1"
+msgstr  "ܕܦܐ 1"
+
+msgid  "compare-page2"
+msgstr  "ܕܦܐ 2"
+
+msgid  "compare-rev1"
+msgstr  "ܬܢܝܬܐ 1"
+
+msgid  "compare-rev2"
+msgstr  "ܬܢܝܬܐ 2"
+
+msgid  "compare-submit"
+msgstr  "ܦܚܘܡ"
+
+msgid  "htmlform-submit"
+msgstr  "ܫܕܪ"
+
+msgid  "htmlform-reset"
+msgstr  "ܠܐ ܬܥܒܕ ܫܘܚܠܦ̈ܐ"
+
+msgid  "htmlform-selectorother-other"
+msgstr  "ܐܚܪܢܐ"
+
+msgid  "wm-license-information-source"
+msgstr  "ܡܒܘܥܐ"
+
+msgid  "#ܠܫܢܐ:"
+msgstr  "#language"
+

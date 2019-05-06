@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: simple\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "wm-license-fsf-wiki-link"
+msgstr  "w:simple:Free Software Foundation"
+
+msgid  "wm-license-free-software-wiki-link"
+msgstr  "w:simple:Free software"
+
+msgid  "wm-license-gfdl-wiki-link"
+msgstr  "w:simple:GNU Free Documentation License"
+
+msgid  "wm-license-gpl-wiki-link"
+msgstr  "w:simple:General Public License"
+
+msgid  "wm-license-pd-wiki-link"
+msgstr  "w:simple:Public domain"
+

@@ -1,0 +1,2100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "#چوريو"
+msgstr "#REDIRECT"
+
+msgid  "مقاميمهينو"
+msgstr "LOCALMONTH2"
+
+msgid  "LOCALMONTH"
+msgstr "LOCALMONTH2"
+
+msgid  "مقاميمهينونالو"
+msgstr "LOCALMONTHNAME"
+
+msgid  "مقاميڏينهن"
+msgstr "LOCALDAY"
+
+msgid  "مقاميڏينهن2"
+msgstr "LOCALDAY2"
+
+msgid  "مقاميڏينهننالو"
+msgstr "LOCALDAYNAME"
+
+msgid  "مقاميسال"
+msgstr "LOCALYEAR"
+
+msgid  "مقاميوقت"
+msgstr "LOCALTIME"
+
+msgid  "مقاميڪلاڪ"
+msgstr "LOCALHOUR"
+
+msgid  "صفحنجوتعداد"
+msgstr "NUMBEROFPAGES"
+
+msgid  "مضموننجوتعداد"
+msgstr "NUMBEROFARTICLES"
+
+msgid  "فائيلنجوتعداد"
+msgstr "NUMBEROFFILES"
+
+msgid  "يوزرسجوتعداد"
+msgstr "NUMBEROFUSERS"
+
+msgid  "ترميمنجوتعداد"
+msgstr "NUMBEROFEDITS"
+
+msgid  "صفحيجوعنوان"
+msgstr "PAGENAME"
+
+msgid  "نانئپولار"
+msgstr "NAMESPACE"
+
+msgid  "بحثپولار"
+msgstr "TALKSPACE"
+
+msgid  "مضمونپولار"
+msgstr "ARTICLESPACE"
+
+msgid  "SUBJECTSPACE"
+msgstr "ARTICLESPACE"
+
+msgid  "صحفيجوپورونالو"
+msgstr "FULLPAGENAME"
+
+msgid  "نياپو:"
+msgstr "MSG:"
+
+msgid  "ساڄو"
+msgstr "right"
+
+msgid  "کاٻو"
+msgstr "left"
+
+msgid  "ڪجهنه"
+msgstr "none"
+
+msgid  "$1 عڪسلون"
+msgstr "$1px"
+
+msgid  "مرڪز"
+msgstr "centre"
+
+msgid  "center"
+msgstr "centre"
+
+msgid  "سِرُ"
+msgstr "top"
+
+msgid  "وچ"
+msgstr "middle"
+
+msgid  "تَرُ"
+msgstr "bottom"
+
+msgid  "سرزميننالو"
+msgstr "SITENAME"
+
+msgid  "نپ"
+msgstr "NS:"
+
+msgid  "مقامييوآريل"
+msgstr "LOCALURL:"
+
+msgid  "وياڪرڻ"
+msgstr "GRAMMAR:"
+
+msgid  "هلندڙهفتو"
+msgstr "CURRENTWEEK"
+
+msgid  "اڄوڪوڏينهن"
+msgstr "CURRENTDOW"
+
+msgid  "مقاميهفتو"
+msgstr "LOCALWEEK"
+
+msgid  "جمع"
+msgstr "PLURAL:"
+
+msgid  "مڪمليوآريل"
+msgstr "FULLURL:"
+
+msgid  "هلندڙوقتمهر"
+msgstr "CURRENTTIMESTAMP"
+
+msgid  "مقاميوقتمهر"
+msgstr "LOCALTIMESTAMP"
+
+msgid  "طرفنشان"
+msgstr "DIRMARK"
+
+msgid  "DIRECTIONMARK"
+msgstr "DIRMARK"
+
+msgid  "#ٻولي:"
+msgstr "#LANGUAGE:"
+
+msgid  "موادٻولي"
+msgstr "CONTENTLANG"
+
+msgid  "CONTENTLANGUAGE"
+msgstr "CONTENTLANG"
+
+msgid  "نپ۾صفحا"
+msgstr "PAGESINNS:"
+
+msgid  "PAGESINNAMESPACE:"
+msgstr "PAGESINNS:"
+
+msgid  "منتظمينجوتعداد"
+msgstr "NUMBEROFADMINS"
+
+msgid  "خاص"
+msgstr "special"
+
+msgid  "فائيلڏس"
+msgstr "FILEPATH:"
+
+msgid  "__ لڪل زمرو __"
+msgstr "__HIDDENCAT__"
+
+msgid  "زمريجاصفحا"
+msgstr "PAGESINCAT"
+
+msgid  "PAGESINCATEGORY"
+msgstr "PAGESINCAT"
+
+msgid  "صفحيجيماپ"
+msgstr "PAGESIZE"
+
+msgid  "tog-showtoolbar"
+msgstr  "سنوارپ اوزار دٻي ڏيکاريو (جاوا اسڪرپٽ)"
+
+msgid  "tog-watchcreations"
+msgstr  "منهنجا سرجيل صفحا منهنجي ٽيٽ فهرست ۾ رکو"
+
+msgid  "tog-watchdefault"
+msgstr  "منهنجا ترميميل صفحا منهنجي ٽيٽ فهرست تي رکو"
+
+msgid  "tog-watchdeletion"
+msgstr  "آئون جيڪي صفحا ڊاهيان، سي منهنجي ٽيٽ فهرست تي رکو"
+
+msgid  "tog-previewontop"
+msgstr  "ترميمي باڪس مٿان پيش نگاهه ڏيکاريو"
+
+msgid  "tog-previewonfirst"
+msgstr  "پهرين ترميم تي پيش نگاهه ڏيکاريو"
+
+msgid  "tog-enotifusertalkpages"
+msgstr  "منهنجي مباحثي صفحي ۾ تبديليءَ جي صورت ۾ مون کي برق ٽپال اماڻيو"
+
+msgid  "tog-enotifminoredits"
+msgstr  "صفحن ۾ معمولي ترميمن جي صورت ۾ به مون کي برق ٽپال ڪريو"
+
+msgid  "tog-shownumberswatching"
+msgstr  "ٽيٽيندڙ يوزرس جو تعداد ڏيکاريو"
+
+msgid  "tog-ccmeonemails"
+msgstr  "ٻين يوزرس ڏانهن منهنجي موڪليل برق ٽپال جو پرت مون کي اماڻيو"
+
+msgid  "tog-diffonly"
+msgstr  "تفاوت هيٺان صفحي جو مواد نه ڏيکاريو"
+
+msgid  "tog-showhiddencats"
+msgstr  "لڪل زمرا ڏيکاريو"
+
+msgid  "underline-always"
+msgstr  "هميشه"
+
+msgid  "underline-never"
+msgstr  "ڪڏهن به نه"
+
+msgid  "sunday"
+msgstr  "آچر"
+
+msgid  "monday"
+msgstr  "سومر"
+
+msgid  "tuesday"
+msgstr  "اڱارو"
+
+msgid  "wednesday"
+msgstr  "اربع"
+
+msgid  "thursday"
+msgstr  "خميس"
+
+msgid  "friday"
+msgstr  "جمعو"
+
+msgid  "saturday"
+msgstr  "ڇنڇر"
+
+msgid  "sun"
+msgstr  "آچر"
+
+msgid  "mon"
+msgstr  "سومر"
+
+msgid  "tue"
+msgstr  "اڱارو"
+
+msgid  "wed"
+msgstr  "اربع"
+
+msgid  "thu"
+msgstr  "خميس"
+
+msgid  "fri"
+msgstr  "جمعو"
+
+msgid  "sat"
+msgstr  "ڇنڇر"
+
+msgid  "january"
+msgstr  "جنوري"
+
+msgid  "february"
+msgstr  "فيبروري"
+
+msgid  "march"
+msgstr  "مارچ"
+
+msgid  "april"
+msgstr  "اپريل"
+
+msgid  "may_long"
+msgstr  "مَي"
+
+msgid  "june"
+msgstr  "جُونِ"
+
+msgid  "july"
+msgstr  "جُولاءِ"
+
+msgid  "august"
+msgstr  "آگسٽ"
+
+msgid  "september"
+msgstr  "سيپٽمبر"
+
+msgid  "october"
+msgstr  "آڪٽوبر"
+
+msgid  "november"
+msgstr  "نومبر"
+
+msgid  "december"
+msgstr  "ڊسمبر"
+
+msgid  "january-gen"
+msgstr  "جنوري"
+
+msgid  "february-gen"
+msgstr  "فيبروري"
+
+msgid  "march-gen"
+msgstr  "مارچ"
+
+msgid  "april-gen"
+msgstr  "اپريل"
+
+msgid  "may-gen"
+msgstr  "مَي"
+
+msgid  "june-gen"
+msgstr  "جُونِ"
+
+msgid  "july-gen"
+msgstr  "جُولاءِ"
+
+msgid  "august-gen"
+msgstr  "آگسٽ"
+
+msgid  "september-gen"
+msgstr  "سيپٽمبر"
+
+msgid  "october-gen"
+msgstr  "آڪٽوبر"
+
+msgid  "november-gen"
+msgstr  "نومبر"
+
+msgid  "december-gen"
+msgstr  "ڊسمبر"
+
+msgid  "jan"
+msgstr  "جنوري"
+
+msgid  "feb"
+msgstr  "فيبروري"
+
+msgid  "mar"
+msgstr  "مارچ"
+
+msgid  "apr"
+msgstr  "اپريل"
+
+msgid  "may"
+msgstr  "مَي"
+
+msgid  "jun"
+msgstr  "جُونِ"
+
+msgid  "jul"
+msgstr  "جُولاءِ"
+
+msgid  "aug"
+msgstr  "آگسٽ"
+
+msgid  "sep"
+msgstr  "سيپٽمبر"
+
+msgid  "oct"
+msgstr  "آڪٽوبر"
+
+msgid  "nov"
+msgstr  "نومبر"
+
+msgid  "dec"
+msgstr  "ڊسمبر"
+
+msgid  "category_header"
+msgstr  "\"$1\" زمري جا صفحا"
+
+msgid  "subcategories"
+msgstr  "ذيلي زمرا"
+
+msgid  "category-media-header"
+msgstr  " \"$1\" زمري اندر ذريعات"
+
+msgid  "category-empty"
+msgstr  "''في الوقت هن زمري ۾ ڪي به صفحا يا ذريعات شامل ناهن.''"
+
+msgid  "hidden-category-category"
+msgstr  "لڪل زمرا"
+
+msgid  "listingcontinuesabbrev"
+msgstr  "جاري.."
+
+msgid  "about"
+msgstr  "بابت"
+
+msgid  "article"
+msgstr  "مسوَدو"
+
+msgid  "newwindow"
+msgstr  "(نئين کڙڪيءَ ۾ کلندو)"
+
+msgid  "cancel"
+msgstr  "رد"
+
+msgid  "moredotdotdot"
+msgstr  "اڃا..."
+
+msgid  "mypage"
+msgstr  "منهنجو صفحو"
+
+msgid  "mytalk"
+msgstr  "مون سان ڳالهه"
+
+msgid  "and"
+msgstr  "&#32;۽"
+
+msgid  "qbfind"
+msgstr  "ڳوليو"
+
+msgid  "qbbrowse"
+msgstr  "جھانگيو"
+
+msgid  "qbedit"
+msgstr  "سنواريو"
+
+msgid  "qbpageoptions"
+msgstr  "هيءُ صفحو"
+
+msgid  "qbmyoptions"
+msgstr  "منهنجا صفحا"
+
+msgid  "qbspecialpages"
+msgstr  "خاص صفحا"
+
+msgid  "faq"
+msgstr  "ڪپوس"
+
+msgid  "faqpage"
+msgstr  "Project:ڪپوس"
+
+msgid  "vector-action-delete"
+msgstr  "ڊاھيو"
+
+msgid  "vector-action-move"
+msgstr  "چوريو"
+
+msgid  "vector-action-protect"
+msgstr  "تحفظيو"
+
+msgid  "vector-action-unprotect"
+msgstr  "اڻتحفظيو"
+
+msgid  "vector-view-create"
+msgstr  "سرجيو"
+
+msgid  "vector-view-edit"
+msgstr  "سنواريو"
+
+msgid  "vector-view-viewsource"
+msgstr  "ڪوڊ ڏسو"
+
+msgid  "errorpagetitle"
+msgstr  "چُڪَ"
+
+msgid  "returnto"
+msgstr  "$1 ڏانهن وَرو."
+
+msgid  "tagline"
+msgstr  "{{SITENAME}} طرفان"
+
+msgid  "help"
+msgstr  "مدد"
+
+msgid  "search"
+msgstr  "ڳولا"
+
+msgid  "searchbutton"
+msgstr  "ڳوليو"
+
+msgid  "go"
+msgstr  "کوليو"
+
+msgid  "searcharticle"
+msgstr  "کوليو"
+
+msgid  "history"
+msgstr  "صفحي جي سوانح"
+
+msgid  "history_short"
+msgstr  "سوانح"
+
+msgid  "info_short"
+msgstr  "معلومات"
+
+msgid  "printableversion"
+msgstr  "ڇپائتو پرت"
+
+msgid  "permalink"
+msgstr  "مسقتل ڳنڍڻو"
+
+msgid  "print"
+msgstr  "ڇاپيو"
+
+msgid  "edit"
+msgstr  "سنواريو"
+
+msgid  "create"
+msgstr  "سرجيو"
+
+msgid  "editthispage"
+msgstr  "هيءُ صفحو سنواريو"
+
+msgid  "create-this-page"
+msgstr  "اهو صفحو نئين سر جوڙيو"
+
+msgid  "delete"
+msgstr  "ڊاھيو"
+
+msgid  "deletethispage"
+msgstr  "هيءُ صفحو ڊاهيو"
+
+msgid  "undelete_short"
+msgstr  "اڻڊاهيو {{PLURAL:$1|هڪ ترميم|$1 ترميمون}}"
+
+msgid  "protect"
+msgstr  "تحفظيو"
+
+msgid  "protectthispage"
+msgstr  "هيءُ صفحو تحفظيو"
+
+msgid  "unprotect"
+msgstr  "اڻتحفظيو"
+
+msgid  "unprotectthispage"
+msgstr  "هيءُ صفحو اڻتحفظيو"
+
+msgid  "newpage"
+msgstr  "نئون صفحو"
+
+msgid  "talkpage"
+msgstr  "هن صفحي تي بحث ڪريو"
+
+msgid  "talkpagelinktext"
+msgstr  "بحث"
+
+msgid  "specialpage"
+msgstr  "خاص صفحو"
+
+msgid  "personaltools"
+msgstr  "ذاتي اوزار"
+
+msgid  "postcomment"
+msgstr  "تاثرات درج ڪريو"
+
+msgid  "articlepage"
+msgstr  "مسودو ڏسو"
+
+msgid  "talk"
+msgstr  "بحث"
+
+msgid  "views"
+msgstr  "ڏيٺون"
+
+msgid  "toolbox"
+msgstr  "اوزاردٻي"
+
+msgid  "userpage"
+msgstr  "يوزر صفحو ڏسو"
+
+msgid  "projectpage"
+msgstr  "رٿائي صفحو ڏسو"
+
+msgid  "imagepage"
+msgstr  "ذريعاتي صفحو ڏسو"
+
+msgid  "mediawikipage"
+msgstr  "نياپي جو صفحو ڏسو"
+
+msgid  "templatepage"
+msgstr  "سانچي جو صفحو ڏسو"
+
+msgid  "viewhelppage"
+msgstr  "امدادي صفحو ڏسو"
+
+msgid  "categorypage"
+msgstr  "زمراتي صفحو ڏسو"
+
+msgid  "viewtalkpage"
+msgstr  "بحث ڏسو"
+
+msgid  "otherlanguages"
+msgstr  "ٻين ٻولين ۾"
+
+msgid  "redirectedfrom"
+msgstr  "($1 کان چوريل)"
+
+msgid  "redirectpagesub"
+msgstr  "چوريل صفحو"
+
+msgid  "lastmodifiedat"
+msgstr  "هيءُ صفحو آخري ڀيرو $2، $1ع تي ترميميو ويو هو."
+
+msgid  "viewcount"
+msgstr  "هيءُ صفحو {{PLURAL:$1|دفعو|$1 دفعا}} ڏسجي چڪو آهي."
+
+msgid  "protectedpage"
+msgstr  "تحفظيل صفحو"
+
+msgid  "jumptosearch"
+msgstr  "ڳولا"
+
+msgid  "aboutsite"
+msgstr  "{{SITENAME}} بابت"
+
+msgid  "aboutpage"
+msgstr  "Project:بابت"
+
+msgid  "copyright"
+msgstr  "سمورو مواد $1 تحت ميسر ڪجي ٿو"
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:حق ۽ واسطا"
+
+msgid  "currentevents"
+msgstr  "ھاڻوڪا واقعا"
+
+msgid  "currentevents-url"
+msgstr  "Project: اعداد"
+
+msgid  "disclaimers"
+msgstr  "غيرجوابداريناما"
+
+msgid  "disclaimerpage"
+msgstr  "Project:عام غيرجوابدارينامو"
+
+msgid  "edithelp"
+msgstr  "مدد براءِ ترميم"
+
+msgid  "edithelppage"
+msgstr  "Help:سنوارڻ"
+
+msgid  "helppage"
+msgstr  "Help:فهرست"
+
+msgid  "mainpage"
+msgstr  "مُک صفحو"
+
+msgid  "mainpage-description"
+msgstr  "مُک صفحو"
+
+msgid  "policy-url"
+msgstr  "Project:پاليسي"
+
+msgid  "portal"
+msgstr  "نياتي باب"
+
+msgid  "portal-url"
+msgstr  "Project:نياتي باب"
+
+msgid  "privacy"
+msgstr  "ذاتيات پاليسي"
+
+msgid  "privacypage"
+msgstr  "Project:ذاتيات پاليسي"
+
+msgid  "ok"
+msgstr  "ٺيڪ"
+
+msgid  "retrievedfrom"
+msgstr  "\"$1\" تان ورتل"
+
+msgid  "youhavenewmessages"
+msgstr  "توهان لاءِ $1 ($2) آهن."
+
+msgid  "newmessageslink"
+msgstr  "نوان نياپا"
+
+msgid  "newmessagesdifflink"
+msgstr  "آخري تبديلي"
+
+msgid  "editsection"
+msgstr  "سنواريو"
+
+msgid  "editold"
+msgstr  "سنواريو"
+
+msgid  "viewsourceold"
+msgstr  "ڪوڊ ڏسو"
+
+msgid  "editlink"
+msgstr  "سنواريو"
+
+msgid  "viewsourcelink"
+msgstr  "ڪوڊ ڏسو"
+
+msgid  "editsectionhint"
+msgstr  "سنواريو سيڪشن: $1"
+
+msgid  "toc"
+msgstr  "فهرست"
+
+msgid  "showtoc"
+msgstr  "ڏيکاريو"
+
+msgid  "hidetoc"
+msgstr  "لڪايو"
+
+msgid  "viewdeleted"
+msgstr  "$1 ڏسندا؟"
+
+msgid  "feedlinks"
+msgstr  "روان رسد:"
+
+msgid  "site-rss-feed"
+msgstr  "$1 آر ايس ايس روان رسد"
+
+msgid  "site-atom-feed"
+msgstr  "$1 اڻو روان رسد"
+
+msgid  "page-rss-feed"
+msgstr  "\"$1\" RSS برق مواد"
+
+msgid  "page-atom-feed"
+msgstr  "\"$1\" اڻو روان رسد"
+
+msgid  "red-link-title"
+msgstr  "$1 (اڃا لکيل ناهي)"
+
+msgid  "nstab-main"
+msgstr  "صفحو"
+
+msgid  "nstab-user"
+msgstr  "تعارفي صفحو"
+
+msgid  "nstab-media"
+msgstr  "ذريعاتي صفحو"
+
+msgid  "nstab-special"
+msgstr  "خاص صفحو"
+
+msgid  "nstab-project"
+msgstr  "رٿائي صفحو"
+
+msgid  "nstab-image"
+msgstr  "فائيل"
+
+msgid  "nstab-mediawiki"
+msgstr  "نياپو"
+
+msgid  "nstab-template"
+msgstr  "سانچو"
+
+msgid  "nstab-help"
+msgstr  "امدادي صفحو"
+
+msgid  "nstab-category"
+msgstr  "زمرو"
+
+msgid  "nosuchspecialpage"
+msgstr  "اهڙو ڪو به خاص صفحو ناهي"
+
+msgid  "error"
+msgstr  "چُڪَ"
+
+msgid  "databaseerror"
+msgstr  "اعدادخاني ۾ چڪ"
+
+msgid  "readonly"
+msgstr  "اعدادخانو بنديل"
+
+msgid  "missingarticle-diff"
+msgstr  "(تفاوت: $1، $2)"
+
+msgid  "internalerror"
+msgstr  "اندروني خرابي"
+
+msgid  "internalerror_info"
+msgstr  "داخلي چُڪَ: $1"
+
+msgid  "filerenameerror"
+msgstr  "\"$1\" نالي فائيل تي نئون نالو \"$2\" رکجي نه سگھجو."
+
+msgid  "filedeleteerror"
+msgstr  "\"$1\" فائيل ڊهي نه سگھيو."
+
+msgid  "filenotfound"
+msgstr  "\"$1\" نالي فائيل لڀجي نه سگھيو."
+
+msgid  "unexpected"
+msgstr  "غير متوقع قدر: \"$1\"=\"$2\"."
+
+msgid  "badtitle"
+msgstr  "غيردرست عنوان"
+
+msgid  "viewsource"
+msgstr  "ڪوڊ ڏسو"
+
+msgid  "viewsourcefor"
+msgstr  "براءِ $1"
+
+msgid  "protectedpagetext"
+msgstr  "هيءُ صفحو ترميمن کان تحفظيل آهي."
+
+msgid  "viewsourcetext"
+msgstr  "توهان هن صفحي جو ڪوڊ ڏسي ۽ نقل ڪري سگھو ٿا:"
+
+msgid  "namespaceprotected"
+msgstr  "توهان کي نانءُ پولار '''$1''' جا صفحا سنوارڻ جا اختيار ناهن."
+
+msgid  "ns-specialprotected"
+msgstr  "خاص صفحا سنواري نٿا سگھجن."
+
+msgid  "yourname"
+msgstr  "يُوزرنانءُ:"
+
+msgid  "yourpassword"
+msgstr  "ڳجھو لفظ:"
+
+msgid  "remembermypassword"
+msgstr  "هن ڳڻپيوڪر تي مون کي ياد رکو (for a maximum of $1 {{PLURAL:$1|day|days}})"
+
+msgid  "login"
+msgstr  "لاگ اِن"
+
+msgid  "nav-login-createaccount"
+msgstr  "لاگ اِن ٿيو / کاتو کوليو"
+
+msgid  "loginprompt"
+msgstr  "{{SITENAME}} ۾ لاگ اِن ٿيڻ لاءِ ڪوڪيز جي قبوليت لازمي آهي."
+
+msgid  "userlogin"
+msgstr  "لاگ اِن ٿيو / کاتو کوليو"
+
+msgid  "logout"
+msgstr  "لاگ آئوٽ"
+
+msgid  "userlogout"
+msgstr  "لاگ آئوٽ"
+
+msgid  "nologin"
+msgstr  "پنهنجو کاتو نه ٿا رکو؟ '''$1'''."
+
+msgid  "nologinlink"
+msgstr  "نئون کاتو کوليو"
+
+msgid  "createaccount"
+msgstr  "کاتو کوليو"
+
+msgid  "gotaccount"
+msgstr  "ڇا اڳي ئي کاتو رکو ٿا؟ '''$1'''."
+
+msgid  "gotaccountlink"
+msgstr  "لاگ اِن"
+
+msgid  "createaccountmail"
+msgstr  "بذريعه برق ٽپال"
+
+msgid  "loginsuccesstitle"
+msgstr  "لاگ اِن ڪامياب"
+
+msgid  "loginsuccess"
+msgstr  "'''هاڻي توهان {{SITENAME}} تي بطور \"$1\" لاگ اِن ٿيل آهيو.'''"
+
+msgid  "nosuchuser"
+msgstr  "\"$1\" نالي سان ڪو به يوزر نه آهي. هِجي چڪاسيو، يا نئون کاتو کوليو."
+
+msgid  "nosuchusershort"
+msgstr  "\"<nowiki>$1</nowiki>\" نالي ڪو به يُوزر ناهي.\nهِجي جي پڪ ڪندا."
+
+msgid  "nouserspecified"
+msgstr  "توهان کي ڪو يوزرنانءُ ڄاڻائڻو پوندو."
+
+msgid  "wrongpassword"
+msgstr  "ڏنل ڳجھو لفظ غير درست آهي. مهرباني ڪري ٻيهر ڪوشش ڪندا."
+
+msgid  "wrongpasswordempty"
+msgstr  "ڏنل ڳجھو لفظ خالي هو. مهرباني ڪري وري ڪوشش ڪندا."
+
+msgid  "passwordtooshort"
+msgstr  "توهان جو ڳجھو لفظ ناقابلڪار آهي يا تمام ننڍو آهي. اهو توهان جي يُوزرنانءُ کان لازماً مختلف ۽ {{PLURAL:$1|1 اکر|$1 اکرن}} کان ڊگھو هوڻ گھرجي."
+
+msgid  "mailmypassword"
+msgstr  "ڳجھو لفظ برق ٽپاليو"
+
+msgid  "passwordremindertitle"
+msgstr  "{{SITENAME}} لاءِ نئون عارضي ڳجھو لفظ"
+
+msgid  "passwordremindertext"
+msgstr  "ڪنهن (شايد توهان آءِ پي پتي $1 تان) اسان کي {{SITENAME}} ($4) لاءِ نئون ڳجھو لفظ اماڻڻ جي گھُرَ ڪئي.\n\nهاڻي يوزر \"$2\" لاءِ ڳجھو لفظ \"$3\" آهي. توهان کي هينئر ئي لاگ اِن ٿي پنهنجو ڳجھو لفظ تبديل ڪرڻ گھرجي.\n\nجيڪڏهن اها گھُرَ اوهان نه ڪئي هئي، يا هاڻي اوهان کي پنهنجو ڳجھو لفظ ياد اچي ويو آهي ۽ توهان ان کي تبديل ڪرڻ نه ٿا چاهيو، ته توهان هن نياپي کي نظر انداز ڪندي پنهنجو پراڻو ڳجھو لفظ ئي استعمال ڪري سگھو ٿا."
+
+msgid  "noemail"
+msgstr  "يُوزر \"$1\" جي ڪو به برق ٽپال پتو درج ٿيل ناهي."
+
+msgid  "passwordsent"
+msgstr  "يوزر \"$1\" لاءِ هڪ نئون ڳجھو لفظ برق ٽپال ذريعي اماڻيو ويو آهي.  مهرباني ڪري اهو حاصل ڪرڻ بعد لاگ اِن ٿيندا."
+
+msgid  "mailerror"
+msgstr  "ٽپال اماڻڻ ۾ چُڪَ: $1"
+
+msgid  "acct_creation_throttle_hit"
+msgstr  "معاف ڪجَو، اوهان اڳي ئي $1 کاتا کولي چڪا آهيو. ان کان وڌيڪ نه ٿا کولي سگھجن."
+
+msgid  "accountcreated"
+msgstr  "کاتو کلي چڪو"
+
+msgid  "accountcreatedtext"
+msgstr  "$1 نالي يوزر کاتو کلي چڪو آھي."
+
+msgid  "retypenew"
+msgstr  "نئون ڳجھو لفظ ٻيهر ٽائيپ ڪندا:"
+
+msgid  "bold_sample"
+msgstr  "گهري تحرير"
+
+msgid  "bold_tip"
+msgstr  "گهري لکت"
+
+msgid  "italic_sample"
+msgstr  "ترڇي لکت"
+
+msgid  "italic_tip"
+msgstr  "ترڇي لکت"
+
+msgid  "link_sample"
+msgstr  "ڳنڍڻي جو عنوان"
+
+msgid  "link_tip"
+msgstr  "داخلي ڳنڍڻو"
+
+msgid  "extlink_sample"
+msgstr  "http://www.example.com ڳنڍڻي جو عنوان"
+
+msgid  "extlink_tip"
+msgstr  "خارجي ڳنڍڻو (اڳياڙي http://  نه وساريندا)"
+
+msgid  "headline_sample"
+msgstr  "سرخي"
+
+msgid  "headline_tip"
+msgstr  "سطح 2 جي سرخي"
+
+msgid  "math_sample"
+msgstr  "هتي فارمولو وجھو"
+
+msgid  "math_tip"
+msgstr  "رياضياتي مساوات (LaTeX)"
+
+msgid  "image_tip"
+msgstr  "جَڙيل فائيل"
+
+msgid  "media_tip"
+msgstr  "فائيل جو ڳنڍڻو"
+
+msgid  "sig_tip"
+msgstr  "توهان جي صحيح بمع اوقاتي مهر"
+
+msgid  "hr_tip"
+msgstr  "افقي لڪير (غيرضروري استعمال کان پاسو ڪندا)"
+
+msgid  "summary"
+msgstr  "تَتُ:"
+
+msgid  "subject"
+msgstr  "موضوع/سُرخي:"
+
+msgid  "minoredit"
+msgstr  "هيءَ هڪ معمولي ترميم آهي"
+
+msgid  "watchthis"
+msgstr  "هيءُ صفحو سانڍيو"
+
+msgid  "savearticle"
+msgstr  "صفحو سانڍيو"
+
+msgid  "preview"
+msgstr  "پيش نگاهه"
+
+msgid  "showpreview"
+msgstr  "پيش نگاهه"
+
+msgid  "showdiff"
+msgstr  "تبديليون ڏيکاريو"
+
+msgid  "anoneditwarning"
+msgstr  "'''خبردار:''' توهان لاگ اِن ٿيل ناهيو.\nهن صفحي جي سوانح ۾ توهان جو آءِ پي پتو درج ڪيو ويندو."
+
+msgid  "missingcommenttext"
+msgstr  "براءِ مهرباني هيٺ پنهنجا تاثرات درج ڪندا."
+
+msgid  "summary-preview"
+msgstr  "تت تي پيش نگاهه:"
+
+msgid  "blockedtitle"
+msgstr  "يُوزر بندشيل آهي."
+
+msgid  "blockedtext"
+msgstr  "'''توهان جي يوزرنانءُ يا آءِ پي کي بندشيو ويو آهي.'''\n\nبندش $1 هنئي. جڏهن ته ڄاڻايل سبب ''$2'' آهي.\n\n\n* بندش جو آغاز: $8\n* بندش جو انجام: $6\n* بندش جو هدف: $7\n\nاهڙي روڪ تي بحث ڪرڻ لاءِ توهان $1 يا ڪنهن ٻي [[{{MediaWiki:Grouppage-sysop}}|منتظم]] سان رابطو ڪري سگھو ٿا. جيڪڏهن توهان جو درست [[Special:ترجيحات|کاتو ترجيحات]] ۾ درست برق ٽپال پتو درج ٿيل نه آهي ته توهان 'هن يوزر کي برق ٽپال ڪريو' وارو فيچر نه ٿا استعمال ڪري سگھو. توهان جو هاڻوڪو آءِ پي پتو $3 آهي، ۽ بندش سڃاڻپ $5 آهي. مهرباني ڪري ڪنهن به پڇا ڳاڇا يا لهوچڙ  لاءِ انهن مان ڪنهن هڪ يا ٻنهي جو حوالو ڏيندا."
+
+msgid  "blockednoreason"
+msgstr  "سبب اڻڄاڻايل"
+
+msgid  "accmailtitle"
+msgstr  "ڳجھو لفظ اماڻجي چڪو."
+
+msgid  "newarticle"
+msgstr  "(نئون)"
+
+msgid  "newarticletext"
+msgstr  "توهان اهڙي صفحي جو ڳنڍڻو وٺي هتي پهتا آهيو، جيڪو اڃا وجود نه ٿو رکي. اهڙو صفحو جوڙڻ لاءِ هيٺين باڪس ۾ ٽائيپ ڪرڻ شروع ڪريو (وڌيڪ ڄاڻڻ لاءِ [[{{MediaWiki:Helppage}}|امدادي صفحو]] ڏسندا). جي توهان هتي غلطيءَ ۾ اچي ويا آهيو ته رڳو پنهنجي جهانگُوءَ جو '''back''' بٽڻ ڪلڪ ڪندا."
+
+msgid  "previewnote"
+msgstr  "'''هيءَ محظ پيش نگاهه آهي، ترميمون اڃا سانڍجون ناهن!'''"
+
+msgid  "editing"
+msgstr  "زير ترميم $1"
+
+msgid  "editingsection"
+msgstr  "زير ترميم $1 (سيڪشن)"
+
+msgid  "copyrightwarning"
+msgstr  "ياد رکندا ته {{SITENAME}} لاءِ سموريون ڀاڱيداريون $2 تحت پڌريون ڪجن ٿيون (تفصيلن لاءِ $1 ڏسندا). اوهان جي تحرير کي {{SITENAME}} جي قائدن تحت ترميمي سگهجي ٿو. جيڪڏهن اوهان نه ٿا چاهيو ته اوهان جي لکڻين کي بي رحميءَ سان ترميميو وڃي يا ورهائي عام ڪيو وڃي ته پوءِ پنهنجي لکڻي هتي جمع نه ڪرايو. پنهنجو مواد هتي جمع ڪرڻ جو مطلب هوندو ته توهان کي جمع ڪرايل مواد جي مفت فراهمي ۽ کُليل تبديليءَ تي ڪو به اعتراز ناهي.<br />\nتوهان اهڙي پڪ ڏيڻ جا پابند پڻ آهيو ته توهان جو جمع ڪرايل مواد توهان جو پنهنجو لکيل آهي يا وري توهان ڪنهن مفت وسيلي تان ڪاپي ڪيو آهي.\n'''تحفظيل حق ۽ واسطا رکندڙ مواد واسطيدار مالڪ کان اڳواٽ اجازت وٺڻ کان سواءِ هتي جمع نه ڪريو.'''"
+
+msgid  "templatesused"
+msgstr  "هن صفحي تي استعمال ٿيندڙ سانچا:"
+
+msgid  "templatesusedpreview"
+msgstr  "هن پيش نگاهه ۾ استعمال ٿيل سانچا:"
+
+msgid  "template-protected"
+msgstr  "(تحفظيل)"
+
+msgid  "template-semiprotected"
+msgstr  "(نيم تحفظيل)"
+
+msgid  "nocreatetext"
+msgstr  "{{SITENAME}} نوان صفحا سرجڻ جي روڪَ ڪئي آهي.\nتوهان اڳي ئي موجود صفحن کي سنواري سگھو ٿا، يا [[Special:UserLogin|لاگ اِن ٿي يا نئون کاتو کولي سگھو ٿا]]."
+
+msgid  "recreate-moveddeleted-warn"
+msgstr  "'''خبردار: توهان اهڙو صفحو نئين سر سرجي رهيا آهيو جيڪو اڳي ڊاٺو ويو آهي.'''\n\nبهتر ٿيندو ته توهان سوچي وٺو ته ڇا ان صفحي کي سنوارڻ بهتر ٿيندو.\nتوهآن جي سهوليت خاطر هتي ان صفحي جو ڊاٺ لاگ ميسر ڪجي ٿو:"
+
+msgid  "viewpagelogs"
+msgstr  "هن صفحي جا لاگ ڏسو"
+
+msgid  "currentrev"
+msgstr  "هاڻوڪو مسودو"
+
+msgid  "revisionasof"
+msgstr  "$1 وارو پرت"
+
+msgid  "revision-info"
+msgstr  "$1 تي $2 جي ترميم بعد مسودو"
+
+msgid  "previousrevision"
+msgstr  "←اڃا پراڻو پرت"
+
+msgid  "nextrevision"
+msgstr  "اڃا نئون پرت→"
+
+msgid  "currentrevisionlink"
+msgstr  "هاڻوڪو پرت"
+
+msgid  "cur"
+msgstr  "ھاڻوڪو"
+
+msgid  "last"
+msgstr  "پويون"
+
+msgid  "page_first"
+msgstr  "پهريون"
+
+msgid  "page_last"
+msgstr  "آخري"
+
+msgid  "histfirst"
+msgstr  "اوائلي ترين"
+
+msgid  "histlast"
+msgstr  "تازوترين"
+
+msgid  "historyempty"
+msgstr  "(خالي)"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$2 تي $1"
+
+msgid  "pagehist"
+msgstr  "صفحي جي سوانح"
+
+msgid  "history-title"
+msgstr  "\"$1\" جي سوانح"
+
+msgid  "difference"
+msgstr  "(مسودن درميان تفاوت)"
+
+msgid  "lineno"
+msgstr  "سِٽَ $1:"
+
+msgid  "compareselectedversions"
+msgstr  "چونڊيل پرت ڀيٽيو"
+
+msgid  "editundo"
+msgstr  "اڻڪريو"
+
+msgid  "diff-multi"
+msgstr  "({{PLURAL:$1|هڪ وسطي مسودو|$1 وسطي مسودا}} لڪايل.)"
+
+msgid  "prevn"
+msgstr  "پويان {{PLURAL:$1|$1}}"
+
+msgid  "nextn"
+msgstr  "اڳيان {{PLURAL:$1|$1}}"
+
+msgid  "viewprevnext"
+msgstr  "ڏسو ($1 {{int:pipe-separator}} $2) ($3)"
+
+msgid  "searchhelp-url"
+msgstr  "Help:فهرست"
+
+msgid  "powersearch"
+msgstr  "نفيس ڳولا"
+
+msgid  "powersearch-redir"
+msgstr  "چورڻن جي فهرست ڏيکاريو"
+
+msgid  "preferences"
+msgstr  "ترجيحات"
+
+msgid  "mypreferences"
+msgstr  "منهنجون ترجيحات"
+
+msgid  "changepassword"
+msgstr  "ڳجھو لفظ تبديل ڪريو"
+
+msgid  "skin-preview"
+msgstr  "پيش نگاهه"
+
+msgid  "datedefault"
+msgstr  "بلا ترجيحا"
+
+msgid  "prefs-datetime"
+msgstr  "تاريخ ۽ وقت"
+
+msgid  "allowemail"
+msgstr  "ٻين يُوزرس کان ايندڙ برق ٽپال بحال ڪريو"
+
+msgid  "yourrealname"
+msgstr  "اصل نالو:"
+
+msgid  "badsiglength"
+msgstr  "اها صحيح تمام وڏي آهي.\n$1 {{PLURAL:$1|اکر|اکرن}} کان ننڍي هوڻ گھرجي."
+
+msgid  "prefs-help-realname"
+msgstr  "اصل نالو اختياري آهي.\nجيڪڏهن توهان اصل نالو ڄاڻائڻ جو فيصلو ٿا ڪريو، ته اهو توهان کي مڃتا ڏيڻ لاءِ ڪم آندو ويندو."
+
+msgid  "userrights-reason"
+msgstr  "سبب:"
+
+msgid  "group"
+msgstr  "گروپ:"
+
+msgid  "group-user"
+msgstr  "يوزرس"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:منتظمين"
+
+msgid  "right-undelete"
+msgstr  "ڪو صفحو اڻڊاهيو"
+
+msgid  "rightslog"
+msgstr  "يُوزر حق لاگ"
+
+msgid  "nchanges"
+msgstr  "$1 {{PLURAL:$1|تبديلي|تبديليون}}"
+
+msgid  "recentchanges"
+msgstr  "تازيون تبديليون"
+
+msgid  "recentchanges-feed-description"
+msgstr  "ۡهن روان رسد ۾ آيل تازيون تبديليون لهو"
+
+msgid  "rcnote"
+msgstr  "پوين {{PLURAL:$2|ڏينهن|'''$2''' ڏينهن}} ۾، يعني $3 تائين آيل {{PLURAL:$1| '''1''' تبديلي|'''$1''' تبديليون}} هيٺ پيش ڪجن ٿيون."
+
+msgid  "rcnotefrom"
+msgstr  "هيٺ '''$2''' کان ٿيندڙ تبديليون پيش ڪجن ٿيون ('''$1''' تائين ڏيکارجن ٿيون)."
+
+msgid  "rclistfrom"
+msgstr  "$1 کان شروع ٿيندڙ نيون تبديليون"
+
+msgid  "rcshowhideminor"
+msgstr  "$1 معمولي ترميمون"
+
+msgid  "rcshowhidebots"
+msgstr  "$1 بوٽس"
+
+msgid  "rcshowhideliu"
+msgstr  "$1 لاگ اِن ٿيل يوزرس"
+
+msgid  "rcshowhideanons"
+msgstr  "$1 نامعلوم يُوزرس"
+
+msgid  "rcshowhidepatr"
+msgstr  "$1 تاڻيل ترميمون"
+
+msgid  "rcshowhidemine"
+msgstr  "منهنجون ترميمون $1"
+
+msgid  "rclinks"
+msgstr  "پوين $2 ڏينهن ۾ آيل پويون $1 تبديليون ڏيکاريو <br />$3"
+
+msgid  "diff"
+msgstr  "تفاوت"
+
+msgid  "hist"
+msgstr  "سوانح"
+
+msgid  "hide"
+msgstr  "لڪايو"
+
+msgid  "show"
+msgstr  "ڏيکاريو"
+
+msgid  "minoreditletter"
+msgstr  "م"
+
+msgid  "newpageletter"
+msgstr  "ن"
+
+msgid  "boteditletter"
+msgstr  "گ"
+
+msgid  "recentchangeslinked"
+msgstr  "لاڳاپيل تبديليون"
+
+msgid  "recentchangeslinked-feed"
+msgstr  "لاڳاپيل تبديليون"
+
+msgid  "recentchangeslinked-toolbox"
+msgstr  "لاڳاپيل تبديليون"
+
+msgid  "recentchangeslinked-title"
+msgstr  "\"$1\" سان لاڳاپيل تبديليون"
+
+msgid  "recentchangeslinked-noresult"
+msgstr  "ڄاڻايل مدي دوران ڳنڍيل صفحن ۾ ڪا به تبديلي ناهي ٿي."
+
+msgid  "upload"
+msgstr  "فائيل چاڙهيو"
+
+msgid  "uploadbtn"
+msgstr  "فائيل چاڙهيو"
+
+msgid  "uploadlogpage"
+msgstr  "چاڙهه لاگ"
+
+msgid  "uploadedimage"
+msgstr  "\"[[$1]]\" چاڙهيو ويو"
+
+msgid  "listfiles"
+msgstr  "فائيل فهرست"
+
+msgid  "file-anchor-link"
+msgstr  "فائيل"
+
+msgid  "filehist"
+msgstr  "فائيل جي سوانح"
+
+msgid  "filehist-help"
+msgstr  "ڪنهن به تاريخ/وقت تي ڪلڪ ڪري ڏسندا ته تڏڻي اهو فائيل ڪيئن هو."
+
+msgid  "filehist-current"
+msgstr  "هاڻوڪو"
+
+msgid  "filehist-datetime"
+msgstr  "تاريخ/وقت"
+
+msgid  "filehist-user"
+msgstr  "يُوزر"
+
+msgid  "filehist-dimensions"
+msgstr  "ماپَ"
+
+msgid  "filehist-filesize"
+msgstr  "فائيل سائيز"
+
+msgid  "filehist-comment"
+msgstr  "تاثرات"
+
+msgid  "imagelinks"
+msgstr  "ڳنڍڻا"
+
+msgid  "linkstoimage"
+msgstr  "هن فائيل سان {{PLURAL:$1|هيٺيون صفحو ڳنڍيل آهي |$1 هيٺيان صفحا ڳنڍيل آهن}}:"
+
+msgid  "nolinkstoimage"
+msgstr  "هن فائيل سان ڪو به صفحو ڳنڍيل ناهي."
+
+msgid  "sharedupload"
+msgstr  "هيءَ هڪ شراڪتي چاڙهه آهي، تنهنڪري ان کي ٻيون رٿائون به استعمال ڪري سگھن ٿيون."
+
+msgid  "uploadnewversion-linktext"
+msgstr  "هن فائيل جو نئون پرت چاڙهيو"
+
+msgid  "mimesearch"
+msgstr  "مائيم ڳولا"
+
+msgid  "listredirects"
+msgstr  "چورڻن جي فهرست"
+
+msgid  "unusedtemplates"
+msgstr  "اڻ استعماليل سانچا"
+
+msgid  "randompage"
+msgstr  "بلاترتيب صفحو"
+
+msgid  "randomredirect"
+msgstr  "بلا ترتيب چورڻو"
+
+msgid  "statistics"
+msgstr  "انگ اکر"
+
+msgid  "disambiguations"
+msgstr  "سلجھائپ صفحا"
+
+msgid  "doubleredirects"
+msgstr  "ٻٽا چورڻا"
+
+msgid  "brokenredirects"
+msgstr  "ٽٽل چورڻا"
+
+msgid  "brokenredirects-edit"
+msgstr  "سنواريو"
+
+msgid  "brokenredirects-delete"
+msgstr  "ڊاهيو"
+
+msgid  "withoutinterwiki"
+msgstr  "ڪنهن به ٻي ٻوليءَ سان نه ڳنڍيل صفحا"
+
+msgid  "fewestrevisions"
+msgstr  "گھٽانگھٽ ترميميل صفحا"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|ٻاٽڻ|ٻاٽڻيون}}"
+
+msgid  "nlinks"
+msgstr  "$1 {{PLURAL:$1|ڳنڍڻو|ڳنڍڻا}}"
+
+msgid  "nmembers"
+msgstr  "$1 {{PLURAL:$1|رڪن|رڪنَ}}"
+
+msgid  "lonelypages"
+msgstr  "يتيم صفحا"
+
+msgid  "uncategorizedpages"
+msgstr  "اڻ زمريل صفحا"
+
+msgid  "uncategorizedcategories"
+msgstr  "اڻزمرايل زمرا"
+
+msgid  "uncategorizedimages"
+msgstr  "اڻزمرايل فائيل"
+
+msgid  "uncategorizedtemplates"
+msgstr  "اڻزمرايل سانچا"
+
+msgid  "unusedcategories"
+msgstr  "اڻ استعماليل زمرا"
+
+msgid  "unusedimages"
+msgstr  "اڻ استعماليل فائيلس"
+
+msgid  "wantedcategories"
+msgstr  "گھربل زمرا"
+
+msgid  "wantedpages"
+msgstr  "گھربل صفحا"
+
+msgid  "mostlinked"
+msgstr  "صفحن سان وڌانوڌ ڳنڍيندڙ"
+
+msgid  "mostlinkedcategories"
+msgstr  "زمرن سان وڌانوڌ ڳنڍيل"
+
+msgid  "mostlinkedtemplates"
+msgstr  "گھڻي کان گھڻا سانچا رکندڙ"
+
+msgid  "mostcategories"
+msgstr  "گھڻي کان گھڻا زمرا رکندڙ صفحا"
+
+msgid  "mostimages"
+msgstr  "وڌانوڌ ڳنڍيندڙ فائيل"
+
+msgid  "mostrevisions"
+msgstr  "وڌانوڌ ترميميل صفحا"
+
+msgid  "prefixindex"
+msgstr  "اڳياڙي ڏسڻي"
+
+msgid  "shortpages"
+msgstr  "مختصر صفحا"
+
+msgid  "longpages"
+msgstr  "طويل صفحا"
+
+msgid  "deadendpages"
+msgstr  "اڻ ڳنڍيندڙ صفحا"
+
+msgid  "protectedpages"
+msgstr  "تحفظيل صفحا"
+
+msgid  "listusers"
+msgstr  "يُوزر فهرست"
+
+msgid  "newpages"
+msgstr  "نوان صفحا"
+
+msgid  "ancientpages"
+msgstr  "قديم ترين صفحا"
+
+msgid  "move"
+msgstr  "چوريو"
+
+msgid  "movethispage"
+msgstr  "هيءُ صفحو چوريو"
+
+msgid  "booksources"
+msgstr  "ڪتابي وسيلا"
+
+msgid  "specialloguserlabel"
+msgstr  "يُوزر:"
+
+msgid  "speciallogtitlelabel"
+msgstr  "عنوان:"
+
+msgid  "log"
+msgstr  "لاگس"
+
+msgid  "all-logs-page"
+msgstr  "سڀئي لاگس"
+
+msgid  "allpages"
+msgstr  "سڀ صفحا"
+
+msgid  "alphaindexline"
+msgstr  "$1 کان $2"
+
+msgid  "nextpage"
+msgstr  "اڳيون صفحو ($1)"
+
+msgid  "prevpage"
+msgstr  "پويون صفحو ($1)"
+
+msgid  "allpagesfrom"
+msgstr  "ھتان شروع ٿيندڙ صفحا نمايو"
+
+msgid  "allarticles"
+msgstr  "سمورا مضمون"
+
+msgid  "allpagesprev"
+msgstr  "اڳوڻو"
+
+msgid  "allpagessubmit"
+msgstr  "ھلو"
+
+msgid  "allpagesprefix"
+msgstr  "صفحا نمايو بمع اڳياڙي:"
+
+msgid  "categories"
+msgstr  "زمرا"
+
+msgid  "emailuser"
+msgstr  "هن يوزر کي برق ٽپال اماڻيو"
+
+msgid  "watchlist"
+msgstr  "منهنجي ٽيٽ فهرست"
+
+msgid  "mywatchlist"
+msgstr  "منهنجي ٽيٽ فهرست"
+
+msgid  "addedwatch"
+msgstr  "ٽيٽ فھرست ۾ شامل ڪيو ويو."
+
+msgid  "addedwatchtext"
+msgstr  "صفحو بعنوان \"[[:$1]]\" اوهان جي [[Special:Watchlist|ٽيٽ فهرست]] ۾ شامل ٿي ويو. استقبالي تبديليون هتي درج ٿينديون وينديون. اهو صفحو [[Special:RecentChanges|تازين تبديلين]] واري صفحي تي '''گهرن''' اکرن ۾ نمايان ڪري ڏيکاريو ويندو. جيڪڏهن اوهان اهو سڀ نه ٿا چاهيو ته '''اڻ ٽيٽيو''' تي ڪلڪ ڪريو."
+
+msgid  "removedwatch"
+msgstr  "ٽيٽ فهرست مان هٽايو ويو"
+
+msgid  "removedwatchtext"
+msgstr  "صفحو بعنوان \"[[:$1]]\" توهان جي ٽيٽ فهرست مان هٽي چڪو آهي."
+
+msgid  "watch"
+msgstr  "ٽيٽيو"
+
+msgid  "watchthispage"
+msgstr  "هيءُ صفحو ٽيٽيو"
+
+msgid  "unwatch"
+msgstr  "اڻ ٽيٽيو"
+
+msgid  "unwatchthispage"
+msgstr  "ٽيٽڻ ڇڏيو"
+
+msgid  "watchlist-details"
+msgstr  "مباحثي صفحن کان سواءِ {{PLURAL:$1|$1 صفحو|$1 صفحا}} ٽيٽيل."
+
+msgid  "wlshowlast"
+msgstr  "پوين $1 ڪلاڪن $2 ڏينهن جا $3 ڏيکاريو"
+
+msgid  "watching"
+msgstr  "ٽيٽيندي..."
+
+msgid  "unwatching"
+msgstr  "اڻ ٽيٽيندي..."
+
+msgid  "enotif_newpagetext"
+msgstr  "هيءُ هڪ نئون صفحو آهي."
+
+msgid  "changed"
+msgstr  "تبديل ٿي ويو"
+
+msgid  "created"
+msgstr  "ٺهي چڪو"
+
+msgid  "deletepage"
+msgstr  "صفحو ڊاهيو"
+
+msgid  "confirm"
+msgstr  "پڪ ڪريو"
+
+msgid  "historywarning"
+msgstr  "خبردار: جيڪو صفحو توهان ڊاهڻ وارا آهيو، تنهن جي هڪ سوانح آهي:"
+
+msgid  "confirmdeletetext"
+msgstr  "توهان هڪ صفحي کي ان جي سموري سوانح سميت ڊاهڻ وارا آهيو. مهرباني ڪري پڪ ڪندا ته توهان اهو ئي ڪرڻ گھرو ٿا، ۽ اهو ته توهان ان جي نتيجن کان واقف آهيو، ۽ اهو پڻ ته توهان اهو ڪم [[{{MediaWiki:Policy-url}}|پاليسي]]ءَ مطابق ڪري رهيا آهيو."
+
+msgid  "actioncomplete"
+msgstr  "ڪم پُورو"
+
+msgid  "deletedtext"
+msgstr  "\"<nowiki>$1</nowiki>\" ڊهي چڪو آهي.\nتازو ڊاٺل صفحن جي فهرست لاءِ $2 ڏسندا."
+
+msgid  "deletedarticle"
+msgstr  "\"[[$1]]\" ڊهي چڪو"
+
+msgid  "dellogpage"
+msgstr  "ڊاٺ لاگ"
+
+msgid  "deletecomment"
+msgstr  "سبب:"
+
+msgid  "deleteotherreason"
+msgstr  "اڃا ڪو ٻيو سبب:"
+
+msgid  "deletereasonotherlist"
+msgstr  "ٻيو سبب"
+
+msgid  "rollbacklink"
+msgstr  "واپس ورايو"
+
+msgid  "protectlogpage"
+msgstr  "تحفظ لاگ"
+
+msgid  "prot_1movedto2"
+msgstr  "[[$1]] کي چوري [[$2]] تي رکيو ويو"
+
+msgid  "protect-legend"
+msgstr  "تحفظڻ جي پڪ ڪريو"
+
+msgid  "protectcomment"
+msgstr  "سبب:"
+
+msgid  "protectexpiry"
+msgstr  "اختتام:"
+
+msgid  "protect_expiry_invalid"
+msgstr  "انجامي مدو ناقابلڪار آهي."
+
+msgid  "protect_expiry_old"
+msgstr  "انجامي مدو ماضيءَ ۾ آهي."
+
+msgid  "protect-text"
+msgstr  "توهان '''<nowiki>$1</nowiki>''' صفحي جي تحفظاتي سطح ڏسي ۽ بدلائي سگھو ٿا."
+
+msgid  "protect-locked-access"
+msgstr  "توهان جو کاتو صفحن جي تحفظاتي سطح تبديلي ڪرڻ جا اختيار نه ٿو رکي. هيٺ صفحي جون وقوعات (سيٽڱس) پيش ڪجن ٿيون '''$1''':"
+
+msgid  "protect-cascadeon"
+msgstr  "هيءُ صفحو في الوقت تحفظيل آهي، ڇاڪاڻ ته اهو هيٺين {{PLURAL:$1|صفحي|صفحن}} جو حصو آهي، جنهن تي تحفظ در تحفظ لاڳو ٿيل آهي."
+
+msgid  "protect-fallback"
+msgstr  "\"$1\" جي اجازت گھرجي"
+
+msgid  "protect-level-autoconfirmed"
+msgstr  "غيرکاتيدار يُوزرس کي بندشيو"
+
+msgid  "protect-level-sysop"
+msgstr  "صرف منتظمين"
+
+msgid  "protect-summary-cascade"
+msgstr  "تحفظ در تحفظ"
+
+msgid  "protect-cascade"
+msgstr  "هن صفحي ۾ شامل صفحن کي تحفظيو (تحفظ در تحفظ)"
+
+msgid  "protect-cantedit"
+msgstr  "توهان هن صفحي جي تحفظاتي سطح نٿا بدلائي سگھو، ڇاڪاڻ ته توهان ان کي سنوارڻ جي اجازت نٿا رکو."
+
+msgid  "protect-expiry-options"
+msgstr  "2 ڪلاڪ:2 hours،1 ڏينهن:1 day،3 ڏينهن:3 days،1 هفتو:1 week،2 هفتا:2 weeks،1 مهينو:1 month،3 مهينا:3 months،6 مهينا:6 months،1 سال:1 year،لامحدود:infinite"
+
+msgid  "restriction-type"
+msgstr  "اجازتنامو:"
+
+msgid  "restriction-level"
+msgstr  "روڪ سطح:"
+
+msgid  "pagesize"
+msgstr  "(ٻاٽڻيون)"
+
+msgid  "undeletebtn"
+msgstr  "بحاليو"
+
+msgid  "undelete-error-short"
+msgstr  "هيءُ فائيل اڻڊاهيندي چُڪَ ٿي آهي: $1"
+
+msgid  "namespace"
+msgstr  "نانءُ پولار:"
+
+msgid  "invert"
+msgstr  "چونڊ ابتيو"
+
+msgid  "blanknamespace"
+msgstr  "(مُک)"
+
+msgid  "contributions"
+msgstr  "يوزر جون ڀاڱيداريون"
+
+msgid  "mycontris"
+msgstr  "منهنجون ڀاڱيداريون"
+
+msgid  "contribsub2"
+msgstr  "براءِ $1 ($2)"
+
+msgid  "uctop"
+msgstr  "(سِرُ)"
+
+msgid  "month"
+msgstr  "مهينو (۽ اڳوڻيون):"
+
+msgid  "year"
+msgstr  "سال (۽ اڳوڻيون):"
+
+msgid  "sp-contributions-newbies-sub"
+msgstr  "نون کاتن لاءِ"
+
+msgid  "sp-contributions-blocklog"
+msgstr  "بنسش لاگ"
+
+msgid  "sp-contributions-talk"
+msgstr  "بحث"
+
+msgid  "whatlinkshere"
+msgstr  "هتان ڇا ڳنڍيل آهي"
+
+msgid  "whatlinkshere-title"
+msgstr  "$1 سان ڳنڍيل صفحا"
+
+msgid  "linkshere"
+msgstr  "هيٺيان صفحا '''[[:$1]]''' سان ڳنڍيل آهن:"
+
+msgid  "nolinkshere"
+msgstr  "'''[[:$1]]''' سان ڪو به صفحو ڳنڍيل ناهي."
+
+msgid  "isredirect"
+msgstr  "چورڻو صفحو"
+
+msgid  "istemplate"
+msgstr  "شموليت"
+
+msgid  "whatlinkshere-prev"
+msgstr  "{{PLURAL:$1|پويون|پويون $1}}"
+
+msgid  "whatlinkshere-next"
+msgstr  "{{PLURAL:$1|اڳيون|اڳيان $1}}"
+
+msgid  "whatlinkshere-links"
+msgstr  "← ڳنڍڻا"
+
+msgid  "blockip"
+msgstr  "يُوزر کي روڪيو"
+
+msgid  "ipboptions"
+msgstr  "2 ڪلاڪ:2 hours،1 ڏينهن:1 day،3 ڏينهن:3 days،1 هفتو:1 week،2 هفتا:2 weeks،1 مهينو:1 month،3 مهينا:3 months،6 مهينا:6 months،1 سال:1 year،لامحدود:infinite"
+
+msgid  "badipaddress"
+msgstr  "ناقابلڪار آءِ پي پتو"
+
+msgid  "ipblocklist"
+msgstr  "بندشيل يوزرنانءُ ۽ آءِ پي پتا"
+
+msgid  "infiniteblock"
+msgstr  "لامحدود"
+
+msgid  "anononlyblock"
+msgstr  "فقط نامعلوم"
+
+msgid  "noautoblockblock"
+msgstr  "خودڪار بندش روڪيل"
+
+msgid  "createaccountblock"
+msgstr  "کاتو کولڻ جي روڪَ ٿيل"
+
+msgid  "blocklink"
+msgstr  "بندشيو"
+
+msgid  "unblocklink"
+msgstr  "اڻبندشيو"
+
+msgid  "contribslink"
+msgstr  "ڀاڱيداريون"
+
+msgid  "blocklogpage"
+msgstr  "بندش لاگ"
+
+msgid  "blocklogentry"
+msgstr  "\"[[$1]]\" کي بندشيو ويو $2 $3 جي عرصي لاء"
+
+msgid  "block-log-flags-anononly"
+msgstr  "فقط نامعلوم يوزرس"
+
+msgid  "movepagetext"
+msgstr  "هيٺيون فارم استعمال ڪندي ڪنهن صفحي کي نئون عنوان ڏئي سگھجي ٿو، جنهن سان سمورو صفحو نئين عنوان ڏانهن هليو ويندو. اڳوڻو عنوان نئين عنوان ڏانهن چورڻو بنجي ويندو. ان ڳالهه جي پڪ ڪرڻ ذميواري توهان تي آهي ته ڳنڍڻا اتي ئي وٺي وڃن ٿا جتي انهن کي وٺي وڃڻ گھرجي.\n\nياد رکندا ته جيڪڏهن نئين عنوان سان اڳي ئي ڪو مضمون موجود آهي ته پوءِ صفحو '''نه''' چوريو ويندو، سوا ان جي ته موجوده صفحو محظ خالي آهي يا ڪا به سوانح نه رکندڙ ڪو چورڻو آهي.\n\n'''خبردار!'''\nاها هڪ مقبول صفحي لاءِ ڪا غير متوقه ۽ انتهائي اڻوڻندڙ تبديلي ثابت ٿي سگھي ٿي؛ براءِ مهرباني اڳتي وڌڻ کان اڳ پڪ ڪندا ته توهان اها تبديلي آڻڻ جي نتيجن کان چڱيءَ ريت واقف آهيو."
+
+msgid  "movepagetalktext"
+msgstr  "واسطيدار مباحثي صفحو پاڻهي ئي چوريو ويندو ماهسوا:\n\n*نئين عنوان سان هڪ اڻ پورو يعني غير خالي مباحثي صفحو اڳي ئي وجود رکندو هجي، يا\n*توهان هيٺين باڪس کي اڻ ٽِڪ ڪريو\n\nانهن صورتن ۾، جيڪڏهن توهان چاهيو ته صفحي کي پاڻ چوري يا ضمائي سگھو ٿا."
+
+msgid  "movearticle"
+msgstr  "صفحو چوريو:"
+
+msgid  "newtitle"
+msgstr  "نئين عنوان ڏانهن:"
+
+msgid  "move-watch"
+msgstr  "هيءُ صفحو ٽيٽيو"
+
+msgid  "movepagebtn"
+msgstr  "صفحو چوريو"
+
+msgid  "pagemovedsub"
+msgstr  "چورڻ جو عمل ڪامياب ٿيو"
+
+msgid  "movepage-moved"
+msgstr  "'''\"$1\" کي چوري \"$2\" تي رکيو ويو آهي'''"
+
+msgid  "articleexists"
+msgstr  "ان نالي سان صفحو اڳي ئي وجود رکي ٿو، يا ته توهان جو ڏنل نالو ناقابلڪار آهي."
+
+msgid  "talkexists"
+msgstr  "\n'''موادي صفحو پاڻ ته ڪاميابيءَ سان چُري ويو، پر لاڳاپيل مباحثي صفحو چُري نه سگھيو ڇاڪاڻ ته نئين عنوان تي اڳي ئي هڪ مباحثي صفحو موجود آهي. براءِ مهرباني انهن ٻنهي هٿ سان ضمائيندا."
+
+msgid  "movedto"
+msgstr  "چوريو ويو برسر"
+
+msgid  "movetalk"
+msgstr  "لاڳاپيل مباحثي صفحو چوريو"
+
+msgid  "1movedto2"
+msgstr  "[[$1]] کي چوري [[$2]] تي رکيو ويو"
+
+msgid  "movelogpage"
+msgstr  "چورڻ لاگ"
+
+msgid  "movereason"
+msgstr  "سبب:"
+
+msgid  "revertmove"
+msgstr  "ورايو"
+
+msgid  "delete_and_move_confirm"
+msgstr  "جي ها، صفحو ڊاهيو"
+
+msgid  "delete_and_move_reason"
+msgstr  "چورڻ جو عمل ممڪن بنائڻ لاءِ ڊاٺو ويو"
+
+msgid  "export"
+msgstr  "صفحا برآمديو"
+
+msgid  "allmessages"
+msgstr  "سرشتائي نياپا"
+
+msgid  "allmessagesname"
+msgstr  "نالو"
+
+msgid  "allmessagescurrent"
+msgstr  "موجوده تحرير"
+
+msgid  "thumbnail-more"
+msgstr  "وڏو ڪريو"
+
+msgid  "importlogpage"
+msgstr  "درآمد لاگ"
+
+msgid  "tooltip-pt-userpage"
+msgstr  "منهنجو تعارفي صفحو"
+
+msgid  "tooltip-pt-mytalk"
+msgstr  "منهنجو مباحثي صفحو"
+
+msgid  "tooltip-pt-preferences"
+msgstr  "منهنجون ترجيحات"
+
+msgid  "tooltip-pt-watchlist"
+msgstr  "توهان جي ٽيٽ فهرست ۾ شامل صفحا"
+
+msgid  "tooltip-pt-mycontris"
+msgstr  "منهنجون ڀاڱيداريون"
+
+msgid  "tooltip-pt-login"
+msgstr  "توهان کي همٿائجي ٿو ته توهان لاگ اِن ٿيو، بهرحال اهو لازمي ناهي."
+
+msgid  "tooltip-pt-logout"
+msgstr  "لاگ آئوٽ"
+
+msgid  "tooltip-ca-talk"
+msgstr  "موادي صفحي تي بحث"
+
+msgid  "tooltip-ca-edit"
+msgstr  "توهان هيءُ صفحو سنواري سگھو ٿا. مهرباني ڪري سانڍڻ کان اڳ پيش نگاهه جو اختيار استعمال ڪندا."
+
+msgid  "tooltip-ca-addsection"
+msgstr  "هن بحث تي تاثرات درج ڪرايو"
+
+msgid  "tooltip-ca-viewsource"
+msgstr  "هيءُ صفحو تحفظيل آهي. توهان ان جو ڪوڊ ڏسي سگھو ٿا."
+
+msgid  "tooltip-ca-protect"
+msgstr  "هيءُ صفحو تحفظيو"
+
+msgid  "tooltip-ca-delete"
+msgstr  "هيءُ صفحو ڊاهيو"
+
+msgid  "tooltip-ca-move"
+msgstr  "هيءُ صفحو چوريو"
+
+msgid  "tooltip-ca-watch"
+msgstr  "هيءُ صفحو پنهنجي ٽيٽ فهرست ۾ شامل ڪريو"
+
+msgid  "tooltip-ca-unwatch"
+msgstr  "هيءُ صفحو پنهنجي ٽيٽ فهرست مان هٽايو"
+
+msgid  "tooltip-search"
+msgstr  "جھڙتيو {{SITENAME}}"
+
+msgid  "tooltip-n-mainpage"
+msgstr  "مک صفحو گھمو"
+
+msgid  "tooltip-n-portal"
+msgstr  "هن رٿا بابت، توهان ڇا ٿا ڪري سگھو، ڪهڙي شَي ڪٿي ملندي"
+
+msgid  "tooltip-n-currentevents"
+msgstr  "تازن واقعن تي تفصيلي ڄاڻ لهو"
+
+msgid  "tooltip-n-recentchanges"
+msgstr  "هن وڪيءَ ۾ تازين تبديلين جي فهرست."
+
+msgid  "tooltip-n-randompage"
+msgstr  "بلاترتيب ڪو به صفحو اتاريو"
+
+msgid  "tooltip-n-help"
+msgstr  "ڳولي لهڻ جي جاءِ."
+
+msgid  "tooltip-t-whatlinkshere"
+msgstr  "هتان ڳنڍيل سمورا وڪي صفحا"
+
+msgid  "tooltip-t-contributions"
+msgstr  "هن يُوزر جون ڀاڱيداريون ڏسو"
+
+msgid  "tooltip-t-emailuser"
+msgstr  "هن يُوزر کي برق ٽپال اماڻيو"
+
+msgid  "tooltip-t-upload"
+msgstr  "فائيل چاڙهيو"
+
+msgid  "tooltip-t-specialpages"
+msgstr  "سڀني خاص صفحن جي فهرست"
+
+msgid  "tooltip-t-print"
+msgstr  "هن صفحي جو ڇاپائتو پرت"
+
+msgid  "tooltip-ca-nstab-user"
+msgstr  "هن جو يُوزر صفحو ڏسو"
+
+msgid  "tooltip-ca-nstab-project"
+msgstr  "رٿائي صفحو ڏسو"
+
+msgid  "tooltip-ca-nstab-image"
+msgstr  "هن فائيل جو صفحو ڏسو"
+
+msgid  "tooltip-ca-nstab-template"
+msgstr  "سانچو ڏسو"
+
+msgid  "tooltip-ca-nstab-help"
+msgstr  "امدادي صفحو ڏسو"
+
+msgid  "tooltip-ca-nstab-category"
+msgstr  "هن زمري جو صفحو ڏسو"
+
+msgid  "tooltip-minoredit"
+msgstr  "ان کي هڪ معمولي ترميم ڄاڻايو"
+
+msgid  "tooltip-save"
+msgstr  "پنهنجون ڪيل تبديليون سانڍيو"
+
+msgid  "tooltip-preview"
+msgstr  "سانڍڻ کان اڳ براءِ مهرباني پنهنجي تبديلين تي پيش نگاهه وجھندا!"
+
+msgid  "tooltip-diff"
+msgstr  "پنهنجون ڪيل تبديليون ڏسو."
+
+msgid  "tooltip-compareselectedversions"
+msgstr  "هن صفحي جن ٻن چونڊيل پرتن درميان تفاوت ڏسو."
+
+msgid  "tooltip-watch"
+msgstr  "هيءُ صفحو پنهنجي ٽيٽ فهرست ۾ شامل ڪريو"
+
+msgid  "anonymous"
+msgstr  "{{SITENAME}} جا نامعلوم يوزرس"
+
+msgid  "previousdiff"
+msgstr  "← اڳوڻو تفاوت"
+
+msgid  "nextdiff"
+msgstr  "نئون تفاوت -->"
+
+msgid  "file-info-size"
+msgstr  "$1 × $2 عڪسلون، فائيل سائيز: $3، MIME ٽائيپ: $4"
+
+msgid  "file-nohires"
+msgstr  "<small>اڃا سنهو تحلل ميسر ناهي.</small>"
+
+msgid  "svg-long-desc"
+msgstr  "ايس وي جي فائيل، اٽڪل $1 × $2 عڪسلون، فائيل سائيز: $3"
+
+msgid  "show-big-image"
+msgstr  "سنهو ترين تحلل"
+
+msgid  "show-big-image-thumb"
+msgstr  "<small>هن پيش نگاهه جي ماپ: $1 × $2 عڪسلون</small>"
+
+msgid  "newimages"
+msgstr  "نون فائيلن جي گيلري"
+
+msgid  "noimages"
+msgstr  "ڏسڻ لاءِ ڪجھه ناهي."
+
+msgid  "bydate"
+msgstr  "تاريخوار"
+
+msgid  "metadata"
+msgstr  "اعدادِ اعداد"
+
+msgid  "metadata-expand"
+msgstr  "توسيعي تفصيل ڏيکاريو"
+
+msgid  "metadata-collapse"
+msgstr  "توسيعي تفصيل لڪايو"
+
+msgid  "exif-imagewidth"
+msgstr  "ويڪر"
+
+msgid  "exif-imagelength"
+msgstr  "اوچائي"
+
+msgid  "exif-bitspersample"
+msgstr  "ٻٽڻيون في جُز"
+
+msgid  "exif-samplesperpixel"
+msgstr  "جزن جو تعداد"
+
+msgid  "exif-xresolution"
+msgstr  "افقي تحلل"
+
+msgid  "exif-yresolution"
+msgstr  "عمودي تحلل"
+
+msgid  "exif-stripoffsets"
+msgstr  "عڪسي اعداد جي مڪانيت"
+
+msgid  "exif-imagedescription"
+msgstr  "عڪس عنوان"
+
+msgid  "exif-saturation"
+msgstr  "رچاءُ"
+
+msgid  "exif-gpslatitude"
+msgstr  "ويڪرائي ڦاڪَ"
+
+msgid  "exif-gpslongituderef"
+msgstr  "اڀرندي يا الهندي ڊگھائي ڦاڪَ"
+
+msgid  "exif-gpslongitude"
+msgstr  "ڊگھائي ڦاڪَ"
+
+msgid  "exif-gpstrack"
+msgstr  "چرپر جو طرف"
+
+msgid  "exif-unknowndate"
+msgstr  "نامعلوم تاريخ"
+
+msgid  "exif-orientation-3"
+msgstr  "180° موڙيل"
+
+msgid  "exif-componentsconfiguration-0"
+msgstr  "وجود نه ٿو رکي"
+
+msgid  "exif-lightsource-0"
+msgstr  "نامعلوم"
+
+msgid  "exif-lightsource-255"
+msgstr  "روشنيءَ جو ٻيو ذريعو"
+
+msgid  "exif-focalplaneresolutionunit-2"
+msgstr  "انچ"
+
+msgid  "exif-scenecapturetype-0"
+msgstr  "معياري"
+
+msgid  "exif-subjectdistancerange-0"
+msgstr  "نامعلوم"
+
+msgid  "exif-subjectdistancerange-3"
+msgstr  "ڏورانهين نگاهه"
+
+msgid  "exif-gpslatitude-s"
+msgstr  "ڏاکڻي ويڪرائي ڦاڪَ"
+
+msgid  "exif-gpslongitude-e"
+msgstr  "اڀرندي ڊگھائي ڦاڪَ"
+
+msgid  "exif-gpsmeasuremode-2"
+msgstr  "2-رخي ماپ"
+
+msgid  "exif-gpsmeasuremode-3"
+msgstr  "3-رخي ماپ"
+
+msgid  "exif-gpsspeed-k"
+msgstr  "ڪلوميٽر في ڪلاڪ"
+
+msgid  "exif-gpsspeed-m"
+msgstr  "ميل في ڪلاڪ"
+
+msgid  "exif-gpsspeed-n"
+msgstr  "ڳنڍيون"
+
+msgid  "edit-externally"
+msgstr  "هيءُ فائيل ڪنهن خارجي منتقڪريءَ سان سنواريو"
+
+msgid  "edit-externally-help"
+msgstr  "وڌيڪ معلومات لاءِ [http://www.mediawiki.org/wiki/Manual:External_editors هدايتون براءِ تنصيبڪاري] ڏسندا."
+
+msgid  "recentchangesall"
+msgstr  "سڀ"
+
+msgid  "imagelistall"
+msgstr  "سڀ"
+
+msgid  "watchlistall2"
+msgstr  "سڀ"
+
+msgid  "namespacesall"
+msgstr  "سڀ"
+
+msgid  "monthsall"
+msgstr  "سڀ"
+
+msgid  "confirmemail_success"
+msgstr  "توھان جي برق ٽپال جي پڪ ڪئي وئي آھي. ھاڻِ توھان لاگ ان ٿي وڪيءَ جو مزو وٺي سگھو ٿا"
+
+msgid  "recreate"
+msgstr  "ورسجيو"
+
+msgid  "watchlisttools-view"
+msgstr  "لاڳاپيل تبديليون ڏسو"
+
+msgid  "watchlisttools-edit"
+msgstr  "ٽيٽ فهرست ڏسو ۽ سنواريو"
+
+msgid  "watchlisttools-raw"
+msgstr  "ڪچي ٽيٽ فهرست سنواريو"
+
+msgid  "version"
+msgstr  "ورزن"
+
+msgid  "specialpages"
+msgstr  "خاص صفحا"
+
+msgid  "specialpages-group-users"
+msgstr  "يوزرس ۽ حق"
+

@@ -1,0 +1,5397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "#tilvísun"
+msgstr "#REDIRECT"
+
+msgid  "#TILVÍSUN"
+msgstr "#REDIRECT"
+
+msgid  "__EMSAFN__"
+msgstr "__NOGALLERY__"
+
+msgid  "NÚDAGUR"
+msgstr "CURRENTDAY"
+
+msgid  "NÚDAGUR2"
+msgstr "CURRENTDAY2"
+
+msgid  "NÚDAGNAFN"
+msgstr "CURRENTDAYNAME"
+
+msgid  "NÚÁR"
+msgstr "CURRENTYEAR"
+
+msgid  "NÚTÍMI"
+msgstr "CURRENTTIME"
+
+msgid  "NÚKTÍMI"
+msgstr "CURRENTHOUR"
+
+msgid  "STMÁN"
+msgstr "LOCALMONTH2"
+
+msgid  "LOCALMONTH"
+msgstr "LOCALMONTH2"
+
+msgid  "STMÁNNAFN"
+msgstr "LOCALMONTHNAME"
+
+msgid  "STMÁNST"
+msgstr "LOCALMONTHABBREV"
+
+msgid  "STDAGUR"
+msgstr "LOCALDAY"
+
+msgid  "STDAGUR2"
+msgstr "LOCALDAY2"
+
+msgid  "STDAGNAFN"
+msgstr "LOCALDAYNAME"
+
+msgid  "STÁR"
+msgstr "LOCALYEAR"
+
+msgid  "STTÍMI"
+msgstr "LOCALTIME"
+
+msgid  "STKTÍMI"
+msgstr "LOCALHOUR"
+
+msgid  "FJLSÍÐA"
+msgstr "NUMBEROFPAGES"
+
+msgid  "FJLGREINA"
+msgstr "NUMBEROFARTICLES"
+
+msgid  "FJLSKJALA"
+msgstr "NUMBEROFFILES"
+
+msgid  "FJLNOT"
+msgstr "NUMBEROFUSERS"
+
+msgid  "FJLBREYT"
+msgstr "NUMBEROFEDITS"
+
+msgid  "SÍÐUNAFN"
+msgstr "PAGENAME"
+
+msgid  "NAFNSVÆÐI"
+msgstr "NAMESPACE"
+
+msgid  "SPJALLSVÆÐI"
+msgstr "TALKSPACE"
+
+msgid  "FULLTSÍÐUNF"
+msgstr "FULLPAGENAME"
+
+msgid  "þumall"
+msgstr "thumb=$1"
+
+msgid  "thumbnail=$1"
+msgstr "thumb=$1"
+
+msgid  "hægri"
+msgstr "right"
+
+msgid  "vinstri"
+msgstr "left"
+
+msgid  "engin"
+msgstr "none"
+
+msgid  "$1dp"
+msgstr "$1px"
+
+msgid  "miðja"
+msgstr "centre"
+
+msgid  "center"
+msgstr "centre"
+
+msgid  "undir"
+msgstr "sub"
+
+msgid  "yfir"
+msgstr "sup"
+
+msgid  "super"
+msgstr "sup"
+
+msgid  "efst"
+msgstr "top"
+
+msgid  "neðst"
+msgstr "bottom"
+
+msgid  "texti-neðst"
+msgstr "text-bottom"
+
+msgid  "NR:"
+msgstr "NS:"
+
+msgid  "VEFÞJ"
+msgstr "SERVER"
+
+msgid  "VEFÞJNF"
+msgstr "SERVERNAME"
+
+msgid  "MÁLFRÆÐI:"
+msgstr "GRAMMAR:"
+
+msgid  "NÚVIKA"
+msgstr "CURRENTWEEK"
+
+msgid  "STVIKA"
+msgstr "LOCALWEEK"
+
+msgid  "FLTALA:"
+msgstr "PLURAL:"
+
+msgid  "HRÁ:"
+msgstr "RAW:"
+
+msgid  "SÝNATITIL"
+msgstr "DISPLAYTITLE"
+
+msgid  "#TUNGUMÁL"
+msgstr "#LANGUAGE:"
+
+msgid  "kerfissíða"
+msgstr "special"
+
+msgid  "tog-underline"
+msgstr  "Undirstrika tengla:"
+
+msgid  "tog-highlightbroken"
+msgstr  "Sýna brotna tengla <a href=\"\" class=\"new\">svona</a> (annars: svona<a href=\"\" class=\"internal\">?</a>)."
+
+msgid  "tog-justify"
+msgstr  "Jafna málsgreinar"
+
+msgid  "tog-hideminor"
+msgstr  "Fela minniháttar breytingar í nýlegum breytingum"
+
+msgid  "tog-hidepatrolled"
+msgstr  "Fela yfirfarnar breytingar í nýlegum breytingum"
+
+msgid  "tog-newpageshidepatrolled"
+msgstr  "Fela yfirfarnar breytingar í listanum yfir nýjar síður"
+
+msgid  "tog-extendwatchlist"
+msgstr  "Sýna allar breytingar á vaktlistanum, ekki einungis þær nýjustu"
+
+msgid  "tog-usenewrc"
+msgstr  "Endurbættar auknar nýlegar breytingar (þarfnast JavaScript)"
+
+msgid  "tog-numberheadings"
+msgstr  "Númera fyrirsagnir sjálfkrafa"
+
+msgid  "tog-showtoolbar"
+msgstr  "Sýna breytingarverkfærastiku (JavaScript)"
+
+msgid  "tog-editondblclick"
+msgstr  "Breyta síðum þegar tvísmellt er (JavaScript)"
+
+msgid  "tog-editsection"
+msgstr  "Virkja hlutabreytingu með [breyta] tenglum"
+
+msgid  "tog-editsectiononrightclick"
+msgstr  "Virkja hlutabreytingu með því að hægrismella á hlutafyrirsagnir (JavaScript)"
+
+msgid  "tog-showtoc"
+msgstr  "Sýna efnisyfirlit (fyrir síður með meira en 3 fyrirsagnir)"
+
+msgid  "tog-rememberpassword"
+msgstr  "Muna innskráninguna mína í þessum vafra (í allt að $1 {{PLURAL:$1|dag|daga}})"
+
+msgid  "tog-watchcreations"
+msgstr  "Bæta síðum sem ég bý til á vaktlistann minn"
+
+msgid  "tog-watchdefault"
+msgstr  "Bæta síðum sem ég breyti á vaktlistann minn"
+
+msgid  "tog-watchmoves"
+msgstr  "Bæta síðum sem ég færi á vaktlistann minn"
+
+msgid  "tog-watchdeletion"
+msgstr  "Bæta síðum sem ég eyði á vaktlistann minn"
+
+msgid  "tog-minordefault"
+msgstr  "Merkja allar breytingar sem minniháttar sjálfgefið"
+
+msgid  "tog-previewontop"
+msgstr  "Sýna forskoðun á undan breytingarkassanum"
+
+msgid  "tog-previewonfirst"
+msgstr  "Sýna forskoðun með fyrstu breytingu"
+
+msgid  "tog-nocache"
+msgstr  "Slökkva á flýtiminni vafrans"
+
+msgid  "tog-enotifwatchlistpages"
+msgstr  "Senda mér tölvupóst þegar síðu á vaktlistanum mínu er breytt"
+
+msgid  "tog-enotifusertalkpages"
+msgstr  "Senda mér tölvupóst þegar notandaspjallinu mínu er breytt"
+
+msgid  "tog-enotifminoredits"
+msgstr  "Senda mér einnig tölvupóst vegna minniháttar breytinga á síðum"
+
+msgid  "tog-enotifrevealaddr"
+msgstr  "Gefa upp netfang mitt í tilkynningarpóstum"
+
+msgid  "tog-shownumberswatching"
+msgstr  "Sýna fjölda vaktandi notenda"
+
+msgid  "tog-oldsig"
+msgstr  "Undirskrift þín eins og hún er núna:"
+
+msgid  "tog-fancysig"
+msgstr  "Taka undirskrift sem wikitexti (án sjálfkrafa tengils)"
+
+msgid  "tog-externaleditor"
+msgstr  "Nota utanaðkomandi ritil sjálfgefið (eingöngu fyrir reynda, þarfnast sérstakra stillinga á tölvunni þinni)"
+
+msgid  "tog-externaldiff"
+msgstr  "Nota utanaðkomandi mismun sjálfgefið (eingöngu fyrir reynda, þarfnast sérstakra stillinga á tölvunni þinni)"
+
+msgid  "tog-showjumplinks"
+msgstr  "Virkja „stökkva á“ aðgengitengla"
+
+msgid  "tog-uselivepreview"
+msgstr  "Nota beina forskoðun (JavaScript) (Á tilraunastigi)"
+
+msgid  "tog-forceeditsummary"
+msgstr  "Birta áminningu þegar breytingarágripið er tómt"
+
+msgid  "tog-watchlisthideown"
+msgstr  "Ekki sýna mínar breytingar á vaktlistanum"
+
+msgid  "tog-watchlisthidebots"
+msgstr  "Ekki sýna breytingar vélmenna á vaktlistanum"
+
+msgid  "tog-watchlisthideminor"
+msgstr  "Ekki sýna minniháttar breytingar á vaktlistanum"
+
+msgid  "tog-watchlisthideliu"
+msgstr  "Ekki sýna breytingar innskráðra notenda á vaktlistanum"
+
+msgid  "tog-watchlisthideanons"
+msgstr  "Ekki sýna breytingar óþekktra notenda á vaktlistanum"
+
+msgid  "tog-watchlisthidepatrolled"
+msgstr  "Fela yfirfarnar breytingar í vaktlistanum"
+
+msgid  "tog-ccmeonemails"
+msgstr  "Senda mér afrit af tölvupóstum sem ég sendi öðrum notendum"
+
+msgid  "tog-diffonly"
+msgstr  "Ekki sýna síðuefni undir mismunum"
+
+msgid  "tog-showhiddencats"
+msgstr  "Sýna falda flokka"
+
+msgid  "underline-always"
+msgstr  "Alltaf"
+
+msgid  "underline-never"
+msgstr  "Aldrei"
+
+msgid  "underline-default"
+msgstr  "skv. vafrastillingu"
+
+msgid  "editfont-style"
+msgstr  "Breyta leturgerð í textareitum"
+
+msgid  "editfont-default"
+msgstr  "skv. vafrastillingu"
+
+msgid  "editfont-monospace"
+msgstr  "Monospaced letur"
+
+msgid  "editfont-sansserif"
+msgstr  "Sans-serif font"
+
+msgid  "editfont-serif"
+msgstr  "Serif letur"
+
+msgid  "sunday"
+msgstr  "sunnudagur"
+
+msgid  "monday"
+msgstr  "mánudagur"
+
+msgid  "tuesday"
+msgstr  "þriðjudagur"
+
+msgid  "wednesday"
+msgstr  "miðvikudagur"
+
+msgid  "thursday"
+msgstr  "fimmtudagur"
+
+msgid  "friday"
+msgstr  "föstudagur"
+
+msgid  "saturday"
+msgstr  "laugardagur"
+
+msgid  "sun"
+msgstr  "sun"
+
+msgid  "mon"
+msgstr  "mán"
+
+msgid  "tue"
+msgstr  "þri"
+
+msgid  "wed"
+msgstr  "mið"
+
+msgid  "thu"
+msgstr  "fim"
+
+msgid  "fri"
+msgstr  "fös"
+
+msgid  "sat"
+msgstr  "lau"
+
+msgid  "january"
+msgstr  "janúar"
+
+msgid  "february"
+msgstr  "febrúar"
+
+msgid  "march"
+msgstr  "mars"
+
+msgid  "april"
+msgstr  "apríl"
+
+msgid  "may_long"
+msgstr  "maí"
+
+msgid  "june"
+msgstr  "júní"
+
+msgid  "july"
+msgstr  "júlí"
+
+msgid  "august"
+msgstr  "ágúst"
+
+msgid  "september"
+msgstr  "september"
+
+msgid  "october"
+msgstr  "október"
+
+msgid  "november"
+msgstr  "nóvember"
+
+msgid  "december"
+msgstr  "desember"
+
+msgid  "january-gen"
+msgstr  "janúar"
+
+msgid  "february-gen"
+msgstr  "febrúar"
+
+msgid  "march-gen"
+msgstr  "mars"
+
+msgid  "april-gen"
+msgstr  "apríl"
+
+msgid  "may-gen"
+msgstr  "maí"
+
+msgid  "june-gen"
+msgstr  "júní"
+
+msgid  "july-gen"
+msgstr  "júlí"
+
+msgid  "august-gen"
+msgstr  "ágúst"
+
+msgid  "september-gen"
+msgstr  "september"
+
+msgid  "october-gen"
+msgstr  "október"
+
+msgid  "november-gen"
+msgstr  "nóvember"
+
+msgid  "december-gen"
+msgstr  "desember"
+
+msgid  "jan"
+msgstr  "jan"
+
+msgid  "feb"
+msgstr  "feb"
+
+msgid  "mar"
+msgstr  "mar"
+
+msgid  "apr"
+msgstr  "apr"
+
+msgid  "may"
+msgstr  "maí"
+
+msgid  "jun"
+msgstr  "jún"
+
+msgid  "jul"
+msgstr  "júl"
+
+msgid  "aug"
+msgstr  "ágú"
+
+msgid  "sep"
+msgstr  "sep"
+
+msgid  "oct"
+msgstr  "okt"
+
+msgid  "nov"
+msgstr  "nóv"
+
+msgid  "dec"
+msgstr  "des"
+
+msgid  "pagecategories"
+msgstr  "{{PLURAL:$1|Flokkur|Flokkar}}"
+
+msgid  "category_header"
+msgstr  "Síður í flokknum „$1“"
+
+msgid  "subcategories"
+msgstr  "Undirflokkar"
+
+msgid  "category-media-header"
+msgstr  "Margmiðlunarefni í flokknum „$1“"
+
+msgid  "category-empty"
+msgstr  "''Þessi flokkur inniheldur engar síður eða margmiðlunarefni.''"
+
+msgid  "hidden-categories"
+msgstr  "{{PLURAL:$1|Falinn flokkur|Faldir flokkar}}"
+
+msgid  "hidden-category-category"
+msgstr  "Faldir flokkar"
+
+msgid  "category-subcat-count"
+msgstr  "{{PLURAL:$2|Þessi flokkur hefur einungis eftirfarandi undirflokk.|Þessi flokkur hefur eftirfarandi {{PLURAL:$1|undirflokk|$1 undirflokka}}, af alls $2.}}"
+
+msgid  "category-subcat-count-limited"
+msgstr  "Þessi flokkur hefur eftirfarandi {{PLURAL:$1|undirflokk|$1 undirflokka}}."
+
+msgid  "category-article-count"
+msgstr  "{{PLURAL:$2|Þessi flokkur inniheldur aðeins eftirfarandi síðu.|Eftirfarandi {{PLURAL:$1|síða er|síður eru}} í þessum flokki, af alls $1.}}"
+
+msgid  "category-article-count-limited"
+msgstr  "Eftirfarndi {{PLURAL:$1|síða er|$1 síður eru}} í þessum flokki."
+
+msgid  "category-file-count"
+msgstr  "{{PLURAL:$2|Þessi flokkur inniheldur einungis eftirfarandi skrá.|Eftirfarandi {{PLURAL:$1|skrá er|$1 skrár eru}} í þessum flokki, af alls $2.}}"
+
+msgid  "category-file-count-limited"
+msgstr  "Eftirfarandi {{PLURAL:$1|skrá er|$1 skrár eru}} í þessum flokki."
+
+msgid  "listingcontinuesabbrev"
+msgstr  "frh."
+
+msgid  "linkprefix"
+msgstr  "/^(.*?)([áÁðÐéÉíÍóÓúÚýÝþÞæÆöÖA-Za-z-–]+)$/sDu"
+
+msgid  "mainpagetext"
+msgstr  "'''Uppsetning á MediaWiki heppnaðist.'''"
+
+msgid  "mainpagedocfooter"
+msgstr  "Ráðfærðu þig við [http://meta.wikimedia.org/wiki/Help:Contents Notandahandbókina] fyrir frekari upplýsingar um notkun wiki-hugbúnaðarins.\n\n== Fyrir byrjendur ==\n\n* [http://www.mediawiki.org/wiki/Manual:Configuration_settings Listi yfir uppsetningarstillingar]\n* [http://www.mediawiki.org/wiki/Manual:FAQ MediaWiki Algengar spurningar MediaWiki]\n* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce Póstlisti MediaWiki-útgáfa]"
+
+msgid  "about"
+msgstr  "Um"
+
+msgid  "article"
+msgstr  "Efnissíða"
+
+msgid  "newwindow"
+msgstr  "(opnast í nýjum glugga)"
+
+msgid  "cancel"
+msgstr  "Hætta við"
+
+msgid  "moredotdotdot"
+msgstr  "Meira..."
+
+msgid  "mypage"
+msgstr  "Mín síða"
+
+msgid  "mytalk"
+msgstr  "Spjall"
+
+msgid  "anontalk"
+msgstr  "Spjallsíða þessa vistfangs."
+
+msgid  "navigation"
+msgstr  "Flakk"
+
+msgid  "and"
+msgstr  "&#32;og"
+
+msgid  "qbfind"
+msgstr  "Finna"
+
+msgid  "qbbrowse"
+msgstr  "Flakka"
+
+msgid  "qbedit"
+msgstr  "Breyta"
+
+msgid  "qbpageoptions"
+msgstr  "Þessi síða"
+
+msgid  "qbpageinfo"
+msgstr  "Samhengi"
+
+msgid  "qbmyoptions"
+msgstr  "Mínar síður"
+
+msgid  "qbspecialpages"
+msgstr  "Kerfissíður"
+
+msgid  "faq"
+msgstr  "Algengar spurningar"
+
+msgid  "faqpage"
+msgstr  "Project:Algengar spurningar"
+
+msgid  "vector-action-addsection"
+msgstr  "Bæta við umræðu"
+
+msgid  "vector-action-delete"
+msgstr  "Eyða"
+
+msgid  "vector-action-move"
+msgstr  "Færa"
+
+msgid  "vector-action-protect"
+msgstr  "Vernda"
+
+msgid  "vector-action-undelete"
+msgstr  "Hætta við eyðingu"
+
+msgid  "vector-action-unprotect"
+msgstr  "Afvernda"
+
+msgid  "vector-view-create"
+msgstr  "Skapa"
+
+msgid  "vector-view-edit"
+msgstr  "Breyta"
+
+msgid  "vector-view-history"
+msgstr  "Breytingaskrá"
+
+msgid  "vector-view-view"
+msgstr  "Lesa"
+
+msgid  "vector-view-viewsource"
+msgstr  "Sýna frumkóða"
+
+msgid  "actions"
+msgstr  "Aðgerðir"
+
+msgid  "namespaces"
+msgstr  "Nafnrými"
+
+msgid  "variants"
+msgstr  "Útgáfur"
+
+msgid  "errorpagetitle"
+msgstr  "Villa"
+
+msgid  "returnto"
+msgstr  "Aftur á: $1."
+
+msgid  "tagline"
+msgstr  "Úr {{SITENAME}}"
+
+msgid  "help"
+msgstr  "Hjálp"
+
+msgid  "search"
+msgstr  "Leit"
+
+msgid  "searchbutton"
+msgstr  "Leita"
+
+msgid  "go"
+msgstr  "Áfram"
+
+msgid  "searcharticle"
+msgstr  "Áfram"
+
+msgid  "history"
+msgstr  "Breytingaskrá"
+
+msgid  "history_short"
+msgstr  "Breytingaskrá"
+
+msgid  "updatedmarker"
+msgstr  "uppfært frá síðustu heimsókn minni"
+
+msgid  "info_short"
+msgstr  "Upplýsingar"
+
+msgid  "printableversion"
+msgstr  "Prentvæn útgáfa"
+
+msgid  "permalink"
+msgstr  "Varanlegur tengill"
+
+msgid  "print"
+msgstr  "Prenta"
+
+msgid  "edit"
+msgstr  "Breyta"
+
+msgid  "create"
+msgstr  "Skapa"
+
+msgid  "editthispage"
+msgstr  "Breyta þessari síðu"
+
+msgid  "create-this-page"
+msgstr  "Skapa þessari síðu"
+
+msgid  "delete"
+msgstr  "Eyða"
+
+msgid  "deletethispage"
+msgstr  "Eyða þessari síðu"
+
+msgid  "undelete_short"
+msgstr  "Endurvekja {{PLURAL:$1|eina breytingu|$1 breytingar}}"
+
+msgid  "protect"
+msgstr  "Vernda"
+
+msgid  "protect_change"
+msgstr  "breyta"
+
+msgid  "protectthispage"
+msgstr  "Vernda þessa síðu"
+
+msgid  "unprotect"
+msgstr  "Afvernda"
+
+msgid  "unprotectthispage"
+msgstr  "Afvernda þessa síðu"
+
+msgid  "newpage"
+msgstr  "Ný síða"
+
+msgid  "talkpage"
+msgstr  "Ræða um þessa síðu"
+
+msgid  "talkpagelinktext"
+msgstr  "Spjall"
+
+msgid  "specialpage"
+msgstr  "Kerfissíða"
+
+msgid  "personaltools"
+msgstr  "Tenglar"
+
+msgid  "postcomment"
+msgstr  "Nýr hluti"
+
+msgid  "articlepage"
+msgstr  "Sýna núverandi síðu"
+
+msgid  "talk"
+msgstr  "Spjall"
+
+msgid  "views"
+msgstr  "Sýn"
+
+msgid  "toolbox"
+msgstr  "Verkfæri"
+
+msgid  "userpage"
+msgstr  "Skoða notandasíðu"
+
+msgid  "projectpage"
+msgstr  "Skoða verkefnissíðu"
+
+msgid  "imagepage"
+msgstr  "Skoða skráarsíðu"
+
+msgid  "mediawikipage"
+msgstr  "Skoða skilaboðasíðu"
+
+msgid  "templatepage"
+msgstr  "Skoða sniðasíðu"
+
+msgid  "viewhelppage"
+msgstr  "Skoða hjálparsíðu"
+
+msgid  "categorypage"
+msgstr  "Skoða flokkatré"
+
+msgid  "viewtalkpage"
+msgstr  "Skoða umræðu"
+
+msgid  "otherlanguages"
+msgstr  "Á öðrum tungumálum"
+
+msgid  "redirectedfrom"
+msgstr  "(Tilvísað frá $1)"
+
+msgid  "redirectpagesub"
+msgstr  "Tilvísunarsíða"
+
+msgid  "lastmodifiedat"
+msgstr  "Þessari síðu var síðast breytt $1 klukkan $2."
+
+msgid  "viewcount"
+msgstr  "Þessi síða hefur verið skoðuð {{PLURAL:$1|einu sinni|$1 sinnum}}."
+
+msgid  "protectedpage"
+msgstr  "Vernduð síða"
+
+msgid  "jumpto"
+msgstr  "Stökkva á:"
+
+msgid  "jumptonavigation"
+msgstr  "flakk"
+
+msgid  "jumptosearch"
+msgstr  "leita"
+
+msgid  "aboutsite"
+msgstr  "Um {{SITENAME}}"
+
+msgid  "aboutpage"
+msgstr  "Project:Um"
+
+msgid  "copyright"
+msgstr  "Efni má nota samkvæmt $1."
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:Höfundarréttur"
+
+msgid  "currentevents"
+msgstr  "Potturinn"
+
+msgid  "currentevents-url"
+msgstr  "Project:Potturinn"
+
+msgid  "disclaimers"
+msgstr  "Fyrirvarar"
+
+msgid  "disclaimerpage"
+msgstr  "Project:Almennur fyrirvari"
+
+msgid  "edithelp"
+msgstr  "Breytingarhjálp"
+
+msgid  "edithelppage"
+msgstr  "Help:Breyta"
+
+msgid  "helppage"
+msgstr  "Help:Efnisyfirlit"
+
+msgid  "mainpage"
+msgstr  "Forsíða"
+
+msgid  "mainpage-description"
+msgstr  "Forsíða"
+
+msgid  "policy-url"
+msgstr  "Project:Stjórnarstefnur"
+
+msgid  "portal"
+msgstr  "Samfélagsgátt"
+
+msgid  "portal-url"
+msgstr  "Project:Samfélagsgátt"
+
+msgid  "privacy"
+msgstr  "Meðferð persónuupplýsinga"
+
+msgid  "privacypage"
+msgstr  "Project:Stefnumál um friðhelgi"
+
+msgid  "badaccess"
+msgstr  "Aðgangsvilla"
+
+msgid  "badaccess-group0"
+msgstr  "Þú hefur ekki leyfi til að framkvæma þá aðgerð sem þú baðst um."
+
+msgid  "badaccess-groups"
+msgstr  "Aðgerðin sem þú reyndir að framkvæma er takmörkuð notendum í {{PLURAL:$2|hópnum|einum af hópunum}}: $1."
+
+msgid  "versionrequired"
+msgstr  "Þarfnast úgáfu $1 af MediaWiki"
+
+msgid  "versionrequiredtext"
+msgstr  "Útgáfa $1 af MediaWiki er þörf til að geta skoðað þessa síðu.\nSjá [[Special:Version|útgáfusíðuna]]."
+
+msgid  "ok"
+msgstr  "Í lagi"
+
+msgid  "retrievedfrom"
+msgstr  "Sótt frá „$1“"
+
+msgid  "youhavenewmessages"
+msgstr  "Þú hefur fengið $1 ($2)."
+
+msgid  "newmessageslink"
+msgstr  "ný skilaboð"
+
+msgid  "newmessagesdifflink"
+msgstr  "síðasta breyting"
+
+msgid  "youhavenewmessagesmulti"
+msgstr  "Þín bíða ný skilaboð á $1"
+
+msgid  "editsection"
+msgstr  "breyta"
+
+msgid  "editold"
+msgstr  "breyta"
+
+msgid  "viewsourceold"
+msgstr  "skoða efni"
+
+msgid  "editlink"
+msgstr  "breyta"
+
+msgid  "viewsourcelink"
+msgstr  "skoða efni"
+
+msgid  "editsectionhint"
+msgstr  "Breyti hluta: $1"
+
+msgid  "toc"
+msgstr  "Efnisyfirlit"
+
+msgid  "showtoc"
+msgstr  "sýna"
+
+msgid  "hidetoc"
+msgstr  "fela"
+
+msgid  "thisisdeleted"
+msgstr  "Endurvekja eða skoða $1?"
+
+msgid  "viewdeleted"
+msgstr  "Skoða $1?"
+
+msgid  "restorelink"
+msgstr  "{{PLURAL:$1|eina eydda breytingu|$1 eyddar breytingar}}"
+
+msgid  "feedlinks"
+msgstr  "Streymi:"
+
+msgid  "feed-invalid"
+msgstr  "Röng tegund áskriftarstreymis."
+
+msgid  "feed-unavailable"
+msgstr  "Samræmisstreymi eru ekki fáanlegt"
+
+msgid  "site-rss-feed"
+msgstr  "$1 RSS-streymi"
+
+msgid  "site-atom-feed"
+msgstr  "$1 Atom-streymi"
+
+msgid  "page-rss-feed"
+msgstr  "„$1“ RSS-streymi"
+
+msgid  "page-atom-feed"
+msgstr  "„$1“ Atom-streymi"
+
+msgid  "red-link-title"
+msgstr  "$1 (síða er ekki enn til)"
+
+msgid  "nstab-main"
+msgstr  "Síða"
+
+msgid  "nstab-user"
+msgstr  "Notandi"
+
+msgid  "nstab-media"
+msgstr  "Margmiðlunarsíða"
+
+msgid  "nstab-special"
+msgstr  "Kerfissíða"
+
+msgid  "nstab-project"
+msgstr  "Um"
+
+msgid  "nstab-image"
+msgstr  "Skrá"
+
+msgid  "nstab-mediawiki"
+msgstr  "Melding"
+
+msgid  "nstab-template"
+msgstr  "Snið"
+
+msgid  "nstab-help"
+msgstr  "Hjálp"
+
+msgid  "nstab-category"
+msgstr  "Flokkur"
+
+msgid  "nosuchaction"
+msgstr  "Aðgerð ekki til"
+
+msgid  "nosuchactiontext"
+msgstr  "Aðgerðin sem veffangið tilgreinir þekkir er ekki þekkt af wiki"
+
+msgid  "nosuchspecialpage"
+msgstr  "Kerfissíðan er ekki til"
+
+msgid  "nospecialpagetext"
+msgstr  "Þú hefur beðið um kerfissíðu sem ekki er til. Listi yfir gildar kerfissíður er að finna á [[Special:SpecialPages|kerfissíður]]."
+
+msgid  "error"
+msgstr  "Villa"
+
+msgid  "databaseerror"
+msgstr  "Gagnagrunnsvilla"
+
+msgid  "dberrortext"
+msgstr  "Málfræðivilla kom upp í gangagrnunsfyrirspurninni.\nÞetta gæti verið vegna villu í hugbúnaðinum.\nSíðasta gagnagrunnsfyrirspurnin var:\n<blockquote><tt>$1</tt></blockquote>\núr aðgerðinni: „<tt>$2</tt>“.\nMySQL skilar villuboðanum „<tt>$3: $4</tt>“."
+
+msgid  "dberrortextcl"
+msgstr  "Málfræðivilla kom upp í gangagrnunsfyrirspurninni.\nSíðasta gagnagrunnsfyrirspurnin var:\n„$1“\núr aðgerðinni: „$2“.\nMySQL skilar villuboðanum „$3: $4“"
+
+msgid  "laggedslavemode"
+msgstr  "Viðvörun: Síðan inniheldur ekki nýjustu uppfærslur."
+
+msgid  "readonly"
+msgstr  "Gagnagrunnur læstur"
+
+msgid  "enterlockreason"
+msgstr  "Gefðu fram ástæðu fyrir læsingunni, og einnig áætlun\nun hvenær læsingunni verðu aflétt"
+
+msgid  "readonlytext"
+msgstr  "Læst hefur verið fyrir gerð nýrra síða og breytinga í gagnagrunninum, líklega vegna viðhalds, en eftir það mun hann starfa eðlilega.\n\nKerfisstjórinn sem læsti honum gaf þessa skýringu: $1"
+
+msgid  "missing-article"
+msgstr  "Gagnagrunnurinn fann ekki texta síðu sem að hann hefði átt að finna, undir nafninu „$1“ $2.\n\nÞetta orsakast oftast þegar úreltum mismunar- eða breytingaskráartengli er fylgt að síðu sem hefur verið eytt.\n\nEf þetta er ekki raunin, kann að vera að þú hafir rekist á villu í hugbúnaðinum.\nGjörðu svo vel og tilkynntu atvikið til [[Special:ListUsers/sysop|stjórnanda]], og gerðu grein fyrir vefslóðinni."
+
+msgid  "missingarticle-rev"
+msgstr  "(breyting#: $1)"
+
+msgid  "missingarticle-diff"
+msgstr  "(Munur: $1, $2)"
+
+msgid  "readonly_lag"
+msgstr  "Gagnagrunninum hefur verið læst sjálfkrafa á meðan undirvefþjónarnir reyna að hafa í við aðalvefþjóninn"
+
+msgid  "internalerror"
+msgstr  "Kerfisvilla"
+
+msgid  "internalerror_info"
+msgstr  "Innri villa: $1"
+
+msgid  "fileappenderror"
+msgstr  "Gat ekki bætt „$1“ við „$2“."
+
+msgid  "filecopyerror"
+msgstr  "Gat ekki afritað skjal \"$1\" á \"$2\"."
+
+msgid  "filerenameerror"
+msgstr  "Gat ekki endurnefnt skrána „$1“ í „$2“."
+
+msgid  "filedeleteerror"
+msgstr  "Gat ekki eytt skránni „$1“."
+
+msgid  "directorycreateerror"
+msgstr  "Gat ekki búið til efnisskrána \"$1\"."
+
+msgid  "filenotfound"
+msgstr  "Gat ekki fundið skrána „$1“."
+
+msgid  "fileexistserror"
+msgstr  "Ekki var hægt að skrifa í \"$1\" skjalið: það er nú þegar til"
+
+msgid  "unexpected"
+msgstr  "Óvænt gildi: „$1“=„$2“."
+
+msgid  "formerror"
+msgstr  "Villa: gat ekki sent eyðublað"
+
+msgid  "badarticleerror"
+msgstr  "Þetta er ekki hægt að framkvæma á síðunni."
+
+msgid  "cannotdelete"
+msgstr  "Ekki var hægt að eyða síðunni eða myndinni sem valin var. (Líklegt er að einhver annar hafi gert það.)"
+
+msgid  "badtitle"
+msgstr  "Slæmur titill"
+
+msgid  "badtitletext"
+msgstr  "Umbeðin síðutitill er ógildur."
+
+msgid  "perfcached"
+msgstr  "Eftirfarandi er afrit af umbeðinni síðu og gæti því ekki verið nýjasta útgáfa hennar:"
+
+msgid  "perfcachedts"
+msgstr  "Eftirfarandi gögn eru í skyndiminninu, og voru síðast uppfærð $1."
+
+msgid  "querypage-no-updates"
+msgstr  "Lokað er fyrir uppfærslur af þessari síðu. Gögn sett hér munu ekki vistast."
+
+msgid  "wrong_wfQuery_params"
+msgstr  "Röng færibreyta fyrir wfQuery()<br />\nVirkni: $1<br />\nSpurn: $2"
+
+msgid  "viewsource"
+msgstr  "Skoða efni"
+
+msgid  "viewsourcefor"
+msgstr  "fyrir $1"
+
+msgid  "actionthrottled"
+msgstr  "Aðgerðin kafnaði"
+
+msgid  "actionthrottledtext"
+msgstr  "Til þess að verjast ruslpósti, er ekki hægt að framkvæma þessa aðgerð of oft, og þú hefur farið fram yfir þau takmörk. Gjörðu svo vel og reyndu aftur eftir nokkrar mínútur."
+
+msgid  "protectedpagetext"
+msgstr  "Þessari síðu hefur verið læst til að koma í veg fyrir breytingar."
+
+msgid  "viewsourcetext"
+msgstr  "Þú getur skoðað og afritað kóða þessarar síðu:"
+
+msgid  "protectedinterface"
+msgstr  "Þessi síða útvegar textann sem birtist í viðmóti hugbúnaðarins, og er læst til að koma í veg fyrir misnotkun."
+
+msgid  "editinginterface"
+msgstr  "'''Aðvörun:''' Þú ert að breyta síðu sem hefur að geyma texta fyrir notendaumhverfi hugbúnaðarins.\nBreytingar á þessari síðu munu hafa áhrif á notendaumhverfi annarra notenda.\nFyrir þýðingar, gjörðu svo vel að nota [http://translatewiki.net/wiki/Main_Page?setlang=is translatewiki.net], staðfæringverkefni MediaWiki."
+
+msgid  "sqlhidden"
+msgstr  "(SQL-fyrirspurn falin)"
+
+msgid  "cascadeprotected"
+msgstr  "Þessi síða hefur verið vernduð fyrir breytingum, vegna þess að hún er innifalin í eftirfarandi {{PLURAL:$1|síðu, sem er vernduð|síðum, sem eru verndaðar}} með „keðjuverndun“:\n$2"
+
+msgid  "namespaceprotected"
+msgstr  "Þú hefur ekki leyfi til að breyta síðum í '''$1''' nafnrýminu."
+
+msgid  "customcssjsprotected"
+msgstr  "Þú hefur ekki leyfi til að breyta þessari síðu, því hún hefur notandastillingar annars notanda."
+
+msgid  "ns-specialprotected"
+msgstr  "Kerfissíðum er ekki hægt að breyta."
+
+msgid  "titleprotected"
+msgstr  "Þessi titill hefur verið verndaður fyrir sköpun af [[User:$1|$1]].\nÁstæðan sem gefin var ''$2''."
+
+msgid  "virus-badscanner"
+msgstr  "Slæm stilling: óþekktur veiruskannari: ''$1''"
+
+msgid  "virus-scanfailed"
+msgstr  "skönnun mistókst (kóði $1)"
+
+msgid  "virus-unknownscanner"
+msgstr  "óþekkt mótveira:"
+
+msgid  "logouttext"
+msgstr  "'''Þú hefur verið skráð(ur) út.'''\n\nÞú getur haldið áfram að nota {{SITENAME}} óþekkt(ur), eða þú getur [[Special:UserLogin|skráð þig inn aftur]] sem sami eða annar notandi.\nAthugaðu að sumar síður kunna að birtast líkt og þú sért ennþá skráð(ur) inn, þangað til að þú hreinsar skyndiminnið í vafranum þínum."
+
+msgid  "welcomecreation"
+msgstr  "== Velkomin(n), $1! ==\nAðgangurinn þinn hefur verið búinn til.\nEkki gleyma að breyta [[Special:Preferences|{{SITENAME}}-stillingunum]] þínum."
+
+msgid  "yourname"
+msgstr  "Notandanafn:"
+
+msgid  "yourpassword"
+msgstr  "Lykilorð:"
+
+msgid  "yourpasswordagain"
+msgstr  "Endurrita lykilorð:"
+
+msgid  "remembermypassword"
+msgstr  "Muna innskráninguna mína í þessum vafra (í allt að $1 {{PLURAL:$1|dag|daga}})"
+
+msgid  "yourdomainname"
+msgstr  "Þitt lén:"
+
+msgid  "login"
+msgstr  "Innskrá"
+
+msgid  "nav-login-createaccount"
+msgstr  "Innskrá / Búa til aðgang"
+
+msgid  "loginprompt"
+msgstr  "Þú verður að leyfa vefkökur til þess að geta skráð þig inn á {{SITENAME}}."
+
+msgid  "userlogin"
+msgstr  "Innskrá / Búa til aðgang"
+
+msgid  "userloginnocreate"
+msgstr  "Innskrá"
+
+msgid  "logout"
+msgstr  "Útskráning"
+
+msgid  "userlogout"
+msgstr  "Útskrá"
+
+msgid  "notloggedin"
+msgstr  "Ekki innskráð(ur)"
+
+msgid  "nologin"
+msgstr  "Ekki með aðgang? '''$1'''."
+
+msgid  "nologinlink"
+msgstr  "Stofnaðu til aðgangs"
+
+msgid  "createaccount"
+msgstr  "Nýskrá"
+
+msgid  "gotaccount"
+msgstr  "Nú þegar með notandanafn? '''$1'''."
+
+msgid  "gotaccountlink"
+msgstr  "Skráðu þig inn"
+
+msgid  "createaccountmail"
+msgstr  "með tölvupósti"
+
+msgid  "badretype"
+msgstr  "Lykilorðin sem þú skrifaðir eru ekki eins."
+
+msgid  "userexists"
+msgstr  "Þetta notandanafn er þegar í notkun. Vinsamlegast veldu þér annað."
+
+msgid  "loginerror"
+msgstr  "Innskráningarvilla"
+
+msgid  "createaccounterror"
+msgstr  "Gat ekki búið til notanda: $1"
+
+msgid  "nocookiesnew"
+msgstr  "Innskráningin var búin til, en þú ert ekki skráð(ur) inn.\n{{SITENAME}} notar vefkökur til að skrá inn notendur.\nÞú hefur lokað fyrir vefkökur.\nGjörðu svo vel og opnaðu fyrir þær, skráðu þig svo inn með notandanafni og lykilorði."
+
+msgid  "nocookieslogin"
+msgstr  "{{SITENAME}} notar vefkökur til innskráningar. Vafrinn þinn er ekki að taka á móti þeim sem gerir það ókleyft að innskrá þig. Vinsamlegast virkjaðu móttöku kakna í vafranum þínum til að geta skráð þig inn."
+
+msgid  "noname"
+msgstr  "Þú hefur ekki tilgreint gilt notandanafn."
+
+msgid  "loginsuccesstitle"
+msgstr  "Innskráning tókst"
+
+msgid  "loginsuccess"
+msgstr  "'''Þú ert nú innskráð(ur) á {{SITENAME}} sem „$1“.'''"
+
+msgid  "nosuchuser"
+msgstr  "Það er enginn notandi með þetta nafn: \"$1\".\nGerður er greinarmunur á há- og lágstöfum.\nAthugaðu hvort um innsláttavillu er að ræða eða [[Special:UserLogin/signup|búðu til nýtt notendanafn]]."
+
+msgid  "nosuchusershort"
+msgstr  "Það er enginn notandi með nafnið „<nowiki>$1</nowiki>“. Athugaðu hvort nafnið sé ritað rétt."
+
+msgid  "nouserspecified"
+msgstr  "Þú verður að taka fram notandanafn."
+
+msgid  "login-userblocked"
+msgstr  "Þessi notandi hefur verið settur í bann.  Innskráning ekki leyfð."
+
+msgid  "wrongpassword"
+msgstr  "Uppgefið lykilorð er rangt. Vinsamlegast reyndu aftur."
+
+msgid  "wrongpasswordempty"
+msgstr  "Lykilorðsreiturinn var auður. Vinsamlegast reyndu aftur."
+
+msgid  "passwordtooshort"
+msgstr  "Lykilorð skal vera að minnsta kosti {{plural: $1 |einn stafur|$1 stafir}}."
+
+msgid  "password-name-match"
+msgstr  "Þarf að lykilorð þitt sé öðruvísi notandanafni þínu"
+
+msgid  "password-login-forbidden"
+msgstr  "Notkun þessa notendanafns og lykilorðs er ekki leyfileg."
+
+msgid  "mailmypassword"
+msgstr  "Senda nýtt lykilorð með tölvupósti"
+
+msgid  "passwordremindertitle"
+msgstr  "Nýtt tímabundið aðgangsorð fyrir {{SITENAME}}"
+
+msgid  "passwordremindertext"
+msgstr  "Einhver (líklegast þú, á vistfanginu $1) hefur beðið um að fá nýtt\nlykilorð fyrir {{SITENAME}} ($4). Tímabundið lykilorð fyrir notandan „$2“\nhefur verið búið til og er núna „$3“. Ef þetta er það sem þú vildir, þarfu að skrá\nþig inn og velja nýtt lykilorð.  Þetta tímabundna lykilorð rennur út eftir {{PLURAL:$5|einn dag|$5 daga}}.\n\nEf það var ekki þú sem fórst fram á þetta, eða ef þú mannst lykilorðið þitt,\nog vilt ekki lengur breyta því, skaltu hunsa þetta skilaboð og\nhalda áfram að nota gamla lykilorðið."
+
+msgid  "noemail"
+msgstr  "Það er ekkert netfang skráð fyrir notandan \"$1\"."
+
+msgid  "noemailcreate"
+msgstr  "Þú verður að skrá gilt netfang"
+
+msgid  "passwordsent"
+msgstr  "Nýtt lykilorð var sent á netfangið sem er skráð á „$1“.\nVinsamlegast skráðu þig inn á ný þegar þú hefur móttekið það."
+
+msgid  "blocked-mailpassword"
+msgstr  "Þér er ekki heimilt að gera breytingar frá þessu netfangi og  því getur þú ekki fengið nýtt lykilorð í pósti.  Þetta er gert til þess að koma í veg fyrir skemmdarverk."
+
+msgid  "eauthentsent"
+msgstr  "Staðfestingarpóstur hefur verið sendur á uppgefið netfang. Þú verður að fylgja leiðbeiningunum í póstinum til þess að virkja netfangið og staðfesta að það sé örugglega þitt."
+
+msgid  "throttled-mailpassword"
+msgstr  "Áminning fyrir lykilorð hefur nú þegar verið send, innan við {{PLURAL:$1|síðasta klukkutímans|$1 síðustu klukkutímanna}}.\nTil að koma í veg fyrir misnotkun, er aðeins ein áminning send {{PLURAL:$1|hvern klukkutíma|hverja $1 klukkutíma}}."
+
+msgid  "mailerror"
+msgstr  "Upp kom villa við sendingu tölvupósts: $1"
+
+msgid  "acct_creation_throttle_hit"
+msgstr  "Því miður, hafa verið búnir til {{PLURAL:$1|1 aðgang|$1 aðganga}} nýr aðgangar í dag sem er hámarksfjöldi nýskráninga á einum degi.\nÞú getur því miður ekki búið til nýjan aðgang frá þessari IP-tölu að svo stöddu."
+
+msgid  "emailauthenticated"
+msgstr  "Netfang þitt var staðfest þann $2 klukkan $3."
+
+msgid  "emailnotauthenticated"
+msgstr  "Veffang þitt hefur ekki enn verið sannreynt. Enginn póstur verður sendur af neinum af eftirfarandi eiginleikum."
+
+msgid  "noemailprefs"
+msgstr  "Tilgreindu netfang svo þessar aðgerðir virki."
+
+msgid  "emailconfirmlink"
+msgstr  "Staðfesta netfang þitt"
+
+msgid  "invalidemailaddress"
+msgstr  "Ekki er hægt að taka við netfangi þínu þar sem að það er á ógildu formi.\nGjörðu svo vel og settu inn netfang á gildu formi eða tæmdu reitinn."
+
+msgid  "accountcreated"
+msgstr  "Aðgangur búinn til"
+
+msgid  "accountcreatedtext"
+msgstr  "Notandaaðgangur fyrir $1 er tilbúinn."
+
+msgid  "createaccount-title"
+msgstr  "Innskráningagerð á {{SITENAME}}"
+
+msgid  "createaccount-text"
+msgstr  "Einhver bjó til aðgang fyrir netfangið þitt á {{SITENAME}} ($4) undir nafninu „$2“, með lykilorðið „$3“.\nÞú ættir að skrá þig inn og breyta lykilorðinu núna.\n\nÞú getur hunsað þetta skilaboð, ef villa hefur átt sér stað."
+
+msgid  "usernamehasherror"
+msgstr  "Notendanöfn mega ekki innihalda kassa (#)"
+
+msgid  "login-throttled"
+msgstr  "Þér hefur mistekist að skrá þig inn undir þessu notendanafni of oft.\nVinsamlegast reynið aftur síðar."
+
+msgid  "loginlanguagelabel"
+msgstr  "Tungumál: $1"
+
+msgid  "resetpass"
+msgstr  "Breyta lykilorði"
+
+msgid  "resetpass_announce"
+msgstr  "Þú skráðir þig inn með tímabundnum netfangskóða.\nTil að klára að skrá þig inn, verður þú að endurstilla lykilorðið hér:"
+
+msgid  "resetpass_text"
+msgstr  "<!-- Setja texta hér -->"
+
+msgid  "resetpass_header"
+msgstr  "Breyta lykilorði"
+
+msgid  "oldpassword"
+msgstr  "Gamla lykilorðið"
+
+msgid  "newpassword"
+msgstr  "Nýja lykilorðið"
+
+msgid  "retypenew"
+msgstr  "Endurtaktu nýja lykilorðið:"
+
+msgid  "resetpass_submit"
+msgstr  "Skrifaðu aðgangsorðið og skráðu þig inn"
+
+msgid  "resetpass_success"
+msgstr  "Aðgangsorðinu þínu hefur verið breytt! Skráir þig inn..."
+
+msgid  "resetpass_forbidden"
+msgstr  "Ekki er hægt að breyta lykilorðum"
+
+msgid  "resetpass-submit-loggedin"
+msgstr  "Breyta lykilorði"
+
+msgid  "resetpass-temp-password"
+msgstr  "Tímabundið lykilorð:"
+
+msgid  "bold_sample"
+msgstr  "Feitletraður texti"
+
+msgid  "bold_tip"
+msgstr  "Feitletraður texti"
+
+msgid  "italic_sample"
+msgstr  "Skáletraður texti"
+
+msgid  "italic_tip"
+msgstr  "Skáletraður texti"
+
+msgid  "link_sample"
+msgstr  "Titill tengils"
+
+msgid  "link_tip"
+msgstr  "Innri tengill"
+
+msgid  "extlink_sample"
+msgstr  "http://www.example.com titill tengils"
+
+msgid  "extlink_tip"
+msgstr  "Ytri tengill (munið að setja http:// á undan)"
+
+msgid  "headline_sample"
+msgstr  "Fyrirsagnartexti"
+
+msgid  "headline_tip"
+msgstr  "Annars stigs fyrirsögn"
+
+msgid  "math_sample"
+msgstr  "Sláið inn formúlu hér"
+
+msgid  "math_tip"
+msgstr  "Stærðfræðiformúla (LaTeX)"
+
+msgid  "nowiki_sample"
+msgstr  "Innsetjið ósniðinn texta hér"
+
+msgid  "nowiki_tip"
+msgstr  "Hunsa wiki-snið"
+
+msgid  "image_sample"
+msgstr  "Sýnishorn.jpg"
+
+msgid  "image_tip"
+msgstr  "Innfellt skjal"
+
+msgid  "media_sample"
+msgstr  "Sýnishorn.ogg"
+
+msgid  "media_tip"
+msgstr  "Tengill skjals"
+
+msgid  "sig_tip"
+msgstr  "Undirskrift þín auk tímasetningar"
+
+msgid  "hr_tip"
+msgstr  "Lárétt lína (notist sparlega)"
+
+msgid  "summary"
+msgstr  "Breytingarágrip:"
+
+msgid  "subject"
+msgstr  "Fyrirsögn:"
+
+msgid  "minoredit"
+msgstr  "Þetta er minniháttar breyting"
+
+msgid  "watchthis"
+msgstr  "Vakta þessa síðu"
+
+msgid  "savearticle"
+msgstr  "Vista síðu"
+
+msgid  "preview"
+msgstr  "Forskoða"
+
+msgid  "showpreview"
+msgstr  "Forskoða"
+
+msgid  "showlivepreview"
+msgstr  "Forskoða"
+
+msgid  "showdiff"
+msgstr  "Sýna breytingar"
+
+msgid  "anoneditwarning"
+msgstr  "'''Viðvörun:''' Þú ert ekki innskráð(ur). Vistfang þitt skráist í breytingaskrá síðunnar."
+
+msgid  "missingsummary"
+msgstr  "'''Áminning:''' Þú hefur ekki skrifað breytingarágrip.\nEf þú smellir á Vista aftur, verður breyting þín vistuð án þess."
+
+msgid  "missingcommenttext"
+msgstr  "Gerðu svo vel og skrifaðu athugasemd fyrir neðan."
+
+msgid  "missingcommentheader"
+msgstr  "'''Áminning:''' Þú hefur ekki gefið upp umræðuefni/fyrirsögn.\nEf þú smellir á Vista aftur, verður breyting þín vistuð án þess."
+
+msgid  "summary-preview"
+msgstr  "Forskoða breytingarágrip:"
+
+msgid  "subject-preview"
+msgstr  "Forskoðun umræðuefnis/fyrirsagnar:"
+
+msgid  "blockedtitle"
+msgstr  "Notandi er bannaður"
+
+msgid  "blockedtext"
+msgstr  "'''Notandanafn þitt eða vistfang hefur verið bannað.'''\n\nBannið var sett af $1.\nÁstæðan er eftirfarandi: ''$2''.\n\n* Bannið hófst: $8\n* Banninu lýkur: $6\n* Sá sem banna átti: $7\n\nÞú getur haft samband við $1 eða annan [[{{MediaWiki:Grouppage-sysop}}|stjórnanda]] til að ræða bannið.\nÞú getur ekki notað „Senda þessum notanda tölvupóst“ aðgerðina nema gilt netfang sé skráð í [[Special:Preferences|notandastillingum þínum]] og að þér hafi ekki verið óheimilað það.\nNúverandi vistfang þitt er $3, og bönnunarnúmerið er #$5.\nVinsamlegast tilgreindu allt að ofanverðu í fyrirspurnum þínum."
+
+msgid  "autoblockedtext"
+msgstr  "Vistfang þitt hefur verið sjálfvirkt bannað því það var notað af öðrum notanda, sem var bannaður af $1.\nÁstæðan er eftirfarandi:\n\n:''$2''\n\n* Bannið hófst: $8\n* Banninu lýkur: $6\n* Sá sem banna átti: $7\n\nÞú getur haft samband við $1 eða annan [[{{MediaWiki:Grouppage-sysop}}|stjórnanda]] til að ræða bannið.\n\nAthugaðu að þú getur ekki notað „Senda þessum notanda tölvupóst“ aðgerðina nema gilt netfang sé skráð í [[Special:Preferences|notandastillingum þínum]] og að þér hafi ekki verið óheimilað það.\n\nNúverandi vistfang þitt er $3, og bönnunarnúmerið er #$5.\nVinsamlegast tilgreindu allt að ofanverðu í fyrirspurnum þínum."
+
+msgid  "blockednoreason"
+msgstr  "engin ástæða gefin"
+
+msgid  "blockedoriginalsource"
+msgstr  "Efni '''$1''' er sýnt fyrir neðan:"
+
+msgid  "blockededitsource"
+msgstr  "Texti '''þinna breytinga''' á '''$1''' eru sýndar að neðan:"
+
+msgid  "whitelistedittitle"
+msgstr  "Innskráningar er þörf til að breyta"
+
+msgid  "whitelistedittext"
+msgstr  "Þú þarft að $1 til að breyta síðum."
+
+msgid  "confirmedittext"
+msgstr  "Þú verður að staðfesta netfangið þitt áður en þú getur breytt síðum. Vinsamlegast stilltu og staðfestu netfangið þitt í gegnum [[Special:Preferences|stillingarnar]]."
+
+msgid  "nosuchsectiontitle"
+msgstr  "Hluti ekki til"
+
+msgid  "nosuchsectiontext"
+msgstr  "Það hefur komið upp villa."
+
+msgid  "loginreqtitle"
+msgstr  "Innskráningar krafist"
+
+msgid  "loginreqlink"
+msgstr  "innskrá"
+
+msgid  "loginreqpagetext"
+msgstr  "Þú þarft að $1 til að geta séð aðrar síður."
+
+msgid  "accmailtitle"
+msgstr  "Lykilorð sent."
+
+msgid  "accmailtext"
+msgstr  "Lykilorðið fyrir „$1“ hefur verið sent á $2."
+
+msgid  "newarticle"
+msgstr  "(Ný)"
+
+msgid  "newarticletext"
+msgstr  "Þú hefur fylgt tengli á síðu sem ekki er til.\nÞú getur búið til síðu með þessu nafni með því að skrifa í formið fyrir neðan\n(meiri upplýsingar í [[{{MediaWiki:Helppage}}|hjálpinni]]).\nEf þú hefur óvart villst hingað geturðu notað '''til baka'''-hnappinn í vafranum þínum."
+
+msgid  "anontalkpagetext"
+msgstr  "----''Þetta er spjallsíða fyrir óþekktan notanda sem hefur ekki búið til aðgang ennþá, eða notar hann ekki.\nÞar af leiðandi þurfum við að nota vistfang til að bera kennsli á hann/hana.\nNokkrir notendur geta deilt sama vistfangi.\nEf þú ert óþekktur notandi og finnst að óviðkomandi athugasemdum hafa verið beint að þér, gjörðu svo vel og [[Special:UserLogin/signup|búðu til aðgang]] eða [[Special:UserLogin|skráðu þig inn]] til þess að koma í veg fyrir þennan rugling við aðra óþekkta notendur í framtíðinni.''"
+
+msgid  "noarticletext"
+msgstr  "Enginn texti er á þessari síðu enn sem komið er.\nÞú getur [[Special:Search/{{PAGENAME}}|leitað í öðrum síðum]],\n<span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} leitað í tengdum skrám], eða [{{fullurl:{{FULLPAGENAME}}|action=edit}} breytt henni sjálfur]</span>."
+
+msgid  "userpage-userdoesnotexist"
+msgstr  "Notandaaðgangurinn „$1“ er ekki skráður.\nGjörðu svo vel og athugaðu hvort að þú viljir skapa/breyta þessari síðu."
+
+msgid  "clearyourcache"
+msgstr  "'''Athugaðu - Eftir vistun, má vera að þú þurfir að komast hjá skyndiminni vafrans þíns til að sjá breytingarnar.'''\n'''Mozilla / Firefox / Safari:''' haltu ''Shift'' og smelltu á ''Reload'', eða ýttu á annaðhvort ''Ctrl-F5'' eða ''Ctrl-R'' (''Command-R'' á Macintosh);\n'''Konqueror: '''smelltu á ''Reload'' eða ýttu á ''F5'';\n'''Opera:''' hreinsaðu skyndiminnið í ''Tools → Prefernces'';\n'''Internet Explorer:''' haltu ''Ctrl'' og smelltu á ''Refresh'', eða ýttu á ''Ctrl-F5''."
+
+msgid  "usercssyoucanpreview"
+msgstr  "'''Ath:''' Hægt er að nota „Forskoða“ hnappinn til að prófa CSS og JavaScript-kóða áður en hann er vistaður."
+
+msgid  "userjsyoucanpreview"
+msgstr  "'''Ath:''' Hægt er að nota „Forskoða“ hnappinn til að prófa CSS og JavaScript-kóða áður en hann er vistaður."
+
+msgid  "usercsspreview"
+msgstr  "'''Mundu að þú ert aðeins að forskoða CSS-kóðann þinn.'''\n'''Hann hefur ekki enn verið vistaður!'''"
+
+msgid  "userjspreview"
+msgstr  "'''Mundu að þú ert aðeins að prófa/forskoða JavaScript-kóðann þinn.'''\n'''Hann hefur ekki enn verið vistaður!'''"
+
+msgid  "updated"
+msgstr  "(Uppfært)"
+
+msgid  "note"
+msgstr  "'''Athugið:'''"
+
+msgid  "previewnote"
+msgstr  "'''Það sem sést hér er aðeins forskoðun og hefur ekki enn verið vistað!'''"
+
+msgid  "session_fail_preview"
+msgstr  "'''Því miður! Gat ekki unnið úr breytingum þínum vegna týndra lotugagna.\nVinsamlegast reyndu aftur síðar. Ef það virkar ekki heldur skaltu reyna að skrá þig út og inn á ný.'''"
+
+msgid  "editing"
+msgstr  "Breyti $1"
+
+msgid  "editingsection"
+msgstr  "Breyti $1 (hluta)"
+
+msgid  "editingcomment"
+msgstr  "Breyti $1 (nýr hluti)"
+
+msgid  "editconflict"
+msgstr  "Breytingaárekstur: $1"
+
+msgid  "explainconflict"
+msgstr  "Síðunni hefur verið breytt síðan þú byrjaðir að gera breytingar á henni, textinn í efri reitnum inniheldur núverandi útgáfu úr gagnagrunni og sá neðri inniheldur þína útgáfu, þú þarft hér að færa breytingar sem þú vilt halda úr neðri reitnum í þann efri og vista síðuna. \n'''Aðeins''' texti úr efri reitnum mun vera vistaður þegar þú vistar."
+
+msgid  "yourtext"
+msgstr  "Þinn texti"
+
+msgid  "storedversion"
+msgstr  "Geymd útgáfa"
+
+msgid  "editingold"
+msgstr  "'''ATH: Þú ert að breyta gamalli útgáfu þessarar síðu og munu allar breytingar sem gerðar hafa verið á henni frá þeirri útgáfu vera fjarlægðar ef þú vistar.'''"
+
+msgid  "yourdiff"
+msgstr  "Mismunur"
+
+msgid  "copyrightwarning"
+msgstr  "Vinsamlegast athugaðu að öll framlög á {{SITENAME}} eru álitin leyfisbundin samkvæmt $2 (sjá $1 fyrir frekari upplýsingar).  Ef þú vilt ekki að skrif þín falli undir þetta leyfi og öllum verði frjálst að breyta og endurútgefa efnið samkvæmt því skaltu ekki leggja þau fram hér.<br />\nÞú berð ábyrgð á framlögum þínum, þau verða að vera þín skrif eða afrit texta í almannaeigu eða sambærilegs frjáls texta.\n'''AFRITIÐ EKKI HÖFUNDARRÉTTARVARIN VERK Á ÞESSA SÍÐU ÁN LEYFIS'''"
+
+msgid  "copyrightwarning2"
+msgstr  "Vinsamlegast athugið að aðrir notendur geta breytt eða fjarlægt öll framlög til {{SITENAME}}.\nEf þú vilt ekki að textanum verði breytt skaltu ekki senda hann inn hér.<br />\nÞú lofar okkur einnig að þú hafir skrifað þetta sjálfur, að efnið sé í almannaeigu eða að það heyri undir frjálst leyfi. (sjá $1).\n'''EKKI SENDA INN HÖFUNDARRÉTTARVARIÐ EFNI ÁN LEYFIS RÉTTHAFA!'''"
+
+msgid  "longpageerror"
+msgstr  "'''VILLA: Textinn sem þú sendir inn er $1 kílóbæti að lengd, en hámarkið er $2 kílóbæti. Ekki er hægt að vista textann.'''"
+
+msgid  "readonlywarning"
+msgstr  "'''AÐVÖRUN: Gagnagrunninum hefur verið læst til að unnt sé að framkvæma viðhaldsaðgerðir, svo þú getur ekki vistað breytingar þínar núna.\nÞú kannt að vilja að klippa og líma textann í textaskjal og vista hann fyrir síðar.'''\n\nStjórnandinn sem læsti honum gaf þessa skýringu: $1"
+
+msgid  "protectedpagewarning"
+msgstr  "'''Viðvörun: Þessari síðu hefur verið læst svo aðeins notendur með möppudýraréttindi geti breytt henni.'''"
+
+msgid  "semiprotectedpagewarning"
+msgstr  "'''Athugið''': Þessari síðu hefur verið læst þannig að aðeins innskráðir notendur geti breytt henni."
+
+msgid  "titleprotectedwarning"
+msgstr  "'''VIÐVÖRUN: Þessari síðu hefur verið læst svo aðeins [[Special:ListGroupRights|sérstakir notendur]] geta breytt henni.'''"
+
+msgid  "templatesused"
+msgstr  "Snið {{PLURAL:$1|notað|notuð}} á þessari síðu:"
+
+msgid  "templatesusedpreview"
+msgstr  "Snið {{PLURAL:$1|notað|notuð}} í forskoðuninni:"
+
+msgid  "templatesusedsection"
+msgstr  "Snið notuð á hlutanum:"
+
+msgid  "template-protected"
+msgstr  "(vernduð)"
+
+msgid  "template-semiprotected"
+msgstr  "(hálfvernduð)"
+
+msgid  "hiddencategories"
+msgstr  "Þessi síða er meðlimur í {{PLURAL:$1|1 földum flokki|$1 földum flokkum}}:"
+
+msgid  "nocreatetitle"
+msgstr  "Síðugerð takmörkuð"
+
+msgid  "nocreatetext"
+msgstr  "{{SITENAME}} hefur takmarkað eiginleikann að gera nýjar síður.\nÞú getur farið til baka og breytt núverandi síðum, eða [[Special:UserLogin|skráð þið inn eða búið til aðgang]]."
+
+msgid  "nocreate-loggedin"
+msgstr  "Þú hefur ekki leyfi til að skapa nýjar síður."
+
+msgid  "permissionserrors"
+msgstr  "Leyfisvillur"
+
+msgid  "permissionserrorstext"
+msgstr  "Þú hefur ekki leyfi til að gera þetta, af eftirfarandi {{PLURAL:$1|ástæðu|ástæðum}}:"
+
+msgid  "permissionserrorstext-withaction"
+msgstr  "Þú hefur ekki réttindi til að $2, af eftirfarandi {{PLURAL:$1|ástæðu|ástæðum}}:"
+
+msgid  "recreate-moveddeleted-warn"
+msgstr  "'''Viðvörun: Þú ert að endurskapa síðu sem áður hefur verið eytt.'''\n\nAthuga skal hvort viðeigandi sé að gera þessa síðu.\nEyðingarskrá og flutningaskrá fyrir þessa síðu eru útvegaðar hér til þæginda:"
+
+msgid  "moveddeleted-notice"
+msgstr  "Þessari síðu hefur verið eytt.\nEyðingaskrá og flutningaskrá síðunnar eru gefnar fyrir neðan til tilvísunar."
+
+msgid  "edit-gone-missing"
+msgstr  "Gat ekki uppfært síðu.\nSvo virðist sem henni hafi verið eytt."
+
+msgid  "edit-conflict"
+msgstr  "Breytingaárekstur."
+
+msgid  "edit-no-change"
+msgstr  "Breyting þín var hunsuð, því engin breyting var á textanum."
+
+msgid  "edit-already-exists"
+msgstr  "Gat ekki skapað nýja síðu.\nHún er nú þegar til."
+
+msgid  "parser-template-loop-warning"
+msgstr  "Lykkja í sniði fundin: [[$1]]"
+
+msgid  "undo-success"
+msgstr  "Breytingin hefur verið tekin tilbaka. Vinsamlegast staðfestu og vistaðu svo."
+
+msgid  "undo-failure"
+msgstr  "Breytinguna var ekki hægt að taka tilbaka vegna breytinga í millitíðinni."
+
+msgid  "undo-norev"
+msgstr  "Ekki var hægt að taka breytinguna aftr því að hún er ekki til eða henni var eytt."
+
+msgid  "undo-summary"
+msgstr  "Tek aftur breytingu $1 frá [[Special:Contributions/$2|$2]] ([[User talk:$2|spjall]])"
+
+msgid  "cantcreateaccounttitle"
+msgstr  "Ekki hægt að búa til aðgang"
+
+msgid  "cantcreateaccount-text"
+msgstr  "Aðgangsgerð fyrir þetta vistfang ('''$1''') hefur verið bannað af [[User:$3|$3]].\n\nÁstæðan sem $3 gaf fyrir því er ''$2''"
+
+msgid  "viewpagelogs"
+msgstr  "Sýna aðgerðir varðandi þessa síðu"
+
+msgid  "nohistory"
+msgstr  "Þessi síða hefur enga breytingaskrá."
+
+msgid  "currentrev"
+msgstr  "Núverandi útgáfa"
+
+msgid  "currentrev-asof"
+msgstr  "Núverandi breyting frá og með $1"
+
+msgid  "revisionasof"
+msgstr  "Útgáfa síðunnar $1"
+
+msgid  "revision-info"
+msgstr  "Útgáfa frá $1 eftir $2"
+
+msgid  "previousrevision"
+msgstr  "←Fyrri útgáfa"
+
+msgid  "nextrevision"
+msgstr  "Næsta útgáfa→"
+
+msgid  "currentrevisionlink"
+msgstr  "Núverandi útgáfa"
+
+msgid  "cur"
+msgstr  "fyrri"
+
+msgid  "next"
+msgstr  "næst"
+
+msgid  "last"
+msgstr  "þessa"
+
+msgid  "page_first"
+msgstr  "fyrsta"
+
+msgid  "page_last"
+msgstr  "síðasta"
+
+msgid  "histlegend"
+msgstr  "Mismunarval: merktu við einvalshnappanna fyrir þær útgáfur sem á að bera saman og styddu svo á færsluhnappinn.<br />\nSkýringartexti: (nú) = skoðanamunur á núverandi útgáfu,\n(síðast) = skoðanamunur á undanfarandi útgáfu, M = minniháttar breyting."
+
+msgid  "history-fieldset-title"
+msgstr  "Skoða breytingaskrá"
+
+msgid  "histfirst"
+msgstr  "elstu"
+
+msgid  "histlast"
+msgstr  "yngstu"
+
+msgid  "historysize"
+msgstr  "({{PLURAL:$1|1 bæti|$1 bæti}})"
+
+msgid  "historyempty"
+msgstr  "(tóm)"
+
+msgid  "history-feed-title"
+msgstr  "Breytingaskrá"
+
+msgid  "history-feed-description"
+msgstr  "Breytingaskrá fyrir þessa síðu á wiki-síðunni"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$1 á $2"
+
+msgid  "history-feed-empty"
+msgstr  "Síðan sem þú leitaðir að er ekki til.\nMöglegt er að henni hafi verið eytt út af þessari wiki síðu, eða endurnefnd.\nPrófaðu [[Special:Search|að leita á þessari wiki síðu]] að svipuðum síðum."
+
+msgid  "rev-deleted-comment"
+msgstr  "(athugasemd fjarlægð)"
+
+msgid  "rev-deleted-user"
+msgstr  "(notandanafn fjarlægt)"
+
+msgid  "rev-deleted-event"
+msgstr  "(skráarbreyting fjarlægð)"
+
+msgid  "rev-delundel"
+msgstr  "sýna/fela"
+
+msgid  "rev-showdeleted"
+msgstr  "sýna"
+
+msgid  "revisiondelete"
+msgstr  "Eyða/endurvekja breytingar"
+
+msgid  "revdelete-nooldid-title"
+msgstr  "Ógild markbreyting"
+
+msgid  "revdelete-show-file-submit"
+msgstr  "Já"
+
+msgid  "revdelete-selected"
+msgstr  "'''{{PLURAL:$2|Valin breyting|Valdar breytingar}} fyrir [[:$1]]:'''"
+
+msgid  "logdelete-selected"
+msgstr  "'''{{PLURAL:$1|Valin aðgerð|Valdar aðgerðir}}:'''"
+
+msgid  "revdelete-legend"
+msgstr  "Setja sjáanlegar hamlanir"
+
+msgid  "revdelete-hide-text"
+msgstr  "Fela breytingatexta"
+
+msgid  "revdelete-hide-image"
+msgstr  "Fela efni skráar"
+
+msgid  "revdelete-hide-name"
+msgstr  "Fela aðgerð og mark"
+
+msgid  "revdelete-hide-comment"
+msgstr  "Fela breytingaathugasemdir"
+
+msgid  "revdelete-hide-user"
+msgstr  "Fela notandanafn/vistfang"
+
+msgid  "revdelete-hide-restricted"
+msgstr  "Setja þessar hömlur á fyrir stjórnendur og læsa viðmótinu"
+
+msgid  "revdelete-radio-same"
+msgstr  "(ekki breyta)"
+
+msgid  "revdelete-radio-set"
+msgstr  "Já"
+
+msgid  "revdelete-radio-unset"
+msgstr  "Nei"
+
+msgid  "revdelete-suppress"
+msgstr  "Dylja gögn frá stjórnendum og öðrum"
+
+msgid  "revdelete-log"
+msgstr  "Ástæða:"
+
+msgid  "revdelete-submit"
+msgstr  "Setja á valda breytingu"
+
+msgid  "revdel-restore"
+msgstr  "Breyta sýn"
+
+msgid  "pagehist"
+msgstr  "Breytingaskrá"
+
+msgid  "deletedhist"
+msgstr  "Eyðingaskrá"
+
+msgid  "revdelete-content"
+msgstr  "efni"
+
+msgid  "revdelete-summary"
+msgstr  "breytingarágrip"
+
+msgid  "revdelete-uname"
+msgstr  "notandanafn"
+
+msgid  "revdelete-restricted"
+msgstr  "hömlur settar á stjórnendur"
+
+msgid  "revdelete-unrestricted"
+msgstr  "fjarlægja hömlur á stjórnendur"
+
+msgid  "revdelete-log-message"
+msgstr  "$1 fyrir $2 {{PLURAL:$2|breytingu|breytingar}}"
+
+msgid  "revdelete-edit-reasonlist"
+msgstr  "Eyðingarástæður"
+
+msgid  "mergehistory"
+msgstr  "Sameina breytingaskrár"
+
+msgid  "mergehistory-from"
+msgstr  "Heimildsíða:"
+
+msgid  "mergehistory-into"
+msgstr  "Áætlunarsíða:"
+
+msgid  "mergelog"
+msgstr  "Sameina skrá"
+
+msgid  "revertmerge"
+msgstr  "Taka aftur sameiningu"
+
+msgid  "history-title"
+msgstr  "Breytingaskrá fyrir \"$1\""
+
+msgid  "difference"
+msgstr  "(Munur milli útgáfa)"
+
+msgid  "lineno"
+msgstr  "Lína $1:"
+
+msgid  "compareselectedversions"
+msgstr  "Bera saman valdar útgáfur"
+
+msgid  "showhideselectedversions"
+msgstr  "Sýna/fela valdar breytingar"
+
+msgid  "editundo"
+msgstr  "Taka aftur þessa breytingu"
+
+msgid  "diff-multi"
+msgstr  "({{PLURAL:$1|Ein millibreyting ekki sýnd|$1 millibreytingar ekki sýndar}}.)"
+
+msgid  "searchresults"
+msgstr  "Leitarniðurstöður"
+
+msgid  "searchresults-title"
+msgstr  "Leitarniðurstöður fyrir „$1“"
+
+msgid  "searchresulttext"
+msgstr  "Fyrir frekari upplýsingar um leit á {{SITENAME}} farið á [[{{MediaWiki:Helppage}}|{{int:help}}]]."
+
+msgid  "searchsubtitle"
+msgstr  "Þú leitaðir að '''[[:$1]]''' ([[Special:Prefixindex/$1|öllum síðum sem hefjast á „$1“]]{{int:pipe-separator}}[[Special:WhatLinksHere/$1|öllum síðum sem tengja í „$1“]])"
+
+msgid  "searchsubtitleinvalid"
+msgstr  "Þú leitaðir að '''$1'''"
+
+msgid  "toomanymatches"
+msgstr  "Of mörgum niðurstöðum var skilað, gjörðu svo vel og reyndu aðra fyrirspurn"
+
+msgid  "titlematches"
+msgstr  "Titlar greina sem pössuðu við fyrirspurnina"
+
+msgid  "notitlematches"
+msgstr  "Engir greinartitlar pössuðu við fyrirspurnina"
+
+msgid  "textmatches"
+msgstr  "Leitarorð fannst/fundust í innihaldi eftirfarandi greina"
+
+msgid  "notextmatches"
+msgstr  "Engar samsvaranir á texta í síðum"
+
+msgid  "prevn"
+msgstr  "síðustu {{PLURAL:$1|$1}}"
+
+msgid  "nextn"
+msgstr  "næstu {{PLURAL:$1|$1}}"
+
+msgid  "viewprevnext"
+msgstr  "Skoða ($1 {{int:pipe-separator}} $2) ($3)."
+
+msgid  "searchmenu-legend"
+msgstr  "Leitarvalmöguleikar"
+
+msgid  "searchmenu-exists"
+msgstr  "'''Það er síða að nafni „[[$1]]“ á þessum wiki'''"
+
+msgid  "searchmenu-new"
+msgstr  "'''Skapaðu síðuna \"[[:$1]]\" á þessum wiki!'''"
+
+msgid  "searchhelp-url"
+msgstr  "Help:Efnisyfirlit"
+
+msgid  "searchmenu-prefix"
+msgstr  "[[Special:PrefixIndex/$1|Leita að síðum með þessu forskeyti]]"
+
+msgid  "searchprofile-articles"
+msgstr  "Efnissíður"
+
+msgid  "searchprofile-project"
+msgstr  "Hjálpar- og verkefnasíður"
+
+msgid  "searchprofile-images"
+msgstr  "Margmiðlanir"
+
+msgid  "searchprofile-everything"
+msgstr  "Allt"
+
+msgid  "searchprofile-advanced"
+msgstr  "Nánar"
+
+msgid  "searchprofile-articles-tooltip"
+msgstr  "Leita í $1"
+
+msgid  "searchprofile-project-tooltip"
+msgstr  "Leita í $1"
+
+msgid  "searchprofile-images-tooltip"
+msgstr  "Leita að skrám"
+
+msgid  "searchprofile-everything-tooltip"
+msgstr  "Leita í öllu efni (þar á meðal spjallsíðum)"
+
+msgid  "search-result-size"
+msgstr  "$1 ({{PLURAL:$2|1 orð|$2 orð}})"
+
+msgid  "search-result-score"
+msgstr  "Gildi: $1%"
+
+msgid  "search-redirect"
+msgstr  "(tilvísun $1)"
+
+msgid  "search-section"
+msgstr  "(hluti $1)"
+
+msgid  "search-suggest"
+msgstr  "Varstu að leita að: $1"
+
+msgid  "search-interwiki-caption"
+msgstr  "Systurverkefni"
+
+msgid  "search-interwiki-default"
+msgstr  "$1 útkomur:"
+
+msgid  "search-interwiki-more"
+msgstr  "(fleiri)"
+
+msgid  "search-mwsuggest-enabled"
+msgstr  "með uppástungum"
+
+msgid  "search-mwsuggest-disabled"
+msgstr  "engar uppástungur"
+
+msgid  "search-relatedarticle"
+msgstr  "Tengt"
+
+msgid  "mwsuggest-disable"
+msgstr  "Gera AJAX-uppástungur óvirkar"
+
+msgid  "searcheverything-enable"
+msgstr  "Leita í öllum nafnrýmum"
+
+msgid  "searchrelated"
+msgstr  "tengt"
+
+msgid  "searchall"
+msgstr  "öllum"
+
+msgid  "showingresults"
+msgstr  "Sýni {{PLURAL:$1|'''1''' niðurstöðu|'''$1''' niðurstöður}} frá og með #'''$2'''."
+
+msgid  "showingresultsnum"
+msgstr  "Sýni {{PLURAL:$3|'''$3''' niðurstöðu|'''$3''' niðurstöður}} frá og með #<b>$2</b>."
+
+msgid  "nonefound"
+msgstr  "'''Athugaðu''': Það er aðeins leitað í sumum nafnrýmum sjálfkrafa. Prófaðu að setja forskeytið ''all:'' í fyrirspurnina til að leita í öllu efni (þar á meðal notandaspjallsíðum, sniðum, o.s.frv.), eða notaðu tileigandi nafnrými sem forskeyti."
+
+msgid  "search-nonefound"
+msgstr  "Engar niðurstöður pössuðu við fyrirspurnina."
+
+msgid  "powersearch"
+msgstr  "Ítarleg leit"
+
+msgid  "powersearch-legend"
+msgstr  "Ítarlegri leit"
+
+msgid  "powersearch-ns"
+msgstr  "Leita í nafnrýmum:"
+
+msgid  "powersearch-redir"
+msgstr  "Lista tilvísanir"
+
+msgid  "powersearch-field"
+msgstr  "Leita að"
+
+msgid  "powersearch-toggleall"
+msgstr  "Allt"
+
+msgid  "powersearch-togglenone"
+msgstr  "Ekkert"
+
+msgid  "search-external"
+msgstr  "Ytri leit"
+
+msgid  "searchdisabled"
+msgstr  "{{SITENAME}}-leit er óvirk.\nÞú getur leitað í genum Google á meðan.\nAthugaðu að skrár þeirra yfir {{SITENAME}}-efni kunna að vera úreltar."
+
+msgid  "qbsettings"
+msgstr  "Valblað"
+
+msgid  "qbsettings-none"
+msgstr  "Sleppa"
+
+msgid  "qbsettings-fixedleft"
+msgstr  "Fast vinstra megin"
+
+msgid  "qbsettings-fixedright"
+msgstr  "Fast hægra megin"
+
+msgid  "qbsettings-floatingleft"
+msgstr  "Fljótandi til vinstri"
+
+msgid  "qbsettings-floatingright"
+msgstr  "Fljótandi til hægri"
+
+msgid  "preferences"
+msgstr  "Stillingar"
+
+msgid  "mypreferences"
+msgstr  "Stillingar"
+
+msgid  "prefs-edits"
+msgstr  "Fjöldi breytinga:"
+
+msgid  "prefsnologin"
+msgstr  "Ekki innskráður"
+
+msgid  "prefsnologintext"
+msgstr  "Þú verður að vera <span class=\"plainlinks\">[{{fullurl:{{#Special:UserLogin}}|returnto=$1}} skráð(ur) inn]</span> til að breyta notandastillingum."
+
+msgid  "changepassword"
+msgstr  "Breyta lykilorði"
+
+msgid  "prefs-skin"
+msgstr  "Þema"
+
+msgid  "skin-preview"
+msgstr  "Forskoða"
+
+msgid  "prefs-math"
+msgstr  "Stærðfræðiformúlur"
+
+msgid  "datedefault"
+msgstr  "Sjálfgefið"
+
+msgid  "prefs-datetime"
+msgstr  "Tímasnið og tímabelti"
+
+msgid  "prefs-personal"
+msgstr  "Notandaupplýsingar"
+
+msgid  "prefs-rc"
+msgstr  "Nýlegar breytingar"
+
+msgid  "prefs-watchlist"
+msgstr  "Vaktlistinn"
+
+msgid  "prefs-watchlist-days"
+msgstr  "Fjöldi daga sem vaktlistinn nær yfir:"
+
+msgid  "prefs-watchlist-days-max"
+msgstr  "(hámark 7 dagar)"
+
+msgid  "prefs-watchlist-edits"
+msgstr  "Fjöldi breytinga sem vaktlistinn nær yfir:"
+
+msgid  "prefs-watchlist-edits-max"
+msgstr  "Hámarkstala: 1000"
+
+msgid  "prefs-misc"
+msgstr  "Aðrar stillingar"
+
+msgid  "prefs-resetpass"
+msgstr  "Breyta lykilorði"
+
+msgid  "prefs-email"
+msgstr  "Tölvupóststillingar"
+
+msgid  "prefs-rendering"
+msgstr  "Útlit"
+
+msgid  "saveprefs"
+msgstr  "Vista"
+
+msgid  "resetprefs"
+msgstr  "Endurstilla valmöguleika"
+
+msgid  "restoreprefs"
+msgstr  "Endurheimta allar stillingar"
+
+msgid  "prefs-editing"
+msgstr  "Breytingarflipinn"
+
+msgid  "prefs-edit-boxsize"
+msgstr  "Stærð breytingagluggans."
+
+msgid  "rows"
+msgstr  "Raðir"
+
+msgid  "columns"
+msgstr  "Dálkar"
+
+msgid  "searchresultshead"
+msgstr  "Leit"
+
+msgid  "resultsperpage"
+msgstr  "Niðurstöður á síðu"
+
+msgid  "contextlines"
+msgstr  "Línur á hverja niðurstöðu"
+
+msgid  "contextchars"
+msgstr  "Stafir í samhengi á hverja línu"
+
+msgid  "stub-threshold"
+msgstr  "Þröskuldur fyrir sniði <a href=\"#\" class=\"stub\">stubbatengla</a> (bæt):"
+
+msgid  "recentchangesdays"
+msgstr  "Hve marga daga á að sýna í nýlegum breytingum:"
+
+msgid  "recentchangesdays-max"
+msgstr  "(hámark $1 {{PLURAL:$1|dag|daga}})"
+
+msgid  "recentchangescount"
+msgstr  "Fjöldi síðna á „nýlegum breytingum“"
+
+msgid  "savedprefs"
+msgstr  "Stillingarnar þínar hafa verið vistaðar."
+
+msgid  "timezonelegend"
+msgstr  "Tímabelti:"
+
+msgid  "localtime"
+msgstr  "Staðartími:"
+
+msgid  "timezoneoffset"
+msgstr  "Hliðrun¹:"
+
+msgid  "servertime"
+msgstr  "Tími netþjóns:"
+
+msgid  "guesstimezone"
+msgstr  "Fylla inn frá vafranum"
+
+msgid  "timezoneregion-africa"
+msgstr  "Afríka"
+
+msgid  "timezoneregion-america"
+msgstr  "Ameríka"
+
+msgid  "timezoneregion-antarctica"
+msgstr  "Suðurskautslandið"
+
+msgid  "timezoneregion-arctic"
+msgstr  "Norðurheimskautið"
+
+msgid  "timezoneregion-asia"
+msgstr  "Asía"
+
+msgid  "timezoneregion-atlantic"
+msgstr  "Atlantshaf"
+
+msgid  "timezoneregion-australia"
+msgstr  "Ástralía"
+
+msgid  "timezoneregion-europe"
+msgstr  "Evrópa"
+
+msgid  "timezoneregion-indian"
+msgstr  "Indlandshaf"
+
+msgid  "timezoneregion-pacific"
+msgstr  "Kyrrahaf"
+
+msgid  "allowemail"
+msgstr  "Virkja tölvupóst frá öðrum notendum"
+
+msgid  "prefs-searchoptions"
+msgstr  "Leitarvalmöguleikar"
+
+msgid  "prefs-namespaces"
+msgstr  "Nafnrými"
+
+msgid  "defaultns"
+msgstr  "Leita í þessum nafnrýmum sjálfgefið:"
+
+msgid  "default"
+msgstr  "sjálfgefið"
+
+msgid  "prefs-files"
+msgstr  "Skrár"
+
+msgid  "prefs-emailconfirm-label"
+msgstr  "Staðfesting netfangs:"
+
+msgid  "youremail"
+msgstr  "Netfang:"
+
+msgid  "username"
+msgstr  "Notandanafn:"
+
+msgid  "uid"
+msgstr  "Raðnúmer:"
+
+msgid  "prefs-memberingroups"
+msgstr  "Meðlimur {{PLURAL:$1|hóps|hópa}}:"
+
+msgid  "prefs-registration"
+msgstr  "Nýskráningartími:"
+
+msgid  "yourrealname"
+msgstr  "Fullt nafn:"
+
+msgid  "yourlanguage"
+msgstr  "Viðmótstungumál:"
+
+msgid  "yourvariant"
+msgstr  "Útgáfa:"
+
+msgid  "yournick"
+msgstr  "Undirskrift:"
+
+msgid  "badsig"
+msgstr  "Ógild hrá undirskrift. Athugaðu HTML-kóða."
+
+msgid  "badsiglength"
+msgstr  "Undirskriftin er of löng.\nHún þarf að vera færri en $1 {{PLURAL:$1|rittákn|rittákn}}."
+
+msgid  "yourgender"
+msgstr  "Kyn:"
+
+msgid  "gender-unknown"
+msgstr  "Óskilgreint"
+
+msgid  "gender-male"
+msgstr  "Karl"
+
+msgid  "gender-female"
+msgstr  "Kona"
+
+msgid  "prefs-help-gender"
+msgstr  "Valfrjálst: notað til að aðgreina kynin í meldingum hugbúnaðarins. Þessar upplýsingar verða aðgengilegar öllum."
+
+msgid  "email"
+msgstr  "Tölvupóstur"
+
+msgid  "prefs-help-realname"
+msgstr  "Alvöru nafn er valfrjálst.\nEf þú kýst að gefa það upp, verður það notað til að gefa þér heiður af verkum þínum."
+
+msgid  "prefs-help-email"
+msgstr  "Tölvupóstfang er valfrjálst, en gerir það kleift að fá nýtt lykilorð sent ef þú gleymir lykilorðinu þínu.\nÞú getur einnig leyft öðrum að hafa samband við þig á notanda- eða spjallsíðunni þinni án þess að opinbera þig."
+
+msgid  "prefs-help-email-required"
+msgstr  "Þörf er á netfangi."
+
+msgid  "prefs-info"
+msgstr  "Undirstöðuupplýsingar"
+
+msgid  "prefs-signature"
+msgstr  "Undirskrift"
+
+msgid  "userrights"
+msgstr  "Breyta notandaréttindum"
+
+msgid  "userrights-lookup-user"
+msgstr  "Yfirlit notandahópa"
+
+msgid  "userrights-user-editname"
+msgstr  "Skráðu notandanafn:"
+
+msgid  "editusergroup"
+msgstr  "Breyta notandahópum"
+
+msgid  "editinguser"
+msgstr  "Breyti réttindum '''[[User:$1|$1]]''' ([[User talk:$1|{{int:talkpagelinktext}}]]{{int:pipe-separator}}[[Special:Contributions/$1|{{int:contribslink}}]])"
+
+msgid  "userrights-editusergroup"
+msgstr  "Breyta notandahópum"
+
+msgid  "saveusergroups"
+msgstr  "Vista notandahóp"
+
+msgid  "userrights-groupsmember"
+msgstr  "Meðlimur:"
+
+msgid  "userrights-groups-help"
+msgstr  "Þú getur breytt hópunum sem að þessi notandi er í.\n* Valinn reitur þýðir að notandinn er í hópnum.\n* Óvalinn reitur þýðir að notandinn er ekki í hópnum.\n* Stjarnan (*) þýðir að þú getur ekki fært hópinn eftir að þú hefur breytt honum, eða öfugt."
+
+msgid  "userrights-reason"
+msgstr  "Ástæða:"
+
+msgid  "userrights-no-interwiki"
+msgstr  "Þú hefur ekki leyfi til að breyta notandaréttindum á öðrum wiki-síðum."
+
+msgid  "userrights-nodatabase"
+msgstr  "Gagnagrunnurinn $1 er ekki til eða ekki staðbundinn."
+
+msgid  "userrights-nologin"
+msgstr  "Þú verður að [[Special:UserLogin|innskrá]] þig á möppudýraaðgang til að geta útdeilt notandaréttindum."
+
+msgid  "userrights-notallowed"
+msgstr  "Þinn aðgangur hefur ekki réttindi til að útdeila notandaréttindum."
+
+msgid  "userrights-changeable-col"
+msgstr  "Hópar sem þú getur breytt"
+
+msgid  "userrights-unchangeable-col"
+msgstr  "Hópar sem þú getur ekki breytt"
+
+msgid  "group"
+msgstr  "Hópur:"
+
+msgid  "group-user"
+msgstr  "Notendur"
+
+msgid  "group-autoconfirmed"
+msgstr  "Sjálfkrafa staðfesting notenda"
+
+msgid  "group-bot"
+msgstr  "Vélmenni"
+
+msgid  "group-sysop"
+msgstr  "Stjórnendur"
+
+msgid  "group-bureaucrat"
+msgstr  "Möppudýr"
+
+msgid  "group-suppress"
+msgstr  "Yfirsýn"
+
+msgid  "group-all"
+msgstr  "(allir)"
+
+msgid  "group-user-member"
+msgstr  "Notandi"
+
+msgid  "group-autoconfirmed-member"
+msgstr  "Sjálfkrafa staðfesting notanda"
+
+msgid  "group-bot-member"
+msgstr  "Vélmenni"
+
+msgid  "group-sysop-member"
+msgstr  "Stjórnandi"
+
+msgid  "group-bureaucrat-member"
+msgstr  "Möppudýr"
+
+msgid  "group-suppress-member"
+msgstr  "Umsjón"
+
+msgid  "grouppage-user"
+msgstr  "{{ns:project}}:Notendur"
+
+msgid  "grouppage-autoconfirmed"
+msgstr  "{{ns:project}}:Sjálfkrafa staðfesting notenda"
+
+msgid  "grouppage-bot"
+msgstr  "{{ns:project}}:Vélmenni"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:Stjórnendur"
+
+msgid  "grouppage-bureaucrat"
+msgstr  "{{ns:project}}:Möppudýr"
+
+msgid  "grouppage-suppress"
+msgstr  "{{ns:project}}:Umsjón"
+
+msgid  "right-read"
+msgstr  "Lesa síður"
+
+msgid  "right-edit"
+msgstr  "Breyta síðum"
+
+msgid  "right-createpage"
+msgstr  "Gera síður (sem eru ekki spjallsíður)"
+
+msgid  "right-createtalk"
+msgstr  "Gera spjallsíður"
+
+msgid  "right-createaccount"
+msgstr  "Gera nýja notandaaðganga"
+
+msgid  "right-minoredit"
+msgstr  "Merkja sem minniháttarbreytingar"
+
+msgid  "right-move"
+msgstr  "Færa síður"
+
+msgid  "right-move-subpages"
+msgstr  "Færa síður með undirsíðum þeirra"
+
+msgid  "right-movefile"
+msgstr  "Færa skrár"
+
+msgid  "right-suppressredirect"
+msgstr  "Ekki búa til tilvísun frá gamla nafninu þegar síða er færð"
+
+msgid  "right-upload"
+msgstr  "Hlaða inn skrám"
+
+msgid  "right-reupload"
+msgstr  "Yfirrita núverandi skrá"
+
+msgid  "right-reupload-own"
+msgstr  "Yfirrita núverandi skrá sem að ég hlóð inn sjálf(ur)"
+
+msgid  "right-purge"
+msgstr  "Hreinsa skyndiminni síðu án staðfestingar"
+
+msgid  "right-autoconfirmed"
+msgstr  "Breyta hálfvernduðum síðum"
+
+msgid  "right-nominornewtalk"
+msgstr  "Ekki láta minniháttar breytingar á spjallsíðum kveða upp áminningu um ný skilaboð"
+
+msgid  "right-delete"
+msgstr  "Eyða síðum"
+
+msgid  "right-bigdelete"
+msgstr  "Eyða síðum með stórum breytingaskrám"
+
+msgid  "right-deleterevision"
+msgstr  "Eyða og endurvekja sérstaka breytignar á síðum"
+
+msgid  "right-browsearchive"
+msgstr  "Leita í eyddum síðum"
+
+msgid  "right-undelete"
+msgstr  "Endurvekja eydda síðu"
+
+msgid  "right-suppressrevision"
+msgstr  "Skoða og endurvekja breytingar faldar fyrir stjórnendum"
+
+msgid  "right-suppressionlog"
+msgstr  "Skoða einrænar aðgerðaskrár"
+
+msgid  "right-block"
+msgstr  "Banna öðrum notendum að gera breytingar"
+
+msgid  "right-blockemail"
+msgstr  "Banna notanda að senda tölvupóst"
+
+msgid  "right-hideuser"
+msgstr  "Banna notandanafn, og þannig fela það frá almenningi"
+
+msgid  "right-editprotected"
+msgstr  "Breyta verndaðar síður (án keðjuverndunar)"
+
+msgid  "right-editinterface"
+msgstr  "Breyta notandaviðmótinu"
+
+msgid  "right-editusercssjs"
+msgstr  "Breyta CSS- og JS-skrám annarra"
+
+msgid  "right-editusercss"
+msgstr  "Breyta CSS-skrám annarra"
+
+msgid  "right-edituserjs"
+msgstr  "Breyta JS-skrám annarra"
+
+msgid  "right-unwatchedpages"
+msgstr  "Skoða lista yfir óvaktaðar síður"
+
+msgid  "right-userrights"
+msgstr  "Breyta öllum notandaréttindum"
+
+msgid  "right-userrights-interwiki"
+msgstr  "Breyta notandaréttindum annarra notenda á öðrum wiki-verkefnum"
+
+msgid  "right-siteadmin"
+msgstr  "Læsa og aflæsa gagnagrunninum"
+
+msgid  "rightslog"
+msgstr  "Réttindaskrá notenda"
+
+msgid  "rightslogtext"
+msgstr  "Þetta er skrá yfir breytingar á réttindum notenda."
+
+msgid  "rightslogentry"
+msgstr  "breytti réttindum $1 frá $2 í $3"
+
+msgid  "rightsnone"
+msgstr  "(engin)"
+
+msgid  "action-read"
+msgstr  "lesa þessa síðu"
+
+msgid  "action-edit"
+msgstr  "breyta þessari síðu"
+
+msgid  "action-createpage"
+msgstr  "skapa síður"
+
+msgid  "action-createtalk"
+msgstr  "skapa spjallsíður"
+
+msgid  "action-createaccount"
+msgstr  "skapa þennan notandaaðgang"
+
+msgid  "action-minoredit"
+msgstr  "merkja þessa breytingu sem minniháttar"
+
+msgid  "action-move"
+msgstr  "færa þessa síðu"
+
+msgid  "action-move-subpages"
+msgstr  "færa þessa síðu, og undirsíður hennar"
+
+msgid  "action-upload"
+msgstr  "hlaða inn þessari skrá"
+
+msgid  "action-reupload"
+msgstr  "yfirrita þessa skrá"
+
+msgid  "action-delete"
+msgstr  "eyða þessari síðu"
+
+msgid  "action-deleterevision"
+msgstr  "eyða þessari breytingu"
+
+msgid  "action-deletedhistory"
+msgstr  "skoða breytingaskrá þessarar síðu"
+
+msgid  "action-browsearchive"
+msgstr  "leita í eyddum síðum"
+
+msgid  "action-undelete"
+msgstr  "endurvekja þessa síðu"
+
+msgid  "action-protect"
+msgstr  "breyta verndunarstigum fyrir þessa síðu"
+
+msgid  "action-userrights"
+msgstr  "breyta öllum notandaréttindum"
+
+msgid  "action-userrights-interwiki"
+msgstr  "breyta notandaréttindum annarra notenda á öðrum wiki-verkefnum"
+
+msgid  "action-siteadmin"
+msgstr  "læsa eða opna gagnagrunninn"
+
+msgid  "nchanges"
+msgstr  "$1 {{PLURAL:$1|breyting|breytingar}}"
+
+msgid  "recentchanges"
+msgstr  "Nýlegar breytingar"
+
+msgid  "recentchanges-legend"
+msgstr  "Stillingar nýlegra breytinga"
+
+msgid  "recentchangestext"
+msgstr  "Hér geturðu fylgst með nýjustu breytingunum."
+
+msgid  "recentchanges-feed-description"
+msgstr  "Hér er hægt að fylgjast með nýlegum breytingum á {{SITENAME}}."
+
+msgid  "recentchanges-label-newpage"
+msgstr  "Þessi breyting skapaði nýja síðu"
+
+msgid  "recentchanges-label-minor"
+msgstr  "Þetta er minniháttar breyting"
+
+msgid  "recentchanges-label-bot"
+msgstr  "Þessi breytingar var gerð af vélmenni"
+
+msgid  "recentchanges-label-unpatrolled"
+msgstr  "Þessi breyting hefur ekki verið yfirfarin"
+
+msgid  "rcnote"
+msgstr  "Að neðan {{PLURAL:$1|er '''1''' breyting|eru síðustu '''$1''' breytingar}} síðast {{PLURAL:$2|liðinn dag|liðna '''$2''' daga}}, frá $5, $4."
+
+msgid  "rcnotefrom"
+msgstr  "Að neðan eru breytingar síðan '''$2''' (allt að '''$1''' sýndar)."
+
+msgid  "rclistfrom"
+msgstr  "Sýna breytingar frá og með $1"
+
+msgid  "rcshowhideminor"
+msgstr  "$1 minniháttar breytingar"
+
+msgid  "rcshowhidebots"
+msgstr  "$1 vélmenni"
+
+msgid  "rcshowhideliu"
+msgstr  "$1 innskráða notendur"
+
+msgid  "rcshowhideanons"
+msgstr  "$1 óinnskráða notendur"
+
+msgid  "rcshowhidepatr"
+msgstr  "$1 vaktaðar breytingar"
+
+msgid  "rcshowhidemine"
+msgstr  "$1 mínar breytingar"
+
+msgid  "rclinks"
+msgstr  "Sýna síðustu $1 breytingar síðustu $2 daga<br />$3"
+
+msgid  "diff"
+msgstr  "breyting"
+
+msgid  "hist"
+msgstr  "breytingaskrá"
+
+msgid  "hide"
+msgstr  "Fela"
+
+msgid  "show"
+msgstr  "Sýna"
+
+msgid  "minoreditletter"
+msgstr  "m"
+
+msgid  "newpageletter"
+msgstr  "N"
+
+msgid  "boteditletter"
+msgstr  "v"
+
+msgid  "number_of_watching_users_pageview"
+msgstr  "[{{PLURAL:$1|notandi skoðandi|$1 notendur skoðandi}}]"
+
+msgid  "rc_categories"
+msgstr  "Takmark á flokkum (aðskilja með \"|\")"
+
+msgid  "rc_categories_any"
+msgstr  "Alla"
+
+msgid  "newsectionsummary"
+msgstr  "Nýr hluti: /* $1 */"
+
+msgid  "rc-enhanced-expand"
+msgstr  "Sýna upplýsingar (þarfnast JavaScript)"
+
+msgid  "rc-enhanced-hide"
+msgstr  "Fela ítarefni"
+
+msgid  "recentchangeslinked"
+msgstr  "Skyldar breytingar"
+
+msgid  "recentchangeslinked-feed"
+msgstr  "Skyldar breytingar"
+
+msgid  "recentchangeslinked-toolbox"
+msgstr  "Skyldar breytingar"
+
+msgid  "recentchangeslinked-title"
+msgstr  "Breytingar tengdar \"$1\""
+
+msgid  "recentchangeslinked-noresult"
+msgstr  "Engar breytingar á tengdum síðum á þessu tímabili."
+
+msgid  "recentchangeslinked-summary"
+msgstr  "Þetta er listi yfir nýlega gerðar breytingar á síðum sem tengt er í frá tilgreindri síðu (eða á meðlimum úr tilgreindum flokki).\nSíður á [[Special:Watchlist|vaktlistanum þínum]] eru '''feitletraðar'''."
+
+msgid  "recentchangeslinked-page"
+msgstr  "Nafn á síða:"
+
+msgid  "recentchangeslinked-to"
+msgstr  "Sýna breytingar á síðum sem tengjast uppgefinni síðu í staðinn"
+
+msgid  "upload"
+msgstr  "Hlaða inn skrá"
+
+msgid  "uploadbtn"
+msgstr  "Hlaða inn skrá"
+
+msgid  "reuploaddesc"
+msgstr  "Aftur á innhlaðningarformið."
+
+msgid  "uploadnologin"
+msgstr  "Óinnskráð(ur)"
+
+msgid  "uploadnologintext"
+msgstr  "Þú verður að vera [[Special:UserLogin|skráð(ur) inn]]\ntil að hlaða inn skrám."
+
+msgid  "uploaderror"
+msgstr  "Villa í innhlaðningu"
+
+msgid  "uploadtext"
+msgstr  "Notaðu eyðublaðið hér fyrir neðan til að hlaða inn skrám.\nTil að skoða eða leita í áður innhlöðnum skrám ferðu á [[Special:FileList|skráarlistann]], (endur)innhlaðnar skrár eru skráðar í [[Special:Log/upload|innhlaðningarskránni]], eyðingar í [[Special:Log/delete|eyðingaskránni]].\n\n* '''<tt><nowiki>[[</nowiki>{{ns:file}}<nowiki>:Skrá.jpg]]</nowiki></tt>'''\n* '''<tt><nowiki>[[</nowiki>{{ns:file}}<nowiki>:Skrá.png|200px|thumb|left|alt-texti]]</nowiki></tt>'''\n* '''<tt><nowiki>[[</nowiki>{{ns:media}}<nowiki>:Skrá.ogg]]</nowiki></tt>'''"
+
+msgid  "upload-permitted"
+msgstr  "Heimilaðar skráargerðir: $1."
+
+msgid  "upload-preferred"
+msgstr  "Ákjósanlegustu skrárgerðirnar: $1."
+
+msgid  "upload-prohibited"
+msgstr  "Óheimiluð skrárgerð: $1."
+
+msgid  "uploadlog"
+msgstr  "innhlaðningarskrá"
+
+msgid  "uploadlogpage"
+msgstr  "Innhlaðningarskrá"
+
+msgid  "uploadlogpagetext"
+msgstr  "Fyrir neðan er listi yfir nýlegustu innhlöðnu skrárnar.\nSjá [[Special:NewFiles|myndasafn nýrra mynda]] fyrir myndrænna yfirlit."
+
+msgid  "filename"
+msgstr  "Skráarnafn"
+
+msgid  "filedesc"
+msgstr  "Lýsing"
+
+msgid  "fileuploadsummary"
+msgstr  "Ágrip:"
+
+msgid  "filereuploadsummary"
+msgstr  "Skráarbreytingar:"
+
+msgid  "filestatus"
+msgstr  "Staða höfundaréttar:"
+
+msgid  "filesource"
+msgstr  "Heimild:"
+
+msgid  "uploadedfiles"
+msgstr  "Hlóð inn skráunum"
+
+msgid  "ignorewarning"
+msgstr  "Hunsa viðvaranir og vista þessa skrá"
+
+msgid  "ignorewarnings"
+msgstr  "Hunsa allar viðvaranir"
+
+msgid  "minlength1"
+msgstr  "Skráarnöfn þurfa að vera að minnsta kosti einn stafur að lengd"
+
+msgid  "illegalfilename"
+msgstr  "Skráarnafnið „$1“ inniheldur stafi sem eru ekki leyfðir í síðutitlum.\nGjörðu svo vel og endurnefndu skrána og hladdu henni inn aftur."
+
+msgid  "badfilename"
+msgstr  "Skáarnafninu hefur verið breytt í „$1“."
+
+msgid  "filetype-badmime"
+msgstr  "Skrárir af MIME-gerðinni „$1“ er ekki leyfilegt að hlaða inn."
+
+msgid  "filetype-unwanted-type"
+msgstr  "'''„.$1“''' er óæskileg skráargerð.\n{{PLURAL:$3|Ákjósanleg skráargerð er|Ákjósanlegar skráargerðir eru}} $2."
+
+msgid  "filetype-banned-type"
+msgstr  "'''„.$1“''' er ekki leyfileg skráargerð.\n{{PLURAL:$3|Leyfileg skráargerð er|Leyfilegar skráargerðir eru}} $2."
+
+msgid  "filetype-missing"
+msgstr  "Skráin hefur engan viðauka (dæmi \".jpg\")."
+
+msgid  "large-file"
+msgstr  "Það er mælt með að skrár séu ekki stærri en $1; þessi skrá er $2."
+
+msgid  "fileexists"
+msgstr  "Skrá með þessu nafni er þegar til, skoðaðu '''<tt>[[:$1]]</tt>''' ef þú ert óviss um hvort þú viljir breyta henni, ekki verður skrifað yfir gömlu skránna hlaðiru inn nýrri með sama nafni heldur verður núverandi útgáfa geymd í útgáfusögu.\n[[$1|thumb]]"
+
+msgid  "uploadwarning"
+msgstr  "Aðvörun"
+
+msgid  "savefile"
+msgstr  "Vista"
+
+msgid  "uploadedimage"
+msgstr  "hlóð inn „[[$1]]“"
+
+msgid  "overwroteimage"
+msgstr  "hlóð inn nýrri útgáfu af \"[[$1]]\""
+
+msgid  "uploadscripted"
+msgstr  "Þetta skjal inniheldur (X)HTML eða forskriftu sem gæti valdið villum í vöfrum."
+
+msgid  "uploadvirus"
+msgstr  "Skráin inniheldur veiru! Nánari upplýsingar: $1"
+
+msgid  "sourcefilename"
+msgstr  "Upprunalegt skráarnafn:"
+
+msgid  "destfilename"
+msgstr  "Móttökuskráarnafn:"
+
+msgid  "upload-maxfilesize"
+msgstr  "Hámarks skráarstærð: $1"
+
+msgid  "watchthisupload"
+msgstr  "Vakta þessa skrá"
+
+msgid  "filewasdeleted"
+msgstr  "Skrá af sama nafni hefur áður verið hlaðið inn og síðan eytt. Þú ættir að athuga $1 áður en þú hleður skránni inn."
+
+msgid  "upload-success-subj"
+msgstr  "Innhlaðning tókst"
+
+msgid  "upload-proto-error"
+msgstr  "Vitlaus samskiptaregla"
+
+msgid  "upload-file-error"
+msgstr  "Innri villa"
+
+msgid  "upload-misc-error"
+msgstr  "Óþekkt innhleðsluvilla"
+
+msgid  "upload-unknown-size"
+msgstr  "Óþekkt stærð"
+
+msgid  "upload-curl-error6"
+msgstr  "Gat ekki náð í slóðina"
+
+msgid  "upload-curl-error28"
+msgstr  "Innhleðslutími útrunninn"
+
+msgid  "license"
+msgstr  "Leyfisupplýsingar:"
+
+msgid  "license-header"
+msgstr  "Leyfisupplýsingar:"
+
+msgid  "nolicense"
+msgstr  "Ekkert valið"
+
+msgid  "license-nopreview"
+msgstr  "(Forskoðun ekki fáanleg)"
+
+msgid  "upload_source_file"
+msgstr  "(skrá á tölvunni þinni)"
+
+msgid  "listfiles_search_for"
+msgstr  "Leita að miðilsnafni:"
+
+msgid  "imgfile"
+msgstr  "skrá"
+
+msgid  "listfiles"
+msgstr  "Skráalisti"
+
+msgid  "listfiles_date"
+msgstr  "Dagsetning"
+
+msgid  "listfiles_name"
+msgstr  "Nafn"
+
+msgid  "listfiles_user"
+msgstr  "Notandi"
+
+msgid  "listfiles_size"
+msgstr  "Stærð (bæti)"
+
+msgid  "listfiles_description"
+msgstr  "Lýsing"
+
+msgid  "listfiles_count"
+msgstr  "Útgáfur"
+
+msgid  "file-anchor-link"
+msgstr  "Skrá"
+
+msgid  "filehist"
+msgstr  "Breytingaskrá skjals"
+
+msgid  "filehist-help"
+msgstr  "Smelltu á dagsetningu eða tímasetningu til að sjá hvernig hún leit þá út."
+
+msgid  "filehist-deleteall"
+msgstr  "eyða öllu"
+
+msgid  "filehist-deleteone"
+msgstr  "eyða"
+
+msgid  "filehist-revert"
+msgstr  "taka aftur"
+
+msgid  "filehist-current"
+msgstr  "núverandi"
+
+msgid  "filehist-datetime"
+msgstr  "Dagsetning/Tími"
+
+msgid  "filehist-thumb"
+msgstr  "Smámynd"
+
+msgid  "filehist-thumbtext"
+msgstr  "Smámynd útgáfunnar frá $2, kl. $3"
+
+msgid  "filehist-nothumb"
+msgstr  "Engin smámynd"
+
+msgid  "filehist-user"
+msgstr  "Notandi"
+
+msgid  "filehist-dimensions"
+msgstr  "Víddir"
+
+msgid  "filehist-filesize"
+msgstr  "Stærð skráar"
+
+msgid  "filehist-comment"
+msgstr  "Athugasemd"
+
+msgid  "imagelinks"
+msgstr  "Skráatenglar"
+
+msgid  "linkstoimage"
+msgstr  "Eftirfarandi {{PLURAL:$1|síða tengist|$1 síður tengjast}} í þessa skrá:"
+
+msgid  "nolinkstoimage"
+msgstr  "Engar síður tengja í þessa skrá."
+
+msgid  "sharedupload"
+msgstr  "Skrá þessi er af $1, og deilt meðal annarra verkefna og nýtist því þar."
+
+msgid  "sharedupload-desc-there"
+msgstr  "Skrá þessi er af $1, og deilt meðal annarra verkefna og nýtist því þar.\nGjörðu svo vel og sjáðu [$2 skráarsíðuna þar] fyrir fleiri upplýsingar."
+
+msgid  "sharedupload-desc-here"
+msgstr  "Skrá þessi er af $1, og deilt meðal annarra verkefna og nýtist því þar.\nHér fyrir neðan er afrit af [$2 skráarsíðunni þar]."
+
+msgid  "uploadnewversion-linktext"
+msgstr  "Hlaða inn nýrri útgáfu af þessari skrá"
+
+msgid  "filerevert"
+msgstr  "Taka aftur $1"
+
+msgid  "filerevert-legend"
+msgstr  "Taka aftur skrá"
+
+msgid  "filerevert-comment"
+msgstr  "Athugasemdir:"
+
+msgid  "filerevert-submit"
+msgstr  "Taka aftur"
+
+msgid  "filedelete"
+msgstr  "Eyði „$1“"
+
+msgid  "filedelete-legend"
+msgstr  "Eyða skrá"
+
+msgid  "filedelete-intro"
+msgstr  "Þú ert að eyða '''[[Media:$1|$1]]'''."
+
+msgid  "filedelete-comment"
+msgstr  "Ástæða:"
+
+msgid  "filedelete-submit"
+msgstr  "Eyða"
+
+msgid  "filedelete-success"
+msgstr  "'''$1''' hefur verið eytt."
+
+msgid  "filedelete-nofile"
+msgstr  "'''$1''' er ekki til."
+
+msgid  "filedelete-otherreason"
+msgstr  "Aðrar/fleiri ástæður:"
+
+msgid  "filedelete-reason-otherlist"
+msgstr  "Önnur ástæða"
+
+msgid  "filedelete-reason-dropdown"
+msgstr  "* Algengar eyðingarástæður\n** Höfundarréttarbrot\n** Endurtekin skrá"
+
+msgid  "filedelete-edit-reasonlist"
+msgstr  "Eyðingarástæður"
+
+msgid  "mimesearch"
+msgstr  "MIME-leit"
+
+msgid  "mimetype"
+msgstr  "MIME-tegund:"
+
+msgid  "download"
+msgstr  "Hlaða niður"
+
+msgid  "unwatchedpages"
+msgstr  "Óvaktaðar síður"
+
+msgid  "listredirects"
+msgstr  "Tilvísanir"
+
+msgid  "unusedtemplates"
+msgstr  "Ónotuð snið"
+
+msgid  "unusedtemplatestext"
+msgstr  "Þetta er listi yfir allar síður í sniðanafnrýminu sem ekki eru notaðar í neinum öðrum síðum. Munið að gá að öðrum tenglum í sniðin áður en þeim er eytt."
+
+msgid  "unusedtemplateswlh"
+msgstr  "aðrir tenglar"
+
+msgid  "randompage"
+msgstr  "Handahófsvalin grein"
+
+msgid  "randompage-nopages"
+msgstr  "Það eru engar síður í {{PLURAL:$2|nafnrýminu|nafnrýmunum}}: $1."
+
+msgid  "randomredirect"
+msgstr  "Handahófsvalin tilvísun"
+
+msgid  "randomredirect-nopages"
+msgstr  "Það eru engar tilvísanir í nafnrýminu „$1“."
+
+msgid  "statistics"
+msgstr  "Tölfræði"
+
+msgid  "statistics-header-pages"
+msgstr  "Síðutölfræði"
+
+msgid  "statistics-header-edits"
+msgstr  "Breytingatölfræði"
+
+msgid  "statistics-header-views"
+msgstr  "Uppflettitölfræði"
+
+msgid  "statistics-header-users"
+msgstr  "Notandatölfræði"
+
+msgid  "statistics-header-hooks"
+msgstr  "Önnur tölfræði"
+
+msgid  "statistics-articles"
+msgstr  "Greinar alls"
+
+msgid  "statistics-pages"
+msgstr  "Síður"
+
+msgid  "statistics-pages-desc"
+msgstr  "Allar síður wiki-verkefnisins, þar á meðal spjallsíður, tilvísanir o.fl."
+
+msgid  "statistics-files"
+msgstr  "Skráafjöldi"
+
+msgid  "statistics-edits"
+msgstr  "Síðubreytingar frá því {{SITENAME}} byrjaði"
+
+msgid  "statistics-edits-average"
+msgstr  "Meðal breytingafjöldi á síðu"
+
+msgid  "statistics-views-total"
+msgstr  "Uppflettingar alls"
+
+msgid  "statistics-views-peredit"
+msgstr  "Uppflettingar á hverja breytingu (meðaltal)"
+
+msgid  "statistics-users"
+msgstr  "Skráðir  [[Special:ListUsers|notendur]]"
+
+msgid  "statistics-users-active"
+msgstr  "Virkir notendur"
+
+msgid  "statistics-users-active-desc"
+msgstr  "Notendur sem hafa framkvæmt aðgerð {{PLURAL:$1|síðastliðin dag|síðastliðna $1 daga}}"
+
+msgid  "statistics-mostpopular"
+msgstr  "Mest skoðuðu síður"
+
+msgid  "disambiguations"
+msgstr  "Tenglar í aðgreiningarsíður"
+
+msgid  "disambiguationspage"
+msgstr  "Template:Aðgreining"
+
+msgid  "disambiguations-text"
+msgstr  "Þessar síður innihalda tengla á svokallaðar „'''aðgreiningarsíður'''“.\nLaga ætti tenglanna og láta þá vísa á rétta síðu.<br />\nFarið er með síðu sem aðgreiningarsíðu ef að hún inniheldur snið sem vísað er í frá [[MediaWiki:Disambiguationspage]]"
+
+msgid  "doubleredirects"
+msgstr  "Tvöfaldar tilvísanir"
+
+msgid  "brokenredirects"
+msgstr  "Brotnar tilvísanir"
+
+msgid  "brokenredirectstext"
+msgstr  "Eftirfarandi tilvísanir vísa á síður sem ekki eru til:"
+
+msgid  "brokenredirects-edit"
+msgstr  "breyta"
+
+msgid  "brokenredirects-delete"
+msgstr  "eyða"
+
+msgid  "withoutinterwiki"
+msgstr  "Síður án tungumálatengla"
+
+msgid  "withoutinterwiki-summary"
+msgstr  "Eftirfarandi síður tengja ekki í önnur tungumál:"
+
+msgid  "withoutinterwiki-legend"
+msgstr  "Forskeyti"
+
+msgid  "withoutinterwiki-submit"
+msgstr  "Sýna"
+
+msgid  "fewestrevisions"
+msgstr  "Greinar með fæstar breytingar"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|bæt|bæt}}"
+
+msgid  "ncategories"
+msgstr  "$1 {{PLURAL:$1|flokkur|flokkar}}"
+
+msgid  "nlinks"
+msgstr  "$1 {{PLURAL:$1|tengill|tenglar}}"
+
+msgid  "nmembers"
+msgstr  "$1 {{PLURAL:$1|meðlimur|meðlimir}}"
+
+msgid  "nrevisions"
+msgstr  "$1 {{PLURAL:$1|breyting|breytingar}}"
+
+msgid  "nviews"
+msgstr  "$1 {{PLURAL:$1|fletting|flettingar}}"
+
+msgid  "specialpage-empty"
+msgstr  "Þessi síða er tóm."
+
+msgid  "lonelypages"
+msgstr  "Munaðarlausar síður"
+
+msgid  "lonelypagestext"
+msgstr  "Eftirfarandi síður eru munaðarlausar á {{SITENAME}}."
+
+msgid  "uncategorizedpages"
+msgstr  "Óflokkaðar síður"
+
+msgid  "uncategorizedcategories"
+msgstr  "Óflokkaðir flokkar"
+
+msgid  "uncategorizedimages"
+msgstr  "Óflokkaðar skrár"
+
+msgid  "uncategorizedtemplates"
+msgstr  "Óflokkuð snið"
+
+msgid  "unusedcategories"
+msgstr  "Ónotaðir flokkar"
+
+msgid  "unusedimages"
+msgstr  "Munaðarlausar skrár"
+
+msgid  "popularpages"
+msgstr  "Vinsælar síður"
+
+msgid  "wantedcategories"
+msgstr  "Eftirsóttir flokkar"
+
+msgid  "wantedpages"
+msgstr  "Eftirsóttar síður"
+
+msgid  "wantedfiles"
+msgstr  "Eftirsóttar skrár"
+
+msgid  "wantedtemplates"
+msgstr  "Eftirsótt snið"
+
+msgid  "mostlinked"
+msgstr  "Mest ítengdu síður"
+
+msgid  "mostlinkedcategories"
+msgstr  "Mest ítengdu flokkar"
+
+msgid  "mostlinkedtemplates"
+msgstr  "Mest ítengdu snið"
+
+msgid  "mostcategories"
+msgstr  "Mest flokkaðar greinar"
+
+msgid  "mostimages"
+msgstr  "Mest ítengdu skrárnar"
+
+msgid  "mostrevisions"
+msgstr  "Síður eftir fjölda breytinga"
+
+msgid  "prefixindex"
+msgstr  "Allar síður með forskeyti"
+
+msgid  "shortpages"
+msgstr  "Stuttar síður"
+
+msgid  "longpages"
+msgstr  "Langar síður"
+
+msgid  "deadendpages"
+msgstr  "Botnlangar"
+
+msgid  "deadendpagestext"
+msgstr  "Eftirfarandi síður tengjast ekki við aðrar síður á {{SITENAME}}."
+
+msgid  "protectedpages"
+msgstr  "Verndaðar síður"
+
+msgid  "protectedpages-indef"
+msgstr  "Aðeins óendanlegar verndanir"
+
+msgid  "protectedpages-cascade"
+msgstr  "Keðjuverndun eingöngu"
+
+msgid  "protectedpagestext"
+msgstr  "Eftirfarandi síður hafa verið verndaðar svo ekki sé hægt að breyta þeim eða færa þær"
+
+msgid  "protectedtitles"
+msgstr  "Verndaðir titlar"
+
+msgid  "listusers"
+msgstr  "Notendalisti"
+
+msgid  "usereditcount"
+msgstr  "$1 {{PLURAL:$1|breyting|breytingar}}"
+
+msgid  "newpages"
+msgstr  "Nýjustu greinar"
+
+msgid  "newpages-username"
+msgstr  "Notandanafn:"
+
+msgid  "ancientpages"
+msgstr  "Elstu síður"
+
+msgid  "move"
+msgstr  "Færa"
+
+msgid  "movethispage"
+msgstr  "Færa þessa síðu"
+
+msgid  "unusedimagestext"
+msgstr  "Vinsamlegast athugið að aðrar vefsíður gætu tengt beint í skrár héðan, svo að þær gætu komið fram á þessum lista þrátt fyrir að vera í notkun."
+
+msgid  "unusedcategoriestext"
+msgstr  "Þessir flokkar eru til en engar síður eða flokkar eru í þeim."
+
+msgid  "pager-newer-n"
+msgstr  "{{PLURAL:$1|nýrri 1|nýrri $1}}"
+
+msgid  "pager-older-n"
+msgstr  "{{PLURAL:$1|1 eldri|$1 eldri}}"
+
+msgid  "suppress"
+msgstr  "Yfirsýn"
+
+msgid  "booksources"
+msgstr  "Bókaleit"
+
+msgid  "booksources-search-legend"
+msgstr  "Leita að bókaverslunum"
+
+msgid  "booksources-go"
+msgstr  "Áfram"
+
+msgid  "booksources-text"
+msgstr  "Fyrir neðan er listi af tenglum í aðrar síður sem selja nýjar og notaðar bækur og gætu einnig haft nánari upplýsingar í sambandi við bókina sem þú varst að leita að:"
+
+msgid  "specialloguserlabel"
+msgstr  "Notandi:"
+
+msgid  "speciallogtitlelabel"
+msgstr  "Titill:"
+
+msgid  "log"
+msgstr  "Aðgerðaskrár"
+
+msgid  "all-logs-page"
+msgstr  "Allar aðgerðir"
+
+msgid  "alllogstext"
+msgstr  "Safn allra aðgerðaskráa {{SITENAME}}.\nÞú getur takmarkað listann með því að velja tegund aðgerðaskráar, notandanafn, eða síðu."
+
+msgid  "logempty"
+msgstr  "Engin slík aðgerð fannst."
+
+msgid  "log-title-wildcard"
+msgstr  "Leita að titlum sem byrja á þessum texta"
+
+msgid  "allpages"
+msgstr  "Allar síður"
+
+msgid  "alphaindexline"
+msgstr  "$1 til $2"
+
+msgid  "nextpage"
+msgstr  "Næsta síða ($1)"
+
+msgid  "prevpage"
+msgstr  "Fyrri síða ($1)"
+
+msgid  "allpagesfrom"
+msgstr  "Sýna síður frá og með:"
+
+msgid  "allpagesto"
+msgstr  "Sýna síður sem enda á:"
+
+msgid  "allarticles"
+msgstr  "Allar greinar"
+
+msgid  "allinnamespace"
+msgstr  "Allar síður ($1 nafnrými)"
+
+msgid  "allnotinnamespace"
+msgstr  "Allar síður (ekki í $1 nafnrýminu)"
+
+msgid  "allpagesprev"
+msgstr  "Síðast"
+
+msgid  "allpagesnext"
+msgstr  "Næst"
+
+msgid  "allpagessubmit"
+msgstr  "Áfram"
+
+msgid  "allpagesprefix"
+msgstr  "Sýna síður með forskeytinu:"
+
+msgid  "allpagesbadtitle"
+msgstr  "Ekki var hægt að búa til grein með þessum titli því hann innihélt einn eða fleiri stafi sem ekki er hægt að nota í titlum."
+
+msgid  "allpages-bad-ns"
+msgstr  "{{SITENAME}} hefur ekki nafnrými „$1“."
+
+msgid  "categories"
+msgstr  "Flokkar"
+
+msgid  "categoriespagetext"
+msgstr  "Eftirfarandi flokkar innihalda síður eða skrár.\n[[Special:UnusedCategories|Ónotaðir flokkar]] birtast ekki hér.\nSjá einnig [[Special:WantedCategories|eftirsótta flokka]]."
+
+msgid  "categoriesfrom"
+msgstr  "Sýna flokka frá:"
+
+msgid  "special-categories-sort-count"
+msgstr  "raða eftir fjölda"
+
+msgid  "special-categories-sort-abc"
+msgstr  "raða eftir stafrófinu"
+
+msgid  "deletedcontributions"
+msgstr  "Eyddar breytingar notanda"
+
+msgid  "deletedcontributions-title"
+msgstr  "Eyddar breytingar notanda"
+
+msgid  "linksearch"
+msgstr  "Útværir tenglar"
+
+msgid  "linksearch-ns"
+msgstr  "Nafnrými:"
+
+msgid  "linksearch-ok"
+msgstr  "Leita"
+
+msgid  "listusersfrom"
+msgstr  "Sýna notendur sem byrja á:"
+
+msgid  "listusers-submit"
+msgstr  "Sýna"
+
+msgid  "listusers-noresult"
+msgstr  "Enginn notandi fannst."
+
+msgid  "activeusers-hidebots"
+msgstr  "Fela vélmenni"
+
+msgid  "activeusers-hidesysops"
+msgstr  "Fela möppudýr"
+
+msgid  "newuserlogpage"
+msgstr  "Skrá yfir nýja notendur"
+
+msgid  "newuserlogpagetext"
+msgstr  "Þetta er skrá yfir nýskráða notendur."
+
+msgid  "newuserlog-byemail"
+msgstr  "lykilorð sent með tölvupósti"
+
+msgid  "newuserlog-create-entry"
+msgstr  "Nýr notandi"
+
+msgid  "newuserlog-create2-entry"
+msgstr  "bjó til notanda fyrir $1"
+
+msgid  "newuserlog-autocreate-entry"
+msgstr  "Aðgangur búinn til sjálfkrafa"
+
+msgid  "listgrouprights"
+msgstr  "Notandahópréttindi"
+
+msgid  "listgrouprights-group"
+msgstr  "Hópur"
+
+msgid  "listgrouprights-rights"
+msgstr  "Réttindi"
+
+msgid  "listgrouprights-helppage"
+msgstr  "Help:Hópréttindi"
+
+msgid  "listgrouprights-members"
+msgstr  "(listi yfir meðlimi)"
+
+msgid  "mailnologin"
+msgstr  "Ekkert netfang til að senda á"
+
+msgid  "mailnologintext"
+msgstr  "Þú verður að vera [[Special:UserLogin|innskráð(ur)]] auk þess að hafa gilt netfang í [[Special:Preferences|stillingunum]] þínum til að senda tölvupóst til annara notenda."
+
+msgid  "emailuser"
+msgstr  "Senda þessum notanda tölvupóst"
+
+msgid  "emailpage"
+msgstr  "Senda tölvupóst"
+
+msgid  "emailpagetext"
+msgstr  "Hafi notandi þessi fyllt út gild tölvupóstfang í stillingum sínum er hægt að senda póst til hans hér. Póstfangið sem þú fylltir út í stillingum þínum mun birtast í „From:“ hlutanum svo viðtakandinn geti svarað."
+
+msgid  "defemailsubject"
+msgstr  "Varðandi {{SITENAME}}"
+
+msgid  "noemailtitle"
+msgstr  "Ekkert póstfang"
+
+msgid  "noemailtext"
+msgstr  "Notandi þessi hefur kosið að fá ekki tölvupóst frá öðrum notendum eða hefur ekki fyllt út netfang sitt í stillingum."
+
+msgid  "email-legend"
+msgstr  "Senda tölvupóst á annan {{SITENAME}}-notanda"
+
+msgid  "emailfrom"
+msgstr  "Frá:"
+
+msgid  "emailto"
+msgstr  "Til:"
+
+msgid  "emailsubject"
+msgstr  "Fyrirsögn:"
+
+msgid  "emailmessage"
+msgstr  "Skilaboð:"
+
+msgid  "emailsend"
+msgstr  "Senda"
+
+msgid  "emailccme"
+msgstr  "Senda mér tölvupóst með afriti af mínum skeytum."
+
+msgid  "emailccsubject"
+msgstr  "Afrit af skilaboðinu þínu til $1: $2"
+
+msgid  "emailsent"
+msgstr  "Sending tókst"
+
+msgid  "emailsenttext"
+msgstr  "Skilaboðin þín hafa verið send."
+
+msgid  "watchlist"
+msgstr  "Vaktlistinn"
+
+msgid  "mywatchlist"
+msgstr  "Vaktlistinn"
+
+msgid  "nowatchlist"
+msgstr  "Vaktlistinn er tómur."
+
+msgid  "watchlistanontext"
+msgstr  "Vinsamlegast $1 til að skoða eða breyta vaktlistanum þínum."
+
+msgid  "watchnologin"
+msgstr  "Óinnskráð(ur)"
+
+msgid  "watchnologintext"
+msgstr  "Þú verður að vera [[Special:UserLogin|innskáð(ur)]] til að geta breytt vaktlistanum."
+
+msgid  "addedwatch"
+msgstr  "Bætt á vaktlistann"
+
+msgid  "addedwatchtext"
+msgstr  "Síðunni „[[:$1]]“ hefur verið bætt á [[Special:Watchlist|Vaktlistann]] þinn.\nFrekari breytingar á henni eða spallsíðu hennar munu verða sýndar þar, og síðan mun vera '''feitletruð''' í [[Special:RecentChanges|Nýlegum breytingum]] svo auðveldara sé að finna hana."
+
+msgid  "removedwatch"
+msgstr  "Fjarlægt af vaktlistanum"
+
+msgid  "removedwatchtext"
+msgstr  "Síðan „[[:$1]]“ hefur verið fjarlægð af [[Special:Watchlist|vaktlistanum þínum]]."
+
+msgid  "watch"
+msgstr  "Vakta"
+
+msgid  "watchthispage"
+msgstr  "Vakta þessa síðu"
+
+msgid  "unwatch"
+msgstr  "Afvakta"
+
+msgid  "unwatchthispage"
+msgstr  "Hætta vöktun"
+
+msgid  "notanarticle"
+msgstr  "Ekki efnisleg síða"
+
+msgid  "watchnochange"
+msgstr  "Engri síðu á vaktlistanum þínum hefur verið breytt á tilgreindu tímabili."
+
+msgid  "watchlist-details"
+msgstr  "{{PLURAL:$1|$1 síða|$1 síður}} á vaktlistanum þínum, fyrir utan spjallsíður."
+
+msgid  "wlheader-enotif"
+msgstr  "* Tilkynning með tölvupósti er virk."
+
+msgid  "wlheader-showupdated"
+msgstr  "* Síðum sem hefur verið breytt síðan þú skoðaðir þær síðast eru '''feitletraðar'''"
+
+msgid  "watchmethod-recent"
+msgstr  "kanna hvort nýlegar breytingar innihalda vaktaðar síður"
+
+msgid  "watchmethod-list"
+msgstr  "leita að breytingum í vöktuðum síðum"
+
+msgid  "watchlistcontains"
+msgstr  "Vaktlistinn þinn inniheldur {{PLURAL:$1|$1 síðu|$1 síður}}."
+
+msgid  "iteminvalidname"
+msgstr  "Vandamál með „$1“, rangt nafn..."
+
+msgid  "wlnote"
+msgstr  "Að neðan {{PLURAL:$1|er síðasta breyting|eru síðustu '''$1''' breytingar}} {{PLURAL:$2|síðastliðinn klukkutímann|síðastliðna '''$2''' klukkutímana}}."
+
+msgid  "wlshowlast"
+msgstr  "Sýna síðustu $1 klukkutíma, $2 daga, $3"
+
+msgid  "watchlist-options"
+msgstr  "Vaktlistastillingar"
+
+msgid  "watching"
+msgstr  "Vakta..."
+
+msgid  "unwatching"
+msgstr  "Afvakta..."
+
+msgid  "enotif_reset"
+msgstr  "Merkja allar síður sem skoðaðar"
+
+msgid  "enotif_newpagetext"
+msgstr  "Þetta er ný síða."
+
+msgid  "enotif_impersonal_salutation"
+msgstr  "{{SITENAME}}notandi"
+
+msgid  "changed"
+msgstr  "breytt"
+
+msgid  "created"
+msgstr  "búið til"
+
+msgid  "enotif_lastdiff"
+msgstr  "Sjá $1 til að skoða þessa breytingu."
+
+msgid  "enotif_anon_editor"
+msgstr  "ónefndur notandi $1"
+
+msgid  "deletepage"
+msgstr  "Eyða"
+
+msgid  "confirm"
+msgstr  "Staðfesta"
+
+msgid  "excontent"
+msgstr  "innihaldið var: „$1“"
+
+msgid  "excontentauthor"
+msgstr  "innihaldið var: '$1' (og öll framlög voru frá '[[Special:Contributions/$2|$2]]')"
+
+msgid  "exbeforeblank"
+msgstr  "innihald fyrir tæmingu var: '$1'"
+
+msgid  "exblank"
+msgstr  "síðan var tóm"
+
+msgid  "delete-confirm"
+msgstr  "Eyða „$1“"
+
+msgid  "delete-legend"
+msgstr  "Eyða"
+
+msgid  "historywarning"
+msgstr  "Athugið: Síðan sem þú ert um það bil að eyða á sér"
+
+msgid  "confirmdeletetext"
+msgstr  "Þú ert um það bil að eyða síðu ásamt breytingaskrá hennar.\nVinsamlegast staðfestu það að þú ætlir að gera svo, það að þú skiljir afleiðingarnar, og að þú sért að gera þetta í samræmi við [[{{MediaWiki:Policy-url}}]]."
+
+msgid  "actioncomplete"
+msgstr  "Aðgerð lokið"
+
+msgid  "actionfailed"
+msgstr  "Aðgerð mistókst"
+
+msgid  "deletedtext"
+msgstr  "„<nowiki>$1</nowiki>“ hefur verið eytt.\nSjá lista yfir nýlegar eyðingar í $2."
+
+msgid  "deletedarticle"
+msgstr  "eyddi „[[$1]]“"
+
+msgid  "dellogpage"
+msgstr  "Eyðingaskrá"
+
+msgid  "dellogpagetext"
+msgstr  "Að neðan gefur að líta lista yfir síður sem nýlega hefur verið eytt."
+
+msgid  "deletionlog"
+msgstr  "eyðingaskrá"
+
+msgid  "reverted"
+msgstr  "Breytt aftur til fyrri útgáfu"
+
+msgid  "deletecomment"
+msgstr  "Ástæða:"
+
+msgid  "deleteotherreason"
+msgstr  "Aðrar/fleiri ástæður:"
+
+msgid  "deletereasonotherlist"
+msgstr  "Önnur ástæða"
+
+msgid  "deletereason-dropdown"
+msgstr  "* Algengar ástæður\n** Að beiðni höfundar\n** Höfundaréttarbrot\n** Skemmdarverk"
+
+msgid  "delete-edit-reasonlist"
+msgstr  "Breyta eyðingarástæðum"
+
+msgid  "rollback"
+msgstr  "Taka aftur breytingar"
+
+msgid  "rollback_short"
+msgstr  "Taka aftur"
+
+msgid  "rollbacklink"
+msgstr  "taka aftur"
+
+msgid  "rollbackfailed"
+msgstr  "Mistókst að taka aftur"
+
+msgid  "cantrollback"
+msgstr  "Ekki hægt að taka aftur breytingu, síðasti höfundur er eini höfundur þessarar síðu."
+
+msgid  "alreadyrolled"
+msgstr  "Ekki var hægt að taka síðustu breytingu [[:$1]] eftir [[User:$2|$2]] ([[User talk:$2|spjall]]) til baka;\neitthver annar hefur breytt síðunni eða nú þegar tekið breytinguna til baka.\n\nSíðasta breyting er frá [[User:$3|$3]] ([[User talk:$3|Spjall]])."
+
+msgid  "editcomment"
+msgstr  "Beytingarágripið var: \"''$1''\"."
+
+msgid  "revertpage"
+msgstr  "Tók aftur breytingar [[Special:Contributions/$2|$2]] ([[User talk:$2|spjall]]), breytt til síðustu útgáfu [[User:$1|$1]]"
+
+msgid  "rollback-success"
+msgstr  "Tók til baka breytingar eftir $1; núverandi $2."
+
+msgid  "protectlogpage"
+msgstr  "Verndunarskrá"
+
+msgid  "protectlogtext"
+msgstr  "Fyrir neðan er listi yfir síðuverndanir og -afverndanir.\nSjáðu [[Special:ProtectedPages|listann yfir verndaðar síður]] fyrir núverandi lista yfir verndaðar síður."
+
+msgid  "protectedarticle"
+msgstr  "verndaði „[[$1]]“"
+
+msgid  "modifiedarticleprotection"
+msgstr  "breytti verndunarstigi fyrir \"[[$1]]\""
+
+msgid  "unprotectedarticle"
+msgstr  "afverndaði „[[$1]]“"
+
+msgid  "movedarticleprotection"
+msgstr  "verndunarstilling hefur verið færð frá „[[$2]]“ á „[[$1]]“"
+
+msgid  "protect-title"
+msgstr  "Vernda „$1“"
+
+msgid  "prot_1movedto2"
+msgstr  "[[$1]] færð á [[$2]]"
+
+msgid  "protect-legend"
+msgstr  "Verndunarstaðfesting"
+
+msgid  "protectcomment"
+msgstr  "Ástæða:"
+
+msgid  "protectexpiry"
+msgstr  "Rennur út:"
+
+msgid  "protect_expiry_invalid"
+msgstr  "Ógildur tími."
+
+msgid  "protect_expiry_old"
+msgstr  "Tíminn er þegar runninn út."
+
+msgid  "protect-text"
+msgstr  "Hér getur þú skoðað og breytt verndunarstigi síðunnar '''<nowiki>$1</nowiki>'''."
+
+msgid  "protect-locked-access"
+msgstr  "Þú hefur ekki heimild til þess að vernda eða afvernda síður.\nNúverandi staða síðunnar er '''$1''':"
+
+msgid  "protect-cascadeon"
+msgstr  "Þessi síða er vernduð vegna þess að hún er innifalin í eftirfarandi {{PLURAL:$1|síðu, sem er keðjuvernduð|síðum, sem eru keðjuverndaðar}}.\nÞú getur breytt verndunarstigi þessarar síðu, en það mun ekki hafa áhrif á keðjuverndunina."
+
+msgid  "protect-default"
+msgstr  "Leyfa öllum notendum"
+
+msgid  "protect-fallback"
+msgstr  "„$1“ réttindi nauðsynleg"
+
+msgid  "protect-level-autoconfirmed"
+msgstr  "Banna nýja og óinnskráða notendur"
+
+msgid  "protect-level-sysop"
+msgstr  "Leyfa aðeins stjórnendur"
+
+msgid  "protect-summary-cascade"
+msgstr  "keðjuvörn"
+
+msgid  "protect-expiring"
+msgstr  "rennur út $1 (UTC)"
+
+msgid  "protect-expiry-indefinite"
+msgstr  "ótiltekinn"
+
+msgid  "protect-cascade"
+msgstr  "Vernda innifaldar síður í þessari síðu (keðjuvörn)"
+
+msgid  "protect-cantedit"
+msgstr  "Þú getur ekki breytt verndunarstigi þessarar síðu, vegna þess að þú hefur ekki réttindin til að breyta því."
+
+msgid  "protect-othertime"
+msgstr  "Annar tími:"
+
+msgid  "protect-othertime-op"
+msgstr  "annar tími"
+
+msgid  "protect-expiry-options"
+msgstr  "1 tím:1 hour,1 dag:1 day,1 viku:1 week,2 vikur:2 weeks,1 mánuð:1 month,3 mánuði:3 months,6 mánuði:6 months,1 ár:1 year,aldrei:infinite"
+
+msgid  "restriction-type"
+msgstr  "Réttindi:"
+
+msgid  "restriction-level"
+msgstr  "Takmarkaði við:"
+
+msgid  "minimum-size"
+msgstr  "Lágmarksstærð"
+
+msgid  "maximum-size"
+msgstr  "Hámarksstærð:"
+
+msgid  "pagesize"
+msgstr  "(bæt)"
+
+msgid  "restriction-edit"
+msgstr  "Breyta"
+
+msgid  "restriction-move"
+msgstr  "Færa"
+
+msgid  "restriction-create"
+msgstr  "Skapa"
+
+msgid  "restriction-upload"
+msgstr  "Hlaða inn"
+
+msgid  "restriction-level-sysop"
+msgstr  "alvernduð"
+
+msgid  "restriction-level-autoconfirmed"
+msgstr  "hálfvernduð"
+
+msgid  "restriction-level-all"
+msgstr  "öll stig"
+
+msgid  "undelete"
+msgstr  "Endurvekja eydda síðu"
+
+msgid  "undeletepage"
+msgstr  "Skoða og endurvekja eyddar síður"
+
+msgid  "undeletepagetitle"
+msgstr  "'''Eftirfarandi er samansafn af eyddum breytingum á [[:$1|$1]]'''."
+
+msgid  "viewdeletedpage"
+msgstr  "Skoða eyddar síður"
+
+msgid  "undeletepagetext"
+msgstr  "Eftirfarandi {{PLURAL:$1|síðu hefur verið eytt en hún er þó enn í gagnagrunninum og getur verið endurvakin|$1 síðum hefur verið eytt en eru þó enn í gagnagrunninum og geta verið endurvaknar}}.\nGagnagrunnurinn kann að vera tæmdur reglulega."
+
+msgid  "undeleterevisions"
+msgstr  "$1 {{PLURAL:$1|breyting|breytingar}}"
+
+msgid  "undeletehistorynoadmin"
+msgstr  "Þessari síðu hefur verið eytt. Ástæðan sést í ágripinu fyrir neðan, ásamt upplýsingum um hvaða notendur breyttu síðunni fyrir eyðingu.\nInnihald greinarinnar er einungis aðgengilegt möppudýrum."
+
+msgid  "undeletebtn"
+msgstr  "Endurvekja"
+
+msgid  "undeletelink"
+msgstr  "skoða/endurvekja"
+
+msgid  "undeleteviewlink"
+msgstr  "skoða"
+
+msgid  "undeletereset"
+msgstr  "Endurstilla"
+
+msgid  "undeleteinvert"
+msgstr  "Snúa vali við"
+
+msgid  "undeletecomment"
+msgstr  "Athugasemd:"
+
+msgid  "undeletedarticle"
+msgstr  "endurvakti „[[$1]]“"
+
+msgid  "undeletedrevisions"
+msgstr  "$1 {{PLURAL:$1|breyting endurvakin|breytingar endurvaktar}}"
+
+msgid  "undeletedrevisions-files"
+msgstr  "$1 {{PLURAL:$1|breyting|breytingar}} og $2 {{PLURAL:$2|skrá|skrár}} endurvaktar"
+
+msgid  "undeletedfiles"
+msgstr  "{{PLURAL:$1|Ein skrá endurvakin|$1 skrár endurvaktar}}"
+
+msgid  "cannotundelete"
+msgstr  "Ekki var hægt að afturkalla síðuna. (Líklega hefur einhver gert það á undan þér.)"
+
+msgid  "undeletedpage"
+msgstr  "'''$1 var endurvakin'''\n\nSkoðaðu [[Special:Log/delete|eyðingaskrána]] til að skoða eyðingar og endurvakningar."
+
+msgid  "undelete-search-box"
+msgstr  "Leita að eyddum síðum"
+
+msgid  "undelete-search-prefix"
+msgstr  "Sýna síður sem byrja á:"
+
+msgid  "undelete-search-submit"
+msgstr  "Leita"
+
+msgid  "undelete-no-results"
+msgstr  "Engar samsvarandi síður fundust í eyðingarskjalasafninu."
+
+msgid  "undelete-error-short"
+msgstr  "Villa við endurvakningu skráar: $1"
+
+msgid  "undelete-show-file-submit"
+msgstr  "Já"
+
+msgid  "namespace"
+msgstr  "Nafnrými:"
+
+msgid  "invert"
+msgstr  "allt nema valið"
+
+msgid  "blanknamespace"
+msgstr  "(Aðalnafnrýmið)"
+
+msgid  "contributions"
+msgstr  "Framlög notanda"
+
+msgid  "contributions-title"
+msgstr  "Framlög notanda $1"
+
+msgid  "mycontris"
+msgstr  "Framlög"
+
+msgid  "contribsub2"
+msgstr  "Eftir $1 ($2)"
+
+msgid  "nocontribs"
+msgstr  "Engar breytingar fundnar sem passa við þessa viðmiðun."
+
+msgid  "uctop"
+msgstr  "(nýjast)"
+
+msgid  "month"
+msgstr  "Frá mánuðinum (og fyrr):"
+
+msgid  "year"
+msgstr  "Frá árinu (og fyrr):"
+
+msgid  "sp-contributions-newbies"
+msgstr  "Sýna aðeins breytingar frá nýjum notendum"
+
+msgid  "sp-contributions-newbies-sub"
+msgstr  "Fyrir nýliða"
+
+msgid  "sp-contributions-blocklog"
+msgstr  "Fyrri bönn"
+
+msgid  "sp-contributions-deleted"
+msgstr  "Eyddar breytingar notanda"
+
+msgid  "sp-contributions-talk"
+msgstr  "spjall"
+
+msgid  "sp-contributions-userrights"
+msgstr  "Breyta notandaréttindum"
+
+msgid  "sp-contributions-search"
+msgstr  "Leita að framlögum"
+
+msgid  "sp-contributions-username"
+msgstr  "Vistfang eða notandanafn:"
+
+msgid  "sp-contributions-submit"
+msgstr  "Leita að breytingum"
+
+msgid  "whatlinkshere"
+msgstr  "Hvað tengist hingað"
+
+msgid  "whatlinkshere-title"
+msgstr  "Síður sem tengjast „$1“"
+
+msgid  "whatlinkshere-page"
+msgstr  "Síða:"
+
+msgid  "linkshere"
+msgstr  "Eftirfarandi síður tengjast á '''[[:$1]]''':"
+
+msgid  "nolinkshere"
+msgstr  "Engar síður tengjast á '''[[:$1]]'''."
+
+msgid  "nolinkshere-ns"
+msgstr  "Engar síður tengjast '''[[:$1]]''' í þessu nafnrými."
+
+msgid  "isredirect"
+msgstr  "tilvísun"
+
+msgid  "istemplate"
+msgstr  "innifalið"
+
+msgid  "isimage"
+msgstr  "myndatengill"
+
+msgid  "whatlinkshere-prev"
+msgstr  "{{PLURAL:$1|fyrra|fyrri $1}}"
+
+msgid  "whatlinkshere-next"
+msgstr  "{{PLURAL:$1|næst|næstu $1}}"
+
+msgid  "whatlinkshere-links"
+msgstr  "← tenglar"
+
+msgid  "whatlinkshere-hideredirs"
+msgstr  "$1 tilvísanir"
+
+msgid  "whatlinkshere-hidetrans"
+msgstr  "$1 ítengingar"
+
+msgid  "whatlinkshere-hidelinks"
+msgstr  "$1 tenglar"
+
+msgid  "whatlinkshere-hideimages"
+msgstr  "$1 myndatenglar"
+
+msgid  "whatlinkshere-filters"
+msgstr  "Síur"
+
+msgid  "blockip"
+msgstr  "Banna notanda"
+
+msgid  "blockip-title"
+msgstr  "Banna notanda"
+
+msgid  "blockip-legend"
+msgstr  "Banna notanda"
+
+msgid  "blockiptext"
+msgstr  "Notaðu eyðublaðið hér að neðan til þess að banna ákveðið vistfang eða notandanafn.\nÞetta ætti einungis að gera til þess að koma í veg fyrir skemmdarverk, og í samræmi við [[{{MediaWiki:Policy-url}}|samþykktir]].\nGefðu nákvæma skýringu að neðan (til dæmis, með því að vísa í þær síður sem skemmdar voru)."
+
+msgid  "ipaddress"
+msgstr  "Vistfang:"
+
+msgid  "ipadressorusername"
+msgstr  "Vistfang eða notandanafn:"
+
+msgid  "ipbexpiry"
+msgstr  "Bannið rennur út:"
+
+msgid  "ipbreason"
+msgstr  "Ástæða:"
+
+msgid  "ipbreasonotherlist"
+msgstr  "Aðrar ástæður"
+
+msgid  "ipbreason-dropdown"
+msgstr  "* Algengar bannástæður\n** Setur inn rangar upplýsingar\n** Fjarlægir efni af síðum\n** Setur inn rusltengla á utanaðkomandi síður\n** Setur inn vitleysu/þvaður á síður\n** Yfirþyrmandi framkoma/áreitni\n** Misnotkun á fjölda notandanafna\n** Óásættanlegt notandanafn"
+
+msgid  "ipbanononly"
+msgstr  "Banna einungis ónafngreinda notendur"
+
+msgid  "ipbcreateaccount"
+msgstr  "Banna nýskráningu notanda"
+
+msgid  "ipbemailban"
+msgstr  "Banna notanda að senda tölvupóst"
+
+msgid  "ipbenableautoblock"
+msgstr  "Banna síðasta vistfang notanda sjálfkrafa; og þau vistföng sem viðkomandi notar til að breyta síðum"
+
+msgid  "ipbsubmit"
+msgstr  "Banna notanda"
+
+msgid  "ipbother"
+msgstr  "Annar tími:"
+
+msgid  "ipboptions"
+msgstr  "2 tíma:2 hours,1 dag:1 day,3 daga:3 days,1 viku:1 week,2 vikur:2 weeks,1 mánuð:1 month,3 mánuði:3 months,6 mánuði:6 months,1 ár:1 year,aldrei:infinite"
+
+msgid  "ipbotheroption"
+msgstr  "annar"
+
+msgid  "ipbotherreason"
+msgstr  "Önnur/auka ástæða:"
+
+msgid  "ipbhidename"
+msgstr  "Fela notandanafn/vistfang úr bannskrá og notandaskrá"
+
+msgid  "ipbwatchuser"
+msgstr  "Vakta notanda- og spjallsíður þessa notanda"
+
+msgid  "ipballowusertalk"
+msgstr  "Leyfa notanda að breyta eigin spjallsíðu á meðan hann er í banni"
+
+msgid  "ipb-change-block"
+msgstr  "Endurbanna notanda með þessum stillingum"
+
+msgid  "badipaddress"
+msgstr  "Ógilt vistfang"
+
+msgid  "blockipsuccesssub"
+msgstr  "Bann tókst"
+
+msgid  "blockipsuccesstext"
+msgstr  "[[Special:Contributions/$1|$1]] hefur verið bannaður/bönnuð.<br />\nSjá [[Special:IPBlockList|bannaðar notendur og vistföng]] fyrir yfirlit yfir núverandi bönn."
+
+msgid  "ipb-edit-dropdown"
+msgstr  "Breyta ástæðu fyrir banni"
+
+msgid  "ipb-unblock-addr"
+msgstr  "Afbanna $1"
+
+msgid  "ipb-unblock"
+msgstr  "Afbanna notanda eða vistfang"
+
+msgid  "ipb-blocklist"
+msgstr  "Sjá núverandi bönn"
+
+msgid  "ipb-blocklist-contribs"
+msgstr  "Framlög fyrir $1"
+
+msgid  "unblockip"
+msgstr  "Afbanna notanda"
+
+msgid  "unblockiptext"
+msgstr  "Endurvekja skrifréttindi bannaðra notenda eða vistfanga."
+
+msgid  "ipusubmit"
+msgstr  "Afbanna"
+
+msgid  "unblocked"
+msgstr  "[[User:$1|$1]] hefur verið afbannaður"
+
+msgid  "unblocked-id"
+msgstr  "Bann $1 hefur verið fjarlægt"
+
+msgid  "ipblocklist"
+msgstr  "Bannaðir notendur og vistföng"
+
+msgid  "ipblocklist-legend"
+msgstr  "Finna bannaðan notanda"
+
+msgid  "ipblocklist-username"
+msgstr  "Notandanafn eða vistfang:"
+
+msgid  "ipblocklist-submit"
+msgstr  "Leita"
+
+msgid  "blocklistline"
+msgstr  "$1, $2 bannaði $3 (rennur út $4)"
+
+msgid  "infiniteblock"
+msgstr  "aldrei"
+
+msgid  "expiringblock"
+msgstr  "rennur út  $1 $2"
+
+msgid  "anononlyblock"
+msgstr  "bara ónafngreindir"
+
+msgid  "noautoblockblock"
+msgstr  "sjálfbönnun óvirk"
+
+msgid  "createaccountblock"
+msgstr  "bann við stofnun nýrra aðganga"
+
+msgid  "emailblock"
+msgstr  "tölvupóstur bannaður"
+
+msgid  "blocklist-nousertalk"
+msgstr  "getur ekki breytt eigin spjallsíðu"
+
+msgid  "ipblocklist-empty"
+msgstr  "Bannlistinn er tómur."
+
+msgid  "ipblocklist-no-results"
+msgstr  "Umbeðið vistfang eða notandanafn er ekki í banni."
+
+msgid  "blocklink"
+msgstr  "banna"
+
+msgid  "unblocklink"
+msgstr  "afbanna"
+
+msgid  "change-blocklink"
+msgstr  "breyta bönnun"
+
+msgid  "contribslink"
+msgstr  "framlög"
+
+msgid  "autoblocker"
+msgstr  "Vistfang þitt er bannað vegna þess að það hefur nýlega verið notað af „[[User:$1|$1]]“.\nÁstæðan fyrir því að $1 var bannaður er: „$2“"
+
+msgid  "blocklogpage"
+msgstr  "Bönnunarskrá"
+
+msgid  "blocklogentry"
+msgstr  "bannaði „[[$1]]“; rennur út eftir: $2 $3"
+
+msgid  "blocklogtext"
+msgstr  "Þetta er skrá yfir bönn sem lögð hafa verið á notendur eða bönn sem hafa verið numin úr gildi.\nVistföng sem sett hafa verið í bann sjálfvirkt birtast ekki hér.\nSjá [[Special:IPBlockList|ítarlegri lista]] fyrir öll núgildandi bönn."
+
+msgid  "unblocklogentry"
+msgstr  "afbannaði $1"
+
+msgid  "block-log-flags-anononly"
+msgstr  "bara ónefndir notendur"
+
+msgid  "block-log-flags-nocreate"
+msgstr  "gerð aðganga bönnuð"
+
+msgid  "block-log-flags-noautoblock"
+msgstr  "sjálfkrafa bann óvirkt"
+
+msgid  "block-log-flags-noemail"
+msgstr  "netfang bannað"
+
+msgid  "block-log-flags-hiddenname"
+msgstr  "notandanafn falið"
+
+msgid  "ipb_expiry_invalid"
+msgstr  "Tími ógildur."
+
+msgid  "ipb_already_blocked"
+msgstr  "„$1“ er nú þegar í banni"
+
+msgid  "ipb_cant_unblock"
+msgstr  "Villa: Bann-tala $1 fannst ekki. Bannið gæti verið útrunnið eða hún afbönnuð."
+
+msgid  "ip_range_invalid"
+msgstr  "Ógilt vistfangasvið."
+
+msgid  "blockme"
+msgstr  "Banna mig"
+
+msgid  "proxyblocker-disabled"
+msgstr  "Þessi virkni er óvirk."
+
+msgid  "proxyblocksuccess"
+msgstr  "Búinn."
+
+msgid  "cant-block-while-blocked"
+msgstr  "Þú getur ekki bannað aðra notendur á meðan þú ert í banni."
+
+msgid  "lockdb"
+msgstr  "Læsa gagnagrunninum"
+
+msgid  "unlockdb"
+msgstr  "Opna gagnagrunninn"
+
+msgid  "lockconfirm"
+msgstr  "Já, ég vil læsa gagnagrunninum."
+
+msgid  "unlockconfirm"
+msgstr  "Já, ég vil aflæsa gagnagrunninum."
+
+msgid  "lockbtn"
+msgstr  "Læsa gagnagrunni"
+
+msgid  "unlockbtn"
+msgstr  "Aflæsa gagnagrunninum"
+
+msgid  "locknoconfirm"
+msgstr  "Þú hakaðir ekki í staðfestingarrammann."
+
+msgid  "lockdbsuccesssub"
+msgstr  "Læsing á gagnagrunninum tókst"
+
+msgid  "unlockdbsuccesssub"
+msgstr  "Læsing á gagnagrunninum hefur verið fjarlægð"
+
+msgid  "lockdbsuccesstext"
+msgstr  "Gagnagrunninum hefur verið læst.<br />\nMundu að [[Special:UnlockDB|opna hann aftur]] þegar þú hefur lokið viðgerðum."
+
+msgid  "unlockdbsuccesstext"
+msgstr  "Gagnagrunnurinn hefur verið opnaður."
+
+msgid  "databasenotlocked"
+msgstr  "Gagnagrunnurinn er ekki læstur."
+
+msgid  "move-page"
+msgstr  "Færa $1"
+
+msgid  "move-page-legend"
+msgstr  "Færa síðu"
+
+msgid  "movepagetext"
+msgstr  "Hér er hægt að endurnefna síðu. Hún færist, ásamt breytingaskránni, yfir á nýtt heiti og eldra heitið myndar tilvísun á það. Þú getur sjálfkrafa uppfært tilvísanir á nýja heitið. Ef þú vilt það síður, athugaðu þá hvort nokkuð myndist [[Special:DoubleRedirects|tvöfaldar]] eða [[Special:BrokenRedirects|brotnar tilvísanir]].\nÞú berð ábyrgð á því að tenglar vísi á rétta staði.\n\nAthugaðu að síðan mun '''ekki''' færast ef þegar er síða á nafninu sem þú hyggst færa hana á, nema sú síða sé tóm eða tilvísun sem vísar á síðuna sem þú ætlar að færa. Þú getur þar með fært síðuna aftur til baka án þess að missa breytingarsöguna, en ekki fært hana yfir venjulega síðu.\n\n'''Varúð:'''\nAthugaðu að þessi aðgerð getur kallað fram viðbrögð annarra notenda og getur þýtt mjög rótækar breytingar á vinsælum síðum."
+
+msgid  "movepagetalktext"
+msgstr  "Spallsíða síðunnar verður sjálfkrafa færð með ef hún er til nema:\n* Þú sért að færa síðuna á milli nafnrýma\n* Spallsíða sé þegar til undir nýja nafninu\n* Þú veljir að færa hana ekki\nÍ þeim tilfellum verður að færa hana handvirkt."
+
+msgid  "movearticle"
+msgstr  "Færa síðu:"
+
+msgid  "movenologin"
+msgstr  "Óinnskráð(ur)"
+
+msgid  "movenologintext"
+msgstr  "Þú verður að vera [[Special:UserLogin|innskráð(ur)]] til að geta fært síður."
+
+msgid  "movenotallowed"
+msgstr  "Þú hefur ekki leyfi til að færa síður."
+
+msgid  "movenotallowedfile"
+msgstr  "Þú hefur ekki leyfi til að færa skrár."
+
+msgid  "cant-move-user-page"
+msgstr  "Þú hefur ekki leyfi til að færa notandasíðu (fyrir utan undirsíður)."
+
+msgid  "cant-move-to-user-page"
+msgstr  "Þú hefur ekki leyfi til að færa síðu á notandasíðu (að frátöldum undirsíðum notanda)."
+
+msgid  "newtitle"
+msgstr  "Á nýja titilinn:"
+
+msgid  "move-watch"
+msgstr  "Vakta þessa síðu"
+
+msgid  "movepagebtn"
+msgstr  "Færa síðu"
+
+msgid  "pagemovedsub"
+msgstr  "Færsla tókst"
+
+msgid  "movepage-moved"
+msgstr  "'''„$1“ hefur verið færð á „$2“'''"
+
+msgid  "movepage-moved-redirect"
+msgstr  "Tilvísun hefur verið búin til."
+
+msgid  "movepage-moved-noredirect"
+msgstr  "Tilvísun var ekki búin til."
+
+msgid  "articleexists"
+msgstr  "Annaðhvort er þegar til síða undir þessum titli, eða sá titill sem þú hefur valið er ekki gildur.\nVinsamlegast veldu annan titil."
+
+msgid  "cantmove-titleprotected"
+msgstr  "Þú getur ekki fært síðu á þessa staðsetningu, því nýi titillinn hefur verið verndaður gegn sköpun"
+
+msgid  "talkexists"
+msgstr  "'''Færsla á síðunni sjálfri heppnaðist, en ekki var hægt að færa spjallsíðuna því hún er nú þegar til á nýja titlinum.\nGjörðu svo vel og færðu hana handvirkt.'''"
+
+msgid  "movedto"
+msgstr  "fært á"
+
+msgid  "movetalk"
+msgstr  "Færa meðfylgjandi spjallsíðu"
+
+msgid  "move-subpages"
+msgstr  "Færa undirstíður (upp að $1)"
+
+msgid  "move-talk-subpages"
+msgstr  "Færa undirstíður spjallsíðunnar (upp að $1)"
+
+msgid  "movepage-page-exists"
+msgstr  "Síðan $1 er nú þegar til og er ekki hægt að yfirskrifa sjálfkrafa."
+
+msgid  "movepage-page-moved"
+msgstr  "Síðan $1 hefur verið færð á $2."
+
+msgid  "movepage-page-unmoved"
+msgstr  "Ekki var hægt að færa síðuna $1 á $2."
+
+msgid  "movepage-max-pages"
+msgstr  "Hámarkinu, $1 {{PLURAL:$1|síða|síður}}, hefur verið náð og verða engar fleiri færðar sjálfvirkt."
+
+msgid  "1movedto2"
+msgstr  "[[$1]] færð á [[$2]]"
+
+msgid  "1movedto2_redir"
+msgstr  "[[$1]] færð á [[$2]] yfir tilvísun"
+
+msgid  "move-redirect-suppressed"
+msgstr  "tilvísun leynd"
+
+msgid  "movelogpage"
+msgstr  "Flutningaskrá"
+
+msgid  "movelogpagetext"
+msgstr  "Þetta er listi yfir síður sem nýlega hafa verið færðar."
+
+msgid  "movesubpage"
+msgstr  "{{Plural:$1|Undirsíða|Undirsíður}}"
+
+msgid  "movereason"
+msgstr  "Ástæða:"
+
+msgid  "revertmove"
+msgstr  "taka til baka"
+
+msgid  "delete_and_move"
+msgstr  "Eyða og flytja"
+
+msgid  "delete_and_move_text"
+msgstr  "==Beiðni um eyðingu==\n\nSíðan „[[:$1]]“ er þegar til. Viltu eyða henni til þess að rýma til fyrir flutningi?"
+
+msgid  "delete_and_move_confirm"
+msgstr  "Já, eyða síðunni"
+
+msgid  "delete_and_move_reason"
+msgstr  "Eytt til að rýma til fyrir flutning"
+
+msgid  "selfmove"
+msgstr  "Nýja nafnið er það sama og gamla, þú verður að velja annað nafn."
+
+msgid  "immobile-source-namespace"
+msgstr  "Get ekki fært síður í nafnrýminu „$1“"
+
+msgid  "immobile-target-namespace"
+msgstr  "Get ekki fært síður inn í nafnrýmið „$1“"
+
+msgid  "immobile-source-page"
+msgstr  "Þessi síða er ekki færanleg."
+
+msgid  "immobile-target-page"
+msgstr  "Get ekki fært á áætlaðan titil."
+
+msgid  "imagenocrossnamespace"
+msgstr  "Get ekki fært skrá í skrálaust nafnrými"
+
+msgid  "imagetypemismatch"
+msgstr  "Nýi nafnaukinn passar ekki við tegund hennar"
+
+msgid  "imageinvalidfilename"
+msgstr  "Markskráarnafnið er ógilt"
+
+msgid  "fix-double-redirects"
+msgstr  "Uppfæra tilvísanir sem vísa á upphaflegan titil"
+
+msgid  "move-leave-redirect"
+msgstr  "Skilja tilvísun eftir"
+
+msgid  "export"
+msgstr  "Flytja út síður"
+
+msgid  "exportcuronly"
+msgstr  "Aðeins núverandi útgáfu án breytingaskrár"
+
+msgid  "exportnohistory"
+msgstr  "----\n'''Athugaðu:''' Að flytja út alla breytingasögu síðna á þennan hátt hefur verið óvirkjað vegna ástæðna afkasta."
+
+msgid  "export-submit"
+msgstr  "Flytja"
+
+msgid  "export-addcattext"
+msgstr  "Bæta við síðum frá flokkinum:"
+
+msgid  "export-addcat"
+msgstr  "Bæta við"
+
+msgid  "export-download"
+msgstr  "Vista sem skjal"
+
+msgid  "allmessages"
+msgstr  "Meldingar"
+
+msgid  "allmessagesname"
+msgstr  "Titill"
+
+msgid  "allmessagesdefault"
+msgstr  "Sjálfgefinn texti"
+
+msgid  "allmessagescurrent"
+msgstr  "Núverandi texti"
+
+msgid  "allmessagestext"
+msgstr  "Þetta er listi yfir kerfismeldingar í Melding-nafnrýminu.\nGjörðu svo vel og heimsæktu [http://www.mediawiki.org/wiki/Localisation MediaWiki-staðfæringuna] og [http://translatewiki.net translatewiki.net] ef þú vilt taka þátt í almennri MediaWiki-staðfæringu."
+
+msgid  "allmessagesnotsupportedDB"
+msgstr  "Það er ekki hægt að nota '''{{ns:special}}:Allmessages''' því '''$wgUseDatabaseMessages''' hefur verið gerð óvirk."
+
+msgid  "allmessages-language"
+msgstr  "Tungumál:"
+
+msgid  "allmessages-filter-submit"
+msgstr  "Áfram"
+
+msgid  "thumbnail-more"
+msgstr  "Stækka"
+
+msgid  "filemissing"
+msgstr  "Skrá vantar"
+
+msgid  "thumbnail_error"
+msgstr  "Villa við gerð smámyndar: $1"
+
+msgid  "import"
+msgstr  "Flytja inn síður"
+
+msgid  "importinterwiki"
+msgstr  "Milli-Wiki innflutningur"
+
+msgid  "import-interwiki-text"
+msgstr  "Veldu Wiki-kerfi og síðutitil til að flytja inn.\nBreytingaupplýsingar s.s. dagsetningar og höfundanöfn eru geymd.\nAllir innflutningar eru skráð í [[Special:Log/import|innflutningsskránna]]."
+
+msgid  "import-interwiki-history"
+msgstr  "Afrita allar breytingar þessarar síðu"
+
+msgid  "import-interwiki-submit"
+msgstr  "Flytja inn"
+
+msgid  "import-interwiki-namespace"
+msgstr  "Ákvörðunarnafnrými:"
+
+msgid  "import-upload-filename"
+msgstr  "Skráarnafn:"
+
+msgid  "import-comment"
+msgstr  "Athugasemdir:"
+
+msgid  "importstart"
+msgstr  "Flyt inn síður..."
+
+msgid  "import-revision-count"
+msgstr  "$1 {{PLURAL:$1|breyting|breytingar}}"
+
+msgid  "importnopages"
+msgstr  "Engar síður til innflutnings."
+
+msgid  "importfailed"
+msgstr  "Innhlaðning mistókst: $1"
+
+msgid  "importcantopen"
+msgstr  "Get ekki opnað innflutt skjal"
+
+msgid  "importbadinterwiki"
+msgstr  "Villa í tungumálatengli"
+
+msgid  "importnotext"
+msgstr  "Tómt eða enginn texti"
+
+msgid  "importsuccess"
+msgstr  "Innflutningi lokið!"
+
+msgid  "import-noarticle"
+msgstr  "Engin síða til innflutnings!"
+
+msgid  "import-upload"
+msgstr  "Hlaða inn XML-gögnum"
+
+msgid  "importlogpage"
+msgstr  "Innflutningsskrá"
+
+msgid  "import-logentry-upload"
+msgstr  "flutti inn [[$1]] með innflutningi"
+
+msgid  "import-logentry-upload-detail"
+msgstr  "$1 {{PLURAL:$1|breyting|breytingar}}"
+
+msgid  "import-logentry-interwiki"
+msgstr  "flutti inn $1"
+
+msgid  "import-logentry-interwiki-detail"
+msgstr  "$1 {{PLURAL:$1|breyting|breytingar}} frá $2"
+
+msgid  "tooltip-pt-userpage"
+msgstr  "Notandasíðan þín"
+
+msgid  "tooltip-pt-anonuserpage"
+msgstr  "Notandasíðan fyrir vistfangið þitt"
+
+msgid  "tooltip-pt-mytalk"
+msgstr  "Spjallsíðan þín"
+
+msgid  "tooltip-pt-anontalk"
+msgstr  "Spjallsíðan fyrir þetta vistfang"
+
+msgid  "tooltip-pt-preferences"
+msgstr  "Almennar stillingar"
+
+msgid  "tooltip-pt-watchlist"
+msgstr  "Listi yfir síður sem þú fylgist með breytingum á"
+
+msgid  "tooltip-pt-mycontris"
+msgstr  "Listi yfir framlög þín"
+
+msgid  "tooltip-pt-login"
+msgstr  "Þú ert hvattur/hvött til að innskrá þig, það er hinsvegar ekki skylda."
+
+msgid  "tooltip-pt-anonlogin"
+msgstr  "Þú ert hvattur/hvött til að innskrá þig, það er hinsvegar ekki nauðsynlegt."
+
+msgid  "tooltip-pt-logout"
+msgstr  "Útskráning"
+
+msgid  "tooltip-ca-talk"
+msgstr  "Spallsíða þessarar síðu"
+
+msgid  "tooltip-ca-edit"
+msgstr  "Þú getur breytt síðu þessari, vinsamlegast notaðu „forskoða“ hnappinn áður en þú vistar"
+
+msgid  "tooltip-ca-addsection"
+msgstr  "Bæta nýjum hluta við"
+
+msgid  "tooltip-ca-viewsource"
+msgstr  "Síða þessi er vernduð. Þú getur þó skoðað frumkóða hennar."
+
+msgid  "tooltip-ca-history"
+msgstr  "Eldri útgáfur af síðunni."
+
+msgid  "tooltip-ca-protect"
+msgstr  "Vernda þessa síðu"
+
+msgid  "tooltip-ca-unprotect"
+msgstr  "Afvernda þessa síðu"
+
+msgid  "tooltip-ca-delete"
+msgstr  "Eyða þessari síðu"
+
+msgid  "tooltip-ca-undelete"
+msgstr  "Endurvekja breytingar á þessari síðu áður en að henni var eytt"
+
+msgid  "tooltip-ca-move"
+msgstr  "Færa þessa síðu"
+
+msgid  "tooltip-ca-watch"
+msgstr  "Bæta þessari síðu við á vaktlistann"
+
+msgid  "tooltip-ca-unwatch"
+msgstr  "Fjarlægja þessa síðu af vaktlistanum"
+
+msgid  "tooltip-search"
+msgstr  "Leit á þessari Wiki"
+
+msgid  "tooltip-search-go"
+msgstr  "Fara á síðu með þessu nafni ef hún er til"
+
+msgid  "tooltip-search-fulltext"
+msgstr  "Leita á síðunum eftir þessum texta"
+
+msgid  "tooltip-p-logo"
+msgstr  "Forsíða"
+
+msgid  "tooltip-n-mainpage"
+msgstr  "Forsíða {{SITENAME}}"
+
+msgid  "tooltip-n-mainpage-description"
+msgstr  "Heimsækja forsíðuna"
+
+msgid  "tooltip-n-portal"
+msgstr  "Um verkefnið, hvernig er hægt að hjálpa og hvar á að byrja"
+
+msgid  "tooltip-n-currentevents"
+msgstr  "Finna upplýsingar um líðandi stund"
+
+msgid  "tooltip-n-recentchanges"
+msgstr  "Listi yfir nýlegar breytingar."
+
+msgid  "tooltip-n-randompage"
+msgstr  "Handahófsvalin síða"
+
+msgid  "tooltip-n-help"
+msgstr  "Efnisyfirlit yfir hjálparsíður."
+
+msgid  "tooltip-t-whatlinkshere"
+msgstr  "Listi yfir síður sem tengjast í þessa"
+
+msgid  "tooltip-t-recentchangeslinked"
+msgstr  "Nýlegar breytingar á ítengdum síðum"
+
+msgid  "tooltip-feed-rss"
+msgstr  "RSS fyrir þessa síðu"
+
+msgid  "tooltip-feed-atom"
+msgstr  "Atom fyrir þessa síðu"
+
+msgid  "tooltip-t-contributions"
+msgstr  "Sýna framlagslista þessa notanda"
+
+msgid  "tooltip-t-emailuser"
+msgstr  "Senda þessum notanda tölvupóst"
+
+msgid  "tooltip-t-upload"
+msgstr  "Hlaða inn skrám"
+
+msgid  "tooltip-t-specialpages"
+msgstr  "Listi yfir kerfissíður"
+
+msgid  "tooltip-t-print"
+msgstr  "Prentanleg útgáfa af þessari síðu"
+
+msgid  "tooltip-t-permalink"
+msgstr  "Varanlegur tengill"
+
+msgid  "tooltip-ca-nstab-main"
+msgstr  "Sýna síðuna"
+
+msgid  "tooltip-ca-nstab-user"
+msgstr  "Sýna notandasíðuna"
+
+msgid  "tooltip-ca-nstab-media"
+msgstr  "Sýna margmiðlunarsíðuna"
+
+msgid  "tooltip-ca-nstab-special"
+msgstr  "Þetta er kerfissíða, þér er óhæft að breyta henni."
+
+msgid  "tooltip-ca-nstab-project"
+msgstr  "Sýna verkefnasíðuna"
+
+msgid  "tooltip-ca-nstab-image"
+msgstr  "Sýna skráarsíðu"
+
+msgid  "tooltip-ca-nstab-mediawiki"
+msgstr  "Sýna kerfisskilaboðin"
+
+msgid  "tooltip-ca-nstab-template"
+msgstr  "Sýna sniðið"
+
+msgid  "tooltip-ca-nstab-help"
+msgstr  "Sýna hjálparsíðuna"
+
+msgid  "tooltip-ca-nstab-category"
+msgstr  "Sýna efnisflokkasíðuna"
+
+msgid  "tooltip-minoredit"
+msgstr  "Merkja þessa breytingu sem minniháttar"
+
+msgid  "tooltip-save"
+msgstr  "Vista breytingarnar"
+
+msgid  "tooltip-preview"
+msgstr  "Forskoða breytingarnar, vinsamlegast gerðu þetta áður en þú vistar!"
+
+msgid  "tooltip-diff"
+msgstr  "Sýna hvaða breytingar þú gerðir á textanum."
+
+msgid  "tooltip-compareselectedversions"
+msgstr  "Sjá breytingarnar á þessari grein á milli útgáfanna sem þú valdir."
+
+msgid  "tooltip-watch"
+msgstr  "Bæta þessari síðu á vaktlistann þinn"
+
+msgid  "tooltip-recreate"
+msgstr  "Endurvekja síðuna þó henni hafi verið eytt"
+
+msgid  "tooltip-upload"
+msgstr  "Hefja innhleðslu"
+
+msgid  "common.css"
+msgstr  "/* Allt CSS sem sett er hér mun virka á öllum þemum. */"
+
+msgid  "monobook.css"
+msgstr  "/* Það sem sett er hingað er bætt við Monobook stilsniðið fyrir allan vefinn */"
+
+msgid  "common.js"
+msgstr  "/* Allt JavaScript sem sett er hér mun virka í hvert skipti sem að síða hleðst. */"
+
+msgid  "anonymous"
+msgstr  "{{PLURAL:$1|Óþekktur notandi|Óþekktir notendur}} á {{SITENAME}}"
+
+msgid  "siteuser"
+msgstr  "{{SITENAME}} notandi $1"
+
+msgid  "lastmodifiedatby"
+msgstr  "Þessari síðu var síðast breytt $1 klukkan $2 af $3."
+
+msgid  "othercontribs"
+msgstr  "Byggt á verkum $1."
+
+msgid  "others"
+msgstr  "aðrir"
+
+msgid  "siteusers"
+msgstr  "{{SITENAME}} {{PLURAL:$2|notandi|notendur}} $1"
+
+msgid  "infosubtitle"
+msgstr  "Upplýsingar um síðu"
+
+msgid  "numedits"
+msgstr  "Fjöldi breytinga (síða): $1"
+
+msgid  "numtalkedits"
+msgstr  "Fjöldi breytinga (spjall síða): $1"
+
+msgid  "numwatchers"
+msgstr  "Fjöldi vaktara: $1"
+
+msgid  "numauthors"
+msgstr  "Fjöldi frábrugðinna höfunda (grein): $1"
+
+msgid  "numtalkauthors"
+msgstr  "Fjöldi frábrugðinna höfunda (spjall síða): $1"
+
+msgid  "skinname-standard"
+msgstr  "Sígilt"
+
+msgid  "skinname-nostalgia"
+msgstr  "Gamaldags"
+
+msgid  "skinname-cologneblue"
+msgstr  "Kölnarblátt"
+
+msgid  "skinname-monobook"
+msgstr  "EinBók"
+
+msgid  "skinname-myskin"
+msgstr  "Mitt þema"
+
+msgid  "skinname-chick"
+msgstr  "Gella"
+
+msgid  "skinname-simple"
+msgstr  "Einfalt"
+
+msgid  "skinname-modern"
+msgstr  "Nútímalegt"
+
+msgid  "mw_math_png"
+msgstr  "Alltaf birta PNG mynd"
+
+msgid  "mw_math_simple"
+msgstr  "HTML fyrir einfaldar jöfnur annars PNG"
+
+msgid  "mw_math_html"
+msgstr  "HTML ef hægt er, annars PNG"
+
+msgid  "mw_math_source"
+msgstr  "Sýna TeX jöfnu (fyrir textavafra)"
+
+msgid  "mw_math_modern"
+msgstr  "Mælt með fyrir nýja vafra"
+
+msgid  "mw_math_mathml"
+msgstr  "MathML ef mögulegt (tilraun)"
+
+msgid  "math_failure"
+msgstr  "Þáttun mistókst"
+
+msgid  "math_unknown_error"
+msgstr  "óþekkt villa"
+
+msgid  "math_unknown_function"
+msgstr  "óþekkt virkni"
+
+msgid  "math_lexing_error"
+msgstr  "lestrarvilla"
+
+msgid  "math_syntax_error"
+msgstr  "málfræðivilla"
+
+msgid  "markaspatrolleddiff"
+msgstr  "Merkja sem yfirfarið"
+
+msgid  "markaspatrolledtext"
+msgstr  "Merkja þessa síðu sem yfirfarna"
+
+msgid  "markedaspatrolled"
+msgstr  "Merkja sem yfirfarið"
+
+msgid  "markedaspatrolledtext"
+msgstr  "Valin breyting hefur verið merkt sem yfirfarin."
+
+msgid  "rcpatroldisabled"
+msgstr  "Slökkt á yfirferð nýlegra breytinga"
+
+msgid  "rcpatroldisabledtext"
+msgstr  "Yfirferð nýlegra breytinga er ekki virk."
+
+msgid  "markedaspatrollederror"
+msgstr  "Get ekki merkt sem yfirfarið"
+
+msgid  "markedaspatrollederrortext"
+msgstr  "Þú verður að velja breytingu til að merkja sem yfirfarið."
+
+msgid  "markedaspatrollederror-noautopatrol"
+msgstr  "Þú hefur ekki réttindi til að merkja eigin breytingar sem yfirfarnar."
+
+msgid  "patrol-log-page"
+msgstr  "Yfirferðarskrá"
+
+msgid  "patrol-log-header"
+msgstr  "Þetta er skrá yfir yfirfarna breytingar."
+
+msgid  "patrol-log-line"
+msgstr  "merkti $1 eftir $2 sem yfirfarið $3"
+
+msgid  "patrol-log-auto"
+msgstr  "(sjálfkrafa)"
+
+msgid  "patrol-log-diff"
+msgstr  "útgáfa $1"
+
+msgid  "deletedrevision"
+msgstr  "Eydd gömul útgáfu $1"
+
+msgid  "filedeleteerror-short"
+msgstr  "Villa við eyðingu: $1"
+
+msgid  "filedeleteerror-long"
+msgstr  "Það kom upp villa við eyðingu skráarinnar: $1"
+
+msgid  "filedelete-missing"
+msgstr  "Skránni „$1“ er ekki hægt að eyða vegna þess að hún er ekki til."
+
+msgid  "previousdiff"
+msgstr  "← Eldri breyting"
+
+msgid  "nextdiff"
+msgstr  "Nýrri breyting →"
+
+msgid  "mediawarning"
+msgstr  "'''AÐVÖRUN''': Þessi skrá kann að hafa meinfýsinn kóða, ef keyrður kann hann að stofna kerfinu þínu í hættu."
+
+msgid  "imagemaxsize"
+msgstr  "Takmarka myndir á skráarlýsingasíðum við:"
+
+msgid  "thumbsize"
+msgstr  "Stærð smámynda:"
+
+msgid  "widthheightpage"
+msgstr  "$1×$2, $3 {{PLURAL:$3|síða|síður}}"
+
+msgid  "file-info"
+msgstr  "stærð skráar: $1, MIME-tegund: $2"
+
+msgid  "file-info-size"
+msgstr  "$1 × $2 dílar, stærð skráar: $3, MIME-gerð: $4"
+
+msgid  "file-nohires"
+msgstr  "<small>Það er engin hærri upplausn til.</small>"
+
+msgid  "svg-long-desc"
+msgstr  "SVG-skrá, að nafni til $1 × $2 dílar, skráarstærð: $3"
+
+msgid  "show-big-image"
+msgstr  "Mesta upplausn"
+
+msgid  "show-big-image-thumb"
+msgstr  "<small>Myndin er í upplausninni $1 × $2 </small>"
+
+msgid  "newimages"
+msgstr  "Myndasafn nýlegra skráa"
+
+msgid  "imagelisttext"
+msgstr  "Hér fyrir neðan er {{PLURAL:$1|einni skrá|$1 skrám}} raðað $2."
+
+msgid  "newimages-summary"
+msgstr  "Þessi kerfissíða sýnir nýlega innhlaðnar skrár."
+
+msgid  "newimages-legend"
+msgstr  "Sía"
+
+msgid  "newimages-label"
+msgstr  "Skráarnafn (eða hluti þess):"
+
+msgid  "showhidebots"
+msgstr  "($1 vélmenni)"
+
+msgid  "noimages"
+msgstr  "Ekkert að sjá."
+
+msgid  "ilsubmit"
+msgstr  "Leita"
+
+msgid  "bydate"
+msgstr  "eftir dagsetningu"
+
+msgid  "sp-newimages-showfrom"
+msgstr  "Leita af nýjum skráum frá $2, $1"
+
+msgid  "bad_image_list"
+msgstr  "Sniðið er eftirfarandi:\n\nAðeins listaeigindi (línur sem byrja á *) eru meðtalin.\nFyrsti tengillinn í hverri línu verður að tengja í slæma skrá.\nAllir síðari tenglar á sömu línu eru taldir vera undantekningar, þ.e. síður þar sem að skráin kann að koma fyrir innfelld."
+
+msgid  "metadata"
+msgstr  "Lýsigögn"
+
+msgid  "metadata-help"
+msgstr  "Þessi skrá inniheldur viðbótarupplýsingar, líklega frá stafrænu myndavélinni eða skannanum sem notaður var til að gera eða stafræna hana.\nEf skránni hefur verið breytt, kann að vera að einhverjar upplýsingar eigi ekki við um hana."
+
+msgid  "metadata-expand"
+msgstr  "Sýna frekari upplýsingar"
+
+msgid  "metadata-collapse"
+msgstr  "Fela auka upplýsingar"
+
+msgid  "metadata-fields"
+msgstr  "EXIF-lýsigögn listuð í þessu skilaboði munu vera innifalin á myndasíðusýningu þegar lýsigagnataflan er samfallin.\nÖnnur verða sjálfkrafa falin.\n* make\n* model\n* datetimeoriginal\n* exposuretime\n* fnumber\n* isospeedratings\n* focallength"
+
+msgid  "exif-imagewidth"
+msgstr  "Breidd"
+
+msgid  "exif-imagelength"
+msgstr  "Hæð"
+
+msgid  "exif-xresolution"
+msgstr  "Lárétt upplausn"
+
+msgid  "exif-yresolution"
+msgstr  "Lóðrétt upplausn"
+
+msgid  "exif-imagedescription"
+msgstr  "Titill myndar"
+
+msgid  "exif-make"
+msgstr  "Framleiðandi myndavélar"
+
+msgid  "exif-model"
+msgstr  "Tegund"
+
+msgid  "exif-software"
+msgstr  "Hugbúnaður notaður"
+
+msgid  "exif-artist"
+msgstr  "Höfundur"
+
+msgid  "exif-exifversion"
+msgstr  "Exif-útgáfa"
+
+msgid  "exif-pixelydimension"
+msgstr  "Leyfð myndalengd"
+
+msgid  "exif-pixelxdimension"
+msgstr  "Leyfð myndahæð"
+
+msgid  "exif-usercomment"
+msgstr  "Athugunarsemdir notanda"
+
+msgid  "exif-flash"
+msgstr  "Leiftur"
+
+msgid  "exif-gpslatitude"
+msgstr  "Breiddargráða"
+
+msgid  "exif-gpslongitude"
+msgstr  "Lengdargráða"
+
+msgid  "exif-gpsaltitude"
+msgstr  "Stjörnuhæð"
+
+msgid  "exif-compression-1"
+msgstr  "Ósamþjappað"
+
+msgid  "exif-componentsconfiguration-0"
+msgstr  "er ekki til"
+
+msgid  "exif-exposureprogram-0"
+msgstr  "Ekki skilgreint"
+
+msgid  "exif-subjectdistance-value"
+msgstr  "$1 metrar"
+
+msgid  "exif-lightsource-1"
+msgstr  "Dagsbirta"
+
+msgid  "exif-lightsource-4"
+msgstr  "Leiftur"
+
+msgid  "exif-lightsource-9"
+msgstr  "Gott veður"
+
+msgid  "exif-lightsource-10"
+msgstr  "Skýjað"
+
+msgid  "exif-lightsource-11"
+msgstr  "Skuggi"
+
+msgid  "exif-focalplaneresolutionunit-2"
+msgstr  "tommur"
+
+msgid  "exif-scenecapturetype-0"
+msgstr  "Staðlað"
+
+msgid  "exif-scenecapturetype-1"
+msgstr  "Landslag"
+
+msgid  "exif-scenecapturetype-2"
+msgstr  "Skammsnið"
+
+msgid  "exif-scenecapturetype-3"
+msgstr  "Næturvettvangur"
+
+msgid  "exif-gpsspeed-k"
+msgstr  "Kílómetrar á klukkustund"
+
+msgid  "exif-gpsspeed-m"
+msgstr  "Mílur á klukkustund"
+
+msgid  "exif-gpsspeed-n"
+msgstr  "Hnútar"
+
+msgid  "edit-externally"
+msgstr  "Breyta þessari skrá með utanaðkomandi hugbúnaði"
+
+msgid  "edit-externally-help"
+msgstr  "(Sjá [http://www.mediawiki.org/wiki/Manual:External_editors leiðbeiningar] fyrir meiri upplýsingar)"
+
+msgid  "recentchangesall"
+msgstr  "allt"
+
+msgid  "imagelistall"
+msgstr  "allar"
+
+msgid  "watchlistall2"
+msgstr  "allt"
+
+msgid  "namespacesall"
+msgstr  "öll"
+
+msgid  "monthsall"
+msgstr  "allir"
+
+msgid  "limitall"
+msgstr  "alla"
+
+msgid  "confirmemail"
+msgstr  "Staðfesta netfang"
+
+msgid  "confirmemail_noemail"
+msgstr  "Þú hefur ekki gefið upp gilt netfang í [[Special:Preferences|notandastillingum]] þínum."
+
+msgid  "confirmemail_text"
+msgstr  "{{SITENAME}} krefst þess að þú staðfestir netfangið þitt áður en að þú getur notað eiginleika tengt því. Smelltu á hnappinn að neðan til að fá staðfestingarpóst sendan á netfangið. Pósturinn mun innihalda tengil með kóða í sér; opnaðu tengilinn í vafranum til að staðfesta að netfangið sé rétt."
+
+msgid  "confirmemail_pending"
+msgstr  "Þér hefur þegar verið sendur staðfestingarkóði á netfang þitt;\nef þú varst að enda við að búa til nýtt notendanafn skaltu bíða í nokkrar mínútur og sjá hvort staðfestingarkóðinn berist þér ekki í pósti á næstunni áður en þú reynir aftur að fá nýjan staðfestingarkóða."
+
+msgid  "confirmemail_send"
+msgstr  "Senda staðfestingarkóða með tölvupósti"
+
+msgid  "confirmemail_sent"
+msgstr  "Staðfestingartölvupóstur sendur."
+
+msgid  "confirmemail_oncreate"
+msgstr  "Staðfestingarkóði hefur verði sendur á netfangið.\nÞennan kóða þarf ekki að staðfesta til að skrá sig inn, en þú þarft að gefa hann upp áður\nen opnað verður fyrir valmöguleika tengdum netfangi á þessu wiki-verkefni."
+
+msgid  "confirmemail_sendfailed"
+msgstr  "{{SITENAME}} gat ekki sent staðfestingarpóst.\nAthugaðu hvort ógild tákn séu í netfanginu þínu.\n\nPóstþjónninn skilaði: $1"
+
+msgid  "confirmemail_invalid"
+msgstr  "Ógildur staðfestingarkóði. Hann gæti verið útrunninn."
+
+msgid  "confirmemail_needlogin"
+msgstr  "Þú verður að $1 til að staðfesta netfangið þitt."
+
+msgid  "confirmemail_success"
+msgstr  "Netfang þitt hefur verið staðfest. Þú getur nú skráð þig inn og vafrað um wiki-kerfið."
+
+msgid  "confirmemail_loggedin"
+msgstr  "Netfang þitt hefur verið staðfest."
+
+msgid  "confirmemail_error"
+msgstr  "Eitthvað fór úrskeiðis við vistun staðfestingarinnar."
+
+msgid  "confirmemail_subject"
+msgstr  "{{SITENAME}} netfangs-staðfesting"
+
+msgid  "confirmemail_body"
+msgstr  "Einhver, sennilega þú, með vistfangið $1 hefur skráð sig á {{SITENAME}} undir notandanafninu „$2“ og gefið upp þetta netfang.\n\nTil að staðfesta að það hafi verið þú sem skráðir þig undir þessu nafni, og til þess að virkja póstsendingar í gegnum {{SITENAME}}, skaltu opna þennan tengil í vafranum þínum:\n\n$3\n\nEf þú ert *ekki* sá/sú sem skráði þetta notandanafn, skaltu opna þennan tengil til að ógilda staðfestinguna:\n\n$5\n\nÞessi staðfestingarkóði rennur út $4."
+
+msgid  "confirmemail_invalidated"
+msgstr  "Hætt við staðfestingu netfangs"
+
+msgid  "invalidateemail"
+msgstr  "Hætta við staðfestingu netfangs"
+
+msgid  "scarytranscludefailed"
+msgstr  "[Gat ekki sótt snið fyrir $1]"
+
+msgid  "scarytranscludetoolong"
+msgstr  "[vefslóðin er of löng]"
+
+msgid  "trackbackbox"
+msgstr  "Varanlegir tenglar fyrir þessa grein:<br />\n$1"
+
+msgid  "trackbackremove"
+msgstr  "([$1 eydd])"
+
+msgid  "trackbacklink"
+msgstr  "Varanlegur tengill"
+
+msgid  "trackbackdeleteok"
+msgstr  "Varanlega tenglinum var eytt."
+
+msgid  "deletedwhileediting"
+msgstr  "'''Viðvörun''': Þessari síðu var eytt eftir að þú fórst að breyta henni!"
+
+msgid  "confirmrecreate"
+msgstr  "Notandi [[User:$1|$1]] ([[User talk:$1|spjall]]) eyddi þessari síðu eftir að þú fórst að breyta henni út af:\n: ''$2''\nVinsamlegast staðfestu að þú viljir endurvekja hana."
+
+msgid  "recreate"
+msgstr  "Endurvekja"
+
+msgid  "confirm_purge_button"
+msgstr  "Í lagi"
+
+msgid  "confirm-purge-top"
+msgstr  "Hreinsa skyndiminni þessarar síðu?"
+
+msgid  "imgmultipageprev"
+msgstr  "← fyrri síða"
+
+msgid  "imgmultipagenext"
+msgstr  "næsta síða →"
+
+msgid  "imgmultigo"
+msgstr  "Áfram!"
+
+msgid  "imgmultigoto"
+msgstr  "Fara á síðu $1"
+
+msgid  "ascending_abbrev"
+msgstr  "hækkandi"
+
+msgid  "descending_abbrev"
+msgstr  "lækkandi"
+
+msgid  "table_pager_next"
+msgstr  "Næsta síða"
+
+msgid  "table_pager_prev"
+msgstr  "Fyrri síða"
+
+msgid  "table_pager_first"
+msgstr  "Fyrsta síðan"
+
+msgid  "table_pager_last"
+msgstr  "Síðasta síðan"
+
+msgid  "table_pager_limit"
+msgstr  "Sýna $1 hluta á hverri síðu"
+
+msgid  "table_pager_limit_submit"
+msgstr  "Áfram"
+
+msgid  "table_pager_empty"
+msgstr  "Engar niðurstöður"
+
+msgid  "autosumm-blank"
+msgstr  "Tæmdi síðuna"
+
+msgid  "autosumm-replace"
+msgstr  "Skipti út innihaldi með „$1“"
+
+msgid  "autoredircomment"
+msgstr  "Tilvísun á [[$1]]"
+
+msgid  "autosumm-new"
+msgstr  "Ný síða: $1"
+
+msgid  "livepreview-loading"
+msgstr  "Framkalla…"
+
+msgid  "livepreview-ready"
+msgstr  "… framköllun lokið!"
+
+msgid  "lag-warn-normal"
+msgstr  "Breytingar nýrri en $1 {{PLURAL:$1|sekúnda|sekúndur}} kunna að vera ekki á þessm lista."
+
+msgid  "lag-warn-high"
+msgstr  "Vegna mikils álags á vefþjónanna, kunna breytingar yngri en $1 {{PLURAL:$1|sekúnda|sekúndur}} ekki að vera á þessum lista."
+
+msgid  "watchlistedit-numitems"
+msgstr  "Á vaktlista þínum {{PLURAL:$1|er 1 síða|eru $1 síður}}, að undanskildum spjallsíðum."
+
+msgid  "watchlistedit-noitems"
+msgstr  "Vaktlistinn þinn inniheldur enga titla."
+
+msgid  "watchlistedit-normal-title"
+msgstr  "Breyta vaktlistanum"
+
+msgid  "watchlistedit-normal-legend"
+msgstr  "Fjarlægja titla af vaktlistanum"
+
+msgid  "watchlistedit-normal-explain"
+msgstr  "Titlarnir á vaktlistanum þínum er sýndir fyrir neðan. Til að fjarlægja titil hakaðu í kassan við hliðina á honum og smelltu á „Fjarlægja titla“. Þú getur einnig [[Special:Watchlist/raw|breytt honum opnum]]."
+
+msgid  "watchlistedit-normal-submit"
+msgstr  "Fjarlægja titla"
+
+msgid  "watchlistedit-normal-done"
+msgstr  "{{PLURAL:$1|Ein síða var fjarlægð|$1 síður voru fjarlægðar}} af vaktlistanum þínum:"
+
+msgid  "watchlistedit-raw-title"
+msgstr  "Breyta opnum vaktlistanum"
+
+msgid  "watchlistedit-raw-legend"
+msgstr  "Breyta opnum vaktlistanum"
+
+msgid  "watchlistedit-raw-explain"
+msgstr  "Titlarnir á vaktlistanum þínum er sýndir fyrir neðan, þar sem mögulegt er að breyta þeim með því að bæta við hann og taka af honum; einn tiltil í hverri línu. Þegar þú er búinn, smelltu þá á „Uppfæra vaktlistann“. Þú getur einnig notað [[Special:Watchlist/edit|staðlaða breytinn]]."
+
+msgid  "watchlistedit-raw-titles"
+msgstr  "Titlar:"
+
+msgid  "watchlistedit-raw-submit"
+msgstr  "Uppfæra vaktlistann"
+
+msgid  "watchlistedit-raw-done"
+msgstr  "Vaktlistinn þinn hefur verið uppfærður."
+
+msgid  "watchlistedit-raw-added"
+msgstr  "{{PLURAL:$1|Einum titli|$1 titlum}} var bætt við:"
+
+msgid  "watchlistedit-raw-removed"
+msgstr  "{{PLURAL:$1|1 titill var fjarlægður|$1 titlar voru fjarlægðir}}:"
+
+msgid  "watchlisttools-view"
+msgstr  "Sýna viðeigandi breytingar"
+
+msgid  "watchlisttools-edit"
+msgstr  "Skoða og breyta vaktlistanum"
+
+msgid  "watchlisttools-raw"
+msgstr  "Breyta opnum vaktlistanum"
+
+msgid  "version"
+msgstr  "Útgáfa"
+
+msgid  "version-extensions"
+msgstr  "Uppsettar viðbætur"
+
+msgid  "version-specialpages"
+msgstr  "Kerfissíður"
+
+msgid  "version-variables"
+msgstr  "Breytur"
+
+msgid  "version-other"
+msgstr  "Aðrar"
+
+msgid  "version-version"
+msgstr  "(Útgáfa $1)"
+
+msgid  "version-license"
+msgstr  "Leyfi"
+
+msgid  "version-software"
+msgstr  "Uppsettur hugbúnaður"
+
+msgid  "version-software-product"
+msgstr  "Vara"
+
+msgid  "version-software-version"
+msgstr  "Útgáfa"
+
+msgid  "filepath"
+msgstr  "Slóð skráar"
+
+msgid  "filepath-page"
+msgstr  "Skrá:"
+
+msgid  "filepath-submit"
+msgstr  "Slóð"
+
+msgid  "fileduplicatesearch-legend"
+msgstr  "Leita að afriti"
+
+msgid  "fileduplicatesearch-filename"
+msgstr  "Skráarnafn:"
+
+msgid  "fileduplicatesearch-submit"
+msgstr  "Leita"
+
+msgid  "fileduplicatesearch-info"
+msgstr  "$1 × $2 myndeining<br />Skráarstærð: $3<br />MIME-gerð: $4"
+
+msgid  "fileduplicatesearch-result-1"
+msgstr  "Skráin „$1“ hefur engin nákvæmlega eins afrit."
+
+msgid  "fileduplicatesearch-result-n"
+msgstr  "Skráin „$1“ hefur {{PLURAL:$2|1 nákvæmlega eins afrit|$2 nákvæmlega eins afrit}}."
+
+msgid  "specialpages"
+msgstr  "Kerfissíður"
+
+msgid  "specialpages-group-maintenance"
+msgstr  "Viðhaldsskýrslur"
+
+msgid  "specialpages-group-other"
+msgstr  "Aðrar kerfissíður"
+
+msgid  "specialpages-group-login"
+msgstr  "Innskrá / Búa til aðgang"
+
+msgid  "specialpages-group-changes"
+msgstr  "Nýlegar breytingar og skrár"
+
+msgid  "specialpages-group-media"
+msgstr  "Miðilsskrár og innhleðslur"
+
+msgid  "specialpages-group-users"
+msgstr  "Notendur og réttindi"
+
+msgid  "specialpages-group-highuse"
+msgstr  "Mest notaðar síður"
+
+msgid  "specialpages-group-pages"
+msgstr  "Listar yfir síður"
+
+msgid  "specialpages-group-pagetools"
+msgstr  "Síðuverkfæri"
+
+msgid  "blankpage"
+msgstr  "Tóm síða"
+
+msgid  "tags-edit"
+msgstr  "breyta"
+
+msgid  "dberr-usegoogle"
+msgstr  "Þú getur notað Google til að leita á meðan."
+
+msgid  "wm-license-fsf-wiki-link"
+msgstr  "w:is:Frjálsa hugbúnaðarstofnunin"
+
+msgid  "wm-license-free-software-wiki-link"
+msgstr  "w:is:Frjáls hugbúnaður"
+
+msgid  "wm-license-gfdl-1.2-and-later"
+msgstr  "Gefið er leyfi til að afrita, dreifa og/eða breyta þessu skjali samkvæmt Frjálsa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''',  útgáfu 1.2 eða nýrri, sem gefið er út af Frjálsu hugbúnaðarstofnuninni með engum breytingum þar á."
+
+msgid  "wm-license-gfdl-wiki-link"
+msgstr  "w:is:Frjálsa GNU-handbókarleyfið"
+
+msgid  "wm-license-information-description"
+msgstr  "Lýsing"
+
+msgid  "wm-license-information-source"
+msgstr  "Uppruni"
+
+msgid  "wm-license-information-date"
+msgstr  "Dagsetning"
+
+msgid  "wm-license-information-author"
+msgstr  "Höfundaréttshafi"
+
+msgid  "wm-license-information-permission"
+msgstr  "Réttindi"
+
+msgid  "wm-license-information-permission-see-below"
+msgstr  "See below."
+
+msgid  "wm-license-information-other-versions"
+msgstr  "Aðrar útgáfur"
+

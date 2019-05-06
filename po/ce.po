@@ -1,0 +1,4110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ce\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "#дlасахьажайар'"
+msgstr "#REDIRECT"
+
+msgid  "'#хьажайо'"
+msgstr "#REDIRECT"
+
+msgid  "'#REDIRECT"
+msgstr "#REDIRECT"
+
+msgid  "#перенаправление"
+msgstr "#REDIRECT"
+
+msgid  "#перенапр"
+msgstr "#REDIRECT"
+
+msgid  "__БАЦ_ЧУЛАЦАМ__"
+msgstr "__NOTOC__"
+
+msgid  "__БАЦ_ЧУЛ__"
+msgstr "__NOTOC__"
+
+msgid  "__БЕЗ_ОГЛАВЛЕНИЯ__"
+msgstr "__NOTOC__"
+
+msgid  "__БЕЗ_ОГЛ__"
+msgstr "__NOTOC__"
+
+msgid  "__ЙАЦ_УЧЕ__"
+msgstr "__NOGALLERY__"
+
+msgid  "__БЕЗ_ГАЛЕРЕИ__"
+msgstr "__NOGALLERY__"
+
+msgid  "__ТlЕДУЬЛЛУ_ЧУЛАЦАМБАР__"
+msgstr "__FORCETOC__"
+
+msgid  "__ТlЕДУЬЛ_ЧУЛ__"
+msgstr "__FORCETOC__"
+
+msgid  "__ОБЯЗАТЕЛЬНОЕ_ОГЛАВЛЕНИЕ__"
+msgstr "__FORCETOC__"
+
+msgid  "__ОБЯЗ_ОГЛ__"
+msgstr "__FORCETOC__"
+
+msgid  "__ЧУЛАЦАМ__"
+msgstr "__TOC__"
+
+msgid  "__ЧУЛ__"
+msgstr "__TOC__"
+
+msgid  "__ОГЛАВЛЕНИЕ__"
+msgstr "__TOC__"
+
+msgid  "__ОГЛ__"
+msgstr "__TOC__"
+
+msgid  "__ЦАМЕГ_РЕДАККХА_АГlОН__"
+msgstr "__NOEDITSECTION__"
+
+msgid  "__БЕЗ_РЕДАКТИРОВАНИЯ_РАЗДЕЛА__"
+msgstr "__NOEDITSECTION__"
+
+msgid  "__КОЬРТА_ЙОЦАШ__"
+msgstr "__NOHEADER__"
+
+msgid  "__БЕЗ_ЗАГОЛОВКА__"
+msgstr "__NOHEADER__"
+
+msgid  "КАРАРА_БУТТ"
+msgstr "CURRENTMONTH2"
+
+msgid  "КАРАРА_БУТТ_2"
+msgstr "CURRENTMONTH2"
+
+msgid  "ТЕКУЩИЙ_МЕСЯЦ"
+msgstr "CURRENTMONTH2"
+
+msgid  "ТЕКУЩИЙ_МЕСЯЦ_2"
+msgstr "CURRENTMONTH2"
+
+msgid  "CURRENTMONTH"
+msgstr "CURRENTMONTH2"
+
+msgid  "КАРАРА_БУТТ_1"
+msgstr "CURRENTMONTH1"
+
+msgid  "ТЕКУЩИЙ_МЕСЯЦ_1"
+msgstr "CURRENTMONTH1"
+
+msgid  "КАРАРАЧУ_БЕТТА_ЦlЕ"
+msgstr "CURRENTMONTHNAME"
+
+msgid  "НАЗВАНИЕ_ТЕКУЩЕГО_МЕСЯЦА"
+msgstr "CURRENTMONTHNAME"
+
+msgid  "КАРАРАЧУ_БЕТТА_ЦlЕ_МУХ"
+msgstr "CURRENTMONTHNAMEGEN"
+
+msgid  "НАЗВАНИЕ_ТЕКУЩЕГО_МЕСЯЦА_РОД"
+msgstr "CURRENTMONTHNAMEGEN"
+
+msgid  "КАРАРАЧУ_БЕТТА_ЦlЕ_АБР"
+msgstr "CURRENTMONTHABBREV"
+
+msgid  "НАЗВАНИЕ_ТЕКУЩЕГО_МЕСЯЦА_АБР"
+msgstr "CURRENTMONTHABBREV"
+
+msgid  "КАРАРА_ДЕ"
+msgstr "CURRENTDAY"
+
+msgid  "ТЕКУЩИЙ_ДЕНЬ"
+msgstr "CURRENTDAY"
+
+msgid  "КАРАРА_ДЕ_2"
+msgstr "CURRENTDAY2"
+
+msgid  "ТЕКУЩИЙ_ДЕНЬ_2"
+msgstr "CURRENTDAY2"
+
+msgid  "КАРАРАЧУ_ДЕ_ЦlЕ"
+msgstr "CURRENTDAYNAME"
+
+msgid  "НАЗВАНИЕ_ТЕКУЩЕГО_ДНЯ"
+msgstr "CURRENTDAYNAME"
+
+msgid  "КАРАРА_ШО"
+msgstr "CURRENTYEAR"
+
+msgid  "ТЕКУЩИЙ_ГОД"
+msgstr "CURRENTYEAR"
+
+msgid  "КАРАРА_ХАН"
+msgstr "CURRENTTIME"
+
+msgid  "ТЕКУЩЕЕ_ВРЕМЯ"
+msgstr "CURRENTTIME"
+
+msgid  "КАРАРА_САХЬТ"
+msgstr "CURRENTHOUR"
+
+msgid  "ТЕКУЩИЙ_ЧАС"
+msgstr "CURRENTHOUR"
+
+msgid  "МЕТТИГАН_БУТТ"
+msgstr "LOCALMONTH2"
+
+msgid  "МЕСТНЫЙ_МЕСЯЦ_2"
+msgstr "LOCALMONTH2"
+
+msgid  "МЕСТНЫЙ_МЕСЯЦ"
+msgstr "LOCALMONTH2"
+
+msgid  "LOCALMONTH"
+msgstr "LOCALMONTH2"
+
+msgid  "МЕТТИГАН_БУТТ_1"
+msgstr "LOCALMONTH1"
+
+msgid  "МЕСТНЫЙ_МЕСЯЦ_1"
+msgstr "LOCALMONTH1"
+
+msgid  "МЕТТИГАН_БЕТТА_ЦlЕ"
+msgstr "LOCALMONTHNAME"
+
+msgid  "НАЗВАНИЕ_МЕСТНОГО_МЕСЯЦА"
+msgstr "LOCALMONTHNAME"
+
+msgid  "МЕТТИГАН_БЕТТА_ЦlЕ_МУХ"
+msgstr "LOCALMONTHNAMEGEN"
+
+msgid  "НАЗВАНИЕ_МЕСТНОГО_МЕСЯЦА_РОД"
+msgstr "LOCALMONTHNAMEGEN"
+
+msgid  "МЕТТИГАН_БЕТТА_ЦlЕ_АБР"
+msgstr "LOCALMONTHABBREV"
+
+msgid  "НАЗВАНИЕ_МЕСТНОГО_МЕСЯЦА_АБР"
+msgstr "LOCALMONTHABBREV"
+
+msgid  "МЕТТИГАН_ДЕ"
+msgstr "LOCALDAY"
+
+msgid  "МЕСТНЫЙ_ДЕНЬ"
+msgstr "LOCALDAY"
+
+msgid  "МЕТТИГАН_ДЕ_2"
+msgstr "LOCALDAY2"
+
+msgid  "МЕСТНЫЙ_ДЕНЬ_2"
+msgstr "LOCALDAY2"
+
+msgid  "МЕТТИГАН_ДЕ_ЦlЕ"
+msgstr "LOCALDAYNAME"
+
+msgid  "НАЗВАНИЕ_МЕСТНОГО_ДНЯ"
+msgstr "LOCALDAYNAME"
+
+msgid  "МЕТТИГАН_ШО"
+msgstr "LOCALYEAR"
+
+msgid  "МЕСТНЫЙ_ГОД"
+msgstr "LOCALYEAR"
+
+msgid  "МЕТТИГАН_ХАН"
+msgstr "LOCALTIME"
+
+msgid  "МЕСТНОЕ_ВРЕМЯ"
+msgstr "LOCALTIME"
+
+msgid  "МЕТТИГАН_САХЬТ"
+msgstr "LOCALHOUR"
+
+msgid  "МЕСТНЫЙ_ЧАС"
+msgstr "LOCALHOUR"
+
+msgid  "АГlОНИЙ_ДУКХАЛЛА"
+msgstr "NUMBEROFPAGES"
+
+msgid  "КОЛИЧЕСТВО_СТРАНИЦ"
+msgstr "NUMBEROFPAGES"
+
+msgid  "ЯЗЗАМАШИ_ДУКХАЛЛА"
+msgstr "NUMBEROFARTICLES"
+
+msgid  "КОЛИЧЕСТВО_СТАТЕЙ"
+msgstr "NUMBEROFARTICLES"
+
+msgid  "ХlУМНИЙ_ДУКХАЛЛА"
+msgstr "NUMBEROFFILES"
+
+msgid  "КОЛИЧЕСТВО_ФАЙЛОВ"
+msgstr "NUMBEROFFILES"
+
+msgid  "ДЕКЪАШХОЙ_ДУКХАЛЛА"
+msgstr "NUMBEROFUSERS"
+
+msgid  "КОЛИЧЕСТВО_УЧАСТНИКОВ"
+msgstr "NUMBEROFUSERS"
+
+msgid  "ДУКХАЛЛА_ЖИГАРА_ДЕКЪАШХОЙ"
+msgstr "NUMBEROFACTIVEUSERS"
+
+msgid  "КОЛИЧЕСТВО_АКТИВНЫХ_УЧАСТНИКОВ"
+msgstr "NUMBEROFACTIVEUSERS"
+
+msgid  "НИСДАРШИЙ_ДУКХАЛЛА"
+msgstr "NUMBEROFEDITS"
+
+msgid  "КОЛИЧЕСТВО_ПРАВОК"
+msgstr "NUMBEROFEDITS"
+
+msgid  "ХЬАЖАРИЙ_ДУКХАЛЛА"
+msgstr "NUMBEROFVIEWS"
+
+msgid  "КОЛИЧЕСТВО_ПРОСМОТРОВ"
+msgstr "NUMBEROFVIEWS"
+
+msgid  "АГlОН_ЦlЕ"
+msgstr "PAGENAME"
+
+msgid  "НАЗВАНИЕ_СТРАНИЦЫ"
+msgstr "PAGENAME"
+
+msgid  "АГlОН_ЦlЕ_2"
+msgstr "PAGENAMEE"
+
+msgid  "НАЗВАНИЕ_СТРАНИЦЫ_2"
+msgstr "PAGENAMEE"
+
+msgid  "ЦlЕРИ_АНА"
+msgstr "NAMESPACE"
+
+msgid  "ПРОСТРАНСТВО_ИМЁН"
+msgstr "NAMESPACE"
+
+msgid  "ЦlЕРИ_АНА_2"
+msgstr "NAMESPACEE"
+
+msgid  "ПРОСТРАНСТВО_ИМЁН_2"
+msgstr "NAMESPACEE"
+
+msgid  "ДИЙЦАРШИ_АНА"
+msgstr "TALKSPACE"
+
+msgid  "ПРОСТРАНСТВО_ОБСУЖДЕНИЙ"
+msgstr "TALKSPACE"
+
+msgid  "ДИЙЦАРШИ_АНА_2"
+msgstr "TALKSPACEE"
+
+msgid  "ПРОСТРАНСТВО_ОБСУЖДЕНИЙ_2"
+msgstr "TALKSPACEE"
+
+msgid  "ЯЗЗАМАШИ_АНА"
+msgstr "ARTICLESPACE"
+
+msgid  "ПРОСТРАНСТВО_СТАТЕЙ"
+msgstr "ARTICLESPACE"
+
+msgid  "SUBJECTSPACE"
+msgstr "ARTICLESPACE"
+
+msgid  "ЯЗЗАМАШИ_АНА_2"
+msgstr "ARTICLESPACEE"
+
+msgid  "ПРОСТРАНСТВО_СТАТЕЙ_2"
+msgstr "ARTICLESPACEE"
+
+msgid  "SUBJECTSPACEE"
+msgstr "ARTICLESPACEE"
+
+msgid  "ЮЬЗЗИНА_АГlОН_ЦlЕ"
+msgstr "FULLPAGENAME"
+
+msgid  "ПОЛНОЕ_НАЗВАНИЕ_СТРАНИЦЫ"
+msgstr "FULLPAGENAME"
+
+msgid  "ЮЬЗЗИНА_АГlОН_ЦlЕ_2"
+msgstr "FULLPAGENAMEE"
+
+msgid  "ПОЛНОЕ_НАЗВАНИЕ_СТРАНИЦЫ_2"
+msgstr "FULLPAGENAMEE"
+
+msgid  "АГlОН_КlЕЛАРА_ЦlЕ"
+msgstr "SUBPAGENAME"
+
+msgid  "НАЗВАНИЕ_ПОДСТРАНИЦЫ"
+msgstr "SUBPAGENAME"
+
+msgid  "АГlОН_КlЕЛАРА_ЦlЕ_2"
+msgstr "SUBPAGENAMEE"
+
+msgid  "НАЗВАНИЕ_ПОДСТРАНИЦЫ_2"
+msgstr "SUBPAGENAMEE"
+
+msgid  "АГlОН_ЦlЕРА_БУХ"
+msgstr "BASEPAGENAME"
+
+msgid  "ОСНОВА_НАЗВАНИЯ_СТРАНИЦЫ"
+msgstr "BASEPAGENAME"
+
+msgid  "АГlОН_ЦlЕРА_БУХ_2"
+msgstr "BASEPAGENAMEE"
+
+msgid  "ОСНОВА_НАЗВАНИЯ_СТРАНИЦЫ_2"
+msgstr "BASEPAGENAMEE"
+
+msgid  "ДИЙЦАРЕ_АГlОН_ЦlЕ"
+msgstr "TALKPAGENAME"
+
+msgid  "НАЗВАНИЕ_СТРАНИЦЫ_ОБСУЖДЕНИЯ"
+msgstr "TALKPAGENAME"
+
+msgid  "ДИЙЦАРЕ_АГlОН_ЦlЕ_2"
+msgstr "TALKPAGENAMEE"
+
+msgid  "НАЗВАНИЕ_СТРАНИЦЫ_ОБСУЖДЕНИЯ_2"
+msgstr "TALKPAGENAMEE"
+
+msgid  "АГlОН_ЯЗЗАМАН_ЦlЕ"
+msgstr "ARTICLEPAGENAME"
+
+msgid  "НАЗВАНИЕ_СТРАНИЦЫ_СТАТЬИ"
+msgstr "ARTICLEPAGENAME"
+
+msgid  "SUBJECTPAGENAME"
+msgstr "ARTICLEPAGENAME"
+
+msgid  "АГlОН_ЯЗЗАМАН_ЦlЕ_2"
+msgstr "ARTICLEPAGENAMEE"
+
+msgid  "НАЗВАНИЕ_СТРАНИЦЫ_СТАТЬИ_2"
+msgstr "ARTICLEPAGENAMEE"
+
+msgid  "SUBJECTPAGENAMEE"
+msgstr "ARTICLEPAGENAMEE"
+
+msgid  "ХААМ:"
+msgstr "MSG:"
+
+msgid  "СООБЩЕНИЕ:"
+msgstr "MSG:"
+
+msgid  "СООБЩ:"
+msgstr "MSG:"
+
+msgid  "ХlОТТОР:"
+msgstr "SUBST:"
+
+msgid  "ХlОТТ:"
+msgstr "SUBST:"
+
+msgid  "ПОДСТАНОВКА:"
+msgstr "SUBST:"
+
+msgid  "ПОДСТ:"
+msgstr "SUBST:"
+
+msgid  "ВИКИ_ХААМ_БОЦАШ:"
+msgstr "MSGNW:"
+
+msgid  "СООБЩ_БЕЗ_ВИКИ:"
+msgstr "MSGNW:"
+
+msgid  "жима"
+msgstr "thumb"
+
+msgid  "жимо"
+msgstr "thumb"
+
+msgid  "мини"
+msgstr "thumb"
+
+msgid  "миниатюра"
+msgstr "thumb"
+
+msgid  "thumbnail"
+msgstr "thumb"
+
+msgid  "жима=$1"
+msgstr "thumb=$1"
+
+msgid  "жимо=$1"
+msgstr "thumb=$1"
+
+msgid  "мини=$1"
+msgstr "thumb=$1"
+
+msgid  "миниатюра=$1"
+msgstr "thumb=$1"
+
+msgid  "thumbnail=$1"
+msgstr "thumb=$1"
+
+msgid  "бакъхьа"
+msgstr "right"
+
+msgid  "справа"
+msgstr "right"
+
+msgid  "харцхьа"
+msgstr "left"
+
+msgid  "слева"
+msgstr "left"
+
+msgid  "йоцуш"
+msgstr "none"
+
+msgid  "без"
+msgstr "none"
+
+msgid  "$1цинт"
+msgstr "$1px"
+
+msgid  "$1пкс"
+msgstr "$1px"
+
+msgid  "юккъ"
+msgstr "centre"
+
+msgid  "центр"
+msgstr "centre"
+
+msgid  "center"
+msgstr "centre"
+
+msgid  "гурабе"
+msgstr "frame"
+
+msgid  "обрамить"
+msgstr "frame"
+
+msgid  "framed"
+msgstr "frame"
+
+msgid  "enframed"
+msgstr "frame"
+
+msgid  "гурабоцаш"
+msgstr "frameless"
+
+msgid  "безрамки"
+msgstr "frameless"
+
+msgid  "агlо=$1"
+msgstr "page $1"
+
+msgid  "агlо_$1"
+msgstr "page $1"
+
+msgid  "page_$1"
+msgstr "page $1"
+
+msgid  "страница=$1"
+msgstr "page $1"
+
+msgid  "страница $1"
+msgstr "page $1"
+
+msgid  "page=$1"
+msgstr "page $1"
+
+msgid  "бакъхьалакхо"
+msgstr "upright $1"
+
+msgid  "бакъхьалакхо=$1"
+msgstr "upright $1"
+
+msgid  "бакъхьалакхо_$1"
+msgstr "upright $1"
+
+msgid  "upright_$1"
+msgstr "upright $1"
+
+msgid  "сверхусправа"
+msgstr "upright $1"
+
+msgid  "сверхусправа=$1"
+msgstr "upright $1"
+
+msgid  "сверхусправа $1"
+msgstr "upright $1"
+
+msgid  "upright"
+msgstr "upright $1"
+
+msgid  "upright=$1"
+msgstr "upright $1"
+
+msgid  "доза"
+msgstr "border"
+
+msgid  "граница"
+msgstr "border"
+
+msgid  "бух"
+msgstr "baseline"
+
+msgid  "основание"
+msgstr "baseline"
+
+msgid  "буха"
+msgstr "sub"
+
+msgid  "под"
+msgstr "sub"
+
+msgid  "тlе"
+msgstr "sup"
+
+msgid  "над"
+msgstr "sup"
+
+msgid  "super"
+msgstr "sup"
+
+msgid  "лакхахь"
+msgstr "top"
+
+msgid  "сверху"
+msgstr "top"
+
+msgid  "лакххьара-йоза"
+msgstr "text-top"
+
+msgid  "текст-сверху"
+msgstr "text-top"
+
+msgid  "юккъе"
+msgstr "middle"
+
+msgid  "посередине"
+msgstr "middle"
+
+msgid  "бухар"
+msgstr "bottom"
+
+msgid  "снизу"
+msgstr "bottom"
+
+msgid  "бухара-йоза"
+msgstr "text-bottom"
+
+msgid  "текст-снизу"
+msgstr "text-bottom"
+
+msgid  "хьажориг=$1"
+msgstr "link=$1"
+
+msgid  "ссылка=$1"
+msgstr "link=$1"
+
+msgid  "альт=$1"
+msgstr "alt=$1"
+
+msgid  "ЧУЬРА:"
+msgstr "INT:"
+
+msgid  "ВНУТР:"
+msgstr "INT:"
+
+msgid  "МЕТТИГ_ЦlЕ"
+msgstr "SITENAME"
+
+msgid  "НАЗВАНИЕ_САЙТА"
+msgstr "SITENAME"
+
+msgid  "БО:"
+msgstr "NS:"
+
+msgid  "ПИ:"
+msgstr "NS:"
+
+msgid  "БОХЬ:"
+msgstr "NSE:"
+
+msgid  "ПИК:"
+msgstr "NSE:"
+
+msgid  "ХlОТТАЕЛЛА_МЕТТИГ:"
+msgstr "LOCALURL:"
+
+msgid  "ЛОКАЛЬНЫЙ_АДРЕС:"
+msgstr "LOCALURL:"
+
+msgid  "ХlОТТАЕЛЛА_МЕТТИГ_2:"
+msgstr "LOCALURLE:"
+
+msgid  "ЛОКАЛЬНЫЙ_АДРЕС_2:"
+msgstr "LOCALURLE:"
+
+msgid  "ГlУЛКХДИРИГ"
+msgstr "SERVER"
+
+msgid  "СЕРВЕР"
+msgstr "SERVER"
+
+msgid  "ГlУЛКХДЕЧУЬНА_ЦlЕ"
+msgstr "SERVERNAME"
+
+msgid  "НАЗВАНИЕ_СЕРВЕРА"
+msgstr "SERVERNAME"
+
+msgid  "НЕКЪ_ОЦ_МЕТТАКЕПА"
+msgstr "SCRIPTPATH"
+
+msgid  "ПУТЬ_К_СКРИПТУ"
+msgstr "SCRIPTPATH"
+
+msgid  "ЙОМАНХАТl"
+msgstr "STYLEPATH"
+
+msgid  "ПУТЬ_К_СТИЛЮ"
+msgstr "STYLEPATH"
+
+msgid  "ДОЖАР:"
+msgstr "GRAMMAR:"
+
+msgid  "ПАДЕЖ:"
+msgstr "GRAMMAR:"
+
+msgid  "ВУ_ЙУ:"
+msgstr "GENDER:"
+
+msgid  "GENDER"
+msgstr "GENDER:"
+
+msgid  "ПОЛ:"
+msgstr "GENDER:"
+
+msgid  "__ХИЙЦАР_ДОЦУШ_КОЬРТЕ__"
+msgstr "__NOTC__"
+
+msgid  "__БЕЗ_ПРЕОБРАЗОВАНИЯ_ЗАГОЛОВКА__"
+msgstr "__NOTC__"
+
+msgid  "__NOTITLECONVERT__"
+msgstr "__NOTC__"
+
+msgid  "__ЙОЗА_ХИЙЦАР_ДОЦУШ__"
+msgstr "__NOCC__"
+
+msgid  "__БЕЗ_ПРЕОБРАЗОВАНИЯ_ТЕКСТА__"
+msgstr "__NOCC__"
+
+msgid  "__NOCONTENTCONVERT__"
+msgstr "__NOCC__"
+
+msgid  "КАРАРА_КlИР"
+msgstr "CURRENTWEEK"
+
+msgid  "ТЕКУЩАЯ_НЕДЕЛЯ"
+msgstr "CURRENTWEEK"
+
+msgid  "КАРАРА_КlИРАН_ДЕ"
+msgstr "CURRENTDOW"
+
+msgid  "ТЕКУЩИЙ_ДЕНЬ_НЕДЕЛИ"
+msgstr "CURRENTDOW"
+
+msgid  "МЕТТИГЕРА_КlИРА"
+msgstr "LOCALWEEK"
+
+msgid  "МЕСТНАЯ_НЕДЕЛЯ"
+msgstr "LOCALWEEK"
+
+msgid  "МЕТТИГАН_КlИРАН_ДЕ"
+msgstr "LOCALDOW"
+
+msgid  "МЕСТНЫЙ_ДЕНЬ_НЕДЕЛИ"
+msgstr "LOCALDOW"
+
+msgid  "ЦУЬНА_БАШХО"
+msgstr "REVISIONID"
+
+msgid  "ИД_ВЕРСИИ"
+msgstr "REVISIONID"
+
+msgid  "ДЕ_БАШХО"
+msgstr "REVISIONDAY"
+
+msgid  "ДЕНЬ_ВЕРСИИ"
+msgstr "REVISIONDAY"
+
+msgid  "ДЕ_БАШХО_2"
+msgstr "REVISIONDAY2"
+
+msgid  "ДЕНЬ_ВЕРСИИ_2"
+msgstr "REVISIONDAY2"
+
+msgid  "БЕТТА_БАШХО"
+msgstr "REVISIONMONTH"
+
+msgid  "МЕСЯЦ_ВЕРСИИ"
+msgstr "REVISIONMONTH"
+
+msgid  "ШО_БАШХО"
+msgstr "REVISIONYEAR"
+
+msgid  "ГОД_ВЕРСИИ"
+msgstr "REVISIONYEAR"
+
+msgid  "КЪАСТАМ_ХЕНА_БАШХО"
+msgstr "REVISIONTIMESTAMP"
+
+msgid  "ОТМЕТКА_ВРЕМЕНИ_ВЕРСИИ"
+msgstr "REVISIONTIMESTAMP"
+
+msgid  "ДЕКЪАШХОН_БАШХО"
+msgstr "REVISIONUSER"
+
+msgid  "ВЕРСИЯ_УЧАСНИКА"
+msgstr "REVISIONUSER"
+
+msgid  "ДУКХАЛЛИН_ТЕРАХЬ:"
+msgstr "PLURAL:"
+
+msgid  "МНОЖЕСТВЕННОЕ_ЧИСЛО:"
+msgstr "PLURAL:"
+
+msgid  "МАЙАРРА_МЕТТИГ:"
+msgstr "FULLURL:"
+
+msgid  "ПОЛНЫЙ_АДРЕС:"
+msgstr "FULLURL:"
+
+msgid  "МАЙАРРА_МЕТТИГ_2:"
+msgstr "FULLURLE:"
+
+msgid  "ПОЛНЫЙ_АДРЕС_2:"
+msgstr "FULLURLE:"
+
+msgid  "ХЬАЛХАР_ЭЛП_ЖИМА:"
+msgstr "LCFIRST:"
+
+msgid  "ПЕРВАЯ_БУКВА_МАЛЕНЬКАЯ:"
+msgstr "LCFIRST:"
+
+msgid  "ХЬАЛХАР_ЭЛП_ДОККХА:"
+msgstr "UCFIRST:"
+
+msgid  "ПЕРВАЯ_БУКВА_БОЛЬШАЯ:"
+msgstr "UCFIRST:"
+
+msgid  "КЕГИЙЧУ_ЭЛПАШЦА:"
+msgstr "LC:"
+
+msgid  "МАЛЕНЬКИМИ_БУКВАМИ:"
+msgstr "LC:"
+
+msgid  "ДАККХИЙЧУ_ЭЛПАШЦА:"
+msgstr "UC:"
+
+msgid  "БОЛЬШИМИ_БУКВАМИ:"
+msgstr "UC:"
+
+msgid  "ТАЙАНЗА:"
+msgstr "RAW:"
+
+msgid  "НЕОБРАБ:"
+msgstr "RAW:"
+
+msgid  "ГАЙТА_КОЬРТАМОГl"
+msgstr "DISPLAYTITLE"
+
+msgid  "ПОКАЗАТЬ_ЗАГОЛОВОК"
+msgstr "DISPLAYTITLE"
+
+msgid  "Т"
+msgstr "R"
+
+msgid  "Н"
+msgstr "R"
+
+msgid  "__ХЬАЖОРИГ_ОЦ_КЕРЛАЧУ_ДЕКЪАН__"
+msgstr "__NEWSECTIONLINK__"
+
+msgid  "__ССЫЛКА_НА_НОВЫЙ_РАЗДЕЛ__"
+msgstr "__NEWSECTIONLINK__"
+
+msgid  "__ЙОЦАШ_ХЬАЖОРИГ_ОЦ_КЕРЛАЧУ_ДЕКЪАН__"
+msgstr "__NONEWSECTIONLINK__"
+
+msgid  "__БЕЗ_ССЫЛКИ_НА_НОВЫЙ_РАЗДЕЛ__"
+msgstr "__NONEWSECTIONLINK__"
+
+msgid  "ЙОЛШЙОЛУ_БАШХО"
+msgstr "CURRENTVERSION"
+
+msgid  "ТЕКУЩАЯ_ВЕРСИЯ"
+msgstr "CURRENTVERSION"
+
+msgid  "ИШАРЙИНА_МЕТТИГ:"
+msgstr "URLENCODE:"
+
+msgid  "ЗАКОДИРОВАННЫЙ_АДРЕС:"
+msgstr "URLENCODE:"
+
+msgid  "ИШАРЙАР_МЕТТИГАН"
+msgstr "ANCHORENCODE"
+
+msgid  "КОДИРОВАТЬ_МЕТКУ"
+msgstr "ANCHORENCODE"
+
+msgid  "КЪАСТАМ_ЙОЛУЧУ_ХАННА"
+msgstr "CURRENTTIMESTAMP"
+
+msgid  "ОТМЕТКА_ТЕКУЩЕГО_ВРЕМЕНИ"
+msgstr "CURRENTTIMESTAMP"
+
+msgid  "КЪАСТАМ_МЕТТИГА_ХАННА"
+msgstr "LOCALTIMESTAMP"
+
+msgid  "ОТМЕТКА_МЕСТНОГО_ВРЕМЕНИ"
+msgstr "LOCALTIMESTAMP"
+
+msgid  "ХЬАЖОЧЕ_ХААМ"
+msgstr "DIRMARK"
+
+msgid  "НАПРАВЛЕНИЕ_ПИСЬМА"
+msgstr "DIRMARK"
+
+msgid  "DIRECTIONMARK"
+msgstr "DIRMARK"
+
+msgid  "#МОТТ"
+msgstr "#LANGUAGE:"
+
+msgid  "#ЯЗЫК:"
+msgstr "#LANGUAGE:"
+
+msgid  "МОТТ_ЧУЛАЦАМ"
+msgstr "CONTENTLANG"
+
+msgid  "ЯЗЫК_СОДЕРЖАНИЯ"
+msgstr "CONTENTLANG"
+
+msgid  "CONTENTLANGUAGE"
+msgstr "CONTENTLANG"
+
+msgid  "АГlОНАШ_ОЦ_ЦlЕРАШКАХЬ:"
+msgstr "PAGESINNS:"
+
+msgid  "СТРАНИЦ_В_ПРОСТРАНСТВЕ_ИМЁН:"
+msgstr "PAGESINNS:"
+
+msgid  "PAGESINNAMESPACE:"
+msgstr "PAGESINNS:"
+
+msgid  "АДМАНКУЬГАЛХОЙ_ДУКХАЛЛА"
+msgstr "NUMBEROFADMINS"
+
+msgid  "КОЛИЧЕСТВО_АДМИНИСТРАТОРОВ"
+msgstr "NUMBEROFADMINS"
+
+msgid  "ТЕРАХЬАН_БАРАМХlОТТОР"
+msgstr "FORMATNUM"
+
+msgid  "ФОРМАТИРОВАТЬ_ЧИСЛО"
+msgstr "FORMATNUM"
+
+msgid  "ЙУЗА_ХАРЦЕ"
+msgstr "PADLEFT"
+
+msgid  "ЗАПОЛНИТЬ_СЛЕВА"
+msgstr "PADLEFT"
+
+msgid  "ЙУЗА_БАКЪЕ"
+msgstr "PADRIGHT"
+
+msgid  "ЗАПОЛНИТЬ_СПРАВА"
+msgstr "PADRIGHT"
+
+msgid  "белхан"
+msgstr "special"
+
+msgid  "гlуллакхан"
+msgstr "special"
+
+msgid  "служебная"
+msgstr "special"
+
+msgid  "ЛИСТАР_ЦАХЬЕХОР"
+msgstr "DEFAULTCATEGORYSORT:"
+
+msgid  "ДОГlА_ЛИСТАРАН"
+msgstr "DEFAULTCATEGORYSORT:"
+
+msgid  "СОРТИРОВКА_ПО_УМОЛЧАНИЮ"
+msgstr "DEFAULTCATEGORYSORT:"
+
+msgid  "КЛЮЧ_СОРТИРОВКИ"
+msgstr "DEFAULTCATEGORYSORT:"
+
+msgid  "DEFAULTSORT:"
+msgstr "DEFAULTCATEGORYSORT:"
+
+msgid  "DEFAULTSORTKEY:"
+msgstr "DEFAULTCATEGORYSORT:"
+
+msgid  "ОЦ_ХlУМАНТlЕ_НЕКЪ:"
+msgstr "FILEPATH:"
+
+msgid  "ПУТЬ_К_ФАЙЛУ:"
+msgstr "FILEPATH:"
+
+msgid  "къастам"
+msgstr "tag"
+
+msgid  "къасто"
+msgstr "tag"
+
+msgid  "къаст"
+msgstr "tag"
+
+msgid  "метка"
+msgstr "tag"
+
+msgid  "тег"
+msgstr "tag"
+
+msgid  "тэг"
+msgstr "tag"
+
+msgid  "__КЪАЙЛАХЙОЛУ_КАДЕГАР__"
+msgstr "__HIDDENCAT__"
+
+msgid  "__СКРЫТАЯ_КАТЕГОРИЯ__"
+msgstr "__HIDDENCAT__"
+
+msgid  "АГlОНАШ_ОЦУ_КАДЕГАРШЧОХЬ"
+msgstr "PAGESINCAT"
+
+msgid  "СТРАНИЦ_В_КАТЕГОРИИ"
+msgstr "PAGESINCAT"
+
+msgid  "PAGESINCATEGORY"
+msgstr "PAGESINCAT"
+
+msgid  "АГlОН_БАРАМ"
+msgstr "PAGESIZE"
+
+msgid  "РАЗМЕР_СТРАНИЦЫ"
+msgstr "PAGESIZE"
+
+msgid  "__МЕТТИГТЕРАХЬ__"
+msgstr "__INDEX__"
+
+msgid  "__ИНДЕКС__"
+msgstr "__INDEX__"
+
+msgid  "__МЕТТИГТЕРАХЬ_ЙОЦАШ__"
+msgstr "__NOINDEX__"
+
+msgid  "__БЕЗ_ИНДЕКСА__"
+msgstr "__NOINDEX__"
+
+msgid  "ТЕРАХЬ_ОЦ_ТОБАНЦА"
+msgstr "NUMINGROUP"
+
+msgid  "ЧИСЛО_В_ГРУППЕ"
+msgstr "NUMINGROUP"
+
+msgid  "NUMBERINGROUP"
+msgstr "NUMINGROUP"
+
+msgid  "__БУХЕХЬДЕРГ_ДlАСХЬАЖАЙАР__"
+msgstr "__STATICREDIRECT__"
+
+msgid  "__СТАТИЧЕСКОЕ_ПЕРЕНАПРАВЛЕНИЕ__"
+msgstr "__STATICREDIRECT__"
+
+msgid  "ГlАРОЛЛИ_БАРАМ"
+msgstr "PROTECTIONLEVEL"
+
+msgid  "УРОВЕНЬ_ЗАЩИТЫ"
+msgstr "PROTECTIONLEVEL"
+
+msgid  "терахьибарам"
+msgstr "dateformat"
+
+msgid  "форматдаты"
+msgstr "dateformat"
+
+msgid  "formatdate"
+msgstr "dateformat"
+
+msgid  "ЙОМА"
+msgstr "PATH"
+
+msgid  "ПУТЬ"
+msgstr "PATH"
+
+msgid  "ЧЕХКА"
+msgstr "WIKI"
+
+msgid  "ВИКИ"
+msgstr "WIKI"
+
+msgid  "tog-underline"
+msgstr  "Кlел сиз хьака хьажориган:"
+
+msgid  "tog-highlightbroken"
+msgstr  "Гайта йоцуш йолу хьажоригаш <a href=\"\" class=\"new\">ишта</a> (йа ишта<a href=\"\" class=\"internal\">?</a>)."
+
+msgid  "tog-justify"
+msgstr  "Нисде йоза шораллий агlонца"
+
+msgid  "tog-hideminor"
+msgstr  "Къайладаха кигийра нисдарш оц могlама керла хийцамехь"
+
+msgid  "tog-hidepatrolled"
+msgstr  "Къайладаха гlаролладина нисдарш оц могlама керла нисдашкахь"
+
+msgid  "tog-newpageshidepatrolled"
+msgstr  "Къайлайаха гlароллайина агlонаш оц могlама керла агlонашкахь"
+
+msgid  "tog-extendwatchlist"
+msgstr  "Шорбина тlехьажарна могlам, ша беригге а хийцамаш чубогlуш, тlяхьабина боцурш а"
+
+msgid  "tog-usenewrc"
+msgstr  "Лелабе дика могlам керла чу хийцамашна (оьшу JavaScript)"
+
+msgid  "tog-numberheadings"
+msgstr  "Ша шех хlитто терахь корташна"
+
+msgid  "tog-showtoolbar"
+msgstr  "Гайта лакхара гlирсан дакъа нисйеш аттон оц редаккхар чохь (JavaScript)"
+
+msgid  "tog-editondblclick"
+msgstr  "Нисйе агlонаш шозза тlетаlийча (JavaScript)"
+
+msgid  "tog-editsection"
+msgstr  "Гайта хьажориг «нисйе» аьлла хlора агlона"
+
+msgid  "tog-editsectiononrightclick"
+msgstr  "Нисде дакъа шозза бакъехьар дахка тlетаlийча оцу кортан (JavaScript)"
+
+msgid  "tog-showtoc"
+msgstr  "Гойти коьртнаш (оцу агlонашна лаххара 3 коьртнашца)"
+
+msgid  "tog-rememberpassword"
+msgstr  "Даглаца сан дlавазвалар хlокху гlулкхдечу гlирса тlяхь (цхьан $1 {{PLURAL:$1|де|ден|динахь}})"
+
+msgid  "tog-watchcreations"
+msgstr  "Тlетоха ас кхоллина агlонаш тергаме могlам чу"
+
+msgid  "tog-watchdefault"
+msgstr  "Тlетоха ас нисйина агlонаш тергаме могlам чу"
+
+msgid  "tog-watchmoves"
+msgstr  "Тlетоха ас цlераш хийцина агlонаш тергаме могlам чу"
+
+msgid  "tog-watchdeletion"
+msgstr  "Тlетоха ас дlайайина агlонаш тергаме могlам чу"
+
+msgid  "tog-minordefault"
+msgstr  "Къастам бе нисйиначарн хlумцадеш кегийра долушсанна"
+
+msgid  "tog-previewontop"
+msgstr  "Чуяккха хьалххьажар рéдоккхучу кора хьалха"
+
+msgid  "tog-previewonfirst"
+msgstr  "Гайта хьалххьажар рéдоккхуче дехьа волуш"
+
+msgid  "tog-nocache"
+msgstr  "Ма латае гойтучун къайлаха латториг"
+
+msgid  "tog-enotifwatchlistpages"
+msgstr  "Хаам бо зlе чухул, тергаме могlаман хийцамах лаьцна"
+
+msgid  "tog-enotifusertalkpages"
+msgstr  "Хаам бо зlе чухул, долахь йолу дийцаре агlон хийцамах лаьцна"
+
+msgid  "tog-enotifminoredits"
+msgstr  "Хаам бо зlе чухул, цхьа жимма а хийцамаш биняхь"
+
+msgid  "tog-enotifrevealaddr"
+msgstr  "Гайта сан зlе оцу хаамаш барехь"
+
+msgid  "tog-shownumberswatching"
+msgstr  "Гайта декъашхойн терахь, агlо латийна болу шай тергаме могlам юкъа"
+
+msgid  "tog-oldsig"
+msgstr  "Хьалххьажар долучу куьгтаlорна:"
+
+msgid  "tog-fancysig"
+msgstr  "Шен вики-къастаман куьгтаlдар (ша шех хьажориг йоцуш)"
+
+msgid  "tog-externaleditor"
+msgstr  "Лелайан арахьара рéдаккхар (гlулкхдириг леррина нисйина хила йеза, [http://www.mediawiki.org/wiki/Manual:External_editors кхин дlа.])"
+
+msgid  "tog-externaldiff"
+msgstr  "Лелабан арахьара диллагlарам башхо тарйо гlирс (гlулкхдириг леррина нисйина хила йеза, [http://www.mediawiki.org/wiki/Manual:External_editors кхин дlа.])"
+
+msgid  "tog-showjumplinks"
+msgstr  "Латайе гlодарна хьажоригаш «дехьа вала оцу»"
+
+msgid  "tog-uselivepreview"
+msgstr  "Лелайа чехка хьалха хьажа (JavaScript, муха ю хьажарна)"
+
+msgid  "tog-forceeditsummary"
+msgstr  "Дага даийта, нагахь нисйарх лаьцна чохь язъйина язахь"
+
+msgid  "tog-watchlisthideown"
+msgstr  "Къайлаяха ас нисйинарш оцу тергаме могlам чура"
+
+msgid  "tog-watchlisthidebots"
+msgstr  "Къайладаха шаболх бечо нисдинарш оцу тергаме могlам чура"
+
+msgid  "tog-watchlisthideminor"
+msgstr  "Къайладаха кегийра нисдарш оцу тергаме могlам чура"
+
+msgid  "tog-watchlisthideliu"
+msgstr  "Къайладаха вовзийтина болу декъашхойн нисдарш оцу тергаме могlам чура"
+
+msgid  "tog-watchlisthideanons"
+msgstr  "Къайладаха къайлаха болу декъашхойн нисдарш оцу тергаме могlам чура"
+
+msgid  "tog-watchlisthidepatrolled"
+msgstr  "Къайладаха хьаьжина волу нисдарш оцу тергаме могlам чура"
+
+msgid  "tog-nolangconversion"
+msgstr  "Хаамаш кхуллу гlирс дlабайа"
+
+msgid  "tog-ccmeonemails"
+msgstr  "Дlадахьийта суна исанна кехат, аса дохьуьйтуш долу кхечу декъашхошна."
+
+msgid  "tog-diffonly"
+msgstr  "Ма гайта агlон чулацам шина башхонца цхьатерра йолуш"
+
+msgid  "tog-showhiddencats"
+msgstr  "Гайта къайлаха йолу кадегарш"
+
+msgid  "tog-noconvertlink"
+msgstr  "Хааман хьажориг кхуллу гlирс дlабайа"
+
+msgid  "tog-norollbackdiff"
+msgstr  "Йух яккхиначул тlаьхьа ма гайта къастаман башхо"
+
+msgid  "underline-always"
+msgstr  "Даимна"
+
+msgid  "underline-never"
+msgstr  "Цкъа а"
+
+msgid  "underline-default"
+msgstr  "Лелайа хьажгlодириг нисйарца"
+
+msgid  "editfont-style"
+msgstr  "Рéдоккхучохь долу йозан тайп:"
+
+msgid  "editfont-default"
+msgstr  "Йоза оцу хьажгlодириг нисйинчура"
+
+msgid  "editfont-monospace"
+msgstr  "Цхьатерра доцу йоза"
+
+msgid  "editfont-sansserif"
+msgstr  "Аьтта доцу йоза"
+
+msgid  "editfont-serif"
+msgstr  "Аьтта долу йоза"
+
+msgid  "sunday"
+msgstr  "кlиран де"
+
+msgid  "monday"
+msgstr  "Оршот"
+
+msgid  "tuesday"
+msgstr  "Шинара"
+
+msgid  "wednesday"
+msgstr  "Кхаара"
+
+msgid  "thursday"
+msgstr  "Еара"
+
+msgid  "friday"
+msgstr  "Пlераска"
+
+msgid  "saturday"
+msgstr  "Шот"
+
+msgid  "sun"
+msgstr  "Кlи"
+
+msgid  "mon"
+msgstr  "Ор"
+
+msgid  "tue"
+msgstr  "Ши"
+
+msgid  "wed"
+msgstr  "Кх"
+
+msgid  "thu"
+msgstr  "Еа"
+
+msgid  "fri"
+msgstr  "Пle"
+
+msgid  "sat"
+msgstr  "Шот"
+
+msgid  "january"
+msgstr  "нажи бутт"
+
+msgid  "february"
+msgstr  "мархи бутт"
+
+msgid  "march"
+msgstr  "биэкарг бутт"
+
+msgid  "april"
+msgstr  "тушоли бутт"
+
+msgid  "may_long"
+msgstr  "сели бутт"
+
+msgid  "june"
+msgstr  "мангал бутт"
+
+msgid  "july"
+msgstr  "мятсел бутт"
+
+msgid  "august"
+msgstr  "эгиш бутт"
+
+msgid  "september"
+msgstr  "тав бутт"
+
+msgid  "october"
+msgstr  "ардар бутт"
+
+msgid  "november"
+msgstr  "эрх бутт"
+
+msgid  "december"
+msgstr  "огой бутт"
+
+msgid  "january-gen"
+msgstr  "нажи бутт"
+
+msgid  "february-gen"
+msgstr  "мархи бутт"
+
+msgid  "march-gen"
+msgstr  "биэкарг бутт"
+
+msgid  "april-gen"
+msgstr  "тушоли бутт"
+
+msgid  "may-gen"
+msgstr  "сели бутт"
+
+msgid  "june-gen"
+msgstr  "мангал бутт"
+
+msgid  "july-gen"
+msgstr  "мятсел бутт"
+
+msgid  "august-gen"
+msgstr  "эгиш бутт"
+
+msgid  "september-gen"
+msgstr  "тав бутт"
+
+msgid  "october-gen"
+msgstr  "ардар бутт"
+
+msgid  "november-gen"
+msgstr  "эрх бутт"
+
+msgid  "december-gen"
+msgstr  "огой бутт"
+
+msgid  "jan"
+msgstr  "нажи бутт"
+
+msgid  "feb"
+msgstr  "мархи бутт"
+
+msgid  "mar"
+msgstr  "биэкарг бутт"
+
+msgid  "apr"
+msgstr  "тушоли бутт"
+
+msgid  "may"
+msgstr  "сели бутт"
+
+msgid  "jun"
+msgstr  "мангал бутт"
+
+msgid  "jul"
+msgstr  "мятсел бутт"
+
+msgid  "aug"
+msgstr  "эгиш бутт"
+
+msgid  "sep"
+msgstr  "тав бутт"
+
+msgid  "oct"
+msgstr  "ардар бутт"
+
+msgid  "nov"
+msgstr  "эрх бутт"
+
+msgid  "dec"
+msgstr  "огой бутт"
+
+msgid  "pagecategories"
+msgstr  "{{PLURAL:$1|Кадегар|Кадегарш}}"
+
+msgid  "category_header"
+msgstr  "Агlонаш оц кадегаршчохь «$1»"
+
+msgid  "subcategories"
+msgstr  "Бухаркадегарш"
+
+msgid  "category-media-header"
+msgstr  "Хlумнаш оцу кадегар чохь «$1»"
+
+msgid  "category-empty"
+msgstr  "''Хlара кадегар хlинца йаьсса ю.''"
+
+msgid  "hidden-categories"
+msgstr  "{{PLURAL:$1|Къайлаха кадегар|Къайлаха йолу кадегарш}}"
+
+msgid  "hidden-category-category"
+msgstr  "Къайлаха йолу кадегарш"
+
+msgid  "category-subcat-count"
+msgstr  "{{PLURAL:$2|Хlокх кадегар чохь ю хlокхуьна бухар кадегар.|{{PLURAL:$1|Гойташ $1 бухар кадегар|Гойту $1 бухар кадегар|Гойту $1 бухар кадегар}} оцу $2.}}"
+
+msgid  "category-subcat-count-limited"
+msgstr  "Хlокх кадегар чохь {{PLURAL:$1|$1 бухар кадегар|$1 бухар кадегарша|$1 бухар кадегарш}}."
+
+msgid  "category-article-count"
+msgstr  "{{PLURAL:$2|Хlокх кадегар чохь яц цхьа агlо бе.|{{PLURAL:$1|Гойташ $1 агlо|Гойту $1 агlонаш|Гойту $1 агlонаш}} хlокх кадегарца кху $2.}}"
+
+msgid  "category-article-count-limited"
+msgstr  "Хlокх кадегар чохь {{PLURAL:$1|$1 агlо|$1 агlонаш|$1 агlонаш}}."
+
+msgid  "category-file-count"
+msgstr  "{{PLURAL:$2|Хlокх кадегар чохь цхьа хlум бе яц.|{{PLURAL:$1|Гойта $1 хlум|Гойту $1 хlума|Гойту $1 хlумнаш}} хlокх кадегарца кху $2.}}"
+
+msgid  "category-file-count-limited"
+msgstr  "Хlокх кадегар чохь {{PLURAL:$1|$1 хlум|$1 хlума|$1 хlумнаш}}."
+
+msgid  "listingcontinuesabbrev"
+msgstr  "(кхин дlа)"
+
+msgid  "index-category"
+msgstr  "Меттигтерахьйо агlонаш"
+
+msgid  "noindex-category"
+msgstr  "Дlахьушйоцу агlонаш"
+
+msgid  "linkprefix"
+msgstr  "/^(.*?)([a-zA-Z\\x80-\\xff]+)$/sD"
+
+msgid  "mainpagetext"
+msgstr  "'''Вики-белха гlирс «MediaWiki» кхочуш дика дlахlоттийна.'''"
+
+msgid  "mainpagedocfooter"
+msgstr  "Викийца болх бан хаамаш карор бу хlокху чохь [http://meta.wikimedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5 нисвохааман куьйгаллица].\n\n== Цхьаболу пайде гlирсаш ==\n* [http://www.mediawiki.org/wiki/Manual:Configuration_settings Гlирс нисбан тарлушболу могlам];\n* [http://www.mediawiki.org/wiki/Manual:FAQ Сих сиха лушдолу хаттарш а жоьпаш оцу MediaWiki];\n* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce Хаам бохьуьйту араяларца башхонца керла MediaWiki]."
+
+msgid  "about"
+msgstr  "Цуьнах лаьцна"
+
+msgid  "article"
+msgstr  "Яззам"
+
+msgid  "newwindow"
+msgstr  "(керлачу корехь)"
+
+msgid  "cancel"
+msgstr  "Цаоьшу"
+
+msgid  "moredotdotdot"
+msgstr  "Кхин дlа…"
+
+msgid  "mypage"
+msgstr  "Долахь йолу агlо"
+
+msgid  "mytalk"
+msgstr  "Сан дийцаре агlо"
+
+msgid  "anontalk"
+msgstr  "Дийцаре хlара IP-долуметтиг"
+
+msgid  "navigation"
+msgstr  "Шавигар"
+
+msgid  "and"
+msgstr  "&#32;а"
+
+msgid  "qbfind"
+msgstr  "Лаха"
+
+msgid  "qbbrowse"
+msgstr  "Хьажар"
+
+msgid  "qbedit"
+msgstr  "Нисйé"
+
+msgid  "qbpageoptions"
+msgstr  "Агlо нисйар"
+
+msgid  "qbpageinfo"
+msgstr  "Агlонах болу бовзам"
+
+msgid  "qbmyoptions"
+msgstr  "Хьан нисдарш"
+
+msgid  "qbspecialpages"
+msgstr  "Леррина агlонаш"
+
+msgid  "faq"
+msgstr  "СиХХ"
+
+msgid  "faqpage"
+msgstr  "Project:СиХХ"
+
+msgid  "vector-action-addsection"
+msgstr  "Тlетоха хьедар"
+
+msgid  "vector-action-delete"
+msgstr  "Дlадайá"
+
+msgid  "vector-action-move"
+msgstr  "Цlе хийца"
+
+msgid  "vector-action-protect"
+msgstr  "Гlаролла дé"
+
+msgid  "vector-action-undelete"
+msgstr  "Меттахlоттадé"
+
+msgid  "vector-action-unprotect"
+msgstr  "Гlароллех къаста"
+
+msgid  "vector-simplesearch-preference"
+msgstr  "Шуьйра лахаран хьехар лата де (декъа «Хьушйерг» кечйарца)"
+
+msgid  "vector-view-create"
+msgstr  "Кхоллар"
+
+msgid  "vector-view-edit"
+msgstr  "Нисйé"
+
+msgid  "vector-view-history"
+msgstr  "Хьажа исторе"
+
+msgid  "vector-view-view"
+msgstr  "Éшар"
+
+msgid  "vector-view-viewsource"
+msgstr  "Билглонашка хьажа"
+
+msgid  "actions"
+msgstr  "Дийраш"
+
+msgid  "namespaces"
+msgstr  "Цlерийн ана"
+
+msgid  "variants"
+msgstr  "Кепараш"
+
+msgid  "errorpagetitle"
+msgstr  "Гlалат"
+
+msgid  "returnto"
+msgstr  "Юхагlо оцу агlоне $1."
+
+msgid  "tagline"
+msgstr  "Гlирс хlокхуьна бу {{grammar:genitive|{{SITENAME}}}}"
+
+msgid  "help"
+msgstr  "Нисвохаам"
+
+msgid  "search"
+msgstr  "Лаха"
+
+msgid  "searchbutton"
+msgstr  "Лаха"
+
+msgid  "go"
+msgstr  "Дехьа вала"
+
+msgid  "searcharticle"
+msgstr  "Дехьа вала"
+
+msgid  "history"
+msgstr  "Исторе"
+
+msgid  "history_short"
+msgstr  "Исторе"
+
+msgid  "updatedmarker"
+msgstr  "Керла яккхина со чуваьллачултlаьхьа"
+
+msgid  "info_short"
+msgstr  "Хаам"
+
+msgid  "printableversion"
+msgstr  "Зорба туху варси"
+
+msgid  "permalink"
+msgstr  "Даиман йолу хьажориг"
+
+msgid  "print"
+msgstr  "Зорба тоха"
+
+msgid  "edit"
+msgstr  "Нисйé"
+
+msgid  "create"
+msgstr  "Кхолла"
+
+msgid  "editthispage"
+msgstr  "Нисйé хlара агlо"
+
+msgid  "create-this-page"
+msgstr  "Кхолла хlара агlо"
+
+msgid  "delete"
+msgstr  "Дlадайá"
+
+msgid  "deletethispage"
+msgstr  "Дlайайá хlара агlо"
+
+msgid  "undelete_short"
+msgstr  "Меттахlоттайé $1 {{PLURAL:$1|нисйинарг|нисйинарш|нисйинарш}}"
+
+msgid  "protect"
+msgstr  "Гlаролла дé"
+
+msgid  "protect_change"
+msgstr  "хийца"
+
+msgid  "protectthispage"
+msgstr  "Гlаролла дé хlокху агlон"
+
+msgid  "unprotect"
+msgstr  "Гlароллех къаста"
+
+msgid  "unprotectthispage"
+msgstr  "Гlароллех къаста"
+
+msgid  "newpage"
+msgstr  "Керла агlо"
+
+msgid  "talkpage"
+msgstr  "Дийцаре йила хlара агlо"
+
+msgid  "talkpagelinktext"
+msgstr  "Дийцаре"
+
+msgid  "specialpage"
+msgstr  "Белха агlо"
+
+msgid  "personaltools"
+msgstr  "Долахь болу гlирсаш"
+
+msgid  "postcomment"
+msgstr  "Керла дакъа"
+
+msgid  "articlepage"
+msgstr  "Хьажа яззаме"
+
+msgid  "talk"
+msgstr  "Дийцаре"
+
+msgid  "views"
+msgstr  "Хьажарш"
+
+msgid  "toolbox"
+msgstr  "Гlирсаш"
+
+msgid  "userpage"
+msgstr  "Хьажа декъашхочуьна агlоне"
+
+msgid  "projectpage"
+msgstr  "Хьажа кхолламан агlоне"
+
+msgid  "imagepage"
+msgstr  "Хьажа хlуман агlоне"
+
+msgid  "mediawikipage"
+msgstr  "Хьагайта хааман агlо"
+
+msgid  "templatepage"
+msgstr  "Хьажа куцкепа агlоне"
+
+msgid  "viewhelppage"
+msgstr  "Схьаэца нисвохаам"
+
+msgid  "categorypage"
+msgstr  "Хьажа кадегарши агlоне"
+
+msgid  "viewtalkpage"
+msgstr  "Хьажа дийцаре"
+
+msgid  "otherlanguages"
+msgstr  "Кхечу маттахь дерш"
+
+msgid  "redirectedfrom"
+msgstr  "(Дlасахьажийна кху $1)"
+
+msgid  "redirectpagesub"
+msgstr  "Агlо-дlасахьажайар"
+
+msgid  "lastmodifiedat"
+msgstr  "Хlокху агlон тlаьххьаралера хийцам: $2, $1."
+
+msgid  "viewcount"
+msgstr  "Хlокху агlонга хьойсина $1 {{PLURAL:$1|за|за|за}}."
+
+msgid  "protectedpage"
+msgstr  "Гlароллийца йолу агlо"
+
+msgid  "jumpto"
+msgstr  "Дехьавала оцу:"
+
+msgid  "jumptonavigation"
+msgstr  "шавигар"
+
+msgid  "jumptosearch"
+msgstr  "лаха"
+
+msgid  "view-pool-error"
+msgstr  "Бехк цабиллар доьха, хlинц гlулкхдириг йоьттина йу.\nКаьчна дуккха дехарш хlокху агlонтlе хьажарца.\nДехар до, собардеш а йуха хьажа хlокху агlонтlе жим тlаьхьо.\n\n$1"
+
+msgid  "pool-timeout"
+msgstr  "Сацо веза хан тlех йаьлла"
+
+msgid  "pool-queuefull"
+msgstr  "Дехаршан чоь йуззина йу"
+
+msgid  "pool-errorunknown"
+msgstr  "Дойзаш доцу гlалат"
+
+msgid  "aboutsite"
+msgstr  "{{grammar:genitive|{{SITENAME}}}} лаьцна"
+
+msgid  "aboutpage"
+msgstr  "Project:Цуьнах лаьцна"
+
+msgid  "copyright"
+msgstr  "Чулацам лело мега догlуш хиларца оцу $1."
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:Куьг де бакъо"
+
+msgid  "currentevents"
+msgstr  "Хlинцлера хилларш"
+
+msgid  "currentevents-url"
+msgstr  "Project:Хlинцлера хилларш"
+
+msgid  "disclaimers"
+msgstr  "Бехк тlе ца эцар"
+
+msgid  "disclaimerpage"
+msgstr  "Project:Бяхк тlецалацар"
+
+msgid  "edithelp"
+msgstr  "Нисвохаам оцу редаккхарна"
+
+msgid  "edithelppage"
+msgstr  "Help:Нисвохаам оцу редаккхарна"
+
+msgid  "helppage"
+msgstr  "Help:Чулацам"
+
+msgid  "mainpage"
+msgstr  "Коьрта агlо"
+
+msgid  "mainpage-description"
+msgstr  "Коьрта агlо"
+
+msgid  "policy-url"
+msgstr  "Project:Бакъо"
+
+msgid  "portal"
+msgstr  "Юкъаралла"
+
+msgid  "portal-url"
+msgstr  "Project:Юкъараллин ков"
+
+msgid  "privacy"
+msgstr  "Балалютта къайлаха"
+
+msgid  "privacypage"
+msgstr  "Project:Балалютта къайлаха"
+
+msgid  "badaccess"
+msgstr  "Тlекхачарехь гlалат"
+
+msgid  "badaccess-group0"
+msgstr  "Шуьга кхочуш далур дац дехарца деш дерг"
+
+msgid  "badaccess-groups"
+msgstr  "Дехарца деш дерг кхочуш далундерш бу хlара декъашхой оцу {{PLURAL:$2|тобанашах|тобанах}} $1."
+
+msgid  "versionrequired"
+msgstr  "Оьшу MediaWiki тайпанара $1"
+
+msgid  "versionrequiredtext"
+msgstr  "Болх бан хlоку агlонца оьшу MediaWiki тайпан $1. Хьажа. [[Special:Version|лелочу тайпанара башхонах лаьцна хаам]]."
+
+msgid  "ok"
+msgstr  "Хlаъ"
+
+msgid  "pagetitle"
+msgstr  "$1 — {{SITENAME}}"
+
+msgid  "pagetitle-view-mainpage"
+msgstr  "{{SITENAME}}"
+
+msgid  "retrievedfrom"
+msgstr  "Хьост — «$1»"
+
+msgid  "youhavenewmessages"
+msgstr  "Хьуна кхечи $1 ($2)."
+
+msgid  "newmessageslink"
+msgstr  "керла хаамаш"
+
+msgid  "newmessagesdifflink"
+msgstr  "тlаьххьара хийцамаш"
+
+msgid  "youhavenewmessagesmulti"
+msgstr  "Хьуна кхаьчна керла хаам оцу $1"
+
+msgid  "editsection"
+msgstr  "нисйé"
+
+msgid  "editsection-brackets"
+msgstr  "[$1]"
+
+msgid  "editold"
+msgstr  "нисйé"
+
+msgid  "viewsourceold"
+msgstr  "хьажа йолш йолучу ишаре"
+
+msgid  "editlink"
+msgstr  "нисйé"
+
+msgid  "viewsourcelink"
+msgstr  "хьажа йолш йолучу ишаре"
+
+msgid  "editsectionhint"
+msgstr  "Нисде даакъа: $1"
+
+msgid  "toc"
+msgstr  "Чулацам"
+
+msgid  "showtoc"
+msgstr  "гайта"
+
+msgid  "hidetoc"
+msgstr  "дlайаккха"
+
+msgid  "thisisdeleted"
+msgstr  "Хьажа йа меттахlоттайé $1?"
+
+msgid  "viewdeleted"
+msgstr  "Хьалххьожи $1?"
+
+msgid  "restorelink"
+msgstr  "{{PLURAL:$1|$1 дlайайина йолу нисйинарг|$1 дlайайина йолу нисйинарш|$1 дlайайина йолу нисйинарш}}"
+
+msgid  "feedlinks"
+msgstr  "Оцу хатlаьхь:"
+
+msgid  "feed-invalid"
+msgstr  "Тайпан нийсадоцу талол оцу куьгтаlорна."
+
+msgid  "feed-unavailable"
+msgstr  "Хаитарца йолу асанаш тlекхочучехь яц"
+
+msgid  "site-rss-feed"
+msgstr  "$1 — RSS-аса"
+
+msgid  "site-atom-feed"
+msgstr  "$1 — Atom-аса"
+
+msgid  "page-rss-feed"
+msgstr  "«$1» — RSS-аса"
+
+msgid  "page-atom-feed"
+msgstr  "«$1» — Atom-аса"
+
+msgid  "feed-atom"
+msgstr  "Атом"
+
+msgid  "feed-rss"
+msgstr  "RSS"
+
+msgid  "red-link-title"
+msgstr  "$1 (ишта агlо йоцуш йу)"
+
+msgid  "nstab-main"
+msgstr  "Яззам"
+
+msgid  "nstab-user"
+msgstr  "Декъашхо"
+
+msgid  "nstab-special"
+msgstr  "Белха агlо"
+
+msgid  "nstab-project"
+msgstr  "Кхолламех"
+
+msgid  "nstab-image"
+msgstr  "Хlум"
+
+msgid  "nstab-mediawiki"
+msgstr  "Хаам"
+
+msgid  "nstab-template"
+msgstr  "Куцкеп"
+
+msgid  "nstab-help"
+msgstr  "Нисвохаам"
+
+msgid  "nstab-category"
+msgstr  "Кадегар"
+
+msgid  "nosuchaction"
+msgstr  "Ишта дийриг дац"
+
+msgid  "nosuchspecialpage"
+msgstr  "Ишта белха агlо йац"
+
+msgid  "error"
+msgstr  "Гlалат"
+
+msgid  "databaseerror"
+msgstr  "Гlалат хаамийн бухера"
+
+msgid  "readonly"
+msgstr  "Сацийна дlайаздар хаамийн бухе"
+
+msgid  "missing-article"
+msgstr  "Хlокху чохь кароезаш йолу хьан дехарца йозан агlонаш цакарийна «$1» $2.\n\nИштнарг наггахь хуьлу хьажориг дlайаьккхина йалхь йа хийцам бина тиша хьажоригца дехьа вала гlоьртича.\n\nНагахьсан гlулкх цуьнах доьзна дацахь, хьуна карийна гlирс латточехь гlалат.\nДехар до, хаам бе оцуьнах [[Special:ListUsers/sysop|адаманкуьйгалхога]], гойтуш URL."
+
+msgid  "missingarticle-rev"
+msgstr  "(варси № $1)"
+
+msgid  "missingarticle-diff"
+msgstr  "(тейп тайпнара: $1, $2)"
+
+msgid  "internalerror"
+msgstr  "Чоьхьара гlалат"
+
+msgid  "internalerror_info"
+msgstr  "Чоьхьара гlалат: $1"
+
+msgid  "badtitle"
+msgstr  "Цамегаш йолу цlе"
+
+msgid  "badtitletext"
+msgstr  "Дехарца йолу агlонан цlе нийса яц, йаьсса ю, хила мега нийса ца хlоттийна меттаюкъар йа юкъарвики цlе. Хила мега, цlарца цамагош йолу саберг."
+
+msgid  "viewsource"
+msgstr  "Хьажар"
+
+msgid  "viewsourcefor"
+msgstr  "Агlо «$1»"
+
+msgid  "protectedpagetext"
+msgstr  "Хlара агlо дlакъойлина йу рé цадаккхийта."
+
+msgid  "viewsourcetext"
+msgstr  "Хьоьга далундерг хьажар а дезахь хlокху агlон чура йоза хьаэцар:"
+
+msgid  "protectedinterface"
+msgstr  "Хlара схьгайтарна гlирса хаамаш латтош йолу агlо йу. Гlуо лелачаьрга гал ца яккхийта, оцун хийцам ба магийна дац."
+
+msgid  "yourname"
+msgstr  "Декъашхон цlе:"
+
+msgid  "yourpassword"
+msgstr  "Ишар:"
+
+msgid  "yourpasswordagain"
+msgstr  "Юха язъйе ишар:"
+
+msgid  "remembermypassword"
+msgstr  "Даглаца сан дlавазвалар хlокху гlулкхдечу гlирса тlяхь (цхьан $1 {{PLURAL:$1|ден|динахь|динахь}})"
+
+msgid  "yourdomainname"
+msgstr  "Хьан машан меттиг:"
+
+msgid  "login"
+msgstr  "Вовзийта хьой гlирсан"
+
+msgid  "nav-login-createaccount"
+msgstr  "Вовзийта хьой / дlавазло"
+
+msgid  "loginprompt"
+msgstr  "Ахьа бакъо йала йеза оцу «cookies» хьайна вовзийта лаахь гlирсан."
+
+msgid  "userlogin"
+msgstr  "Чу вала йа дlавазло"
+
+msgid  "userloginnocreate"
+msgstr  "Вовзийта хьой"
+
+msgid  "logout"
+msgstr  "Ара валар"
+
+msgid  "userlogout"
+msgstr  "Ара валар"
+
+msgid  "notloggedin"
+msgstr  "Хьо вовзита веза гlирсан"
+
+msgid  "nologin"
+msgstr  "Хlинца дlа вазвин вац? '''$1'''."
+
+msgid  "nologinlink"
+msgstr  "Кхолла керла дlавазвалар"
+
+msgid  "createaccount"
+msgstr  "Дlавазве керла декъашхо"
+
+msgid  "gotaccount"
+msgstr  "Дlавазвелла вуй хьо? '''$1'''."
+
+msgid  "gotaccountlink"
+msgstr  "Вовзийта хьой"
+
+msgid  "createaccountmail"
+msgstr  "хааман зlене хула"
+
+msgid  "loginerror"
+msgstr  "Гlалат ду декъашхо вовзарехь"
+
+msgid  "loginsuccesstitle"
+msgstr  "Хьо вовзар хаз чакхдели"
+
+msgid  "loginsuccess"
+msgstr  "Хlинца ахьа болх бó оцу цlарца $1."
+
+msgid  "nosuchuser"
+msgstr  "Декъашхо цlарца $1 воцаш ву.\nДекъашхой цlераш хаалуш йу дlайазвалрца элраш.\nНийса юьй хьажа цlе йа [[Special:UserLogin/signup|дlайазвалар кхолла керла]]."
+
+msgid  "wrongpassword"
+msgstr  "Ахьа язъйина йолу ишар нийса яц. Хьажа йуху цхьаъз."
+
+msgid  "mailmypassword"
+msgstr  "Схьаэца керла ишар"
+
+msgid  "accountcreated"
+msgstr  "Дlавазвар кхоллина дели"
+
+msgid  "accountcreatedtext"
+msgstr  "Кхоллина декъашхо дlавазвар $1."
+
+msgid  "loginlanguagelabel"
+msgstr  "Мотт: $1"
+
+msgid  "resetpass"
+msgstr  "Ишар хийца"
+
+msgid  "resetpass_text"
+msgstr  "<!-- Кхузахь язъде хьай йоза -->"
+
+msgid  "resetpass_header"
+msgstr  "Жамlаш дlаязвеллачуьна ишар хийцар"
+
+msgid  "oldpassword"
+msgstr  "Шираелла ишар:"
+
+msgid  "newpassword"
+msgstr  "Керла ишар:"
+
+msgid  "retypenew"
+msgstr  "Юха язъйе керла ишар:"
+
+msgid  "resetpass-submit-loggedin"
+msgstr  "Хийца ишар"
+
+msgid  "resetpass-submit-cancel"
+msgstr  "Цаоьшу"
+
+msgid  "bold_sample"
+msgstr  "Дерстино до йоза"
+
+msgid  "bold_tip"
+msgstr  "Дерстино до йоза"
+
+msgid  "italic_sample"
+msgstr  "Курсеттан до йоза"
+
+msgid  "italic_tip"
+msgstr  "Курсеттан до йоза"
+
+msgid  "link_sample"
+msgstr  "Хьажориган коьрта могlа"
+
+msgid  "link_tip"
+msgstr  "Чоьхьа хьажориг"
+
+msgid  "extlink_sample"
+msgstr  "http://www.example.com хьажориг корта"
+
+msgid  "extlink_tip"
+msgstr  "Арахьа хьажориг (йиц ма йе хlотталушерг http://)"
+
+msgid  "headline_sample"
+msgstr  "Йозан корта"
+
+msgid  "headline_tip"
+msgstr  "Корта 2-гlа локхаллийца"
+
+msgid  "math_sample"
+msgstr  "Каьчдинарг чудила кхузе"
+
+msgid  "math_tip"
+msgstr  "Матlематlекхиа каьчйар (барам LaTeX)"
+
+msgid  "nowiki_sample"
+msgstr  "Чудиллийша кхузе барамхlоттонза йоза."
+
+msgid  "nowiki_tip"
+msgstr  "Тергал ца бо вики-бáрамхlоттор"
+
+msgid  "image_sample"
+msgstr  "Example.jpg"
+
+msgid  "image_tip"
+msgstr  "Чохь йолу хlум"
+
+msgid  "media_sample"
+msgstr  "Example.ogg"
+
+msgid  "media_tip"
+msgstr  "Хьажориг оцу медиа-хlуман"
+
+msgid  "sig_tip"
+msgstr  "Хьан куьгтаlор аъ хlоттина хан"
+
+msgid  "hr_tip"
+msgstr  "Ана сиз (сих сиха ма леладайша)"
+
+msgid  "summary"
+msgstr  "Хийцамех лаьцна:"
+
+msgid  "subject"
+msgstr  "Дlахьедар/коьрта могlа:"
+
+msgid  "minoredit"
+msgstr  "Жим хийцам"
+
+msgid  "watchthis"
+msgstr  "Латайе хlара агlо тергаме могlам юкъа"
+
+msgid  "savearticle"
+msgstr  "Дlайазъé агlо"
+
+msgid  "preview"
+msgstr  "Хьалха муха ю хьажа"
+
+msgid  "showpreview"
+msgstr  "Хьалха муха ю хьажар"
+
+msgid  "showdiff"
+msgstr  "Хlоттина болу хийцам"
+
+msgid  "anoneditwarning"
+msgstr  "'''Тергам бе''': Ахьа хьо вовзитина вац гlирсан. Хьан IP-долу меттиг дlаязйина хира ю хlокху агlон исторе чу."
+
+msgid  "summary-preview"
+msgstr  "Цуьнах лаьцна хирду:"
+
+msgid  "blockedtitle"
+msgstr  "Декъашхо сацийна"
+
+msgid  "accmailtitle"
+msgstr  "Ишар дlаяхьийтина."
+
+msgid  "accmailtext"
+msgstr  "Ишар декъашхочуьна [[User talk:$1|$1]], йина ша шех хитта делла чу элпашах, дlаяхийтина хьокху хааман зlен чу $2.\n\nДlаязвинчултlяхьа, кху гlирса чохь шуьга хийцалур ю ''[[Special:ChangePassword|шай ишар]]''."
+
+msgid  "newarticle"
+msgstr  "(Kерла)"
+
+msgid  "newarticletext"
+msgstr  "Хьо веана хьажоригци хlокху агlон тlе, хlара агlо хlинца йоцаш ю.\nНагахь иза кхолла лаахь, хlотта де лахо гуш долу корехь йоза (мадарра хьажа. [[{{MediaWiki:Helppage}}|гlон агlон чу]]).\nНагахь гlалат даьлла нисвелляхь кхузе, атта тlе тlаlа йе '''юха йоккхуриг''' хьай гlирса тlяхь."
+
+msgid  "anontalkpagetext"
+msgstr  "----''Хlара дийцаре агIо къайлаха волу декъашхочуьна  ю, хlинца дlавазвина воцуш, йа лелош воцуш.\nЦундела иза вовзийта лелош ду терахьца IP-долу метаг.\nИза терахь долу меттиг хила мега кхечу декъашхойчух терра.\nНагахь хьо къайлах волу декъашхо валахь хьайна хаам кхаьчна аьлла хеташн, хьуна хьажийна доцуш, дехар до, кхолла хьай меттиг кху чохь[[Special:UserLogin/signup|дlавазло]] йа [[Special:UserLogin|хьой вовзийта]],"
+
+msgid  "noarticletext"
+msgstr  "Хlокх хан чохь кху агlонца йоза дац.\nШуьга далундерг [[Special:Search/{{PAGENAME}}|лахар ишта хьехош йолу цlе]] кхечу яззамашкахь,\n<span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} лахар кхечу тептаршкахь],\nйа '''[{{fullurl:{{FULLPAGENAME}}|action=edit}} кхолла ишта цlе йолу агlо]'''</span>."
+
+msgid  "noarticletext-nopermission"
+msgstr  "Хlокх хан чохь кху агlонца йоза дац.\nШуьга далундерг [[Special:Search/{{PAGENAME}}|лахар ишта хьехош йолу цlе]] кхечу яззамашкахь,\nйа <span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} лаха оцуьнах терадерг кхечу тептаршкахь].</span>"
+
+msgid  "userpage-userdoesnotexist"
+msgstr  "Ишта дlайазвар «$1» хlинца дац. Хьажа билгал, хьуна бакъалла лаьи кхолла йа хийцам ба хlокху агlон."
+
+msgid  "updated"
+msgstr  "(Карла йаькхина)"
+
+msgid  "note"
+msgstr  "'''Билгалдаккхар:'''"
+
+msgid  "previewnote"
+msgstr  "'''Хlара хьалх хьажар ду, йоза хlинца язданза ду!'''"
+
+msgid  "editing"
+msgstr  "Редаккхар: $1"
+
+msgid  "editingsection"
+msgstr  "Редаккхар $1 (даакъа)"
+
+msgid  "editingcomment"
+msgstr  "Редаккхар $1 (керла даакъа)"
+
+msgid  "editconflict"
+msgstr  "Редаккхарна дойнаш: $1"
+
+msgid  "yourtext"
+msgstr  "Хьан йоза"
+
+msgid  "yourdiff"
+msgstr  "Башхаллаш"
+
+msgid  "copyrightwarning"
+msgstr  "Тергаме хьажа, массо яззаман чутухуш долу йозан хийцам хьажарехь бу, арахоьцушсанна оцу бакъойалар хьоляхь $2 (хьаж. $1).\nНагахь хьо лууш вацахь хьай йозанаш маьрша даржа а кхечаьрга хийцам байта, мадаха уьш кху чу.<br />\nИшта чlагlо йой ахьа, айхьа далош долучуьн хьо куьг да ву аьлла, йа хьаэцна цхьан\nхьостера, хийцам ба а дlаса даржада а чулацам болуш.<br />\n'''МАТОХИЙШ БАКЪО ЙОЦУ ГlИРСАШ КХУ ЧУ, КУЬГ ДЕ БАКЪО ЛАР ЙЕШ ЙОЛУ!'''"
+
+msgid  "readonlywarning"
+msgstr  "'''ДlАХЬЕДО. Гlирса бух сацийна оьшуш долучу хьаштан, цундера хlинц хьоьга дlа ца йазло хийцам. \nХила мега, ахьа lалаш дан дезаш хьайн йоза, йуха тlаьхьо леладан иза йоза.'''\n\nАдаманкуьйгалхочо сацийна гlирса бух, цо битина кхетош хlара хаам: $1"
+
+msgid  "protectedpagewarning"
+msgstr  "'''Дlахьедар. Хlара агlо гlаролла дина ю хийцам цабайта, иза хийца йа нисйа а бакъо йолуш адаманкуьйгалла лелош болу декъашхой бе бац.'''\nЛахахьа гойту хаамаш тlаьхьара бина болу хийцамна тептар чура:"
+
+msgid  "cascadeprotectedwarning"
+msgstr  "'''Дlахьедар:''' Хlокху агlонна редаккха бакъо йолуш хlара тоба йу «Адаманкуьйгалхой», хlунда аьлча иза латийна {{PLURAL:$1|кхечу агlонца|кхечу агlонашца}} хlоттделлачу гlароллийца:"
+
+msgid  "templatesused"
+msgstr  "{{PLURAL:$1|Куцкеп, лелийна|Куцкепаш, лелош ду}} хlокху агlон башхонца:"
+
+msgid  "templatesusedpreview"
+msgstr  "{{PLURAL:$1|Куцкеп, лелошдолу|Куцкепаш, лелошдолу}} оцу хьалх хьожучу агlонца:"
+
+msgid  "template-protected"
+msgstr  "(гlароллийца)"
+
+msgid  "template-semiprotected"
+msgstr  "(дуьззина доцуш гlаролла)"
+
+msgid  "hiddencategories"
+msgstr  "Хlара агlо чуйогlуш ю оцу $1 {{PLURAL:$1|къайлаха кадегарчу|къайлаха кадегаршчу|къайлаха кадегаршчу}}:"
+
+msgid  "edittools"
+msgstr  "<!-- Кхузе буха диллина йоза гуш хир ду редоккхуче бухахь а хlума чуйоккхуче бухахь. -->"
+
+msgid  "permissionserrorstext"
+msgstr  "Хьан бакъо яц кхочуш хилийта хийцам оцу {{PLURAL:$1|шолгlа бахьанца|шолгlа бахьанашца}}:"
+
+msgid  "permissionserrorstext-withaction"
+msgstr  "Хьан бакъо яц хlумда «'''$2'''» оцу {{PLURAL:$1|шолгlа бахьанца|шолгlа бахьанашца}}:"
+
+msgid  "recreate-moveddeleted-warn"
+msgstr  "'''Тидам бе. Хьо ву (ле йу) йуха кхолла гlерташ яззам, хьалхо дlадайина долу.'''\n\nХьажа, билгалла оьши хьуна хlара яззам йуха кхолла.\nЛахахь далина ду дlадайарш тlяхь долу тептарш а хlокх яззам цlера бина хийцамаш."
+
+msgid  "moveddeleted-notice"
+msgstr  "Иза агlо дlайайина йара.\nХаийтарна лахахьа гойту, цуьнца долу дlаяздарш кху дlадайина тептар чура а цlе хийцарш а."
+
+msgid  "log-fulllog"
+msgstr  "Хьажа деригге тептаре"
+
+msgid  "parser-template-loop-warning"
+msgstr  "Карийна куцкепаш юкъахь хилла шад: [[$1]]"
+
+msgid  "parser-template-recursion-depth-warning"
+msgstr  "Дозанал хьалаваьлла кlоргенца йух йуха дина куцкеп ($1)"
+
+msgid  "undo-success"
+msgstr  "Нисйинарг а тlе цалаца мега. Дехар до, хьажа цхьатерра йуй башхо, тешна хила, баккъалла иза хийцам буйте хьуна безарг, тlакха тlе таlайе «дlайазйе агlо», хийцам хlотта ба."
+
+msgid  "viewpagelogs"
+msgstr  "Гайта хlокху агlонан тептар"
+
+msgid  "currentrev-asof"
+msgstr  "Хlинцлера варси оцу $1"
+
+msgid  "revisionasof"
+msgstr  "Варси $1"
+
+msgid  "previousrevision"
+msgstr  "← Хьалха йоьдург"
+
+msgid  "nextrevision"
+msgstr  "Тlаьхьайогlург →"
+
+msgid  "currentrevisionlink"
+msgstr  "Хlинцлера варси"
+
+msgid  "cur"
+msgstr  "карара."
+
+msgid  "next"
+msgstr  "кхин"
+
+msgid  "last"
+msgstr  "хьалх."
+
+msgid  "page_first"
+msgstr  "хьалхара"
+
+msgid  "page_last"
+msgstr  "тlаьххьара"
+
+msgid  "histlegend"
+msgstr  "Кхетор: (хlинцлера.) — йолучу башхон къастам; (хьалх.) — хьалхлерачу башхон къастам; '''ж''' — жимо бозалца болу хийцам."
+
+msgid  "history-fieldset-title"
+msgstr  "Хьажа исцlарерачу"
+
+msgid  "histfirst"
+msgstr  "къена"
+
+msgid  "histlast"
+msgstr  "хьалхо"
+
+msgid  "historyempty"
+msgstr  "(йаьсса)"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$1 оцу $2"
+
+msgid  "rev-delundel"
+msgstr  "гайта/къайла"
+
+msgid  "rev-showdeleted"
+msgstr  "гайта"
+
+msgid  "revdelete-show-file-submit"
+msgstr  "Хlаъ"
+
+msgid  "revdelete-radio-same"
+msgstr  "(ма хийца)"
+
+msgid  "revdelete-radio-set"
+msgstr  "Хlаъ"
+
+msgid  "revdelete-radio-unset"
+msgstr  "Хlахlа"
+
+msgid  "revdelete-log"
+msgstr  "Бахьан:"
+
+msgid  "revdel-restore"
+msgstr  "Хийцам бе схьагарехь"
+
+msgid  "revdelete-content"
+msgstr  "чуьраниг"
+
+msgid  "revdelete-uname"
+msgstr  "декъашхон цlе"
+
+msgid  "revdelete-reasonotherlist"
+msgstr  "Кхин бахьан"
+
+msgid  "mergehistory-reason"
+msgstr  "Бахьан:"
+
+msgid  "revertmerge"
+msgstr  "Йекъа"
+
+msgid  "history-title"
+msgstr  "$1 — хийцаман исторе"
+
+msgid  "difference"
+msgstr  "(Тайпанара юкъар башхалла)"
+
+msgid  "lineno"
+msgstr  "Могlа $1:"
+
+msgid  "compareselectedversions"
+msgstr  "Хаьржиначуьна башхо муха ю хьажа"
+
+msgid  "showhideselectedversions"
+msgstr  "Гайта/къайлайаха хаьржина башхонаш"
+
+msgid  "editundo"
+msgstr  "цаоьшу"
+
+msgid  "searchresults"
+msgstr  "Лахарна хилам"
+
+msgid  "searchresults-title"
+msgstr  "Лаха «$1»"
+
+msgid  "searchresulttext"
+msgstr  "Хlокху кхолламан агlонаш чохь лахарх лаьцна кхетош хаам, хьажа. [[{{MediaWiki:Helppage}}|нисвохааман дакъанчу]]."
+
+msgid  "searchsubtitle"
+msgstr  "Дехарца йолу «[[:$1]]» ([[Special:Prefixindex/$1|агlонаш, дlайуьлалуш йу хlо цlарца]]{{int:pipe-separator}}[[Special:WhatLinksHere/$1|тlетовжуш йу хlо цlарна]])"
+
+msgid  "searchsubtitleinvalid"
+msgstr  "Кху дехарца «$1»"
+
+msgid  "notitlematches"
+msgstr  "Агlонаши цlерашца цхьатера йогlуш яц"
+
+msgid  "notextmatches"
+msgstr  "Агlонаш чура йозанашца цхьатера йогlуш яц"
+
+msgid  "prevn"
+msgstr  "{{PLURAL:$1|хьалхарниг $1|хьалхарнаш $1|хьалхарнаш $1}}"
+
+msgid  "nextn"
+msgstr  "{{PLURAL:$1|тlаьхьйогlург $1|тlаьхьйогlурш $1|тlаьхьйогlурш $1}}"
+
+msgid  "viewprevnext"
+msgstr  "Хьажа ($1 {{int:pipe-separator}} $2) ($3)"
+
+msgid  "searchmenu-legend"
+msgstr  "Лахарна гlирс нисба"
+
+msgid  "searchmenu-exists"
+msgstr  "'''Хlокху вики-кхолламашца йолуш ю ишта агlо «[[:$1]]»'''"
+
+msgid  "searchmenu-new"
+msgstr  "'''Кхолла ишта агlо «[[:$1]]» хlокху вики-кхолламашчохь!'''"
+
+msgid  "searchhelp-url"
+msgstr  "Help:Чулацам"
+
+msgid  "searchmenu-prefix"
+msgstr  "[[Special:PrefixIndex/$1|Гайта агlонаш ишта хlоттам болуш]]"
+
+msgid  "searchprofile-articles"
+msgstr  "Къаьстина агlонаш"
+
+msgid  "searchprofile-project"
+msgstr  "Нисвохааман агlонаш а кхолламаш"
+
+msgid  "searchprofile-images"
+msgstr  "Мялтомшхгl"
+
+msgid  "searchprofile-everything"
+msgstr  "Массанхьа"
+
+msgid  "searchprofile-advanced"
+msgstr  "Шуьйра"
+
+msgid  "searchprofile-articles-tooltip"
+msgstr  "Лаха оцу $1"
+
+msgid  "searchprofile-project-tooltip"
+msgstr  "Лаха оцу $1"
+
+msgid  "searchprofile-images-tooltip"
+msgstr  "Хlумнаш лахар"
+
+msgid  "searchprofile-everything-tooltip"
+msgstr  "Лаха массо агlонашкахь (дийцаре агlонашцани)"
+
+msgid  "searchprofile-advanced-tooltip"
+msgstr  "Лаха дехарца хlокху ана цlерашкахь"
+
+msgid  "search-result-size"
+msgstr  "$1 ({{PLURAL:$2|$2 дош|$2 дешнаш|$2 дешнаш}})"
+
+msgid  "search-redirect"
+msgstr  "(дlасахьажийна $1)"
+
+msgid  "search-section"
+msgstr  "(дакъа $1)"
+
+msgid  "search-suggest"
+msgstr  "Хила мега ахьа лоьхарг: $1"
+
+msgid  "search-interwiki-caption"
+msgstr  "Гергара кхолламаш"
+
+msgid  "search-interwiki-default"
+msgstr  "$1 хилам.:"
+
+msgid  "search-interwiki-more"
+msgstr  "(кхин)"
+
+msgid  "search-mwsuggest-enabled"
+msgstr  "хьехаршца"
+
+msgid  "search-mwsuggest-disabled"
+msgstr  "хьехар доцуш"
+
+msgid  "searcheverything-enable"
+msgstr  "Массо цIера анахь лахар"
+
+msgid  "searchrelated"
+msgstr  "хlоттаделларг"
+
+msgid  "searchall"
+msgstr  "массо"
+
+msgid  "showingresults"
+msgstr  "Лахахьа {{PLURAL:$1|гойта|гойту|гойту}} <strong>$1</strong> {{PLURAL:$1|хилам|хиламаш|хиламаш}}, дlаболало кху № <strong>$2</strong>."
+
+msgid  "showingresultsheader"
+msgstr  "{{PLURAL:$5|Хилам '''$1''' кху '''$3'''|Хиламаш '''$1 — $2''' кху '''$3'''}} оцун '''$4'''"
+
+msgid  "nonefound"
+msgstr  "'''Билгалдаккхар.''' Хlумма цадеш lад йитича массо цlеран энахь цалоху. Лела йе тlехуттург ''all:'', лахийта массо цlеран энахь (юкъадалош декъашхойн дийцарш а куцкепаш а кхин дерг.), йа хlотта йе оьшуш йолу цlеран эна."
+
+msgid  "search-nonefound"
+msgstr  "Дехарар терра цхьа хlума цакарийна."
+
+msgid  "powersearch"
+msgstr  "Шуьйра лахар"
+
+msgid  "powersearch-legend"
+msgstr  "Шуьро лахар"
+
+msgid  "powersearch-ns"
+msgstr  "Цlераши анахь лахар:"
+
+msgid  "powersearch-redir"
+msgstr  "Схьагайта дlасахьажийнарш"
+
+msgid  "powersearch-field"
+msgstr  "Лаха"
+
+msgid  "powersearch-toggleall"
+msgstr  "Массо"
+
+msgid  "powersearch-togglenone"
+msgstr  "Хlумма цаоьшу"
+
+msgid  "preferences"
+msgstr  "Гlирс нисбан"
+
+msgid  "mypreferences"
+msgstr  "Гlирс нисбан"
+
+msgid  "changepassword"
+msgstr  "Хийцамба ишарна"
+
+msgid  "skin-preview"
+msgstr  "Хьалха муха ю хьажа"
+
+msgid  "prefs-datetime"
+msgstr  "Терахь а хан"
+
+msgid  "prefs-personal"
+msgstr  "Долахь болу хаамаш"
+
+msgid  "prefs-rc"
+msgstr  "Керла нисдарш"
+
+msgid  "prefs-watchlist"
+msgstr  "Тергаме могlам"
+
+msgid  "prefs-misc"
+msgstr  "Кхин гlирсаш"
+
+msgid  "prefs-resetpass"
+msgstr  "Хийца ишар"
+
+msgid  "prefs-rendering"
+msgstr  "Арахьара хатl"
+
+msgid  "saveprefs"
+msgstr  "lалашдан"
+
+msgid  "prefs-editing"
+msgstr  "Редаккхар"
+
+msgid  "searchresultshead"
+msgstr  "Лаха"
+
+msgid  "timezonelegend"
+msgstr  "Сахьатан аса:"
+
+msgid  "prefs-searchoptions"
+msgstr  "Лахарна гlирс нисба"
+
+msgid  "prefs-files"
+msgstr  "Хlумнаш"
+
+msgid  "youremail"
+msgstr  "Кехат яздо зlе цlе:"
+
+msgid  "username"
+msgstr  "Дlаязвиначуьна цlе:"
+
+msgid  "yourrealname"
+msgstr  "Хьан бакъ цlе:"
+
+msgid  "yourlanguage"
+msgstr  "Юкъардекъа мотт:"
+
+msgid  "yourvariant"
+msgstr  "Метта башхо"
+
+msgid  "yourgender"
+msgstr  "Ву/Йу:"
+
+msgid  "gender-unknown"
+msgstr  "хlоттийна яц"
+
+msgid  "gender-male"
+msgstr  "борша"
+
+msgid  "gender-female"
+msgstr  "сте"
+
+msgid  "prefs-help-email"
+msgstr  "Кехат яздо зlе цlе цахlоттийча а хlум дац, иза оьшар ю, нагахь хьуна хьай ишар йицлахь.\nЦо атто бийра бу кхечу декъашхошна a хьан кху чура декъа агlонца хьега хаам бахьийта."
+
+msgid  "prefs-diffs"
+msgstr  "Башхон варси"
+
+msgid  "userrights"
+msgstr  "Декъашхочуьн бакъона урхалладар"
+
+msgid  "editinguser"
+msgstr  "Хийца декъашхочуьна бакъо '''[[User:$1|$1]]''' ([[User talk:$1|{{int:talkpagelinktext}}]]{{int:pipe-separator}}[[Special:Contributions/$1|{{int:contribslink}}]])"
+
+msgid  "group"
+msgstr  "Тоба:"
+
+msgid  "group-user"
+msgstr  "Декъашхой"
+
+msgid  "group-bot"
+msgstr  "Шаболххой"
+
+msgid  "group-sysop"
+msgstr  "Адаманкуьйгалхой"
+
+msgid  "group-bureaucrat"
+msgstr  "Даржахой"
+
+msgid  "group-suppress"
+msgstr  "Левисорхой"
+
+msgid  "group-all"
+msgstr  "(массо)"
+
+msgid  "group-user-member"
+msgstr  "декъашхо"
+
+msgid  "group-bot-member"
+msgstr  "шаболххо"
+
+msgid  "group-sysop-member"
+msgstr  "адманкуьйгалхо"
+
+msgid  "group-bureaucrat-member"
+msgstr  "даржахо"
+
+msgid  "group-suppress-member"
+msgstr  "левисорхо"
+
+msgid  "grouppage-user"
+msgstr  "{{ns:project}}:Декъашхой"
+
+msgid  "grouppage-bot"
+msgstr  "{{ns:project}}:Шаболххой"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:Адаманкуьйгалхой"
+
+msgid  "grouppage-bureaucrat"
+msgstr  "{{ns:project}}:Даржахой"
+
+msgid  "grouppage-suppress"
+msgstr  "{{ns:project}}:Левисорхой"
+
+msgid  "rightslog"
+msgstr  "Декъашхон бакъона тéптар"
+
+msgid  "action-edit"
+msgstr  "нисйа хlара агlо"
+
+msgid  "nchanges"
+msgstr  "$1 {{PLURAL:$1|хийцам|хийцамаш|хийцамаш}}"
+
+msgid  "recentchanges"
+msgstr  "Керла нисдарш"
+
+msgid  "recentchanges-legend"
+msgstr  "Гlирс нисбарна керла нисдарш"
+
+msgid  "recentchanges-feed-description"
+msgstr  "Тергам бе тlаьхьара вики хийцаман хlокху ларца."
+
+msgid  "recentchanges-label-newpage"
+msgstr  "Оцу нисдарца кхоллина керла агlо."
+
+msgid  "recentchanges-label-minor"
+msgstr  "Хlара нисдинарг къастийна жимо долушсан"
+
+msgid  "rcnote"
+msgstr  "{{PLURAL:$1|Тlаьххьара '''$1''' хийцам|Тlаьххьара '''$1''' хийцамаш|Тlаьххьара '''$1''' хийцамаш}} за '''$2''' {{PLURAL:$2|де|дийнахь|дийнахь}}, оцу хан чохь $5 $4."
+
+msgid  "rclistfrom"
+msgstr  "Гайта хийцам оцу $1."
+
+msgid  "rcshowhideminor"
+msgstr  "$1 кегийра нисдарш"
+
+msgid  "rcshowhidebots"
+msgstr  "$1 шабелхалой"
+
+msgid  "rcshowhideliu"
+msgstr  "$1 вовзитар долу декъашхой"
+
+msgid  "rcshowhideanons"
+msgstr  "$1 хьулбелларш"
+
+msgid  "rcshowhidemine"
+msgstr  "$1 айхьа нисдинарш"
+
+msgid  "rclinks"
+msgstr  "Гайта тlаьхьара $1 хийцамаш оцу $2 ден<br />$3"
+
+msgid  "diff"
+msgstr  "тейп тайпнара"
+
+msgid  "hist"
+msgstr  "исторе"
+
+msgid  "hide"
+msgstr  "Къайлаяккха"
+
+msgid  "show"
+msgstr  "Гайта"
+
+msgid  "minoreditletter"
+msgstr  "ж"
+
+msgid  "newpageletter"
+msgstr  "К"
+
+msgid  "boteditletter"
+msgstr  "б"
+
+msgid  "rc_categories_any"
+msgstr  "Муьлхаа"
+
+msgid  "newsectionsummary"
+msgstr  "/* $1 */ Керла хьедар"
+
+msgid  "rc-enhanced-expand"
+msgstr  "Гайта ма дарра дерг (лелош ю JavaScript)"
+
+msgid  "rc-enhanced-hide"
+msgstr  "Ма дарра дерг къайладаккха"
+
+msgid  "recentchangeslinked"
+msgstr  "Кхуьнца долу нисдарш"
+
+msgid  "recentchangeslinked-feed"
+msgstr  "Кхуьнца долу нисдарш"
+
+msgid  "recentchangeslinked-toolbox"
+msgstr  "Кхуьнца долу нисдарш"
+
+msgid  "recentchangeslinked-title"
+msgstr  "Кхуьнца долу нисдарш $1"
+
+msgid  "recentchangeslinked-summary"
+msgstr  "Хlара хийцам биначу агlонашан могlам бу, тlетовжар долуш хьагучу агlон (йа хьагойтуш йолучу кадегарна).\nАгlонаш юькъайогlуш йолу хьан [[Special:Watchlist|тергаме могlам чохь]] '''къастийна йу'''."
+
+msgid  "recentchangeslinked-page"
+msgstr  "Агlон цlе:"
+
+msgid  "recentchangeslinked-to"
+msgstr  "Кхечу агlор, гайта хийцамаш агlонашца, хlоттийначу агlонтlе хьажориг йолуш"
+
+msgid  "upload"
+msgstr  "Чуйаккха хlум"
+
+msgid  "uploadbtn"
+msgstr  "Чуйаккха хlум"
+
+msgid  "uploadlogpage"
+msgstr  "Чуйахаран тéптар"
+
+msgid  "uploadlogpagetext"
+msgstr  "Лахахьа гойтуш бу могlам тlаьххьара чуяхна хlумнаши. Ишта хьажа. [[Special:ImageList|хlумнаши могlам]] йа [[Special:NewImages|галеларе хlумнаши]]."
+
+msgid  "filename"
+msgstr  "Хlуман цlе"
+
+msgid  "uploadwarning"
+msgstr  "Дlахьедар"
+
+msgid  "uploadedimage"
+msgstr  "чуяккхина «[[$1]]»"
+
+msgid  "upload-wasdeleted"
+msgstr  "'''Тергам бе: ахьа чуйаккха хьийзошйолу хlума, хьалхо дlайайана хlума ю.'''\n\nЮха а хьажа, баккъалла хьуна оьшуш йуй и хlумма. Лахахь далийна дlадайарна тéптар."
+
+msgid  "filename-prefix-blacklist"
+msgstr  "#<!-- битийша хlара могlа ша мабарра --> <pre>\n# Бухасиз шолгlа:\n#  * Массо, саболчунтlийра йуьлалуш ерш «#» хуьлу хетаме дерг (могlа чекх балац)\n#  * Хlора баьсса боцу могlа — хlман цlе лораш йу, терахьца сурт доккхучо луш ма хиллар\nCIMG # Casio\nDSC_ # Nikon\nDSCF # Fuji\nDSCN # Nikon\nDUW # ишта цхьаболу лера гlирс а\nIMG # еригге\nJD # Jenoptik\nMGP # Pentax\nPICT # тайп тайпан\n #</pre> <!-- битийша хlара могlа ша мабарра -->"
+
+msgid  "license"
+msgstr  "Бакъойалар:"
+
+msgid  "listfiles_search_for"
+msgstr  "Лаха хIуман цIарца:"
+
+msgid  "imgfile"
+msgstr  "хlум"
+
+msgid  "listfiles"
+msgstr  "Хlумнаши могlам"
+
+msgid  "listfiles_name"
+msgstr  "Хlуман цlе"
+
+msgid  "listfiles_user"
+msgstr  "Декъашхо"
+
+msgid  "listfiles_size"
+msgstr  "Барам"
+
+msgid  "listfiles_description"
+msgstr  "Цуьнах лаьцна"
+
+msgid  "file-anchor-link"
+msgstr  " Хlум"
+
+msgid  "filehist"
+msgstr  "Хlуман исторе"
+
+msgid  "filehist-help"
+msgstr  "Тlетаlаде терахь/хан, муха хилла хьажарна и хlум."
+
+msgid  "filehist-deleteall"
+msgstr  "дlадайá массо"
+
+msgid  "filehist-deleteone"
+msgstr  "дlадайá"
+
+msgid  "filehist-current"
+msgstr  "карара"
+
+msgid  "filehist-datetime"
+msgstr  "Терахь/Хан"
+
+msgid  "filehist-thumb"
+msgstr  "Жима"
+
+msgid  "filehist-thumbtext"
+msgstr  "Жимо башхо оцу $1"
+
+msgid  "filehist-user"
+msgstr  "Декъашхо"
+
+msgid  "filehist-dimensions"
+msgstr  "Хlуман барам"
+
+msgid  "filehist-comment"
+msgstr  "Билгалдаккхар"
+
+msgid  "imagelinks"
+msgstr  "Хьажоригаш оцу хlуман"
+
+msgid  "linkstoimage"
+msgstr  "{{PLURAL:$1|Тlаьхьайогlу $1 агlо тlетойжина|Тlаьхьайогlу $1 агlонаш тlетойжина|Тlаьхьайогlу $1 агlонаш тlетойжина}} хlокху хlуман:"
+
+msgid  "sharedupload"
+msgstr  "Хlара хlума оцун $1 чура ю иза хила мега лелош кхечу кхолламашкахь."
+
+msgid  "uploadnewversion-linktext"
+msgstr  "Чуяккха керла башхо хlокху хlуман"
+
+msgid  "shared-repo-name-wikimediacommons"
+msgstr  "Викидlайуллуче"
+
+msgid  "filerevert-submit"
+msgstr  "Юхаяккха"
+
+msgid  "filedelete-legend"
+msgstr  "Дlайайá и хlум"
+
+msgid  "filedelete-submit"
+msgstr  "Дlадайá"
+
+msgid  "filedelete-otherreason"
+msgstr  "Кхин бахьан:"
+
+msgid  "filedelete-reason-otherlist"
+msgstr  "Кхин бахьан"
+
+msgid  "mimesearch"
+msgstr  "MIME хула лаха"
+
+msgid  "unwatchedpages"
+msgstr  "Цхьамо тергам ца беш йолу агIонаш"
+
+msgid  "listredirects"
+msgstr  "ДIасахьажоран могIам"
+
+msgid  "unusedtemplates"
+msgstr  "Лелош доцу куцкепаш"
+
+msgid  "randompage"
+msgstr  "Цахуаш нисйелла агlо"
+
+msgid  "randomredirect"
+msgstr  "Ца хууш нисделла дIасахьажор"
+
+msgid  "statistics"
+msgstr  "Бухехьдерг"
+
+msgid  "statistics-header-pages"
+msgstr  "Агlонашан жамlа"
+
+msgid  "statistics-header-edits"
+msgstr  "Нисдаран жамlа"
+
+msgid  "statistics-header-users"
+msgstr  "Декъашхойн жамlа"
+
+msgid  "statistics-articles"
+msgstr  "Яззамаш"
+
+msgid  "statistics-pages"
+msgstr  "Агlонаш"
+
+msgid  "statistics-pages-desc"
+msgstr  "Массо вики агlонаш, дийцаре агlонашцани, дlасахьаждарш а кхин дерш."
+
+msgid  "statistics-files"
+msgstr  "Чуйаьхна хlумнаш"
+
+msgid  "statistics-edits"
+msgstr  "Нисдаран дукхалла {{grammar:genitive|{{SITENAME}}}} дlа йолайаларца"
+
+msgid  "statistics-edits-average"
+msgstr  "Йукъера агlонан нисдаран терхь"
+
+msgid  "statistics-users-active"
+msgstr  "Жигар декъашхой"
+
+msgid  "statistics-users-active-desc"
+msgstr  "Декъашхой, муьлха цхьа хlум дина болу, кху {{PLURAL:$1|тlаьххьара $1 динахь|тlаьххьара $1 дийнахь}}"
+
+msgid  "disambiguations"
+msgstr  "Дуккха маьIнаш долу хьажорца йолу агIонаш"
+
+msgid  "doubleredirects"
+msgstr  "ШалгIа дIасахьажийнарш"
+
+msgid  "double-redirect-fixed-move"
+msgstr  "Агlон [[$1]] цlе хийцна, хlинца иза дlахьажийна оцу [[$2]]"
+
+msgid  "brokenredirects"
+msgstr  "ДIахаьдна долу дIасахьажораш"
+
+msgid  "brokenredirects-edit"
+msgstr  "нисйé"
+
+msgid  "brokenredirects-delete"
+msgstr  "дlадайá"
+
+msgid  "withoutinterwiki"
+msgstr  "Кхечу меттанашан хьажориг йоцу агIонаш"
+
+msgid  "withoutinterwiki-submit"
+msgstr  "Гайта"
+
+msgid  "fewestrevisions"
+msgstr  "ЧIогIа кIезиг башхонаш йолу агIонаш"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|цlинцl|цlинцlа|цlинацl}}"
+
+msgid  "ncategories"
+msgstr  "$1 {{PLURAL:$1|кадегар|кадегарш|кадегарш}}"
+
+msgid  "nmembers"
+msgstr  "$1 {{PLURAL:$1|хlум|хlума|хlумнаш}}"
+
+msgid  "specialpage-empty"
+msgstr  "Дехаро хlумма ца елла."
+
+msgid  "lonelypages"
+msgstr  "Байлахь йисина агIонаш"
+
+msgid  "uncategorizedpages"
+msgstr  "Кадегар йоцу агIонаш"
+
+msgid  "uncategorizedcategories"
+msgstr  "Кадегар йоцу кадегарш"
+
+msgid  "uncategorizedimages"
+msgstr  "Кадегар йоцу хIумнаш"
+
+msgid  "uncategorizedtemplates"
+msgstr  "Кадегар йоцу куцкепаш"
+
+msgid  "unusedcategories"
+msgstr  "Йаьсса кадегарш"
+
+msgid  "wantedcategories"
+msgstr  "Оьшуш йолу кадегарш"
+
+msgid  "wantedpages"
+msgstr  "Оьшуш йолу агIонаш"
+
+msgid  "wantedfiles"
+msgstr  "Оьшуш йолу хIумнаш"
+
+msgid  "wantedtemplates"
+msgstr  "Оьшуш долу куцкепаш"
+
+msgid  "mostlinked"
+msgstr  "Дуккха хьажоригаш тIе тоьхна йолу агIонаш"
+
+msgid  "mostlinkedcategories"
+msgstr  "Дуккха тIе хьажораш йолу кадегарш"
+
+msgid  "mostlinkedtemplates"
+msgstr  "Массарел дуккха а леладо куцкепаш"
+
+msgid  "mostcategories"
+msgstr  "Дуккха кадегарш тIе тоьхна йолу агIонаш"
+
+msgid  "mostimages"
+msgstr  "Массарел дуккха лелайо хlумнаш"
+
+msgid  "mostrevisions"
+msgstr  "Сих сиха нисйина йолу агIонаш"
+
+msgid  "prefixindex"
+msgstr  "Хьалха агlонашан цlераш хlотто йеза"
+
+msgid  "shortpages"
+msgstr  "Боцоа яззамаш"
+
+msgid  "longpages"
+msgstr  "Беха яззамаш"
+
+msgid  "deadendpages"
+msgstr  "Дика йоцу агIонаш"
+
+msgid  "protectedpages"
+msgstr  "ГIаролла дина агIонаш"
+
+msgid  "protectedtitles"
+msgstr  "Ца магийна йолу цIераш"
+
+msgid  "listusers"
+msgstr  "Декъашхой могlам"
+
+msgid  "newpages"
+msgstr  "Керла агlонаш"
+
+msgid  "newpages-username"
+msgstr  "Декъашхо:"
+
+msgid  "ancientpages"
+msgstr  "Яззамаш оцу терахьца тяххьара редаккхар дина долу"
+
+msgid  "move"
+msgstr  "Цlе хийца"
+
+msgid  "movethispage"
+msgstr  "Хlокху агlон цlе хийца"
+
+msgid  "unusedimagestext"
+msgstr  "Дехар до, тидаме эца, кхин йолу дуьнана машан-меттигаш а лелош хила мега нисса йогlу хьажориг (URL) хlокху хlуман, хlокху могlаме йогlуш ялахь яцахь а иза хила мега жигара лелош."
+
+msgid  "pager-newer-n"
+msgstr  "{{PLURAL:$1|алсамо керла|алсамо керланаш|алсамо керлачарех}} $1"
+
+msgid  "pager-older-n"
+msgstr  "{{PLURAL:$1|алсамо къена|алсамо къенанаш|алсамо къеначарех}} $1"
+
+msgid  "booksources"
+msgstr  "Жайнан хьосташ"
+
+msgid  "booksources-search-legend"
+msgstr  "Жайнех лаьцна хаам лахар"
+
+msgid  "booksources-go"
+msgstr  "Лаха"
+
+msgid  "specialloguserlabel"
+msgstr  "Декъашхо:"
+
+msgid  "speciallogtitlelabel"
+msgstr  "Корта:"
+
+msgid  "log"
+msgstr  "Тéптарш"
+
+msgid  "all-logs-page"
+msgstr  "Деригге тléкхочучéхь долу тéптарш"
+
+msgid  "alllogstext"
+msgstr  "Массо тéптар могlам. {{SITENAME}}.\nШуьга харжалур бу хилам оцу тептаре хьаьжжина, декъашхон цlе (дlаязвар диц а цадеш) йа иза хьакхавелла агlонаш (ишта дlаязвар а диц цадеш)."
+
+msgid  "allpages"
+msgstr  "Массо агlонаш"
+
+msgid  "alphaindexline"
+msgstr  "оцу $1 кху $2"
+
+msgid  "prevpage"
+msgstr  "Хьалхалера агlо ($1)"
+
+msgid  "allpagesfrom"
+msgstr  "Гучé яха агlонаш, йуьлалуш йолу оцу:"
+
+msgid  "allpagesto"
+msgstr  "Арайахар сацадé оцу:"
+
+msgid  "allarticles"
+msgstr  "Массо агlонаш"
+
+msgid  "allinnamespace"
+msgstr  "Массо агlонаш оцу цlери анахь «$1»"
+
+msgid  "allpagesnext"
+msgstr  "Тlаьхьайогlурш"
+
+msgid  "allpagessubmit"
+msgstr  "Кхочушдé"
+
+msgid  "allpagesprefix"
+msgstr  "Лаха агlонаш, дlайуьлалуш йолу:"
+
+msgid  "allpagesbadtitle"
+msgstr  "Цамагош йолу агlон цlе. Коьрта могlан юкъах ю юкъарвики меттанашан юкъе тlечlагlйина йолу хьаьрк йа магийна доцу оцу коьрта моlанца сабол элп йа кхин."
+
+msgid  "allpages-bad-ns"
+msgstr  "{{SITENAME}} кху чохь ана цlераш яц «$1»."
+
+msgid  "categories"
+msgstr  "Кадегарш"
+
+msgid  "deletedcontributions"
+msgstr  "Декъашхочуьн дlабайина къинхьегам"
+
+msgid  "sp-deletedcontributions-contribs"
+msgstr  "къинхьегам"
+
+msgid  "linksearch"
+msgstr  "Арахьа хьажориг"
+
+msgid  "linksearch-ok"
+msgstr  "Лаха"
+
+msgid  "linksearch-line"
+msgstr  "$2 — хьажориг кху $1"
+
+msgid  "listusers-submit"
+msgstr  "Гайта"
+
+msgid  "activeusers"
+msgstr  "Жигар декъашхой могlам"
+
+msgid  "newuserlogpage"
+msgstr  "Декъашхой дlабазбина тептар"
+
+msgid  "newuserlog-create-entry"
+msgstr  "Керла декъашхо"
+
+msgid  "newuserlog-autocreate-entry"
+msgstr  "Дlайазвар кхоллина ша шех"
+
+msgid  "listgrouprights"
+msgstr  "Декъашхойн тобанаши бакъонаш"
+
+msgid  "listgrouprights-group"
+msgstr  "Тоба"
+
+msgid  "listgrouprights-helppage"
+msgstr  "Help:Тобан бакъонаш"
+
+msgid  "listgrouprights-members"
+msgstr  "(тобан могlам)"
+
+msgid  "emailuser"
+msgstr  "Декъашхочун хааман кехат"
+
+msgid  "defemailsubject"
+msgstr  "Хаам {{grammar:genitive|{{SITENAME}}}} чура бу"
+
+msgid  "emailmessage"
+msgstr  "Хаам:"
+
+msgid  "watchlist"
+msgstr  "Тергаме могlам"
+
+msgid  "mywatchlist"
+msgstr  "Тергаме могlам"
+
+msgid  "watchnologin"
+msgstr  "Хьо вовзита веза гlирсан"
+
+msgid  "addedwatch"
+msgstr  "Юькъатоьхна тергаме могlамна"
+
+msgid  "addedwatchtext"
+msgstr  "Хlар агlо «[[:$1]]» тlетоьхна хьан [[Special:Watchlist|тидаме могlам чу]].\nТlаьхьабогlу хийцамаш хlокх агlонна а кхунца дозуш долу дийцаре агlо а дlаяздийра ду кху могlамашкахь, ишта къастина хирду уьш шуьрочу элпашца хlокх агlон чохь [[Special:RecentChanges|керла хийцаме могlамашкахь]], бгlаьран га атту болуш."
+
+msgid  "removedwatch"
+msgstr  "Дlаяккхина оцу тергаме могlам юкъар"
+
+msgid  "removedwatchtext"
+msgstr  "Агlо «[[:$1]]» дlаяккхина йара хьан [[Special:Watchlist|тергаме могlам юкъар]]."
+
+msgid  "watch"
+msgstr  "Тидам бе"
+
+msgid  "watchthispage"
+msgstr  "Тергам бé хlокху агlон"
+
+msgid  "unwatch"
+msgstr  "Тергамах къаста"
+
+msgid  "notanarticle"
+msgstr  "Бац яззам"
+
+msgid  "watchlist-details"
+msgstr  "Хьан тергаме могlамца $1 {{PLURAL:$1|агlо|агlонаш|агlонаш}} ю, дийцаре агlонаша йоцуш."
+
+msgid  "wlnote"
+msgstr  "Лахахьа {{PLURAL:$1|тlаьхьа богlу $1 хийцам|тlаьхьа богlу $1 хийцамаш|тlаьхьа богlу $1 хийцамаш}} хlокху {{PLURAL:$2|тlаьхьар|тlаьхьара|тlаьхьара}} <strong>$2</strong> {{plural:$2|сохьт|сохьатехь|сохьташкахь}}."
+
+msgid  "wlshowlast"
+msgstr  "Гайта тlаьххьара $1 сахьташ $2 денош $3"
+
+msgid  "watchlist-options"
+msgstr  "Тергаме могlаман гlирс нисбар"
+
+msgid  "watching"
+msgstr  "Тергаме мlогаман юкъаяккха…"
+
+msgid  "unwatching"
+msgstr  "Тергаме мlогаман чура дlайаккха…"
+
+msgid  "enotif_newpagetext"
+msgstr  "Хlара керла агlо ю."
+
+msgid  "deletepage"
+msgstr  "Дlайайá агlо"
+
+msgid  "confirm"
+msgstr  "Къобалде"
+
+msgid  "excontent"
+msgstr  "чуьраниг: «$1»"
+
+msgid  "excontentauthor"
+msgstr  "чуьраниг: «$1» (дуьххьара кхоллина да вара иза [[Special:Contributions/$2|$2]])"
+
+msgid  "exbeforeblank"
+msgstr  "чуьраниг дlацlанйале хьалха: «$1»"
+
+msgid  "exblank"
+msgstr  "агlо йаьсса йара"
+
+msgid  "delete-legend"
+msgstr  "Дlадайáр"
+
+msgid  "confirmdeletetext"
+msgstr  "Хьан дехар ду хlара агlо ше бухци дlабайа аьлла (йа сурт) а массо цуьнан исторе оцу бух чура. Дехар до, бакъде, билгала хьайна иза лаахь, кхеташ хира ву хьо тlаьхьа хир долу чун, иза деш ду ахьа бакъонца догlуш, вахьа дехкина долучу дакъанца [[{{MediaWiki:Policy-url}}]]."
+
+msgid  "actioncomplete"
+msgstr  "Дешдерг кхочушди"
+
+msgid  "deletedtext"
+msgstr  "«<nowiki>$1</nowiki>» дlаяккхина йара.\nХьажа. $2 хьажарна оцу тlаьхьара дlадайаран могlаме."
+
+msgid  "deletedarticle"
+msgstr  "дlадайинарг «[[$1]]»"
+
+msgid  "dellogpage"
+msgstr  "Дlадайарш долу тéптар"
+
+msgid  "deletionlog"
+msgstr  "дlадайарш долу тéптар"
+
+msgid  "deletecomment"
+msgstr  "Бахьан:"
+
+msgid  "deleteotherreason"
+msgstr  "Кхин бахьан/тlетохар:"
+
+msgid  "deletereasonotherlist"
+msgstr  "Кхин бахьан"
+
+msgid  "rollbacklink"
+msgstr  "йухаяккха"
+
+msgid  "revertpage"
+msgstr  "Нисдарш [[Special:Contributions/$2|$2]] ([[User talk:$2|дийцаре]]) йуха йаьхна башхаллийн [[User:$1|$1]]"
+
+msgid  "protectlogpage"
+msgstr  "Гlаролли тептар"
+
+msgid  "protectedarticle"
+msgstr  "гlаролла дина агlо «[[$1]]»"
+
+msgid  "modifiedarticleprotection"
+msgstr  "агlонан гlаролли локхалла хийцина «[[$1]]»"
+
+msgid  "prot_1movedto2"
+msgstr  "«[[$1]]» цlе хийцина оцу «[[$2]]»"
+
+msgid  "protectcomment"
+msgstr  "Бахьан:"
+
+msgid  "protectexpiry"
+msgstr  "Чекхйолу:"
+
+msgid  "protect_expiry_invalid"
+msgstr  "Нийса йоцу хан гlаролла дlайаларехь."
+
+msgid  "protect_expiry_old"
+msgstr  "Хан чаккхе — хьалхалера."
+
+msgid  "protect-text"
+msgstr  "Кхузéхь хьо хьажало хийцалуш гlаролли локхалла оцу агlонашна '''<nowiki>$1</nowiki>'''."
+
+msgid  "protect-locked-access"
+msgstr  "Хьан дlаязваларéхь тоъал бакъо яц гlароллийн локхаллéхь агlон хийцам бá. Дlадоьлху хlоттийнарш оцу агlонна '''$1''':"
+
+msgid  "protect-cascadeon"
+msgstr  "Хlара агlо гlароллийца ю, хlунд аьлча иза латийна {{PLURAL:$1|лахахьа гойтучу агlонца, цуьнца хlоттийна|лахахьа гойтучу агlоншца, цаьрца хlоттийна}} чахчарийца гlаролла. Хьога хийцалур ю гlаролли локхалла хlокху агlон, амма оцо хийцам бийра бац чахчарехь йолучу гlароллийна."
+
+msgid  "protect-default"
+msgstr  "Гlаролла йоцуш"
+
+msgid  "protect-fallback"
+msgstr  "Бакъо оьшу «$1»"
+
+msgid  "protect-level-autoconfirmed"
+msgstr  "Гlаролла дé оцу керла а дlабазбина боцучу декъашхойх"
+
+msgid  "protect-level-sysop"
+msgstr  "Адманкуьйгалхой бé"
+
+msgid  "protect-summary-cascade"
+msgstr  "чахчареца"
+
+msgid  "protect-expiring"
+msgstr  "чакхйолу $1 (UTC)"
+
+msgid  "protect-expiry-indefinite"
+msgstr  "хан чаккхе йоцуш"
+
+msgid  "protect-cascade"
+msgstr  "Гlаролла йé агlонаш, хlокху агlонца хlоттайелларш (чахчарé гlаролла)"
+
+msgid  "protect-cantedit"
+msgstr  "Хьéга хийцам цабало хlокху агlон гlаролли локхалан, хlуд аьлча хьан бакъо яц оцун рéдаккха."
+
+msgid  "protect-otherreason-op"
+msgstr  "Кхин бахьан"
+
+msgid  "restriction-type"
+msgstr  "Бакъо:"
+
+msgid  "restriction-level"
+msgstr  "Тlевитарна локхалла:"
+
+msgid  "restriction-upload"
+msgstr  "Чуйолуш"
+
+msgid  "restriction-level-all"
+msgstr  "массо барам"
+
+msgid  "undelete"
+msgstr  "ДIайайина йолу агIонашка хьажар"
+
+msgid  "viewdeletedpage"
+msgstr  "ДIайайина йолу агIонашка хьажар"
+
+msgid  "undeleterevdel"
+msgstr  "Метта хlоттор хира дац, нагахь иза дакъошкахь дlадайина далахь а тlаьххьара кисак башхо йа хlума.\nИштнарг хилча ахьа дlабаккха беза хlоттийна болу къастам йа хьагайта тlаьххьара дlайайина башхо."
+
+msgid  "undeletelink"
+msgstr  "хьажа/метта хlоттаде"
+
+msgid  "undeletedarticle"
+msgstr  "метта хlоттийна «[[$1]]»"
+
+msgid  "undelete-search-submit"
+msgstr  "Лаха"
+
+msgid  "namespace"
+msgstr  "Цlерийн ана:"
+
+msgid  "invert"
+msgstr  "Хаьржинарг хилийта"
+
+msgid  "blanknamespace"
+msgstr  "(Коьрта)"
+
+msgid  "contributions"
+msgstr  "Декъашхон къинхьегам"
+
+msgid  "contributions-title"
+msgstr  "Декъашхочуьна къинхьегам $1"
+
+msgid  "mycontris"
+msgstr  "Сан къинхьегам"
+
+msgid  "contribsub2"
+msgstr  "Къинхьегам $1 ($2)"
+
+msgid  "uctop"
+msgstr  " (тlаьхьара)"
+
+msgid  "month"
+msgstr  "Беттаца (йа хьалхе):"
+
+msgid  "year"
+msgstr  "Шерачохь (йа хьалхе):"
+
+msgid  "sp-contributions-newbies"
+msgstr  "Гайта бекъ къинхьегам, керла дlабазбиначара бина болу"
+
+msgid  "sp-contributions-blocklog"
+msgstr  "сацораш"
+
+msgid  "sp-contributions-logs"
+msgstr  "тéптарш"
+
+msgid  "sp-contributions-talk"
+msgstr  "дийцаре"
+
+msgid  "sp-contributions-userrights"
+msgstr  "декъашхочуьн бакъона урхалладар"
+
+msgid  "sp-contributions-search"
+msgstr  "Къинхьегам лахар"
+
+msgid  "sp-contributions-username"
+msgstr  "IP-долу меттиг йа декъашхон цlе:"
+
+msgid  "sp-contributions-submit"
+msgstr  "Лаха"
+
+msgid  "whatlinkshere"
+msgstr  "Хьажоригаш кхузе"
+
+msgid  "whatlinkshere-title"
+msgstr  "Агlонаш, хьажоригца оцу «$1»"
+
+msgid  "whatlinkshere-page"
+msgstr  "Агlо:"
+
+msgid  "linkshere"
+msgstr  "Тlаьхьайогlу агlонаш хьажоригца ю оцу '''[[:$1]]''':"
+
+msgid  "isredirect"
+msgstr  "агlо-дlасахьажайар"
+
+msgid  "istemplate"
+msgstr  "лата йe"
+
+msgid  "isimage"
+msgstr  "Оцу суьртан хьажориг"
+
+msgid  "whatlinkshere-prev"
+msgstr  "{{PLURAL:$1|хьалхайодарг|хьалхайодарш|хьалхайодарш}} $1"
+
+msgid  "whatlinkshere-next"
+msgstr  "{{PLURAL:$1|тlаьхьайогlург|тlаьхьайогlурш|тlаьхьайогlурш}} $1"
+
+msgid  "whatlinkshere-links"
+msgstr  "← хьажоригаш"
+
+msgid  "whatlinkshere-hideredirs"
+msgstr  "$1 дlасахьажйар"
+
+msgid  "whatlinkshere-hidetrans"
+msgstr  "$1 латораш"
+
+msgid  "whatlinkshere-hidelinks"
+msgstr  "$1 хьажоригаш"
+
+msgid  "whatlinkshere-filters"
+msgstr  "Литтарш"
+
+msgid  "blockip"
+msgstr  "Сацаве"
+
+msgid  "ipadressorusername"
+msgstr  "IP-долу меттиг йа декъашхон цlе:"
+
+msgid  "ipbreasonotherlist"
+msgstr  "Кхин бахьан"
+
+msgid  "ipboptions"
+msgstr  "2 сахьат:2 hours,1 де:1 day,3 де:3 days,1 кlиран:1 week,2 кlиран:2 weeks,1 бутт:1 month,3 бутт:3 months,6 бутт:6 months,1 шо:1 year,цlкъа:infinite"
+
+msgid  "blockipsuccesssub"
+msgstr  "Сацавар чакхдели"
+
+msgid  "blockipsuccesstext"
+msgstr  "[[Special:Contributions/$1|«$1»]] сацийна ву.<br />\nХьажа. [[Special:IPBlockList|могlам сацийна IP-долу меттигаш]]."
+
+msgid  "ipb-blocklist-contribs"
+msgstr  "Декъашхон къинхьегам $1"
+
+msgid  "unblocked"
+msgstr  "[[User:$1|$1]] хьайаьстина."
+
+msgid  "ipblocklist"
+msgstr  "Сацийна IP-долу меттиг а дlалаьрра язбаларш"
+
+msgid  "ipblocklist-submit"
+msgstr  "Лаха"
+
+msgid  "blocklink"
+msgstr  "сацаве"
+
+msgid  "unblocklink"
+msgstr  "хьаваста"
+
+msgid  "change-blocklink"
+msgstr  "хийцам бе сацорна"
+
+msgid  "contribslink"
+msgstr  "къинхьегам"
+
+msgid  "blocklogpage"
+msgstr  "Сацораш долу тептар"
+
+msgid  "blocklogentry"
+msgstr  "сацийна [[$1]] цхьана ханна $2 $3"
+
+msgid  "unblocklogentry"
+msgstr  "схьаваьстина $1"
+
+msgid  "block-log-flags-nocreate"
+msgstr  "цамагдо дlаязвалар дlаязбаларшца"
+
+msgid  "move-page"
+msgstr  "$1 — цlе хийцар"
+
+msgid  "movepagetext"
+msgstr  "Леладан лахар хатlаьхь, хьо агlон цlе хуьйцуш ву, цхьатерра дехьа а докхуш цуьнан хийцаман тептар.\nТиша цlе хира ю дlасахьажйарехь керлачун тlе хьажийна.\nХьега далур ду ша шех дlасахьажор керла яккхар, хьалхалерачуьна метта йиллина йолу.\nНагахь ахьа иза цадинехь, дехар до, хьажа йуйла [[Special:DoubleRedirects|шалгlа]] а [[Special:BrokenRedirects|хадийначу дlасахьажориш]].\nАхьа жоп лур ду кхин дlа а хьажориг хьажийна хилийта, хила йезаче.\n\nТергамбеш хила, иза агlо '''хира яц''' цlе хийцина, нагахь иза цlе йолуш керла агlо йалахь, цхьа йолу хенахь, нагахь иза йалахь цхьан тlе хьажийна йа йаьсса а нисйарца исторе йоцуш.\nИза бохург ду, хьега хийцалур ю оцу агlон цlе оцу цlарца, хlинц цуьна хилла йолу, нагахь ахьа гlалатонца цlе хийцанехь, йолуш йолу агlо цахууш йа мега хьа.\n\n'''ДlАХЬЕДАР!'''\nЦlе хийцарца хила тарло барамашкахь а цамётту хийцам ''гlар йойлачу'' агlонашна.\nДехар до, кхин дlа хьо вахале, дика ойла йе, хьо кхеташ хиларехь тlаьхьа хиндолучунах."
+
+msgid  "movepagetalktext"
+msgstr  "Тlе хlоьттина йолу дийцаре агlо ишта цlе хийцина хира ю, '''цхьа йолу ханчохь, маца:'''\n\n*Йаьсса йоцу дийцаре агlо йолуш ю оцу цlарца йа\n*Ахьа къастаман харжам цабиняхь а къастам хlотточехь.\n\nИшта чу ханчохь, ахьа дехьа яккха йезар ю йа куьйга хlоттайар, нагахь иза хьашт йалахь."
+
+msgid  "movearticle"
+msgstr  "Цle хийца хlокху агlон"
+
+msgid  "newtitle"
+msgstr  "Керла цlе"
+
+msgid  "move-watch"
+msgstr  "Латайé хlара агlо тергаме могlам юкъа"
+
+msgid  "movepagebtn"
+msgstr  "Агlон цlе хийца"
+
+msgid  "pagemovedsub"
+msgstr  "Агlон цlе хийцина"
+
+msgid  "movepage-moved"
+msgstr  "'''Агlон цlе «$1» хийцина хlокху «$2»'''"
+
+msgid  "articleexists"
+msgstr  "Хlарасанна цlе йолу агlо йолуш ю йа ахьа гойтуш йолу цlе магош яц.\nДехар до, харжа кхин цlе."
+
+msgid  "talkexists"
+msgstr  "'''Агlон цlе хийцина йара, амма дийцаре агlон цlе хийца цало, хlунда аьльча иза санна цlе йолу агlо йолуш ю. Дехар до, куьйга хlотта уьш.'''"
+
+msgid  "movedto"
+msgstr  "цlе хийцина оцу"
+
+msgid  "movetalk"
+msgstr  "Цуьнца йогlуш йолу дийцаре агlон цlе хийцар"
+
+msgid  "1movedto2"
+msgstr  "цlе хийцина «[[$1]]» оцу «[[$2]]»"
+
+msgid  "1movedto2_redir"
+msgstr  "«[[$1]]» цlе хийцина оцу «[[$2]]» дlасахьажоран тlохул"
+
+msgid  "movelogpage"
+msgstr  "Цlераш хийцаран тептар"
+
+msgid  "movereason"
+msgstr  "Бахьан:"
+
+msgid  "revertmove"
+msgstr  "йухаяккха"
+
+msgid  "delete_and_move"
+msgstr  "Цle а хуьйцуш дlадайá"
+
+msgid  "delete_and_move_confirm"
+msgstr  "Хlаъ, дlайайъа хlара агlо"
+
+msgid  "protectedpagemovewarning"
+msgstr  "'''Дlахьедар.''' Хlара агlо гlаролла йина йу; цlе хийца йа нисйа а бакъо йолуш адаманкуьйгалхой бе бац.\nЛахахьа тептаро балийна тlаьхьаралера дlаязбина хаам:"
+
+msgid  "semiprotectedpagemovewarning"
+msgstr  "'''Дlахьедо.''' Хlара агlо гlаролла йина йу; дlабазбиначу декъашхошка бе цlе хийцалуш яц.\nЛахахьа тептаро балийна тlаьхьаралера дlаязбина хаам:"
+
+msgid  "export"
+msgstr  "Яззамаш кхечу меттиган арадахар"
+
+msgid  "exporttext"
+msgstr  "Шуьга далур ду кхечу меттера чудахарш, йоза а хийцаме тептарш билгалла йолу агlонаш йа гулдина йолу агlонаш хlокх XML барамца, йуха тlяхьа чура [[Special:Import|хьаэцалурдолш]] кхечу вики-хьалхен, болх беш йолу хlокху MediaWiki гlирсаца.\n\nКхечу меттера яззамаш чуйаха, чуязйе цlе редокхчу метте, цlхьа могlан цlе могlаршкахь, йуха харжа лаьи шуна Кхечу меттер чуйаха массо яззамашна исторе хийцамбарш йа тlяхьаралера яззамна башхо.\n\nШуьга кхи даландерг, лелаеш йолу меттиг къастаман машан хьажориг кхечу меттер чудаха тlяхьарлера башхон яззамаш. Массала оцу яззамна [[{{MediaWiki:Mainpage}}]] хlара хира йу хьажориг [[{{#Special:Export}}/{{MediaWiki:Mainpage}}]]."
+
+msgid  "export-templates"
+msgstr  "Латадé куцкепаш"
+
+msgid  "allmessages"
+msgstr  "Гlирса хаамаш"
+
+msgid  "allmessagesname"
+msgstr  "Хаам"
+
+msgid  "allmessagesdefault"
+msgstr  "Шаьшха йоза"
+
+msgid  "allmessagescurrent"
+msgstr  "Карарчу хенан йоза"
+
+msgid  "allmessages-filter-legend"
+msgstr  "Литтар"
+
+msgid  "allmessages-filter"
+msgstr  "Литтар оцу хьола хийцамца:"
+
+msgid  "allmessages-filter-unmodified"
+msgstr  "Хийцан йоцурш"
+
+msgid  "allmessages-filter-all"
+msgstr  "Массо"
+
+msgid  "allmessages-filter-modified"
+msgstr  "Хийцнарш"
+
+msgid  "allmessages-prefix"
+msgstr  "Литтар оцу дешахьалхе:"
+
+msgid  "allmessages-language"
+msgstr  "Мотт:"
+
+msgid  "allmessages-filter-submit"
+msgstr  "Дехьа вала"
+
+msgid  "thumbnail-more"
+msgstr  "Доккха де"
+
+msgid  "import"
+msgstr  "Кхин яззам агlонаш чуяхар"
+
+msgid  "import-interwiki-source"
+msgstr  "Вики-хьост/агlо:"
+
+msgid  "import-interwiki-templates"
+msgstr  "Лата де массо куцкепаш"
+
+msgid  "import-upload-filename"
+msgstr  "Хlуман цlе:"
+
+msgid  "tooltip-pt-userpage"
+msgstr  "Декъашхочуьна агlо"
+
+msgid  "tooltip-pt-mytalk"
+msgstr  "Сан дийцаре агlо"
+
+msgid  "tooltip-pt-preferences"
+msgstr  "Хьан гlирс нисбар"
+
+msgid  "tooltip-pt-watchlist"
+msgstr  "Ахьа тергам бо агlонаши хийцаман могlам"
+
+msgid  "tooltip-pt-mycontris"
+msgstr  "Хьан нисдаран могlам"
+
+msgid  "tooltip-pt-login"
+msgstr  "Хlокху гlирса чохь дlавазвала мега, амма иза тlедожош дац."
+
+msgid  "tooltip-pt-logout"
+msgstr  "Дlадерзадо болх бар"
+
+msgid  "tooltip-ca-talk"
+msgstr  "Дийцаре агlон чулацам"
+
+msgid  "tooltip-ca-edit"
+msgstr  "Хlара агlо хийцалур ю. Лелайе, дехар до, хьалххьажар айхьа чутохале lалашан"
+
+msgid  "tooltip-ca-addsection"
+msgstr  "Кхолла керла дакъа"
+
+msgid  "tooltip-ca-viewsource"
+msgstr  "Хlара агlо хийцам цабайта гароллехь ю, хьоьга далундерг хьажар а дезахь чура йоза хьаэцар"
+
+msgid  "tooltip-ca-history"
+msgstr  "Хlокху агlон хийцамаш болу тептар"
+
+msgid  "tooltip-ca-protect"
+msgstr  "Гlаролла дé хlокху агlон хийцам цабайта"
+
+msgid  "tooltip-ca-unprotect"
+msgstr  "Дlадаккха хlокху агlонна долу гаролла"
+
+msgid  "tooltip-ca-delete"
+msgstr  "Дlайайá хlара агlо"
+
+msgid  "tooltip-ca-move"
+msgstr  "Агlон цlе хийца"
+
+msgid  "tooltip-ca-watch"
+msgstr  "Тlетоха хlара агlо сан тергаме могlам юкъа"
+
+msgid  "tooltip-ca-unwatch"
+msgstr  "Дlайаккха хlара агlо хьай тергаме могlам юкъар"
+
+msgid  "tooltip-search"
+msgstr  "Лаха иза дош"
+
+msgid  "tooltip-search-go"
+msgstr  "Билгала и санна цlе йолучу агlон чу дехьа вала"
+
+msgid  "tooltip-search-fulltext"
+msgstr  "Лаха агlонаш ше чулацамехь хlара йоза долуш"
+
+msgid  "tooltip-p-logo"
+msgstr  "Коьрта агIо"
+
+msgid  "tooltip-n-mainpage"
+msgstr  "Дехьавалар коьрта агlончу"
+
+msgid  "tooltip-n-mainpage-description"
+msgstr  "Дехьавалар коьрта агlончу"
+
+msgid  "tooltip-n-portal"
+msgstr  "Оцу кхолламах, мичахь хlу йу лаьташ а хlудалур ду шуьга"
+
+msgid  "tooltip-n-currentevents"
+msgstr  "Дlаоьхуш болу хаамашна могlам"
+
+msgid  "tooltip-n-recentchanges"
+msgstr  "Тlаьххьаралера хийцаман могlам"
+
+msgid  "tooltip-n-randompage"
+msgstr  "Хьажа цахууш нисйеллачу агlоне"
+
+msgid  "tooltip-n-help"
+msgstr  "Нисвохаамаш оцу кхолламца «{{SITENAME}}»"
+
+msgid  "tooltip-t-whatlinkshere"
+msgstr  "Массо агlон могlам, хlокху агlонтlе хьажийна йолу"
+
+msgid  "tooltip-t-recentchangeslinked"
+msgstr  "Тlаьхьарлера хийцамаш хlокху агlонашкахь, мичхьа хьажийна хlара агlо"
+
+msgid  "tooltip-feed-rss"
+msgstr  "Хьагайтар оцу RSS цани хlокху агlон"
+
+msgid  "tooltip-feed-atom"
+msgstr  "Хьагайтар оцу Atom цани хlокху агlон"
+
+msgid  "tooltip-t-contributions"
+msgstr  "Хlокху декъашхочо хийцина йолу агlонашан могlам"
+
+msgid  "tooltip-t-emailuser"
+msgstr  "Дlабахьийта хаам оцу декъашхона"
+
+msgid  "tooltip-t-upload"
+msgstr  "Чудаха суьрташ йа шагойтуш йолу хlумнаш"
+
+msgid  "tooltip-t-specialpages"
+msgstr  "Белха агlонаши могlам"
+
+msgid  "tooltip-t-print"
+msgstr  "Хlокху агlонна зорба туху башхо"
+
+msgid  "tooltip-t-permalink"
+msgstr  "Даимна йолу хьажориг хlокху башха агlонна"
+
+msgid  "tooltip-ca-nstab-main"
+msgstr  "Яззамна чулацам"
+
+msgid  "tooltip-ca-nstab-user"
+msgstr  "Хlора декъашхон долахь йолу агlо"
+
+msgid  "tooltip-ca-nstab-media"
+msgstr  "Медиа-хlум"
+
+msgid  "tooltip-ca-nstab-special"
+msgstr  "Хlара белха агlо йу, хlара рéдаккхалуш яц"
+
+msgid  "tooltip-ca-nstab-project"
+msgstr  "Кхолламан дакъа"
+
+msgid  "tooltip-ca-nstab-image"
+msgstr  "Хlуман агlо"
+
+msgid  "tooltip-ca-nstab-mediawiki"
+msgstr  "Хааман агlо MediaWiki"
+
+msgid  "tooltip-ca-nstab-template"
+msgstr  "Куцкепа агlо"
+
+msgid  "tooltip-ca-nstab-category"
+msgstr  "Кадегарши агlо"
+
+msgid  "tooltip-minoredit"
+msgstr  "Къастам бé хlокху хийцамна кlеззиг боуш санна"
+
+msgid  "tooltip-save"
+msgstr  "Хьан хийцамаш lалашбой"
+
+msgid  "tooltip-preview"
+msgstr  "Дехар до, агlо lалаш йарал хьалха хьажа муха йу яз!"
+
+msgid  "tooltip-diff"
+msgstr  "Гайта долуш долу йозанах бина болу хийцам."
+
+msgid  "tooltip-compareselectedversions"
+msgstr  "Хlокху шина хаьржина агlона башхо муха ю хьажа."
+
+msgid  "tooltip-watch"
+msgstr  "Тlетоха хlара агlо сан тергаме могlам юкъа"
+
+msgid  "tooltip-rollback"
+msgstr  "Цхьоз тlетаlийча дlабаккха кхечо бина болу тlаьххьара хийцам"
+
+msgid  "tooltip-undo"
+msgstr  "Дlабаккха бина болу хийцам а хьалхьажар гойтуш, дlайаккхарна бахьан гайта аьтту беш"
+
+msgid  "common.css"
+msgstr  "/** Чуйиллина йолу кхузе CSS хир йу лелош масхьа кечйечу чохь */"
+
+msgid  "monobook.css"
+msgstr  "/* Чуйиллина йолу кхузе CSS хир йу лелош масхьа Monobook чохь */"
+
+msgid  "print.css"
+msgstr  "/* Чуйиллина йолу кхузе CSS хир йу лелош масхьа зорба тухучуче чохь */"
+
+msgid  "handheld.css"
+msgstr  "/* Чуйиллина йолу кхузе CSS хир йу лелош масхьа койнаш чохь, дукхах ерг хатl нисдеш оцу $wgHandheldStyle */"
+
+msgid  "common.js"
+msgstr  "/* Чуйиллина йолу кхузе JavaScript ишар гучу ерайу массо декъашхошна оцара схьаелларца хlора агlо */"
+
+msgid  "monobook.js"
+msgstr  "/* Кхузе чу яззийна йолу JavaScript ишар, чу йера йу, массо MonoBook хатl лелош болу декъашхошна */"
+
+msgid  "siteuser"
+msgstr  "декъашхо {{grammar:genitive|{{SITENAME}}}} $1"
+
+msgid  "others"
+msgstr  "кхин"
+
+msgid  "siteusers"
+msgstr  "{{PLURAL:$2|декъашхо|декъашхой}} {{grammar:genitive|{{SITENAME}}}} $1"
+
+msgid  "nocredits"
+msgstr  "Бац декъашхойн могlам хlокху яззамца"
+
+msgid  "spamprotectiontitle"
+msgstr  "Совбиларна литтар"
+
+msgid  "numedits"
+msgstr  "Нисдарна терахь (яззам): $1"
+
+msgid  "numauthors"
+msgstr  "Тейп тайпан куьгдай (яззам): $1"
+
+msgid  "skinname-standard"
+msgstr  "Лела ма ярра"
+
+msgid  "previousdiff"
+msgstr  "← Хьалхдоьда нисдинарг"
+
+msgid  "nextdiff"
+msgstr  "Тlяхьа догlа нисдинарг →"
+
+msgid  "widthheightpage"
+msgstr  "$1 × $2, $3 {{PLURAL:$3|агlо|агlонаш|агlонаш}}"
+
+msgid  "file-info-size"
+msgstr  "$1 × $2 сиртакх, хlуман барам: $3, MIME-тайп: $4"
+
+msgid  "file-nohires"
+msgstr  "<small>Кхи йоккха гlоле башхо яц.</small>"
+
+msgid  "svg-long-desc"
+msgstr  "SVG-хlума, хlоттамца $1 × $2 цинташ, хlуман барам: $3"
+
+msgid  "show-big-image"
+msgstr  "Сурт цlанал лаккхара бакъонца"
+
+msgid  "show-big-image-thumb"
+msgstr  "<small>Хьажарна барам: $1 × $2 цинташ</small>"
+
+msgid  "newimages"
+msgstr  "Керлачу хlумни галеларе"
+
+msgid  "newimages-legend"
+msgstr  "Литтар"
+
+msgid  "ilsubmit"
+msgstr  "Лаха"
+
+msgid  "seconds-abbrev"
+msgstr  "оцу"
+
+msgid  "bad_image_list"
+msgstr  "Барам хила беза ишта:\n\nЛораш хира йу могlамяхь йолу хlумнаш (могlийн, йола луш йолу сабол тlира *).\nДуьхьаралера хьажориг магlарши хила беза хьажориг кху цамагдо сурт дуьлаче.\nТlяхьа йогlуш йолу хьажориг оцу могlарехь хира йу магóш, билгалла аьлча яззамаш долуче, сурт хьаллаточехь."
+
+msgid  "metadata"
+msgstr  "Метахаамаш"
+
+msgid  "metadata-help"
+msgstr  "Хlокху хlуманца кхин тlе хаам бу, даиман чуйоккхуш йолу терахьца чоьнашца йа тlейоккхучуьнца. Нагахь хlуман тlаьхьа хийцам биняхь, тlаккха цlхьаболу барам цlхьаьна ца ба мега хlинцлера суртаца."
+
+msgid  "metadata-expand"
+msgstr  "Гайта кхин тlе болу хаам"
+
+msgid  "metadata-collapse"
+msgstr  "Къайла баккха кхин тlе болу хаам"
+
+msgid  "metadata-fields"
+msgstr  "Метахааман майда, хьахийна йолу хlокху могlамца, lад-йитича гойтур ю суьрти агlонца, йисинарш хира ю къайлаха.\n* make\n* model\n* datetimeoriginal\n* exposuretime\n* fnumber\n* isospeedratings\n* focallength"
+
+msgid  "exif-datetime"
+msgstr  "Хlума хийцина терахь а хан"
+
+msgid  "exif-datetimeoriginal"
+msgstr  "Дуьххьарлера терахь а хан"
+
+msgid  "exif-cfapattern"
+msgstr  "Бос литтар тайт"
+
+msgid  "exif-scenetype-1"
+msgstr  "Сурт даьккхина нис дуьххьал"
+
+msgid  "edit-externally"
+msgstr  "Рéдаккха хlокху хlуман, арахьара диллагlарам лелош"
+
+msgid  "edit-externally-help"
+msgstr  "(мадарра хьажа. оцу [http://www.mediawiki.org/wiki/Manual:External_editors куьйгалийца дlахlотторе])"
+
+msgid  "recentchangesall"
+msgstr  "массо"
+
+msgid  "imagelistall"
+msgstr  "массо"
+
+msgid  "watchlistall2"
+msgstr  "массо"
+
+msgid  "namespacesall"
+msgstr  "массо"
+
+msgid  "monthsall"
+msgstr  "массо"
+
+msgid  "limitall"
+msgstr  "массо"
+
+msgid  "trackbackremove"
+msgstr  "([$1 дlадайá])"
+
+msgid  "confirmrecreate"
+msgstr  "Декъашхо [[User:$1|$1]] ([[User talk:$1|дийцаре]]) хlара агlо дlадайина, хьо иза нисда вола велча, дlадайарна бахьан:\n: ''$2''\nДехар до, тешал де, хьо иза агlо метта хlотто лууш ву але."
+
+msgid  "imgmultipageprev"
+msgstr  "← хьалхара агlо"
+
+msgid  "imgmultipagenext"
+msgstr  "тlаьхьара агlо →"
+
+msgid  "imgmultigo"
+msgstr  "Дехьавала!"
+
+msgid  "imgmultigoto"
+msgstr  "Дехьавала агlончу $1"
+
+msgid  "table_pager_next"
+msgstr  "Тlаьхьа йогlу агlо"
+
+msgid  "table_pager_prev"
+msgstr  "Хьалха йоьду агlо"
+
+msgid  "table_pager_first"
+msgstr  "Дуьххьаралера агlо"
+
+msgid  "table_pager_last"
+msgstr  "Тlаьххьаралера агlо"
+
+msgid  "table_pager_limit"
+msgstr  "Гайта $1 хlумнаш агlон тlаьхь"
+
+msgid  "table_pager_limit_submit"
+msgstr  "Кхочушдé"
+
+msgid  "table_pager_empty"
+msgstr  "Цакарийна"
+
+msgid  "autosumm-blank"
+msgstr  "Агlон чулацам дlабайина"
+
+msgid  "autosumm-new"
+msgstr  "Керла агlо: «$1»"
+
+msgid  "livepreview-loading"
+msgstr  "Чуйолуш…"
+
+msgid  "livepreview-ready"
+msgstr  "Чуйолуш… Кийча йу!"
+
+msgid  "watchlistedit-normal-submit"
+msgstr  "Дlадайá язъдинарш"
+
+msgid  "watchlisttools-view"
+msgstr  "Могlам чура агlонашан хийцамаш"
+
+msgid  "watchlisttools-edit"
+msgstr  "Хьажа/нисбé могlам"
+
+msgid  "watchlisttools-raw"
+msgstr  "Йоза санна нисдé"
+
+msgid  "version"
+msgstr  "Варси MediaWiki"
+
+msgid  "filepath"
+msgstr  "ХIуман тIе болу некъ"
+
+msgid  "filepath-page"
+msgstr  "Хlум:"
+
+msgid  "filepath-submit"
+msgstr  "Дехьавала"
+
+msgid  "fileduplicatesearch"
+msgstr  "Лаха цхьатера йолу хIумнаш"
+
+msgid  "fileduplicatesearch-submit"
+msgstr  "Лаха"
+
+msgid  "specialpages"
+msgstr  "Леррина агlонаш"
+
+msgid  "specialpages-note"
+msgstr  "----\n* Гуттарлера белха агlонаш.\n* <strong class=\"mw-specialpagerestricted\">Кlеззиг таронаш йолу леррина агlонаш.</strong>"
+
+msgid  "specialpages-group-maintenance"
+msgstr  "Жамlаш гlирса хьашташ кхочушдар"
+
+msgid  "specialpages-group-other"
+msgstr  "Кхин гlуллакхан агlонаш"
+
+msgid  "specialpages-group-login"
+msgstr  "Хьой вовзийта / Дlавазло"
+
+msgid  "specialpages-group-changes"
+msgstr  "Керла нисдарш а тéптарш"
+
+msgid  "specialpages-group-media"
+msgstr  "Жамlаш оцу медиа-гlирсашан а чуяхарш"
+
+msgid  "specialpages-group-users"
+msgstr  "Декъашхой а бакъонаш"
+
+msgid  "specialpages-group-highuse"
+msgstr  "Уггаре дукха лелайо агlонаш"
+
+msgid  "specialpages-group-pages"
+msgstr  "Агlонаши могlамаш"
+
+msgid  "specialpages-group-pagetools"
+msgstr  "Гlирсаш оцу агlонашан"
+
+msgid  "specialpages-group-wiki"
+msgstr  "Вики-баххаш а гlирсаш"
+
+msgid  "specialpages-group-redirects"
+msgstr  "Дlасахьажош йолу гlуллакхан агlонаш"
+
+msgid  "specialpages-group-spam"
+msgstr  "Гlирсаш совбиларна дуьхьал"
+
+msgid  "blankpage"
+msgstr  "Йаьсса агlо"
+
+msgid  "tags"
+msgstr  "Болш болу хийцаман къастам"
+
+msgid  "tag-filter"
+msgstr  "Литтар [[Special:Tags|къастам]]:"
+
+msgid  "tag-filter-submit"
+msgstr  "Литта"
+
+msgid  "tags-hitcount-header"
+msgstr  "Къастам бина нисдарш"
+
+msgid  "tags-edit"
+msgstr  "нисйé"
+
+msgid  "tags-hitcount"
+msgstr  "$1 {{PLURAL:$1|хийцам|хийцамаш|хийцамаш}}"
+
+msgid  "dberr-header"
+msgstr  "Хlара вики ловш йу халона бала"
+
+msgid  "dberr-problems"
+msgstr  "Бехк ма бил! Хlинц машан меттиган хилла гlирсаца халонаш."
+
+msgid  "dberr-again"
+msgstr  "Хьажа карла йаккха агlо массех минот йаьлча."
+
+msgid  "dberr-info"
+msgstr  "(аьтто ца хили зlе хlотта гlулкхдечуьнца бухара хаамашца: $1)"
+
+msgid  "dberr-usegoogle"
+msgstr  "Цlачун хьо хьажа лаха гlонца Google."
+
+msgid  "dberr-outofdate"
+msgstr  "Хьуна хаалахь, цуьна йолу меттиг хила мега тишйелла черахь."
+
+msgid  "wikimedialicensetexts-desc"
+msgstr  "Викимедиа бакъойаларна хаам"
+
+msgid  "#хан"
+msgstr  "#time"
+
+msgid  "#хийцарна"
+msgstr  "#replace"
+
+msgid  "#замена"
+msgstr  "#replace"
+

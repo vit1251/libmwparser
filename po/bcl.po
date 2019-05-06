@@ -1,0 +1,4638 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bcl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "BULANNGONYAN"
+msgstr "CURRENTMONTH2"
+
+msgid  "CURRENTMONTH"
+msgstr "CURRENTMONTH2"
+
+msgid  "NGARANBULANNGONYAN"
+msgstr "CURRENTMONTHNAME"
+
+msgid  "ALDAWNGONYAN"
+msgstr "CURRENTDAY"
+
+msgid  "TAONNGONYAN"
+msgstr "CURRENTYEAR"
+
+msgid  "PANAHONNGONYAN"
+msgstr "CURRENTTIME"
+
+msgid  "ORASNGONYAN"
+msgstr "CURRENTHOUR"
+
+msgid  "LOKALBULAN"
+msgstr "LOCALMONTH2"
+
+msgid  "LOCALMONTH"
+msgstr "LOCALMONTH2"
+
+msgid  "NGARANLOKALBULAN"
+msgstr "LOCALMONTHNAME"
+
+msgid  "LOKALALDAW"
+msgstr "LOCALDAY"
+
+msgid  "LOKALALDAW2"
+msgstr "LOCALDAY2"
+
+msgid  "NGARANLOKALALDAW"
+msgstr "LOCALDAYNAME"
+
+msgid  "LOKALTAON"
+msgstr "LOCALYEAR"
+
+msgid  "LOKALPANAHON"
+msgstr "LOCALTIME"
+
+msgid  "LOKALORAS"
+msgstr "LOCALHOUR"
+
+msgid  "NUMEROKANPAHINA"
+msgstr "NUMBEROFPAGES"
+
+msgid  "NUMEROKANARTIKULO"
+msgstr "NUMBEROFARTICLES"
+
+msgid  "NUMEROKANDOKUMENTO"
+msgstr "NUMBEROFFILES"
+
+msgid  "NUMEROKANPARAGAMIT"
+msgstr "NUMBEROFUSERS"
+
+msgid  "NUMEROKANLIGWAT"
+msgstr "NUMBEROFEDITS"
+
+msgid  "NGARANKANPAHINA"
+msgstr "PAGENAME"
+
+msgid  "KAGNGARANKANPAHINA"
+msgstr "PAGENAMEE"
+
+msgid  "NGARANESPASYO"
+msgstr "NAMESPACE"
+
+msgid  "KAGNGARANESPASYO"
+msgstr "NAMESPACEE"
+
+msgid  "OLAYESPASYO"
+msgstr "TALKSPACE"
+
+msgid  "KAGOLAYESPASYO"
+msgstr "TALKSPACEE"
+
+msgid  "TODONGNGARANKANPAHINA"
+msgstr "FULLPAGENAME"
+
+msgid  "KAGNGARANKANTODONGNGARANKANPAHINA"
+msgstr "FULLPAGENAMEE"
+
+msgid  "NGARANKANPAHINANINOLAY"
+msgstr "TALKPAGENAME"
+
+msgid  "KAGNGARANKANPAHINANINOLAY"
+msgstr "TALKPAGENAMEE"
+
+msgid  "MSH"
+msgstr "MSG:"
+
+msgid  "too"
+msgstr "right"
+
+msgid  "wala"
+msgstr "left"
+
+msgid  "mayò"
+msgstr "none"
+
+msgid  "sentro"
+msgstr "centre"
+
+msgid  "tangâ"
+msgstr "centre"
+
+msgid  "center"
+msgstr "centre"
+
+msgid  "nakakawadro"
+msgstr "frame"
+
+msgid  "kwadro"
+msgstr "frame"
+
+msgid  "framed"
+msgstr "frame"
+
+msgid  "enframed"
+msgstr "frame"
+
+msgid  "daing kwadro"
+msgstr "frameless"
+
+msgid  "pahina=$1"
+msgstr "page $1"
+
+msgid  "pahina $1"
+msgstr "page $1"
+
+msgid  "page=$1"
+msgstr "page $1"
+
+msgid  "LOKALURL"
+msgstr "LOCALURL:"
+
+msgid  "LOKALURLE"
+msgstr "LOCALURLE:"
+
+msgid  "SEMANANGONYAN"
+msgstr "CURRENTWEEK"
+
+msgid  "LOKALSEMANA"
+msgstr "LOCALWEEK"
+
+msgid  "DAKOL:"
+msgstr "PLURAL:"
+
+msgid  "TODONGURL:"
+msgstr "FULLURL:"
+
+msgid  "TODONGURLE:"
+msgstr "FULLURLE:"
+
+msgid  "#TATARAMON"
+msgstr "#LANGUAGE:"
+
+msgid  "TATARAMONKANLAOG"
+msgstr "CONTENTLANG"
+
+msgid  "TATARAMONLAOG"
+msgstr "CONTENTLANG"
+
+msgid  "CONTENTLANGUAGE"
+msgstr "CONTENTLANG"
+
+msgid  "NUMEROKANTAGAMATO"
+msgstr "NUMBEROFADMINS"
+
+msgid  "PADWALA"
+msgstr "PADLEFT"
+
+msgid  "PADTOO"
+msgstr "PADRIGHT"
+
+msgid  "FILEDALAN"
+msgstr "FILEPATH:"
+
+msgid  "__NAKATAGONGKAT__"
+msgstr "__HIDDENCAT__"
+
+msgid  "PAHINASAKATEGORYA"
+msgstr "PAGESINCAT"
+
+msgid  "PAHINASAKAT"
+msgstr "PAGESINCAT"
+
+msgid  "PAGESINCATEGORY"
+msgstr "PAGESINCAT"
+
+msgid  "PAHINASOKOL"
+msgstr "PAGESIZE"
+
+msgid  "tog-underline"
+msgstr  "Kurítan an mga takód:"
+
+msgid  "tog-highlightbroken"
+msgstr  "Pakarahayón an mga raot na takód <a href=\"\" klase=\"bàgo\">arog kaini</a> (panribay: arog kaini<a href=\"\" klase=\"panlaog\">?</a>)."
+
+msgid  "tog-justify"
+msgstr  "Pantayón an mga talodtód"
+
+msgid  "tog-hideminor"
+msgstr  "Tagóon an mga saradít na paghirá sa nakakaági pa sanáng pagbabàgó"
+
+msgid  "tog-extendwatchlist"
+msgstr  "Palakbangón an lista kan pigbabantayan tangarig mahiling an gabos na angay na pagbabàgo"
+
+msgid  "tog-usenewrc"
+msgstr  "Paorogón an kaaging pagbabàgo (JavaScript)"
+
+msgid  "tog-numberheadings"
+msgstr  "Tolos na pagbílang sa mga pamayohán"
+
+msgid  "tog-showtoolbar"
+msgstr  "Ipahilíng an toolbar nin paghirá (JavaScript)"
+
+msgid  "tog-editondblclick"
+msgstr  "Hirahón sa dobleng paglagatík an mga pahina (JavaScript)"
+
+msgid  "tog-editsection"
+msgstr  "Togótan an paghirá kan seksyon sa paági kan mga takód na [hirá]"
+
+msgid  "tog-editsectiononrightclick"
+msgstr  "Togotan an paghirá kan seksyon sa pag-lagatik sa walá sa mga titulo nin seksyon (JavaScript)"
+
+msgid  "tog-showtoc"
+msgstr  "Ipahilíng an indise kan mga laog (para sa mga pahinang igwang sobra sa 3 pamayohan)"
+
+msgid  "tog-rememberpassword"
+msgstr  "Giromdomón an mga paglaóg ko sa kompyuter na iní (for a maximum of $1 {{PLURAL:$1|day|days}})"
+
+msgid  "tog-watchcreations"
+msgstr  "Idúgang an mga pahinang ginigíbo ko sa pigbabantayan ko"
+
+msgid  "tog-watchdefault"
+msgstr  "Idúgang an mga pahinang pighíhirá ko sa pigbabantayan ko"
+
+msgid  "tog-watchmoves"
+msgstr  "Idúgang an mga pahinang piglilípat ko sa pigbabantayan ko"
+
+msgid  "tog-watchdeletion"
+msgstr  "Idúgang an mga pahinang pigpapárà ko sa pigbabantayan ko"
+
+msgid  "tog-minordefault"
+msgstr  "Markahán an gabos na paghirá nin sadit na paghirá"
+
+msgid  "tog-previewontop"
+msgstr  "Ipahilíng an patànaw bàgo an kahon nin paghirá"
+
+msgid  "tog-previewonfirst"
+msgstr  "Ipahilíng an patànaw sa enot na paghirá"
+
+msgid  "tog-nocache"
+msgstr  "Pogólon an pag-abang nin mga pahina"
+
+msgid  "tog-enotifwatchlistpages"
+msgstr  "E-koreohan ako pag pigribayan an pahinang pigbabantayan ko"
+
+msgid  "tog-enotifusertalkpages"
+msgstr  "E-koreohan ako pag pigribáyan an pahina kan sakóng olay"
+
+msgid  "tog-enotifminoredits"
+msgstr  "E-koreohan man giraray ako para sa saradit na paghirá kan mga pahina"
+
+msgid  "tog-enotifrevealaddr"
+msgstr  "Ibunyág an adres kan sakuyang e-koreo sa mga surat na pag-abiso"
+
+msgid  "tog-shownumberswatching"
+msgstr  "Ipahilíng an bilang kan nagbabantay na mga parágamit"
+
+msgid  "tog-fancysig"
+msgstr  "Mga bàgong pirma (mayò nin tolos na pantakod)"
+
+msgid  "tog-externaleditor"
+msgstr  "Gamíton mùna an panluwas na editor"
+
+msgid  "tog-externaldiff"
+msgstr  "Gamíton mùna an diff na panluwás"
+
+msgid  "tog-showjumplinks"
+msgstr  "Maka-\"luksó sa\" mga takód na pangabót"
+
+msgid  "tog-uselivepreview"
+msgstr  "Gamíton an patànaw na direkto (JavaScript) (Experimental)"
+
+msgid  "tog-forceeditsummary"
+msgstr  "Ipaarám sakuyà kun malaog sa sumáriong blanko nin paghirá"
+
+msgid  "tog-watchlisthideown"
+msgstr  "Tagoon an mga saradit na paghirá sa pigbabantayan"
+
+msgid  "tog-watchlisthidebots"
+msgstr  "Tagoon an mga paghirá kan bot sa pigbabantayan"
+
+msgid  "tog-watchlisthideminor"
+msgstr  "Tagoon an mga saradít na paghirá sa pigbabantayan"
+
+msgid  "tog-nolangconversion"
+msgstr  "Pogólon an pagríbay nin mga lain-lain"
+
+msgid  "tog-ccmeonemails"
+msgstr  "Padarahán ako nin mga kopya kan e-koreo na pigpadara ko sa ibang mga parágamit"
+
+msgid  "tog-diffonly"
+msgstr  "Dai ipahilíng an mga laog nin pahina sa babâ kan kaib"
+
+msgid  "tog-showhiddencats"
+msgstr  "Ipahiling an mga nakatagong kategorya"
+
+msgid  "underline-always"
+msgstr  "Pirmi"
+
+msgid  "underline-never"
+msgstr  "Nungka"
+
+msgid  "underline-default"
+msgstr  "Browser na normal"
+
+msgid  "sunday"
+msgstr  "Domingo"
+
+msgid  "monday"
+msgstr  "Lunes"
+
+msgid  "tuesday"
+msgstr  "Martes"
+
+msgid  "wednesday"
+msgstr  "Miyerkoles"
+
+msgid  "thursday"
+msgstr  "Huwebes"
+
+msgid  "friday"
+msgstr  "Biyernes"
+
+msgid  "saturday"
+msgstr  "Sabado"
+
+msgid  "sun"
+msgstr  "Dom"
+
+msgid  "mon"
+msgstr  "Lun"
+
+msgid  "tue"
+msgstr  "Mar"
+
+msgid  "wed"
+msgstr  "Miy"
+
+msgid  "thu"
+msgstr  "Huw"
+
+msgid  "fri"
+msgstr  "Biy"
+
+msgid  "sat"
+msgstr  "Sab"
+
+msgid  "january"
+msgstr  "Enero"
+
+msgid  "february"
+msgstr  "Pebrero"
+
+msgid  "march"
+msgstr  "Marso"
+
+msgid  "april"
+msgstr  "Abril"
+
+msgid  "may_long"
+msgstr  "Mayo"
+
+msgid  "june"
+msgstr  "Hunyo"
+
+msgid  "july"
+msgstr  "Hulyo"
+
+msgid  "august"
+msgstr  "Agosto"
+
+msgid  "september"
+msgstr  "Setiembre"
+
+msgid  "october"
+msgstr  "Oktobre"
+
+msgid  "november"
+msgstr  "Nobiembre"
+
+msgid  "december"
+msgstr  "Deciembre"
+
+msgid  "january-gen"
+msgstr  "Enero"
+
+msgid  "february-gen"
+msgstr  "Pebrero"
+
+msgid  "march-gen"
+msgstr  "Marso"
+
+msgid  "april-gen"
+msgstr  "Abril"
+
+msgid  "may-gen"
+msgstr  "Mayo"
+
+msgid  "june-gen"
+msgstr  "Hunyo"
+
+msgid  "july-gen"
+msgstr  "Hulyo"
+
+msgid  "august-gen"
+msgstr  "Agosto"
+
+msgid  "september-gen"
+msgstr  "Setiembre"
+
+msgid  "october-gen"
+msgstr  "Oktobre"
+
+msgid  "november-gen"
+msgstr  "Nobiembre"
+
+msgid  "december-gen"
+msgstr  "Deciembre"
+
+msgid  "jan"
+msgstr  "Ene"
+
+msgid  "feb"
+msgstr  "Peb"
+
+msgid  "mar"
+msgstr  "Mar"
+
+msgid  "apr"
+msgstr  "Abr"
+
+msgid  "may"
+msgstr  "May"
+
+msgid  "jun"
+msgstr  "Hun"
+
+msgid  "jul"
+msgstr  "Hul"
+
+msgid  "aug"
+msgstr  "Ago"
+
+msgid  "sep"
+msgstr  "Set"
+
+msgid  "oct"
+msgstr  "Okt"
+
+msgid  "nov"
+msgstr  "Nob"
+
+msgid  "dec"
+msgstr  "Dis"
+
+msgid  "pagecategories"
+msgstr  "{{PLURAL:$1|Kategorya|Mga kategorya}}"
+
+msgid  "category_header"
+msgstr  "Mga artikulo sa kategoryang \"$1\""
+
+msgid  "subcategories"
+msgstr  "Mga sub-kategorya"
+
+msgid  "category-media-header"
+msgstr  "Media sa kategoryang \"$1\""
+
+msgid  "category-empty"
+msgstr  "''Mayò nin laog an kategoryang ini sa ngonyan.''"
+
+msgid  "hidden-categories"
+msgstr  "{{PLURAL:$1|Nakatagong kategorya|Mga nakatagong kategorya}}"
+
+msgid  "hidden-category-category"
+msgstr  "Mga nakatagong kategorya"
+
+msgid  "category-subcat-count-limited"
+msgstr  "Igwa nin {{PLURAL:$1|sub-kategorya|$1 mga sub-kategorya}} an artikulong ini."
+
+msgid  "category-article-count"
+msgstr  "{{PLURAL:$2|An mga minasunod na pahina sana an laog kan kategoryang ini|An mga minasunod na {{PLURAL:$1|pahina|$1 pahina}} an yaon sa kategoryang ini, sa $2 gabos.}}"
+
+msgid  "category-article-count-limited"
+msgstr  "Yaon sa presenteng kategorya an mga minasunod na {{PLURAL:$1|pahina|$1 pahina}}."
+
+msgid  "listingcontinuesabbrev"
+msgstr  "sunód"
+
+msgid  "mainpagetext"
+msgstr  "'''Instalado na an MediaWiki.'''"
+
+msgid  "mainpagedocfooter"
+msgstr  "Konsultarón tabì an [http://meta.wikimedia.org/wiki/Help:Contents User's Guide] para sa impormasyon sa paggamit nin progama kaining wiki.\n\n== Pagpopoon ==\n\n* [http://www.mediawiki.org/wiki/Manual:Configuration_settings Configuration settings list]\n* [http://www.mediawiki.org/wiki/Manual:FAQ MediaWiki FAQ]\n* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki release mailing list]"
+
+msgid  "about"
+msgstr  "Manonongod"
+
+msgid  "article"
+msgstr  "Laog na pahina"
+
+msgid  "newwindow"
+msgstr  "(minabukas sa bàgong bintanà)"
+
+msgid  "cancel"
+msgstr  "Pondohón"
+
+msgid  "moredotdotdot"
+msgstr  "Dakol pa..."
+
+msgid  "mypage"
+msgstr  "An sakóng pahina"
+
+msgid  "mytalk"
+msgstr  "An sakóng olay"
+
+msgid  "anontalk"
+msgstr  "Olay para sa IP na ini"
+
+msgid  "navigation"
+msgstr  "Nabigasyon"
+
+msgid  "and"
+msgstr  "&#32;asin"
+
+msgid  "qbfind"
+msgstr  "Hanápon"
+
+msgid  "qbbrowse"
+msgstr  "Maghalungkát"
+
+msgid  "qbedit"
+msgstr  "Hirahón"
+
+msgid  "qbpageoptions"
+msgstr  "Ining pahina"
+
+msgid  "qbpageinfo"
+msgstr  "Konteksto"
+
+msgid  "qbmyoptions"
+msgstr  "Mga pahina ko"
+
+msgid  "qbspecialpages"
+msgstr  "Espesyal na mga pahina"
+
+msgid  "faq"
+msgstr  "HD"
+
+msgid  "faqpage"
+msgstr  "Project:HD"
+
+msgid  "vector-action-delete"
+msgstr  "paráon"
+
+msgid  "vector-action-move"
+msgstr  "Ibalyó"
+
+msgid  "vector-view-create"
+msgstr  "Maggíbo"
+
+msgid  "vector-view-edit"
+msgstr  "Liwatón"
+
+msgid  "vector-view-view"
+msgstr  "Basáhon"
+
+msgid  "errorpagetitle"
+msgstr  "Salâ"
+
+msgid  "returnto"
+msgstr  "Magbwelta sa $1."
+
+msgid  "tagline"
+msgstr  "Halì sa {{SITENAME}}"
+
+msgid  "help"
+msgstr  "Tabang"
+
+msgid  "search"
+msgstr  "Hanápon"
+
+msgid  "searchbutton"
+msgstr  "Hanápon"
+
+msgid  "go"
+msgstr  "Dumanán"
+
+msgid  "searcharticle"
+msgstr  "Dumanán"
+
+msgid  "history"
+msgstr  "Uusipón nin pahina"
+
+msgid  "history_short"
+msgstr  "Uusipón"
+
+msgid  "updatedmarker"
+msgstr  "nabàgo poon kan huri kong pagdalaw"
+
+msgid  "info_short"
+msgstr  "Impormasyon"
+
+msgid  "printableversion"
+msgstr  "Naipiprentang bersyon"
+
+msgid  "permalink"
+msgstr  "Permanenteng takod"
+
+msgid  "print"
+msgstr  "Iprenta"
+
+msgid  "edit"
+msgstr  "Liwatón"
+
+msgid  "create"
+msgstr  "Maggibo"
+
+msgid  "editthispage"
+msgstr  "Hirahón ining pahina"
+
+msgid  "create-this-page"
+msgstr  "Gibohon ining pahina"
+
+msgid  "delete"
+msgstr  "Paraon"
+
+msgid  "deletethispage"
+msgstr  "Paraon ining pahina"
+
+msgid  "undelete_short"
+msgstr  "Bawion an pagparà {{PLURAL:$1|paghirá|$1 mga paghirá}}"
+
+msgid  "protect"
+msgstr  "Protehiran"
+
+msgid  "protect_change"
+msgstr  "ribáyan an proteksyon"
+
+msgid  "protectthispage"
+msgstr  "Protehiran ining pahina"
+
+msgid  "unprotect"
+msgstr  "bawion an pagprotehir"
+
+msgid  "unprotectthispage"
+msgstr  "Bawion an proteksyon kaining pahina"
+
+msgid  "newpage"
+msgstr  "Bàgong pahina"
+
+msgid  "talkpage"
+msgstr  "Pag-olayan ining pahina"
+
+msgid  "talkpagelinktext"
+msgstr  "Pag-olayán"
+
+msgid  "specialpage"
+msgstr  "Espesyal na Pahina"
+
+msgid  "personaltools"
+msgstr  "Mga gamit na personal"
+
+msgid  "postcomment"
+msgstr  "Magkomento"
+
+msgid  "articlepage"
+msgstr  "Hilingón an pahina kan laog"
+
+msgid  "talk"
+msgstr  "Orólay"
+
+msgid  "views"
+msgstr  "Mga hilíng"
+
+msgid  "toolbox"
+msgstr  "Kagamitan"
+
+msgid  "userpage"
+msgstr  "Hilingón an pahina kan parágamit"
+
+msgid  "projectpage"
+msgstr  "Hilingón an pahina kan proyekto"
+
+msgid  "imagepage"
+msgstr  "Hilingón an pahina kan ladawan"
+
+msgid  "mediawikipage"
+msgstr  "Hilingón an pahina kan mensahe"
+
+msgid  "templatepage"
+msgstr  "Hilingón an pahina kan templato"
+
+msgid  "viewhelppage"
+msgstr  "Hilingón an pahina kan tabang"
+
+msgid  "categorypage"
+msgstr  "Hilingón an pahina kan kategorya"
+
+msgid  "viewtalkpage"
+msgstr  "Hilingón an orólay"
+
+msgid  "otherlanguages"
+msgstr  "Sa ibang mga tataramon"
+
+msgid  "redirectedfrom"
+msgstr  "(Piglikay halì sa $1)"
+
+msgid  "redirectpagesub"
+msgstr  "Ilikáy an pahina"
+
+msgid  "lastmodifiedat"
+msgstr  "Huring pigmodipikar an pahinang ini $2 kan $1."
+
+msgid  "viewcount"
+msgstr  "Binukasán ining pahina nin {{PLURAL:$1|sarong beses|nin $1 beses}}."
+
+msgid  "protectedpage"
+msgstr  "Protektadong pahina"
+
+msgid  "jumpto"
+msgstr  "Maglukso sa:"
+
+msgid  "jumptonavigation"
+msgstr  "nabigasyon"
+
+msgid  "jumptosearch"
+msgstr  "hanápon"
+
+msgid  "aboutsite"
+msgstr  "Manonongod sa {{SITENAME}}"
+
+msgid  "aboutpage"
+msgstr  "Project:Manonongod"
+
+msgid  "copyright"
+msgstr  "Makukua an laog sa $1."
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:Mga derechos nin parásurat"
+
+msgid  "currentevents"
+msgstr  "Mga panyayari sa ngonyan"
+
+msgid  "currentevents-url"
+msgstr  "Project:Mga panyayari sa ngonyan"
+
+msgid  "disclaimers"
+msgstr  "Mga renunsya"
+
+msgid  "disclaimerpage"
+msgstr  "Project:Heneral na renunsya"
+
+msgid  "edithelp"
+msgstr  "Paghirá kan pagtabang"
+
+msgid  "edithelppage"
+msgstr  "Help:Pagliwat"
+
+msgid  "helppage"
+msgstr  "Help:Mga laog"
+
+msgid  "mainpage"
+msgstr  "Pangenot na Pahina"
+
+msgid  "mainpage-description"
+msgstr  "Pangenot na Pahina"
+
+msgid  "policy-url"
+msgstr  "Project:Palakáw"
+
+msgid  "portal"
+msgstr  "Portal kan komunidad"
+
+msgid  "portal-url"
+msgstr  "Project:Portal kan Komunidad"
+
+msgid  "privacy"
+msgstr  "Palakaw nin pribasidad"
+
+msgid  "privacypage"
+msgstr  "Project:Palakaw nin pribasidad"
+
+msgid  "badaccess"
+msgstr  "Salang permiso"
+
+msgid  "badaccess-group0"
+msgstr  "Dai ka tinotogotan na gibohon an aksyon na saimong hinahagad."
+
+msgid  "badaccess-groups"
+msgstr  "An aksyon na saimong hinahagad limitado sa mga parágamit sa sarô sa mga grupong $1."
+
+msgid  "versionrequired"
+msgstr  "Kaipuhan an bersyon $1 kan MediaWiki"
+
+msgid  "versionrequiredtext"
+msgstr  "Kaipuhan an bersyon $1 kan MediaWiki sa paggamit kan pahinang ini. Hilíngón an [[Special:Version|Bersyon kan pahina]]."
+
+msgid  "ok"
+msgstr  "Sige"
+
+msgid  "retrievedfrom"
+msgstr  "Pigkua sa \"$1\""
+
+msgid  "youhavenewmessages"
+msgstr  "Igwa ka nin $1 ($2)."
+
+msgid  "newmessageslink"
+msgstr  "mga bàgong mensahe"
+
+msgid  "newmessagesdifflink"
+msgstr  "huring pagbàgo"
+
+msgid  "youhavenewmessagesmulti"
+msgstr  "Igwa ka nin mga bàgong mensahe sa $1"
+
+msgid  "editsection"
+msgstr  "liwatón"
+
+msgid  "editold"
+msgstr  "Liwatón"
+
+msgid  "viewsourceold"
+msgstr  "hilingón an ginikánan"
+
+msgid  "editlink"
+msgstr  "liwatón"
+
+msgid  "viewsourcelink"
+msgstr  "hilingón an toltolan"
+
+msgid  "editsectionhint"
+msgstr  "Liwatón an seksyon: $1"
+
+msgid  "toc"
+msgstr  "Mga laog"
+
+msgid  "showtoc"
+msgstr  "ipahilíng"
+
+msgid  "hidetoc"
+msgstr  "tagóon"
+
+msgid  "thisisdeleted"
+msgstr  "Hilingón o isulít an $1?"
+
+msgid  "viewdeleted"
+msgstr  "Hilingón an $1?"
+
+msgid  "restorelink"
+msgstr  "{{PLURAL:$1|sarong pinarang paghirá|$1 na pinarang paghirá}}"
+
+msgid  "feedlinks"
+msgstr  "Hungit:"
+
+msgid  "feed-invalid"
+msgstr  "Bawal na tipo nin hungit na subkripsyon."
+
+msgid  "feed-unavailable"
+msgstr  "Mayò an mga sindikasyon na hungit"
+
+msgid  "site-rss-feed"
+msgstr  "$1 Hungit nin RSS"
+
+msgid  "site-atom-feed"
+msgstr  "$1 Hungit nin Atomo"
+
+msgid  "page-rss-feed"
+msgstr  "\"$1\" Hungit na RSS"
+
+msgid  "page-atom-feed"
+msgstr  "\"$1\" Hungit na Atomo"
+
+msgid  "feed-atom"
+msgstr  "Atomo"
+
+msgid  "red-link-title"
+msgstr  "$1 (dai pa naisusurat)"
+
+msgid  "nstab-main"
+msgstr  "Pahina"
+
+msgid  "nstab-user"
+msgstr  "Pahina nin paragamit"
+
+msgid  "nstab-media"
+msgstr  "Pahina kan media"
+
+msgid  "nstab-special"
+msgstr  "Espesyal"
+
+msgid  "nstab-project"
+msgstr  "Pahina kan proyekto"
+
+msgid  "nstab-image"
+msgstr  "File"
+
+msgid  "nstab-mediawiki"
+msgstr  "Mensahe"
+
+msgid  "nstab-template"
+msgstr  "Templato"
+
+msgid  "nstab-help"
+msgstr  "Pahina kan tabang"
+
+msgid  "nstab-category"
+msgstr  "Kategorya"
+
+msgid  "nosuchaction"
+msgstr  "Mayong siring na aksyon"
+
+msgid  "nosuchactiontext"
+msgstr  "An gibo na pinílì nin URL dai bisto kan wiki"
+
+msgid  "nosuchspecialpage"
+msgstr  "Mayong siring na espesyal na páhina"
+
+msgid  "nospecialpagetext"
+msgstr  "<strong>Dai pwede an pahinang espesyal na pinilî mo.</strong>\n\nPwede mong mahiling an lista nin mga marhay na pahina sa [[Special:SpecialPages|{{int:specialpages}}]]."
+
+msgid  "error"
+msgstr  "Salâ"
+
+msgid  "databaseerror"
+msgstr  "Salâ sa base nin datos"
+
+msgid  "dberrortext"
+msgstr  "May salâ sa hapot na sintaksis kan base nin datos.\nPwedeng may salâ digdi.\nAn huring probar na hapót iyo:\n<blockquote><tt>$1</tt></blockquote>\nhale sa aksyón \"<tt>$2</tt>\".\nAnSQL ko nagbalik nin salâ na\"<tt>$3: $4</tt>\"."
+
+msgid  "dberrortextcl"
+msgstr  "May salâ sa hapót nin sintaksis kan base nin datos.\nIni an huring probar na hapót:\n\"$1\"\nsa aksyón na \"$2\".\nAnSQL ko nagbalik nin salâ na\"$3: $4\""
+
+msgid  "laggedslavemode"
+msgstr  "Patanid: An pahina pwedeng dai nin pagbabâgo sa ngonyan."
+
+msgid  "readonly"
+msgstr  "Kandado an base nin datos"
+
+msgid  "enterlockreason"
+msgstr  "Magkaag tabì nin rason sa pagkandado, asin ikalkulo kun nuarin bubukasón an kandado"
+
+msgid  "readonlytext"
+msgstr  "Sarado mùna an base nin datos sa mga bàgong entrada asin iba pang mga pagribay, pwede gayod sa rutinang pagmantenir kan base nin datos, despues, mabalik na ini sa normal.\n\nIni an eksplikasyon kan tagamató na nagkandado kaini: $1"
+
+msgid  "missingarticle-rev"
+msgstr  "(pagbàgo#: $1)"
+
+msgid  "missingarticle-diff"
+msgstr  "(Kaibhán: $1, $2)"
+
+msgid  "readonly_lag"
+msgstr  "Enseguidang nakandado an base nin datos mientras makaabot an base nin datos na esklabo saiyang amo."
+
+msgid  "internalerror"
+msgstr  "Panlaog na salâ"
+
+msgid  "internalerror_info"
+msgstr  "Panlaog na salâ: $1"
+
+msgid  "filecopyerror"
+msgstr  "Dai naarog an mga file na \"$1\" hasta \"$2\"."
+
+msgid  "filerenameerror"
+msgstr  "Dai natàwan nin bàgong ngaran an file na \"$1\" sa \"$2\"."
+
+msgid  "filedeleteerror"
+msgstr  "Dai naparà an file na \"$1\"."
+
+msgid  "directorycreateerror"
+msgstr  "Dai nagibo an direktorya na \"$1\"."
+
+msgid  "filenotfound"
+msgstr  "Dai nahanap an file na \"$1\"."
+
+msgid  "fileexistserror"
+msgstr  "Dai maisurat sa file na \"$1\": igwa nang file na arog kaini"
+
+msgid  "unexpected"
+msgstr  "Dai pighuhunà na balór: \"$1\"=\"$2\"."
+
+msgid  "formerror"
+msgstr  "Salâ: dai pwedeng isumitir an porma"
+
+msgid  "badarticleerror"
+msgstr  "Dai pwedeng gibohon ini sa ining páhina."
+
+msgid  "cannotdelete"
+msgstr  "Dai naparà an pahina o file na napilî. (Pwede na naparà na ini kan ibang paragamit.)"
+
+msgid  "badtitle"
+msgstr  "Salâ an titulo"
+
+msgid  "badtitletext"
+msgstr  "Dai pwede an hinagad na titulo nin pahina, o mayong laog, o sarong titulong pan-ibang tatarámon o pan-ibang wiki na sala an pagkatakód. Pwedengigwa ining sarô o iba pang mga karakter na dai pwedeng gamiton sa mga titulo."
+
+msgid  "perfcached"
+msgstr  "Nakaabang an minasunod na mga datos, asin pwede ser na mga lumâ na."
+
+msgid  "perfcachedts"
+msgstr  "Nakaabang an nagsusunod na mga datos, asin huring nabâgo sa $1."
+
+msgid  "querypage-no-updates"
+msgstr  "Pigpopogol mùna an mga pagbabàgo sa pahinang ini. Dai mùna mababàgo an mga datos digdi."
+
+msgid  "wrong_wfQuery_params"
+msgstr  "Salâ na parámetro sa wfQuery()<br />\nAcción: $1<br />\nHapót: $2"
+
+msgid  "viewsource"
+msgstr  "Hilingón an ginikanan"
+
+msgid  "viewsourcefor"
+msgstr  "para sa $1"
+
+msgid  "protectedpagetext"
+msgstr  "An pahinang ini pigsará tangarig pogolon an paghirá."
+
+msgid  "viewsourcetext"
+msgstr  "Pwede mong hilingón asin arógon an ginikanan kan pahinang ini:"
+
+msgid  "protectedinterface"
+msgstr  "An pahinang ini nagtatao nin interface para sa software, asin sarado tangarig mapondo an pag-abuso."
+
+msgid  "editinginterface"
+msgstr  "'''Patanid:''' An pighihira mong pahina piggagamit para sa tekstong interface kan software. An mga pagbabàgo sa pahinang ini makakaapektar sa hitsura kan interface nin parágamit kan mga ibang parágamit."
+
+msgid  "sqlhidden"
+msgstr  "(nakatagô an hapót nin SQL)"
+
+msgid  "cascadeprotected"
+msgstr  "Pinoprotehirán ining páhina sa mga paghirá, ta sarô ini sa mga minasunod na {{PLURAL:$1|páhina|mga páhina}} na pinoprotehiran kan opsyón na \"katarata\" na nakabuká:\n$2"
+
+msgid  "namespaceprotected"
+msgstr  "Mayô kang permisong maghirá kan mga páhina sa '''$1''' ngaran-espacio."
+
+msgid  "customcssjsprotected"
+msgstr  "Mayô kang permiso na maghirâ kaining páhina, hulî ta igwa ining mga puesta na personal kan ibang paragamit."
+
+msgid  "ns-specialprotected"
+msgstr  "An mga páhinang nasa {{ns:special}} na ngaran-espacio dai pwedeng hirahón."
+
+msgid  "virus-badscanner"
+msgstr  "Saláng konfigurasyon: dai aram an virus scanner: ''$1''"
+
+msgid  "virus-unknownscanner"
+msgstr  "dai aram an antivirus:"
+
+msgid  "logouttext"
+msgstr  "'''Nakaluwas ka na.'''\n\nPwede mo pang gamiton an {{SITENAME}} na dai nagpapabisto, o pwede ka giraray lumaog\nbilang pareho o ibang parágamit. Giromdomon tabî na an ibang mga páhina pwedeng mahiling pa na garo nakalaog ka pa, hasta limpyarón mo an abang kan ''browser'' mo."
+
+msgid  "welcomecreation"
+msgstr  "== Maogmang Pagdagos, $1! ==\n\nNagibo na an ''account'' mo. Giromdomon tabi na ribayán an saimong mga kabôtan sa {{SITENAME}}."
+
+msgid  "yourname"
+msgstr  "Pangaran kan paragamit:"
+
+msgid  "yourpassword"
+msgstr  "Sekretong panlaog:"
+
+msgid  "yourpasswordagain"
+msgstr  "Itaták giraray an sekretong panlaog:"
+
+msgid  "remembermypassword"
+msgstr  "Giromdomon an paglaog ko sa kompyuter na ini(for a maximum of $1 {{PLURAL:$1|day|days}})"
+
+msgid  "yourdomainname"
+msgstr  "An saimong ''domain'':"
+
+msgid  "externaldberror"
+msgstr  "Igwang nin salang panluwas pantunay kan base nin datos o dai ka pigtotogotan na bâgohon an saimong panluwas na ''account''."
+
+msgid  "login"
+msgstr  "Maglaog"
+
+msgid  "nav-login-createaccount"
+msgstr  "Maglaog / maggibo nin account"
+
+msgid  "loginprompt"
+msgstr  "Kaipuhan may cookies ka para makalaog sa {{SITENAME}}."
+
+msgid  "userlogin"
+msgstr  "Maglaog / maggibo nin account"
+
+msgid  "logout"
+msgstr  "Magluwas"
+
+msgid  "userlogout"
+msgstr  "Magluwás"
+
+msgid  "notloggedin"
+msgstr  "Mayò sa laog"
+
+msgid  "nologin"
+msgstr  "Igwa ka nin entrada? '''$1'''."
+
+msgid  "nologinlink"
+msgstr  "Maggibo nin account"
+
+msgid  "createaccount"
+msgstr  "Maggibo nin account"
+
+msgid  "gotaccount"
+msgstr  "Igwa ka na nin account? '''$1'''."
+
+msgid  "gotaccountlink"
+msgstr  "Maglaog"
+
+msgid  "createaccountmail"
+msgstr  "sa e-koreo"
+
+msgid  "badretype"
+msgstr  "Dai parehas an pigtaták mong mga sekretong panlaog."
+
+msgid  "userexists"
+msgstr  "Piggagamit na kan iba an pangaran. Magpili tabî nin iba."
+
+msgid  "loginerror"
+msgstr  "Salâ an paglaog"
+
+msgid  "createaccounterror"
+msgstr  "Daí maggíbo an account: $1."
+
+msgid  "nocookiesnew"
+msgstr  "Nagibo na an account kan parágamit, alagad dai ka pa nakalaog. Naggagamit nin cookies an {{SITENAME}} para magpalaog sa mga parágamit. Nakapondo an cookies mo. Paandaron tabì ini, dangan, maglaog gamit an bàgo mong pangaran asin sekretong panlaog."
+
+msgid  "nocookieslogin"
+msgstr  "Naggagamit nin mga cookies an {{SITENAME}} para magpalaog nin mga paragamit. Nakapondo an mga cookies mo. Paandaron tabi ini asin probaran giraray."
+
+msgid  "noname"
+msgstr  "Dai ka pa nagkaag nin pwedeng gamiton na pangaran."
+
+msgid  "loginsuccesstitle"
+msgstr  "Matriumpo an paglaog"
+
+msgid  "loginsuccess"
+msgstr  "'''Nakalaog ka na sa {{SITENAME}} \"$1\".'''"
+
+msgid  "nosuchuser"
+msgstr  "Mayong paragamit sa pangaran na \"$1\". Reparohon an pigsurat mo, o maggibo nin bàgong account."
+
+msgid  "nosuchusershort"
+msgstr  "Mayong paragamit sa nagngangaran na \"<nowiki>$1</nowiki>\". Reparohon an pigsurat mo."
+
+msgid  "nouserspecified"
+msgstr  "Kaipuhan mong kaagan nin pangaran."
+
+msgid  "wrongpassword"
+msgstr  "Salâ an pigtaták na sekretong panlaog. Probaran giraray tabì."
+
+msgid  "wrongpasswordempty"
+msgstr  "Mayong pigkaag na sekretong panlaog. Probaran giraray tabì."
+
+msgid  "passwordtooshort"
+msgstr  "Salâ o halìpoton an saimong sekretong panlaog. Igwa dapat ining dai mababà sa {{PLURAL:$1|1 karakter|$1 karakter}} asin iba man sa pinilì mong pangaran."
+
+msgid  "mailmypassword"
+msgstr  "Ipadara sa e-koreo an sekretong panlaog"
+
+msgid  "passwordremindertitle"
+msgstr  "Panpaísi nin sekretong panlaog halì sa {{SITENAME}}"
+
+msgid  "passwordremindertext"
+msgstr  "Sarong paragamit (pwedeng ika, halì sa IP na $1)\nan naghagad nin bàgong sekretong panlaog para sa {{SITENAME}} ($4).\n\"$3\" na an bàgong sekretong panlaog ni \"$2\".\nKaipuhan maglaog ka asin ibalyó an saimong sekretong panlaog.\n\nKun ibang tawo an naghagad kaini o kun nagiromdóman mo na an saimong sekretong panlaog asin habô mo nang ribayan ini, dai mo na pagintiendehon ining mensahe. Ipadagos na an paggamit kan dating sekretong panlaog."
+
+msgid  "noemail"
+msgstr  "Mayong e-koreo na nakarehistro sa parágamit na \"$1\"."
+
+msgid  "passwordsent"
+msgstr  "Igwang bàgong sekretong panlaog na pigpadará sa e-koreong nakarehistro ki \"$1\".\nMaglaog tabì giraray pagnakua mo na ini."
+
+msgid  "blocked-mailpassword"
+msgstr  "Pigbagatan sa paghirá an saimong IP, asin pigpopogolan na magamit an pagbawi kan sekretong panlaog tangarig maibitaran an pagabuso."
+
+msgid  "eauthentsent"
+msgstr  "May ipinadarang e-koreong kompirmasyon sa piniling adres nin e-koreo.\nBàgo pa magpadara nin iba pang e-koreo sa account na ini, kaipuhan tabing sunodon an mga instruksyon na nasa e-koreo, tangarig makompirmar na talagang saimo ining account."
+
+msgid  "throttled-mailpassword"
+msgstr  "May pinadara nang paisi nin sekretong panlaog, sa huring\n$1 na oras. Para pogolan an mga pagabuso, sarong paisi sana an ipapadara sa laog nin\n$1 na oras."
+
+msgid  "mailerror"
+msgstr  "Salâ an pagpadará nin e-koreo: $1"
+
+msgid  "acct_creation_throttle_hit"
+msgstr  "Pasensya, nakagibo ka na nin $1 accounts. Dai ka na makakagibo pa."
+
+msgid  "emailauthenticated"
+msgstr  "An saimong ''e''-surat pinatunayan sa $1."
+
+msgid  "emailnotauthenticated"
+msgstr  "Dai pa napatunayan an saimong ''e''-surat. Mayong ipapadarang ''e''-surat para sa ano man na minasunod na gamit."
+
+msgid  "noemailprefs"
+msgstr  "Magpilî tabî nin ''e''-surat tangarig magandar ining mga gamit."
+
+msgid  "emailconfirmlink"
+msgstr  "Kompirmaron tabî an saimong ''e''-surat"
+
+msgid  "invalidemailaddress"
+msgstr  "Dai matogotan ining ''e''-surat ta garo salâ an ''format'' kaini. Magkaag tabî nin tamâ o dai pagkaagan."
+
+msgid  "accountcreated"
+msgstr  "Nagibo na an ''account''."
+
+msgid  "accountcreatedtext"
+msgstr  "Ginibo na an ''account'' para ki $1."
+
+msgid  "loginlanguagelabel"
+msgstr  "Tataramon: $1"
+
+msgid  "resetpass"
+msgstr  "Ipwesto giraray an sekretong panlaog kan ''account''"
+
+msgid  "resetpass_announce"
+msgstr  "Nakalaog ka na may kodang temporaryong ''e''-sinurat. Para matapos an paglaog, kaipuhan mong magpwesto nin bâgong sekretong panlaog digdi:"
+
+msgid  "resetpass_text"
+msgstr  "<!-- Magdugang nin teksto digdi -->"
+
+msgid  "resetpass_header"
+msgstr  "Ibalyó an sekretong panlaog"
+
+msgid  "oldpassword"
+msgstr  "Lumang sekretong panlaog:"
+
+msgid  "newpassword"
+msgstr  "Bàgong sekretong panlaog:"
+
+msgid  "retypenew"
+msgstr  "Itaták giraray an bàgong panlaog:"
+
+msgid  "resetpass_submit"
+msgstr  "Ipwesto an sekretong panlaog dangan maglaog"
+
+msgid  "resetpass_success"
+msgstr  "Naribayan na an saimong sekretong panlaog! Pigpapadagos ka na..."
+
+msgid  "resetpass_forbidden"
+msgstr  "Dai pwedeng ribayan an mga sekretong panlaog sa ining wiki"
+
+msgid  "resetpass-submit-loggedin"
+msgstr  "Ribayan an sekretong panlaog"
+
+msgid  "resetpass-wrong-oldpass"
+msgstr  "Saláng temporaryo o presenteng sekretong panlaog.\nMatriumpo mo nang nailaog an sekretong panlaog o nakua an bàgong temporaryong sekretong panlaog."
+
+msgid  "resetpass-temp-password"
+msgstr  "Temporaryong sekretong panlaog:"
+
+msgid  "bold_sample"
+msgstr  "Tekstong mahìbog"
+
+msgid  "bold_tip"
+msgstr  "Mahîbog na teksto"
+
+msgid  "italic_sample"
+msgstr  "Tekstong Itáliko"
+
+msgid  "italic_tip"
+msgstr  "Tekstong patagilíd"
+
+msgid  "link_sample"
+msgstr  "Titulo nin takod"
+
+msgid  "link_tip"
+msgstr  "Panlaog na takod"
+
+msgid  "extlink_sample"
+msgstr  "http://www.example.com títulong nakatakod"
+
+msgid  "extlink_tip"
+msgstr  "Panluwas na takod (giromdomon an http:// na prefiho)"
+
+msgid  "headline_sample"
+msgstr  "Tekstong pamayohan"
+
+msgid  "headline_tip"
+msgstr  "Tangga ika-2 na pamayohan"
+
+msgid  "math_sample"
+msgstr  "Isaliôt an pormula digdi"
+
+msgid  "math_tip"
+msgstr  "Pórmulang matemátika (LaTeX)"
+
+msgid  "nowiki_sample"
+msgstr  "Isaliot digdi an tekstong dai na-''format''"
+
+msgid  "nowiki_tip"
+msgstr  "Dai pagindiendehon pag-''format'' kan wiki"
+
+msgid  "image_sample"
+msgstr  "Halimbawa.jpg"
+
+msgid  "image_tip"
+msgstr  "Nakaturay na file"
+
+msgid  "media_sample"
+msgstr  "Halimbawa.ogg"
+
+msgid  "media_tip"
+msgstr  "Takod nin file"
+
+msgid  "sig_tip"
+msgstr  "Pirma mo na may taták nin oras"
+
+msgid  "hr_tip"
+msgstr  "Pabalagbag na linya (use sparingly)"
+
+msgid  "summary"
+msgstr  "Sumada:"
+
+msgid  "subject"
+msgstr  "Tema/pamayohan:"
+
+msgid  "minoredit"
+msgstr  "Sadit na paghirá ini"
+
+msgid  "watchthis"
+msgstr  "Bantayan an pahinang ini"
+
+msgid  "savearticle"
+msgstr  "Itagáma an pahina"
+
+msgid  "preview"
+msgstr  "Tànawón"
+
+msgid  "showpreview"
+msgstr  "Hilingón an patànaw"
+
+msgid  "showlivepreview"
+msgstr  "Patànaw na direkto"
+
+msgid  "showdiff"
+msgstr  "Hilingón an mga pagbabàgo"
+
+msgid  "anoneditwarning"
+msgstr  "'''Patanid:''' Dai ka nakalaog. Masusurat an saimong IP sa uusipón kan pagbabàgo kan pahinang ini."
+
+msgid  "missingsummary"
+msgstr  "'''Paisi:''' Dai ka nagkaag nin sumád kan paghirâ. Kun pindotón mo giraray an Itagama, maitatagama an hirá mo na mayô kaini."
+
+msgid  "missingcommenttext"
+msgstr  "Paki lâgan nin komento sa ibabâ."
+
+msgid  "missingcommentheader"
+msgstr  "'''Paisi:''' Dai ka nagkaag nin tema/pamayohan para sa ining komentaryo. Kun pindoton mo giraray an Itagama, maitatagama an hira mo na mayô ini."
+
+msgid  "summary-preview"
+msgstr  "Patànaw nin sumada:"
+
+msgid  "subject-preview"
+msgstr  "Patânaw nin tema/pamayohan:"
+
+msgid  "blockedtitle"
+msgstr  "Pigbágat an parágamit"
+
+msgid  "blockedtext"
+msgstr  "'''Pigbagat an pangaran o IP mo.'''\n\nSi $1 an nagbagat. Ini an itinaong rasón, ''$2''.\n\n* Pagpoon kan pagbagat: $8\n* Pagpasó kan pagbagat: $6\n* Piniling bagaton: $7\n\nPwede mong suratan si $1 o an iba pang [[{{MediaWiki:Grouppage-sysop}}|administrador]] para pagoralayan an manonongod sa pagbagat.\nDai mo pwedeng gamiton an ' e-koreohan an paragamit ' kun mayong tamang e-surat sa  [[Special:Preferences|mga kabòtan kan account]] mo asin dai ka pigbagat sa paggamit kaini.\n$3 an presente mong IP, asin #$5 an ID nin pigbagat. Ikaag tabì an arin man o pareho sain man na hapót."
+
+msgid  "autoblockedtext"
+msgstr  "Enseguidang pigbagat an IP mo ta ginamit ini kan ibang parágamit, na binagat ni $1.\nIni an rasón:\n\n:''$2''\n\n* Pagpoon kan pagbagat: $8\n* Pagpasó kan pagbagat: $6\n\nPwedeng mong suratan si $1 o an iba pang mga\n[[{{MediaWiki:Grouppage-sysop}}|administrador]] para pagolayan an manonongod sa pagbagat.\n\nGiromdomon tabî na pwede mo sanang gamiton an \"''e''-suratan ining parágamit\" na gamit kun igwa kang tamang ''e''-surat na nakarehistro saimong [[Special:Preferences|mga kabôtan nin parágamit]] asin dai ka pigbabagat sa paggamit kaini.\n\n$5 an pigbagat na ID. Ikaag tabî ining ID sa gabos na paghapot mo."
+
+msgid  "blockednoreason"
+msgstr  "mayong itinaong rason"
+
+msgid  "blockedoriginalsource"
+msgstr  "An ginikanan kan '''$1''' mahihiling sa ibabâ:"
+
+msgid  "blockededitsource"
+msgstr  "An teksto kan '''mga hira mo''' sa '''$1''' mahihiling sa babâ:"
+
+msgid  "whitelistedittitle"
+msgstr  "Kaipuhan an paglaog tangarig makahirá"
+
+msgid  "whitelistedittext"
+msgstr  "Kaipuhan mong $1 tangarig makahirá nin mga páhina."
+
+msgid  "confirmedittext"
+msgstr  "Kaipuhan mong kompirmaron an saimong ''e''-surat. Ipwesto tabî asin patunayan an saimong ''e''-surat sa [[Special:Preferences|mga kabôtan kan parágamit]]."
+
+msgid  "nosuchsectiontitle"
+msgstr  "Mayong siring na seksyón"
+
+msgid  "nosuchsectiontext"
+msgstr  "Mayo man an seksyón an pighihira mo."
+
+msgid  "loginreqtitle"
+msgstr  "Kaipuhan Maglaog"
+
+msgid  "loginreqlink"
+msgstr  "maglaog"
+
+msgid  "loginreqpagetext"
+msgstr  "Kaipuhan kang $1 tangarig makahilíng nin ibang pahina."
+
+msgid  "accmailtitle"
+msgstr  "Napadará na an sekretong panlaog."
+
+msgid  "accmailtext"
+msgstr  "An sekretong panlaog ni \"$1\" naipadará na sa $2."
+
+msgid  "newarticle"
+msgstr  "(Bàgo)"
+
+msgid  "newarticletext"
+msgstr  "Sinunod mo an takod sa pahinang mayò pa man.\nTangarig magibo an pahina, magpoon pagsurat sa kahon sa babâ\n(hilingón an [[{{MediaWiki:Helppage}}|pahina nin tabang]] para sa iba pang impormasyon).\nKun dai tinuyong nakaabot ka digdi, pindoton sana an back sa browser mo."
+
+msgid  "anontalkpagetext"
+msgstr  "----''Ini an pahina kan olay kan sarong parágamit na dai bisto na dai pa naggibo nin account o dai naggagamit kaini. Entonces, piggagamit mi an numero nin IP tangarig mabisto siya. Ining IP pwede gamiton kan manlain-lain na mga parágamit. Kun ika sarong paraágamit na dai bisto asin konbensido ka sa pigsasabi ka ining mga komento bakô man dapit saimo,  [[Special:UserLogin|maggibo nin'' account ''o maglaog]] tabì tangarig maibitaran an pagkaribong saimo asin sa ibang mga parágamit na dai bisto.''"
+
+msgid  "noarticletext"
+msgstr  "Mayo man na teksto sa páhinang ini, pwede mong [[Special:Search/{{PAGENAME}}|hanápon ining titulo nin páhina]] sa ibang mga páhina o [{{fullurl:{{FULLPAGENAME}}|action=edit}} hirahon ining páhina]."
+
+msgid  "clearyourcache"
+msgstr  "'''Pagiromdom:''' Pagkatapos kan pagtagama, pwede ser na kaipuhan mong lawigawan an abang kan ''browser'' para mahiling mo an mga pagbabâgo. '''Mozilla / Firefox / Safari:''' doonan an ''shift'' an ''Shift'' sabay an pagpindot sa ''Reload'', o pindoton an ''Ctrl-Shift-R'' (''Cmd-Shift-R'' sa Apple Mac); '''IE:''' doonan (dai halion an muro) an ''Ctrl'' mientras sabay an pagpindot sa  ''Refresh'', o pindoton an ''Ctrl-F5''; '''Konqueror:''': pindoton sana ''Reload'', o pindoton  an ''F5''; '''Opera''' pwede ser na kaipuhan na halîon an gabos na laog kan abang sa ''Tools→Preferences''."
+
+msgid  "usercssyoucanpreview"
+msgstr  "'''Tip:''' Gamiton an 'Show preview' para testingon an bâgong CSS bago magtagama."
+
+msgid  "userjsyoucanpreview"
+msgstr  "'''Tip:''' Gamiton an 'Show preview' para testingon an bâgong JS bago magtagama."
+
+msgid  "usercsspreview"
+msgstr  "'''Giromdomon tabî na pigpapatânaw sana saimo an CSS nin parágamit, dai pa ini nakatagama!'''"
+
+msgid  "userjspreview"
+msgstr  "'''Giromdomon tabi na pigtetest/pighihiling mo sana an patanaw kan saimong JavaScript nin paragamit, dai pa ini naitagama!'''"
+
+msgid  "userinvalidcssjstitle"
+msgstr  "'''Patanid:''' Mayong ''skin'' na \"$1\". Giromdomon tabî na an .css asin .js na mga páhina naggagamit nin titulong nakasurat sa sadit na letras, halimbawa {{ns:user}}:Foo/vector.css bakong {{ns:user}}:Foo/Vector.css."
+
+msgid  "updated"
+msgstr  "(Binàgo)"
+
+msgid  "note"
+msgstr  "'''Paisi:'''"
+
+msgid  "previewnote"
+msgstr  "'''Patànaw sana ini; dai pa naitagama an mga pagbabàgo!'''"
+
+msgid  "previewconflict"
+msgstr  "Mahihilíng sa patànaw na ini an tekstong nasa itaas na lugar nin paghirá arog sa maipapahiling kun ini an itatagama mo."
+
+msgid  "session_fail_preview"
+msgstr  "'''Despensa! Dai mi naipadagos an paghirá mo huli sa pagkawara nin datos kan sesyon.\nProbaran tabì giraray. Kun dai man giraray magibo, probaran na magluwas dangan maglaog giraray.'''"
+
+msgid  "session_fail_preview_html"
+msgstr  "'''Despensa! Dai mi naipadagos an paghirá mo nin huli sa kawàran kan datos kan sesyon.'''\n\n''Huli ta ining wiki may HTML na nakaandar, pigtago an patànaw bilang paglikay kontra sa mga atake sa JavaScript.''\n\n'''Kun talagang boot mong hirahón ini, probaran giraray. Kun dai pa giraray magibo, magluwas dangan maglaog giraray. '''"
+
+msgid  "token_suffix_mismatch"
+msgstr  "'''Dai pigtogotan an paghirá mo ta sinabrit kan client mo an punctuation characters.\nDai pigtogotan ining paghirá tangarig maibitaran na maraot an teksto kan pahina.\nNanyayari nanggad ini kun naggagamit ka nin bakong maraháy asin dai bistong web-based proxy service.'''"
+
+msgid  "editing"
+msgstr  "Pigliliwat an $1"
+
+msgid  "editingsection"
+msgstr  "Pighihira an $1 (seksyon)"
+
+msgid  "editingcomment"
+msgstr  "Pighihira an $1 (komento)"
+
+msgid  "editconflict"
+msgstr  "Komplikto sa paghihira: $1"
+
+msgid  "explainconflict"
+msgstr  "May ibang parágamit na nagbàgo kaining pahina kan pagpoon mong paghirá kaini.\nNahihilíng ang pahina kan teksto sa parteng itaas kan teksto.\nAn mga pagbabàgo mo nahihilíng sa parteng ibabâ kan teksto.\nKaipuhan mong isalak an mga pagbabàgo mo sa presenteng teksto.\nAn teksto na nasa parteng itaas '''sana''' an maitatagama sa pagpindot mo kan \"{{int:savearticle}}\"."
+
+msgid  "yourtext"
+msgstr  "Saimong teksto"
+
+msgid  "storedversion"
+msgstr  "Itinagamang bersyon"
+
+msgid  "nonunicodebrowser"
+msgstr  "'''PATANID: An browser mo bakong unicode complaint. Igwang temporariong sistema na nakaandar para makahirá ka kan mga pahina: mahihiling an mga karakter na non-ASCII sa kahon nin paghirá bilang mga kodang hexadecimal.'''"
+
+msgid  "editingold"
+msgstr  "'''PATANID: Pighihirá mo an pasó nang pagpakaraháy kaining pahina.\nKun itatagama mo ini, mawawarà an mga pagbabàgong nagibo poon kan pagpakaraháy kaini.'''"
+
+msgid  "yourdiff"
+msgstr  "Mga kaibahán"
+
+msgid  "copyrightwarning"
+msgstr  "Giromdomon tabì na an gabos na kontribusyon sa {{SITENAME}} pigkokonsiderar na $2 (hilingón an $1 para sa mga detalye). Kun habò mong mahirá an saimomg sinurat na mayong pakimàno, dai tabì iyan isumiter digdi.<br />\nPigpropromesa mo man samuyà na ika an kagsurat kaini, o kinopya mo ini sa dominiong panpubliko o sarong parehong libreng rekurso (hilingón an $1 para sa mga detalye).\n'''DAI TABÌ MAGSUMITIR NIN MGA GIBONG IPINAPANGALAD NA KOPYAHON NIN MAYONG PERMISO!'''"
+
+msgid  "copyrightwarning2"
+msgstr  "Giromdomon tabì na an gabos na kontribusyon sa {{SITENAME}} pwedeng hirahón, bàgohon o halion kan ibang mga parágamit. Kun habô mong mahirá an saimomg sinurat na mayong pakimàno, pues, dai tabì isumitir iyan digdi.<br />\nPigpapangakò mo man samuyà na ika an nagsurat kaini, o pigkopya mo ini sa dominiong panpubliko o sarong parehong libreng rekurso (hilingon an $1 para sa mga detalye). '''DAI TABÌ MAGSUMITIR NIN MGA GIBONG IPINAPANGALAD NA KOPYAHON NIN MAYONG PERMISO!'''"
+
+msgid  "longpageerror"
+msgstr  "'''SALÀ: $1 na kilobytes na kalabà an pahinang isinumitir mo, na mas halabà sa hanggan nin $2 na kilobytes. Dai pwede ining itagama.'''"
+
+msgid  "readonlywarning"
+msgstr  "'''PATANID: Nakakandado an base nin datos para sa pagmantinir, pues, dai mo mûna pwede na itagama an mga paghirá mo. Pwede mo pa man na arogon dangan ipaskil ang teksto sa sarong dokumento arog kan MS Word asbp. asin itagama ini para sa atyan.'''"
+
+msgid  "protectedpagewarning"
+msgstr  "'''PATANID:  Nakakandado ining pahina tangarig an mga parágamit na may priblehiyo nin ''sysop'' sana an pwedeng maghira kaini.'''"
+
+msgid  "semiprotectedpagewarning"
+msgstr  "'''Paisi:''' An pahinang ini isinara tangarig mga rehistradong parágamit sana an makahira kaini."
+
+msgid  "cascadeprotectedwarning"
+msgstr  "'''Patanid:''' Nakakandado an pahinang ini tangarig an mga parágamit na igwang pribilehyo nin sysop sana an pwedeng maghirá kaini, huli ta kabali ini sa mga kataratang protektado na {{PLURAL:$1|pahina|mga pahina}}:"
+
+msgid  "templatesused"
+msgstr  "Mga templato na piggamit sa pahinang ini:"
+
+msgid  "templatesusedpreview"
+msgstr  "Mga templato na piggamit sa patànaw na ini:"
+
+msgid  "templatesusedsection"
+msgstr  "Mga templato na piggamit sa seksyon na ini:"
+
+msgid  "template-protected"
+msgstr  "(protektado)"
+
+msgid  "template-semiprotected"
+msgstr  "(semi-protektado)"
+
+msgid  "edittools"
+msgstr  "<!-- An teksto digdi mahihiling sa babâ kan mga pormang pighihirá asin pigkakarga. -->"
+
+msgid  "nocreatetitle"
+msgstr  "Limitado an paggibo nin pahina"
+
+msgid  "nocreatetext"
+msgstr  "Igwang pagpogol sa paggibo nin bàgong pahina sa site na ini.\nPwede kang bumalik dangan maghirá nin presenteng pahina, o [[Special:UserLogin|maglaog o magbukas nin account]]."
+
+msgid  "nocreate-loggedin"
+msgstr  "Mayò ka nin permiso na maggibo nin mga bàgong pahina sa wiki na ini."
+
+msgid  "permissionserrors"
+msgstr  "Mga saláng Permiso"
+
+msgid  "permissionserrorstext"
+msgstr  "Mayò ka nin permiso na gibohon yan, sa minasunod na {{PLURAL:$1|rason|mga rason}}:"
+
+msgid  "recreate-moveddeleted-warn"
+msgstr  "'''Patanid: Piggigíbo mo giraray an pahina na pigparà na dati pa.'''\n\nDapat mong isipon kun kaipuhan na ipadagos an paghirá kaining pahina.\nAn paghalì kan historial para sa pahinang ini yaon digdi para sa saimong kombenyensya:"
+
+msgid  "edit-conflict"
+msgstr  "Igwang iregularidad sa pagliwat."
+
+msgid  "edit-already-exists"
+msgstr  "Dai maggibo an bàgong pahina.\nIgwa na kaini."
+
+msgid  "undo-success"
+msgstr  "Pwedeng bawion an paghirá. Sosogon tabì an pagkakaiba sa babâ tangarig maberipikár kun ini an boot mong gibohon, dangan itagama an mga pagbabàgo sa babâ tangarig tapuson an pagbawì sa paghirá."
+
+msgid  "undo-failure"
+msgstr  "Dai napogol an paghirá ta igwa pang ibang paghirá sa tahaw na nagkokomplikto."
+
+msgid  "undo-summary"
+msgstr  "Bawion an pagpakaraháy na $1 ni [[Special:Contributions/$2|$2]] ([[User talk:$2|Pag-oláyan]])"
+
+msgid  "cantcreateaccounttitle"
+msgstr  "Dai makagibo nin account"
+
+msgid  "cantcreateaccount-text"
+msgstr  "An pagbukas nin account halì sa IP na ('''$1''') binágat ni [[User:$3|$3]].\n\n''$2'' an rason na pigtao ni $3"
+
+msgid  "viewpagelogs"
+msgstr  "Hilingón an mga usip para sa pahinang ini"
+
+msgid  "nohistory"
+msgstr  "Mayong paghirá nin uusipón sa pahinang ini."
+
+msgid  "currentrev"
+msgstr  "Sa ngonyan na pagpakarháy"
+
+msgid  "revisionasof"
+msgstr  "Pagpakarháy sa $1"
+
+msgid  "revision-info"
+msgstr  "An pagpakarháy sa $1 ni $2"
+
+msgid  "previousrevision"
+msgstr  "←Orog na lumang pagpakarhay"
+
+msgid  "nextrevision"
+msgstr  "Mas bàgong pagpakarháy→"
+
+msgid  "currentrevisionlink"
+msgstr  "Sa ngonyan na pagpakarháy"
+
+msgid  "cur"
+msgstr  "ngonyan"
+
+msgid  "next"
+msgstr  "sunod"
+
+msgid  "last"
+msgstr  "huri"
+
+msgid  "page_first"
+msgstr  "enot"
+
+msgid  "page_last"
+msgstr  "huri"
+
+msgid  "histlegend"
+msgstr  "Kaib na pinili: markahán an mga kahon kan mga bersyon tangarig makomparar asin pindoton an enter o butones babâ.<br />\nLegend: (ngonyan) = kaibhán sa ngonyan na bersyon,\n(huri) = kaibhán sa huring bersyon, S = saradít na paghirá."
+
+msgid  "history-fieldset-title"
+msgstr  "Rinsayon an uusipon"
+
+msgid  "histfirst"
+msgstr  "Pinakaenot"
+
+msgid  "histlast"
+msgstr  "Pinakahúri"
+
+msgid  "historysize"
+msgstr  "($1 bytes)"
+
+msgid  "historyempty"
+msgstr  "(mayong laog)"
+
+msgid  "history-feed-title"
+msgstr  "Uusipón kan pagpakaraháy"
+
+msgid  "history-feed-description"
+msgstr  "Uusipón kan pagpakaraháy para sa pahinang ini sa wiki"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$1 sa $2"
+
+msgid  "history-feed-empty"
+msgstr  "Mayò man an hinágad na pahina.\nPwedeng pigparà na ini sa wiki, o tinàwan nin bàgong pangaran.\nProbaran tabì an [[Special:Search|pighahanap sa wiki]] para sa mga pahinang dapít."
+
+msgid  "rev-deleted-comment"
+msgstr  "(hinalì an komento)"
+
+msgid  "rev-deleted-user"
+msgstr  "(hinalì an parágamit)"
+
+msgid  "rev-deleted-event"
+msgstr  "(hinalì an ingreso)"
+
+msgid  "rev-deleted-text-permission"
+msgstr  "Ining pagpakaraháy nin pahina pighalì na sa mga archibong panpubliko.\nPwedeng igwang mga detalye sa [{{fullurl:{{#Special:Log}}/suppress|page={{FULLPAGENAMEE}}}} historial kan pagparà]."
+
+msgid  "rev-deleted-text-view"
+msgstr  "Ining pagpakaraháy nin pahina pighalì na sa mga archibong panpubliko.\nPwede mo ining hilingón bilang sarong tagamató kaining site;\nPwedeng igwang mga detalye sa [{{fullurl:{{#Special:Log}}/suppress|page={{FULLPAGENAMEE}}}} historial kan pagparà]."
+
+msgid  "rev-delundel"
+msgstr  "ipahilíng/tagoon"
+
+msgid  "revisiondelete"
+msgstr  "Paraon/bawion an mga pagpakaraháy"
+
+msgid  "revdelete-nooldid-title"
+msgstr  "Mayong tunggit pagpakaraháy"
+
+msgid  "revdelete-nooldid-text"
+msgstr  "Dai ka nagpili nin target na pagpakarhay o mga pagpakarhay tangarig magamit ini."
+
+msgid  "revdelete-selected"
+msgstr  "'''{{PLURAL:$2|Selected revision|Selected revisions}} kan [[:$1]]'''"
+
+msgid  "revdelete-text"
+msgstr  "'''An mga pagpakarhay asin mga panyayari na pigparâ mahihiling pa sa historya asin mga historial kan páhina, pero an ibang parte kan mga laog kaini dai na ipapahiling sa publiko.'''\n\nAn ibang mga administrador sa ining wiki pwede pang maghiling kan mga nakatagong laog asin pwede pa nindang bawîon an pagparâ kaini sa paggamit kan parehong ''interface'', kun mayô pang mga ibang restriksyón."
+
+msgid  "revdelete-legend"
+msgstr  "Ipwesto an mga restriksyón"
+
+msgid  "revdelete-hide-text"
+msgstr  "Tagoon an teksto kan pagpakaraháy"
+
+msgid  "revdelete-hide-image"
+msgstr  "Tagoon an laog kan file"
+
+msgid  "revdelete-hide-name"
+msgstr  "Tagoon an aksyon asin target"
+
+msgid  "revdelete-hide-comment"
+msgstr  "Tagoon an komento sa paghirá"
+
+msgid  "revdelete-hide-user"
+msgstr  "Tagoon an pangaran kan editor/IP"
+
+msgid  "revdelete-hide-restricted"
+msgstr  "Ibali sa mga restriksyón na ini an mga sysops asin iba pa"
+
+msgid  "revdelete-suppress"
+msgstr  "Dai ipahilíng an mga datos sa mga sysops asin sa mga iba pa"
+
+msgid  "revdelete-unsuppress"
+msgstr  "Halîon an mga restriksyón sa mga ibinalík na pagpakarhay"
+
+msgid  "revdelete-log"
+msgstr  "Rason:"
+
+msgid  "revdelete-submit"
+msgstr  "Ibílang sa piniling pagpakarhay"
+
+msgid  "revdelete-logentry"
+msgstr  "pigribayan an bisibilidad nin panyayari kan $1 [[$1]]"
+
+msgid  "logdelete-logentry"
+msgstr  "Pigribayan an bisibilidad nin panyayari kan [[$1]]"
+
+msgid  "revdelete-success"
+msgstr  "'''Nakapwesto na an bisibilidad kan pagpakarhay.'''"
+
+msgid  "logdelete-success"
+msgstr  "'''Nakapuesto na an katalâan kan nangyari.'''"
+
+msgid  "revdelete-uname"
+msgstr  "paragamit"
+
+msgid  "revertmerge"
+msgstr  "Suwayón"
+
+msgid  "history-title"
+msgstr  "Uusipón nin pagpakarháy kan \"$1\""
+
+msgid  "difference"
+msgstr  "(Kaibhan kan mga pagpakarhay)"
+
+msgid  "lineno"
+msgstr  "Linya $1:"
+
+msgid  "compareselectedversions"
+msgstr  "Ikomparar an mga piniling bersyon"
+
+msgid  "editundo"
+msgstr  "ibalik"
+
+msgid  "diff-multi"
+msgstr  "({{PLURAL:$1|One intermediate revision|$1 intermediate revisions}} dai ipinahihiling.)"
+
+msgid  "searchresults"
+msgstr  "Hanapon an mga resulta"
+
+msgid  "searchresults-title"
+msgstr  "Hanápon an resulta para sa \"$1\""
+
+msgid  "searchresulttext"
+msgstr  "Para sa iba pang impormasyon manonongod sa paghanap sa {{SITENAME}}, hilingon tabî an [[{{MediaWiki:Helppage}}|{{int:help}}]]."
+
+msgid  "searchsubtitle"
+msgstr  "Hinanap mo an '''[[:$1]]'''"
+
+msgid  "searchsubtitleinvalid"
+msgstr  "Hinanap mo an '''$1'''"
+
+msgid  "toomanymatches"
+msgstr  "Kadakol-dakol na angay an ipigbalik, probaran an ibang kahaputan"
+
+msgid  "titlematches"
+msgstr  "Angay an título kan artíkulo"
+
+msgid  "notitlematches"
+msgstr  "Mayong angay na título nin pahina"
+
+msgid  "textmatches"
+msgstr  "Angay an teksto nin páhina"
+
+msgid  "notextmatches"
+msgstr  "Mayong ángay na teksto nin páhina"
+
+msgid  "prevn"
+msgstr  "dating {{PLURAL:$1|$1}}"
+
+msgid  "nextn"
+msgstr  "sunod na {{PLURAL:$1|$1}}"
+
+msgid  "viewprevnext"
+msgstr  "Hilingón ($1 {{int:pipe-separator}} $2) ($3)"
+
+msgid  "searchhelp-url"
+msgstr  "Help:Mga laog"
+
+msgid  "search-result-size"
+msgstr  "$1 ({{PLURAL:$2|1 tatarámon|$2 mga tatarámon}})"
+
+msgid  "search-suggest"
+msgstr  "An boot mo: $1"
+
+msgid  "search-interwiki-more"
+msgstr  "(dakol pa)"
+
+msgid  "search-mwsuggest-enabled"
+msgstr  "igwang mga suhestyon"
+
+msgid  "search-mwsuggest-disabled"
+msgstr  "mayong suhestyon"
+
+msgid  "searchall"
+msgstr  "gabos"
+
+msgid  "showingresults"
+msgstr  "Pigpapahiling sa babâ sagkod sa {{PLURAL:$1|'''1''' resulta|'''$1''' mga resulta}} poon sa #'''$2'''."
+
+msgid  "showingresultsnum"
+msgstr  "Pigpapahiling sa babâ {{PLURAL:$3|'''1''' resulta|'''$3''' mga resulta}} poon sa #'''$2'''."
+
+msgid  "nonefound"
+msgstr  "'''Pagiromdom''': An mga prakasong paghanap pirmeng kawsa kan paghanap kan mga tataramon na komún arog kan \"may\" asin \"sa\", huli ta an mga ini dai nakaíndise, o sa pagpili kan sobra sa sarong tataramon (an mga páhina sana na igwá kan gabos na pighahanap na tataramon an maipapahiling sa resulta)."
+
+msgid  "powersearch"
+msgstr  "Pinaoróg na paghánap"
+
+msgid  "powersearch-field"
+msgstr  "Hanápon an"
+
+msgid  "searchdisabled"
+msgstr  "Pigpopogolan mûna an paghanap sa {{SITENAME}}. Mientras tanto, pwede ka man maghanap sa Google. Giromdomon tabî na an mga indise kan laog ninda sa {{SITENAME}} pwede ser na lumâ na."
+
+msgid  "qbsettings"
+msgstr  "Quickbar"
+
+msgid  "qbsettings-none"
+msgstr  "Mayô"
+
+msgid  "qbsettings-fixedleft"
+msgstr  "Nakatakód sa walá"
+
+msgid  "qbsettings-fixedright"
+msgstr  "Nakatakód sa tûo"
+
+msgid  "qbsettings-floatingleft"
+msgstr  "Naglálatáw sa walá"
+
+msgid  "qbsettings-floatingright"
+msgstr  "Naglálatáw sa tûo"
+
+msgid  "preferences"
+msgstr  "Mga kabòtan"
+
+msgid  "mypreferences"
+msgstr  "Mga kabòtan ko"
+
+msgid  "prefs-edits"
+msgstr  "Bilang kan mga hirá:"
+
+msgid  "prefsnologin"
+msgstr  "Dai nakalaog"
+
+msgid  "prefsnologintext"
+msgstr  "Ika dapat si [[Special:UserLogin|nakalaog]] para makapwesto nin mga kabôtan nin parágamit."
+
+msgid  "changepassword"
+msgstr  "Ribayan an sekretong panlaog"
+
+msgid  "prefs-skin"
+msgstr  "''Skin''"
+
+msgid  "skin-preview"
+msgstr  "Tânawon"
+
+msgid  "prefs-math"
+msgstr  "Mat"
+
+msgid  "datedefault"
+msgstr  "Mayong kabôtan"
+
+msgid  "prefs-datetime"
+msgstr  "Petsa asin oras"
+
+msgid  "prefs-personal"
+msgstr  "Pambisto nin parágamit"
+
+msgid  "prefs-rc"
+msgstr  "Mga kaaagi pa sanang pagribay"
+
+msgid  "prefs-watchlist"
+msgstr  "Pigbabantayan"
+
+msgid  "prefs-watchlist-days"
+msgstr  "Máximong número nin mga aldaw na ipapahiling sa lista nin mga pigbabantayan:"
+
+msgid  "prefs-watchlist-edits"
+msgstr  "Máximong número nin pagbabâgo na ipapahiling sa pinadakulang lista nin pigbabantayan:"
+
+msgid  "prefs-misc"
+msgstr  "Lain"
+
+msgid  "saveprefs"
+msgstr  "Itagama"
+
+msgid  "resetprefs"
+msgstr  "Ipwesto giraray"
+
+msgid  "prefs-editing"
+msgstr  "Pighihira"
+
+msgid  "rows"
+msgstr  "Mga hilera:"
+
+msgid  "columns"
+msgstr  "Mga taytay:"
+
+msgid  "searchresultshead"
+msgstr  "Hanápon"
+
+msgid  "resultsperpage"
+msgstr  "Mga tamà kada pahina:"
+
+msgid  "contextlines"
+msgstr  "Mga linya kada tamà:"
+
+msgid  "contextchars"
+msgstr  "Konteksto kada linya:"
+
+msgid  "stub-threshold"
+msgstr  "Kasagkoran kan <a href=\"#\" class=\"stub\">takod kan tambô</a> pigpopormato:"
+
+msgid  "recentchangesdays"
+msgstr  "Mga aldáw na ipapahilíng sa mga nakakaági pa sanáng pagbabàgó:"
+
+msgid  "recentchangescount"
+msgstr  "Bilang nin mga paghirá na ipapahilíng sa mga nakakaági pa sanáng pagbabàgó:"
+
+msgid  "savedprefs"
+msgstr  "Itinagama na an mga kabôtan mo."
+
+msgid  "timezonelegend"
+msgstr  "Zona nin oras"
+
+msgid  "localtime"
+msgstr  "Lokal na oras"
+
+msgid  "servertime"
+msgstr  "Oras kan ''server''"
+
+msgid  "guesstimezone"
+msgstr  "Bugtakan an ''browser''"
+
+msgid  "allowemail"
+msgstr  "Togotan an mga ''e''-surat halî sa ibang mga parágamit"
+
+msgid  "defaultns"
+msgstr  "Maghilíng mûna sa ining mga ngaran-espacio:"
+
+msgid  "default"
+msgstr  "pwestong normal"
+
+msgid  "prefs-files"
+msgstr  "Mga dokumento"
+
+msgid  "youremail"
+msgstr  "E-koreo:"
+
+msgid  "username"
+msgstr  "Pangaran kan parágamit:"
+
+msgid  "uid"
+msgstr  "ID kan parágamit:"
+
+msgid  "prefs-memberingroups"
+msgstr  "Miembro kan {{PLURAL:$1|grupo|grupos}}:"
+
+msgid  "yourrealname"
+msgstr  "Totoong pangaran:"
+
+msgid  "yourlanguage"
+msgstr  "Tataramon:"
+
+msgid  "yourvariant"
+msgstr  "Bariante:"
+
+msgid  "yournick"
+msgstr  "Gahâ:"
+
+msgid  "badsig"
+msgstr  "Dai pwede an bâgong pirmang ini; isúsog an mga HTML na takód."
+
+msgid  "badsiglength"
+msgstr  "Halabâon an gahâ; kaipuhan dai mababà sa $1 na mga karakter."
+
+msgid  "gender-male"
+msgstr  "Lalaki"
+
+msgid  "gender-female"
+msgstr  "Babai"
+
+msgid  "email"
+msgstr  "E-koreo"
+
+msgid  "prefs-help-realname"
+msgstr  "Opsyonal an totoong pangaran asin kun itatao mo ini, gagamiton ini yangarig an mga sinurat mo maatribuir saimo."
+
+msgid  "prefs-help-email"
+msgstr  "Opsyonal an e-koreo, alagad pwede ka na masosog kan iba sa paagi kan saimong pahina o pahina nin olay na dai kinakaipuhan na ipabisto an identidad mo."
+
+msgid  "prefs-help-email-required"
+msgstr  "Kaipuhan an e-koreo."
+
+msgid  "userrights"
+msgstr  "Pagmaneho kan mga derecho nin paragamit"
+
+msgid  "userrights-lookup-user"
+msgstr  "Magmaného kan mga grupo nin parágamit"
+
+msgid  "userrights-user-editname"
+msgstr  "Ilaog an pangaran kan parágamit:"
+
+msgid  "editusergroup"
+msgstr  "Hirahón an mga Grupo kan Parágamit"
+
+msgid  "editinguser"
+msgstr  "Pighihira an parágamit na '''[[User:$1|$1]]''' ([[User talk:$1|{{int:talkpagelinktext}}]]{{int:pipe-separator}}[[Special:Contributions/$1|{{int:contribslink}}]])"
+
+msgid  "userrights-editusergroup"
+msgstr  "Hirahón an mga grupo kan parágamit"
+
+msgid  "saveusergroups"
+msgstr  "Itagama an mga Grupo nin Páragamit"
+
+msgid  "userrights-groupsmember"
+msgstr  "Myembro kan:"
+
+msgid  "userrights-reason"
+msgstr  "Rason:"
+
+msgid  "group"
+msgstr  "Grupo:"
+
+msgid  "group-autoconfirmed"
+msgstr  "Paragamit na sadiring nagkonpirma"
+
+msgid  "group-bot"
+msgstr  "Mga bots"
+
+msgid  "group-sysop"
+msgstr  "Mga sysop"
+
+msgid  "group-bureaucrat"
+msgstr  "Mga bureaucrat"
+
+msgid  "group-all"
+msgstr  "(gabos)"
+
+msgid  "group-autoconfirmed-member"
+msgstr  "Enseguidang nakonpirmar na parágamit"
+
+msgid  "group-sysop-member"
+msgstr  "Opsys"
+
+msgid  "group-bureaucrat-member"
+msgstr  "Bureaucrat"
+
+msgid  "grouppage-autoconfirmed"
+msgstr  "{{ns:project}}:Mga enseguidang nakonpirmar na parágamit"
+
+msgid  "grouppage-bot"
+msgstr  "{{ns:project}}:Mga bot"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:Mga tagamató"
+
+msgid  "grouppage-bureaucrat"
+msgstr  "{{ns:project}}:Mga bureaucrat"
+
+msgid  "rightslog"
+msgstr  "Usip nin derechos nin paragamit"
+
+msgid  "rightslogtext"
+msgstr  "Ini an historial kan mga pagbabâgo sa mga derecho nin parágamit."
+
+msgid  "rightslogentry"
+msgstr  "Rinibayab an pagkamyembro ni $1 sa $2 sagkod sa $3"
+
+msgid  "rightsnone"
+msgstr  "(mayô)"
+
+msgid  "action-edit"
+msgstr  "liwatón ining pahina"
+
+msgid  "nchanges"
+msgstr  "$1 {{PLURAL:$1|pagbabâgo|mga pagbabâgo}}"
+
+msgid  "recentchanges"
+msgstr  "Mga nakakaági pa sanáng pagbabàgó"
+
+msgid  "recentchangestext"
+msgstr  "Hanapon an mga pinahuring pagbabâgo sa wiki digdi sa páhinang ini."
+
+msgid  "recentchanges-feed-description"
+msgstr  "Hanápon an mga pinakahuring pagbabàgo sa wiki sa hungit na ini."
+
+msgid  "rcnote"
+msgstr  "Mahihiling sa babâ an {{PLURAL:$1| '''1''' pagbabàgo|'''$1''' pagbabàgo}} sa huring {{PLURAL:$2|na aldaw|'''$2''' na aldaw}}, sa $3."
+
+msgid  "rcnotefrom"
+msgstr  "Mahihiling sa babâ an mga pagbabàgo poon kan '''$2''' (hasta '''$1''' ipinapahiling)."
+
+msgid  "rclistfrom"
+msgstr  "Ipahilíng an mga pagbabàgo poon sa $1"
+
+msgid  "rcshowhideminor"
+msgstr  "$1 saradit na pagligwat"
+
+msgid  "rcshowhidebots"
+msgstr  "$1 mga bot"
+
+msgid  "rcshowhideliu"
+msgstr  "$1 mga nakadágos na paragamit"
+
+msgid  "rcshowhideanons"
+msgstr  "$1 mga dai bistong paragamit"
+
+msgid  "rcshowhidepatr"
+msgstr  "$1 pigbabantayan na mga pagliwat"
+
+msgid  "rcshowhidemine"
+msgstr  "$1 mga pagliwat ko"
+
+msgid  "rclinks"
+msgstr  "Ipahilíng an $1 huring pagbabàgo sa ultimong $2 aldaw<br />$3"
+
+msgid  "diff"
+msgstr  "ibá"
+
+msgid  "hist"
+msgstr  "usip"
+
+msgid  "hide"
+msgstr  "Tagóon"
+
+msgid  "show"
+msgstr  "Ipahilíng"
+
+msgid  "minoreditletter"
+msgstr  "s"
+
+msgid  "newpageletter"
+msgstr  "B"
+
+msgid  "boteditletter"
+msgstr  "b"
+
+msgid  "number_of_watching_users_pageview"
+msgstr  "[$1 nagbabantay na parágamit]"
+
+msgid  "rc_categories"
+msgstr  "Limitado sa mga kategorya (suhayon nin \"|\")"
+
+msgid  "rc_categories_any"
+msgstr  "Dawà arín"
+
+msgid  "newsectionsummary"
+msgstr  "/* $1 */ bàgong seksyon"
+
+msgid  "recentchangeslinked"
+msgstr  "Mga angay na pagbabàgo"
+
+msgid  "recentchangeslinked-feed"
+msgstr  "Mga angay na pagbabàgo"
+
+msgid  "recentchangeslinked-toolbox"
+msgstr  "Mga angay na pagbabàgo"
+
+msgid  "recentchangeslinked-title"
+msgstr  "Mga pagbabàgong angay sa \"$1\""
+
+msgid  "recentchangeslinked-noresult"
+msgstr  "Warang mga pagbabago sa mga pahinang nakatakod sa itinaong pagkalawig."
+
+msgid  "recentchangeslinked-summary"
+msgstr  "Ini an lista nin mga pagsangli na ginibo pa sana sa mga pahinang nakatakod halì sa sarong espesyal na pahina (o sa mga myembro nin sarong espesyal na kategorya).\n'''Maitom''' an mga pahinang [[Special:Pigbabantayan|pigbabantayan mo]]."
+
+msgid  "upload"
+msgstr  "Ikargá an file"
+
+msgid  "uploadbtn"
+msgstr  "Ikargá an file"
+
+msgid  "reuploaddesc"
+msgstr  "Magbalik sa pormulario kan pagkarga."
+
+msgid  "uploadnologin"
+msgstr  "Dai nakalaog"
+
+msgid  "uploadnologintext"
+msgstr  "Kaipuhan ika si [[Special:UserLogin|nakadagos]]\npara makakarga nin mga ''file''."
+
+msgid  "upload_directory_read_only"
+msgstr  "An directoriong pagkarga na ($1) dai puedeng suratan kan serbidor nin web."
+
+msgid  "uploaderror"
+msgstr  "Salâ an pagkarga"
+
+msgid  "uploadtext"
+msgstr  "Gamiton tabî an pormulario sa babâ para magkarga nin mga ''file'', para maghiling o maghanap kan mga ladawan na dating kinarga magduman tabi sa [[Special:FileList|lista nin mga pigkargang ''file'']], an mga kinarga asin mga pinarâ nakalista man sa [[Special:Log/upload|historial nin pagkarga]].\n\nKun boot mong ikaag an ladawan sa páhina, gamiton tabî an takod arog kan\n'''<nowiki>[[</nowiki>{{ns:file}}<nowiki>:File.jpg]]</nowiki>''',\n'''<nowiki>[[</nowiki>{{ns:file}}<nowiki>:File.png|alt text]]</nowiki>''' o\n'''<nowiki>[[</nowiki>{{ns:media}}<nowiki>:File.ogg]]</nowiki>''' para sa direktong pagtakod sa ''file''."
+
+msgid  "uploadlog"
+msgstr  "historial nin pagkarga"
+
+msgid  "uploadlogpage"
+msgstr  "Ikarga an usip"
+
+msgid  "uploadlogpagetext"
+msgstr  "Mahihiling sa babâ an lista kan mga pinakahuring ''file'' na kinarga."
+
+msgid  "filename"
+msgstr  "Pangaran kan dokumento"
+
+msgid  "filedesc"
+msgstr  "Kagabsan"
+
+msgid  "fileuploadsummary"
+msgstr  "Kagabsan:"
+
+msgid  "filestatus"
+msgstr  "Estatutong derechos nin paragamit:"
+
+msgid  "filesource"
+msgstr  "Ginikanan"
+
+msgid  "uploadedfiles"
+msgstr  "Mga ''file'' na ikinargá"
+
+msgid  "ignorewarning"
+msgstr  "Dai pagintiendehon an mga patanid asin itagama pa man an file"
+
+msgid  "ignorewarnings"
+msgstr  "Paliman-limanon an mga tanid"
+
+msgid  "minlength1"
+msgstr  "An pangaran kan mga ''file'' dapat na dai mababâ sa sarong letra."
+
+msgid  "illegalfilename"
+msgstr  "An ''filename'' na \"$1\" igwang mga ''character'' na dai pwede sa mga titulo nin páhina. Tâwan tabî nin bâgong pangaran an ''file'' asin probaran na ikarga giraray."
+
+msgid  "badfilename"
+msgstr  "Rinibayan an ''filename'' nin \"$1\"."
+
+msgid  "filetype-badmime"
+msgstr  "Dai pigtotogotan na ikarga an mga ''file'' na MIME na \"$1\" tipo."
+
+msgid  "filetype-missing"
+msgstr  "Mayong ekstensyón an ''file'' (arog kan \".jpg\")."
+
+msgid  "large-file"
+msgstr  "Pigrerekomendár na dapat an mga ''file'' bakong mas dakula sa $1; $2 an sokol kaining ''file''."
+
+msgid  "largefileserver"
+msgstr  "Mas dakula an ''file'' sa pigtotogotan na sokol kan ''server''."
+
+msgid  "emptyfile"
+msgstr  "Garo mayong laog an ''file'' na kinarga mo. Pwede ser na salâ ining tipo nin ''filename''. Isegurado tabî kun talagang boot mong ikarga ining ''file''."
+
+msgid  "fileexists"
+msgstr  "Igwa nang ''file'' na may parehong pangaran sa ini, sosogon tabî an '''<tt>[[:$1]]</tt>''' kun dai ka seguradong ribayan ini.\n[[$1|thumb]]"
+
+msgid  "fileexists-extension"
+msgstr  "May ''file'' na may parehong pangaran: [[$2|thumb]]\n* Pangaran kan pigkakargang ''file'': '''<tt>[[:$1]]</tt>'''\n* Pangaran kan yaon nang ''file'': '''<tt>[[:$2]]</tt>'''\nMagpili tabî nin ibang pangaran."
+
+msgid  "fileexists-thumbnail-yes"
+msgstr  "An ''file'' garo ladawan kan pinasadit ''(thumbnail)''. [[$1|thumb]]\nSosogon tabî an ''file'' '''<tt>[[:$1]]</tt>'''.\nKun an sinosog na ''file'' iyo an parehong ladawan na nasa dating sokol, dai na kaipuhan magkarga nin iba pang retratito."
+
+msgid  "file-thumbnail-no"
+msgstr  "An ''filename'' nagpopoon sa '''<tt>$1</tt>'''. Garo ladawan na pinasadit ini ''(thumbnail)''.\nKun igwa ka nin ladawan na may resolusyón na maximo ikarga tabî ini, kun dai, bâgohon tabî an pangaran nin ''file''."
+
+msgid  "fileexists-forbidden"
+msgstr  "Igwa nang ''file'' na may parehong pangaran; bumalik tabi asin ikarga an ''file'' sa bâgong pangaran [[File:$1|thumb|center|$1]]"
+
+msgid  "fileexists-shared-forbidden"
+msgstr  "Igwa nang ''file'' na may parehong pangaran sa repositoryo nin mga bakas na ''file''; bumalik tabî asin ikarga an ''file'' sa bâgong pangaran. [[File:$1|thumb|center|$1]]"
+
+msgid  "uploadwarning"
+msgstr  "Patanid sa pagkarga"
+
+msgid  "savefile"
+msgstr  "Itagama an ''file''"
+
+msgid  "uploadedimage"
+msgstr  "Ikinarga \"[[$1]]\""
+
+msgid  "overwroteimage"
+msgstr  "kinarga an bagong bersión kan \"[[$1]]\""
+
+msgid  "uploaddisabled"
+msgstr  "Pigpopondó an mga pagkargá"
+
+msgid  "uploaddisabledtext"
+msgstr  "Pigpopogolan an pagkarga nin mga ''file'' o sa ining wiki."
+
+msgid  "uploadscripted"
+msgstr  "Ining ''file'' igwang HTML o kodang eskritura na pwede ser na salang mainterpretar kan ''browser''."
+
+msgid  "uploadvirus"
+msgstr  "May virus an ''file''! Mga detalye: $1"
+
+msgid  "sourcefilename"
+msgstr  "Ginikanan kan pangaran kan dokumento"
+
+msgid  "destfilename"
+msgstr  "''Filename'' kan destinasyón"
+
+msgid  "watchthisupload"
+msgstr  "Bantayan ining pahina"
+
+msgid  "filewasdeleted"
+msgstr  "May sarong ''file'' na kapangaran kaini na dating pigkarga tapos pigparâ man sana. Sosogon muna tabî an $1 bago ikarga giraray ini."
+
+msgid  "upload-wasdeleted"
+msgstr  "'''Patanid: Pigkakarga mo an ''file'' na dati nang pigparâ.'''\n\nIsipon tabi kun maninigo an pagkarga giraray kaini.\nAn historial nin pagparâ kan ''file'' nakakaag digdi para sa konbenyensya:"
+
+msgid  "filename-bad-prefix"
+msgstr  "An pangaran nin ''file'' na pigkakarga mo nagpopoon sa '''\"$1\"''', sarong pangaran na dai makapaladawan na normalmente enseguidang pigtatao kan mga kamerang digital. Magpili tabî nin pangaran nin ''file'' na mas makapaladawan."
+
+msgid  "upload-success-subj"
+msgstr  "Nakarga na"
+
+msgid  "upload-proto-error"
+msgstr  "Salang protocolo"
+
+msgid  "upload-proto-error-text"
+msgstr  "An pagkargang panharayo kaipuhan nin mga URLs na nagpopoon sa  <code>http://</code> o <code>ftp://</code>."
+
+msgid  "upload-file-error"
+msgstr  "Panlaog na salâ"
+
+msgid  "upload-file-error-text"
+msgstr  "May panlaog na salâ kan pagprobar na maggibo nin temporaryong ''file'' sa ''server''.  Apodon tabî an administrador nin sistema."
+
+msgid  "upload-misc-error"
+msgstr  "Dai naaaram na error sa pagkarga"
+
+msgid  "upload-misc-error-text"
+msgstr  "May salang panyayari na dai aram kan pagkarga.  Sosogon tabî kun tamâ an URL asin probaran giraray.  Kun an problema nagpeperseguir, apodon tabî an sarong administrador nin sistema."
+
+msgid  "upload-curl-error6"
+msgstr  "Dai naabot an URL"
+
+msgid  "upload-curl-error6-text"
+msgstr  "Dai nabukas an URL na tinao.  Susugon tabi giraray na an  URL tama asin an sitio bakong raot."
+
+msgid  "upload-curl-error28"
+msgstr  "sobra na an pagkalawig kan pagkarga"
+
+msgid  "upload-curl-error28-text"
+msgstr  "Sobrang haloy an pagsimbag kan sitio. Susugon tabi na nagaandar an sitio, maghalat nin muna asin iprobar giraray. Tibaad moot mong magprobar sa panahon na bako masiadong okupado."
+
+msgid  "license"
+msgstr  "Paglilisensia"
+
+msgid  "license-header"
+msgstr  "Paglilisensia"
+
+msgid  "nolicense"
+msgstr  "Mayong pigpilî"
+
+msgid  "license-nopreview"
+msgstr  "(Mayong patânaw)"
+
+msgid  "upload_source_url"
+msgstr  " (sarong tama, na bukas sa publikong URL)"
+
+msgid  "upload_source_file"
+msgstr  " (sarong ''file'' sa kompyuter mo)"
+
+msgid  "listfiles_search_for"
+msgstr  "Hanápon an pangaran kan retrato:"
+
+msgid  "imgfile"
+msgstr  "dokumento"
+
+msgid  "listfiles"
+msgstr  "Lista kan dokumento"
+
+msgid  "listfiles_date"
+msgstr  "Petsa"
+
+msgid  "listfiles_name"
+msgstr  "Pangaran"
+
+msgid  "listfiles_user"
+msgstr  "Parágamit"
+
+msgid  "listfiles_size"
+msgstr  "Sukol"
+
+msgid  "listfiles_description"
+msgstr  "Deskripsión"
+
+msgid  "file-anchor-link"
+msgstr  "File"
+
+msgid  "filehist"
+msgstr  "Uusipón nin file"
+
+msgid  "filehist-help"
+msgstr  "Magpindot kan petsa/oras para mahiling an hitsura kan file sa piniling oras."
+
+msgid  "filehist-deleteall"
+msgstr  "parâon gabos"
+
+msgid  "filehist-deleteone"
+msgstr  "parâon ini"
+
+msgid  "filehist-revert"
+msgstr  "ibalik"
+
+msgid  "filehist-current"
+msgstr  "ngonyan"
+
+msgid  "filehist-datetime"
+msgstr  "Petsa/Oras"
+
+msgid  "filehist-user"
+msgstr  "Paragamit"
+
+msgid  "filehist-dimensions"
+msgstr  "Mga dimensyón"
+
+msgid  "filehist-filesize"
+msgstr  "Sokol nin file"
+
+msgid  "filehist-comment"
+msgstr  "Komento"
+
+msgid  "imagelinks"
+msgstr  "Mga takód"
+
+msgid  "linkstoimage"
+msgstr  "An mga minasunod na pahina nakatakod sa dokumentong ini:"
+
+msgid  "nolinkstoimage"
+msgstr  "Mayong mga pahinang nakatakod sa dokumentong ini."
+
+msgid  "sharedupload"
+msgstr  "Ining ''file'' sarong bakas na pagkarga asin pwede ser na gamiton kan ibang mga proyekto."
+
+msgid  "uploadnewversion-linktext"
+msgstr  "Magkarga nin bàgong bersyon kaining file"
+
+msgid  "filerevert"
+msgstr  "Ibalik an $1"
+
+msgid  "filerevert-legend"
+msgstr  "Ibalik an dokumento"
+
+msgid  "filerevert-intro"
+msgstr  "Pigbabalik mo an '''[[Media:$1|$1]]''' sa [$4 version as of $3, $2]."
+
+msgid  "filerevert-comment"
+msgstr  "Komento:"
+
+msgid  "filerevert-defaultcomment"
+msgstr  "Pigbalik sa bersyon sa ngonyan $2, $1"
+
+msgid  "filerevert-submit"
+msgstr  "Ibalik"
+
+msgid  "filerevert-success"
+msgstr  "'''[[Media:$1|$1]]''' binalik sa [$4 version as of $3, $2]."
+
+msgid  "filerevert-badversion"
+msgstr  "Mayong dating bersyón na lokal kaining ''file'' na may taták nin oras na arog sa tinao."
+
+msgid  "filedelete"
+msgstr  "Parâon an $1"
+
+msgid  "filedelete-legend"
+msgstr  "Parâon an dokumento"
+
+msgid  "filedelete-intro"
+msgstr  "Pigpaparâ mo an '''[[Media:$1|$1]]'''."
+
+msgid  "filedelete-intro-old"
+msgstr  "Pigpaparâ mo an bersyon kan '''[[Media:$1|$1]]''' sa ngonyan [$4 $3, $2]."
+
+msgid  "filedelete-comment"
+msgstr  "Rason:"
+
+msgid  "filedelete-submit"
+msgstr  "Parâon"
+
+msgid  "filedelete-success"
+msgstr  "An '''$1''' pinarâ na."
+
+msgid  "filedelete-success-old"
+msgstr  "<span class=\"plainlinks\">An bersyón kan '''[[Media:$1|$1]]''' na ngonyan na $3, pigparâ na an $2.</span>"
+
+msgid  "filedelete-nofile"
+msgstr  "Mayo man an '''$1''' sa ining sitio."
+
+msgid  "filedelete-nofile-old"
+msgstr  "Mayong bersyón na nakaarchibo kan '''$1''' na igwang kan mga piniling ''character''."
+
+msgid  "mimesearch"
+msgstr  "Paghanap kan MIME"
+
+msgid  "mimesearch-summary"
+msgstr  "An gamit kaining páhina sa pagsasarâ kan mga ''file'' segun sa mga tipo nin MIME. Input: contenttype/subtype, e.g. <tt>image/jpeg</tt>."
+
+msgid  "mimetype"
+msgstr  "tipo nin MIME:"
+
+msgid  "download"
+msgstr  "ideskarga"
+
+msgid  "unwatchedpages"
+msgstr  "Dai pigbabantayan na mga pahina"
+
+msgid  "listredirects"
+msgstr  "Lista nin mga paglikay"
+
+msgid  "unusedtemplates"
+msgstr  "Mga templatong dai ginamit"
+
+msgid  "unusedtemplatestext"
+msgstr  "Piglilista kaining páhina an gabos na mga páhina sa templatong ngaran-espacio na dai nakakaag sa ibang páhina. Giromdomon tabî na sosogon an ibang mga takod sa mga templato bâgo parâon iyan."
+
+msgid  "unusedtemplateswlh"
+msgstr  "ibang mga takod"
+
+msgid  "randompage"
+msgstr  "Dawà arin na pahina"
+
+msgid  "randompage-nopages"
+msgstr  "Mayong páhina an ngaran-espacio."
+
+msgid  "randomredirect"
+msgstr  "Random na pagredirekta"
+
+msgid  "randomredirect-nopages"
+msgstr  "Mayong paglikay (redirects) didgi sa ngaran-espacio."
+
+msgid  "statistics"
+msgstr  "Mga Estadistiko"
+
+msgid  "statistics-header-users"
+msgstr  "Mga estadistiko nin parágamit"
+
+msgid  "statistics-mostpopular"
+msgstr  "mga pinaka pighiling na pahina"
+
+msgid  "disambiguations"
+msgstr  "Mga pahinang klaripikasyon"
+
+msgid  "disambiguationspage"
+msgstr  "Template:clarip"
+
+msgid  "disambiguations-text"
+msgstr  "An mga nasunod na páhina nakatakod sa sarong '''páhina nin klaripikasyon'''.\nImbis, kaipuhan na nakatakod sinda sa maninigong tema.<br />\nAn páhina pigkokonsiderar na páhina nin klaripikasyon kun naggagamit ini nin templatong nakatakod sa [[MediaWiki:Disambiguationspage]]"
+
+msgid  "doubleredirects"
+msgstr  "Dobleng mga redirekta"
+
+msgid  "doubleredirectstext"
+msgstr  "Piglilista kaining pahina an mga pahinang minalikay sa ibang pahinang paralikay. Kada raya may mga takod sa primero asin segundang likay, buda an destino kan segundong likay, na puro-pirme sarong \"tunay \" na pahinang destino, na dapat duman nakaturo an primerong likay."
+
+msgid  "brokenredirects"
+msgstr  "Putol na mga paglikay"
+
+msgid  "brokenredirectstext"
+msgstr  "An nagsusunod naglilikay kan takod sa mga pahinang mayo man:"
+
+msgid  "brokenredirects-edit"
+msgstr  "hirahón"
+
+msgid  "brokenredirects-delete"
+msgstr  "parâon"
+
+msgid  "withoutinterwiki"
+msgstr  "Mga pahinang dai nin mga takod sa ibang tataramon"
+
+msgid  "withoutinterwiki-summary"
+msgstr  "An mga nagsusunod na páhina dai nakatakód sa mga bersión na ibang tataramón:"
+
+msgid  "withoutinterwiki-submit"
+msgstr  "Ipahiling"
+
+msgid  "fewestrevisions"
+msgstr  "Mga artikulong may pinakadikit na pagpakarháy"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|byte|mga byte}}"
+
+msgid  "ncategories"
+msgstr  "$1 {{PLURAL:$1|kategorya|mga kategorya}}"
+
+msgid  "nlinks"
+msgstr  "$1 {{PLURAL:$1|takod|mga takod}}"
+
+msgid  "nmembers"
+msgstr  "$1 {{PLURAL:$1|myembro|mga myembro}}"
+
+msgid  "nrevisions"
+msgstr  "$1 {{PLURAL:$1|pagpakarhay|mga pagpakarhay}}"
+
+msgid  "nviews"
+msgstr  "$1 {{PLURAL:$1|hiling|mga hiling}}"
+
+msgid  "specialpage-empty"
+msgstr  "Mayong mga resulta para sa report na ini."
+
+msgid  "lonelypages"
+msgstr  "Mga solong pahina"
+
+msgid  "lonelypagestext"
+msgstr  "An mga minasunod na mga páhina dai nakatakod sa ibang mga páhina sa wiki na ini."
+
+msgid  "uncategorizedpages"
+msgstr  "Mga dai nakakategoryang páhina"
+
+msgid  "uncategorizedcategories"
+msgstr  "Mga dai nakakategoryang kategorya"
+
+msgid  "uncategorizedimages"
+msgstr  "Mga dai nakakategoryang retrato"
+
+msgid  "uncategorizedtemplates"
+msgstr  "Mga templatong mayong kategorya"
+
+msgid  "unusedcategories"
+msgstr  "Dai gamit na mga kategorya"
+
+msgid  "unusedimages"
+msgstr  "Mga dokumentong dai nagamit"
+
+msgid  "popularpages"
+msgstr  "Mga popular na páhina"
+
+msgid  "wantedcategories"
+msgstr  "Mga hinahanap na kategorya"
+
+msgid  "wantedpages"
+msgstr  "Mga hinahanap na pahina"
+
+msgid  "mostlinked"
+msgstr  "Pinakapigtatakodan na mga pahina"
+
+msgid  "mostlinkedcategories"
+msgstr  "Pinakapigtatakodan na mga kategorya"
+
+msgid  "mostlinkedtemplates"
+msgstr  "An mga pinakanatakodan na templato"
+
+msgid  "mostcategories"
+msgstr  "Mga artikulong may pinaka dakol na kategorya"
+
+msgid  "mostimages"
+msgstr  "Pinakapigtatakodan na files"
+
+msgid  "mostrevisions"
+msgstr  "Mga artikulong may pinakadakol na pagpakarháy"
+
+msgid  "prefixindex"
+msgstr  "Murô nin prefiho"
+
+msgid  "shortpages"
+msgstr  "Haralìpot na pahina"
+
+msgid  "longpages"
+msgstr  "Mga halabang pahina"
+
+msgid  "deadendpages"
+msgstr  "Mga pahinang mayong luwasan"
+
+msgid  "deadendpagestext"
+msgstr  "An mga nagsusunod na pahina dai nakatakod sa mga ibang pahina sa ining wiki."
+
+msgid  "protectedpages"
+msgstr  "Mga protektadong pahina"
+
+msgid  "protectedpagestext"
+msgstr  "An mga minasunod na pahina protektado na ibalyó o hirahón"
+
+msgid  "protectedpagesempty"
+msgstr  "Mayong pang páhina an napoprotehiran kaining mga parametros."
+
+msgid  "listusers"
+msgstr  "Lista nin paragamit"
+
+msgid  "newpages"
+msgstr  "Mga bàgong pahina"
+
+msgid  "newpages-username"
+msgstr  "Pangaran kan parágamit:"
+
+msgid  "ancientpages"
+msgstr  "Mga pinakalumang pahina"
+
+msgid  "move"
+msgstr  "Ibalyó"
+
+msgid  "movethispage"
+msgstr  "Ibalyó ining pahina"
+
+msgid  "unusedimagestext"
+msgstr  "Giromdomon tabî na an mga ibang ''site'' pwedeng nakatakod sa ladawan na may direktong URL, pues pwede ser na nakalista pa digdi a pesar na ini piggagamit pa."
+
+msgid  "unusedcategoriestext"
+msgstr  "Igwa ining mga pahinang kategoria maski mayo man na iba pang pahina o kategoria an naggagamit kaiyan."
+
+msgid  "notargettitle"
+msgstr  "Mayong target"
+
+msgid  "notargettext"
+msgstr  "Dai ka pa nagpili nin pahina o paragamit na muya mong gibohon an accion na ini."
+
+msgid  "booksources"
+msgstr  "Ginikanang libro"
+
+msgid  "booksources-search-legend"
+msgstr  "Maghanap nin mga ginikanang libro"
+
+msgid  "booksources-go"
+msgstr  "Dumanán"
+
+msgid  "booksources-text"
+msgstr  "Mahihiling sa babâ an lista kan mga takod sa ibang ''site'' na nagbenbenta nin mga bâgo asin nagamit nang libro, asin pwede ser na igwa pang mga ibang impormasyon manonongod sa mga librong pighahanap mo:"
+
+msgid  "specialloguserlabel"
+msgstr  "Paragamit:"
+
+msgid  "speciallogtitlelabel"
+msgstr  "Titulo:"
+
+msgid  "log"
+msgstr  "Mga usip"
+
+msgid  "all-logs-page"
+msgstr  "Gabos na usip"
+
+msgid  "alllogstext"
+msgstr  "Sinalak na hihilngon kan gabos na historial na igwa sa {{SITENAME}}. Kun boot mong pasaditon an seleksyon magpili tabî nin klase kan historial, ngaran nin parágamit, o páhinang naapektaran."
+
+msgid  "logempty"
+msgstr  "Mayong angay na bagay sa historial."
+
+msgid  "log-title-wildcard"
+msgstr  "Hanapon an mga titulong napopoon sa tekstong ini"
+
+msgid  "allpages"
+msgstr  "Gabos na pahina"
+
+msgid  "alphaindexline"
+msgstr  "$1 sagkod sa $2"
+
+msgid  "nextpage"
+msgstr  "Sunod na pahina ($1)"
+
+msgid  "prevpage"
+msgstr  "Nakaaging pahina ($1)"
+
+msgid  "allpagesfrom"
+msgstr  "Ipahiling an mga páhina poon sa:"
+
+msgid  "allarticles"
+msgstr  "Gabos na mga artikulo"
+
+msgid  "allinnamespace"
+msgstr  "Gabos na mga páhina ($1 ngaran-espacio)"
+
+msgid  "allnotinnamespace"
+msgstr  "Gabos na mga páhina (na wara sa $1 ngaran-espacio)"
+
+msgid  "allpagesprev"
+msgstr  "Nakaagi"
+
+msgid  "allpagesnext"
+msgstr  "Sunod"
+
+msgid  "allpagessubmit"
+msgstr  "Dumanán"
+
+msgid  "allpagesprefix"
+msgstr  "Ipahiling an mga pahinang may prefiho:"
+
+msgid  "allpagesbadtitle"
+msgstr  "Dai pwede an tinaong titulo kan páhina o may prefihong para sa ibang tataramon o ibang wiki. Pwede ser na igwa ining sarô o iba pang mga ''character'' na dai pwedeng gamiton sa mga titulo."
+
+msgid  "allpages-bad-ns"
+msgstr  "An {{SITENAME}} mayo man na ngaran-espacio na \"$1\"."
+
+msgid  "categories"
+msgstr  "Mga Kategorya"
+
+msgid  "categoriespagetext"
+msgstr  "Igwa nin laog ang mga minasunod na kategorya.\n[[Special:UnusedCategories|Unused categories]] are not shown here.\nAlso see [[Special:WantedCategories|wanted categories]]."
+
+msgid  "deletedcontributions"
+msgstr  "Parâon an mga kontribusyon kan parágamit"
+
+msgid  "deletedcontributions-title"
+msgstr  "Parâon an mga kontribusyon kan parágamit"
+
+msgid  "linksearch"
+msgstr  "Mga panluwas na takod"
+
+msgid  "linksearch-ok"
+msgstr  "Hanápon"
+
+msgid  "linksearch-line"
+msgstr  "$1 an nakatakod sa $2"
+
+msgid  "listusersfrom"
+msgstr  "Ipahiling an mga paragamit poon sa:"
+
+msgid  "listusers-submit"
+msgstr  "Ipahiling"
+
+msgid  "listusers-noresult"
+msgstr  "Mayong nakuang parágamit."
+
+msgid  "newuserlog-create-entry"
+msgstr  "Bâgong parágamit"
+
+msgid  "listgrouprights-group"
+msgstr  "Grupo"
+
+msgid  "listgrouprights-rights"
+msgstr  "Derechos"
+
+msgid  "listgrouprights-members"
+msgstr  "(lista kan mga kaapíl)"
+
+msgid  "mailnologin"
+msgstr  "Mayong direksyón nin destino"
+
+msgid  "mailnologintext"
+msgstr  "Kaipuhan ika si [[Special:UserLogin|nakalaog]]\nasin may marhay na ''e''-surat sa saimong [[Special:Preferences|Mga kabôtan]]\npara makapadara nin ''e''-surat sa ibang parágamit."
+
+msgid  "emailuser"
+msgstr  "E-koreohan ining paragamit"
+
+msgid  "emailpage"
+msgstr  "E-suratan an parágamit"
+
+msgid  "emailpagetext"
+msgstr  "Kun ining páragamit nagkaag nin marhay ''e''-surat sa saiyang mga kabôtan, an pormulario sa babâ mapadara nin sarong mensahe.\nAn kinaag mong ''e''-surat sa saimong mga kabôtan nin paragamit mahihiling bilang na \"Hali ki\" kan ''e''-surat, para an recipiente pwedeng makasimbag."
+
+msgid  "usermailererror"
+msgstr  "Error manonongod sa korreong binalik:"
+
+msgid  "defemailsubject"
+msgstr  "{{SITENAME}} e-surat"
+
+msgid  "noemailtitle"
+msgstr  "Mayô nin ''e''-surat"
+
+msgid  "noemailtext"
+msgstr  "Dai nagpili nin tama na direccion nin e-surat an paragamit,\no habo magresibo nin e-surat sa ibang paragamit."
+
+msgid  "emailfrom"
+msgstr  "Poon"
+
+msgid  "emailto"
+msgstr  "Hasta:"
+
+msgid  "emailsubject"
+msgstr  "Tema"
+
+msgid  "emailmessage"
+msgstr  "Mensahe"
+
+msgid  "emailsend"
+msgstr  "Ipadara"
+
+msgid  "emailccme"
+msgstr  "E-suratan ako nin kopya kan mga mensahe ko."
+
+msgid  "emailccsubject"
+msgstr  "Kopya kan saimong mensahe sa $1: $2"
+
+msgid  "emailsent"
+msgstr  "Naipadará na an e-surat"
+
+msgid  "emailsenttext"
+msgstr  "Naipadará na su e-surat mo."
+
+msgid  "watchlist"
+msgstr  "Pigbabantayan ko"
+
+msgid  "mywatchlist"
+msgstr  "Pigbabantayan ko"
+
+msgid  "nowatchlist"
+msgstr  "Mayo ka man na mga bagay saimong lista nin pigbabantayan."
+
+msgid  "watchlistanontext"
+msgstr  "Mag $1 tabi para mahiling o maghira nin mga bagay saimong lista nin mga pigbabantayan."
+
+msgid  "watchnologin"
+msgstr  "Mayô sa laog"
+
+msgid  "watchnologintext"
+msgstr  "Dapat ika si [[Special:UserLogin|nakalaog]] para puede kang magribay kan saimong lista nin mga pigbabantayán."
+
+msgid  "addedwatch"
+msgstr  "Idinugang sa pigbabantayan"
+
+msgid  "addedwatchtext"
+msgstr  "Ining pahina \"[[:$1]]\" dinugang sa saimong mga [[Special:Watchlist|Pigbabantayan]].\nAn mga pagbabâgo sa páhinang ini asin sa mga páhinang olay na kapadis kaini ililista digdi,\nasin an páhina isusurat nin '''mahîbog''' sa [[Special:RecentChanges|lista nin mga kaaagi pa sanang pagbabâgo]] para madalî ining mahiling.\n\nKun boot mong halîon an páhina sa pigbabantayan mo sa maabot na panahon, pindoton an \"Pabayaan\" ''side bar''."
+
+msgid  "removedwatch"
+msgstr  "Pigtanggal sa pigbabantayan"
+
+msgid  "removedwatchtext"
+msgstr  "An pahinang \"[[:$1]]\" pigtanggal sa saimong pigbabantayan."
+
+msgid  "watch"
+msgstr  "Bantayán"
+
+msgid  "watchthispage"
+msgstr  "Bantayan ining pahina"
+
+msgid  "unwatch"
+msgstr  "Dai pagbantayan"
+
+msgid  "unwatchthispage"
+msgstr  "Pondohon an pagbantay"
+
+msgid  "notanarticle"
+msgstr  "Bakong páhina nin laog"
+
+msgid  "watchnochange"
+msgstr  "Mayo sa saimong mga pigbabantayan an nahira sa laog nin pinahiling na pagkalawig."
+
+msgid  "watchlist-details"
+msgstr  "{{PLURAL:$1|$1 páhina|$1 mga páhina}} an pigbabantayan dai kabali an mga olay na páhina."
+
+msgid  "wlheader-enotif"
+msgstr  "* Nakaandar an paising ''e''-surat."
+
+msgid  "wlheader-showupdated"
+msgstr  "* An mga páhinang pigbâgo poon kan huri mong bisita nakasurat nin '''mahîbog'''"
+
+msgid  "watchmethod-recent"
+msgstr  "Pigsososog an mga kaaagi pa sanang hirá sa mga pigbabantayan na páhina"
+
+msgid  "watchmethod-list"
+msgstr  "Pigsososog an mga pigbabantayan na páhina para mahiling an mga kaaagi pa sanan paghirá"
+
+msgid  "watchlistcontains"
+msgstr  "An saimong lista nin pigbabantayan igwang $1 na {{PLURAL:$1|páhina|mga páhina}}."
+
+msgid  "iteminvalidname"
+msgstr  "May problema sa bagay na '$1', salâ an pangaran..."
+
+msgid  "wlnote"
+msgstr  "Mahihiling sa babâ an {{PLURAL:$1|huring pagriribay|mga huring'''$1''' pagriribay}} sa ultimong {{PLURAL:$2|oras|'''$2''' mga oras}}."
+
+msgid  "wlshowlast"
+msgstr  "Ipahilíng an ultimong $1 na oras $2 na aldaw $3"
+
+msgid  "watching"
+msgstr  "Pigbabantayan..."
+
+msgid  "unwatching"
+msgstr  "Dai pigbabantayan..."
+
+msgid  "enotif_mailer"
+msgstr  "{{SITENAME}} Kartero nin isi"
+
+msgid  "enotif_reset"
+msgstr  "Markahan an gabos na mga binisitang pahina"
+
+msgid  "enotif_newpagetext"
+msgstr  "Bâgo ining pahina."
+
+msgid  "enotif_impersonal_salutation"
+msgstr  "{{SITENAME}} parágamit"
+
+msgid  "changed"
+msgstr  "pigbâgo"
+
+msgid  "created"
+msgstr  "piggibo"
+
+msgid  "enotif_subject"
+msgstr  "An pahinang {{SITENAME}} na $PAGETITLE binago $CHANGEDORCREATED ni $PAGEEDITOR"
+
+msgid  "enotif_lastvisited"
+msgstr  "Hilingón an $1 para sa gabos na mga pagbâgo poon kan huring bisita."
+
+msgid  "enotif_lastdiff"
+msgstr  "Hilingón an $1 tangarig mahiling an pagbâgong ini."
+
+msgid  "enotif_anon_editor"
+msgstr  "dai bistong parágamit $1"
+
+msgid  "enotif_body"
+msgstr  "Namómòtan na $WATCHINGUSERNAME,\n\n\nAn páhinang {{SITENAME}} na $PAGETITLE binâgo $CHANGEDORCREATED sa $PAGEEDITDATE ni $PAGEEDITOR, hilingón an $PAGETITLE_URL para sa presenteng bersyón.\n\n$NEWPAGE\n\nSumáda kan editor: $PAGESUMMARY $PAGEMINOREDIT\n\nApodon an editor:\n''e''-surat: $PAGEEDITOR_EMAIL\nwiki: $PAGEEDITOR_WIKI\n\nMayô nang iba pang paisi na ipapadara dapit sa iba pang mga pagbabâgo kun dai mo bibisitahon giraray ining páhina. Pwede mo man na ipwesto giraray an mga patanid para sa saimong mga páhinang pigbabantayan duman sa saimong lista nin pigbabantayan.\n\n             An maboot na sistema nin paisi kan {{SITENAME}}\n\n--\nPara bâgohon an pagpwesto kan saimong mga pigbabantayan, bisitahon an\n{{fullurl:{{#special:Watchlist}}/edit}}\n\nKomentaryo asin iba pang tabang:\n{{fullurl:{{MediaWiki:Helppage}}}}"
+
+msgid  "deletepage"
+msgstr  "Paraon an pahina"
+
+msgid  "confirm"
+msgstr  "Kompermaron"
+
+msgid  "excontent"
+msgstr  "Ini an dating laog: '$1'"
+
+msgid  "excontentauthor"
+msgstr  "ini an dating laog: '$1' (asin an unikong kontribuidor si '[[Special:Contributions/$2|$2]]')"
+
+msgid  "exbeforeblank"
+msgstr  "Ini an dating laog bagô blinankohán: '$1'"
+
+msgid  "exblank"
+msgstr  "mayong laog an páhina"
+
+msgid  "delete-legend"
+msgstr  "Paraon"
+
+msgid  "historywarning"
+msgstr  "Patanid: An pahinang paparaon mo igwa nin uusipón:"
+
+msgid  "confirmdeletetext"
+msgstr  "Paparaon mo sa base nin datos ining pahina kasabay an gabos na mga uusipón kaini.\nKonpirmaron tabì na talagang boot mong gibohon ini, nasasabotan mo an mga resulta, asin an piggigibo mo ini konporme sa\n[[{{MediaWiki:Policy-url}}]]."
+
+msgid  "actioncomplete"
+msgstr  "Nagibo na"
+
+msgid  "deletedtext"
+msgstr  "Pigparà na an \"<nowiki>$1</nowiki>\" .\nHilingón tabì an $2 para mahiling an lista nin mga kaaagi pa sanang pagparà."
+
+msgid  "deletedarticle"
+msgstr  "pigparà an \"[[$1]]\""
+
+msgid  "dellogpage"
+msgstr  "Usip nin pagparà"
+
+msgid  "dellogpagetext"
+msgstr  "Mahihiling sa babâ an lista kan mga pinakahuring pagparâ."
+
+msgid  "deletionlog"
+msgstr  "Historial nin pagparâ"
+
+msgid  "reverted"
+msgstr  "Ibinalik sa mas naenot na pagpakarhay"
+
+msgid  "deletecomment"
+msgstr  "Rason:"
+
+msgid  "deleteotherreason"
+msgstr  "Iba/dugang na rason:"
+
+msgid  "deletereasonotherlist"
+msgstr  "Ibang rason"
+
+msgid  "rollback"
+msgstr  "Mga paghihira na pabalík"
+
+msgid  "rollback_short"
+msgstr  "pabalík"
+
+msgid  "rollbacklink"
+msgstr  "pabalikón"
+
+msgid  "rollbackfailed"
+msgstr  "Prakaso an pagbalík"
+
+msgid  "cantrollback"
+msgstr  "Dai pwedeng bawîon an hirá; an huring kontribuidor iyo an unikong parásurat kan páhina."
+
+msgid  "alreadyrolled"
+msgstr  "Dai pwedeng ibalik an huring hirá kan [[:$1]]\nni [[User:$2|$2]] ([[User talk:$2|Olay]]); may ibang parágamit na naghirá na o nagbalik na kaini.\n\nHuring hirá ni [[User:$3|$3]] ([[User talk:$3|Olay]])."
+
+msgid  "editcomment"
+msgstr  "Ini an nakakaag na komentaryo sa paghirá: \"''$1''\"."
+
+msgid  "revertpage"
+msgstr  "Binawî na mga paghirá kan [[Special:Contributions/$2|$2]] ([[User talk:$2|Magtaram]]); pigbalik sa dating bersyón ni [[User:$1|$1]]"
+
+msgid  "rollback-success"
+msgstr  "Binawî na mga paghirá ni $1; pigbalik sa dating bersyón ni $2."
+
+msgid  "sessionfailure"
+msgstr  "Garo may problema sa paglaog mo;\nkinanselár ining aksyón bilang sarong paglikay kontra sa ''session hijacking''.\nPindotón tabî an \"back\" asin ikarga giraray an páhinang ginikanan mo, dangan probarán giraray."
+
+msgid  "protectlogpage"
+msgstr  "Usip nin proteksyon"
+
+msgid  "protectlogtext"
+msgstr  "May lista sa baba nin mga kandado asin panbawi kan kandado kan mga páhina. Hilingon an [[Special:ProtectedPages|lista kan mga pigproprotektarán na mga páhina]] para mahiling an lista kan mga proteksión nin mga páhina sa ngunyan na nakabuká."
+
+msgid  "protectedarticle"
+msgstr  "protektado \"[[$1]]\""
+
+msgid  "modifiedarticleprotection"
+msgstr  "binago an nibel nin proteksión para sa \"[[$1]]\""
+
+msgid  "unprotectedarticle"
+msgstr  "Warang proteksión an \"[[$1]]\""
+
+msgid  "protect-title"
+msgstr  "Pigpupuesta an nibel nin proteksión sa \"$1\""
+
+msgid  "prot_1movedto2"
+msgstr  "[[$1]] piglipat sa [[$2]]"
+
+msgid  "protect-legend"
+msgstr  "Kompermaron an proteksyon"
+
+msgid  "protectcomment"
+msgstr  "Rason:"
+
+msgid  "protectexpiry"
+msgstr  "Mápasó:"
+
+msgid  "protect_expiry_invalid"
+msgstr  "Dai pwede ining pahanon nin pagpasó."
+
+msgid  "protect_expiry_old"
+msgstr  "Nakalihis na an panahon nin pagpasó."
+
+msgid  "protect-text"
+msgstr  "Pwede mong hilingón asin bàgohon an tangga nin proteksyon digdi para sa pahina '''<nowiki>$1</nowiki>'''."
+
+msgid  "protect-locked-blocked"
+msgstr  "Dai mo pwedeng bâgohon an mga tangga kan proteksyon mientras na ika nababágat. Ini an mga presenteng pwesto kan páhina '''$1''':"
+
+msgid  "protect-locked-dblock"
+msgstr  "Dai puedeng ibalyo an mga nibel kan proteksión ta may actibong kandado sa base nin datos.\nIni an mga puesta sa ngunyan kaining páhina '''$1''':"
+
+msgid  "protect-locked-access"
+msgstr  "Mayong permiso an account mo na magbàgo kan tangga nin proteksyon.\nUya an ngonyan na mga pwesto kan pahinang '''$1''':"
+
+msgid  "protect-cascadeon"
+msgstr  "Pigproprotektaran ining pahina sa ngonyan ta sabay ini sa mga nasunod na {{PLURAL:$1|pahina, na may|mga pahina, na may}} proteksyong katarata na nakaandar. Pwede mong bàgohon an tangga nin proteksyon kaining pahina, pero mayò ning epekto sa proteksyong katarata."
+
+msgid  "protect-default"
+msgstr  "(normal)"
+
+msgid  "protect-fallback"
+msgstr  "Mangipo kan \"$1\" na permiso"
+
+msgid  "protect-level-autoconfirmed"
+msgstr  "Bagáton an mga paragamit na dai nakarehistro"
+
+msgid  "protect-level-sysop"
+msgstr  "Para sa mga sysop sana"
+
+msgid  "protect-summary-cascade"
+msgstr  "katarata"
+
+msgid  "protect-expiring"
+msgstr  "mápasó sa $1 (UTC)"
+
+msgid  "protect-cascade"
+msgstr  "Protektarán an mga pahinang nakaiba sa pahinang ini (proteksyon katarata)"
+
+msgid  "protect-cantedit"
+msgstr  "Dai mo mariribayan an mga tanggá kan proteksyon kaining pahina huli ta mayò ka nin permiso na ligwatón ini."
+
+msgid  "protect-expiry-options"
+msgstr  "1ng ora:1 hour,1ng aldaw:1 day,1ng semana:1 week,2ng semana:2 weeks,1ng bulan:1 month,3ng bulan:3 months,6 na bulan:6 months,1ng taon:1 year,daing kasagkoran:infinite"
+
+msgid  "restriction-type"
+msgstr  "Permiso:"
+
+msgid  "restriction-level"
+msgstr  "Tanggá nin restriksyon:"
+
+msgid  "minimum-size"
+msgstr  "Pinaka sadit na sukol"
+
+msgid  "maximum-size"
+msgstr  "Pinaka dakula na sukol:"
+
+msgid  "pagesize"
+msgstr  "(oktetos)"
+
+msgid  "restriction-edit"
+msgstr  "Hirahón"
+
+msgid  "restriction-move"
+msgstr  "Ibalyó"
+
+msgid  "restriction-create"
+msgstr  "Maggibo"
+
+msgid  "restriction-upload"
+msgstr  "Magkarga"
+
+msgid  "restriction-level-sysop"
+msgstr  "protektado"
+
+msgid  "restriction-level-autoconfirmed"
+msgstr  "semi-protektado"
+
+msgid  "restriction-level-all"
+msgstr  "maski anong nibel"
+
+msgid  "undelete"
+msgstr  "Hilingón ang mga pinarang pahina"
+
+msgid  "undeletepage"
+msgstr  "Hilingón asin ibalik an mga pinarang pahina"
+
+msgid  "viewdeletedpage"
+msgstr  "Hilingón an mga pinarang pahina"
+
+msgid  "undeletepagetext"
+msgstr  "An mga minasunod na páhina pigparâ na alagad yaon pa sa archibo asin pwedeng ibalik. Dapat limpiahan an archibo kada periodo."
+
+msgid  "undeleteextrahelp"
+msgstr  "Kun boot mong ibalik an enterong páhina, dai markahan an gabos na mga kahon asin pindoton an '''''Restore'''''. Para magpili nin ibábalik, markahan an mga kahon na boot mong ibalik, asin pindoton an '''''Restore'''''. An pagpindot kan '''''Reset''''' makakalimpya nin kampo kan mga kommento\nasin an gabos na mga kahon-marka."
+
+msgid  "undeleterevisions"
+msgstr  "$1 {{PLURAL:$1|na pagriribay|na mga pagriribay}} na nakaarchibo"
+
+msgid  "undeletehistory"
+msgstr  "Kun ibabalik mo an páhinang ini, an gabos na mga pagribay mabalik sa historial.\nKun igwang piggibong sarong bâgong páhinang may parehong pangaran antes ka pagparâ, an presenteng pagribay maluwas sa historial, asin an presenteng pagribay kan tunay na páhina dai enseguidang mariribayan. Giromdomon man tabî na an mga restriksyon sa mga pagriribay nin ''file'' mawawarâ sa pagbalik."
+
+msgid  "undeleterevdel"
+msgstr  "Dai madadagos an pagbalik kan pagparâ kun an resulta kaini mapaparâ kan pagribay an nasa páhinang pinaka itaas.\nSa mga kasong ini, dapat halîon an mga marka o dai itâgo an mga pinaka bâgong pigparâ na mga pagribay. Dai ibabalik an mga pagribay kan mga ''file'' na mayo kan permisong hilingon."
+
+msgid  "undeletehistorynoadmin"
+msgstr  "Pigparâ na ining péhina. Mahihiling an rason sa epitome sa babâ, kasabay sa mga detalye kan mga parágamit na naghira kaining páhina bago pigparâ. Sa mga administrador sana maipapahiling an mga pagribay sa mismong tekstong ini."
+
+msgid  "undelete-revision"
+msgstr  "Pigparâng pagribay ni $3 kan $1 (sa $2):"
+
+msgid  "undeleterevision-missing"
+msgstr  "Dai pwede o nawawarang pagribay. Pwede ser na salâ an takod, o\nbinalik an na pagribay o hinalî sa archibo."
+
+msgid  "undeletebtn"
+msgstr  "Ibalik"
+
+msgid  "undeletereset"
+msgstr  "Ipwesto giraray"
+
+msgid  "undeletecomment"
+msgstr  "Komento:"
+
+msgid  "undeletedarticle"
+msgstr  "Ibinalik \"[[$1]]\""
+
+msgid  "undeletedrevisions"
+msgstr  "$1 na (mga) pagriribay an binalík"
+
+msgid  "undeletedrevisions-files"
+msgstr  "$1 na (mga) pagribay asin $2 na (mga) binalik na ''file''"
+
+msgid  "undeletedfiles"
+msgstr  "$1 (mga) ''file'' an binalik"
+
+msgid  "cannotundelete"
+msgstr  "Naprakaso an pagbalik kan pigparâ; pwede ser an binawi an pagparâ kan páhina kan ibang parágamit."
+
+msgid  "undeletedpage"
+msgstr  "'''binalik na an $1 '''\n\nIkonsultar an [[Special:Log/delete|historial nin pagparâ]] para mahiling an lista nin mga kaaaging pagparâ asin pagbalik."
+
+msgid  "undelete-header"
+msgstr  "Hilingon an [[Special:Log/delete|historial kan pagparâ]] kan mga kaaagi pa sanang pinarang páhina."
+
+msgid  "undelete-search-box"
+msgstr  "Hanapón an mga pinarang pahina"
+
+msgid  "undelete-search-prefix"
+msgstr  "Hilingón an mga pahinang nagpopoon sa:"
+
+msgid  "undelete-search-submit"
+msgstr  "Hanápon"
+
+msgid  "undelete-no-results"
+msgstr  "Mayong nahanap na páhinang angay sa archibo kan mga pigparâ."
+
+msgid  "undelete-filename-mismatch"
+msgstr  "Dai pwedeng bawîon an pagparâ sa ''file'' sa pagkarhay na may tatâk nin oras na $1: dai kapadis an ''filename''"
+
+msgid  "undelete-bad-store-key"
+msgstr  "Dai pwedeng bawîon an pagparâ nin ''file'' na pagpakarhay na may taták nin oras na $1: nawara an ''file'' bago an pagparâ."
+
+msgid  "undelete-cleanup-error"
+msgstr  "May salâ pagparâ kan ''file'' na archibong \"$1\"."
+
+msgid  "undelete-missing-filearchive"
+msgstr  "Dai maibalik an archibo kan ''file'' may na  ID $1 ta mayô ini sa base nin datos. Pwede ser na pigparâ na ini."
+
+msgid  "undelete-error-short"
+msgstr  "May salâ sa pagbalik kan pigparang ''file'': $1"
+
+msgid  "undelete-error-long"
+msgstr  "May mga salâ na nasabat mientras sa pigbabalik an pigparang ''file'':\n\n$1"
+
+msgid  "namespace"
+msgstr  "Liang-liang:"
+
+msgid  "invert"
+msgstr  "Pabaliktadón an pinili"
+
+msgid  "blanknamespace"
+msgstr  "(Principal)"
+
+msgid  "contributions"
+msgstr  "Mga kontribusyon kan parágamit"
+
+msgid  "mycontris"
+msgstr  "Mga kontribusyon ko"
+
+msgid  "contribsub2"
+msgstr  "Para sa $1 ($2)"
+
+msgid  "nocontribs"
+msgstr  "Mayong mga pagbabago na nahanap na kapadis sa ining mga criteria."
+
+msgid  "uctop"
+msgstr  "(alituktok)"
+
+msgid  "month"
+msgstr  "Poon bulan (asin mas amay):"
+
+msgid  "year"
+msgstr  "Poon taon (asin mas amay):"
+
+msgid  "sp-contributions-newbies"
+msgstr  "Ipahiling an mga kontribusión kan mga bagong kuenta sana"
+
+msgid  "sp-contributions-newbies-sub"
+msgstr  "Para sa mga bàgong account"
+
+msgid  "sp-contributions-blocklog"
+msgstr  "Bagáton an usip"
+
+msgid  "sp-contributions-deleted"
+msgstr  "Parâon an mga kontribusyon kan parágamit"
+
+msgid  "sp-contributions-talk"
+msgstr  "Pag-olayán"
+
+msgid  "sp-contributions-userrights"
+msgstr  "Pagmaneho kan mga derecho nin paragamit"
+
+msgid  "sp-contributions-search"
+msgstr  "Maghanap nin mga kontribusyon"
+
+msgid  "sp-contributions-username"
+msgstr  "IP o ngaran kan parágamit:"
+
+msgid  "sp-contributions-submit"
+msgstr  "Hanápon"
+
+msgid  "whatlinkshere"
+msgstr  "An nakatakod digdi"
+
+msgid  "whatlinkshere-title"
+msgstr  "Mga pahinang nakatakod sa $1"
+
+msgid  "whatlinkshere-page"
+msgstr  "Pahina:"
+
+msgid  "linkshere"
+msgstr  "An mga minasunod na pahina nakatakod sa '''[[:$1]]''':"
+
+msgid  "nolinkshere"
+msgstr  "Mayong pahinang nakatakod sa '''[[:$1]]'''."
+
+msgid  "nolinkshere-ns"
+msgstr  "Mayong pahina na nakatakod sa '''[[:$1]]''' sa piniling ngaran-espacio."
+
+msgid  "isredirect"
+msgstr  "ilikay an pahina"
+
+msgid  "istemplate"
+msgstr  "kabali"
+
+msgid  "whatlinkshere-prev"
+msgstr  "{{PLURAL:$1|nakaagi|nakaaging $1}}"
+
+msgid  "whatlinkshere-next"
+msgstr  "{{PLURAL:$1|sunod|sunod na $1}}"
+
+msgid  "whatlinkshere-links"
+msgstr  "← mga takod"
+
+msgid  "whatlinkshere-filters"
+msgstr  "Mga pansárà"
+
+msgid  "blockip"
+msgstr  "Bagáton an paragamit"
+
+msgid  "blockiptext"
+msgstr  "Gamiton an pormularyo sa babâ para bagaton an pagsurat kan sarong espesipikong IP o ngaran nin parágamit.\nDapat gibohon sana ini para maibitaran vandalismo, asin kompirmi sa [[{{MediaWiki:Policy-url}}|palakaw]].\nMagkaag nin espisipikong rason (halimbawa, magtao nin ehemplo kan mga páhinang rinaot)."
+
+msgid  "ipaddress"
+msgstr  "Direksyón nin IP:"
+
+msgid  "ipadressorusername"
+msgstr  "direksyon nin IP o gahâ:"
+
+msgid  "ipbexpiry"
+msgstr  "Pasó:"
+
+msgid  "ipbreason"
+msgstr  "Rason:"
+
+msgid  "ipbreasonotherlist"
+msgstr  "Ibang rason"
+
+msgid  "ipbreason-dropdown"
+msgstr  "*Mga komon na rason sa pagbagat\n** Nagkakaag nin salang impormasyon\n** Naghahalî nin mga laog kan páhina\n** Nagkakaag nin mga takod na ''spam'' kan mga panluwas na ''site''\n** Nagkakaag nin kalokohan/ringaw sa mga pahina\n** Gawî-gawing makatakót/makauyám\n** Nag-aabuso nin mga lain-lain na ''account''\n** Dai akong ngaran nin parágamit"
+
+msgid  "ipbanononly"
+msgstr  "Bagaton an mga paragamit na anonimo sana"
+
+msgid  "ipbcreateaccount"
+msgstr  "Pugulon an pagibo nin kuenta."
+
+msgid  "ipbemailban"
+msgstr  "Pugolan ining paragamit na magpadara nin e-surat"
+
+msgid  "ipbenableautoblock"
+msgstr  "Enseguidang bagaton an huring direccion nin  IP na ginamit kaining paragamit, asin kon ano pang ibang IP na proprobaran nindang gamiton"
+
+msgid  "ipbsubmit"
+msgstr  "Bagáton ining parágamit"
+
+msgid  "ipbother"
+msgstr  "Ibang oras:"
+
+msgid  "ipboptions"
+msgstr  "2ng oras:2 hours,1ng aldaw:1 day,3ng aldaw:3 days,1ng semana:1 week,2ng semana:2 weeks,1ng bulan:1 month,3ng bulan:3 months,6 na bulan:6 months,1ng taon:1 year,daing kasagkoran:infinite"
+
+msgid  "ipbotheroption"
+msgstr  "iba"
+
+msgid  "ipbotherreason"
+msgstr  "Iba/dugang na rasón:"
+
+msgid  "ipbhidename"
+msgstr  "Itago an ngaran in paragamit para dai mahiling sa historial nin pagbagat, nakaandar na lista nin binagat asin lista nin paragamit"
+
+msgid  "badipaddress"
+msgstr  "Dai pwede ining IP"
+
+msgid  "blockipsuccesssub"
+msgstr  "Nagibo na an pagbagát"
+
+msgid  "blockipsuccesstext"
+msgstr  "Binagat si [[Special:Contributions/$1|$1]].\n<br />Hilingon an [[Special:IPBlockList|lista nin mga binagat na IP]] para marepaso an mga binagat."
+
+msgid  "ipb-edit-dropdown"
+msgstr  "Hirahón an mga rasón sa pagbabagát"
+
+msgid  "ipb-unblock-addr"
+msgstr  "Paagihon $1"
+
+msgid  "ipb-unblock"
+msgstr  "Bawion an pagbagat nin ngaran nin paragamit o direccion nin IP"
+
+msgid  "ipb-blocklist"
+msgstr  "Hilingon an mga presenteng binagat"
+
+msgid  "unblockip"
+msgstr  "Paagihon an parâgamit"
+
+msgid  "unblockiptext"
+msgstr  "Gamiton an pormulario sa baba para puede giraray suratan an dating binagat na direccion nin IP address o ngaran nin paragamit."
+
+msgid  "ipusubmit"
+msgstr  "Bawion an pagbagat kaining direccíón"
+
+msgid  "unblocked"
+msgstr  "Binawi na an pagbagat ki [[User:$1|$1]]"
+
+msgid  "unblocked-id"
+msgstr  "Hinali na an bagat na $1"
+
+msgid  "ipblocklist"
+msgstr  "Lista nin mga direksyon nin IP asin ngaran nin paragamit na binagat"
+
+msgid  "ipblocklist-legend"
+msgstr  "Hanapon an sarong binagát na paragamit"
+
+msgid  "ipblocklist-username"
+msgstr  "Gahâ o dirección nin IP:"
+
+msgid  "ipblocklist-submit"
+msgstr  "Hanápon"
+
+msgid  "blocklistline"
+msgstr  "$1, $2 binagat $3 ($4)"
+
+msgid  "infiniteblock"
+msgstr  "daing siring"
+
+msgid  "expiringblock"
+msgstr  "minapasó $1 $2"
+
+msgid  "anononlyblock"
+msgstr  "anon. sana"
+
+msgid  "noautoblockblock"
+msgstr  "pigpopondo an enseguidang pagbagat"
+
+msgid  "createaccountblock"
+msgstr  "binagat an paggibo nin kuenta"
+
+msgid  "emailblock"
+msgstr  "binagát an e-surat"
+
+msgid  "ipblocklist-empty"
+msgstr  "Mayong laog an lista nin mga binagat."
+
+msgid  "ipblocklist-no-results"
+msgstr  "Dai nabagat an hinagad na direccion nin IP o ngaran nin paragamit."
+
+msgid  "blocklink"
+msgstr  "bagáton"
+
+msgid  "unblocklink"
+msgstr  "paagihon"
+
+msgid  "contribslink"
+msgstr  "mga kontrib"
+
+msgid  "autoblocker"
+msgstr  "Enseguidang binagat an saimong direccion nin IP ta kaaaging ginamit ini ni \"[[User:$1|$1]]\". An rason nin pagbagat ni $1: \"$2\""
+
+msgid  "blocklogpage"
+msgstr  "Usip nin pagbagat"
+
+msgid  "blocklogentry"
+msgstr  "binagat na [[$1]] na may oras nin pagpaso na $2 $3"
+
+msgid  "blocklogtext"
+msgstr  "Ini an historial kan pagbagat asin pagbawi sa pagbagat nin mga paragamit. An mga enseguidang binagat na direccion nin\nIP dai nakalista digdi. Hilingon an [[Special:IPBlockList|IP lista nin mga binagat]] para sa lista nin mga nakaandar na mga pagpangalad buda mga pagbagat."
+
+msgid  "unblocklogentry"
+msgstr  "binawi an pagbagat $1"
+
+msgid  "block-log-flags-anononly"
+msgstr  "Mga paragamit na anónimo sana"
+
+msgid  "block-log-flags-nocreate"
+msgstr  "pigpopondohán an paggibo nin ''account'"
+
+msgid  "block-log-flags-noautoblock"
+msgstr  "pigpopondo an enseguidang pagbagat"
+
+msgid  "block-log-flags-noemail"
+msgstr  "binagát an e-surat"
+
+msgid  "range_block_disabled"
+msgstr  "Pigpopondo an abilidad kan sysop na maggibo nin bagat na hilera."
+
+msgid  "ipb_expiry_invalid"
+msgstr  "Dai pwede ini bilang oras kan pagpasó."
+
+msgid  "ipb_already_blocked"
+msgstr  "Dating binagat na si \"$1\""
+
+msgid  "ipb_cant_unblock"
+msgstr  "Error: Dai nahanap an ID nin binagat na $1. Puede ser na dati nang binawi an pagbagat kaini."
+
+msgid  "ip_range_invalid"
+msgstr  "Dai pwede ining serye nin IP."
+
+msgid  "proxyblocker"
+msgstr  "Parabagát na karibay"
+
+msgid  "proxyblockreason"
+msgstr  "Binagat an saimong direccion nin IP ta ini sarong bukas na proxy. Apodon tabi an saimong Internet service provider o tech support asin ipaaram sainda ining seriosong problema nin seguridad."
+
+msgid  "proxyblocksuccess"
+msgstr  "Tapos."
+
+msgid  "sorbsreason"
+msgstr  "An saimong direccion in IP nakalista na bukas na proxy sa DNSBL na piggagamit kaining sitio."
+
+msgid  "sorbs_create_account_reason"
+msgstr  "An IP mo nakalista bilang bukás ''proxy'' sa DNSBL na piggagamit kaining ''site''. Dai ka pwedeng maggibo ''account''"
+
+msgid  "lockdb"
+msgstr  "Ikandado an base nin datos"
+
+msgid  "unlockdb"
+msgstr  "Ibukás an base nin datos"
+
+msgid  "lockconfirm"
+msgstr  "Iyo, boot kong ikandado an base kan datos."
+
+msgid  "unlockconfirm"
+msgstr  "Iyo, boot kong bukasan an base kan datos."
+
+msgid  "lockbtn"
+msgstr  "Isará an base nin datos"
+
+msgid  "unlockbtn"
+msgstr  "Ibukás an base nin datos"
+
+msgid  "locknoconfirm"
+msgstr  "Dai mo pigtsekan an kahon para sa kompirmasyon."
+
+msgid  "lockdbsuccesssub"
+msgstr  "Kinandado na an base nin datos"
+
+msgid  "unlockdbsuccesssub"
+msgstr  "Hinalî an kandado nin base nin datos"
+
+msgid  "lockdbsuccesstext"
+msgstr  "Pigkandado na an base kan datos.\n<br />Giromdomon na [[Special:UnlockDB|halîon an kandado]] pagkatapos kan pagmantenir."
+
+msgid  "unlockdbsuccesstext"
+msgstr  "Pigbukasan na an base nin datos."
+
+msgid  "lockfilenotwritable"
+msgstr  "An ''file'' na kandado kan base nin datos dai nasusuratan. Para makandado o mabukasan an bse nin datos, kaipuhan na nasusuratan ini kan web server."
+
+msgid  "databasenotlocked"
+msgstr  "Dai nakakandado an base nin datos."
+
+msgid  "move-page-legend"
+msgstr  "Ibalyó an páhina"
+
+msgid  "movepagetext"
+msgstr  "Matatàwan nin bàgong pangaran an sarong pahina na pigbabalyo an gabos na uusipón kaini gamit an pormularyo sa babâ.\nAn dating titulo magigin redirektang pahina sa bàgong titulo.\nDai babàgohon an mga takod sa dating titulo kan pahina;\nseguradohon tabì na mayong doble o raot na mga redirekta.\nIka an responsable sa pagpaseguro na an mga takod nakatokdô kun sain dapat.\n\nGiromdomon tabì na an pahina '''dai''' ibabalyó kun igwa nang pahina sa bàgong titulo, apwera kun mayò ining laog o sarong redirekta asin uusipón nin mga dating pagliwat. An boot sabihon kaini, pwede mong ibalik an dating pangaran kan pahina kun sain ini pigribayan nin pangaran kun napasalà ka, asin dai mo man sosoknongan an presenteng pahina.\n\n'''PATANID!'''\nPwede na dakulà asin dai seguradong pagbàgo ini kan sarong popular na pahina; seguradohon tabì na aram mo an konsekwensya kaini bago magdagos."
+
+msgid  "movepagetalktext"
+msgstr  "An kapadis na olay na páhina enseguidang ibabalyo kasabay kaini '''kun:'''\n*Igwa nang may laog na olay na páhina na may parehong pangaran, o\n*Halîon mo an marka sa kahon sa babâ.\n\nSa mga kasong iyan, kaipuhan mong ibalyo o isalak an páhina nin mano-mano kun boot mo."
+
+msgid  "movearticle"
+msgstr  "Ibalyó an pahina:"
+
+msgid  "movenologin"
+msgstr  "Mayô sa laog"
+
+msgid  "movenologintext"
+msgstr  "Kaipuhan na rehistradong parágamit ka asin si [[Special:UserLogin|nakalaog]] tangarig makabalyó ka nin páhina."
+
+msgid  "movenotallowed"
+msgstr  "Mayô kang permiso na ibalyó an mga pahina sa wiki na ini."
+
+msgid  "newtitle"
+msgstr  "Sa bàgong titulong:"
+
+msgid  "move-watch"
+msgstr  "Bantayán ining pahina"
+
+msgid  "movepagebtn"
+msgstr  "Ibalyó an pahina"
+
+msgid  "pagemovedsub"
+msgstr  "Naibalyó na"
+
+msgid  "movepage-moved"
+msgstr  "'''Naihubò na an \"$1\" sa \"$2\"'''"
+
+msgid  "articleexists"
+msgstr  "Igwa nang pahina sa parehong pangaran, o dai pwede an pangaran na pigpilì mo.\nMagpilì tabì nin ibang pangaran."
+
+msgid  "talkexists"
+msgstr  "'''Ibinalyo na an mismong pahina, alagad dai naibalyo an pahina nin orolay ta igwa na kaini sa bàgong titulo. Pagsaroon tabì ining duwa nin mano-mano.'''"
+
+msgid  "movedto"
+msgstr  "piglipat sa"
+
+msgid  "movetalk"
+msgstr  "Ibalyo an pahinang orolayan na nakaasociar"
+
+msgid  "1movedto2"
+msgstr  "[[$1]] piglipat sa [[$2]]"
+
+msgid  "1movedto2_redir"
+msgstr  "[[$1]] pigbalyó sa [[$2]] sa paagi kan pagredirekta"
+
+msgid  "movelogpage"
+msgstr  "Ibalyó an usip"
+
+msgid  "movelogpagetext"
+msgstr  "Nasa ibaba an lista kan pahinang pigbalyó."
+
+msgid  "movereason"
+msgstr  "Rason:"
+
+msgid  "revertmove"
+msgstr  "ibalík"
+
+msgid  "delete_and_move"
+msgstr  "Parâon asin ibalyó"
+
+msgid  "delete_and_move_text"
+msgstr  "==Kaipuhan na parâon==\n\nIgwa nang páhina na \"[[:$1]]\". Gusto mong parâon ini tangarig maibalyó?"
+
+msgid  "delete_and_move_confirm"
+msgstr  "Iyo, parâon an pahina"
+
+msgid  "delete_and_move_reason"
+msgstr  "Pinarâ tangarig maibalyó"
+
+msgid  "selfmove"
+msgstr  "Pareho an páhinang ginikanan asin destinasyon; dai pwedeng ibalyó an sarong páhina sa sadiri."
+
+msgid  "export"
+msgstr  "Iluwas an mga pahina"
+
+msgid  "exporttext"
+msgstr  "Pwede mong ipadara an teksto asin historya nin paghirá kan sarong partikular na páhina o grupo nin mga páhina na nakapatos sa ibang XML. Pwede ining ipadara sa ibang wiki gamit an MediaWiki sa paagi kan [[Special:Import|pagpadara nin páhina]].\n\nPara makapadara nin mga páhina, ilaag an mga titulo sa kahon para sa teksto sa babâ, sarong titulo kada linya, dangan pilîon kun boot mo presenteng bersyón asin dating bersyón, na may mga linya kan historya, o an presenteng bersyón sana na may impormasyon manonongod sa huring hirá.\n\nSa kaso kan huri, pwede ka man na maggamit nin takod, arog kan [[{{#Special:Export}}/{{MediaWiki:Mainpage}}]] para sa páhinang \"[[{{MediaWiki:Mainpage}}]]\"."
+
+msgid  "exportcuronly"
+msgstr  "Mga presenteng pagpakarhay sana an ibali, bakong an enterong historya"
+
+msgid  "exportnohistory"
+msgstr  "----\n'''Paisi:''' Dai pigpatogotan an pagpadara kan enterong historya kan mga páhina sa paagi kaining forma huli sa mga rasón dapit sa pagsagibo kaini."
+
+msgid  "export-submit"
+msgstr  "Ipaluwás"
+
+msgid  "export-addcattext"
+msgstr  "Magdugang nin mga pahina sa kategoryang ini:"
+
+msgid  "export-addcat"
+msgstr  "Magdugang"
+
+msgid  "export-download"
+msgstr  "Hapotón ku gustong itagama bilang sarong ''file''"
+
+msgid  "allmessages"
+msgstr  "Mga mensahe sa sistema"
+
+msgid  "allmessagesname"
+msgstr  "Pangaran"
+
+msgid  "allmessagesdefault"
+msgstr  "Tekstong normal"
+
+msgid  "allmessagescurrent"
+msgstr  "Presenteng teksto"
+
+msgid  "allmessagestext"
+msgstr  "Ini an lista kan mga mensahe sa sistema sa ngaran-espacio na MediaWiki.\nPlease visit [http://www.mediawiki.org/wiki/Localisation MediaWiki Localisation] and [http://translatewiki.net translatewiki.net] if you wish to contribute to the generic MediaWiki localisation."
+
+msgid  "allmessagesnotsupportedDB"
+msgstr  "Dai pwedeng gamiton an '''{{ns:special}}:Allmessages''' ta sarado an '''$wgUseDatabaseMessages'''."
+
+msgid  "thumbnail-more"
+msgstr  "Padakulaon"
+
+msgid  "filemissing"
+msgstr  "Nawawarâ an ''file''"
+
+msgid  "thumbnail_error"
+msgstr  "Error sa paggigibo kan retratito: $1"
+
+msgid  "djvu_page_error"
+msgstr  "luwas sa serye an páhina kan DjVu"
+
+msgid  "djvu_no_xml"
+msgstr  "Dai makua an XML para sa DjVu file"
+
+msgid  "thumbnail_invalid_params"
+msgstr  "Dai pwede an mga parámetro kaining retratito"
+
+msgid  "thumbnail_dest_directory"
+msgstr  "Dai makagibo kan destinasyon kan direktoryo"
+
+msgid  "import"
+msgstr  "Ilaog an mga páhina"
+
+msgid  "importinterwiki"
+msgstr  "Ipadara an Transwiki"
+
+msgid  "import-interwiki-history"
+msgstr  "Kopyahon an gabos na mga bersyón para sa páhinang ini"
+
+msgid  "import-interwiki-submit"
+msgstr  "Ipalaog"
+
+msgid  "import-interwiki-namespace"
+msgstr  "Ibalyó an mga páhina sa ngaran-espacio:"
+
+msgid  "import-comment"
+msgstr  "Komento:"
+
+msgid  "importtext"
+msgstr  "Ipadara tabì an ''file'' hali sa ginikanan na wiki gamit an Special:Export utility, itagama ini sa saimong disk dangan ikarga iyan digdi."
+
+msgid  "importstart"
+msgstr  "Piglalaog an mga páhina..."
+
+msgid  "import-revision-count"
+msgstr  "$1 {{PLURAL:$1|pagpakarhay|mga pagpakarhay}}"
+
+msgid  "importnopages"
+msgstr  "Mayong mga páhinang ipapadara."
+
+msgid  "importfailed"
+msgstr  "Bakong matriumpo an pagpadara: $1"
+
+msgid  "importunknownsource"
+msgstr  "Dai aram an tipo kan gigikanan kan ipapadara"
+
+msgid  "importcantopen"
+msgstr  "Dai mabukasan an pigpadarang ''file''"
+
+msgid  "importbadinterwiki"
+msgstr  "Salâ an takod na interwiki"
+
+msgid  "importnotext"
+msgstr  "Mayong laog o mayong teksto"
+
+msgid  "importsuccess"
+msgstr  "Matriumpo an pagpadara!"
+
+msgid  "importnofile"
+msgstr  "Mayong ipinadarang ''file'' an naikarga."
+
+msgid  "importlogpage"
+msgstr  "Usip nin pagpalaog"
+
+msgid  "import-logentry-upload"
+msgstr  "pigpadara an [[$1]] kan pagkarga nin ''file''"
+
+msgid  "import-logentry-upload-detail"
+msgstr  "$1 mga pagpakarháy"
+
+msgid  "import-logentry-interwiki"
+msgstr  "na-transwiki an $1"
+
+msgid  "import-logentry-interwiki-detail"
+msgstr  "$1 mga pagpakarháy halì sa $2"
+
+msgid  "tooltip-pt-userpage"
+msgstr  "An sakóng pahina"
+
+msgid  "tooltip-pt-anonuserpage"
+msgstr  "An páhina nin páragamit para sa ip na pighihira mo bilang"
+
+msgid  "tooltip-pt-mytalk"
+msgstr  "Pahina nin sakóng olay"
+
+msgid  "tooltip-pt-anontalk"
+msgstr  "Mga olay manonongod sa mga hira halî sa ip na ini"
+
+msgid  "tooltip-pt-preferences"
+msgstr  "Mga kabòtan ko"
+
+msgid  "tooltip-pt-watchlist"
+msgstr  "Lista nin mga pahina na pigbabantayan an mga pagbabàgo"
+
+msgid  "tooltip-pt-mycontris"
+msgstr  "Lista kan mga kabòtan ko"
+
+msgid  "tooltip-pt-login"
+msgstr  "Pigaagda kang maglaog, alagad, bako man ining piriritan."
+
+msgid  "tooltip-pt-anonlogin"
+msgstr  "Pig-aagda kang maglaog, alagad, bakô man ining piriritan."
+
+msgid  "tooltip-pt-logout"
+msgstr  "Magluwas"
+
+msgid  "tooltip-ca-talk"
+msgstr  "Olay sa pahina nin laog"
+
+msgid  "tooltip-ca-edit"
+msgstr  "Pwede mong hirahón ining pahina. Gamiton tabi an patànaw na butones bago an pagtagama."
+
+msgid  "tooltip-ca-addsection"
+msgstr  "Magdugang nin komento sa orólay na ini."
+
+msgid  "tooltip-ca-viewsource"
+msgstr  "Protektado ining pahina. Pwede mong hilingón an ginikanan."
+
+msgid  "tooltip-ca-history"
+msgstr  "Mga nakaaging bersyon kaining pahina"
+
+msgid  "tooltip-ca-protect"
+msgstr  "Protektahán ining pahina"
+
+msgid  "tooltip-ca-delete"
+msgstr  "Paraon an pahinang ini"
+
+msgid  "tooltip-ca-undelete"
+msgstr  "Bawîon an mga hirá na piggibo sa páhinang ini bâgo ini pigparâ"
+
+msgid  "tooltip-ca-move"
+msgstr  "Ibalyo an pahinang ini"
+
+msgid  "tooltip-ca-watch"
+msgstr  "Idugang ining páhina sa pigbabantayan mo"
+
+msgid  "tooltip-ca-unwatch"
+msgstr  "Halion ining pahina sa lista nin pigbabantayan mo"
+
+msgid  "tooltip-search"
+msgstr  "Hanápon an {{SITENAME}}"
+
+msgid  "tooltip-search-go"
+msgstr  "Magduman sa pahina na igwa kaining eksaktong pangaran"
+
+msgid  "tooltip-search-fulltext"
+msgstr  "Hanápon an mga pahina para sa tekstong ini"
+
+msgid  "tooltip-p-logo"
+msgstr  "Pangenot na Pahina"
+
+msgid  "tooltip-n-mainpage"
+msgstr  "Bisitahon an Pangenot na Pahina"
+
+msgid  "tooltip-n-mainpage-description"
+msgstr  "Daláwon an pangenot na pahina"
+
+msgid  "tooltip-n-portal"
+msgstr  "Manonongod sa proyekto, an pwede mong gibohon, kun sain mo pwedeng hanapon an mga bagay"
+
+msgid  "tooltip-n-currentevents"
+msgstr  "Hanapon an mga impormasyon na ginikanan sa mga presenteng panyayari"
+
+msgid  "tooltip-n-recentchanges"
+msgstr  "An lista nin mga bàgong pagbabàgo sa wiki."
+
+msgid  "tooltip-n-randompage"
+msgstr  "Magkarga nin bàgong pahina"
+
+msgid  "tooltip-n-help"
+msgstr  "An lugar para makatalastas"
+
+msgid  "tooltip-t-whatlinkshere"
+msgstr  "Lista nin gabos na pahinang wiki na nakatakód digdi"
+
+msgid  "tooltip-t-recentchangeslinked"
+msgstr  "Mga kaaaging pagbabàgo sa mga pahinang nakatakod digdi"
+
+msgid  "tooltip-feed-rss"
+msgstr  "Hungit na RSS sa pahinang ini"
+
+msgid  "tooltip-feed-atom"
+msgstr  "Hungit na atomo sa pahinang ini"
+
+msgid  "tooltip-t-contributions"
+msgstr  "Hilingón an lista kan mga kontribusyon kaining paragamit"
+
+msgid  "tooltip-t-emailuser"
+msgstr  "Padarahan nin e-koreo an paragamit na ini"
+
+msgid  "tooltip-t-upload"
+msgstr  "Ikargá an mga ladawan o media files"
+
+msgid  "tooltip-t-specialpages"
+msgstr  "Lista kan gabos na mga espesyal na pahina"
+
+msgid  "tooltip-t-print"
+msgstr  "Naipiprint na bersyon kaining pahina"
+
+msgid  "tooltip-t-permalink"
+msgstr  "Permanenteng takod sa bersyon kaining páhina"
+
+msgid  "tooltip-ca-nstab-main"
+msgstr  "Hilingón an pahina nin laog"
+
+msgid  "tooltip-ca-nstab-user"
+msgstr  "Hilingón an pahina nin paragamit"
+
+msgid  "tooltip-ca-nstab-media"
+msgstr  "Hilingón an pahina kan ''media''"
+
+msgid  "tooltip-ca-nstab-special"
+msgstr  "Pahinang espesyal ini, dai mo ini pwedeng hirahón"
+
+msgid  "tooltip-ca-nstab-project"
+msgstr  "Hilingón an pahina kan proyekto"
+
+msgid  "tooltip-ca-nstab-image"
+msgstr  "Hilingón an pahina kan retrato"
+
+msgid  "tooltip-ca-nstab-mediawiki"
+msgstr  "Hilingón an ''system message''"
+
+msgid  "tooltip-ca-nstab-template"
+msgstr  "Hilingón an templato"
+
+msgid  "tooltip-ca-nstab-help"
+msgstr  "Hilingón an pahina nin tabang"
+
+msgid  "tooltip-ca-nstab-category"
+msgstr  "Hilingón an pahina kan kategorya"
+
+msgid  "tooltip-minoredit"
+msgstr  "Markahán ini bilang sadit na pagligwat"
+
+msgid  "tooltip-save"
+msgstr  "Itagáma an saimong mga pagbabàgo"
+
+msgid  "tooltip-preview"
+msgstr  "Tànawon an saimong mga pagbabàgo, gamitón tabì ini bàgo magtagáma!"
+
+msgid  "tooltip-diff"
+msgstr  "Ipahilíng an mga pagbabàgong ginibo mo sa teksto."
+
+msgid  "tooltip-compareselectedversions"
+msgstr  "Hilingon an mga kaibhán sa duwang piniling bersyón kaining páhina."
+
+msgid  "tooltip-watch"
+msgstr  "Idugang ining pahina sa pigbabantayan mo"
+
+msgid  "tooltip-recreate"
+msgstr  "Gibohon giraray an páhina maski na naparâ na ini"
+
+msgid  "tooltip-upload"
+msgstr  "Pônan an pagkarga"
+
+msgid  "common.css"
+msgstr  "/** an CSS na pigbugtak digdi maiaaplikar sa gabos na mga skin */"
+
+msgid  "monobook.css"
+msgstr  "/* an CSS na pigbugtak digdi makakaapektar sa mga parágamit kan Monobook skin */"
+
+msgid  "common.js"
+msgstr  "/* Arin man na JavaScript digdi maikakarga para sa gabos na mga parágamit sa kada karga kan páhina. */"
+
+msgid  "monobook.js"
+msgstr  "/* Deprecado; gamiton an [[MediaWiki:common.js]] */"
+
+msgid  "nodublincore"
+msgstr  "Pigpopogolan an Dublin Core RDF na metadata para sa ''server'' na ini."
+
+msgid  "nocreativecommons"
+msgstr  "Pigpopogolan an Creative Commons RDF na metadata para sa ''server'' na ini."
+
+msgid  "notacceptable"
+msgstr  "Dai pwedeng magtao nin datos an ''wiki server'' sa ''format'' na pwedeng basahon kan kompyuter mo."
+
+msgid  "anonymous"
+msgstr  "(Mga)paragamit na anónimo kan {{SITENAME}}"
+
+msgid  "siteuser"
+msgstr  "Paragamit kan {{SITENAME}} na si $1"
+
+msgid  "lastmodifiedatby"
+msgstr  "Ining páhina huring binago sa $2, $1 ni $3."
+
+msgid  "othercontribs"
+msgstr  "Binase ini sa trabaho ni $1."
+
+msgid  "others"
+msgstr  "iba pa"
+
+msgid  "siteusers"
+msgstr  "(Mga)paragamit kan {{SITENAME}} na si $1"
+
+msgid  "creditspage"
+msgstr  "Mga krédito nin páhina"
+
+msgid  "nocredits"
+msgstr  "Mayong talastas kan kredito para sa ining pahina."
+
+msgid  "spamprotectiontitle"
+msgstr  "Proteksyon kan ''spam filter''"
+
+msgid  "spamprotectiontext"
+msgstr  "An páhinang gusto mong itagama pigbagat kan ''spam filter''. Kawsa gayod ini kan sarong takod sa sarong panluwas na 'site'."
+
+msgid  "spamprotectionmatch"
+msgstr  "An minasunod na teksto iyo an nagbukas kan ''spam filter'' mi: $1"
+
+msgid  "spambot_username"
+msgstr  "paglimpya nin spam sa MediaWiki"
+
+msgid  "spam_reverting"
+msgstr  "Mabalik sa huring bersion na mayong takod sa $1"
+
+msgid  "spam_blanking"
+msgstr  "An gabos na mga pahirá na may takod sa $1, pigblablanko"
+
+msgid  "infosubtitle"
+msgstr  "Impormasyón kan páhina"
+
+msgid  "numedits"
+msgstr  "Bilang kan mga hira (artikulo): $1"
+
+msgid  "numtalkedits"
+msgstr  "Bilang kan mga hirá (páhina kan orólay): $1"
+
+msgid  "numwatchers"
+msgstr  "Bilang kan mga parábantay: $1"
+
+msgid  "numauthors"
+msgstr  "Bilang kan mga parásurat na ibá (páhina): $1"
+
+msgid  "numtalkauthors"
+msgstr  "Bilang kan mga parásurat na ibá (páhina kan orólay): $1"
+
+msgid  "skinname-standard"
+msgstr  "Klasiko"
+
+msgid  "skinname-simple"
+msgstr  "Simple"
+
+msgid  "skinname-modern"
+msgstr  "Bago"
+
+msgid  "mw_math_png"
+msgstr  "Itaô pirmi an PNG"
+
+msgid  "mw_math_simple"
+msgstr  "HTML kun simple sana o PNG kun bakô"
+
+msgid  "mw_math_html"
+msgstr  "HTML kun posible o PNG kun bakô"
+
+msgid  "mw_math_source"
+msgstr  "Pabayaan na bilang TeX (para sa mga ''browser'' na teksto)"
+
+msgid  "mw_math_modern"
+msgstr  "Pigrerekomendár para sa mga modernong ''browser''"
+
+msgid  "mw_math_mathml"
+msgstr  "MathML kun posible (experimental)"
+
+msgid  "math_failure"
+msgstr  "Nagprakaso an pagatíd-atíd"
+
+msgid  "math_unknown_error"
+msgstr  "dai aram an salâ"
+
+msgid  "math_unknown_function"
+msgstr  "Dai aram an gamit"
+
+msgid  "math_lexing_error"
+msgstr  "may salâ sa analisador léxico"
+
+msgid  "math_syntax_error"
+msgstr  "may salâ sa analisador nin sintaksis"
+
+msgid  "math_image_error"
+msgstr  "Nagprakaso an konbersyon kan PNG; sosogon tabî an pagkaag nin latex, dvips, gs, asin ikonbertir"
+
+msgid  "math_bad_tmpdir"
+msgstr  "Dai masuratan o magibo an direktoryo nin mat temp"
+
+msgid  "math_bad_output"
+msgstr  "Dai masuratan o magibo an direktoryo kan salida nin math"
+
+msgid  "math_notexvc"
+msgstr  "May nawawarang texvc na ehekutable; hilingón tabî an mat/README para makonpigurar."
+
+msgid  "markaspatrolleddiff"
+msgstr  "Markahán na pigpapatrulya"
+
+msgid  "markaspatrolledtext"
+msgstr  "Markahan ining pahina na pigpapatrulya"
+
+msgid  "markedaspatrolled"
+msgstr  "Minarkahán na pigpapatrulyá"
+
+msgid  "markedaspatrolledtext"
+msgstr  "Minarkahan bilang pigpapatrulya an piniling pagpakaray."
+
+msgid  "rcpatroldisabled"
+msgstr  "Pigpopogolan an mga Pagpatrulya kan mga Kaaaging Pagbabâgo"
+
+msgid  "rcpatroldisabledtext"
+msgstr  "Pigpopogulan muna an Pagpatrulya kan mga Kaaaging Pagbabago."
+
+msgid  "markedaspatrollederror"
+msgstr  "Dai pwedeng markahán na pigpapatrulya"
+
+msgid  "markedaspatrollederrortext"
+msgstr  "Kaipuhan mong magpili nin pagpakaray na mamarkahon na pigpapatrulya."
+
+msgid  "markedaspatrollederror-noautopatrol"
+msgstr  "Dai ka pigtotogotan na markahán an sadiri mong pababâgo na pigpapatrulya."
+
+msgid  "patrol-log-page"
+msgstr  "Bantayán an historial"
+
+msgid  "patrol-log-line"
+msgstr  "minarkahan an $1 kan $2 na pigpapatrulya $3"
+
+msgid  "patrol-log-auto"
+msgstr  "(enseguida)"
+
+msgid  "deletedrevision"
+msgstr  "Pigparâ an lumang pagribay na $1."
+
+msgid  "filedeleteerror-short"
+msgstr  "Salâ sa pagparâ kan ''file'': $1"
+
+msgid  "filedeleteerror-long"
+msgstr  "May mga nasabat na salâ mientras na pigpaparâ an ''file'':\n\n$1"
+
+msgid  "filedelete-missing"
+msgstr  "An ''file'' na \"$1\" dai pwedeng paraon, ta mayô man ini."
+
+msgid  "filedelete-old-unregistered"
+msgstr  "An piniling pagpakaray na \"$1\" wara man sa base nin datos."
+
+msgid  "filedelete-current-unregistered"
+msgstr  "Mayô sa base nin datos an piniling ''file'' na \"$1\"."
+
+msgid  "filedelete-archive-read-only"
+msgstr  "An direktoryong archibo na \"$1\" dai nasusuratan kan webserver."
+
+msgid  "previousdiff"
+msgstr  "← Nakaáging kaibhán"
+
+msgid  "nextdiff"
+msgstr  "Sunod na kaibhán →"
+
+msgid  "mediawarning"
+msgstr  "'''Patanid''': May ''malicious code'' sa ''file'' na ini, kun gigibohon ini pwede ser na maraot an saimong ''system''."
+
+msgid  "imagemaxsize"
+msgstr  "Limitaran an mga ladawan sa mga páhinang deskripsyon kan ladawan sa:"
+
+msgid  "thumbsize"
+msgstr  "Sokol nin retratito:"
+
+msgid  "widthheightpage"
+msgstr  "$1×$2, $3 mga pahina"
+
+msgid  "file-info"
+msgstr  "sokol kan ''file'': $1, tipo nin MIME: $2"
+
+msgid  "file-info-size"
+msgstr  "$1 × $2 na pixel, sokol kan ''file'': $3, tipo nin MIME: $4"
+
+msgid  "file-nohires"
+msgstr  "<small>Mayong mas halangkaw na resolusyón.</small>"
+
+msgid  "svg-long-desc"
+msgstr  "file na SVG, haros $1 × $2 pixels, sokol kan file: $3"
+
+msgid  "show-big-image"
+msgstr  "Todong resolusyon"
+
+msgid  "show-big-image-thumb"
+msgstr  "<small>Sokol kan patânaw: $1 × $2  na pixel</small>"
+
+msgid  "newimages"
+msgstr  "Galeria nin mga bàgong file"
+
+msgid  "imagelisttext"
+msgstr  "Mahihiling sa baba an lista nin mga  '''$1''' {{PLURAL:$1|file|files}} na linain $2."
+
+msgid  "showhidebots"
+msgstr  "($1 na bots)"
+
+msgid  "noimages"
+msgstr  "Mayong mahihiling."
+
+msgid  "ilsubmit"
+msgstr  "Hanápon"
+
+msgid  "bydate"
+msgstr  "sa petsa"
+
+msgid  "sp-newimages-showfrom"
+msgstr  "Hilingón an mga retratong nagpopoon sa $1"
+
+msgid  "bad_image_list"
+msgstr  "An pormato iyo an minasunod:\n\nAn mga nakalista sana (mga linyang nagpopoon sa *) an pigkokonsiderar.\nAn enot na takod sa linya seguradong sarong takod sa sarong salang file.\nAno man na takod sa parehong linyang ini pigkokonsiderar na eksepsyon, i.e. mga pahina na may file sa laog nin linya."
+
+msgid  "metadata"
+msgstr  "Metadatos"
+
+msgid  "metadata-help"
+msgstr  "Igwang dugang na impormasyon ining file na pwedeng idinugang hali sa digital camera o scanner na piggamit tangarig magibo ini. Kun namodipikar na file hali sa orihinal nyang kamogtakan, an ibang mga detalye pwedeng dai mahiling sa minodipikar na ladawan."
+
+msgid  "metadata-expand"
+msgstr  "Ipahiling an mga pinahalaba na detalye"
+
+msgid  "metadata-collapse"
+msgstr  "Itago an mga pinahalaba na detalye"
+
+msgid  "exif-imagewidth"
+msgstr  "Lakbang"
+
+msgid  "exif-imagelength"
+msgstr  "Langkaw"
+
+msgid  "exif-imagedescription"
+msgstr  "Titulo kan retrato"
+
+msgid  "exif-make"
+msgstr  "Tagagibo nin kamera"
+
+msgid  "exif-model"
+msgstr  "Modelo nin kamera"
+
+msgid  "exif-artist"
+msgstr  "Parásurat"
+
+msgid  "exif-usercomment"
+msgstr  "Mga komento kan parágamit"
+
+msgid  "exif-aperturevalue"
+msgstr  "Pagkabukás"
+
+msgid  "exif-brightnessvalue"
+msgstr  "Kaliwanagan"
+
+msgid  "exif-lightsource"
+msgstr  "Ginikanan nin liwanag"
+
+msgid  "exif-flash"
+msgstr  "Kikilát"
+
+msgid  "exif-flashenergy"
+msgstr  "Kakusogan nin kikilát"
+
+msgid  "exif-filesource"
+msgstr  "Ginikanan nin ''file''"
+
+msgid  "exif-contrast"
+msgstr  "Kontraste"
+
+msgid  "exif-imageuniqueid"
+msgstr  "Unikong ID kan ladawan"
+
+msgid  "exif-gpstrack"
+msgstr  "Direksyón nin paghirô"
+
+msgid  "exif-gpsimgdirection"
+msgstr  "Direksyón nin ladawan"
+
+msgid  "exif-gpsdestdistance"
+msgstr  "Distansya sa destinasyon"
+
+msgid  "exif-unknowndate"
+msgstr  "Dai aram an petsa"
+
+msgid  "exif-componentsconfiguration-0"
+msgstr  "mayô man ini"
+
+msgid  "exif-subjectdistance-value"
+msgstr  "$1 metros"
+
+msgid  "exif-meteringmode-0"
+msgstr  "Dai aram"
+
+msgid  "exif-meteringmode-255"
+msgstr  "Iba pa"
+
+msgid  "exif-lightsource-4"
+msgstr  "Kitkilát"
+
+msgid  "exif-lightsource-9"
+msgstr  "Magayón na panahón"
+
+msgid  "exif-lightsource-255"
+msgstr  "Mga ibang ginikanan nin ilaw"
+
+msgid  "exif-focalplaneresolutionunit-2"
+msgstr  "pulgada"
+
+msgid  "exif-scenetype-1"
+msgstr  "Direktong naretratong ladawan"
+
+msgid  "exif-scenecapturetype-2"
+msgstr  "Retrato"
+
+msgid  "exif-scenecapturetype-3"
+msgstr  "Eksenang banggi"
+
+msgid  "exif-gpsspeed-k"
+msgstr  "Kilometros kada oras"
+
+msgid  "exif-gpsspeed-m"
+msgstr  "Milya kada oras"
+
+msgid  "exif-gpsdirection-t"
+msgstr  "Tunay na direksyon"
+
+msgid  "exif-gpsdirection-m"
+msgstr  "Direksyón nin batobalani"
+
+msgid  "edit-externally"
+msgstr  "Hirahón an file gamit an panluwas na aplikasyon"
+
+msgid  "edit-externally-help"
+msgstr  "Hilingón an  [http://www.mediawiki.org/wiki/Manual:External_editors setup instructions] para sa iba pang mga impormasyon."
+
+msgid  "recentchangesall"
+msgstr  "gabos"
+
+msgid  "imagelistall"
+msgstr  "gabos"
+
+msgid  "watchlistall2"
+msgstr  "gabos"
+
+msgid  "namespacesall"
+msgstr  "gabos"
+
+msgid  "monthsall"
+msgstr  "gabos"
+
+msgid  "confirmemail"
+msgstr  "Kompirmaron an ''e''-surat"
+
+msgid  "confirmemail_noemail"
+msgstr  "Mayô kang pigkaag na marhay na ''e''-surat sa saimong [[Special:Preferences|mga kabôtan nin parágamit]]."
+
+msgid  "confirmemail_text"
+msgstr  "Kaipuhan an pag-''validate'' kan saimong e-koreo bago ka makagamit nin ''features'' na e-koreo. Pindoton an butones sa babâ tangarig magpadara nin kompirmasyon sa saimong e-koreo. An surat igwang takod na may koda; ikarga an takod sa browser para makompirmar na valido an saimong e-koreo."
+
+msgid  "confirmemail_pending"
+msgstr  "May pigpadara nang kompirmasyon sa ''e''-surat mo; kun kagigibo mo pa sana kan saimong ''account'', maghalat ka nin mga dikit na minutos bago ka maghagad giraray nin bâgong ''code''."
+
+msgid  "confirmemail_send"
+msgstr  "Magpadará nin kompirmasyon"
+
+msgid  "confirmemail_sent"
+msgstr  "Napadará na an kompirmasyon sa ''e''-surat."
+
+msgid  "confirmemail_oncreate"
+msgstr  "May pigpadara nang kompirmasyon sa saimong ''e''-surat.\nDai man kaipuhan ini para makalaog, pero kaipuhan mong itao ini bago\nka makagamit nin ''features'' na basado sa ''e''-surat sa wiki."
+
+msgid  "confirmemail_sendfailed"
+msgstr  "Dai napadará an kompirmasyon kan ''e''-surat. Seguradohon tabî kun igwang sala.\n\nPigbalik: $1"
+
+msgid  "confirmemail_invalid"
+msgstr  "Salâ an kódigo nin konpirmasyon. Puede ser napasó na an kódigo."
+
+msgid  "confirmemail_needlogin"
+msgstr  "Kaipuhan tabi $1 ikompirmar an saimong ''e''-surat."
+
+msgid  "confirmemail_success"
+msgstr  "Nakompirmar na an saimong ''e''-surat. Pwede ka nang maglaog asin mag-ogma sa wiki."
+
+msgid  "confirmemail_loggedin"
+msgstr  "Nakompirmar na an saimong ''e''-surat."
+
+msgid  "confirmemail_error"
+msgstr  "May nasalâ sa pagtagama kan saimong kompirmasyon."
+
+msgid  "confirmemail_subject"
+msgstr  "kompirmasyón {{SITENAME}} kan direksyón nin ''e''-surat"
+
+msgid  "confirmemail_body"
+msgstr  "May paragamit, pwedeng ika, halì sa IP na $1, na nagrehistro nin account na\n\"$2\" na igwang e-koreo sa {{SITENAME}}.\n\nTangarig makompirmar na talagang saimo ining account asin makagamit nin e-koreo sa {{SITENAME}}, bukasán ining takod sa saimong browser:\n\n$3\n\nKun *bakô* ka ini, dai sunodón an takod. Mapaso sa $4 inning koda nin kompirmasyon."
+
+msgid  "scarytranscludedisabled"
+msgstr  "[Pigpopogolan an transcluding na Interwiki]"
+
+msgid  "scarytranscludefailed"
+msgstr  "[Nabigô an pagkua kan templato para sa $1; despensa]"
+
+msgid  "scarytranscludetoolong"
+msgstr  "[halabaon an URL; despensa]"
+
+msgid  "trackbackbox"
+msgstr  "Mga trackback sa pahinang ini:<br />\n$1"
+
+msgid  "trackbackremove"
+msgstr  "([$1 Parâon])"
+
+msgid  "trackbacklink"
+msgstr  "Solsogan"
+
+msgid  "trackbackdeleteok"
+msgstr  "Pigparâ na an solsogan."
+
+msgid  "deletedwhileediting"
+msgstr  "Patanid: Pigparâ na an pahinang ini antes na nagpoon kan maghirá!"
+
+msgid  "confirmrecreate"
+msgstr  "Si [[User:$1|$1]] ([[User talk:$1|olay]]) pigparâ ining páhina pagkatapos mong magpoon kan paghira ta:\n: ''$2''\nIkonpirmar tabi na talagang gusto mong gibohon giraray ining pahina."
+
+msgid  "recreate"
+msgstr  "Gibohón giraray"
+
+msgid  "confirm_purge_button"
+msgstr  "Sige"
+
+msgid  "confirm-purge-top"
+msgstr  "Halîon an an aliho kaining páhina?"
+
+msgid  "imgmultipageprev"
+msgstr  "← nakaaging pahina"
+
+msgid  "imgmultipagenext"
+msgstr  "sunod na pahina →"
+
+msgid  "imgmultigo"
+msgstr  "Dumanán!"
+
+msgid  "ascending_abbrev"
+msgstr  "skt"
+
+msgid  "descending_abbrev"
+msgstr  "ba"
+
+msgid  "table_pager_next"
+msgstr  "Sunod na páhina"
+
+msgid  "table_pager_prev"
+msgstr  "Nakaaging páhina"
+
+msgid  "table_pager_first"
+msgstr  "Enot na páhina"
+
+msgid  "table_pager_last"
+msgstr  "Huring páhina"
+
+msgid  "table_pager_limit"
+msgstr  "Ipahiling an $1 na aytem kada páhina"
+
+msgid  "table_pager_limit_submit"
+msgstr  "Dumanán"
+
+msgid  "table_pager_empty"
+msgstr  "Mayong resulta"
+
+msgid  "autosumm-blank"
+msgstr  "Pighahalî an gabos na laog sa páhina"
+
+msgid  "autosumm-replace"
+msgstr  "Pigriribayan an páhina nin '$1'"
+
+msgid  "autoredircomment"
+msgstr  "Piglilikay sa [[$1]]"
+
+msgid  "autosumm-new"
+msgstr  "Bâgong páhina: $1"
+
+msgid  "livepreview-loading"
+msgstr  "Pigkakarga…"
+
+msgid  "livepreview-ready"
+msgstr  "Pigkakarga… Magpreparar!"
+
+msgid  "livepreview-failed"
+msgstr  "Dae nakapoon an direktong patânaw! Probaran tabî an patânaw na normal."
+
+msgid  "livepreview-error"
+msgstr  "Dai nakakabit: $1 \"$2\". Hilingón tabî an normal na patânaw."
+
+msgid  "lag-warn-normal"
+msgstr  "An mga pagbalyó na mas bâgo sa $1 na segundo pwedeng dai pa mahiling sa listang ini."
+
+msgid  "lag-warn-high"
+msgstr  "Nin huli sa ''high database server lag'', an mga pagbabâgo na mas bâgo sa $1 na segundo pwedeng dai pa ipahiling sa listang ini."
+
+msgid  "watchlistedit-numitems"
+msgstr  "An saimong pigbabantayan igwang {{PLURAL:$1|1 titulo|$1 mga titulo}}, apwera kan mga páhina kan olay."
+
+msgid  "watchlistedit-noitems"
+msgstr  "Mayong mga titulo an pigbabantayan mo."
+
+msgid  "watchlistedit-normal-title"
+msgstr  "Hirahón an pigbabantayan"
+
+msgid  "watchlistedit-normal-legend"
+msgstr  "Halion an mga titulo sa pigbabantayan"
+
+msgid  "watchlistedit-normal-explain"
+msgstr  "Mahihiling sa babâ an mga titulo na nasa pigbabantayan mo.\nTangarig maghalì nin titulo, markahan an kahon sa gilid kaini, dangan pindotón an Tangkasón an mga Titulo. Pwede mo man na [[Special:Watchlist/raw|hirahón an bàgong lista]]."
+
+msgid  "watchlistedit-normal-submit"
+msgstr  "Tangkasón an mga Titulo"
+
+msgid  "watchlistedit-normal-done"
+msgstr  "Pigtangkas an {{PLURAL:$1|1 an titulo|$1 mga titulo}} sa saimong pigbabantayan:"
+
+msgid  "watchlistedit-raw-title"
+msgstr  "Hirahón an bàgong pigbabantayan"
+
+msgid  "watchlistedit-raw-legend"
+msgstr  "Hirahón an bàgong pigbabantayan"
+
+msgid  "watchlistedit-raw-explain"
+msgstr  "Mahihiling sa babâ an mga titulo na nasa pigbabantayan mo, asin pwede ining hirahón sa paagi nin pagdugang sagkod paghalì sa lista;\nsarong titulo kada linya.\nPag tapos na, lagatikón an Bàgohón an Pigbabantayan.\nPwede mo man [[Special:Watchlist/edit|gamiton an standard editor]]."
+
+msgid  "watchlistedit-raw-titles"
+msgstr  "Mga titulo:"
+
+msgid  "watchlistedit-raw-submit"
+msgstr  "Bàgohón an Pigbabantayan"
+
+msgid  "watchlistedit-raw-done"
+msgstr  "Binàgo na an saimong pigbabantayan."
+
+msgid  "watchlistedit-raw-added"
+msgstr  "{{PLURAL:$1|1 an titulong|$1 mga titulong}} idinugang:"
+
+msgid  "watchlistedit-raw-removed"
+msgstr  "{{PLURAL:$1|1 an titulong|$1 mga titulong}} hinalì:"
+
+msgid  "watchlisttools-view"
+msgstr  "Hilingón an mga katakód na pagbabàgo"
+
+msgid  "watchlisttools-edit"
+msgstr  "Hilingón asin ligwatón an pigbabantayan"
+
+msgid  "watchlisttools-raw"
+msgstr  "Hirahón an bàgong pigbabantayan"
+
+msgid  "version"
+msgstr  "Bersyon"
+
+msgid  "specialpages"
+msgstr  "Mga espesyal na pahina"
+
+msgid  "specialpages-group-other"
+msgstr  "Iba pang mga espesyal na pahina"
+
+msgid  "specialpages-group-login"
+msgstr  "Maglaóg/ maggíbo"
+
+msgid  "specialpages-group-changes"
+msgstr  "Nakakaági pa sanáng mga pagbàgo asín laóg"
+
+msgid  "blankpage"
+msgstr  "Blangkong pahina"
+
+msgid  "intentionallyblankpage"
+msgstr  "Pigtuyong blangko an pahinang ini"
+
+msgid  "tags-edit"
+msgstr  "liwatón"
+
+msgid  "wm-license-information-description"
+msgstr  "Deskripsión"
+

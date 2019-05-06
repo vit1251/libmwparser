@@ -1,0 +1,6807 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vep\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "oiged"
+msgstr "right"
+
+msgid  "paremal"
+msgstr "right"
+
+msgid  "hura"
+msgstr "left"
+
+msgid  "vasakul"
+msgstr "left"
+
+msgid  "eile"
+msgstr "none"
+
+msgid  "tühi"
+msgstr "none"
+
+msgid  "$1piks"
+msgstr "$1px"
+
+msgid  "röun"
+msgstr "border"
+
+msgid  "ääris"
+msgstr "border"
+
+msgid  "üläh"
+msgstr "top"
+
+msgid  "kesk"
+msgstr "middle"
+
+msgid  "ala"
+msgstr "bottom"
+
+msgid  "SAITANNIMI"
+msgstr "SITENAME"
+
+msgid  "KOHANIMI"
+msgstr "SITENAME"
+
+msgid  "GRAMMATIK:"
+msgstr "GRAMMAR:"
+
+msgid  "SUGU:"
+msgstr "GENDER:"
+
+msgid  "ÄILUGU:"
+msgstr "PLURAL:"
+
+msgid  "TÄUZ'URL:"
+msgstr "FULLURL:"
+
+msgid  "KOGUURL:"
+msgstr "FULLURL:"
+
+msgid  "__INDEKS__"
+msgstr "__INDEX__"
+
+msgid  "INDEKSIGA"
+msgstr "__INDEX__"
+
+msgid  "tog-underline"
+msgstr  "Jonoštada kosketused:"
+
+msgid  "tog-highlightbroken"
+msgstr  "Ozutada rebitadud kosketused <a href=\"\" class=\"new\">muga,</a> (muite - muga<a href=\"\" class=\"internal\">?</a>)"
+
+msgid  "tog-justify"
+msgstr  "Tazoitada tekst lehtpolen levedusen mödhe"
+
+msgid  "tog-hideminor"
+msgstr  "Peitta pened redakcijad veresiden toižetusiden nimikirjuteses"
+
+msgid  "tog-hidepatrolled"
+msgstr  "Peitta patruliruidud redakcijad veresiden toižetusiden nimikirjuteses"
+
+msgid  "tog-newpageshidepatrolled"
+msgstr  "Peitta patruliruidud redakcijad uziden lehtpoliden nimikirjuteses"
+
+msgid  "tog-extendwatchlist"
+msgstr  "Levitagat kaclendnimikirjutez, miše nähta kaik toižetused."
+
+msgid  "tog-usenewrc"
+msgstr  "Kävutagat paremboitud tantoižed toižetused (pidab otta radho JavaScript)"
+
+msgid  "tog-numberheadings"
+msgstr  "Nomeruida avtomatižikš pälkirjutesed"
+
+msgid  "tog-showtoolbar"
+msgstr  "Ozutada azegiden üläpanel' redaktiruindan aigan (JavaScript)"
+
+msgid  "tog-editondblclick"
+msgstr  "Redaktiruida lehtpoled kaksitadud plokul (JavaScript)"
+
+msgid  "tog-editsection"
+msgstr  "Ozutada \"Redaktiruida\"-kosketuz kaikuččen sekcijan täht"
+
+msgid  "tog-editsectiononrightclick"
+msgstr  "Redaktiruida sekcijad hiren oiktal plokul pälkirjutesele (JavaScript)"
+
+msgid  "tog-showtoc"
+msgstr  "Ozutada südäimišt (lehtpoled, kudambil om enamba, mi 3 pälkirjutest)"
+
+msgid  "tog-rememberpassword"
+msgstr  "Muštta minun kävutajan nimi neciš kompjuteras (enintään $1 {{PLURAL:$1|päivä|päivää}})"
+
+msgid  "tog-watchcreations"
+msgstr  "Ližata kaik minai sätud lehtpoled minun kaclendkirjuteshe"
+
+msgid  "tog-watchdefault"
+msgstr  "Ližata kaik minai toižetadud lehtpoled minun kaclendkirjuteshe"
+
+msgid  "tog-watchmoves"
+msgstr  "Ližata kaik minai udesnimitadud lehtpoled minun kaclendkirjuteshe"
+
+msgid  "tog-watchdeletion"
+msgstr  "Ližata kaik minai čutud lehtpoled minun kaclendkirjuteshe"
+
+msgid  "tog-minordefault"
+msgstr  "Znamoita äugotižjärgendusen mödhe kaik toižetused penikš"
+
+msgid  "tog-previewontop"
+msgstr  "Panda ezikacund redaktiruindan iknan edehe"
+
+msgid  "tog-previewonfirst"
+msgstr  "Ozutada ezikacund redaktiruindan augotades"
+
+msgid  "tog-nocache"
+msgstr  "Kel'ta lehtpoliden keširuind"
+
+msgid  "tog-enotifwatchlistpages"
+msgstr  "Oigekat minei e-počt, konz lehtpoled minun kaclendnimikirjutesespäi toižetase"
+
+msgid  "tog-enotifusertalkpages"
+msgstr  "Oigeta minei e-počt, konz minun lodulehtpol' toižetase"
+
+msgid  "tog-enotifminoredits"
+msgstr  "Oigeta minei e-počt eskai siloi, konz toižetused oma minimaližed"
+
+msgid  "tog-enotifrevealaddr"
+msgstr  "Ozutada minun počtadres tedotuzkirjeižiš"
+
+msgid  "tog-shownumberswatching"
+msgstr  "Ozutada niiden kävutajiden lugu, kudambad oma mülütanuded lehtpolen ičeze kaclendnimikirjutesihe"
+
+msgid  "tog-oldsig"
+msgstr  "Olijan allekirjutesen ezikacund:"
+
+msgid  "tog-fancysig"
+msgstr  "Ičeze allekirjutesen wiki-znamišt (avtomatižeta kosketuseta)"
+
+msgid  "tog-externaleditor"
+msgstr  "Kävutada irdredaktor augotižjärgendusen mödhe (vaiše ekspertoiden täht; pidab järgeta specialižikš kompjuter; [http://www.mediawiki.org/wiki/Manual:External_editors Enamb informacijad.])"
+
+msgid  "tog-externaldiff"
+msgstr  "Kävutada irdredaktor augotižjärgendusen mödhe (vaiše ekspertoiden täht; pidab järgeta specialižikš kompjuter; [http://www.mediawiki.org/wiki/Manual:External_editors Enamb informacijad.])"
+
+msgid  "tog-showjumplinks"
+msgstr  "Ližata \"hüpähtada...\"-abukosketused"
+
+msgid  "tog-uselivepreview"
+msgstr  "Kävutada hered ezikacund (JavaScript) (Eksperimentaline)"
+
+msgid  "tog-forceeditsummary"
+msgstr  "Varutada, kunz toižetusen ümbrikirjutandan pöud ei ole täuttud"
+
+msgid  "tog-watchlisthideown"
+msgstr  "Peitta minun redakcijad kaclendnimikirjutesespäi"
+
+msgid  "tog-watchlisthidebots"
+msgstr  "Peitta botoiden redakcijad kaclendnimikirjutesespäi"
+
+msgid  "tog-watchlisthideminor"
+msgstr  "Peitta pened redakcijad kaclendnimikirjutesespäi"
+
+msgid  "tog-watchlisthideliu"
+msgstr  "Peitta sistemha tulnuziden kävutajiden redakcijad kaclendnimikirjutesespäi"
+
+msgid  "tog-watchlisthideanons"
+msgstr  "Peitta anonimoiden redakcijad kaclendnimikirjutesespäi"
+
+msgid  "tog-watchlisthidepatrolled"
+msgstr  "Peitta patruliruidud redakcijad kaclendnimikirjutesespäi"
+
+msgid  "tog-nolangconversion"
+msgstr  "Saubata kirjutandsistemoiden toižetand"
+
+msgid  "tog-ccmeonemails"
+msgstr  "Oigeta minei kaikiden minai kirjutadud kirjeižiden kopijad"
+
+msgid  "tog-diffonly"
+msgstr  "Ala ozuta lehtpolen süadäimištod versijoiden rindatandan al"
+
+msgid  "tog-showhiddencats"
+msgstr  "Ozutada peittud kategorijad"
+
+msgid  "tog-norollbackdiff"
+msgstr  "Ala ozuta versijoiden eroid endištusen jäl'ghe"
+
+msgid  "underline-always"
+msgstr  "Kaiken"
+
+msgid  "underline-never"
+msgstr  "Nikonz"
+
+msgid  "underline-default"
+msgstr  "Kävutada kaclimen järgendused"
+
+msgid  "editfont-style"
+msgstr  "Redaktiruindan pöudon šriftan stil':"
+
+msgid  "editfont-default"
+msgstr  "Järgeline kaclim"
+
+msgid  "editfont-monospace"
+msgstr  "Monoleved šrift"
+
+msgid  "editfont-sansserif"
+msgstr  "Sans-šerifšrift"
+
+msgid  "editfont-serif"
+msgstr  "Šerifšrift"
+
+msgid  "sunday"
+msgstr  "pühäpäiv"
+
+msgid  "monday"
+msgstr  "ezmärg"
+
+msgid  "tuesday"
+msgstr  "tožnarg"
+
+msgid  "wednesday"
+msgstr  "koumanz’päiv"
+
+msgid  "thursday"
+msgstr  "nellänz’päiv"
+
+msgid  "friday"
+msgstr  "videnz’päiv"
+
+msgid  "saturday"
+msgstr  "sobat"
+
+msgid  "sun"
+msgstr  "Püh"
+
+msgid  "mon"
+msgstr  "Ezm"
+
+msgid  "tue"
+msgstr  "Tož"
+
+msgid  "wed"
+msgstr  "koum"
+
+msgid  "thu"
+msgstr  "Nel"
+
+msgid  "fri"
+msgstr  "Vid"
+
+msgid  "sat"
+msgstr  "Sob"
+
+msgid  "january"
+msgstr  "viluku"
+
+msgid  "february"
+msgstr  "uhoku"
+
+msgid  "march"
+msgstr  "keväz’ku"
+
+msgid  "april"
+msgstr  "sulaku"
+
+msgid  "may_long"
+msgstr  "semendku"
+
+msgid  "june"
+msgstr  "kezaku"
+
+msgid  "july"
+msgstr  "heinku"
+
+msgid  "august"
+msgstr  "eloku"
+
+msgid  "september"
+msgstr  "sügüz’ku"
+
+msgid  "october"
+msgstr  "reduku"
+
+msgid  "november"
+msgstr  "kül’mku"
+
+msgid  "december"
+msgstr  "tal’vku"
+
+msgid  "january-gen"
+msgstr  "vilukun"
+
+msgid  "february-gen"
+msgstr  "uhokun"
+
+msgid  "march-gen"
+msgstr  "keväz’kun"
+
+msgid  "april-gen"
+msgstr  "sulakun"
+
+msgid  "may-gen"
+msgstr  "semendkun"
+
+msgid  "june-gen"
+msgstr  "kezakun"
+
+msgid  "july-gen"
+msgstr  "heinkun"
+
+msgid  "august-gen"
+msgstr  "elokun"
+
+msgid  "september-gen"
+msgstr  "sügüz’kun"
+
+msgid  "october-gen"
+msgstr  "redukun"
+
+msgid  "november-gen"
+msgstr  "kül’mkun"
+
+msgid  "december-gen"
+msgstr  "tal’vkun"
+
+msgid  "jan"
+msgstr  "Viluku"
+
+msgid  "feb"
+msgstr  "Uhoku"
+
+msgid  "mar"
+msgstr  "Keväz'ku"
+
+msgid  "apr"
+msgstr  "Sulaku"
+
+msgid  "may"
+msgstr  "Semendku"
+
+msgid  "jun"
+msgstr  "kezaku"
+
+msgid  "jul"
+msgstr  "heinku"
+
+msgid  "aug"
+msgstr  "eloku"
+
+msgid  "sep"
+msgstr  "sügüz'ku"
+
+msgid  "oct"
+msgstr  "reduku"
+
+msgid  "nov"
+msgstr  "kül’mku"
+
+msgid  "dec"
+msgstr  "tal’vku"
+
+msgid  "pagecategories"
+msgstr  "{{PLURAL:$1|Kategorii|Kategorijad}}"
+
+msgid  "category_header"
+msgstr  "Lehtpoled \"$1\"-kategorijas"
+
+msgid  "subcategories"
+msgstr  "Alakategorijad"
+
+msgid  "category-media-header"
+msgstr  "Mediafailad \"$1\"-kategorijas"
+
+msgid  "category-empty"
+msgstr  "''Nece kategorii om nügüd' pall'az.''"
+
+msgid  "hidden-categories"
+msgstr  "{{PLURAL:$1|Peittud kategorii|Peittud kategorijad}}"
+
+msgid  "hidden-category-category"
+msgstr  "Peittud kategorijad"
+
+msgid  "category-subcat-count"
+msgstr  "{{PLURAL:$2|Neciš kategorijas om vaiše üks' alakategorii.|Neciš kategorijas om {{PLURAL:$1|üks' alakategorii|$1 alakategorijad}}; om kaiked $2 alakategorijad.}}"
+
+msgid  "category-subcat-count-limited"
+msgstr  "Neciš kategorijas om {{PLURAL:$1|mugoi üks alakategorii| mugomad $1 alakategorijad}}."
+
+msgid  "category-article-count"
+msgstr  "{{PLURAL:$2|Neciš kategorijas om vaiše üks' ozutadud lehtpol'.| Täs om ozutadud necen kategorijan {{PLURAL:$1|üks' lehtpol'|$1 lehtpol't}}; om kaiked $2.}}"
+
+msgid  "category-article-count-limited"
+msgstr  "{{PLURAL:$1|Nece lehtpol' om|$1 nened lehtpoled oma}} neciš kategorijas."
+
+msgid  "category-file-count"
+msgstr  "{{PLURAL:$2|Neciš kategorijas om vaiše üks' fail.|{{PLURAL:$1|Nece fail om|$1 Nened failad oma}} neciš kategorijas; om kaiked $2.}}"
+
+msgid  "category-file-count-limited"
+msgstr  "{{PLURAL:$1|Nece fail om|$1 Nened failad oma}} neciš kategorijas."
+
+msgid  "listingcontinuesabbrev"
+msgstr  "jatktand"
+
+msgid  "index-category"
+msgstr  "Indeksiruidud lehtpoled"
+
+msgid  "noindex-category"
+msgstr  "Indeksiruimatomad lehtpoled"
+
+msgid  "mainpagetext"
+msgstr  "'''MediaWiki-likutim om seižutadud jügedusita.'''"
+
+msgid  "mainpagedocfooter"
+msgstr  "Kc. [http://meta.wikimedia.org/wiki/Help:Kävutajan abukirj], miše sada informacijad wikin kävutamižes.\n\n== Erased tarbhaižed resursad ==\n* [http://www.mediawiki.org/wiki/Manual:Configuration_settings Järgendusiden nimikirjutez]\n* [http://www.mediawiki.org/wiki/Manual:FAQ MediaWiki FAQ]\n* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce počtnimikirjutez]"
+
+msgid  "about"
+msgstr  "Andmused"
+
+msgid  "article"
+msgstr  "Südäimištlehtpol'"
+
+msgid  "newwindow"
+msgstr  "(avaidase udes iknas)"
+
+msgid  "cancel"
+msgstr  "Heitta pätand"
+
+msgid  "moredotdotdot"
+msgstr  "Edeleze..."
+
+msgid  "mypage"
+msgstr  "Minun lehtpol'"
+
+msgid  "mytalk"
+msgstr  "Minun lodud"
+
+msgid  "anontalk"
+msgstr  "Lodud neciš IP-adresas"
+
+msgid  "navigation"
+msgstr  "Navigacii"
+
+msgid  "and"
+msgstr  "&#32;da"
+
+msgid  "qbfind"
+msgstr  "Ectä"
+
+msgid  "qbbrowse"
+msgstr  "Kacelta"
+
+msgid  "qbedit"
+msgstr  "Redaktiruida"
+
+msgid  "qbpageoptions"
+msgstr  "Necen lehtpolen järgendused"
+
+msgid  "qbpageinfo"
+msgstr  "Andmused lehtpoles"
+
+msgid  "qbmyoptions"
+msgstr  "Minun järgendused"
+
+msgid  "qbspecialpages"
+msgstr  "Specialižed lehtpoled"
+
+msgid  "faq"
+msgstr  "PPK"
+
+msgid  "faqpage"
+msgstr  "Project:PPK"
+
+msgid  "vector-action-addsection"
+msgstr  "Ližada tem"
+
+msgid  "vector-action-delete"
+msgstr  "Čuta poiš"
+
+msgid  "vector-action-move"
+msgstr  "Udesnimitada"
+
+msgid  "vector-action-protect"
+msgstr  "Kaita"
+
+msgid  "vector-action-undelete"
+msgstr  "Pördutada"
+
+msgid  "vector-action-unprotect"
+msgstr  "Heitta kaičend"
+
+msgid  "vector-view-create"
+msgstr  "Säta"
+
+msgid  "vector-view-edit"
+msgstr  "Redaktiruida"
+
+msgid  "vector-view-history"
+msgstr  "Kacta istorii"
+
+msgid  "vector-view-view"
+msgstr  "Lugeda"
+
+msgid  "vector-view-viewsource"
+msgstr  "Kacta purtkehe"
+
+msgid  "actions"
+msgstr  "Tegendad"
+
+msgid  "namespaces"
+msgstr  "Nimiavaruded"
+
+msgid  "variants"
+msgstr  "Variantad"
+
+msgid  "errorpagetitle"
+msgstr  "Petuz"
+
+msgid  "returnto"
+msgstr  "Pörttas lehtpolele $1."
+
+msgid  "tagline"
+msgstr  "{{SITENAME}}"
+
+msgid  "help"
+msgstr  "Abu"
+
+msgid  "search"
+msgstr  "Ecind"
+
+msgid  "searchbutton"
+msgstr  "Ectä"
+
+msgid  "go"
+msgstr  "Mända"
+
+msgid  "searcharticle"
+msgstr  "Mända"
+
+msgid  "history"
+msgstr  "Istorii"
+
+msgid  "history_short"
+msgstr  "Istorii"
+
+msgid  "updatedmarker"
+msgstr  "udištadud minun jäl'gmäižen vizitan jäl'ghe"
+
+msgid  "info_short"
+msgstr  "Informacii"
+
+msgid  "printableversion"
+msgstr  "Versii painmižen täht"
+
+msgid  "permalink"
+msgstr  "Kaikenaigaine kosketuz"
+
+msgid  "print"
+msgstr  "Painda"
+
+msgid  "edit"
+msgstr  "Redaktiruida"
+
+msgid  "create"
+msgstr  "Säta"
+
+msgid  "editthispage"
+msgstr  "Redaktiruida nece lehtpol'"
+
+msgid  "create-this-page"
+msgstr  "Säta nece lehtpol'"
+
+msgid  "delete"
+msgstr  "Čuta poiš"
+
+msgid  "deletethispage"
+msgstr  "Čuta nece lehtpol'"
+
+msgid  "undelete_short"
+msgstr  "Endištada {{PLURAL:$1|üks' redakcii|$1 redakcijad}}"
+
+msgid  "protect"
+msgstr  "Kaita"
+
+msgid  "protect_change"
+msgstr  "toižetada"
+
+msgid  "protectthispage"
+msgstr  "Kaita nece lehtpol'"
+
+msgid  "unprotect"
+msgstr  "Heitta kaičend"
+
+msgid  "unprotectthispage"
+msgstr  "Heitta necen lehtpolen kaičend"
+
+msgid  "newpage"
+msgstr  "Uz’ lehtpol’"
+
+msgid  "talkpage"
+msgstr  "Lodaita necen lehtpolen polhe"
+
+msgid  "talkpagelinktext"
+msgstr  "Lodu"
+
+msgid  "specialpage"
+msgstr  "Specialine lehtpol'"
+
+msgid  "personaltools"
+msgstr  "Personaližed azeged"
+
+msgid  "postcomment"
+msgstr  "Uz' jaguz"
+
+msgid  "articlepage"
+msgstr  "Kacu südäimišton lehtpol'"
+
+msgid  "talk"
+msgstr  "Diskussii"
+
+msgid  "views"
+msgstr  "Kacundad"
+
+msgid  "toolbox"
+msgstr  "Azegišt"
+
+msgid  "userpage"
+msgstr  "Kacu kävutajan lehtpol'"
+
+msgid  "projectpage"
+msgstr  "Kacu projektan lehtpol'"
+
+msgid  "imagepage"
+msgstr  "Kacu fajlan lehtpol'"
+
+msgid  "mediawikipage"
+msgstr  "Kacu tedotusen lehtpol'"
+
+msgid  "templatepage"
+msgstr  "Kacu šablonan lehtpol'"
+
+msgid  "viewhelppage"
+msgstr  "Kacu abun lehtpol'"
+
+msgid  "categorypage"
+msgstr  "Kacu kategorijan lehtpol'"
+
+msgid  "viewtalkpage"
+msgstr  "Kacu diskussii"
+
+msgid  "otherlanguages"
+msgstr  "Toižil kelil"
+
+msgid  "redirectedfrom"
+msgstr  "(Oigetud lehtpolelpäi $1)"
+
+msgid  "redirectpagesub"
+msgstr  "Oigendai lehtpol'"
+
+msgid  "lastmodifiedat"
+msgstr  "Nece lehtpol' toižetadihe $1, aigal $2."
+
+msgid  "viewcount"
+msgstr  "Nece lehtpol' kaceltihe {{PLURAL:$1|kerdal|$1 kerdad}}."
+
+msgid  "protectedpage"
+msgstr  "Saubatud lehtpol'"
+
+msgid  "jumpto"
+msgstr  "Hüpähtada:"
+
+msgid  "jumptonavigation"
+msgstr  "navigacii"
+
+msgid  "jumptosearch"
+msgstr  "Ecind"
+
+msgid  "view-pool-error"
+msgstr  "Pakičem armahtust!\nServerad oma üläkormatud.\nÄjahk kävutajid lattäs kacta necidä lehtpol't.\nVarastagat pordon aigad i lat'kät pörttas lehtpolele.\n\n$1"
+
+msgid  "pool-errorunknown"
+msgstr  "Tundmatoi petuz"
+
+msgid  "aboutsite"
+msgstr  "Informacii saitas {{SITENAME}}"
+
+msgid  "aboutpage"
+msgstr  "Project:Informacii"
+
+msgid  "copyright"
+msgstr  "Südäimišt kävutadas $1-licenzijan mödhe."
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:tegijan oiktused"
+
+msgid  "currentevents"
+msgstr  "Nügüdläižed tegod"
+
+msgid  "currentevents-url"
+msgstr  "Project:Nügüdläižed tegod"
+
+msgid  "disclaimers"
+msgstr  "Pučind vastusenpidandaspäi"
+
+msgid  "disclaimerpage"
+msgstr  "Project:Pučind vastusenpidandaspäi"
+
+msgid  "edithelp"
+msgstr  "Abu redaktiruindas"
+
+msgid  "edithelppage"
+msgstr  "Help:Abu redaktiruindas"
+
+msgid  "helppage"
+msgstr  "Help:Südäimišt"
+
+msgid  "mainpage"
+msgstr  "Pälehtpol’"
+
+msgid  "mainpage-description"
+msgstr  "Pälehtpol’"
+
+msgid  "policy-url"
+msgstr  "Project:Ohjandimed"
+
+msgid  "portal"
+msgstr  "Kund"
+
+msgid  "portal-url"
+msgstr  "Project:Kund"
+
+msgid  "privacy"
+msgstr  "Konfidencialižusen politik"
+
+msgid  "privacypage"
+msgstr  "Project:Konfidencialižusen politik"
+
+msgid  "badaccess"
+msgstr  "Laskendan petuz"
+
+msgid  "badaccess-group0"
+msgstr  "Teile ei sa tehta pakitud tegendad."
+
+msgid  "badaccess-groups"
+msgstr  "Pakitud tegend sab tehta vaiše {{PLURAL:$2|gruppan|gruppiden}}: $1 ühtnijoile."
+
+msgid  "versionrequired"
+msgstr  "Pidab kävutada MediaWikin $1 versii"
+
+msgid  "versionrequiredtext"
+msgstr  "Pidab kävutada MedaWikin $1-versii necen lehtpolen kactes.\nKacu [[Special:Version|informacii kävutadud versijoiš]]."
+
+msgid  "ok"
+msgstr  "Ka"
+
+msgid  "retrievedfrom"
+msgstr  "Purde - \"$1\""
+
+msgid  "youhavenewmessages"
+msgstr  "Tö sat $1 ($2)."
+
+msgid  "newmessageslink"
+msgstr  "uded tedotused"
+
+msgid  "newmessagesdifflink"
+msgstr  "jäl'gmäine toižetuz"
+
+msgid  "youhavenewmessagesmulti"
+msgstr  "Teil om uzid tedotusid $1-lehtpolel"
+
+msgid  "editsection"
+msgstr  "redaktiruida"
+
+msgid  "editold"
+msgstr  "redaktiruida"
+
+msgid  "viewsourceold"
+msgstr  "kacta augotižkod"
+
+msgid  "editlink"
+msgstr  "redaktiruida"
+
+msgid  "viewsourcelink"
+msgstr  "kacta augotižkod"
+
+msgid  "editsectionhint"
+msgstr  "Redaktiruida jaguz $1"
+
+msgid  "toc"
+msgstr  "Südäimišt"
+
+msgid  "showtoc"
+msgstr  "ozutada"
+
+msgid  "hidetoc"
+msgstr  "peitta"
+
+msgid  "thisisdeleted"
+msgstr  "Kacta vai udištada $1?"
+
+msgid  "viewdeleted"
+msgstr  "Kacta $1?"
+
+msgid  "restorelink"
+msgstr  "{{PLURAL:$1|čutud redakcii|$1 čutud redakcijad}}"
+
+msgid  "feedlinks"
+msgstr  "Kut:"
+
+msgid  "feed-invalid"
+msgstr  "Vär ezipakitoitusen kanalan tip."
+
+msgid  "feed-unavailable"
+msgstr  "Sindikacijan jonod oma samatomad."
+
+msgid  "site-rss-feed"
+msgstr  "$1-RSS-jono"
+
+msgid  "site-atom-feed"
+msgstr  "$1-Atom-jono"
+
+msgid  "page-rss-feed"
+msgstr  "\"$1\" (RSS-jono)"
+
+msgid  "page-atom-feed"
+msgstr  "\"$1\" (Atom-jono)"
+
+msgid  "red-link-title"
+msgstr  "$1 (mugošt lehtpol't ei ole)"
+
+msgid  "nstab-main"
+msgstr  "Lehtpol’"
+
+msgid  "nstab-user"
+msgstr  "Kävutajan lehtpol'"
+
+msgid  "nstab-media"
+msgstr  "Medialehtpol'"
+
+msgid  "nstab-special"
+msgstr  "Specialine lehtpol'"
+
+msgid  "nstab-project"
+msgstr  "Projektan polhe"
+
+msgid  "nstab-image"
+msgstr  "Fail"
+
+msgid  "nstab-mediawiki"
+msgstr  "Tedotuz"
+
+msgid  "nstab-template"
+msgstr  "Šablon"
+
+msgid  "nstab-help"
+msgstr  "Abun lehtpol'"
+
+msgid  "nstab-category"
+msgstr  "Kategorii"
+
+msgid  "nosuchaction"
+msgstr  "Mugošt tegendad ei ole"
+
+msgid  "nosuchactiontext"
+msgstr  "URLas ozutadud tegend om petuzline.\nTö olet tehnu petusen URLan kirjutades vai männu värad kosketustme.\nNece voib mugažo ozutada viga {{SITENAME}}-projektan programmištos."
+
+msgid  "nosuchspecialpage"
+msgstr  "Mugošt speciališt lehtpol't ei ole"
+
+msgid  "nospecialpagetext"
+msgstr  "<strong>Ectud speciališt lehtpol't ei ole.</strong>\n\nKc. [[Special:SpecialPages|specialižiden lehtpoliden nimikirj]]."
+
+msgid  "error"
+msgstr  "Petuz"
+
+msgid  "databaseerror"
+msgstr  "Andmusiden bazan petuz"
+
+msgid  "dberrortextcl"
+msgstr  "Andmusiden bazas ectes ozaižihe petuz.\nJäl'gmäine ecind andmusiden bazas oli:\n\"$1\"\nfunkcijaspäi \"$2\".\nAndmusiden baz pördi petusen \"$3: $4\""
+
+msgid  "laggedslavemode"
+msgstr  "Varutuz: voib olda, lehtpolen versijal ei ole jäl'gmäižid ližadusid."
+
+msgid  "readonly"
+msgstr  "Andmusiden baz om luklostadud"
+
+msgid  "enterlockreason"
+msgstr  "Kirjutagat sü da pandud blokiruindan strok"
+
+msgid  "missing-article"
+msgstr  "Andmuzbazaspäi ei ole löutud ectud lehtpolen tekst: $1 $2.\n\nMugoi situacii sündub tobjimalaz, konz kävutai ladib lähtta lehtpolen toižetuzistorijaha vanhtunut i čutud kosketustme.\n\nKu azj ei ole neciš, ka tö, nägub, olet löudnuded vigan programmas. Olgat hüväd, kirjutagat necen polhe [[Special:ListUsers/sysop|administratorale]].\nLižakat URL."
+
+msgid  "missingarticle-rev"
+msgstr  "(versii № $1)"
+
+msgid  "missingarticle-diff"
+msgstr  "(Ero: $1, $2)"
+
+msgid  "readonly_lag"
+msgstr  "Andmusiden baz om luklostadud avtomatižešti pordoks aigad, kuni sinhroniziruiše ezmäškerdaine da toškerdaine serverad"
+
+msgid  "internalerror"
+msgstr  "Südäipetuz"
+
+msgid  "internalerror_info"
+msgstr  "Südäipetuz: $1"
+
+msgid  "fileappenderror"
+msgstr  "Ei voi ližata «$1»-failad «$2»-failha."
+
+msgid  "filecopyerror"
+msgstr  "Ei voi kopiruida \"$1\"-failad \"$2\"-tahoze."
+
+msgid  "filerenameerror"
+msgstr  "Ei voi udesnimitada \"$1\"-failad \"$2\"-tahoze."
+
+msgid  "filedeleteerror"
+msgstr  "Ei voi čuta poiš \"$1\"-failad."
+
+msgid  "directorycreateerror"
+msgstr  "Ei voi säta \"$1\"-failhodrad."
+
+msgid  "filenotfound"
+msgstr  "Ei voi löuta \"$1\"-failad."
+
+msgid  "fileexistserror"
+msgstr  "Ei voi kirjutada \"$1\"-failha: mugoi fail om wikiš"
+
+msgid  "unexpected"
+msgstr  "Varastamatoi znamočend: \"$1\"=\"$2\"."
+
+msgid  "formerror"
+msgstr  "Petuz: ei voi oigeta forman admusid"
+
+msgid  "badarticleerror"
+msgstr  "Necidä ei sa tehta necil lehtpolel."
+
+msgid  "cannotdelete"
+msgstr  "Ei voi čuta poiš necidä lehtpol't vai \"$1\"-failad.\nSen om jo čutnu ken-se toine."
+
+msgid  "badtitle"
+msgstr  "Hond nimi"
+
+msgid  "badtitletext"
+msgstr  "Ectud lehtpolen nimi om vär, vai mugošt nimed ei ole, vai kelidenkeskeline (interwiki) nimi om kirjutadud värin.\nSiš voib olda simvoloid, kudambid ei sa panda nimihe."
+
+msgid  "perfcached"
+msgstr  "Nene andmused oma kešespäi i voidas olda vanhtunuzin."
+
+msgid  "perfcachedts"
+msgstr  "Nened andmused oma kešespäi, ned oma uzištadud jäl'gmäižel kerdal siloi: $1."
+
+msgid  "querypage-no-updates"
+msgstr  "Necen lehtpolen udištand ei ole nügüd' kävutamas.\nAnttud naku andmused ei udištugoi."
+
+msgid  "wrong_wfQuery_params"
+msgstr  "Värad parametrad necen funkcijan täht: wfQuery()<br />\nFunkcii: $1<br />\nEcind: $2"
+
+msgid  "viewsource"
+msgstr  "Kc. purde"
+
+msgid  "viewsourcefor"
+msgstr  "$1-lehtpolele"
+
+msgid  "actionthrottled"
+msgstr  "Tegendan piguz om kaidetud"
+
+msgid  "protectedpagetext"
+msgstr  "Nece lehtpol' om luklostadud, miše kaita se redaktiruindaspäi."
+
+msgid  "viewsourcetext"
+msgstr  "Sab lugeda da kopiruida necen lehtpolen augotižtekst:"
+
+msgid  "protectedinterface"
+msgstr  "Necil lehtpolel om programman interfeistedotuz. Se om luklostadud, miše kaita se vandalizmaspäi."
+
+msgid  "editinginterface"
+msgstr  "'''Homaikat:''' Tö ladit redaktiruida lehtpol't, kudambal om programman interfeistekst.\nMugoi tegend toižetab interfeisan irdnägu toižiden kävutajiden täht.\nKändmižen täht om paremb kävutada [http://translatewiki.net/wiki/Main_Page?setlang=vep translatewiki.net] - MediaWikin lokalizacijan projekt."
+
+msgid  "sqlhidden"
+msgstr  "(SQL-küzelend om peittud)"
+
+msgid  "namespaceprotected"
+msgstr  "Teil ei ole oiktust redaktiruida lehtpolid '''$1'''-nimiavaruses."
+
+msgid  "customcssjsprotected"
+msgstr  "Teile ei sa redaktiruida necidä lehtpol't, sikš miše sil om toižen kävutajan personaližid järgendusid."
+
+msgid  "ns-specialprotected"
+msgstr  "Ei sa redaktiruida specialižid lehtpolid."
+
+msgid  "titleprotected"
+msgstr  "[[User:$1|$1]]-kävutai om kel'nu mugoižen lehtpolen pälkirjutesen kävutamižen.\nSü om \"''$2''\"."
+
+msgid  "virus-badscanner"
+msgstr  "Järgendusen petuz: tundmatoi virusoiden skaner: ''$1''"
+
+msgid  "virus-scanfailed"
+msgstr  "Skaniruindan petuz (kod $1)"
+
+msgid  "virus-unknownscanner"
+msgstr  "tundmatoi antivirus:"
+
+msgid  "logouttext"
+msgstr  "'''Tö olet lähtnuded sistemaspäi.'''\n\nSab jatkta rad {{SITENAME}}-saital anonimižikš, vai [[Special:UserLogin|kirjutagatoiš udes]] sil-žo vai toižel kävutajan nimel.\nOtkat sil'mnägubale, miše erasid lehtpolid ozutaškatas mugažo, kut i edel teiden lähtendad sistemaspäi. Miše vajehtada niiden nägu, puhtastagat teiden kaclimen keš."
+
+msgid  "welcomecreation"
+msgstr  "== Tulgat tervhen, $1! ==\nTeiden registracii om loptud.\nAlgat unohtagoi [[Special:Preferences|järgeta personaližikš]] sait."
+
+msgid  "yourname"
+msgstr  "Kävutajan nimi:"
+
+msgid  "yourpassword"
+msgstr  "Peitsana:"
+
+msgid  "yourpasswordagain"
+msgstr  "Kirjutagat peitsana udes:"
+
+msgid  "remembermypassword"
+msgstr  "Panda muštho minun tulendandmused neciš kompjuteras (enintään $1 {{PLURAL:$1|päivä|päivää}})"
+
+msgid  "yourdomainname"
+msgstr  "Teiden domen:"
+
+msgid  "externaldberror"
+msgstr  "Ozaižihe petuz autentifikacijan, kudamb tehtihe andmusiden irdbazan turbiš, aigan, vai teile ei ulotu oiktusid toižetada ičetoi irdregistracijad."
+
+msgid  "login"
+msgstr  "Kirjutadas sistemha"
+
+msgid  "nav-login-createaccount"
+msgstr  "Kirjutadas / Sada registracii"
+
+msgid  "loginprompt"
+msgstr  "Pidab laskta sada \"cookies\", miše kirjutadas {{SITENAME}}he."
+
+msgid  "userlogin"
+msgstr  "Kirjutadas / Sada registracii"
+
+msgid  "userloginnocreate"
+msgstr  "Kirjutagatoiš sistemha"
+
+msgid  "logout"
+msgstr  "Lähtta"
+
+msgid  "userlogout"
+msgstr  "Lähtta"
+
+msgid  "notloggedin"
+msgstr  "Tö et olgoi kirjutanus sistemha"
+
+msgid  "nologin"
+msgstr  "Ku tö et völ olgoi sanuded registracijad, '''$1'''."
+
+msgid  "nologinlink"
+msgstr  "Sada registracii"
+
+msgid  "createaccount"
+msgstr  "Sada registracii"
+
+msgid  "gotaccount"
+msgstr  "Ku teil om jo registracii, '''$1'''."
+
+msgid  "gotaccountlink"
+msgstr  "Kirjutagatoiš sistemha"
+
+msgid  "createaccountmail"
+msgstr  "e-počtaiči"
+
+msgid  "createaccountreason"
+msgstr  "Sü:"
+
+msgid  "badretype"
+msgstr  "Teil kirjutadud peitsanad ei kožugoi toine toižhe."
+
+msgid  "userexists"
+msgstr  "Kirjutadud kävutajan nimi om jo rezerviruidud.\nOlgat hüväd, valikat toine kävutajan nimi."
+
+msgid  "loginerror"
+msgstr  "Sistemha tulendan peituz."
+
+msgid  "createaccounterror"
+msgstr  "Ei voi säta registracijad: $1"
+
+msgid  "nocookieslogin"
+msgstr  "{{SITENAME}}-sait kävutab \"cookie\"-failad, miše tundištada kävutajid.\nTö olet saupnuded \"cookie\"-failad.\nOtkat ned kävutamižhe i toštkat teiden tegend."
+
+msgid  "noname"
+msgstr  "Tö ei olgoi kirjutanuded lasktud kävutajan nimed."
+
+msgid  "loginsuccesstitle"
+msgstr  "Tulend sistemha om lopnus satusekahas."
+
+msgid  "loginsuccess"
+msgstr  "'''Tö radat nügüd' {{SITENAME}}-saital kut \"$1\".'''"
+
+msgid  "nosuchuser"
+msgstr  "Ei ole kävutajad \"$1\"-nimenke.\nKävutajan nimiden oigedkirjutamine rippub kirjamiden registraspäi.\nKodvgat teiden oigedkirjutamine, vai [[Special:UserLogin/signup|säkat uz' registracii]]."
+
+msgid  "nosuchusershort"
+msgstr  "Ei ole kävutajad \"<nowiki>$1</nowiki>\"-nimenke.\nKodvgat teiden oigedkirjutamine."
+
+msgid  "nouserspecified"
+msgstr  "Pidab kirjutada kävutajan nimi."
+
+msgid  "login-userblocked"
+msgstr  "Nece kävutai om blokiruidud. Tulend sistemha om kel'tud."
+
+msgid  "wrongpassword"
+msgstr  "Peitsana om vär.\nKirjutagat se völ kerdan."
+
+msgid  "wrongpasswordempty"
+msgstr  "Nece peitsana om pall'az.\nKirjutagat toine peitsana."
+
+msgid  "passwordtooshort"
+msgstr  "Peitsanha pidab mülütada {{PLURAL:$1|1 znam|$1 znamad}}."
+
+msgid  "password-name-match"
+msgstr  "Teiden peitsanale pidab erineda kävutajan nimespäi."
+
+msgid  "password-login-forbidden"
+msgstr  "Necen kävutajannimen da peitsanan kävutamine om kel'tud."
+
+msgid  "mailmypassword"
+msgstr  "Oigeta minei uz' peitsana e-počtadme"
+
+msgid  "passwordremindertitle"
+msgstr  "Uz' pordaigaline peitsana {{SITENAME}}-saitan täht"
+
+msgid  "noemail"
+msgstr  "\"$1\"-kävutai ei ole andnu ičeze e-počtan adresad."
+
+msgid  "noemailcreate"
+msgstr  "Bidab kirjutada todesine e-počtan adres"
+
+msgid  "passwordsent"
+msgstr  "Uz' peitsana om oigetud $1-kävutajan e-počtan adresale.\nOlgat hüväd, kirjutagatoiš sistemha, konz sat sen."
+
+msgid  "blocked-mailpassword"
+msgstr  "Redaktiruind teiden IP-adresalpäi om kel'tud, peitsanan udištandan funkcii om mugažo blokiruidud, miše kaitas abidoičendaspäi."
+
+msgid  "eauthentsent"
+msgstr  "Vahvištoituzkirjeine om oigetud teiden adresale. Kirjeižes om mugažo kirjutadud, midä pidab tehta, miše vahvištoitta teiden registracijad."
+
+msgid  "mailerror"
+msgstr  "E-počtan oigendamižen petuz: $1"
+
+msgid  "emailauthenticated"
+msgstr  "Teiden e-počtan adres vahvištoittihe datal $2 aigal $3."
+
+msgid  "emailnotauthenticated"
+msgstr  "Teiden e-počtan adres ei ole völ vahvištoittud.\nWiki-likutimen počtfunkcijad ei olgoi kävutamas."
+
+msgid  "noemailprefs"
+msgstr  "Kirjutagat e-počtan adres teiden järgendusihe, miše se oliži kävutamas."
+
+msgid  "emailconfirmlink"
+msgstr  "Vahvištoitkat teiden e-počtan adres"
+
+msgid  "invalidemailaddress"
+msgstr  "Ningomal e-počtan adresal om vär format. Olgat hüväd, kirjutagat e-počtan adres oiktas formatas vai puhtastagat e-počtan pöud."
+
+msgid  "accountcreated"
+msgstr  "Registracii om OK"
+
+msgid  "accountcreatedtext"
+msgstr  "Registracii $1-kävutajan täht om sätud."
+
+msgid  "createaccount-title"
+msgstr  "{{SITENAME}}: registracijan sädand."
+
+msgid  "usernamehasherror"
+msgstr  "Kävutajan nimes ei voi olda mugošt znamad."
+
+msgid  "login-throttled"
+msgstr  "Tö olet tehnu äjahkon naprindoid kirjutadas sistemha.\nOlgat hüväd, varastagat pordon aigad edel ut naprindad."
+
+msgid  "loginlanguagelabel"
+msgstr  "Kel’: $1"
+
+msgid  "resetpass"
+msgstr  "Vajehtada peitsana"
+
+msgid  "resetpass_announce"
+msgstr  "Tö olet kirjutanus sistemha sen pordaigaližen peitsanan abul, kudamb oli oigetud teile e-počtadme.\nMiše tulda sistemha lopuližikš, teile pidab säta uz' peitsana naku:"
+
+msgid  "resetpass_text"
+msgstr  "<!-- Ližagat tekstad nakhu -->"
+
+msgid  "resetpass_header"
+msgstr  "Peitsanan vajehtuz"
+
+msgid  "oldpassword"
+msgstr  "Vanh peitsana:"
+
+msgid  "newpassword"
+msgstr  "Uz' peitsana:"
+
+msgid  "retypenew"
+msgstr  "Toštkat uz' peitsana:"
+
+msgid  "resetpass_submit"
+msgstr  "Säta peitsana da kirjutadas sistemha"
+
+msgid  "resetpass_success"
+msgstr  "Teiden peisana om vajehtadud jügedusita! Tulend sistemha..."
+
+msgid  "resetpass_forbidden"
+msgstr  "Ei voi vajehtada peitsanad"
+
+msgid  "resetpass-no-info"
+msgstr  "Miše kirjutada necil lehtpolel, teile pidab kirjutadas sistemha."
+
+msgid  "resetpass-submit-loggedin"
+msgstr  "Vajehtada peitsana"
+
+msgid  "resetpass-submit-cancel"
+msgstr  "Heitta pätand"
+
+msgid  "resetpass-wrong-oldpass"
+msgstr  "Vär pordaigaine vai nügüdläine peitsana.\nVoib olda, tö olet jo toižetanuded peitsanan vai pakinuded uden peitsanan."
+
+msgid  "resetpass-temp-password"
+msgstr  "Pordaigaline peitsana:"
+
+msgid  "bold_sample"
+msgstr  "Lihavoitud tekst"
+
+msgid  "bold_tip"
+msgstr  "Lihavoitud tekst"
+
+msgid  "italic_sample"
+msgstr  "Kursivtekst"
+
+msgid  "italic_tip"
+msgstr  "Kursivtekst"
+
+msgid  "link_sample"
+msgstr  "Kosketusen pälkirjutez"
+
+msgid  "link_tip"
+msgstr  "Südäikosketuz"
+
+msgid  "extlink_sample"
+msgstr  "http://www.example.com kosketusen pälkirjutez"
+
+msgid  "extlink_tip"
+msgstr  "Irdkosketuz (muštkat prefiksas http://)"
+
+msgid  "headline_sample"
+msgstr  "Pälkirjutesen tekst"
+
+msgid  "headline_tip"
+msgstr  "Toižen pindan pälkirjutez"
+
+msgid  "math_sample"
+msgstr  "Pangat formul nakhu"
+
+msgid  "math_tip"
+msgstr  "Matematine formul (LaTeX-formatas)"
+
+msgid  "nowiki_sample"
+msgstr  "Pangat formatiruimatoman tekstan nakhu"
+
+msgid  "nowiki_tip"
+msgstr  "Ignoriruida wiki-formatiruind"
+
+msgid  "image_sample"
+msgstr  "Ozutez.jpg"
+
+msgid  "image_tip"
+msgstr  "Mülütadud fail"
+
+msgid  "media_sample"
+msgstr  "Ozutez.ogg"
+
+msgid  "media_tip"
+msgstr  "Kosketuz mediafailale"
+
+msgid  "sig_tip"
+msgstr  "Teiden allekirjutez da tarkoiktan aigan vestatez"
+
+msgid  "hr_tip"
+msgstr  "Gorizontaline pird (algat kävutagoi paksus)"
+
+msgid  "summary"
+msgstr  "Toižetusiden ümbrikacund:"
+
+msgid  "subject"
+msgstr  "Tem/pälkirjutez:"
+
+msgid  "minoredit"
+msgstr  "Nece om pen' redakcii"
+
+msgid  "watchthis"
+msgstr  "Kacelta necidä lehtpol't"
+
+msgid  "savearticle"
+msgstr  "Kirjutada lehtpol'"
+
+msgid  "preview"
+msgstr  "Ezikacund"
+
+msgid  "showpreview"
+msgstr  "Ozutada ezikacund"
+
+msgid  "showlivepreview"
+msgstr  "Hered ezikacund"
+
+msgid  "showdiff"
+msgstr  "Ozutada toižetused"
+
+msgid  "anoneditwarning"
+msgstr  "'''Homaikat:''' Tö et olgoi kirjutanus sistemha.\nTeiden IP-adres om kirjutadud necen lehtpolen redaktiruindan istorijaha."
+
+msgid  "missingsummary"
+msgstr  "'''Muštatez:''' Tö et olgoi andnuded toižetusiden lühüdad ümbrikacundad.\nKu tö valičet völ kerdan \"Kirjutada lehtpol'\", ka teiden toižetused kirjutase ningoižeta ümbrikacundata."
+
+msgid  "missingcommenttext"
+msgstr  "Olgat hüväd, pangat teiden tedotuz alahaks."
+
+msgid  "missingcommentheader"
+msgstr  "'''Muštatez:''' Tö et olgoi andnuded toižetusiden ümbrikacundoiden pälkirjutest.\nKu tö valičet völ kerdan ”{{int:savearticle}}” \"Kirjutada lehtpol'\", ka teiden toižetusiden ümbrikacund kirjutase ningoižeta pälkirjuteseta."
+
+msgid  "summary-preview"
+msgstr  "Ümbrikacund linneb mugoi:"
+
+msgid  "subject-preview"
+msgstr  "Ümbrikacundan pälkirjutez linneb mugoi:"
+
+msgid  "blockedtitle"
+msgstr  "Kävutai om blokiruidud"
+
+msgid  "blockedtext"
+msgstr  "'''Teiden kävutajan nimi vai IP-adres om blokiruidud.'''\n\nTeid om blokiruinu $1.\nSü: ''$2''.\n\n* Blokiruindan augotižaig: $8\n* Blokiruindan lopaig: $6\n* Blokiruidud kävutai: $7\n\nOtkat sil'mnägubale, miše teile ei sa oigeta kirješt [[{{MediaWiki:Grouppage-sysop}}|administratorale]], ku tö et olgoi sanuded registracijad i et olgoi vahvištoitnuded ičetoi e-počtan adresad\n[[Special:Preferences|teiden järgendusiden lehtpolel]], vai teile oma kel'tnuded kirjeižid oigendamha blokiruindan aigan.\nTeiden IP-adres om $3, teiden blokiruindan ID om #$5.\nOlgat hüväd, kirjutagat nened andmused kaikiš kirjeižiš administratorile."
+
+msgid  "autoblockedtext"
+msgstr  "Teiden IP-adres om blokiruidud avtomatižešti, sikš miše sen oli kävutanu toine kävutai; se kävutai om blokiruidud $1-kävutajal.\n\nSü: ''$2''.\n\n* Blokiruindan augotižaig: $8\n* Blokiruindan lopaig: $6\n* Blokiruidud kävutai: $7\n\nOtkat sil'mnägubale, miše teile ei sa oigeta kirješt [[{{MediaWiki:Grouppage-sysop}}|administratorale]], ku tö et olgoi sanuded registracijad i et olgoi vahvištoitnuded ičetoi e-počtan adresad\n[[Special:Preferences|teiden järgendusiden lehtpolel]], vai teile oma kel'tnuded kirjeižid oigendamha blokiruindan aigan.\nTeiden IP-adres om $3, teiden blokiruindan ID om #$5.\nOlgat hüväd, kirjutagat nened andmused kaikiš kirjeižiš administratorile."
+
+msgid  "blockednoreason"
+msgstr  "Ei ole kirjutadud ni-mittušt süd."
+
+msgid  "blockedoriginalsource"
+msgstr  "'''$1'''-lehtpolen tekst:"
+
+msgid  "blockededitsource"
+msgstr  "'''Teiden $1-lehtpolen toižetusiden''' tekst:"
+
+msgid  "whitelistedittitle"
+msgstr  "Kirjutagatoiš sistemha, miše redaktiruida"
+
+msgid  "whitelistedittext"
+msgstr  "Teile pidab $1, miše redaktiruida lehtpolid."
+
+msgid  "confirmedittext"
+msgstr  "Tarbiž vahvištoitta e-počtan adres, miše redaktiruida lehtpolid.\nOlgat hüväd, kirjutagat da vahvištoitkat teiden e-počtan adres [[Special:Preferences|järgendusiden lehtpolel]]."
+
+msgid  "nosuchsectiontitle"
+msgstr  "Ei voi löuta mugošt jagust"
+
+msgid  "nosuchsectiontext"
+msgstr  "Tö ladit redaktiruida olmatont lehtpolen jagust.\nVoib olda, se om sirtud vai čutud poiš lugemižen aigan."
+
+msgid  "loginreqtitle"
+msgstr  "Pidab kirjutadas sistemha"
+
+msgid  "loginreqlink"
+msgstr  "kirjutagatoiš sistemha"
+
+msgid  "loginreqpagetext"
+msgstr  "Teile pidab $1, miše lugeda toižid lehtpolid."
+
+msgid  "accmailtitle"
+msgstr  "Peitsana om oigetud."
+
+msgid  "newarticle"
+msgstr  "(Uz’)"
+
+msgid  "newarticletext"
+msgstr  "Tö tulit kosketustme lehtpolele, kudamb ei olend tehtud völ.\nMiše säta lehtpol', kirjutaškakat alemba sijatud iknas (kc. [[{{MediaWiki:Helppage}}|abun lehtpol']], miše sada ližainformacijad).\nKu tö olet petnus tänna tuldes, pingat teiden kaclimen '''tagaze'''-kingitimele."
+
+msgid  "noarticletext"
+msgstr  "Necil lehtpolel ei ole nügüd' tekstad.\nTö voit [[Special:Search/{{PAGENAME}}|ectä nece nimi]] toižil lehtpolil,\n<span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} ectä pojavid aigkirjoiden kirjutesid],\nvai [{{fullurl:{{FULLPAGENAME}}|action=edit}} redaktiruida nece lehtpol']</span>."
+
+msgid  "noarticletext-nopermission"
+msgstr  "Necil lehtpolel ei ole nügüd' tekstad.\nTö voit [[Special:Search/{{PAGENAME}}|ectä necen lehtpolen nimi]] toižil lehtpolil,\n<span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} ectä pojavid aigkirjoiden kirjutesid]</span>."
+
+msgid  "userpage-userdoesnotexist"
+msgstr  "Kävutajan nimed «$1» ei ole. Todeks-ik tahtoit säta vai toižetada nece lehtpol'?"
+
+msgid  "userpage-userdoesnotexist-view"
+msgstr  "\"$1\"-kävutai ei ole registriruidud."
+
+msgid  "blocked-notice-logextract"
+msgstr  "Nece kävutai om nügüd' blokiruidud.\nAlemba om anttud jälgmäine kirjutuz blokiruindaiglehtesespäi:"
+
+msgid  "usercssyoucanpreview"
+msgstr  "'''Nevond:''' Kävutagat «{{int:showpreview}}» 'Ozutada ezikacund'-kingitim, miše kodvda teiden uz' CSS edel mušthopanendad."
+
+msgid  "userjsyoucanpreview"
+msgstr  "'''Nevond:''' Kävutagat \"{{int:showpreview}}\" 'Ozutada ezikacund'-kingitim, miše kodvda teiden uz' JS edel mušthopanendad."
+
+msgid  "usercsspreview"
+msgstr  "'''Muštkat, miše nece om vaiše teiden CSS-failan ezikacund, se ei ole völ kirjutadud muštho!'''"
+
+msgid  "userjspreview"
+msgstr  "'''Muštkat, miše nece om vaiše teiden JavaScript-failan ezikacund, se ei ole völ kirjutadud muštho!'''"
+
+msgid  "updated"
+msgstr  "(Udištadud)"
+
+msgid  "note"
+msgstr  "'''Homaičend:'''"
+
+msgid  "previewnote"
+msgstr  "'''Muštkat, miše nece om vaiše ezikacund. Teiden toižetused ei olgoi völ kirjutadud!'''"
+
+msgid  "previewconflict"
+msgstr  "Tekst redaktiruindan üläiknas kuvazub neche ezikacundha muga, kut se nägub lopkirjutamižen jäl'ghe."
+
+msgid  "editing"
+msgstr  "$1-lehtpolen redaktiruind"
+
+msgid  "editingsection"
+msgstr  "$1-lehtpolen redaktiruind (jaguz)"
+
+msgid  "editingcomment"
+msgstr  "$1-lehtpolen redaktiruind (uz' jaguz)"
+
+msgid  "editconflict"
+msgstr  "Redaktiruindan konflikt: $1"
+
+msgid  "yourtext"
+msgstr  "Teiden tekst"
+
+msgid  "storedversion"
+msgstr  "Muštho pandud versii"
+
+msgid  "nonunicodebrowser"
+msgstr  "'''HOMAIKAT: Teiden kaclim ei kävuta Unikodad.'''\nKirjutesiden redaktiruindan aigan kaikiden Unikod-simvoliden (kudambad ei olgoi ASCII:š) sijas ozutadas niiden geksadecimaližid ekvivalentoid."
+
+msgid  "editingold"
+msgstr  "'''VARUTUZ: tö redaktiruit necen lehtpolen vanhtunut versijad.'''\nKu tö kirjutat sen muštho, kaik möhemba tehtud toižetused kadodas."
+
+msgid  "yourdiff"
+msgstr  "Erod"
+
+msgid  "copyrightwarning"
+msgstr  "Olgat hüväd, otkat sil'mnägubale, miše kaik kirjutesen tekstan toižetused da ližadused tekstha arvostadas, kut tehtud $2-licenzijan alusel (kc. $1, miše tedištada detalid).\nKu tö et tahtkoi, miše teiden tekstad levitaižiba da redaktiruižiba miččed taht kävutajad, algat pangoi niid tänna.\nTö vahvištoitat mugažo, miše olet toižetusiden avtoran vai olet kopiruinuded tekstad joudjas purtkespäi.\n\n'''ALGAT SIJAKOI LASKMATA AVTORANOIKTUSEL KAITUD MATERIALOID!'''"
+
+msgid  "copyrightwarning2"
+msgstr  "Olgat hüväd, otkat sil'mnägubale, miše kaik kirjutesen tekstan toižetused da ližadused tekstha arvostadas, kut tehtud licenzijan alusel (kc. $1, miše tedištada detalid).\nKu tö et tahtkoi, miše teiden tekstad levitaižiba da redaktiruižiba miččed taht kävutajad, algat pangoi niid tänna.\nTö vahvištoitat mugažo, miše olet toižetusiden avtoran vai olet kopiruinuded tekstad joudjas purtkespäi.\n\n'''ALGAT SIJAKOI LASKMATA AVTORANOIKTUSEL KAITUD MATERIALOID!'''"
+
+msgid  "longpageerror"
+msgstr  "'''PETUZ: Teiden tekstan suruz om $1 kb, a lasktud maksimum om $2 kb.'''\nEi voi kirjutada muštho."
+
+msgid  "protectedpagewarning"
+msgstr  "'''VARUTUZ: nece lehtpol' om luklostadud, sidä voidas redaktiruida vaiše administratorad.'''\nAlemba om anttud jäl'gmäine aiglehtesen kirjutez:"
+
+msgid  "semiprotectedpagewarning"
+msgstr  "'''Tedotuz:''' Nece lehtpol' om kaitud redaktiruindaspäi; vaiše registriruidud kävutajad voidas redaktiruida sidä.\nAlemba om anttud jäl'gmäine aiglehtesen kirjutez:"
+
+msgid  "cascadeprotectedwarning"
+msgstr  "'''Homaikat:''' Nece lehtpol' om luklostadud muga, miše vaiše kävutajad administratoriden privilegijoidenke voidas\nredaktiruida sidä, sikš miše se oli mülütadud {{PLURAL:$1|neche lehtpol'he, kudamban|nenihe lehtpolihe, kudambiden}}\ntäht oli sätud kaskadkaičend:"
+
+msgid  "titleprotectedwarning"
+msgstr  "'''Homaikat: Nece lehtpol' om luklostadud, sikš pidab sada [[Special:ListGroupRights|specialižed oiktused]], miše säta se.'''\nAlemba om anttud jäl'gmäine aiglehtesen kirjutez:"
+
+msgid  "templatesused"
+msgstr  "Necil lehtpolel kävutadud {{PLURAL:$1|šablon|šablonad}}:"
+
+msgid  "templatesusedpreview"
+msgstr  "Ezikactud lehtpolel kävutadud {{PLURAL:$1|šablon|šablonad}}:"
+
+msgid  "templatesusedsection"
+msgstr  "Neciš sekcijas kävutadud {{PLURAL:$1|šablon|šablonad}}:"
+
+msgid  "template-protected"
+msgstr  "(kaitud)"
+
+msgid  "template-semiprotected"
+msgstr  "(kaitud anonimoišpäi da uziš kävutajišpäi)"
+
+msgid  "hiddencategories"
+msgstr  "Nece lehtpol' om {{PLURAL:$1|1 peittud kategorijaspäi|$1 peittud kategorijoišpäi}}:"
+
+msgid  "edittools"
+msgstr  "<!-- Tänna sijatud tekst ozutadas redaktiruindan da jügutoitandan formiden al. -->"
+
+msgid  "nocreatetitle"
+msgstr  "Lehtpoliden sädand om kaidetud"
+
+msgid  "nocreatetext"
+msgstr  "{{SITENAME}}-saitas uziden lehtpoliden sädand om kaidetud.\nTö voit pörttas tagaze i redaktiruida toine lehtpol', vai [[Special:UserLogin|kirjutagatoiš sistemha, vai säkat registracii]]."
+
+msgid  "nocreate-loggedin"
+msgstr  "Teile ei sa säta uzid lehtpolid."
+
+msgid  "sectioneditnotsupported-title"
+msgstr  "Jagadusiden redaktiruind ei ole pid'oiteldud."
+
+msgid  "sectioneditnotsupported-text"
+msgstr  "Necil lehtpolel jagadusiden redaktiruind ei ole pid'oiteldud."
+
+msgid  "permissionserrors"
+msgstr  "Oiktusiden petused"
+
+msgid  "permissionserrorstext"
+msgstr  "Teile ei sa tehta muga {{PLURAL:$1|necen sün|neniden süiden}} tagut:"
+
+msgid  "permissionserrorstext-withaction"
+msgstr  "Teile ei sa $2 {{PLURAL:$1|necen sün|neciden süiden}} tagut:"
+
+msgid  "recreate-moveddeleted-warn"
+msgstr  "Homaikat!\nTö ladit säta lehtpol', kudamb om čutud poiš aigemba.\nKodvgat, pidab-ik säta nece lehtpol' udes.\nAlemba anttas necen lehtpolen čudandoiden da udesnimitandoiden aiglehtez."
+
+msgid  "moveddeleted-notice"
+msgstr  "Nece lehtpol' om čutud poiš.\nAlemba om anttud lehtpolen čudandan vai sirdandan istorii kut abuandmused."
+
+msgid  "log-fulllog"
+msgstr  "Ozutada kaclendnimikirjutez kogonaz"
+
+msgid  "edit-hook-aborted"
+msgstr  "Redakcijan azoti sabustaiprogramm.\nEi ole ližasüid."
+
+msgid  "edit-gone-missing"
+msgstr  "Ei voi udištada lehtpol't.\nVoib olda, se om jo čutud."
+
+msgid  "edit-conflict"
+msgstr  "Redakcijoiden konflikt."
+
+msgid  "edit-no-change"
+msgstr  "Teiden redakcii ignoriruidihe, sikš miše tekst ei ole toižetadud."
+
+msgid  "edit-already-exists"
+msgstr  "Ei voi säta uz' lehtpol'.\nWikiš om jo mugoi lehtpol'."
+
+msgid  "expensive-parserfunction-category"
+msgstr  "Lehtpoled, kudambil kävutadas äjahko resursokahid funkcijoid"
+
+msgid  "post-expand-template-inclusion-warning"
+msgstr  "Varutuz: lehtpolele pandud šablonoiden suruz om surehk.\nEi voi mülütada erasid šablonoid."
+
+msgid  "post-expand-template-inclusion-category"
+msgstr  "Lehtpoled, kudambiden mülütadud šablonoiden suruz om ülitadud"
+
+msgid  "post-expand-template-argument-warning"
+msgstr  "Homaikat! Necil lehtpolel om hot' üks' surehk šablonan argument.\nMugomad argumentad čutihe."
+
+msgid  "post-expand-template-argument-category"
+msgstr  "Lehtpoled, kudambil om keskhe jättud šablonoiden argumentid"
+
+msgid  "parser-template-loop-warning"
+msgstr  "Sol'm om löutud šablonas: [[$1]]"
+
+msgid  "parser-template-recursion-depth-warning"
+msgstr  "Šablonan rekursijan süvuzröun om ülitadud ($1)"
+
+msgid  "undo-failure"
+msgstr  "Ei voi tühjištada redakcijad, sikš miše läbiredakcijad konfliktuidas."
+
+msgid  "undo-norev"
+msgstr  "Ei voi endištada lehtpol't, sikš miše mugošt lehtpol't ei ole vai se om jo čutud."
+
+msgid  "cantcreateaccounttitle"
+msgstr  "Ei voi säta registracijad"
+
+msgid  "viewpagelogs"
+msgstr  "Ozutada aigkirjad necen lehtpolen täht"
+
+msgid  "nohistory"
+msgstr  "Necen lehtpolen täht ei ole toižetusiden aigkirjad."
+
+msgid  "currentrev"
+msgstr  "Nügüdläine versii"
+
+msgid  "currentrev-asof"
+msgstr  "Nügüdläine versii $1"
+
+msgid  "revisionasof"
+msgstr  "Versii $1"
+
+msgid  "revision-info"
+msgstr  "Tehtud $1 $2-kävutajan versii"
+
+msgid  "previousrevision"
+msgstr  "← Enzne versii"
+
+msgid  "nextrevision"
+msgstr  "Udemb versii →"
+
+msgid  "currentrevisionlink"
+msgstr  "Nügüdläine versii"
+
+msgid  "cur"
+msgstr  "nüg."
+
+msgid  "next"
+msgstr  "toine"
+
+msgid  "last"
+msgstr  "enzne"
+
+msgid  "page_first"
+msgstr  "ezmäine"
+
+msgid  "page_last"
+msgstr  "jäl'gmäine"
+
+msgid  "histlegend"
+msgstr  "Valičend: virgakat versijad, miše rindatada niid, i paingat \"Mända\"-kosketimele alahan.<br />\nZnamoičendad: '''({{int:cur}})''' = erod nügüdläižes versijaspäi, '''({{int:last}})''' = erod enččes vepsijaspäi, '''{{int:minoreditletter}}''' = pen' toižetuz."
+
+msgid  "history-fieldset-title"
+msgstr  "Lehtelta istorii"
+
+msgid  "history-show-deleted"
+msgstr  "Vaiše čutud"
+
+msgid  "histfirst"
+msgstr  "Kaikiš vanhembad"
+
+msgid  "histlast"
+msgstr  "Tantoižed"
+
+msgid  "historysize"
+msgstr  "({{PLURAL:$1|1 bait|$1 baitad}})"
+
+msgid  "historyempty"
+msgstr  "(pall'az)"
+
+msgid  "history-feed-title"
+msgstr  "Toižetusiden istorii"
+
+msgid  "history-feed-description"
+msgstr  "Necen lehtpolen toižetusen istorii"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$1 aigal $2"
+
+msgid  "history-feed-empty"
+msgstr  "Ectud lehtpol't ei ole.\nSidä voiži čuta wikispäi vai nimitada udes.\nNaprigat [[Special:Search|ectä wikišpäi]] sättujid lehtpolid."
+
+msgid  "rev-deleted-comment"
+msgstr  "(kommentan ümbrikirjutand om čutud poiš)"
+
+msgid  "rev-deleted-user"
+msgstr  "(avtoran nimi om čutud poiš)"
+
+msgid  "rev-deleted-event"
+msgstr  "(kirjutez om čutud poiš)"
+
+msgid  "rev-deleted-text-permission"
+msgstr  "Nece lehtpolen versii om '''čutud'''.\nVoib olda, süd oma anttud [{{fullurl:{{#Special:Log}}/delete|page={{FULLPAGENAMEE}}}} čudandoiden aigkirjas]."
+
+msgid  "rev-deleted-text-view"
+msgstr  "Nece lehtpolen versii om '''čutud'''.\nTö voit lugeda sidä, sikš ku olet saitan administrator.\nVoib olda, süd oma anttud [{{fullurl:{{#Special:Log}}/delete|page={{FULLPAGENAMEE}}}} čudandoiden aigkirjas]."
+
+msgid  "rev-deleted-no-diff"
+msgstr  "Tö et voigoi nähta necidä versijoiden erod, sikš miše üks' toižetusišpäi om '''čutud'''.\nDetalid voidas olda [{{fullurl:{{#Special:Log}}/delete|page={{FULLPAGENAMEE}}}} čudandoiden aigkirjas]."
+
+msgid  "rev-delundel"
+msgstr  "ozutada/peitta"
+
+msgid  "rev-showdeleted"
+msgstr  "ozutada"
+
+msgid  "revisiondelete"
+msgstr  "Čuta poiš/endištada lehtpolen versijad"
+
+msgid  "revdelete-nooldid-title"
+msgstr  "Vär metversii"
+
+msgid  "revdelete-nooldid-text"
+msgstr  "Tö et olgoi valinuded metversijad (metversijoid) necen funkcijan oigetes."
+
+msgid  "revdelete-nologtype-title"
+msgstr  "Tö et olgoi andnuded aigkirjan tipad"
+
+msgid  "revdelete-nologtype-text"
+msgstr  "Tö et olgoi andnuded aigkirjan tipad, kudambas pidab tehta se tegend."
+
+msgid  "revdelete-nologid-title"
+msgstr  "Vär kirjutez aigkirjas"
+
+msgid  "revdelete-nologid-text"
+msgstr  "Tö et olgoi andnuded aigkirjan metkirjutest tegendan tehtes vai anttud kirjutest ei ole."
+
+msgid  "revdelete-no-file"
+msgstr  "Mugošt failad ei ole."
+
+msgid  "revdelete-show-file-submit"
+msgstr  "Ka"
+
+msgid  "revdelete-selected"
+msgstr  "'''{{PLURAL:$2|Valitud versii|Valitud versijad}} lehtpolišpäi [[:$1]]:'''"
+
+msgid  "logdelete-selected"
+msgstr  "'''{{PLURAL:$1|Valitud kirjutez aigkirjas|Valitud kirjutesed aigkirjas}}:'''"
+
+msgid  "revdelete-text"
+msgstr  "'''Čutud versijad ozutadas lehtpolen istorijas da aigkirjoiš, no järgeližed lugijad ei voiškakoi nähta niiden südäimišton erasid paloid.'''\nAdministratorad voiškatas lugeda peittud südäimištod da endištada sidä necen interfeisan kal't siloi, konz ei ole ližakaidendusid."
+
+msgid  "revdelete-legend"
+msgstr  "Säta kaidendused"
+
+msgid  "revdelete-hide-text"
+msgstr  "Peitta necen lehtpolen versijan tekst"
+
+msgid  "revdelete-hide-image"
+msgstr  "Peitta failan südäimišt"
+
+msgid  "revdelete-hide-name"
+msgstr  "Peitta tegend da sen objekt"
+
+msgid  "revdelete-hide-comment"
+msgstr  "Peitta toižetusiden kirjutez"
+
+msgid  "revdelete-hide-user"
+msgstr  "Peitta avtoran nimi/IP"
+
+msgid  "revdelete-hide-restricted"
+msgstr  "Peitta andmusid eskai administratorilpäi-ki"
+
+msgid  "revdelete-radio-same"
+msgstr  "(ala toižeta)"
+
+msgid  "revdelete-radio-set"
+msgstr  "Ka"
+
+msgid  "revdelete-radio-unset"
+msgstr  "Ei"
+
+msgid  "revdelete-suppress"
+msgstr  "Peitta administratorilpäi-ki sadud andmused"
+
+msgid  "revdelete-unsuppress"
+msgstr  "Heitta kaidendused endištadud versijoilpäi"
+
+msgid  "revdelete-log"
+msgstr  "Sü:"
+
+msgid  "revdelete-submit"
+msgstr  "Lattä valitud {{PLURAL:$1|versijaha|versioihe}}"
+
+msgid  "revdelete-logentry"
+msgstr  "Om vajehtanu sen, kut nägub lehtpol' [[$1]]"
+
+msgid  "logdelete-logentry"
+msgstr  "Om toižetanu sen, kut nägub tego [[$1]]"
+
+msgid  "revdelete-success"
+msgstr  "'''Versijan nägulad om toižetadud tugedusita.'''"
+
+msgid  "revdelete-failure"
+msgstr  "'''Ei voi toižetada versijan läguladud:'''\n$1"
+
+msgid  "logdelete-success"
+msgstr  "'''Aigkirjutesen nägulad om toižetadud.'''"
+
+msgid  "logdelete-failure"
+msgstr  "'''Ei voi toižetada aigkirjutesen näguladud:'''\n$1"
+
+msgid  "revdel-restore"
+msgstr  "Toižetada nägubuz"
+
+msgid  "revdel-restore-deleted"
+msgstr  "čutud poiš versijad"
+
+msgid  "revdel-restore-visible"
+msgstr  "versijad, kudambad voib nähta"
+
+msgid  "pagehist"
+msgstr  "Lehtpolen istorii"
+
+msgid  "deletedhist"
+msgstr  "Čudandoiden istorii"
+
+msgid  "revdelete-content"
+msgstr  "südäimišt"
+
+msgid  "revdelete-summary"
+msgstr  "kaik toižetused"
+
+msgid  "revdelete-uname"
+msgstr  "kävutajan nimi"
+
+msgid  "revdelete-restricted"
+msgstr  "kaidendused administratoriden täht"
+
+msgid  "revdelete-unrestricted"
+msgstr  "kaidendused heittud administratoriden täht"
+
+msgid  "revdelete-hid"
+msgstr  "peittud $1"
+
+msgid  "revdelete-unhid"
+msgstr  "avaitud $1"
+
+msgid  "revdelete-log-message"
+msgstr  "$1 $2 {{PLURAL:$2|versijan|versijoiden}} täht"
+
+msgid  "logdelete-log-message"
+msgstr  "$1 $2 {{PLURAL:$2|tegendan|tegendoiden}} täht"
+
+msgid  "revdelete-hide-current"
+msgstr  "$2, $1-kirjutesen peitmižen petuz: nece versii om nügüdläine.\nSidä ei sa peitta."
+
+msgid  "revdelete-show-no-access"
+msgstr  "$2, $1-kirjutesen ozutamižen petuz: nece kirjutez om znamoitud \"kaidetud\".\nTö ei voigoi kävutada sidä."
+
+msgid  "revdelete-modify-no-access"
+msgstr  "$2, $1-kirjutesen toižetamižen petuz: nece kirjutez om znamoitud \"kaidetud\".\nTö ei voigoi kävutada sidä."
+
+msgid  "revdelete-modify-missing"
+msgstr  "ID $1-kirjutesen kirjutamižen petuz: sidä ei ole andmusiden bazas!"
+
+msgid  "revdelete-otherreason"
+msgstr  "Toine sü/ližasü"
+
+msgid  "revdelete-reasonotherlist"
+msgstr  "Toine sü:"
+
+msgid  "revdelete-edit-reasonlist"
+msgstr  "Redaktiruida čudandan süd"
+
+msgid  "revdelete-offender"
+msgstr  "Lehtpolen versijan avtor:"
+
+msgid  "suppressionlog"
+msgstr  "Peitandoiden aigkirj"
+
+msgid  "mergehistory"
+msgstr  "Ühtenzoitta lehtpoliden istorijad"
+
+msgid  "mergehistory-box"
+msgstr  "Ühtenzoitta kahten lehtpolen toižetusiden istorijad:"
+
+msgid  "mergehistory-from"
+msgstr  "Lähtmižlehtpol':"
+
+msgid  "mergehistory-into"
+msgstr  "Metlehtpol':"
+
+msgid  "mergehistory-list"
+msgstr  "Toižetusiden istorii, kudambad ühtenzoittas"
+
+msgid  "mergehistory-go"
+msgstr  "Ozutada toižetusid, kudambid ühtenzoittas"
+
+msgid  "mergehistory-submit"
+msgstr  "Ühtenzoitta redakcijad"
+
+msgid  "mergehistory-empty"
+msgstr  "Ei voi löuta redakcijoid ühtenzoitandan täht."
+
+msgid  "mergehistory-success"
+msgstr  "$3 {{PLURAL:$3|redakcii om|redakcijad oma}} sirtud satusekahas [[:$2]]-lahtpolele. Ühthine redakcijoiden lugu om [[:$1]]."
+
+msgid  "mergehistory-fail"
+msgstr  "Ei voi ühtenzoitta lehtpoliden istorijoid, olgat hüväd, kodvgat lehtpolen da aigan parametrad."
+
+msgid  "mergehistory-no-source"
+msgstr  "$1-augotižlehtpol't ei ole."
+
+msgid  "mergehistory-no-destination"
+msgstr  "$1-metlehtpol't ei ole."
+
+msgid  "mergehistory-invalid-source"
+msgstr  "Augotižlehtpolele pidab annta todesine nimi."
+
+msgid  "mergehistory-invalid-destination"
+msgstr  "Metlehtpolele pidab antta todesine nimi."
+
+msgid  "mergehistory-autocomment"
+msgstr  "Vei [[:$1]] [[:$2]]-lehtpolele"
+
+msgid  "mergehistory-comment"
+msgstr  "Vei [[:$1]] [[:$2]]-lehtpolele: $3"
+
+msgid  "mergehistory-same-destination"
+msgstr  "Augotižlehpolen da metlehpolen keskes pidab tehta eroid"
+
+msgid  "mergehistory-reason"
+msgstr  "Sü:"
+
+msgid  "mergelog"
+msgstr  "Ühtenzoitusiden aigkirj"
+
+msgid  "pagemerge-logentry"
+msgstr  "[[$1]] da [[$2]]-lehtpoled oma ühtenzoittud (versijad $3-hesai)"
+
+msgid  "revertmerge"
+msgstr  "Jagada"
+
+msgid  "mergelogpagetext"
+msgstr  "Naku om tantoižiden lehtpoliden nimiden ühtenzoitusiden nimikirjutez."
+
+msgid  "history-title"
+msgstr  "\"$1\"-lehtpolen toižetusiden istorii"
+
+msgid  "difference"
+msgstr  "(Erod versijoiden keskes)"
+
+msgid  "lineno"
+msgstr  "Rivi $1:"
+
+msgid  "compareselectedversions"
+msgstr  "Rindatada valitud versijad"
+
+msgid  "showhideselectedversions"
+msgstr  "Ozutada/peitta valitud versijad"
+
+msgid  "editundo"
+msgstr  "heitta pätand"
+
+msgid  "diff-multi"
+msgstr  "({{PLURAL:$1|üks' keskmäine versii ei ole|$1 keskmäšt versijad ei olgoi}} {{PLURAL:$2|one user|$2 users}} ozutadud)"
+
+msgid  "searchresults"
+msgstr  "Ectä rezul'tatad"
+
+msgid  "searchresults-title"
+msgstr  "Ecindan rezul'tatad sanale \"$1\""
+
+msgid  "searchresulttext"
+msgstr  "Ližainformacijad ecmižes sab sada [[{{MediaWiki:Helppage}}|Abu]]-lehtpolespäi."
+
+msgid  "searchsubtitle"
+msgstr  "Tö ecit '''[[:$1]]''' ([[Special:Prefixindex/$1|kaik lehtpoled, kudambad augotase nimespäi \"$1\"]]{{int:pipe-separator}}\n[[Special:WhatLinksHere/$1|Kaik lehtpoled, kudambad kosketadas necidä nimed]])"
+
+msgid  "searchsubtitleinvalid"
+msgstr  "Tö ecit '''$1'''"
+
+msgid  "toomanymatches"
+msgstr  "Om löutud äjahko rezul'tatoid, olgat hüväd, eckat toine sana"
+
+msgid  "titlematches"
+msgstr  "Löutud lehtpoliden nimed"
+
+msgid  "notitlematches"
+msgstr  "Ei ole ningomid lehtpoliden nimid"
+
+msgid  "textmatches"
+msgstr  "Löutud tekstanpalad lehtpolil"
+
+msgid  "notextmatches"
+msgstr  "Lehtpoliden tekstoiš ei ole ectud sanad"
+
+msgid  "prevn"
+msgstr  "vene (ru){{PLURAL:$1|edeline $1|edeližed $1}}"
+
+msgid  "nextn"
+msgstr  "jäl'ghižed {{PLURAL:$1|$1}}"
+
+msgid  "prevn-title"
+msgstr  "$1 {{PLURAL:$1|edeline rezul'tat|edelišt rezul'tatad}}"
+
+msgid  "nextn-title"
+msgstr  "$1 {{PLURAL:$1|jäl'ghine rezul'tat|jäl'ghišt rezul'tatad}}"
+
+msgid  "shown-title"
+msgstr  "Ozutada $1 {{PLURAL:$1|rezul'tat|rezul'tatad}} lehtpoleks"
+
+msgid  "viewprevnext"
+msgstr  "Kacta ($1 {{int:pipe-separator}} $2) ($3)"
+
+msgid  "searchmenu-legend"
+msgstr  "Ecindan järgendused"
+
+msgid  "searchmenu-exists"
+msgstr  "'''Neciš Wikiš om jo lehtpol' ningoižen nimenke: \"[[:$1]]\"'''"
+
+msgid  "searchmenu-new"
+msgstr  "'''Säta lehtpol' \"[[:$1]]\" neciš Wikiš!'''"
+
+msgid  "searchhelp-url"
+msgstr  "Help:Südäimišt"
+
+msgid  "searchmenu-prefix"
+msgstr  "[[Special:PrefixIndex/$1|Ozutada kaik lehtpoled necen prefiksanke]]"
+
+msgid  "searchprofile-articles"
+msgstr  "Südäimištlehtpoled"
+
+msgid  "searchprofile-project"
+msgstr  "Abun da projektoiden lehtpoled"
+
+msgid  "searchprofile-images"
+msgstr  "Mul'timedii"
+
+msgid  "searchprofile-everything"
+msgstr  "Kaikjal"
+
+msgid  "searchprofile-advanced"
+msgstr  "Levitoittud"
+
+msgid  "searchprofile-articles-tooltip"
+msgstr  "Ectä täs: $1"
+
+msgid  "searchprofile-project-tooltip"
+msgstr  "Ectä täs: $1"
+
+msgid  "searchprofile-images-tooltip"
+msgstr  "Failoiden ecind"
+
+msgid  "searchprofile-everything-tooltip"
+msgstr  "Ectä kaikil lehtpolil (lodulehtpolid mülütaden)"
+
+msgid  "searchprofile-advanced-tooltip"
+msgstr  "Ectä märitud nimiavarusiš"
+
+msgid  "search-result-size"
+msgstr  "$1 ({{PLURAL:$2|1 sana|$2 sanad}})"
+
+msgid  "search-result-category-size"
+msgstr  "{{PLURAL:$1|1 element|$1 elementad}} ({{PLURAL:$2|1 alakategorii|$2 alakategorijad}}, {{PLURAL:$3|1 fail|$3 failad}})"
+
+msgid  "search-result-score"
+msgstr  "Relevantižuz: $1%"
+
+msgid  "search-redirect"
+msgstr  "(oigenduz $1)"
+
+msgid  "search-section"
+msgstr  "(jaguz $1)"
+
+msgid  "search-suggest"
+msgstr  "Tahtoižit-ik löuta: $1"
+
+msgid  "search-interwiki-caption"
+msgstr  "Heimolaižed projektad"
+
+msgid  "search-interwiki-default"
+msgstr  "$1 rezul'tatad:"
+
+msgid  "search-interwiki-more"
+msgstr  "(völ)"
+
+msgid  "search-mwsuggest-enabled"
+msgstr  "ozuta taričendad"
+
+msgid  "search-mwsuggest-disabled"
+msgstr  "taričendoita"
+
+msgid  "search-relatedarticle"
+msgstr  "Sidotud lehtpoled"
+
+msgid  "mwsuggest-disable"
+msgstr  "Ala ozuta AJAX-taričendoid"
+
+msgid  "searcheverything-enable"
+msgstr  "Ectä kaikiš nimiavarusiš"
+
+msgid  "searchrelated"
+msgstr  "sidotud"
+
+msgid  "searchall"
+msgstr  "kaik"
+
+msgid  "showingresults"
+msgstr  "Alemba ozutadas {{PLURAL:$1|'''1''' rezul'tat|'''$1''' rezul'tatad}} nomeraspäi #'''$2''' augotaden."
+
+msgid  "showingresultsnum"
+msgstr  "Alemba ozutadas {{PLURAL:$3|'''1''' rezul'tat|'''$3''' rezul'tatad}} nomeraspäi '''$2''' augotaden."
+
+msgid  "showingresultsheader"
+msgstr  "{{PLURAL:$5|'''$1''' '''$3'''-š rezul'tatoišpäi|Rezul'tatad '''$1–$2''' '''$3'''-špäi}} '''$4'''-n täht"
+
+msgid  "nonefound"
+msgstr  "'''Note''': Ectäs tobjimalaz kaidetud nimiavaruzišpäi.\nKävutagat prefiks ''all:'', miše ectä kaikes südäimištospäi (lodulehtpolid, šablonoid i m. e. mülütaden), vai kävutagat tarbhaine nimiavaruz."
+
+msgid  "search-nonefound"
+msgstr  "Ecmižhe ei löudnus rezul'tatoid."
+
+msgid  "powersearch"
+msgstr  "Levitoittud ecind"
+
+msgid  "powersearch-legend"
+msgstr  "Levitoittud ecind"
+
+msgid  "powersearch-ns"
+msgstr  "Ecind nimiavaruziš:"
+
+msgid  "powersearch-redir"
+msgstr  "Ozutada oigendused"
+
+msgid  "powersearch-field"
+msgstr  "Eci"
+
+msgid  "powersearch-togglelabel"
+msgstr  "Kodvda:"
+
+msgid  "powersearch-toggleall"
+msgstr  "Kaik"
+
+msgid  "powersearch-togglenone"
+msgstr  "Ei ole nimidä"
+
+msgid  "search-external"
+msgstr  "Irdecind"
+
+msgid  "searchdisabled"
+msgstr  "{{SITENAME}} ecind om saubatud.\nTö voit nügüd' ectä Google'n turbiš.\nOtkat sil'mnägubale üks-se, miše {{SITENAME}}-saitan sädäimišt voib olda vanhtunuden."
+
+msgid  "qbsettings"
+msgstr  "Navigacijan panel'"
+
+msgid  "qbsettings-none"
+msgstr  "Ala ozuta"
+
+msgid  "qbsettings-fixedleft"
+msgstr  "Likumatoi huralpäi"
+
+msgid  "qbsettings-fixedright"
+msgstr  "Likumatoi oiktalpäi"
+
+msgid  "qbsettings-floatingleft"
+msgstr  "Ujui huralpäi"
+
+msgid  "qbsettings-floatingright"
+msgstr  "Ujui oiktalpäi"
+
+msgid  "preferences"
+msgstr  "Järgendused"
+
+msgid  "mypreferences"
+msgstr  "Minun järgendused"
+
+msgid  "prefs-edits"
+msgstr  "Redaktiruindoiden lugu:"
+
+msgid  "prefsnologin"
+msgstr  "Tö et olgoi kirjutanus sistemha."
+
+msgid  "prefsnologintext"
+msgstr  "Teile pidab <span class=\"plainlinks\">[{{fullurl:{{#Special:UserLogin}}|returnto=$1}} kirjutadas sistemha]</span>, miše toižetada järgendusid."
+
+msgid  "changepassword"
+msgstr  "Peitsanan toižetuz"
+
+msgid  "prefs-skin"
+msgstr  "Irdnägu"
+
+msgid  "skin-preview"
+msgstr  "Ezikaclend"
+
+msgid  "prefs-math"
+msgstr  "Matematik"
+
+msgid  "datedefault"
+msgstr  "Augotižjärgendused"
+
+msgid  "prefs-datetime"
+msgstr  "Dat da aig"
+
+msgid  "prefs-personal"
+msgstr  "Kävutajan profil'"
+
+msgid  "prefs-rc"
+msgstr  "Tantoižed toižetused"
+
+msgid  "prefs-watchlist"
+msgstr  "Kaclendnimikirjutez"
+
+msgid  "prefs-watchlist-days"
+msgstr  "Maksimaline päividen lugu kaclendnimikirjuteses:"
+
+msgid  "prefs-watchlist-days-max"
+msgstr  "Ei enamba 7 päiväd"
+
+msgid  "prefs-watchlist-edits"
+msgstr  "Maksimaline toižetusiden lugu levitoittud kaclendnimikirjuteses:"
+
+msgid  "prefs-watchlist-edits-max"
+msgstr  "Maksimaline lugu: 1000"
+
+msgid  "prefs-watchlist-token"
+msgstr  "Kaclendan nimikirjutesen token:"
+
+msgid  "prefs-misc"
+msgstr  "Toine"
+
+msgid  "prefs-resetpass"
+msgstr  "Toižetada peitsana"
+
+msgid  "prefs-email"
+msgstr  "E-počtan opcijad"
+
+msgid  "prefs-rendering"
+msgstr  "Nägu"
+
+msgid  "saveprefs"
+msgstr  "Kirjutada"
+
+msgid  "resetprefs"
+msgstr  "Čuta kaičematomad toižetused"
+
+msgid  "restoreprefs"
+msgstr  "Endištada kaik augotižjärgendused"
+
+msgid  "prefs-editing"
+msgstr  "Redaktiruind"
+
+msgid  "prefs-edit-boxsize"
+msgstr  "Redaktiruindan iknan suruz."
+
+msgid  "rows"
+msgstr  "Rivid:"
+
+msgid  "columns"
+msgstr  "Pachid:"
+
+msgid  "searchresultshead"
+msgstr  "Ecind"
+
+msgid  "resultsperpage"
+msgstr  "Kirjutesiden lugu lehtpolel:"
+
+msgid  "contextlines"
+msgstr  "Ozutadud rividen lugu kaikuččen löutud kirjutesen täht:"
+
+msgid  "contextchars"
+msgstr  "Kontekstznamoiden lugu rives:"
+
+msgid  "stub-threshold"
+msgstr  "Nägutesen märitamižen künduz <a href=\"#\" class=\"stub\">kosketust otetile</a> (baitoiš)"
+
+msgid  "stub-threshold-disabled"
+msgstr  "Ei ole kävutamas"
+
+msgid  "recentchangesdays"
+msgstr  "Päiväd veresiden toižetusidenke, lugumär:"
+
+msgid  "recentchangesdays-max"
+msgstr  "(maksimum $1 {{PLURAL:$1|päiv|päiväd}})"
+
+msgid  "recentchangescount"
+msgstr  "Redakcijoiden lugu, kudamb pidab ozutada augotižjärgendusen mödhe:"
+
+msgid  "prefs-help-recentchangescount"
+msgstr  "Neche mülüb veresid toižetusid, lehtpoliden istorijoid da aiglehtesid."
+
+msgid  "savedprefs"
+msgstr  "Teiden järgendused oma kirjutadud muštho."
+
+msgid  "timezonelegend"
+msgstr  "Aigvö:"
+
+msgid  "localtime"
+msgstr  "Tahonaig:"
+
+msgid  "timezoneuseserverdefault"
+msgstr  "Kävutada serveran järgendused"
+
+msgid  "timezoneuseoffset"
+msgstr  "Toine (kirjutagat sirdandmär)"
+
+msgid  "timezoneoffset"
+msgstr  "Aigan sirdandmär¹:"
+
+msgid  "servertime"
+msgstr  "Serveran aig:"
+
+msgid  "guesstimezone"
+msgstr  "Täutta kaclimespäi"
+
+msgid  "timezoneregion-africa"
+msgstr  "Afrik"
+
+msgid  "timezoneregion-america"
+msgstr  "Amerik"
+
+msgid  "timezoneregion-antarctica"
+msgstr  "Antarktik"
+
+msgid  "timezoneregion-arctic"
+msgstr  "Arktik"
+
+msgid  "timezoneregion-asia"
+msgstr  "Azii"
+
+msgid  "timezoneregion-atlantic"
+msgstr  "Atlantine valdmeri"
+
+msgid  "timezoneregion-australia"
+msgstr  "Avstralii"
+
+msgid  "timezoneregion-europe"
+msgstr  "Evrop"
+
+msgid  "timezoneregion-indian"
+msgstr  "Indijan valdmeri"
+
+msgid  "timezoneregion-pacific"
+msgstr  "Tün' valdmeri"
+
+msgid  "allowemail"
+msgstr  "Laskkat toižile kävutajile oigeta teile e-počtad"
+
+msgid  "prefs-searchoptions"
+msgstr  "Ecindan järgendused"
+
+msgid  "prefs-namespaces"
+msgstr  "Nimiavarused"
+
+msgid  "defaultns"
+msgstr  "Toižiš statjoiš ectä neniš nimiavarusiš:"
+
+msgid  "default"
+msgstr  "augotižjärgendusen mödhe"
+
+msgid  "prefs-files"
+msgstr  "Failad"
+
+msgid  "prefs-custom-css"
+msgstr  "Ičeze CSS"
+
+msgid  "prefs-custom-js"
+msgstr  "Ičeze JS"
+
+msgid  "prefs-emailconfirm-label"
+msgstr  "E-počtan vahvištand:"
+
+msgid  "prefs-textboxsize"
+msgstr  "Redaktiruindan iknan suruz"
+
+msgid  "youremail"
+msgstr  "E-počt:"
+
+msgid  "username"
+msgstr  "Kävutajan nimi:"
+
+msgid  "uid"
+msgstr  "Kävutajan nomer:"
+
+msgid  "prefs-memberingroups"
+msgstr  "{{PLURAL:$1|Gruppan|Gruppiden}} ühtnii:"
+
+msgid  "prefs-registration"
+msgstr  "Registracijan aig:"
+
+msgid  "yourrealname"
+msgstr  "Todesine nimi:"
+
+msgid  "yourlanguage"
+msgstr  "Kel':"
+
+msgid  "yourvariant"
+msgstr  "Kelenvariant:"
+
+msgid  "yournick"
+msgstr  "Allekirjutez:"
+
+msgid  "badsig"
+msgstr  "Vär allekirjutez.\nKodvgat HTML-virgad."
+
+msgid  "badsiglength"
+msgstr  "Pit'kähk allekirjutez.\nPidab tehta se $1 {{PLURAL:$1|simvolaspäi|simvoloišpäi}}."
+
+msgid  "yourgender"
+msgstr  "Sugu:"
+
+msgid  "gender-unknown"
+msgstr  "Ei ole ozutadud"
+
+msgid  "gender-male"
+msgstr  "Mez’"
+
+msgid  "gender-female"
+msgstr  "Naine"
+
+msgid  "prefs-help-gender"
+msgstr  "Opcionaline: kävutadas likutimen erasiš tedotusiš, miše ozutada kävutajan sugu oikti. Nece informacii om avoin."
+
+msgid  "email"
+msgstr  "E-počt"
+
+msgid  "prefs-help-realname"
+msgstr  "Todesine nimi om opcionaline.\nKu tö kirjutat sen, nece nimi kävutadas, miše ozutada lehtpolen toižetajad."
+
+msgid  "prefs-help-email-required"
+msgstr  "Pidab kirjutada teiden e-počtan adres."
+
+msgid  "prefs-info"
+msgstr  "Päinformacii"
+
+msgid  "prefs-i18n"
+msgstr  "Internacionalizacii"
+
+msgid  "prefs-signature"
+msgstr  "Allekirjutez"
+
+msgid  "prefs-dateformat"
+msgstr  "Datan format"
+
+msgid  "prefs-timeoffset"
+msgstr  "Aigan sirdand"
+
+msgid  "prefs-advancedediting"
+msgstr  "Ližaopcijad"
+
+msgid  "prefs-advancedrc"
+msgstr  "Ližaopcijad"
+
+msgid  "prefs-advancedrendering"
+msgstr  "Ližaopcijad"
+
+msgid  "prefs-advancedsearchoptions"
+msgstr  "Ližaopcijad"
+
+msgid  "prefs-advancedwatchlist"
+msgstr  "Ližaopcijad"
+
+msgid  "prefs-displayrc"
+msgstr  "Nägun opcijad"
+
+msgid  "prefs-displaysearchoptions"
+msgstr  "Nägun opcijad"
+
+msgid  "prefs-displaywatchlist"
+msgstr  "Nägun opcijad"
+
+msgid  "prefs-diffs"
+msgstr  "Erod"
+
+msgid  "email-address-validity-valid"
+msgstr  "Verkpočtan adres nägub korrektižeks."
+
+msgid  "email-address-validity-invalid"
+msgstr  "Antkat verkpočtan korrektine adres"
+
+msgid  "userrights"
+msgstr  "Kävutajiden oiktusiden ohjandamine"
+
+msgid  "userrights-lookup-user"
+msgstr  "Kävutajiden gruppiden ohjendamine"
+
+msgid  "userrights-user-editname"
+msgstr  "Kävutajan nimi:"
+
+msgid  "editusergroup"
+msgstr  "Redaktiruida kävutajiden gruppad"
+
+msgid  "userrights-editusergroup"
+msgstr  "Toižetada kävutajan gruppad"
+
+msgid  "saveusergroups"
+msgstr  "Kirjutada muštho kävutajan gruppad"
+
+msgid  "userrights-groupsmember"
+msgstr  "Kävutai om neniden gruppiden ühtnii:"
+
+msgid  "userrights-groupsmember-auto"
+msgstr  "Virtualine ühtnii:"
+
+msgid  "userrights-reason"
+msgstr  "Sü:"
+
+msgid  "userrights-no-interwiki"
+msgstr  "Teile ei sa toižetada toižiden wikiden kävutajiden oiktusid."
+
+msgid  "userrights-nodatabase"
+msgstr  "Andmusiden $1-bazad ei ole vai se ei ole lokaline."
+
+msgid  "userrights-nologin"
+msgstr  "Teile pidab [[Special:UserLogin|kirjutadas sistemha]] administratoran oiktusidenke, miše antta oiktusid kävutajile."
+
+msgid  "userrights-notallowed"
+msgstr  "Teiden kävutajan registracijale ei sa antta oiktusid toižile kävutajile."
+
+msgid  "userrights-changeable-col"
+msgstr  "Gruppad, kudambad teile sab toižetada"
+
+msgid  "userrights-unchangeable-col"
+msgstr  "Gruppad, kudambid teile ei sa toižetada"
+
+msgid  "userrights-irreversible-marker"
+msgstr  "$1*"
+
+msgid  "group"
+msgstr  "Grupp:"
+
+msgid  "group-user"
+msgstr  "Kävutajad"
+
+msgid  "group-autoconfirmed"
+msgstr  "Avtovahvištoittud kävutajad"
+
+msgid  "group-bot"
+msgstr  "Botad"
+
+msgid  "group-sysop"
+msgstr  "Administratorad"
+
+msgid  "group-bureaucrat"
+msgstr  "Bürokratad"
+
+msgid  "group-suppress"
+msgstr  "Revizorad"
+
+msgid  "group-all"
+msgstr  "(Kaik)"
+
+msgid  "group-user-member"
+msgstr  "Kävutai"
+
+msgid  "group-autoconfirmed-member"
+msgstr  "Avtomatižešti vahvištoittud kävutai"
+
+msgid  "group-bot-member"
+msgstr  "Bot"
+
+msgid  "group-sysop-member"
+msgstr  "Administrator"
+
+msgid  "group-bureaucrat-member"
+msgstr  "Bürokrat"
+
+msgid  "group-suppress-member"
+msgstr  "Revizor"
+
+msgid  "grouppage-user"
+msgstr  "{{ns:project}}:Kävutajad"
+
+msgid  "grouppage-autoconfirmed"
+msgstr  "{{ns:project}}:Avtovahvištoittud kävutajad"
+
+msgid  "grouppage-bot"
+msgstr  "{{ns:project}}:Botad"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:Administratorad"
+
+msgid  "grouppage-bureaucrat"
+msgstr  "{{ns:project}}:Bürokratad"
+
+msgid  "grouppage-suppress"
+msgstr  "{{ns:project}}:Revizorad"
+
+msgid  "right-read"
+msgstr  "Lugeda lehtpoled"
+
+msgid  "right-edit"
+msgstr  "Redaktiruida lehtpoled"
+
+msgid  "right-createpage"
+msgstr  "Säta lehtpolid (päiči lodulehtpoliš)"
+
+msgid  "right-createtalk"
+msgstr  "Säta lodulehtpolid"
+
+msgid  "right-createaccount"
+msgstr  "Säta uded kävutajiden registracijad"
+
+msgid  "right-minoredit"
+msgstr  "Znamoita redakcijad penikš"
+
+msgid  "right-move"
+msgstr  "Udesnimitada lehtpolid"
+
+msgid  "right-move-subpages"
+msgstr  "Udesnimitada lehtpoled niiden alalehtpolidenke"
+
+msgid  "right-move-rootuserpages"
+msgstr  "Udesnimitada kävutajiden jur'lehtpoled"
+
+msgid  "right-movefile"
+msgstr  "Udesnimitada failad"
+
+msgid  "right-suppressredirect"
+msgstr  "Ala tege läbikosketust vanhal nimelpäi lehtesen udesnimitades"
+
+msgid  "right-upload"
+msgstr  "Jügutoitta failoid"
+
+msgid  "right-reupload"
+msgstr  "Udeskirjutada failad"
+
+msgid  "right-reupload-own"
+msgstr  "Failan udeskirjutand sen jügutoitajal."
+
+msgid  "right-reupload-shared"
+msgstr  "Vajehtada failad ühthižiš varaaitoišpäi lokaližil"
+
+msgid  "right-upload_by_url"
+msgstr  "Jügutoitta failoid URL-adresalpäi"
+
+msgid  "right-purge"
+msgstr  "Puhtastada lehtpolen keš vahvištoitmata"
+
+msgid  "right-autoconfirmed"
+msgstr  "Redaktiruida pol'kaitud lehtpoled"
+
+msgid  "right-bot"
+msgstr  "Lugeda avtomatižeks processaks"
+
+msgid  "right-apihighlimits"
+msgstr  "Kävutada korktembid tazopindoid API-küzumižes"
+
+msgid  "right-writeapi"
+msgstr  "Kävutada API kirjutades"
+
+msgid  "right-delete"
+msgstr  "Čuta poiš lehtpoled"
+
+msgid  "right-bigdelete"
+msgstr  "Čuta poiš lehtpoled pit'kiden istorijoidenke"
+
+msgid  "right-deleterevision"
+msgstr  "Čuta poiš da endištada lehtpoliden konkretižed versijad"
+
+msgid  "right-deletedhistory"
+msgstr  "Ozutada čutud lehtpolid (ei sa lugeda čutud tekstad)"
+
+msgid  "right-browsearchive"
+msgstr  "Ectä čutud lehtpoled"
+
+msgid  "right-undelete"
+msgstr  "Endištada lehtpol'"
+
+msgid  "right-suppressrevision"
+msgstr  "Administratorilpäi peittud lehtesiden versijoiden lugend da endištand."
+
+msgid  "right-suppressionlog"
+msgstr  "Privatižiden aigkirjoiden lugend."
+
+msgid  "right-block"
+msgstr  "Kel'ta toižid kävutajid redaktiruindas"
+
+msgid  "right-blockemail"
+msgstr  "Kel'ta kävutajad e-počtad oigendamas"
+
+msgid  "right-hideuser"
+msgstr  "Kävutajan nimen kel'dand da sen peitand"
+
+msgid  "right-ipblock-exempt"
+msgstr  "Ümbärta IP-blokiruindad, avtoblokiruindad da diapazoniden blokiruindad"
+
+msgid  "right-proxyunbannable"
+msgstr  "Ümbärta proksiden avtomatine blokiruind"
+
+msgid  "right-protect"
+msgstr  "Vajehtada lehtpoliden kaičendan tazopind i redaktiruida kaitud lehtpoled"
+
+msgid  "right-editprotected"
+msgstr  "Redaktiruida kaitud lehtpoled (kaskadkaičemata)"
+
+msgid  "right-editinterface"
+msgstr  "Redaktiruida kävutajan intefeis"
+
+msgid  "right-editusercssjs"
+msgstr  "Redaktiruida toižiden kävutajiden CSS- da JS-failad"
+
+msgid  "right-editusercss"
+msgstr  "Redaktiruida toižiden kävutajiden CSS-failad"
+
+msgid  "right-edituserjs"
+msgstr  "Redaktiruida toižiden kävutajiden JS-failad"
+
+msgid  "right-noratelimit"
+msgstr  "Ei ole kaidendust piguden mödhe"
+
+msgid  "right-import"
+msgstr  "Importiruida lehtpolid toižiš wikišpäi"
+
+msgid  "right-importupload"
+msgstr  "Importiruida lehtpolid failoid jügutoitten"
+
+msgid  "right-patrol"
+msgstr  "Znamoita toižiden kävutajiden toižetused kut patruliruidud"
+
+msgid  "right-autopatrol"
+msgstr  "Znamoita ičeze toižetusid avtomatižikš kut patruliruidud"
+
+msgid  "right-patrolmarks"
+msgstr  "Nähta patruliruindvirgad veresiš redakcijoiš"
+
+msgid  "right-unwatchedpages"
+msgstr  "Lugeda kacelmatomiden lehtpoliden nimikirjutest"
+
+msgid  "right-trackback"
+msgstr  "Oigeta trackback"
+
+msgid  "right-mergehistory"
+msgstr  "Ühtenzoitta lehtpoliden istorijad"
+
+msgid  "right-userrights"
+msgstr  "Redaktiruida kaikiden kävutajiden oiktused"
+
+msgid  "right-userrights-interwiki"
+msgstr  "Toižetada toižiden wiki-saitoiden kävutajiden oiktused"
+
+msgid  "right-siteadmin"
+msgstr  "Luklostada da avaita andmusiden baz"
+
+msgid  "right-reset-passwords"
+msgstr  "Heitta toižiden kävutajiden peitsanad"
+
+msgid  "right-sendemail"
+msgstr  "Oigeta e-počtad toižile kävutajile"
+
+msgid  "rightslog"
+msgstr  "Kävutajan oiktusiden aigkirj"
+
+msgid  "rightslogtext"
+msgstr  "Nece om kävutajan oiktusiden toižetusen aigkirj."
+
+msgid  "rightslogentry"
+msgstr  "toižetin $1-kävutajan ühtnend gruppiš - oli $2, linneb $3"
+
+msgid  "rightsnone"
+msgstr  "(ei ole)"
+
+msgid  "action-read"
+msgstr  "lugeda necidä lehtpol't"
+
+msgid  "action-edit"
+msgstr  "redaktiruida (koheta) nece lehtpol'"
+
+msgid  "action-createpage"
+msgstr  "säta lehtpolid"
+
+msgid  "action-createtalk"
+msgstr  "säta lodulehtpolid"
+
+msgid  "action-createaccount"
+msgstr  "säta nece kävutajan nimi"
+
+msgid  "action-minoredit"
+msgstr  "znamoita nece redakcii peneks"
+
+msgid  "action-move"
+msgstr  "udesnimitada nece lehtpol'"
+
+msgid  "action-move-subpages"
+msgstr  "udesnimitada nece lehtpol' da kaik sidotud lehtpoled"
+
+msgid  "action-move-rootuserpages"
+msgstr  "udesnimitada kävutajiden jur'lehtpoled"
+
+msgid  "action-movefile"
+msgstr  "udesnimitada nece fail"
+
+msgid  "action-upload"
+msgstr  "jügutoitta nece fail"
+
+msgid  "action-reupload"
+msgstr  "kirjutada nece fail udes"
+
+msgid  "action-upload_by_url"
+msgstr  "jügutoitta nece fail URL-adresalpäi"
+
+msgid  "action-writeapi"
+msgstr  "kävutada API kirjutades"
+
+msgid  "action-delete"
+msgstr  "čuta poiš nece lehtpol'"
+
+msgid  "action-deleterevision"
+msgstr  "čuta poiš nece lehtpolen versii"
+
+msgid  "action-deletedhistory"
+msgstr  "lugeda necen lehtpolen čutud istorijad"
+
+msgid  "action-browsearchive"
+msgstr  "ectä čutud lehtpolid"
+
+msgid  "action-undelete"
+msgstr  "endištada nece lehtez"
+
+msgid  "action-suppressrevision"
+msgstr  "lugeda da endištada nece lehtpolen peitversii"
+
+msgid  "action-suppressionlog"
+msgstr  "lugeda necidä privatišt aigkirjad"
+
+msgid  "action-block"
+msgstr  "blokiruida necidä kävutajad redaktiruindaspäi"
+
+msgid  "action-protect"
+msgstr  "necen lehtpolen kaičendpindan toižetamine"
+
+msgid  "action-import"
+msgstr  "importiruida nece lehtpol' toižes Wikišpäi"
+
+msgid  "action-importupload"
+msgstr  "importiruida nece lehtpol' jügutoittud failaspäi"
+
+msgid  "action-patrol"
+msgstr  "znamoita toižiden kävutajiden toižetused kut patruliruidud"
+
+msgid  "action-autopatrol"
+msgstr  "znamoita ičeze toižetused kut patruliruidud"
+
+msgid  "action-unwatchedpages"
+msgstr  "lugeda kacelmatomiden lehtpoliden nimikirjutez"
+
+msgid  "action-trackback"
+msgstr  "oigeta trackback"
+
+msgid  "action-mergehistory"
+msgstr  "sidoda necen lehtpolen toižetusen istorii mihe-se"
+
+msgid  "action-userrights"
+msgstr  "redaktiruida kaik kävutajan oiktused"
+
+msgid  "action-userrights-interwiki"
+msgstr  "redaktiruida kävutajiden oiktused toižiš wikiš"
+
+msgid  "action-siteadmin"
+msgstr  "andmusiden bazan blokiruind i blokiruindan heitand"
+
+msgid  "nchanges"
+msgstr  "$1 {{PLURAL:$1|toižetuz|toižetust}}"
+
+msgid  "recentchanges"
+msgstr  "Tantoižed toižetused"
+
+msgid  "recentchanges-legend"
+msgstr  "Tantoižiden toižetusiden järgendused"
+
+msgid  "recentchangestext"
+msgstr  "Necil lehtpolil om tantoižid toižetusid {{SITENAME}}-saital."
+
+msgid  "recentchanges-feed-description"
+msgstr  "Kacelta jäl'gmäižid toižetusid wikiš neciš valus."
+
+msgid  "recentchanges-label-newpage"
+msgstr  "Nece redakcii sädi uden lehtpolen"
+
+msgid  "recentchanges-label-minor"
+msgstr  "Nece redakcii om penikaine"
+
+msgid  "recentchanges-label-bot"
+msgstr  "Necen redakcijan tegi bot"
+
+msgid  "recentchanges-label-unpatrolled"
+msgstr  "Necidä redakcijad ei völ patruliruinugoi"
+
+msgid  "rcnote"
+msgstr  "Alahan om ozutadud {{PLURAL:$1| '''1''' toižetuz|'''$1''' toižetust}} {{PLURAL:$2|jäl'gmäižes päiväs|jäl'gmäižiš '''$2''' päiviš}}, aigal $5, $4."
+
+msgid  "rcnotefrom"
+msgstr  "Alemba oma anttud toižetused '''$2'''-späi ( '''$1'''-hesai)."
+
+msgid  "rclistfrom"
+msgstr  "Ozutada uded toižetused dataspäi $1 augotaden"
+
+msgid  "rcshowhideminor"
+msgstr  "$1 pened redakcijad"
+
+msgid  "rcshowhidebots"
+msgstr  "$1 botad"
+
+msgid  "rcshowhideliu"
+msgstr  "$1 sistemha kirjutadud kävutajad"
+
+msgid  "rcshowhideanons"
+msgstr  "$1 anonimišt kävutajad"
+
+msgid  "rcshowhidepatr"
+msgstr  "$1 kodvdud toižetust"
+
+msgid  "rcshowhidemine"
+msgstr  "$1 ičein redakcijad"
+
+msgid  "rclinks"
+msgstr  "Ozutada jäl'gmäižed $1 toižetust $2 päiväs<br />$3"
+
+msgid  "diff"
+msgstr  "erod"
+
+msgid  "hist"
+msgstr  "istorii"
+
+msgid  "hide"
+msgstr  "Peitta"
+
+msgid  "show"
+msgstr  "Ozutada"
+
+msgid  "minoreditletter"
+msgstr  "p"
+
+msgid  "newpageletter"
+msgstr  "U"
+
+msgid  "boteditletter"
+msgstr  "b"
+
+msgid  "number_of_watching_users_pageview"
+msgstr  "[$1 {{PLURAL:$1|kaclii kävutai|kaclijad kävutajad}}]"
+
+msgid  "rc_categories"
+msgstr  "Vaiše kategorijoišpäi (erigoitkat znamaižel \"|\")"
+
+msgid  "rc_categories_any"
+msgstr  "Eraz"
+
+msgid  "rc-change-size"
+msgstr  "$1"
+
+msgid  "newsectionsummary"
+msgstr  "/* $1 */ uz' jaguz"
+
+msgid  "rc-enhanced-expand"
+msgstr  "Ozutada detalid (JavaScript)"
+
+msgid  "rc-enhanced-hide"
+msgstr  "Peitta detalid"
+
+msgid  "recentchangeslinked"
+msgstr  "Sidotud toižetused"
+
+msgid  "recentchangeslinked-feed"
+msgstr  "Sidotud toižetused"
+
+msgid  "recentchangeslinked-toolbox"
+msgstr  "Sidotud toižetused"
+
+msgid  "recentchangeslinked-title"
+msgstr  "\"$1\"-lehtpol'he sidotud toižetused"
+
+msgid  "recentchangeslinked-backlink"
+msgstr  "← $1"
+
+msgid  "recentchangeslinked-noresult"
+msgstr  "Sidotud lehtpolil ei olend toižetusid anttud pordon aigan."
+
+msgid  "recentchangeslinked-summary"
+msgstr  "Neciš nimikirjuteses om tantoižid toižetusid lehtpoliš, kudambid kosketab ozutadud lehtpol'.\n[[Special:Watchlist|Teiden kaclendnimikirjutesen]] lehtpoled oma erigoittud lihavoitud šriftal."
+
+msgid  "recentchangeslinked-page"
+msgstr  "Lehtpolen nimi:"
+
+msgid  "recentchangeslinked-to"
+msgstr  "Vastkarin, ozutada toižetused niil lehtpolil, kudambad kosketadas ozutadud lehtpol't"
+
+msgid  "upload"
+msgstr  "Jügutoitta fail"
+
+msgid  "uploadbtn"
+msgstr  "Jügutoitta fail"
+
+msgid  "reuploaddesc"
+msgstr  "Pörttas jügetoitandan formannoks"
+
+msgid  "uploadnologin"
+msgstr  "Tö ei olgoi kirjutanus sistemha"
+
+msgid  "uploadnologintext"
+msgstr  "Teile pidab [[Special:UserLogin|kirjutadas sistemha]], miše failoid jügetoitmaha."
+
+msgid  "upload_directory_missing"
+msgstr  "Failhodr jügetoitandan täht ($1) om kadonu, i server ei voi säta sidä."
+
+msgid  "upload_directory_read_only"
+msgstr  "Server ei voi kirjutada failhodrha jügedoitandan täht ($1)."
+
+msgid  "uploaderror"
+msgstr  "Jügedoitandan petuz"
+
+msgid  "upload-permitted"
+msgstr  "Lasktud failoiden tipad: $1."
+
+msgid  "upload-preferred"
+msgstr  "Hüvästadud failoiden tipad: $1."
+
+msgid  "upload-prohibited"
+msgstr  "Kel'tud failoiden tipad: $1."
+
+msgid  "uploadlog"
+msgstr  "jügetoitusiden aigkirj"
+
+msgid  "uploadlogpage"
+msgstr  "Jügutoitusiden aigkirj"
+
+msgid  "uploadlogpagetext"
+msgstr  "Alemba om tantoižiden jügutoitusiden nimikirjutez.\n[[Special:NewFiles|Uziden failoiden galerejas]] informacii tantoižiš jügutoitusiš anttas vizualižikš."
+
+msgid  "filename"
+msgstr  "Failan nimi:"
+
+msgid  "filedesc"
+msgstr  "Lühüd ümbrikirjutand"
+
+msgid  "fileuploadsummary"
+msgstr  "Lühüd ümbrikirjutand:"
+
+msgid  "filereuploadsummary"
+msgstr  "Toižetused failas:"
+
+msgid  "filestatus"
+msgstr  "Avtoranoiktusen status:"
+
+msgid  "filesource"
+msgstr  "Purde:"
+
+msgid  "uploadedfiles"
+msgstr  "Jügutoittud failad"
+
+msgid  "ignorewarning"
+msgstr  "Ignoriruida varutuz i kirjutada fail muštho"
+
+msgid  "ignorewarnings"
+msgstr  "Ignoriruida kaik varutused"
+
+msgid  "minlength1"
+msgstr  "Failan nimehe pidab jätta hot' üks' kirjam."
+
+msgid  "badfilename"
+msgstr  "Failan nimi om vajehtud, sen uz' nimi om \"$1\"."
+
+msgid  "filetype-badmime"
+msgstr  "Ei sa jügutoitta \"$1\"-MIME-tipan failoid."
+
+msgid  "filetype-unwanted-type"
+msgstr  "'''\".$1\"''' om nevomatoi failan tip.\n{{PLURAL:$3|Paremb failan tip om|Parembad failoiden tipad oma}} $2."
+
+msgid  "filetype-banned-type"
+msgstr  "'''\".$1\"''' om laskmatoi failan tip.\nLasktud {{PLURAL:$3|failan tip om|failoiden tipad oma}} $2."
+
+msgid  "filetype-missing"
+msgstr  "Necil failal ei ole ližad (ozutesikš, \".jpg\")."
+
+msgid  "empty-file"
+msgstr  "Teil oigetud fail om pall'az."
+
+msgid  "file-too-large"
+msgstr  "Teil oigetud fail om surembahk."
+
+msgid  "filename-tooshort"
+msgstr  "Lühudahk failannimi."
+
+msgid  "filetype-banned"
+msgstr  "Nece failtip om kel'tud."
+
+msgid  "verification-error"
+msgstr  "Nece fail ei völ sanu vahvištust."
+
+msgid  "hookaborted"
+msgstr  "Ližoiden ümbriradai kel'di teid tehta nece toižetuz."
+
+msgid  "illegal-filename"
+msgstr  "Kel'tud failannimi."
+
+msgid  "overwrite"
+msgstr  "Ei sa kirjutada muštho olijan failan päle."
+
+msgid  "unknown-error"
+msgstr  "Tundmatoi petuz."
+
+msgid  "tmp-create-error"
+msgstr  "Ei voi säta pordaigašt failad."
+
+msgid  "tmp-write-error"
+msgstr  "Petuz pordaigaižen failan kirjutamižen aigan."
+
+msgid  "largefileserver"
+msgstr  "Failan suruz om suremb, mi lasktud serveral."
+
+msgid  "emptyfile"
+msgstr  "Teil jügutoittud fail nägub pal'haks.\nVoib olda, necen sü om vär failannimen kirjutamine.\nOlgat hüväd, kodvgat, todeks-ik tö tahtoit jügutoitta nece fail."
+
+msgid  "fileexists"
+msgstr  "Fail mugoman nimenke om jo olmas, olgat hüväd, kodvgat '''<tt>[[:$1]]</tt>''' ku teil ei ole varmdust, tahtoižit-ik tö toižetada sidä.\n[[$1|thumb]]"
+
+msgid  "file-exists-duplicate"
+msgstr  "Nece fail om {{PLURAL:$1|necen failan|neniden failoiden}} dublikat:"
+
+msgid  "uploadwarning"
+msgstr  "Varutuz jügutoitmižes"
+
+msgid  "savefile"
+msgstr  "Kirjutada fail"
+
+msgid  "uploadedimage"
+msgstr  "om jügutoitnu \"[[$1]]\""
+
+msgid  "overwroteimage"
+msgstr  "jügutoiti \"[[$1]]\"-failan uden versijan"
+
+msgid  "uploaddisabled"
+msgstr  "Jügutoitand om kel'tud"
+
+msgid  "uploaddisabledtext"
+msgstr  "Failoiden jügutoitand om sauptud."
+
+msgid  "php-uploaddisabledtext"
+msgstr  "Failoiden jügutoitand om kel'tud PHP:n järgendusiš. Kodvgat \"file_uploads\"-järgenduz."
+
+msgid  "uploadscripted"
+msgstr  "Neciš failas om HTML-kod vai skript, kudamban kaclim voiži interpretiruida värin."
+
+msgid  "uploadvirus"
+msgstr  "Failas om virus! Kc: $1"
+
+msgid  "upload-source"
+msgstr  "Lähtmižfail"
+
+msgid  "sourcefilename"
+msgstr  "Failan purdenimi:"
+
+msgid  "sourceurl"
+msgstr  "URLan purde:"
+
+msgid  "destfilename"
+msgstr  "Failan metnimi:"
+
+msgid  "upload-maxfilesize"
+msgstr  "Failan maksimaline suruz: $1"
+
+msgid  "upload-description"
+msgstr  "failan ümbrikirjutand"
+
+msgid  "watchthisupload"
+msgstr  "Kacelta necidä failad"
+
+msgid  "upload-success-subj"
+msgstr  "Jügutoitand lopihe satusekahas"
+
+msgid  "upload-failure-subj"
+msgstr  "Jügutoitandan problem"
+
+msgid  "upload-warning-subj"
+msgstr  "Jügutoitandvarutuz"
+
+msgid  "upload-proto-error"
+msgstr  "Vär protokol"
+
+msgid  "upload-proto-error-text"
+msgstr  "Miše jügutoitta edahanpäi, kävutagat URL, kudamb augotase <code>http://</code> vai <code>ftp://</code>."
+
+msgid  "upload-file-error"
+msgstr  "Südäipetuz"
+
+msgid  "upload-misc-error"
+msgstr  "Jügutoitandan tundmatoi petuz"
+
+msgid  "upload-misc-error-text"
+msgstr  "Tundmatoi petuz om ozainus jügutoitandan aigan.\nOlgat hüväd, kodvgat, om-ik URL oiged i voib-ik säta sido sen purtkenke, sid' toštkat jügutoituz.\nKu problem jäb jäl'ghepäi-ki, säkat pagin [[Special:ListUsers/sysop|sistemadministratoranke]]."
+
+msgid  "upload-too-many-redirects"
+msgstr  "Neciš URL-as om äjahk läbikosketusid"
+
+msgid  "upload-unknown-size"
+msgstr  "Tundmatoi suruz"
+
+msgid  "upload-http-error"
+msgstr  "HTTP-petuz: $1"
+
+msgid  "img-auth-accessdenied"
+msgstr  "Pästand tänna om kel'tud"
+
+msgid  "img-auth-badtitle"
+msgstr  "Ei voi tehta oiktad pälkirjutest \"$1\"-späi."
+
+msgid  "img-auth-nofile"
+msgstr  "Ei ole mugošt failad: \"$1\"."
+
+msgid  "img-auth-streaming"
+msgstr  "\"$1\"-joksmuz."
+
+msgid  "img-auth-noread"
+msgstr  "Kävutajal ei ole oiktusid lugeda \"$1\"-failad."
+
+msgid  "http-invalid-url"
+msgstr  "Vär URL: $1"
+
+msgid  "http-invalid-scheme"
+msgstr  "URLad \"$1\"-shemanke ei pid'oitelgoi."
+
+msgid  "http-read-error"
+msgstr  "HTTP'd lugemižen petuz."
+
+msgid  "http-curl-error"
+msgstr  "Petuz URL'ad ecmäs: $1"
+
+msgid  "http-host-unreachable"
+msgstr  "Ei voi säta sidod URL:anke"
+
+msgid  "upload-curl-error6"
+msgstr  "Ei voi säta sidod URL:anke"
+
+msgid  "upload-curl-error6-text"
+msgstr  "Ei voi säta sidod anttud URL:anke.\nOlgat hüväd, kodvgat, om-ik adres oiged i voib-ik säta sido saitanke."
+
+msgid  "upload-curl-error28"
+msgstr  "Jügutoitandan aig om männu"
+
+msgid  "license"
+msgstr  "Licenzii:"
+
+msgid  "license-header"
+msgstr  "Licenzii"
+
+msgid  "nolicense"
+msgstr  "Ei ole licenzijoid"
+
+msgid  "license-nopreview"
+msgstr  "(Ei voi ezikacta)"
+
+msgid  "upload_source_url"
+msgstr  "(oiged verkadres)"
+
+msgid  "upload_source_file"
+msgstr  " (fail teiden kompjuteras)"
+
+msgid  "listfiles-summary"
+msgstr  "Necil specialižel lehtpolel oma kaik jügetoittud failad.\nTantoi jügetadud failad augotižjärgendusen mödhe ozutadas nimikirjutesen üläpoles.\nPlok pachan pälkirjutesele toižetab sortiruindan järgenduz."
+
+msgid  "listfiles_search_for"
+msgstr  "Mediafailoiden nimiden ecind:"
+
+msgid  "imgfile"
+msgstr  "fail"
+
+msgid  "listfiles"
+msgstr  "Failoiden nimikirjutez"
+
+msgid  "listfiles_date"
+msgstr  "Dat"
+
+msgid  "listfiles_name"
+msgstr  "Nimi"
+
+msgid  "listfiles_user"
+msgstr  "Kävutai"
+
+msgid  "listfiles_size"
+msgstr  "Suruz’"
+
+msgid  "listfiles_description"
+msgstr  "Ümbrikirjutand"
+
+msgid  "listfiles_count"
+msgstr  "Versijad"
+
+msgid  "file-anchor-link"
+msgstr  "Fail"
+
+msgid  "filehist"
+msgstr  "Failan istorii"
+
+msgid  "filehist-help"
+msgstr  "Paingat datale/aigale, miše nägištada, mitte oli olnu fail siloi (möhembita toižetusita)."
+
+msgid  "filehist-deleteall"
+msgstr  "Čuta poiš kaik"
+
+msgid  "filehist-deleteone"
+msgstr  "čuta poiš"
+
+msgid  "filehist-revert"
+msgstr  "endištada"
+
+msgid  "filehist-current"
+msgstr  "nügüdläine"
+
+msgid  "filehist-datetime"
+msgstr  "Dat/Aig"
+
+msgid  "filehist-thumb"
+msgstr  "Pičukuva"
+
+msgid  "filehist-thumbtext"
+msgstr  "Pičukuva versijale $1 i norembile versijoile"
+
+msgid  "filehist-nothumb"
+msgstr  "Ei ole pičukuvad"
+
+msgid  "filehist-user"
+msgstr  "Kävutai"
+
+msgid  "filehist-dimensions"
+msgstr  "Objektan suruz"
+
+msgid  "filehist-filesize"
+msgstr  "Failan suruz"
+
+msgid  "filehist-comment"
+msgstr  "Homaičend"
+
+msgid  "filehist-missing"
+msgstr  "Ei ole failad"
+
+msgid  "imagelinks"
+msgstr  "Kosketused failale"
+
+msgid  "linkstoimage"
+msgstr  "{{PLURAL:$1|Nece lehtpol' kosketab|$1 Nened lehtpoled kosketadas}} necidä failad:"
+
+msgid  "nolinkstoimage"
+msgstr  "Ei ole necidä failad kosketajid lehtpolid."
+
+msgid  "morelinkstoimage"
+msgstr  "Ozutada [[Special:WhatLinksHere/$1|toižid kosketusid]] necile failale."
+
+msgid  "redirectstofile"
+msgstr  "{{PLURAL:$1|Nece fail läbikosketab|$1 Nened failad läbikosketadas}} necile failale:"
+
+msgid  "duplicatesoffile"
+msgstr  "{{PLURAL:$1|Nece fail om|$1 Nened failad oma}} ([[Special:FileDuplicateSearch/$2|ližainformacii]])-failan {{PLURAL:$1|dublikat|$1 dublikatad}}:"
+
+msgid  "sharedupload"
+msgstr  "Nece fail om ühthižes $1-varaaitaspäi, sidä voiži kävutada mugažo toižiš projektoiš."
+
+msgid  "sharedupload-desc-here"
+msgstr  "Nece fail om $1-späi i se sab kävutada toižiš projektoiš.\nInformacijad sen [$2 andmusiden lehtpolelpäi] om anttud alemba."
+
+msgid  "filepage-nofile"
+msgstr  "Ei ole failad mugoižen nimenke."
+
+msgid  "filepage-nofile-link"
+msgstr  "Ei ole failad mugoižen nimenke, no tö voit [$1 jügutoitta se]."
+
+msgid  "uploadnewversion-linktext"
+msgstr  "Jügutoitta necen failan uz' versii"
+
+msgid  "shared-repo-from"
+msgstr  "$1-projektaspäi"
+
+msgid  "shared-repo"
+msgstr  "ühthine mediavaraait"
+
+msgid  "filerevert"
+msgstr  "$1n endištand vanhemban versijannoks"
+
+msgid  "filerevert-legend"
+msgstr  "Endištada failan versii"
+
+msgid  "filerevert-intro"
+msgstr  "Tö takait endištada '''[[Media:$1|$1]]'''-fail [$4-versijahasai, kudamb oli tehtud datal $3, $2]."
+
+msgid  "filerevert-comment"
+msgstr  "Homaičend:"
+
+msgid  "filerevert-defaultcomment"
+msgstr  "Om endištadud versijahasai, kudamban dat om $2, $1"
+
+msgid  "filerevert-submit"
+msgstr  "Endištada"
+
+msgid  "filerevert-success"
+msgstr  "'''[[Media:$1|$1]]''' om endištadud [$4 versijannoks datal $3, $2]."
+
+msgid  "filedelete"
+msgstr  "Čuta $1"
+
+msgid  "filedelete-backlink"
+msgstr  "← $1"
+
+msgid  "filedelete-legend"
+msgstr  "Čuta poiš fail"
+
+msgid  "filedelete-intro"
+msgstr  "Tö takait čuta fail '''[[Media:$1|$1]]''' kaiken sen istorijanke."
+
+msgid  "filedelete-comment"
+msgstr  "Sü:"
+
+msgid  "filedelete-submit"
+msgstr  "Čuta poiš"
+
+msgid  "filedelete-success"
+msgstr  "'''$1'''-fail om čutud poiš."
+
+msgid  "filedelete-success-old"
+msgstr  "'''[[Media:$1|$1]]'''-failan versii, kudamb datiruiše datal $3, $2, om čutud."
+
+msgid  "filedelete-nofile"
+msgstr  "'''$1'''-failad ei ole wikiš."
+
+msgid  "filedelete-nofile-old"
+msgstr  "Ei ole '''$1'''-failan arhivversijad ningomiden atributoidenke."
+
+msgid  "filedelete-otherreason"
+msgstr  "Toine sü/ližasü:"
+
+msgid  "filedelete-reason-otherlist"
+msgstr  "Toine sü"
+
+msgid  "filedelete-reason-dropdown"
+msgstr  "*Čudandan päsüd\n** avtoranoiktusen murenduz\n** failan dublikat"
+
+msgid  "filedelete-edit-reasonlist"
+msgstr  "Redaktiruida čudandan süd"
+
+msgid  "mimesearch"
+msgstr  "MIME-ecind"
+
+msgid  "mimetype"
+msgstr  "MIME-tip:"
+
+msgid  "download"
+msgstr  "jügutoitta"
+
+msgid  "unwatchedpages"
+msgstr  "Kaclematomad lehtpoled"
+
+msgid  "listredirects"
+msgstr  "Läbioigendusiden nimikirjutez"
+
+msgid  "unusedtemplates"
+msgstr  "Kävutamatomad šablonad"
+
+msgid  "unusedtemplateswlh"
+msgstr  "toižed kosketused"
+
+msgid  "randompage"
+msgstr  "Statjaline lehtpol'"
+
+msgid  "randompage-nopages"
+msgstr  "\"$1\"-{{PLURAL:$2|Nimiavarudes|Nimiavaruziš}} ei ole lehtpolid."
+
+msgid  "randomredirect"
+msgstr  "Statjaline läbikosketuz"
+
+msgid  "randomredirect-nopages"
+msgstr  "\"$1\"-nimiavaruses ei ole läbikosketusid."
+
+msgid  "statistics"
+msgstr  "Statistik"
+
+msgid  "statistics-header-pages"
+msgstr  "Lehtpoliden statistik"
+
+msgid  "statistics-header-edits"
+msgstr  "Redaktiruida statistikad"
+
+msgid  "statistics-header-views"
+msgstr  "Kacta statistikha"
+
+msgid  "statistics-header-users"
+msgstr  "Kävutajiden statistik"
+
+msgid  "statistics-header-hooks"
+msgstr  "Toine statistik"
+
+msgid  "statistics-articles"
+msgstr  "Südäimištlehtpol't"
+
+msgid  "statistics-pages"
+msgstr  "Lehtpol't"
+
+msgid  "statistics-pages-desc"
+msgstr  "Kaik lehtpoled wikiš, lodulehtpolid da läbioigendusid mülütaden, i m. e."
+
+msgid  "statistics-files"
+msgstr  "Jügetoittud failad"
+
+msgid  "statistics-edits"
+msgstr  "Toižetusiden lugu {{SITENAME}}-saitan seižutamižessai."
+
+msgid  "statistics-edits-average"
+msgstr  "Toižetusiden keskmäine lugu lehtpolel"
+
+msgid  "statistics-views-total"
+msgstr  "Kaiked kacundoid"
+
+msgid  "statistics-views-peredit"
+msgstr  "Kacundoid redakcijas"
+
+msgid  "statistics-users"
+msgstr  "Registriruidud [[Special:ListUsers|kävutajad]]"
+
+msgid  "statistics-users-active"
+msgstr  "Activižed kävutajad"
+
+msgid  "statistics-mostpopular"
+msgstr  "Kaikiš populärižembad lehtpoled"
+
+msgid  "disambiguations"
+msgstr  "Lehtpoled, kudambil om kosketusid äiznamoičendaižile terminoile"
+
+msgid  "disambiguationspage"
+msgstr  "Template:Äiznamoičenduz"
+
+msgid  "doubleredirects"
+msgstr  "Kaksitadud läbikosketused"
+
+msgid  "double-redirect-fixed-move"
+msgstr  "[[$1]]-lehtpol' om udesnimitadud. Se läbikosketab nügüd' [[$2]]-lehtpolele."
+
+msgid  "double-redirect-fixer"
+msgstr  "Läbikosketusiden kohendai"
+
+msgid  "brokenredirects"
+msgstr  "Rebitadud läbikosketused"
+
+msgid  "brokenredirectstext"
+msgstr  "Nened läbikosketused ozutadas olmatomihe lehtpolihe:"
+
+msgid  "brokenredirects-edit"
+msgstr  "redaktiruida"
+
+msgid  "brokenredirects-delete"
+msgstr  "čuta poiš"
+
+msgid  "withoutinterwiki"
+msgstr  "Lehtpoled kel'kosketusita"
+
+msgid  "withoutinterwiki-summary"
+msgstr  "Nenil lehtpolil ei ole interwiki-kosketusid."
+
+msgid  "withoutinterwiki-legend"
+msgstr  "Prefiks"
+
+msgid  "withoutinterwiki-submit"
+msgstr  "Ozutada"
+
+msgid  "fewestrevisions"
+msgstr  "Lehtpoled, kudambil om vähemb versijoid"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|bait|baitad}}"
+
+msgid  "ncategories"
+msgstr  "$1 {{PLURAL:$1|kategorii|kategorijad}}"
+
+msgid  "nlinks"
+msgstr  "$1 {{PLURAL:$1|kosketuz|kosketust}}"
+
+msgid  "nmembers"
+msgstr  "$1 {{PLURAL:$1|ühtnii|ühtnijad}}"
+
+msgid  "nrevisions"
+msgstr  "$1 {{PLURAL:$1|versii|versijad}}"
+
+msgid  "nviews"
+msgstr  "$1 {{PLURAL:$1|kacund|kacundad}}"
+
+msgid  "specialpage-empty"
+msgstr  "Ecind ei ole andnu rezul'tatad."
+
+msgid  "lonelypages"
+msgstr  "Üksjäižed lehtpoled"
+
+msgid  "lonelypagestext"
+msgstr  "Ozutadud lehtpolid ei kosketagoi toižed necen saitan lehtpoled; ozutadud lehtpoled mugažo ei olgoi mülütadud toižihe lehtpolihe."
+
+msgid  "uncategorizedpages"
+msgstr  "Järgendamatomad lehtpoled"
+
+msgid  "uncategorizedcategories"
+msgstr  "Järgendamatomad kategorijad"
+
+msgid  "uncategorizedimages"
+msgstr  "Järgendamatomad failad"
+
+msgid  "uncategorizedtemplates"
+msgstr  "Järgendamatomad šablonad"
+
+msgid  "unusedcategories"
+msgstr  "Kävutamatomad kategorijad"
+
+msgid  "unusedimages"
+msgstr  "Kävutamatomad failad"
+
+msgid  "popularpages"
+msgstr  "Populärižed lehtpoled"
+
+msgid  "wantedcategories"
+msgstr  "Ectud kategorijad"
+
+msgid  "wantedpages"
+msgstr  "Ectud lehtpoled"
+
+msgid  "wantedpages-badtitle"
+msgstr  "Petuzline pälkirjutez küzumižen rezul'tatoiš: $1"
+
+msgid  "wantedfiles"
+msgstr  "Ectud failad"
+
+msgid  "wantedtemplates"
+msgstr  "Ectud šablonad"
+
+msgid  "mostlinked"
+msgstr  "Lehtpoled, kudambid kosketadas enamba"
+
+msgid  "mostlinkedcategories"
+msgstr  "Kategorijad, kudambid kosketadas enamba"
+
+msgid  "mostlinkedtemplates"
+msgstr  "Šablonad, kudambid kosketadas enamba"
+
+msgid  "mostcategories"
+msgstr  "Lehtpoled, kudambid mülütadas äiluguižihe kategorijoihe"
+
+msgid  "mostimages"
+msgstr  "Failad, kudambid kävutadas paksumba"
+
+msgid  "mostrevisions"
+msgstr  "Lehtpoled, kudambid redaktiruidas paksumba"
+
+msgid  "prefixindex"
+msgstr  "Kaik lehtpoled prefiksoidenke"
+
+msgid  "shortpages"
+msgstr  "Lühüdad lehtpoled"
+
+msgid  "longpages"
+msgstr  "Pit'käd lehtpoled"
+
+msgid  "deadendpages"
+msgstr  "Lehtpoled, kudambid ei kosketagoi toižed lehtpoled"
+
+msgid  "deadendpagestext"
+msgstr  "Nened lehtpoled ei kosketagoi toižid necen wikin lehtpolid."
+
+msgid  "protectedpages"
+msgstr  "Kaitud lehtpoled"
+
+msgid  "protectedpages-indef"
+msgstr  "Vaiše strokutomad kaičendad"
+
+msgid  "protectedpages-cascade"
+msgstr  "Vaiše kaskadkaičendad"
+
+msgid  "protectedpagestext"
+msgstr  "Nened lehtpoled oma kaitud redaktiruindaspäi da sirdandaspäi"
+
+msgid  "protectedpagesempty"
+msgstr  "Nügüd' ei ole neniden parametriden mödhe kaitud lehtpolid."
+
+msgid  "protectedtitles"
+msgstr  "Kaitud lehtpoliden nimed"
+
+msgid  "protectedtitlestext"
+msgstr  "Nenid lehtpoliden nimid ei sa kävutada."
+
+msgid  "protectedtitlesempty"
+msgstr  "Nügüd' ei ole neniden parametriden mödhe kaitud lehtpoliden nimid."
+
+msgid  "listusers"
+msgstr  "Kävutajiden nimikirjutez"
+
+msgid  "listusers-editsonly"
+msgstr  "Ozutada vaiše kävutajid, kudambid om redakcijoid"
+
+msgid  "listusers-creationsort"
+msgstr  "Järgeta sündumiždatan mödhe"
+
+msgid  "usereditcount"
+msgstr  "$1 {{PLURAL:$1|redakcii|redakcijad}}"
+
+msgid  "usercreated"
+msgstr  "Om sätud $1 aigal $2"
+
+msgid  "newpages"
+msgstr  "Uded lehtpoled"
+
+msgid  "newpages-username"
+msgstr  "Kävutai:"
+
+msgid  "ancientpages"
+msgstr  "Kaikiš vanhembad lehtpoled"
+
+msgid  "move"
+msgstr  "Udesnimitada"
+
+msgid  "movethispage"
+msgstr  "Sirda nece lehtpol'"
+
+msgid  "unusedimagestext"
+msgstr  "Mugoižed failad oma olemas, no ned ei kävutagoi ni-miččel lehtpolel.\nOlgat hüväd, otkat sil'mnägubale, miše toižed-ki saitad voidas kosketada fail oiktan URLan turbiš, i sikš nece fail voib olda nimikirjuteses, hot' sidä kävutadas aktivižešti."
+
+msgid  "unusedcategoriestext"
+msgstr  "Om mugomid kategorijoiden lehtpolid, hot' niken ei kävuta niid."
+
+msgid  "notargettitle"
+msgstr  "Ei ole metod"
+
+msgid  "notargettext"
+msgstr  "Tö ei olgoi ozutanuded metlehtpol't vai kävutajad necen tegendan täht."
+
+msgid  "nopagetitle"
+msgstr  "Ei ole mugošt metlehtpol't"
+
+msgid  "nopagetext"
+msgstr  "Ei ole mugošt ozutadud metlehtpol't."
+
+msgid  "pager-newer-n"
+msgstr  "{{PLURAL:$1|1 udemb|$1 udembad}}"
+
+msgid  "pager-older-n"
+msgstr  "{{PLURAL:$1|1 vanhemb|$1 vanhembad}}"
+
+msgid  "suppress"
+msgstr  "Peitmine"
+
+msgid  "booksources"
+msgstr  "Kirjpurtked"
+
+msgid  "booksources-search-legend"
+msgstr  "Ectä kirjpurtkid"
+
+msgid  "booksources-isbn"
+msgstr  "ISBN:"
+
+msgid  "booksources-go"
+msgstr  "Ectä"
+
+msgid  "booksources-text"
+msgstr  "Naku om kosketusid saitoile, kudambil mödas uzid da kuluid kirjoid. Niilpäi voib löuta ližainformacijad ectud kirjoiš:"
+
+msgid  "booksources-invalid-isbn"
+msgstr  "Nece ISBN, näguse, om vär; Kodvgat, oikti-k oled kopiruinuded sidä originaližes purtkespäi."
+
+msgid  "specialloguserlabel"
+msgstr  "Kävutai:"
+
+msgid  "speciallogtitlelabel"
+msgstr  "Pälkirjutez:"
+
+msgid  "log"
+msgstr  "Aigkirjad"
+
+msgid  "all-logs-page"
+msgstr  "Kaik avoinuded aigkirjad"
+
+msgid  "logempty"
+msgstr  "Ei ole sättujid kirjutesid aigkirjas."
+
+msgid  "log-title-wildcard"
+msgstr  "Ectä pälkirjutesid, kudambil augoitišes om ningomid simvoloid"
+
+msgid  "allpages"
+msgstr  "Kaik lehtpoled"
+
+msgid  "alphaindexline"
+msgstr  "$1... $2"
+
+msgid  "nextpage"
+msgstr  "Toine lehtpol’ ($1)"
+
+msgid  "prevpage"
+msgstr  "Edeline lehtpol' ($1)"
+
+msgid  "allpagesfrom"
+msgstr  "Ozutada lehtpoled, kudambad augotase necil tekstal:"
+
+msgid  "allpagesto"
+msgstr  "Ozutada lehtpoled lopuidenke:"
+
+msgid  "allarticles"
+msgstr  "Kaiked lehtpoled"
+
+msgid  "allinnamespace"
+msgstr  "Kaik lehtpoled ($1-nimiavaruz)"
+
+msgid  "allnotinnamespace"
+msgstr  "Kaik lehtpoled (päiči $1-nimiavarust)"
+
+msgid  "allpagesprev"
+msgstr  "Edeližed"
+
+msgid  "allpagesnext"
+msgstr  "Jäl'ghižed"
+
+msgid  "allpagessubmit"
+msgstr  "Tehta"
+
+msgid  "allpagesprefix"
+msgstr  "Ozutada lehtpoled prefiksoidenke:"
+
+msgid  "allpages-bad-ns"
+msgstr  "{{SITENAME}}-saital ei ole \"$1\"-nimiavarust."
+
+msgid  "categories"
+msgstr  "Kategorijad"
+
+msgid  "categoriespagetext"
+msgstr  "{{PLURAL:$1|Neciš kategorijas|Neniš kategorijoiš }} om lehtpolid vai mediafailoid.\n[[Special:UnusedCategories|Kävumatomid kategorijoid]] ei ozutagoi naku.\nKc. mugažo [[Special:WantedCategories|ectud kategorijoiden nimikirjutez]]."
+
+msgid  "categoriesfrom"
+msgstr  "Ozutada kategorijad, necišpäi augotaden:"
+
+msgid  "special-categories-sort-count"
+msgstr  "järgeta lugumäran mödhe"
+
+msgid  "special-categories-sort-abc"
+msgstr  "järgeta kirjamišton mödhe"
+
+msgid  "deletedcontributions"
+msgstr  "Čutud tond"
+
+msgid  "deletedcontributions-title"
+msgstr  "Čutud tond"
+
+msgid  "sp-deletedcontributions-contribs"
+msgstr  "tond"
+
+msgid  "linksearch"
+msgstr  "Irdkosketused"
+
+msgid  "linksearch-pat"
+msgstr  "Ecindan šablon:"
+
+msgid  "linksearch-ns"
+msgstr  "Nimiavaruz:"
+
+msgid  "linksearch-ok"
+msgstr  "Löuta"
+
+msgid  "linksearch-line"
+msgstr  "$1 om kosketadud $2-lehtpolelpäi"
+
+msgid  "linksearch-error"
+msgstr  "Džokersimvolid sab kävutada vaiše adresoiden augotišes."
+
+msgid  "listusersfrom"
+msgstr  "Ozutada kävutajid augotaden kävutajaspäi:"
+
+msgid  "listusers-submit"
+msgstr  "Ozutada"
+
+msgid  "listusers-noresult"
+msgstr  "Kävutajad ei olgoi löutud."
+
+msgid  "listusers-blocked"
+msgstr  "(blokiruidud)"
+
+msgid  "activeusers"
+msgstr  "Aktivižiden kävutajiden nimikirjutez"
+
+msgid  "activeusers-from"
+msgstr  "Oyutada kävutajid, augotaden necišpäi:"
+
+msgid  "activeusers-noresult"
+msgstr  "Kävutajad ei olgoi löutud."
+
+msgid  "newuserlogpage"
+msgstr  "Kävutajiden registracijan aigkirj"
+
+msgid  "newuserlogpagetext"
+msgstr  "Tantoi registriruidud kävutajiden nimikirjutez."
+
+msgid  "newuserlog-byemail"
+msgstr  "peisana om oigetud e-počtadme"
+
+msgid  "newuserlog-create-entry"
+msgstr  "Uz' kävutai"
+
+msgid  "newuserlog-create2-entry"
+msgstr  "om sänu uden $1-kävutajan registracii"
+
+msgid  "newuserlog-autocreate-entry"
+msgstr  "Registracii om sätud avtomatižešti"
+
+msgid  "listgrouprights"
+msgstr  "Kävutajiden gruppiden oiktused"
+
+msgid  "listgrouprights-group"
+msgstr  "Grupp"
+
+msgid  "listgrouprights-rights"
+msgstr  "Oiktused"
+
+msgid  "listgrouprights-helppage"
+msgstr  "Help:Gruppiden oiktused"
+
+msgid  "listgrouprights-members"
+msgstr  "(ühtnijoiden nimikirjutez)"
+
+msgid  "listgrouprights-addgroup"
+msgstr  "Voib ližata kävutajid {{PLURAL:$2|gruppha|gruppihe}}: $1"
+
+msgid  "listgrouprights-removegroup"
+msgstr  "Voib čuta poiš {{PLURAL:$2|gruppan|gruppid}}: $1"
+
+msgid  "listgrouprights-addgroup-all"
+msgstr  "Voib ližata ühtnijoid kaikihe gruppihe"
+
+msgid  "listgrouprights-removegroup-all"
+msgstr  "Voib čuta poiš kaik gruppad"
+
+msgid  "listgrouprights-addgroup-self"
+msgstr  "Voib ližata {{PLURAL:$2|grupp|gruppad}} ičeleze: $1"
+
+msgid  "mailnologin"
+msgstr  "Ei ole adresan oigendamižen täht"
+
+msgid  "emailuser"
+msgstr  "Oigeta e-kirjeine necile kävutajale"
+
+msgid  "emailpage"
+msgstr  "Kirjeine kävutajale"
+
+msgid  "usermailererror"
+msgstr  "Počtan adresat pörduti tedotusen petuses:"
+
+msgid  "defemailsubject"
+msgstr  "E-počt {{SITENAME}}-saitalpäi"
+
+msgid  "noemailtitle"
+msgstr  "Ei ole e-počtan adresad"
+
+msgid  "noemailtext"
+msgstr  "Nece kävutai ei ole andnu ni-üht oiktad e-počtan adresad."
+
+msgid  "nowikiemailtitle"
+msgstr  "Ei ole laskendad kirjeižid oigeta"
+
+msgid  "nowikiemailtext"
+msgstr  "Nece kävutai ei tahtoi sada kirjeižid toižil kävutajilpäi."
+
+msgid  "email-legend"
+msgstr  "Oigeta kirjeine toižele {{SITENAME}}-saitan kävutajale"
+
+msgid  "emailfrom"
+msgstr  "Oigendai:"
+
+msgid  "emailto"
+msgstr  "Sai:"
+
+msgid  "emailsubject"
+msgstr  "Tem:"
+
+msgid  "emailmessage"
+msgstr  "Tedotuz:"
+
+msgid  "emailsend"
+msgstr  "Oigeta"
+
+msgid  "emailccme"
+msgstr  "Oigeta minei minun kirjeižen kopii."
+
+msgid  "emailccsubject"
+msgstr  "Teiden kirjeižen $1-kävutajale kopii: $2"
+
+msgid  "emailsent"
+msgstr  "Kirjeine om oigetud"
+
+msgid  "emailsenttext"
+msgstr  "Teiden e-kirjeine om oigetud."
+
+msgid  "watchlist"
+msgstr  "Kaclendnimikirjutez"
+
+msgid  "mywatchlist"
+msgstr  "Minun kaclendnimikirjutez"
+
+msgid  "watchlistfor2"
+msgstr  "Kävutajale $1 $2"
+
+msgid  "nowatchlist"
+msgstr  "Teiden kaclendnimikirjutez om pall'az."
+
+msgid  "watchlistanontext"
+msgstr  "Olgat hüväd, $1, miše lugeda vai redaktiruida teiden kaclendnimikirjutez."
+
+msgid  "watchnologin"
+msgstr  "Pidab kirjutadas sistemha"
+
+msgid  "addedwatch"
+msgstr  "Om ližatud kaclendnimikirjuteshe"
+
+msgid  "addedwatchtext"
+msgstr  "\"[[:$1]]\"-lehtpol' om ližadud teiden [[Special:Watchlist|kaclendnimikirjuteshe]]. Necen lehtpolen (i sidotud lehtpoliden) tulebiš toižetusiš voiškandeb tedištada neciš nimikirjutesespäi; necen polhe kirjutaškatas mugažo [[Special:RecentChanges|uziden toižetusiden lehtpolel]] lihavoitud kirjamil, miše oliži kebnemb homaita."
+
+msgid  "removedwatch"
+msgstr  "Om heittud kaclendnimikirjutesespäi"
+
+msgid  "removedwatchtext"
+msgstr  "\"[[:$1]]\"-lehtpol' om heittud [[Special:Watchlist|teiden kaclendnimikirjutesespäi]]."
+
+msgid  "watch"
+msgstr  "Pida sil’miš"
+
+msgid  "watchthispage"
+msgstr  "Kacelta necidä lehtpol't"
+
+msgid  "unwatch"
+msgstr  "Ala kacle"
+
+msgid  "unwatchthispage"
+msgstr  "Ala kacle"
+
+msgid  "notanarticle"
+msgstr  "Nece ei ole lehtpol'"
+
+msgid  "notvisiblerev"
+msgstr  "Versijad oma čutud"
+
+msgid  "watchlist-details"
+msgstr  "Teiden kaclendnimikirjuteses om {{PLURAL:$1|$1 lehtpol'|$1 lehtpol't}}. Lodulehtpoled ei olgoi neciš lugus."
+
+msgid  "wlheader-enotif"
+msgstr  "* Tedotand e-počtadme om kävutamas."
+
+msgid  "watchmethod-recent"
+msgstr  "ozutadas kaceltud lehtpoliden tantoižed toižetused"
+
+msgid  "watchmethod-list"
+msgstr  "kaceltud lehtpoliden kodvind tantoižid toižetusid ectes"
+
+msgid  "watchlistcontains"
+msgstr  "Teiden kaclendnimikirjuteses om $1 {{PLURAL:$1|lehtpol'|lehtpol't}}."
+
+msgid  "iteminvalidname"
+msgstr  "'$1'-elemental om problem, sen nimi om vär..."
+
+msgid  "wlshowlast"
+msgstr  "Ozutada jäl'gmäižiš $1 časuiš da $2 päiviš $3"
+
+msgid  "watchlist-options"
+msgstr  "Kaclendnimikirjutesen järgendused"
+
+msgid  "watching"
+msgstr  "Ližaduz kaclendnimikirjuteshe..."
+
+msgid  "unwatching"
+msgstr  "Heitmine kaclendnimikirjutesespäi..."
+
+msgid  "enotif_mailer"
+msgstr  "{{SITENAME}}-saitan lehtpol' om toižetadud - tedotuz"
+
+msgid  "enotif_reset"
+msgstr  "Znamoita kaik lehtpoled kut kactud"
+
+msgid  "enotif_newpagetext"
+msgstr  "Nece om uz’ lehtpol’"
+
+msgid  "enotif_impersonal_salutation"
+msgstr  "{{SITENAME}}-saitan kävutai"
+
+msgid  "changed"
+msgstr  "om toižetadud"
+
+msgid  "created"
+msgstr  "om sätud"
+
+msgid  "enotif_subject"
+msgstr  "$PAGEEDITOR om $CHANGEDORCREATED $PAGETITLE"
+
+msgid  "enotif_lastvisited"
+msgstr  "Kc. $1, miše nähta kaik teiden jäl'gmäižen vizitan jäl'ghe tehtud toižetused."
+
+msgid  "enotif_lastdiff"
+msgstr  "Kc. $1, miše kacelta toižetusid."
+
+msgid  "enotif_anon_editor"
+msgstr  "anonimine kävutai $1"
+
+msgid  "enotif_body"
+msgstr  "Kalliž $WATCHINGUSERNAME,\n\n\n{{SITENAME}}-saitan $PAGETITLE-lehtpol' om $CHANGEDORCREATED $PAGEEDITDATE; toižetusen avtor om $PAGEEDITOR, kc. $PAGETITLE_URL, miše nägištada jäl'gmäine versii.\n\n$NEWPAGE\n\nToižetajan ümbrikacund: $PAGESUMMARY $PAGEMINOREDIT\n\nSäkat pagin toižetusiden avtoranke:\ne-počt: $PAGEEDITOR_EMAIL\nwiki: $PAGEEDITOR_WIKI\n\nKu tö et tuleskekoi necile lehtpolile, ka sistem ei oigendaškande enamba teile tedotusid toižetusiš.\nTö voižit mugažo saubata tedotusiden opcii kaikiden lehtpoliden täht teiden kaclendnimikirjuteses.\n\n             {{SITENAME}}-saitan ustavakaz tedotuzsistem\n\n--\nMiše toižetada teiden kaclendnimikirjutesen järgendused, mängat tänna:\n{{fullurl:{{#special:Watchlist}}/edit}}\n\nMiše čuta lehtpol' teiden kaclendnimikirjutesespäi, mängat tänna:\n$UNWATCHURL\n\nPid'oitelend da joksii abu:\n{{fullurl:{{MediaWiki:Helppage}}}}"
+
+msgid  "deletepage"
+msgstr  "Čuta lehtpol' poiš"
+
+msgid  "confirm"
+msgstr  "Vahvištoitkat"
+
+msgid  "excontent"
+msgstr  "südäimišt: '$1'"
+
+msgid  "excontentauthor"
+msgstr  "südäimišt: '$1' (üksjäine avtor oli '[[Special:Contributions/$2|$2]]')"
+
+msgid  "exbeforeblank"
+msgstr  "südäimišt edel puhtastamišt oli: '$1'"
+
+msgid  "exblank"
+msgstr  "lehtpol' oli pall'az"
+
+msgid  "delete-confirm"
+msgstr  "\"$1\"-lehtpolen čudand"
+
+msgid  "delete-backlink"
+msgstr  "← $1"
+
+msgid  "delete-legend"
+msgstr  "Čuta poiš"
+
+msgid  "historywarning"
+msgstr  "Homaikat: lehtpolel, kudamb tö takait čuta, om istorii {{PLURAL:$1|ühtes redakcijaspäi|$1 redakcijoišpäi}}:"
+
+msgid  "confirmdeletetext"
+msgstr  "Tö takait čuta poiš lehtpol' kaiken sen istorijanke.\nOlgat hüväd, vahvištoitkat, miše tö todeks himoičet čuta se, el'gendat ičetoi tegendan jäl'gused, i miše teiden tegend sättub [[{{MediaWiki:Policy-url}}|saitan politikha]]."
+
+msgid  "actioncomplete"
+msgstr  "Tegend om loptud"
+
+msgid  "actionfailed"
+msgstr  "Tegend lopihe onetomašti"
+
+msgid  "deletedtext"
+msgstr  "\"<nowiki>$1</nowiki>\" om čutud poiš.\nKc. $2, miše lugeda tantoižiden čudandoiden nimikirjutez."
+
+msgid  "deletedarticle"
+msgstr  "\"[[$1]]\"-lehtpol' om čutud poiš"
+
+msgid  "suppressedarticle"
+msgstr  "\"[[$1]]\"-lehtpol' om peittud"
+
+msgid  "dellogpage"
+msgstr  "Čudandoiden aigkirj"
+
+msgid  "dellogpagetext"
+msgstr  "Naku om tantoižiden čudandoiden nimikirjutez."
+
+msgid  "deletionlog"
+msgstr  "čudandoiden aigkirj"
+
+msgid  "reverted"
+msgstr  "Endištadud aigembaha versijahasai"
+
+msgid  "deletecomment"
+msgstr  "Sü:"
+
+msgid  "deleteotherreason"
+msgstr  "Toine sü/ližasü:"
+
+msgid  "deletereasonotherlist"
+msgstr  "Toinejitte sü"
+
+msgid  "deletereason-dropdown"
+msgstr  "*Tipižed čudandan süd:\n** Avtoran pakičend\n** Avtoran oiktusen murenduz\n** Vandalizm"
+
+msgid  "delete-edit-reasonlist"
+msgstr  "Redaktiruida čudandan süiden nimikirjutez"
+
+msgid  "delete-toobig"
+msgstr  "Necil lehtpolel om avar redaktiruinadan istorii - enamba {{PLURAL:$1|versii|versijad}}.\nMugoižiden lehtpoliden čudand om kel'tud, miše sait radaiži normaližikš."
+
+msgid  "delete-warning-toobig"
+msgstr  "Necil lehtpolel om avar redaktiruinadan istorii - enamba $1 {{PLURAL:$1|versii|versijad}}.\nMugoižiden lehtpoliden čudand voiži telustada {{SITENAME}}-saitan andmuzbazan normaližele radole.\nTehkat kaik varumujandanke!"
+
+msgid  "rollback"
+msgstr  "Endištada toižetused"
+
+msgid  "rollback_short"
+msgstr  "Endištuz"
+
+msgid  "rollbacklink"
+msgstr  "Endištada"
+
+msgid  "rollbackfailed"
+msgstr  "Endištuz om keskustadud petusen tagut."
+
+msgid  "cantrollback"
+msgstr  "Ei voi endištada toižetusid;\nJäl'gmäine toižetai om üksjäižen lehtpolen avtoran."
+
+msgid  "alreadyrolled"
+msgstr  "Ei voi endištada jäl'gmäšt [[:$1]]-lehtpolen redakcijad (avtor: [[User:$2|$2]]). ([[User talk:$2|Lodud]]{{int:pipe-separator}}[[Special:Contributions/$2|{{int:contribslink}}]]); ken-se toine om jo redaktiruinu vai endištanu sen.\n\nJäl'gmäižed toižetused om tehnu [[User:$3|$3]] ([[User talk:$3|Lodud]]{{int:pipe-separator}}[[Special:Contributions/$3|{{int:contribslink}}]])."
+
+msgid  "editcomment"
+msgstr  "Redaktiruindan ümbrikacund oli: \"''$1''\"."
+
+msgid  "revertpage"
+msgstr  "Kävutajan [[Special:Contributions/$2|$2]] ([[User talk:$2|Lodud]]) tožetused oma endištadud edeližhe versijahasai (avtor: [[User:$1|$1]])"
+
+msgid  "rollback-success"
+msgstr  "$1-kävutajan toižetused oma endištadud $2-kävutajan versijahasai."
+
+msgid  "sessionfailure"
+msgstr  "Om problemoid nügüdläižes radseansas; nece tegend om kel'tud, miše kaita \"seansan anastusespäi\".\nOlgat hüväd, paingat \"tagaze\"-kingitimele i jügutoitkat lehtpol' udes, sid' naprigat toštta tegend völ kerdan."
+
+msgid  "protectlogpage"
+msgstr  "Kaičendan aigkirj"
+
+msgid  "protectlogtext"
+msgstr  "Naku om lehtpoliden luklostandoiden da avaidandoiden aigkirj.\nKc. [[Special:ProtectedPages|kaitud lehtpoliden nimikirjutez]]."
+
+msgid  "protectedarticle"
+msgstr  "\"[[$1]]\"-lehtpol' om kaitud"
+
+msgid  "modifiedarticleprotection"
+msgstr  "\"[[$1]]\"-lehtpolen kaičendpind om toižetadud"
+
+msgid  "unprotectedarticle"
+msgstr  "Kaičend om heittud \"[[$1]]\"-lehtpolespäi"
+
+msgid  "movedarticleprotection"
+msgstr  "Kaičendan järgendused oma sirtud \"[[$2]]\"-lehtpolespäi \"[[$1]]\"-lehtpol'he."
+
+msgid  "protect-title"
+msgstr  "\"$1\"-lehtpolen kaičendpindan toižetuz"
+
+msgid  "prot_1movedto2"
+msgstr  "[[$1]] om nimitadud [[$2]]-nimel"
+
+msgid  "protect-backlink"
+msgstr  "← $1"
+
+msgid  "protect-legend"
+msgstr  "Vahvištoitkat kaičendan augotiž"
+
+msgid  "protectcomment"
+msgstr  "Sü:"
+
+msgid  "protectexpiry"
+msgstr  "lopstrok:"
+
+msgid  "protect_expiry_invalid"
+msgstr  "Lopstrok om vär."
+
+msgid  "protect_expiry_old"
+msgstr  "Lopstrokun aig om jo männu."
+
+msgid  "protect-unchain-permissions"
+msgstr  "Avaita kaičendan ližaparametrad"
+
+msgid  "protect-text"
+msgstr  "Sab nähta da toižetada kaičendpind naku '''<nowiki>$1</nowiki>'''-lehtpolen täht."
+
+msgid  "protect-locked-blocked"
+msgstr  "Teiden registracii om blokiruidud, i sikš tö et voigoi toižetada lehtpolen kaičendpindad.\nNaku oma nügüdläižed järgendused '''$1'''-lehtpolen täht."
+
+msgid  "protect-locked-dblock"
+msgstr  "Ei sa toižetada lehtpolen kaičendpindad, sikš miše päandmuzbaz om blokiruidud aigaks.\nNaku oma nügüdläižed järgendused '''$1'''-lehtpolen täht:"
+
+msgid  "protect-locked-access"
+msgstr  "Teiden registracijal ei ole oiktust lehtpoliden kaičendpindoid toižetada.\nNaku oma nügüdläižed järgendused '''$1'''-lehtpolen täht:"
+
+msgid  "protect-cascadeon"
+msgstr  "Nece lehtpol' om nügüd' kaitud, sikš miše se om mülütadud {{PLURAL:$1|lehtpol'he, kudamb om|lehtpolihe, kudambad oma}} kaitud kaskadkaičendal.\nSab toižetada necen lehtpolen kaičendpind, no se ei voi toižetada kaskadkaičendad."
+
+msgid  "protect-default"
+msgstr  "Kaičemata"
+
+msgid  "protect-fallback"
+msgstr  "Pidab sada \"$1\"-kävutajan laskend"
+
+msgid  "protect-level-autoconfirmed"
+msgstr  "Blokiruida uzid da registriruimatomid kävutajid"
+
+msgid  "protect-level-sysop"
+msgstr  "Vaiše administratorad"
+
+msgid  "protect-summary-cascade"
+msgstr  "Kaskadine"
+
+msgid  "protect-expiring"
+msgstr  "strok lähteb datal $1 (UTC)"
+
+msgid  "protect-expiry-indefinite"
+msgstr  "strokuta"
+
+msgid  "protect-cascade"
+msgstr  "Kaita neche lehtpol'he mülütadud lehtesed (kaskadkaičend)"
+
+msgid  "protect-cantedit"
+msgstr  "Teile ei sa toižetada necen lehtpolen kaičendpindad, sikš miše teil ei ole laskendad toižetada sidä."
+
+msgid  "protect-othertime"
+msgstr  "Toine aig:"
+
+msgid  "protect-othertime-op"
+msgstr  "toine aig"
+
+msgid  "protect-existing-expiry"
+msgstr  "Nügüdläine lopstrokun aig: $3, $2"
+
+msgid  "protect-otherreason"
+msgstr  "Toine sü/ližasü:"
+
+msgid  "protect-otherreason-op"
+msgstr  "Toine sü"
+
+msgid  "protect-dropdown"
+msgstr  "*Kaičendan tipižed süd\n** Jatkui vandalizm\n** Jatkui spamoind\n** Satusitoi redakcijoiden soda\n** Luja lehtpolen populärižuz"
+
+msgid  "protect-edit-reasonlist"
+msgstr  "Redaktiruida kaičendan süd"
+
+msgid  "protect-expiry-options"
+msgstr  "1 čas:1 hour,1 päiv:1 day,1 nedal':1 week,2 nedalid:2 weeks,1 ku:1 month,3 kud:3 months,6 kud:6 months,1 voz':1 year,strokuta:infinite"
+
+msgid  "restriction-type"
+msgstr  "Oiktused:"
+
+msgid  "restriction-level"
+msgstr  "Tulendan laskendpind:"
+
+msgid  "minimum-size"
+msgstr  "Minimaline suruz"
+
+msgid  "maximum-size"
+msgstr  "Maksimaline suruz:"
+
+msgid  "pagesize"
+msgstr  "(baitad)"
+
+msgid  "restriction-edit"
+msgstr  "Redaktiruind"
+
+msgid  "restriction-move"
+msgstr  "Udesnimitand"
+
+msgid  "restriction-create"
+msgstr  "Säta"
+
+msgid  "restriction-upload"
+msgstr  "Jügutoitand"
+
+msgid  "restriction-level-sysop"
+msgstr  "Täuz' kaičend"
+
+msgid  "restriction-level-autoconfirmed"
+msgstr  "Polesine kaičend"
+
+msgid  "restriction-level-all"
+msgstr  "kaik pindad"
+
+msgid  "undelete"
+msgstr  "Kirjutada čutud lehtpoled"
+
+msgid  "undeletepage"
+msgstr  "Lugeda da endištada čutud lehtpoled"
+
+msgid  "viewdeletedpage"
+msgstr  "Lugeda čutud lehtpolid"
+
+msgid  "undelete-fieldset-title"
+msgstr  "Endištada versijad"
+
+msgid  "undeleterevisions"
+msgstr  "$1 {{PLURAL:$1|versii|versijad}} om arhiviruidud"
+
+msgid  "undelete-nodiff"
+msgstr  "Ei voi löuta edelišt versijad."
+
+msgid  "undeletebtn"
+msgstr  "Endištada"
+
+msgid  "undeletelink"
+msgstr  "endištada"
+
+msgid  "undeleteviewlink"
+msgstr  "nähta"
+
+msgid  "undeletereset"
+msgstr  "Puhtastada"
+
+msgid  "undeletecomment"
+msgstr  "Kommentarii:"
+
+msgid  "undeletedarticle"
+msgstr  "om endištanu \"[[$1]]\""
+
+msgid  "undeletedrevisions"
+msgstr  "{{PLURAL:$1|1 toižetuz|$1 toižetust}} om endištadud"
+
+msgid  "undeletedrevisions-files"
+msgstr  "{{PLURAL:$1|1 toižetuz|$1 toižetust}} da {{PLURAL:$2|1 fail|$2 failad}} oma endištadud"
+
+msgid  "undeletedfiles"
+msgstr  "{{PLURAL:$1|1 fail om|$1 failad oma}} endištadud"
+
+msgid  "cannotundelete"
+msgstr  "Endištandan petuz;\nVoib olda, ken-se om jo endištanu necen lehtpolen ende."
+
+msgid  "undeletedpage"
+msgstr  "'''$1-lehtpol' om endištadud'''\n\nKc. [[Special:Log/delete|čudandoiden aigkirj]], miše tedištada tantoižiš čudandoiš da endištandoiš."
+
+msgid  "undelete-header"
+msgstr  "Kc. [[Special:Log/delete|čudendoiden aigkirj]], miše tedištada tantoi čudud lehtpoliš."
+
+msgid  "undelete-search-box"
+msgstr  "Ectä čutud lehtpolid"
+
+msgid  "undelete-search-prefix"
+msgstr  "Ozutada lehtpoled, kudambad augotase mugomal tekstal:"
+
+msgid  "undelete-search-submit"
+msgstr  "Ectä"
+
+msgid  "undelete-cleanup-error"
+msgstr  "Kävutamatoman \"$1\"-arhivfailan čudandan petuz."
+
+msgid  "undelete-error-short"
+msgstr  "Failan endištandan petuz: $1"
+
+msgid  "undelete-error-long"
+msgstr  "Necen failan endištamižen aigan ozaižihe petused:\n\n$1"
+
+msgid  "undelete-show-file-confirm"
+msgstr  "Todest-ik tahtoit nähta \"<nowiki>$1</nowiki>\"-failan versii aigalpäi $2 $3?"
+
+msgid  "undelete-show-file-submit"
+msgstr  "Ka"
+
+msgid  "namespace"
+msgstr  "Nimiavaruz:"
+
+msgid  "invert"
+msgstr  "Käta erigoittud sanad vastkarin"
+
+msgid  "blanknamespace"
+msgstr  "(Pälehtpoled)"
+
+msgid  "contributions"
+msgstr  "Kävutajan tond"
+
+msgid  "contributions-title"
+msgstr  "$1-kävutajan tond"
+
+msgid  "mycontris"
+msgstr  "Minun tond"
+
+msgid  "contribsub2"
+msgstr  "$1-kävutajan ($2) tond"
+
+msgid  "uctop"
+msgstr  "(jäl'gmäine)"
+
+msgid  "month"
+msgstr  "Ku:"
+
+msgid  "year"
+msgstr  "Voz’:"
+
+msgid  "sp-contributions-newbies"
+msgstr  "Ozutada vaiše uziden kävutajiden tondad"
+
+msgid  "sp-contributions-newbies-sub"
+msgstr  "Uziden registracijoiden täht"
+
+msgid  "sp-contributions-newbies-title"
+msgstr  "Uziden kävutajiden tond"
+
+msgid  "sp-contributions-blocklog"
+msgstr  "Blokiruindoiden aigkirj"
+
+msgid  "sp-contributions-deleted"
+msgstr  "Čutud kävutajan tond"
+
+msgid  "sp-contributions-uploads"
+msgstr  "jügutoitandad"
+
+msgid  "sp-contributions-logs"
+msgstr  "aigkirjad"
+
+msgid  "sp-contributions-talk"
+msgstr  "lodu"
+
+msgid  "sp-contributions-userrights"
+msgstr  "kävutajiden oiktusiden ohjandamine"
+
+msgid  "sp-contributions-blocked-notice"
+msgstr  "Nece kävutai om nügüd' blokiruidud.\nAlemba om anttud jälgmäine kirjutuz blokiruindaiglehtesespäi:"
+
+msgid  "sp-contributions-search"
+msgstr  "Ectä tond"
+
+msgid  "sp-contributions-username"
+msgstr  "IP-adres vai kävutajan nimi:"
+
+msgid  "sp-contributions-toponly"
+msgstr  "Ozutada vaiše toižetused, kudambad oma jäl'gmäižin versijoin"
+
+msgid  "sp-contributions-submit"
+msgstr  "Ectä"
+
+msgid  "whatlinkshere"
+msgstr  "Kosketused - nakhu"
+
+msgid  "whatlinkshere-title"
+msgstr  "Lehtpoled, kudambad kosketadas \"$1\"-lehtpolen"
+
+msgid  "whatlinkshere-page"
+msgstr  "Lehtpol’:"
+
+msgid  "whatlinkshere-backlink"
+msgstr  "← $1"
+
+msgid  "linkshere"
+msgstr  "Nened lehtpoled kosketadas '''[[:$1]]''':"
+
+msgid  "nolinkshere"
+msgstr  "'''[[:$1]]'''-lehtpol't ei kosketa ni üks' lehtpol'."
+
+msgid  "nolinkshere-ns"
+msgstr  "'''[[:$1]]'''-lehtpol't ei kosketa ni üks' lehtpol' valitud nimiavarudes."
+
+msgid  "isredirect"
+msgstr  "Oigendai lehtpol'"
+
+msgid  "istemplate"
+msgstr  "mülütand"
+
+msgid  "isimage"
+msgstr  "Kosketuz kuvaspäi"
+
+msgid  "whatlinkshere-prev"
+msgstr  "{{PLURAL:$1|edeline lehtpol'|$1 edelišt lehtpol't}}"
+
+msgid  "whatlinkshere-next"
+msgstr  "{{PLURAL:$1|jäl'ghine lehtpol'|$1 jäl'ghišt lehtpol't}}"
+
+msgid  "whatlinkshere-links"
+msgstr  "← kosketused"
+
+msgid  "whatlinkshere-hideredirs"
+msgstr  "$1 oigendused"
+
+msgid  "whatlinkshere-hidetrans"
+msgstr  "$1 mülütandad"
+
+msgid  "whatlinkshere-hidelinks"
+msgstr  "$1 kosketused"
+
+msgid  "whatlinkshere-hideimages"
+msgstr  "$1 kosketused kuvišpäi"
+
+msgid  "whatlinkshere-filters"
+msgstr  "Fil'trad"
+
+msgid  "blockip"
+msgstr  "Blokiruida kävutajad"
+
+msgid  "blockip-title"
+msgstr  "Blokiruida kävutajad"
+
+msgid  "blockip-legend"
+msgstr  "Blokiruida kävutajad"
+
+msgid  "blockiptext"
+msgstr  "Kävutagat alemba anttud form, miše blokiruida kirjutandan voimuz märitud IP-adresaspäi.\nNece sab tehta vaiše sen täht, miše borcuidas vandalizmanke, kut om kirjutadud [[{{MediaWiki:Policy-url}}|ohjandimiš]].\nKirjutagat sü alemba (ozutesikš, citiruigat vandaliziruidud lehtpoled)."
+
+msgid  "ipaddress"
+msgstr  "IP-adres:"
+
+msgid  "ipadressorusername"
+msgstr  "IP-adres vai kävutajan nimi:"
+
+msgid  "ipbexpiry"
+msgstr  "Lopindan strok:"
+
+msgid  "ipbreason"
+msgstr  "Sü:"
+
+msgid  "ipbreasonotherlist"
+msgstr  "Toine sü"
+
+msgid  "ipbreason-dropdown"
+msgstr  "*Blokiruindan päsüd\n** Väran informacijan andand\n** Lehtpoliden südäimišton čudand\n** Spamkosketused irdsaitoihe\n** Hamatoman tekstan da rujon kirjutamine lehtpolile\n** Toižiden kävutajiden pöl'gästoitand\n** Erazvuiččiden registracijoiden kävutand ühtel ristitul\n** Paha kävutajan nimi"
+
+msgid  "ipbanononly"
+msgstr  "Blokiruida vaiše anonimoid"
+
+msgid  "ipbcreateaccount"
+msgstr  "Kel'ta uded registracijad"
+
+msgid  "ipbemailban"
+msgstr  "Kel'ta kävutajid e-počtan oigendamaspäi"
+
+msgid  "ipbenableautoblock"
+msgstr  "Blokiruida avtomatižešti kävutajal kävutadud IP-adresad"
+
+msgid  "ipbsubmit"
+msgstr  "Blokiruida nece kävutai"
+
+msgid  "ipbother"
+msgstr  "Toine aig:"
+
+msgid  "ipboptions"
+msgstr  "2 časud:2 hours,1 päiv:1 day,3 päiväd:3 days,1 nedal':1 week,2 nedalid:2 weeks,1 ku:1 month,3 kud:3 months,6 kud:6 months,1 voz':1 year,strokuta:infinite"
+
+msgid  "ipbotheroption"
+msgstr  "toine"
+
+msgid  "ipbotherreason"
+msgstr  "Toine sü/Ližasü:"
+
+msgid  "ipbhidename"
+msgstr  "Peitta kävutajan nimi redakcijoišpäi da nimikirjutesišpäi"
+
+msgid  "ipbwatchuser"
+msgstr  "Kacelta necen kävutajan personališt lehtpol't da lodulehtpol't"
+
+msgid  "ipballowusertalk"
+msgstr  "Laskta necile blokiruidud kävutajale redaktiruida ičeze lodulehtpol'"
+
+msgid  "ipb-change-block"
+msgstr  "Blokirujda kävutajad udes neniden järgendusidenke"
+
+msgid  "badipaddress"
+msgstr  "Vär IP-adres"
+
+msgid  "blockipsuccesssub"
+msgstr  "Blokiruind om tehtud"
+
+msgid  "blockipsuccesstext"
+msgstr  "[[Special:Contributions/$1|$1]] om blokiruidud.<br />\nKc. [[Special:IPBlockList|blokiruidud IP-adresoiden nimikirjuteshe]]."
+
+msgid  "ipb-edit-dropdown"
+msgstr  "Redaktiruida süiden nimikirjutez"
+
+msgid  "ipb-unblock-addr"
+msgstr  "Heitta blokiruind kävutajalpäi $1"
+
+msgid  "ipb-unblock"
+msgstr  "Heitta blokiruind kävutajan nimelpäi vai IP-adresalpäi"
+
+msgid  "ipb-blocklist"
+msgstr  "Ozutada aktualižed blokiruindad"
+
+msgid  "ipb-blocklist-contribs"
+msgstr  "Kävutajan $1 tond"
+
+msgid  "unblockip"
+msgstr  "Heitta blokiruind IP-adresalpäi"
+
+msgid  "unblockiptext"
+msgstr  "Kävutagat nece form, miše endištada kirjutandvoimuz blokiruidud IP-adresalpäi vai kävutajan nimelpäi."
+
+msgid  "ipusubmit"
+msgstr  "Heitta nece blokiruind"
+
+msgid  "unblocked"
+msgstr  "[[User:$1|$1]]-kävutajan blokiruind om heittud"
+
+msgid  "unblocked-id"
+msgstr  "Blokiruind $1 om heittud"
+
+msgid  "ipblocklist"
+msgstr  "Blokiruidud kävutajad"
+
+msgid  "ipblocklist-legend"
+msgstr  "Löuta blokiruidud kävutajad"
+
+msgid  "ipblocklist-username"
+msgstr  "Kävutajan nimi vai IP-adres:"
+
+msgid  "ipblocklist-sh-userblocks"
+msgstr  "$1 kävutajiden nimiden blokiruindad"
+
+msgid  "ipblocklist-sh-tempblocks"
+msgstr  "$1 pordaigaližed blokiruindad"
+
+msgid  "ipblocklist-sh-addressblocks"
+msgstr  "$1 erasiden IP-den blokiruindad"
+
+msgid  "ipblocklist-submit"
+msgstr  "Ectä"
+
+msgid  "ipblocklist-localblock"
+msgstr  "Sijaline blokiruind"
+
+msgid  "ipblocklist-otherblocks"
+msgstr  "{{PLURAL:$1|Toine blokiruind|Toižed blokiruindad}}"
+
+msgid  "blocklistline"
+msgstr  "$1, $2 om blokiruinu kävutajad $3 ($4)"
+
+msgid  "infiniteblock"
+msgstr  "strokutoi blokiruind"
+
+msgid  "expiringblock"
+msgstr  "lopiše $1 $2"
+
+msgid  "anononlyblock"
+msgstr  "vaiše anonimad"
+
+msgid  "noautoblockblock"
+msgstr  "avtoblokiruind om sauptud"
+
+msgid  "createaccountblock"
+msgstr  "Uziden kävutajiden registriruind om blokiruidud"
+
+msgid  "emailblock"
+msgstr  "e-počt om blokiruidud"
+
+msgid  "blocklist-nousertalk"
+msgstr  "ei sa redaktiruida ičeze lodulehtpol't"
+
+msgid  "ipblocklist-empty"
+msgstr  "Blokiruindoiden nimikirjutez om palläz."
+
+msgid  "ipblocklist-no-results"
+msgstr  "Ectud IP-adres vai kävutajan nimi ei ole blokiruidud."
+
+msgid  "blocklink"
+msgstr  "blokiruida"
+
+msgid  "unblocklink"
+msgstr  "heitta blokiruind"
+
+msgid  "change-blocklink"
+msgstr  "toižetada blokiruind"
+
+msgid  "contribslink"
+msgstr  "tond"
+
+msgid  "autoblocker"
+msgstr  "Blokiruidud avtomatižešti, sikš miše teiden IP-adres om tantoi kävutanu \"[[User:$1|$1]]\".\nAdresan blokiruindan sü - \"$2\"."
+
+msgid  "blocklogpage"
+msgstr  "Blokiruindoiden aigkirj"
+
+msgid  "blocklog-showlog"
+msgstr  "Nece kävutai blokiruiltihe jo.\nAlemba om anttud blokiruindaiglehtez:"
+
+msgid  "blocklogentry"
+msgstr  "blokiruidihe [[$1]] pordoks $2 $3"
+
+msgid  "reblock-logentry"
+msgstr  "om toižetanu [[$1]]-kävutajan blokiruindan järgendused. Blokiruind lopiše $2 $3"
+
+msgid  "unblocklogentry"
+msgstr  "om heitnu $1-kävutajan blokiruindan"
+
+msgid  "block-log-flags-anononly"
+msgstr  "vaiše anonimižed kävutajad"
+
+msgid  "block-log-flags-nocreate"
+msgstr  "uziden kävutajiden registracii om kel'tud"
+
+msgid  "block-log-flags-noautoblock"
+msgstr  "avtoblokiruind ei ole kävutamas"
+
+msgid  "block-log-flags-noemail"
+msgstr  "e-počtan oigendamine om kel'tud"
+
+msgid  "block-log-flags-nousertalk"
+msgstr  "ei voi redaktiruida ičeze lodulehtpol't"
+
+msgid  "block-log-flags-angry-autoblock"
+msgstr  "levitadud avtoblokiruind om kävutamas"
+
+msgid  "block-log-flags-hiddenname"
+msgstr  "kävutajan nimi om peittud"
+
+msgid  "range_block_disabled"
+msgstr  "Administratoriden oiktuz blokiruida diapazonad ei ole kävutamas."
+
+msgid  "ipb_expiry_invalid"
+msgstr  "Vär lopstrok."
+
+msgid  "ipb_expiry_temp"
+msgstr  "Peittud kävutajiden nimiden blokiruindoile pidab olda strokutomin."
+
+msgid  "ipb_hide_invalid"
+msgstr  "Ei sa peitta registracijad. Voib olda, sišpäi on tehtud äjahk redakcijoid."
+
+msgid  "ipb_already_blocked"
+msgstr  "\"$1\" om jo blokiruidud"
+
+msgid  "ipb-needreblock"
+msgstr  "== Om jo blokiruidud ==\n$1 om jo blokiruidud. Tahtoižit-ik toižetada järgendusid?"
+
+msgid  "ipb-otherblocks-header"
+msgstr  "{{PLURAL:$1|Toine blokiruind|Toižed blokiruindad}}"
+
+msgid  "ipb_cant_unblock"
+msgstr  "Petuz: ei voi löuta ID $1:n blokiruindad.\nVoib olda, se om jo heittud."
+
+msgid  "ip_range_invalid"
+msgstr  "Vär IP-diapazon."
+
+msgid  "blockme"
+msgstr  "Blokiruigat mindai"
+
+msgid  "proxyblocker"
+msgstr  "Proxy-blokator"
+
+msgid  "proxyblocker-disabled"
+msgstr  "Nece funkcii ei ole kävutamas."
+
+msgid  "proxyblockreason"
+msgstr  "Teiden IP-adres om blokiruidud, sikš miše se om avoin proksi.\nOlgat hüväd, säkat pagin teiden Internet-provaideranke i kirjutagat hänele necen varuitomuden problemas."
+
+msgid  "proxyblocksuccess"
+msgstr  "Vaumiž."
+
+msgid  "sorbsreason"
+msgstr  "Teiden IP-adres om ozutadud kut avaitud proksi {{SITENAME}}-saitan DNSBL-an mustas nimikirjuteses."
+
+msgid  "cant-block-while-blocked"
+msgstr  "Teile ei sa blokiruida toižid kävutajid, sikš miše tö iče olet blokiruidud."
+
+msgid  "lockdb"
+msgstr  "Luklostada andmusiden baz"
+
+msgid  "unlockdb"
+msgstr  "Heitta luklostand andmusiden bazalpäi"
+
+msgid  "lockconfirm"
+msgstr  "Ka, minä todest tahtoin luklostada andmusiden baz."
+
+msgid  "unlockconfirm"
+msgstr  "Ka, minä todest tahtoin heitta luklostand andmusiden bazalpäi."
+
+msgid  "lockbtn"
+msgstr  "Luklostada andmusiden baz"
+
+msgid  "unlockbtn"
+msgstr  "Heitta luklostand andmusiden bazalpäi"
+
+msgid  "locknoconfirm"
+msgstr  "Pidab panda lindut vahvištoitandpöudho."
+
+msgid  "lockdbsuccesssub"
+msgstr  "Andmusiden baz om luklostadud"
+
+msgid  "unlockdbsuccesssub"
+msgstr  "Luklostand om heittud andmusiden bazalpäi"
+
+msgid  "lockdbsuccesstext"
+msgstr  "Andmusiden baz om luklostadud.<br />\nAlgat unohtagoi [[Special:UnlockDB|heitta luklostand]] teiden holituzradon jäl'ghe."
+
+msgid  "unlockdbsuccesstext"
+msgstr  "Luklostand om heittud andmusiden bazalpäi."
+
+msgid  "databasenotlocked"
+msgstr  "Andmusiden baz ei ole luklostadud."
+
+msgid  "move-page"
+msgstr  "Udesnimitada $1"
+
+msgid  "move-page-backlink"
+msgstr  "← $1"
+
+msgid  "move-page-legend"
+msgstr  "Udesnimitada lehtpol'"
+
+msgid  "movepagetext"
+msgstr  "Alemba anttud formad kävutaden sab nimitada lehtpolen udes; siloi kaclendnimikirjuteses se mugažo linneb uden nimenke.\nVanhemb nimi linneb kosketuseks udembale nimele.\nSab udištada avtomatižešti kosketusid vanhembale nimele.\nKu tö et tahtoigoi tehta necidä, olgat hüväd, kodvgat, ei-k ole lehtpolil [[Special:DoubleRedirects|kaksitadud]] vai [[Special:BrokenRedirects|rebitadud]] kosketusid.\nTö pidat vastust siš, miše kaik kosketused ozutaižiba sinnä, kuna tarbiž.\n\nOtkat sil'mnägubale, miše lehtpol' ei nimitagoi udes, ku om jo lehtpol' mugoižen nimenke, siš statjoiš päiči, konz se om pall'az, sil ei ole toižetuzistorijad, vai se om oigendamižlehtpol'.\nNece znamoičeb, miše tö voit pörtta lehtpolen vanhemb nimi, ku tö olet petnus, no et voigoi čuta statjaližikš tarbhašt lehtpol't.\n\n'''HOMAIKAT!'''\nUdesnimituz voib toda masštabižid da varastamatomid toižetusid ''populärižile'' lehtpolile.\nOlgat hüväd, vahvištoitkatoiš, miše tö el'gendat kaik jäl'gused."
+
+msgid  "movepagetalktext"
+msgstr  "Sidotud lodulehtpol' udesnimitadas avtomatižikš, '''päiči niiš statjoiš, konz:'''\n*Om jo täuttud lodulehtpol' mugoižen nimenke;\n*Tö ei olgoi pannuded \"lindušt\" pöudho alemba.\n\nNenil statjoil tegese sirta vai ühtenzoitta lehtpoled ičeksaz."
+
+msgid  "movearticle"
+msgstr  "Udesnimitada lehtpol':"
+
+msgid  "movenologin"
+msgstr  "Tö et olgoi kirjutanus sistemha"
+
+msgid  "movenotallowed"
+msgstr  "Teile ei sa udesnimitada lehtpolid."
+
+msgid  "movenotallowedfile"
+msgstr  "Teile ei sa udesnimitada failoid."
+
+msgid  "cant-move-user-page"
+msgstr  "Teile ei sa udesnimitada kävutajiden pälehtpolid."
+
+msgid  "newtitle"
+msgstr  "Uz' nimi:"
+
+msgid  "move-watch"
+msgstr  "Kacelta necidä lehtpol't"
+
+msgid  "movepagebtn"
+msgstr  "Udesnimitada lehtpol'"
+
+msgid  "pagemovedsub"
+msgstr  "Lehtpol' om nimitadud udes"
+
+msgid  "movepage-moved"
+msgstr  "'''\"$1\" om nimitadud udes; uz' nimi om \"$2\"'''"
+
+msgid  "movepage-moved-redirect"
+msgstr  "Läbikosketuz om tehtud."
+
+msgid  "movepage-moved-noredirect"
+msgstr  "Läbikosketusen sämine om kel'tud."
+
+msgid  "articleexists"
+msgstr  "Lehtpol' mugoižen nimenke om jo wikiš, vai valitud nimi ei sättu. Olgat hüväd, valikat toine nimi."
+
+msgid  "cantmove-titleprotected"
+msgstr  "Ei sa udesnimitada lehtpol't, sikš miše uz' nimi om kel'tud nimiden nimikirjuteses."
+
+msgid  "talkexists"
+msgstr  "'''Iče lehtpol' om nimitadud udes jügedusita, no lodulehtpol't ei voi udesnimitada, sikš miše wikiš om jo lodulehtpol' mugoižen nimenke. Pidab erigoitta niid ičeksaz.'''"
+
+msgid  "movedto"
+msgstr  "Sirtud udhe tahoze"
+
+msgid  "movetalk"
+msgstr  "Udesnimitada sidotud lodulehtpol'"
+
+msgid  "move-subpages"
+msgstr  "Udesnimitada alalehtpoled ($1-hesai)"
+
+msgid  "movepage-page-moved"
+msgstr  "Lehtpol' $1 udesnimetadud, uz' nimi om $2."
+
+msgid  "movepage-page-unmoved"
+msgstr  "Ei sa udesnimitada $1-lehtpol't i antta sile $2-nimed."
+
+msgid  "movepage-max-pages"
+msgstr  "$1 {{PLURAL:$1|lehtpol'|lehtpol't}} om udesnimetadud, enamb-žo avtomatižikš udesnimitada ei sa."
+
+msgid  "1movedto2"
+msgstr  "om nimitanu udes [[$1]]; uz' nimi om [[$2]]"
+
+msgid  "1movedto2_redir"
+msgstr  "[[$1]] om nimitadud udel nimel \"[[$2]]\" udesoigendamižen päle."
+
+msgid  "move-redirect-suppressed"
+msgstr  "läbikosketuz om azotadud"
+
+msgid  "movelogpage"
+msgstr  "Udesnimitandoiden aigkirj"
+
+msgid  "movelogpagetext"
+msgstr  "Naku om kaikiden lehtesiden udesnimitandoiden nimikirjutez."
+
+msgid  "movesubpage"
+msgstr  "{{PLURAL:$1|Alalehtpol'|Alalehtpol't}}"
+
+msgid  "movenosubpage"
+msgstr  "Necil lehtpolel ei ole alalehtpolid."
+
+msgid  "movereason"
+msgstr  "Sü:"
+
+msgid  "revertmove"
+msgstr  "heitta pätand"
+
+msgid  "delete_and_move"
+msgstr  "Čuta poiš da udesnimitada"
+
+msgid  "delete_and_move_confirm"
+msgstr  "Ka, čuta lehtpol' poiš"
+
+msgid  "delete_and_move_reason"
+msgstr  "Čutud poiš udesnimitamižen voimusen täht."
+
+msgid  "immobile-source-namespace"
+msgstr  "Ei voi udesnimitada lehtpolid \"$1\"-nimiavaruses"
+
+msgid  "immobile-target-namespace"
+msgstr  "Ei voi udesnimitada lehtpolid \"$1\"-nimiavarushe"
+
+msgid  "immobile-source-page"
+msgstr  "Necidä lehtpol't ei sa udesnimitada."
+
+msgid  "immobile-target-page"
+msgstr  "Ei sa antta lehtpolele nece nimi."
+
+msgid  "imagenocrossnamespace"
+msgstr  "Ei sa antta kuvale nimi toižes nimiavarusespäi."
+
+msgid  "imagetypemismatch"
+msgstr  "Uz' failan liža ei sättu sen tipale"
+
+msgid  "imageinvalidfilename"
+msgstr  "Metfailan nimi om vär"
+
+msgid  "move-leave-redirect"
+msgstr  "Jätta läbikosketuz"
+
+msgid  "export"
+msgstr  "Lehtpoliden eksport"
+
+msgid  "exportcuronly"
+msgstr  "Mülütada vaiše nügüdläine versii täudeta istorijata"
+
+msgid  "export-submit"
+msgstr  "Eksport"
+
+msgid  "export-addcattext"
+msgstr  "Kaiked lehtesed kategorijaspäi:"
+
+msgid  "export-addcat"
+msgstr  "Liža"
+
+msgid  "export-addnstext"
+msgstr  "Ližata lehtpolid nimiavarusespäi:"
+
+msgid  "export-addns"
+msgstr  "Ližata"
+
+msgid  "export-download"
+msgstr  "Panda muštho kut fail"
+
+msgid  "export-templates"
+msgstr  "Mülütada šablonad"
+
+msgid  "allmessages"
+msgstr  "Sisteman tedotused"
+
+msgid  "allmessagesname"
+msgstr  "Nimi"
+
+msgid  "allmessagesdefault"
+msgstr  "Tekst augotižjärgendusen mödhe"
+
+msgid  "allmessagescurrent"
+msgstr  "Nügüdläine tekst"
+
+msgid  "allmessagesnotsupportedDB"
+msgstr  "Nece lehtpol' ei ole kävutamižes, sikš miše '''$wgUseDatabaseMessages'''-opcii ei ole radmas."
+
+msgid  "allmessages-filter-legend"
+msgstr  "Fil'tr"
+
+msgid  "allmessages-filter"
+msgstr  "Fil'tr toižetusen statusan mödhe:"
+
+msgid  "allmessages-filter-unmodified"
+msgstr  "Toižetamatomad"
+
+msgid  "allmessages-filter-all"
+msgstr  "Kaik"
+
+msgid  "allmessages-filter-modified"
+msgstr  "Toižetadud"
+
+msgid  "allmessages-prefix"
+msgstr  "Fil'tr prefiksan mödhe:"
+
+msgid  "allmessages-language"
+msgstr  "Kel'"
+
+msgid  "allmessages-filter-submit"
+msgstr  "Mäne"
+
+msgid  "thumbnail-more"
+msgstr  "Tobjeta"
+
+msgid  "filemissing"
+msgstr  "Fail ei ole löutud"
+
+msgid  "thumbnail_error"
+msgstr  "Pičukuvan sädandan petuz: $1"
+
+msgid  "djvu_page_error"
+msgstr  "En voi sadas DjVu-lehtpolen nomerhasai"
+
+msgid  "djvu_no_xml"
+msgstr  "Ei voi sada XMLad DjVu-failan täht"
+
+msgid  "thumbnail_invalid_params"
+msgstr  "Värad pičukuvan parametrad"
+
+msgid  "thumbnail_dest_directory"
+msgstr  "Ei voi säta metfailhodrad"
+
+msgid  "thumbnail_image-type"
+msgstr  "Kuvan tip ei ole pid'oiteldud"
+
+msgid  "thumbnail_gd-library"
+msgstr  "Vajag GD-kirjišton konfiguracii: ei ole $1-funkcijad"
+
+msgid  "thumbnail_image-missing"
+msgstr  "Näguse, ei ole $1-failad"
+
+msgid  "import"
+msgstr  "Toda lehtesid toižiš saitoišpäi"
+
+msgid  "importinterwiki"
+msgstr  "Transwiki-tomine"
+
+msgid  "import-interwiki-source"
+msgstr  "Wikipurde/lehtpol':"
+
+msgid  "import-interwiki-history"
+msgstr  "Kopiruida kaik necen lehtpolen toižetamižen istorii"
+
+msgid  "import-interwiki-templates"
+msgstr  "Mülütada kaik šablonad"
+
+msgid  "import-interwiki-submit"
+msgstr  "Import"
+
+msgid  "import-interwiki-namespace"
+msgstr  "Metnimiavaruz:"
+
+msgid  "import-upload-filename"
+msgstr  "Failan nimi:"
+
+msgid  "import-comment"
+msgstr  "Kommentarii:"
+
+msgid  "importstart"
+msgstr  "Lehtpoliden import..."
+
+msgid  "import-revision-count"
+msgstr  "$1 {{PLURAL:$1|versii|versijad}}"
+
+msgid  "importnopages"
+msgstr  "Ei ole lehtpolid importiruides."
+
+msgid  "importfailed"
+msgstr  "Ei voi importiruida: <nowiki>$1</nowiki>"
+
+msgid  "importunknownsource"
+msgstr  "Importiruidud lehtpolen tundmatoi tip"
+
+msgid  "importcantopen"
+msgstr  "Ei voi avaita importiruidud failad"
+
+msgid  "importbadinterwiki"
+msgstr  "Vär interwiki-kosketuz"
+
+msgid  "importnotext"
+msgstr  "Ei ole tekstad"
+
+msgid  "importsuccess"
+msgstr  "Import lopihe!"
+
+msgid  "importnofile"
+msgstr  "Fail importaks ei ole jügutoittud."
+
+msgid  "importuploaderrorsize"
+msgstr  "Ei voi jügutoitta vai importiruida failad.\nFailan suruz om suremb pandud üläröunad."
+
+msgid  "importuploaderrorpartial"
+msgstr  "Ei voi jügutoitta vai importiruida failad.\nVaiše failan pala om jügutoittud."
+
+msgid  "importuploaderrortemp"
+msgstr  "Ei voi jügutoitta vai importiruida failad.\nEi ole pordaigašt failhodrad."
+
+msgid  "import-parse-failure"
+msgstr  "XML-tundištandan petuz importan aigan"
+
+msgid  "import-noarticle"
+msgstr  "Ei ole lehtpol't importiruides!"
+
+msgid  "import-nonewrevisions"
+msgstr  "Kaik redakcijad oma importiruidud aigemba."
+
+msgid  "import-upload"
+msgstr  "Jügutoitta XML-andmusid"
+
+msgid  "import-token-mismatch"
+msgstr  "Andmused oma kadonuded. Olgat hüväd, toštkat tegend völ kerdan."
+
+msgid  "import-invalid-interwiki"
+msgstr  "Ei voi importiruida neciš wikišpäi."
+
+msgid  "importlogpage"
+msgstr  "Importan aigkirj"
+
+msgid  "import-logentry-upload-detail"
+msgstr  "{{PLURAL:$1|üks' versii|$1 versijad}}"
+
+msgid  "import-logentry-interwiki"
+msgstr  "toi toižes wikišpäi lehtpolen $1"
+
+msgid  "import-logentry-interwiki-detail"
+msgstr  "$1 {{PLURAL:$1|üks' versii|versijad}} $2-wikišpäi"
+
+msgid  "tooltip-pt-userpage"
+msgstr  "Teiden kävutajan lehtpol'"
+
+msgid  "tooltip-pt-anonuserpage"
+msgstr  "Kähutajan lehtpol' minun IP-n täht"
+
+msgid  "tooltip-pt-mytalk"
+msgstr  "Teiden lodulehtpol'"
+
+msgid  "tooltip-pt-preferences"
+msgstr  "Teiden järgendused"
+
+msgid  "tooltip-pt-watchlist"
+msgstr  "Lehtpoled, kudambid minä kaclen"
+
+msgid  "tooltip-pt-mycontris"
+msgstr  "Minun redakcijoiden nimikirjutez"
+
+msgid  "tooltip-pt-login"
+msgstr  "Naku sab kirjutadas sistemha, no necidä ei tarbiž radon täht"
+
+msgid  "tooltip-pt-anonlogin"
+msgstr  "Naku sab kirjutadas sistemha, no necidä ei tarbiž radon täht"
+
+msgid  "tooltip-pt-logout"
+msgstr  "Lähtta sistemaspäi"
+
+msgid  "tooltip-ca-talk"
+msgstr  "Diskussii neciš lehtpoles"
+
+msgid  "tooltip-ca-edit"
+msgstr  "Sab redaktiruida necidä lehtpol't.\nOlgat hüväd, kävutagat ezikacund."
+
+msgid  "tooltip-ca-addsection"
+msgstr  "Augotada uz' jaguz"
+
+msgid  "tooltip-ca-viewsource"
+msgstr  "Nece lehtpol' om kaitud.\nSab lugeda sen augotižkod da kopiruida se."
+
+msgid  "tooltip-ca-history"
+msgstr  "Necen lehtpolen enččed versijad"
+
+msgid  "tooltip-ca-protect"
+msgstr  "Kaita necidä lehtpol't"
+
+msgid  "tooltip-ca-unprotect"
+msgstr  "Heitta necen lehtpolen kaičend"
+
+msgid  "tooltip-ca-delete"
+msgstr  "Čuta poiš nece lehtpol'"
+
+msgid  "tooltip-ca-undelete"
+msgstr  "Endištada kaik toižetused, kudambad oliba tehtud edel lehtpolen čudandad"
+
+msgid  "tooltip-ca-move"
+msgstr  "Udesnimitada nece lehtpol'"
+
+msgid  "tooltip-ca-watch"
+msgstr  "Ližata nece lehtpol' teiden kaclendnimikirjuteshe"
+
+msgid  "tooltip-ca-unwatch"
+msgstr  "Čuta nece lehtpol' teiden kaclendnimikirjutesespäi"
+
+msgid  "tooltip-search"
+msgstr  "Ectä {{SITENAME}}-saitaspäi"
+
+msgid  "tooltip-search-go"
+msgstr  "Mända lehtpolele, kudambal om tarkoiktas mugoi nimi"
+
+msgid  "tooltip-search-fulltext"
+msgstr  "Ectä lehtpoled, kudambil om mugoi tekst"
+
+msgid  "tooltip-p-logo"
+msgstr  "Pälehtpol'"
+
+msgid  "tooltip-n-mainpage"
+msgstr  "Mäne pälehtpolele"
+
+msgid  "tooltip-n-mainpage-description"
+msgstr  "Tulgat pälehtpolele"
+
+msgid  "tooltip-n-portal"
+msgstr  "Lodud projektas"
+
+msgid  "tooltip-n-currentevents"
+msgstr  "Löuta ližainformacijad nügüdläižiš aigtegoiš"
+
+msgid  "tooltip-n-recentchanges"
+msgstr  "Tantoižiden toižetusiden nimikirjutez"
+
+msgid  "tooltip-n-randompage"
+msgstr  "Kacta statjaline lehtpol'"
+
+msgid  "tooltip-n-help"
+msgstr  "Abu"
+
+msgid  "tooltip-t-whatlinkshere"
+msgstr  "Lehtpoled, kudambad kosketadas necidä lehtpol't"
+
+msgid  "tooltip-t-recentchangeslinked"
+msgstr  "Tantoižed toižetused lehtpolil, kudambid kosketab nece lehtpol'"
+
+msgid  "tooltip-feed-rss"
+msgstr  "RSS-purde necen lehtpolen täht"
+
+msgid  "tooltip-feed-atom"
+msgstr  "Atom-purde necen lehtpolen täht"
+
+msgid  "tooltip-t-contributions"
+msgstr  "Kaikiden necil kävutajal toižetadud lehtpoliden nimikirjutez"
+
+msgid  "tooltip-t-emailuser"
+msgstr  "Oigeta e-počt necile kävutajale"
+
+msgid  "tooltip-t-upload"
+msgstr  "Jügutoitta failad"
+
+msgid  "tooltip-t-specialpages"
+msgstr  "Kaikiden specialižiden lehtpoliden nimikirutez"
+
+msgid  "tooltip-t-print"
+msgstr  "Necen lehtpolen versii painmižen täht"
+
+msgid  "tooltip-t-permalink"
+msgstr  "Kaikenaigaine necen lehtpolen versijan kosketuz"
+
+msgid  "tooltip-ca-nstab-main"
+msgstr  "Südäimištlehtpol'"
+
+msgid  "tooltip-ca-nstab-user"
+msgstr  "Kacta kävutajan lehtpol'he"
+
+msgid  "tooltip-ca-nstab-media"
+msgstr  "Mediafail"
+
+msgid  "tooltip-ca-nstab-special"
+msgstr  "Nece om specialine lehtpol', tö et voigoi toižetada sidä"
+
+msgid  "tooltip-ca-nstab-project"
+msgstr  "Kacta projektan lehtpol'he"
+
+msgid  "tooltip-ca-nstab-image"
+msgstr  "Kacta failan lehtpol'he"
+
+msgid  "tooltip-ca-nstab-mediawiki"
+msgstr  "Lugeda sisteman tedotuz"
+
+msgid  "tooltip-ca-nstab-template"
+msgstr  "Kacta šablonha"
+
+msgid  "tooltip-ca-nstab-help"
+msgstr  "Lugeda abulehtpol'"
+
+msgid  "tooltip-ca-nstab-category"
+msgstr  "Kacta kategorijan lehtpol'he"
+
+msgid  "tooltip-minoredit"
+msgstr  "Znamoita nece toižetuz kut pen'"
+
+msgid  "tooltip-save"
+msgstr  "Kirjutada teiden toižetused"
+
+msgid  "tooltip-preview"
+msgstr  "Ezikacelta teiden toižetusid. Olgat hüväd, kävutagat edel lopkirjutandad!"
+
+msgid  "tooltip-diff"
+msgstr  "Ozutada tantoižed toižetused"
+
+msgid  "tooltip-compareselectedversions"
+msgstr  "Kacelta valitud versijoiden erod"
+
+msgid  "tooltip-watch"
+msgstr  "Ližata nece lehtpol' kaclendnimikirjuteshe"
+
+msgid  "tooltip-recreate"
+msgstr  "Endištada nece lehtpol'"
+
+msgid  "tooltip-upload"
+msgstr  "Augotada jügutoitand"
+
+msgid  "tooltip-rollback"
+msgstr  "Čukat jäl'gmäižel redaktoral tehtud toižetused ühtel painandal"
+
+msgid  "tooltip-undo"
+msgstr  "Čuta jäl'gmäine toižetuz i avaita redaktiruindan lehtpol'. Sab kirjutada čudandad sü."
+
+msgid  "tooltip-summary"
+msgstr  "Kirjutagat lühüd ümbristarinoičend"
+
+msgid  "common.css"
+msgstr  "/* Pandud tänna CSS painastaškandeb kaikile irdnägun temoile */"
+
+msgid  "siteuser"
+msgstr  "{{SITENAME}}-saitan kävutai $1"
+
+msgid  "anonuser"
+msgstr  "{{GRAMMAR:genitive|{{SITENAME}}}} anonimine kävutai $1"
+
+msgid  "lastmodifiedatby"
+msgstr  "Necidä lehtpol't toižeti jäl'gmäižen kerdan $2, $1 časul $3."
+
+msgid  "othercontribs"
+msgstr  "Aluz - tö, kudamban tegi $1."
+
+msgid  "others"
+msgstr  "toižed"
+
+msgid  "siteusers"
+msgstr  "{{SITENAME}}-saitan {{PLURAL:$2|kävutai|kävutajad}} $1"
+
+msgid  "creditspage"
+msgstr  "Kitändad"
+
+msgid  "spamprotectiontitle"
+msgstr  "Fil'tr spamaspäi"
+
+msgid  "spamprotectiontext"
+msgstr  "Lehtpolen, kudamban tö tahtoit kirjutada muštho, om blokiruidud spamanfil'tral.\nVoib olda, necil lehtpolel om kosketuz irdsaitale, kudamb om mustas nimikirjuteses."
+
+msgid  "spamprotectionmatch"
+msgstr  "Meiden spamanfil'tr tedoti necil statjal mugošt: $1"
+
+msgid  "spambot_username"
+msgstr  "MediaWikid puhtastadas spamaspäi"
+
+msgid  "infosubtitle"
+msgstr  "Informacii lehtpoles"
+
+msgid  "numedits"
+msgstr  "Redakcijoiden lugu (lehtpol'): $1"
+
+msgid  "numtalkedits"
+msgstr  "Redakcijoiden lugu (lodulehtpol'): $1"
+
+msgid  "numwatchers"
+msgstr  "Kaclijoiden lugu: $1"
+
+msgid  "numauthors"
+msgstr  "Erazvuiččiden avtoriden lugu (lehtpol'): $1"
+
+msgid  "numtalkauthors"
+msgstr  "Erazvuiččiden avtoriden lugu (lodulehtpol'): $1"
+
+msgid  "skinname-standard"
+msgstr  "Klassine"
+
+msgid  "skinname-nostalgia"
+msgstr  "Nostal'gii"
+
+msgid  "skinname-cologneblue"
+msgstr  "Köl'nan sinine"
+
+msgid  "skinname-monobook"
+msgstr  "MonoBook"
+
+msgid  "skinname-myskin"
+msgstr  "Ičeze"
+
+msgid  "skinname-chick"
+msgstr  "Cipuine"
+
+msgid  "skinname-simple"
+msgstr  "Koveritoi"
+
+msgid  "skinname-modern"
+msgstr  "Nügüd'aigaine"
+
+msgid  "mw_math_png"
+msgstr  "Kaiken generiruida PNG"
+
+msgid  "mw_math_simple"
+msgstr  "Ozutada HTML koveritomil statjoil, ika ozutada PNG"
+
+msgid  "mw_math_html"
+msgstr  "Ozutada, ku voib, HTML, ika ozutada PNG"
+
+msgid  "mw_math_source"
+msgstr  "Jätkat nece TeX-formas (tekstkaclimiden täht)"
+
+msgid  "mw_math_modern"
+msgstr  "Kut rekomeduidas nügüd'aigaižiden kaclimiden täht"
+
+msgid  "mw_math_mathml"
+msgstr  "MathML, ku sab (eksperimentaližikš)"
+
+msgid  "math_failure"
+msgstr  "Ei voi palastada"
+
+msgid  "math_unknown_error"
+msgstr  "tundmatoi petuz"
+
+msgid  "math_unknown_function"
+msgstr  "tundmatoi funkcii"
+
+msgid  "math_lexing_error"
+msgstr  "leksine petuz"
+
+msgid  "math_syntax_error"
+msgstr  "sintaksine petuz"
+
+msgid  "math_image_error"
+msgstr  "PNG-ks kändmižes ozaižihe petuz;\nkodvgat, oiged-ik oma järgetud: latex, dvips, gs da convert."
+
+msgid  "math_bad_tmpdir"
+msgstr  "Ei voi säta pordaigaline matematine katalog vai ei voi kirjutada sinnä"
+
+msgid  "math_bad_output"
+msgstr  "Ei voi säta matematine lähtmižkatalog vai ei voi kirjutada sinnä"
+
+msgid  "math_notexvc"
+msgstr  "En voi löuta texvc-töfailad;\nkc. math/README järgendamižen täht."
+
+msgid  "markaspatrolleddiff"
+msgstr  "Znamoita kut patruliruidud"
+
+msgid  "markaspatrolledtext"
+msgstr  "Zmamoita nece lehtpol' kut patruliruidud"
+
+msgid  "markedaspatrolled"
+msgstr  "Om znamoitud kut patruliruidud"
+
+msgid  "markedaspatrolledtext"
+msgstr  "Valitud [[:$1]]-n versii om znamoitud kut patruliruidud."
+
+msgid  "rcpatroldisabled"
+msgstr  "Jäl'gmäižiden toižetusiden patruliruind ei ole kävutamas"
+
+msgid  "rcpatroldisabledtext"
+msgstr  "Jäl'gmäižiden toižetusiden patruliruindan opcii ei ole kävutamas."
+
+msgid  "markedaspatrollederror"
+msgstr  "Ei voi znamoita kut patruliruidud"
+
+msgid  "markedaspatrollederror-noautopatrol"
+msgstr  "Teile ei sa znamoita ičetoi toižetusid kut patruliruidud."
+
+msgid  "patrol-log-page"
+msgstr  "Patruliruindan aigkirj"
+
+msgid  "patrol-log-header"
+msgstr  "Nece om patruliruidud versijoiden aiglehtez."
+
+msgid  "patrol-log-line"
+msgstr  "kodvi $1 $2-špäi $3"
+
+msgid  "patrol-log-auto"
+msgstr  "(avtomatižikš)"
+
+msgid  "patrol-log-diff"
+msgstr  "versii $1"
+
+msgid  "log-show-hide-patrol"
+msgstr  "$1 patruliruindan aigkirj"
+
+msgid  "deletedrevision"
+msgstr  "$1-lehtpolen vanh versii om čutud"
+
+msgid  "filedeleteerror-short"
+msgstr  "Failan čudandan petuz: $1"
+
+msgid  "previousdiff"
+msgstr  "← Vanhemb redakcii"
+
+msgid  "nextdiff"
+msgstr  "Udemb redakcii →"
+
+msgid  "thumbsize"
+msgstr  "Pičukuvan suruz:"
+
+msgid  "widthheightpage"
+msgstr  "$1×$2, $3 {{PLURAL:$3|lehtpol'|lehtpol't}}"
+
+msgid  "file-info"
+msgstr  "failan suruz: $1, MIME-tip: $2"
+
+msgid  "file-info-size"
+msgstr  "$1 × $2 pikselad, failan suruz: $3, MIME-tip: $4"
+
+msgid  "file-nohires"
+msgstr  "<small>Ei ole versijad paremban tarkoiktusenke.</small>"
+
+msgid  "svg-long-desc"
+msgstr  "SVG-fail, nominaližikš $1 × $2 pikselid, failan suruz: $3"
+
+msgid  "show-big-image"
+msgstr  "Korgedtarkoiktuseline kuvan versii"
+
+msgid  "show-big-image-thumb"
+msgstr  "<small>Ezikacundan suruz: $1 × $2 pixels</small>"
+
+msgid  "file-info-gif-looped"
+msgstr  "toštase"
+
+msgid  "file-info-gif-frames"
+msgstr  "$1 {{PLURAL:$1|freim|freimad}}"
+
+msgid  "newimages"
+msgstr  "Uziden failoiden galerei"
+
+msgid  "imagelisttext"
+msgstr  "Naku om '''$1''' {{PLURAL:$1|fail, kudamb om|failad, kudambad oma}} sortiruidud $2."
+
+msgid  "newimages-summary"
+msgstr  "Necil specialižel lehtpolel ozutadas tantoi jügutoittud failoid."
+
+msgid  "newimages-legend"
+msgstr  "Fil'tr"
+
+msgid  "newimages-label"
+msgstr  "Failan nimi (vai sen pala):"
+
+msgid  "showhidebots"
+msgstr  "($1 botad)"
+
+msgid  "noimages"
+msgstr  "Ei ole uzid kuvid."
+
+msgid  "ilsubmit"
+msgstr  "Ectä"
+
+msgid  "bydate"
+msgstr  "datan mödhe"
+
+msgid  "sp-newimages-showfrom"
+msgstr  "Ozutada kaik uded failad aigalpäi $2, $1"
+
+msgid  "video-dims"
+msgstr  "$1, $2×$3"
+
+msgid  "seconds-abbrev"
+msgstr  "s"
+
+msgid  "minutes-abbrev"
+msgstr  "m"
+
+msgid  "hours-abbrev"
+msgstr  "č"
+
+msgid  "bad_image_list"
+msgstr  "Formatale pidab olda mugoman:\n\nVaiše nimikirjutesen elementad (rived, kudambad augotase *-znamaižespäi) oma ottud sil'mnägubale.\nEzmäižele kosketusele rives pidab ozutada hondole faile.\nJäl'ghižed kosketused siš-žo rives oma arvostadud kut erindad (lehtpoled, kudambihe sab mülütada kuvid)."
+
+msgid  "variantname-zh-hans"
+msgstr  "hans"
+
+msgid  "metadata"
+msgstr  "Metaandmused"
+
+msgid  "metadata-help"
+msgstr  "Neciš failas om ližainformacijad, kudambad ližaltas tobjimalaz lugukamerad da skanerad.\nKu fail redaktiruidihe sändan polhe, erased parametrad voidas erineda nügüdläižes kuvaspäi."
+
+msgid  "metadata-expand"
+msgstr  "Ozutada ližaandmused"
+
+msgid  "metadata-collapse"
+msgstr  "Peitta ližaandmused"
+
+msgid  "metadata-fields"
+msgstr  "Pandud neche nimikirjuteshe EXIF-metaandmusiden pöudad ozutadas kuvalehtpolel augotižjärgendusen mödhe, a toižid pöudoid peittas.\n* make\n* model\n* datetimeoriginal\n* exposuretime\n* fnumber\n* isospeedratings\n* focallength"
+
+msgid  "exif-imagewidth"
+msgstr  "Leveduz’"
+
+msgid  "exif-imagelength"
+msgstr  "Korktuz’"
+
+msgid  "exif-bitspersample"
+msgstr  "Mujun süvuz"
+
+msgid  "exif-compression"
+msgstr  "Ahtištandan metod"
+
+msgid  "exif-photometricinterpretation"
+msgstr  "Mujumodel'"
+
+msgid  "exif-orientation"
+msgstr  "Kadran orientacii"
+
+msgid  "exif-samplesperpixel"
+msgstr  "Mujukomponentoiden lugu"
+
+msgid  "exif-planarconfiguration"
+msgstr  "Andmusiden järgendamižen princip"
+
+msgid  "exif-ycbcrsubsampling"
+msgstr  "Y da C-komponentoiden surusiden korreläcii"
+
+msgid  "exif-ycbcrpositioning"
+msgstr  "Y:n da C:n sijaduz"
+
+msgid  "exif-xresolution"
+msgstr  "Gorizontaline tarkoiktuz"
+
+msgid  "exif-yresolution"
+msgstr  "Vertikaline tarkoiktuz"
+
+msgid  "exif-resolutionunit"
+msgstr  "Tarkoiktusen märičendan ühtnik."
+
+msgid  "exif-stripoffsets"
+msgstr  "Andmusiden sijaduz"
+
+msgid  "exif-rowsperstrip"
+msgstr  "Rividen lugu ühtes särmas"
+
+msgid  "exif-stripbytecounts"
+msgstr  "Ahtištadud särman suruz"
+
+msgid  "exif-jpeginterchangeformat"
+msgstr  "\"Ezikacund\"-blokan augotišen sijaduz."
+
+msgid  "exif-jpeginterchangeformatlength"
+msgstr  "Baitoiden lugumär JPEG-as"
+
+msgid  "exif-transferfunction"
+msgstr  "Mujuavarusen toižetamižen funkcii"
+
+msgid  "exif-whitepoint"
+msgstr  "Vauktan čokkoimen mujumär"
+
+msgid  "exif-primarychromaticities"
+msgstr  "Pämujuiden mujumär"
+
+msgid  "exif-ycbcrcoefficients"
+msgstr  "Mujumodelin toižetusen koefficientad"
+
+msgid  "exif-referenceblackwhite"
+msgstr  "Vauktan da mustan čokkoimiden sijaduz"
+
+msgid  "exif-datetime"
+msgstr  "Failan toižetusen dat da aig"
+
+msgid  "exif-imagedescription"
+msgstr  "Kuvan nimi"
+
+msgid  "exif-make"
+msgstr  "Kameran tegii"
+
+msgid  "exif-model"
+msgstr  "Kameran model'"
+
+msgid  "exif-software"
+msgstr  "Kävutadud programmišt"
+
+msgid  "exif-artist"
+msgstr  "Tegii"
+
+msgid  "exif-copyright"
+msgstr  "Avtoranoiktusen pidai"
+
+msgid  "exif-exifversion"
+msgstr  "Exif-versii"
+
+msgid  "exif-flashpixversion"
+msgstr  "Pid'oiteldud Flashpix-versii"
+
+msgid  "exif-colorspace"
+msgstr  "Mujuavaruz"
+
+msgid  "exif-componentsconfiguration"
+msgstr  "Mujukomponentoiden konfiguracii"
+
+msgid  "exif-compressedbitsperpixel"
+msgstr  "Mujun süvuz ahtištusen jäl'ghe"
+
+msgid  "exif-pixelydimension"
+msgstr  "Kuvan täuz' korktuz"
+
+msgid  "exif-pixelxdimension"
+msgstr  "Täuz' kuvan korktuz"
+
+msgid  "exif-makernote"
+msgstr  "Tegijan ližaandmused"
+
+msgid  "exif-usercomment"
+msgstr  "Kävutajan homaičendad"
+
+msgid  "exif-relatedsoundfile"
+msgstr  "Kulundkommentarijan fail"
+
+msgid  "exif-datetimeoriginal"
+msgstr  "Todesine dat da aig"
+
+msgid  "exif-datetimedigitized"
+msgstr  "Digitaliziruindan dat da aig"
+
+msgid  "exif-subsectime"
+msgstr  "Failan toižetamižen aigan sekundpalad"
+
+msgid  "exif-subsectimeoriginal"
+msgstr  "Originaližen aigan sekundpalad"
+
+msgid  "exif-subsectimedigitized"
+msgstr  "Digitaliziruindan aigan sekundpalad"
+
+msgid  "exif-exposuretime"
+msgstr  "Ekspozicijan aig"
+
+msgid  "exif-exposuretime-format"
+msgstr  "$1 sek ($2)"
+
+msgid  "exif-fnumber"
+msgstr  "Diafragman lugu"
+
+msgid  "exif-fnumber-format"
+msgstr  "f/$1"
+
+msgid  "exif-exposureprogram"
+msgstr  "Ekspozicijan programm"
+
+msgid  "exif-spectralsensitivity"
+msgstr  "Spektraline mujandmär"
+
+msgid  "exif-isospeedratings"
+msgstr  "ISO vauktusenmujandmär"
+
+msgid  "exif-oecf"
+msgstr  "Optoelectronižen konversijan koefficient"
+
+msgid  "exif-shutterspeedvalue"
+msgstr  "Avaidamižaig"
+
+msgid  "exif-aperturevalue"
+msgstr  "Diafragm"
+
+msgid  "exif-brightnessvalue"
+msgstr  "Loštuz"
+
+msgid  "exif-exposurebiasvalue"
+msgstr  "Ekspozicijan kompensacii"
+
+msgid  "exif-maxaperturevalue"
+msgstr  "Diafragman minimaline lugu"
+
+msgid  "exif-subjectdistance"
+msgstr  "Edahaižuz objekthasai"
+
+msgid  "exif-meteringmode"
+msgstr  "Ekspozicijan märičemižen režim"
+
+msgid  "exif-lightsource"
+msgstr  "Vauktusenlähte"
+
+msgid  "exif-flash"
+msgstr  "Töngahtusen status"
+
+msgid  "exif-focallength"
+msgstr  "Linzan fokusedhuz"
+
+msgid  "exif-subjectarea"
+msgstr  "Objektan sijaduz"
+
+msgid  "exif-flashenergy"
+msgstr  "Töngahtusen energii"
+
+msgid  "exif-spatialfrequencyresponse"
+msgstr  "Avaruzline paksuzline harakteristik"
+
+msgid  "exif-focalplanexresolution"
+msgstr  "Fokalplanan X-tarkoiktuz"
+
+msgid  "exif-focalplaneyresolution"
+msgstr  "Fokal'planan Y-tarkoiktuz"
+
+msgid  "exif-focalplaneresolutionunit"
+msgstr  "Fokal'planan tarkoiktusen ühtnik"
+
+msgid  "exif-subjectlocation"
+msgstr  "Subjektan sijaduz"
+
+msgid  "exif-exposureindex"
+msgstr  "Ekspozicijan index"
+
+msgid  "exif-sensingmethod"
+msgstr  "Sensoran tip"
+
+msgid  "exif-filesource"
+msgstr  "Failan purde"
+
+msgid  "exif-scenetype"
+msgstr  "Scenan tip"
+
+msgid  "exif-cfapattern"
+msgstr  "CFA - mujufil'tran tip"
+
+msgid  "exif-customrendered"
+msgstr  "Ližaradamine"
+
+msgid  "exif-exposuremode"
+msgstr  "Ekspozicijan režiman valičend"
+
+msgid  "exif-whitebalance"
+msgstr  "Vauktan balans"
+
+msgid  "exif-digitalzoomratio"
+msgstr  "Digitaline zum"
+
+msgid  "exif-focallengthin35mmfilm"
+msgstr  "Ekvivalentine fokuskeskust (35-mm fil'man täht)"
+
+msgid  "exif-scenecapturetype"
+msgstr  "Scenan tip kuvadamižen aigan"
+
+msgid  "exif-gaincontrol"
+msgstr  "Loštusen tobnenduz"
+
+msgid  "exif-contrast"
+msgstr  "Kontrast"
+
+msgid  "exif-saturation"
+msgstr  "Mujuküllästuz"
+
+msgid  "exif-sharpness"
+msgstr  "Teravuz"
+
+msgid  "exif-devicesettingdescription"
+msgstr  "Kameran augotižjärgendused"
+
+msgid  "exif-subjectdistancerange"
+msgstr  "Edhuz kuvadusen objekthasai"
+
+msgid  "exif-imageuniqueid"
+msgstr  "Kuvan nomer (ID)"
+
+msgid  "exif-gpsversionid"
+msgstr  "GPS-virgan versii"
+
+msgid  "exif-gpslatituderef"
+msgstr  "Pohjoine leveduz vai suvileveduz"
+
+msgid  "exif-gpslatitude"
+msgstr  "Leveduz"
+
+msgid  "exif-gpslongituderef"
+msgstr  "Päivnouzmpiduz vai päivlaskmpiduz"
+
+msgid  "exif-gpslongitude"
+msgstr  "Piduz"
+
+msgid  "exif-gpsaltituderef"
+msgstr  "Korktusen indeks"
+
+msgid  "exif-gpsaltitude"
+msgstr  "Korktuz"
+
+msgid  "exif-gpstimestamp"
+msgstr  "GPS-aig (atomižed časud)"
+
+msgid  "exif-gpssatellites"
+msgstr  "Kävutadud kaimnikoiden ümbrikirjutand"
+
+msgid  "exif-gpsstatus"
+msgstr  "Saimen status"
+
+msgid  "exif-gpsmeasuremode"
+msgstr  "Märičemižen metod"
+
+msgid  "exif-gpsdop"
+msgstr  "Märičemižen tarkoiktuz"
+
+msgid  "exif-gpsspeedref"
+msgstr  "Piguden ühtnik"
+
+msgid  "exif-gpsspeed"
+msgstr  "GPS-saimen piguz"
+
+msgid  "exif-gpstrackref"
+msgstr  "GPS-sandapparatan azimutan tip (todesine, magnitine)"
+
+msgid  "exif-gpstrack"
+msgstr  "GPS-sandapparatan azimut"
+
+msgid  "exif-gpsimgdirection"
+msgstr  "Kuvan azimut"
+
+msgid  "exif-gpsmapdatum"
+msgstr  "Geodezine koordinatoiden sistem om kävutadud"
+
+msgid  "exif-gpsdestbearing"
+msgstr  "Objektan peleng"
+
+msgid  "exif-gpsdestdistance"
+msgstr  "Keskust metčokkoimhesai"
+
+msgid  "exif-gpsprocessingmethod"
+msgstr  "GPS-lugemižen metod"
+
+msgid  "exif-gpsareainformation"
+msgstr  "GPS-agjan nimi"
+
+msgid  "exif-gpsdatestamp"
+msgstr  "GPS-dat"
+
+msgid  "exif-gpsdifferential"
+msgstr  "GPS-differencialine kohenduz"
+
+msgid  "exif-compression-1"
+msgstr  "Ahtištamatoi"
+
+msgid  "exif-unknowndate"
+msgstr  "Tundmatoi dat"
+
+msgid  "exif-orientation-1"
+msgstr  "Normaline"
+
+msgid  "exif-orientation-2"
+msgstr  "Kuvastadud gorizonaližikš"
+
+msgid  "exif-orientation-3"
+msgstr  "Kätud 180°"
+
+msgid  "exif-orientation-4"
+msgstr  "Kuvastadud vertikalidme"
+
+msgid  "exif-planarconfiguration-1"
+msgstr  "chunky-format"
+
+msgid  "exif-planarconfiguration-2"
+msgstr  "planarformat"
+
+msgid  "exif-componentsconfiguration-0"
+msgstr  "ei ole"
+
+msgid  "exif-exposureprogram-0"
+msgstr  "Märičemata"
+
+msgid  "exif-exposureprogram-1"
+msgstr  "Käzirežim"
+
+msgid  "exif-exposureprogram-2"
+msgstr  "Normaline programm"
+
+msgid  "exif-exposureprogram-4"
+msgstr  "Uudimen prioritet"
+
+msgid  "exif-subjectdistance-value"
+msgstr  "$1 metrad"
+
+msgid  "exif-meteringmode-0"
+msgstr  "Tundmatoi"
+
+msgid  "exif-meteringmode-1"
+msgstr  "Keskmäine"
+
+msgid  "exif-meteringmode-2"
+msgstr  "Keskmäine veduz"
+
+msgid  "exif-meteringmode-3"
+msgstr  "Čokkoimine"
+
+msgid  "exif-meteringmode-4"
+msgstr  "Äičokkoimine"
+
+msgid  "exif-meteringmode-5"
+msgstr  "Matricaline"
+
+msgid  "exif-meteringmode-6"
+msgstr  "Palahine"
+
+msgid  "exif-meteringmode-255"
+msgstr  "Toine"
+
+msgid  "exif-lightsource-0"
+msgstr  "Tundmatoi"
+
+msgid  "exif-lightsource-1"
+msgstr  "Päi"
+
+msgid  "exif-lightsource-2"
+msgstr  "Päilamp"
+
+msgid  "exif-lightsource-3"
+msgstr  "Kalindlamp"
+
+msgid  "exif-lightsource-4"
+msgstr  "Töngahtuz"
+
+msgid  "exif-lightsource-9"
+msgstr  "Poud"
+
+msgid  "exif-lightsource-10"
+msgstr  "Pil'vesine sä"
+
+msgid  "exif-lightsource-11"
+msgstr  "Kuvahaine"
+
+msgid  "exif-lightsource-12"
+msgstr  "Päilamp (tip D 5700 – 7100K)"
+
+msgid  "exif-lightsource-13"
+msgstr  "Päilamp (tip N 4600 – 5400K)"
+
+msgid  "exif-lightsource-14"
+msgstr  "Päilamp (tip W 3900 – 4500K)"
+
+msgid  "exif-lightsource-15"
+msgstr  "Päilamp (tip WW 3200 – 3700K)"
+
+msgid  "exif-lightsource-17"
+msgstr  "Standartine A-tipan vauktusenlähte"
+
+msgid  "exif-lightsource-18"
+msgstr  "Standartine B-tipan vauktusenlähte"
+
+msgid  "exif-lightsource-19"
+msgstr  "Standartine C-tipan vauktusenlähte"
+
+msgid  "exif-lightsource-20"
+msgstr  "D55"
+
+msgid  "exif-lightsource-21"
+msgstr  "D65"
+
+msgid  "exif-lightsource-22"
+msgstr  "D75"
+
+msgid  "exif-lightsource-23"
+msgstr  "D50"
+
+msgid  "exif-lightsource-24"
+msgstr  "ISO-standartan studiilamp"
+
+msgid  "exif-lightsource-255"
+msgstr  "Toine vauktusenlähte"
+
+msgid  "exif-flash-fired-0"
+msgstr  "Töngahtust ei olend."
+
+msgid  "exif-flash-fired-1"
+msgstr  "Töngahtuz"
+
+msgid  "exif-flash-return-0"
+msgstr  "ei ole ezitöngahtusen režimad"
+
+msgid  "exif-flash-return-2"
+msgstr  "ei ole ezitöngahtusen tagazimpul'sad"
+
+msgid  "exif-flash-return-3"
+msgstr  "ezitöngahtusen tagazimpul's om sadud"
+
+msgid  "exif-flash-mode-1"
+msgstr  "täutajan töngahtusen impul's"
+
+msgid  "exif-flash-mode-2"
+msgstr  "täutajan töngahtusen ahtištuz"
+
+msgid  "exif-flash-mode-3"
+msgstr  "avtorežim"
+
+msgid  "exif-flash-function-1"
+msgstr  "Ei ole töngahtust"
+
+msgid  "exif-flash-redeye-1"
+msgstr  "\"rusttan sil'män\"-kohendamižen režim"
+
+msgid  "exif-focalplaneresolutionunit-2"
+msgstr  "düimad"
+
+msgid  "exif-sensingmethod-1"
+msgstr  "Märhapanmatoi"
+
+msgid  "exif-sensingmethod-2"
+msgstr  "Monokristaline mujun sensor"
+
+msgid  "exif-sensingmethod-3"
+msgstr  "Kaks'čipaine mujun sensor"
+
+msgid  "exif-sensingmethod-4"
+msgstr  "Koumečipaine mujun sensor"
+
+msgid  "exif-sensingmethod-7"
+msgstr  "Trilinearine sensor"
+
+msgid  "exif-customrendered-0"
+msgstr  "Normaline process"
+
+msgid  "exif-customrendered-1"
+msgstr  "Ičenaine process"
+
+msgid  "exif-exposuremode-0"
+msgstr  "Avtoekspozicii"
+
+msgid  "exif-exposuremode-1"
+msgstr  "Säta ekspozicijad ičeksaz"
+
+msgid  "exif-exposuremode-2"
+msgstr  "Breketing"
+
+msgid  "exif-whitebalance-0"
+msgstr  "Vauktan avtomatine balans"
+
+msgid  "exif-whitebalance-1"
+msgstr  "Säta vauktan balans ičeksaz"
+
+msgid  "exif-scenecapturetype-0"
+msgstr  "Standartine"
+
+msgid  "exif-scenecapturetype-1"
+msgstr  "Landšaft"
+
+msgid  "exif-scenecapturetype-2"
+msgstr  "Modkuva"
+
+msgid  "exif-scenecapturetype-3"
+msgstr  "Öfotokuva"
+
+msgid  "exif-gaincontrol-0"
+msgstr  "Ei ole"
+
+msgid  "exif-gaincontrol-1"
+msgstr  "Madal tobjenduz"
+
+msgid  "exif-gaincontrol-2"
+msgstr  "Korged tobjenduz"
+
+msgid  "exif-gaincontrol-3"
+msgstr  "Madal penenduz"
+
+msgid  "exif-gaincontrol-4"
+msgstr  "Korged penenduz"
+
+msgid  "exif-contrast-0"
+msgstr  "Normaline"
+
+msgid  "exif-contrast-1"
+msgstr  "Pehmed"
+
+msgid  "exif-contrast-2"
+msgstr  "Kova"
+
+msgid  "exif-saturation-0"
+msgstr  "Normaline"
+
+msgid  "exif-saturation-1"
+msgstr  "Alaküllästuz"
+
+msgid  "exif-saturation-2"
+msgstr  "Üläküllästuz"
+
+msgid  "exif-sharpness-0"
+msgstr  "Normaline"
+
+msgid  "exif-sharpness-1"
+msgstr  "Pehmed"
+
+msgid  "exif-sharpness-2"
+msgstr  "Kova"
+
+msgid  "exif-subjectdistancerange-0"
+msgstr  "Tundmatoi"
+
+msgid  "exif-subjectdistancerange-1"
+msgstr  "Makrokuvaduz"
+
+msgid  "exif-subjectdistancerange-2"
+msgstr  "Lähekuvaduz"
+
+msgid  "exif-subjectdistancerange-3"
+msgstr  "Kuvaduz edahanpäi"
+
+msgid  "exif-gpslatitude-n"
+msgstr  "pohjošt levedust"
+
+msgid  "exif-gpslatitude-s"
+msgstr  "Suvilevedust"
+
+msgid  "exif-gpslongitude-e"
+msgstr  "päivnouzmpidust"
+
+msgid  "exif-gpslongitude-w"
+msgstr  "päivlaskmpidust"
+
+msgid  "exif-gpsstatus-a"
+msgstr  "Märičemine ei ole loptud völ"
+
+msgid  "exif-gpsstatus-v"
+msgstr  "Om vaumiž andmusiden oigendamižeks"
+
+msgid  "exif-gpsmeasuremode-2"
+msgstr  "2-koordinatine märičemine"
+
+msgid  "exif-gpsmeasuremode-3"
+msgstr  "3-koordinatine märičemine"
+
+msgid  "exif-gpsspeed-k"
+msgstr  "km/č"
+
+msgid  "exif-gpsspeed-m"
+msgstr  "milid časus"
+
+msgid  "exif-gpsspeed-n"
+msgstr  "sol'med"
+
+msgid  "exif-gpsdirection-t"
+msgstr  "Todesine oigendamine"
+
+msgid  "exif-gpsdirection-m"
+msgstr  "Magnitine oigendamine"
+
+msgid  "edit-externally"
+msgstr  "Redaktiruida nece fail irdprogrammal"
+
+msgid  "edit-externally-help"
+msgstr  "(Kc. [http://www.mediawiki.org/wiki/Manual:External_editors seižutamižinstrukcijoid])"
+
+msgid  "recentchangesall"
+msgstr  "kaik"
+
+msgid  "imagelistall"
+msgstr  "kaik"
+
+msgid  "watchlistall2"
+msgstr  "kaik"
+
+msgid  "namespacesall"
+msgstr  "kaik"
+
+msgid  "monthsall"
+msgstr  "kaik"
+
+msgid  "limitall"
+msgstr  "kaik"
+
+msgid  "confirmemail"
+msgstr  "Vahvištoitta e-počtan adres"
+
+msgid  "confirmemail_send"
+msgstr  "Oigekat vahvištoitandkod"
+
+msgid  "confirmemail_sent"
+msgstr  "E-počtan adresan vahvištoitandkod om oigetud."
+
+msgid  "confirmemail_invalid"
+msgstr  "Vär vahvištoitandkod.\nKod voiži vanhtuda."
+
+msgid  "confirmemail_needlogin"
+msgstr  "Pidab $1, miše vahvištoitta teiden e-počtan adres."
+
+msgid  "confirmemail_success"
+msgstr  "Teiden e-počtan adres om vahvištoittud.\nNügüd' tö voit [[Special:UserLogin|kirjutadas sistemha]] da rata wikiš."
+
+msgid  "confirmemail_loggedin"
+msgstr  "Teiden e-počtan adres om vahvištoittud."
+
+msgid  "confirmemail_error"
+msgstr  "Teiden e-počtan adresan vahvištoitandan aigan ozaižihe petuz."
+
+msgid  "confirmemail_subject"
+msgstr  "{{SITENAME}}-sait paikičeb teid vahvištoitta teiden e-počtan adres"
+
+msgid  "confirmemail_body"
+msgstr  "Ken-se, voib olda, tö, om sänu \"$2\"-registracijan {{SITENAME}}-saital. Se ristit om kävutanu IP-adresan \"$1\" da necen e-počtan adresan.\n\nMiše vahvištoitta, miše nece om todeks teiden registracii, i vahvištoitta teiden e-počtan adres, mängat necidä kosketustme:\n\n$3\n\nKu tö et olgoi sänuded registracijad {{SITENAME}}-saital, mängat necidä kosketustme, miše  saubata e-počtan adresan vahvištoitand.\n\n$5\n\nNecen vahvištoitandkodan kävutamižen lopstrok om $4."
+
+msgid  "confirmemail_invalidated"
+msgstr  "E-počtan adresan vahvištoitand om keskustadud"
+
+msgid  "invalidateemail"
+msgstr  "Keskustada e-počtan adresan vahvištoitand"
+
+msgid  "scarytranscludedisabled"
+msgstr  "[Interwiki:n täutmine ei ole kävutamas]"
+
+msgid  "scarytranscludefailed"
+msgstr  "[Sidomine $1-šablonha om keskustadud petusen tagut]"
+
+msgid  "scarytranscludetoolong"
+msgstr  "[URL om pit'kähk]"
+
+msgid  "trackbackbox"
+msgstr  "Trackback:ad necen lehtpolen täht:<br />\n$1"
+
+msgid  "trackback"
+msgstr  "; $4 $5: [$2 $1]"
+
+msgid  "trackbackexcerpt"
+msgstr  "; $4 $5: [$2 $1]: <nowiki>$3</nowiki>"
+
+msgid  "trackbackremove"
+msgstr  "([$1 Čuta poiš])"
+
+msgid  "trackbacklink"
+msgstr  "Trekbek"
+
+msgid  "trackbackdeleteok"
+msgstr  "Trekbek om čutud poiš."
+
+msgid  "deletedwhileediting"
+msgstr  "'''Homaikat''': Nece lehtpol' čutihe poiš jälges sidä, konz tö olit toižetaškanuded necidä lehtpol't!"
+
+msgid  "recreate"
+msgstr  "Säta udes"
+
+msgid  "unit-pixel"
+msgstr  "piks."
+
+msgid  "confirm_purge_button"
+msgstr  "OK"
+
+msgid  "confirm-purge-top"
+msgstr  "Puhtastada necen lehtpolen keš?"
+
+msgid  "imgmultipageprev"
+msgstr  "← edeline lehtpol'"
+
+msgid  "imgmultipagenext"
+msgstr  "jäl'ghine lehtpol' →"
+
+msgid  "imgmultigo"
+msgstr  "Mända!"
+
+msgid  "imgmultigoto"
+msgstr  "Mända lehtpolele $1"
+
+msgid  "ascending_abbrev"
+msgstr  "lib."
+
+msgid  "descending_abbrev"
+msgstr  "lask."
+
+msgid  "table_pager_next"
+msgstr  "Jäl'ghine lehtpol'"
+
+msgid  "table_pager_prev"
+msgstr  "Edeline lehtpol'"
+
+msgid  "table_pager_first"
+msgstr  "Ezmäine lehtpol’"
+
+msgid  "table_pager_last"
+msgstr  "Jäl'gmäine lehtpol'"
+
+msgid  "table_pager_limit"
+msgstr  "Ozutada $1 elementad ühtel lehtpolel"
+
+msgid  "table_pager_limit_submit"
+msgstr  "Tehta"
+
+msgid  "table_pager_empty"
+msgstr  "Ei voi löuta nimidä"
+
+msgid  "autosumm-blank"
+msgstr  "Lehtpolen südäimišt om čutud"
+
+msgid  "autosumm-replace"
+msgstr  "Lehtpolen südäimišt om vajehtud '$1'-südäimištoks"
+
+msgid  "autoredircomment"
+msgstr  "Om läbioigetud [[$1]]-lehtpolele"
+
+msgid  "autosumm-new"
+msgstr  "Om sätud uz' lehtpol', kudamban suruz om '$1'"
+
+msgid  "size-bytes"
+msgstr  "$1 b"
+
+msgid  "size-kilobytes"
+msgstr  "$1 kb"
+
+msgid  "size-megabytes"
+msgstr  "$1 mb"
+
+msgid  "size-gigabytes"
+msgstr  "$1 gb"
+
+msgid  "livepreview-loading"
+msgstr  "Ozutase…"
+
+msgid  "livepreview-ready"
+msgstr  "Jügutoitmine… Vaumiž!"
+
+msgid  "livepreview-failed"
+msgstr  "Ei voi kävutada heredad ezikacundad! Kävutagat normaline ezikacund."
+
+msgid  "livepreview-error"
+msgstr  "Ei voi säta sidod saitha: $1 \"$2\".\nKävutagat normaline ezikacund."
+
+msgid  "watchlistedit-numitems"
+msgstr  "Teiden kaclendnimikirjuteses om {{PLURAL:$1|1 kirjutuz|$1 kirjutust}} lodulehtpolita."
+
+msgid  "watchlistedit-noitems"
+msgstr  "Teiden kaclendnimikirjuteses ei ole kirjutusid."
+
+msgid  "watchlistedit-normal-title"
+msgstr  "Redaktiruida kaclendnimikirjutez"
+
+msgid  "watchlistedit-normal-legend"
+msgstr  "Heitta kirjutesid kaclendnimikirjutesespäi"
+
+msgid  "watchlistedit-normal-submit"
+msgstr  "Čuta poiš kirjutesed"
+
+msgid  "watchlistedit-normal-done"
+msgstr  "{{PLURAL:$1|1 kirjutez|$1 kijutest}} om čutud teiden kaclendnimikirjutesespäi:"
+
+msgid  "watchlistedit-raw-title"
+msgstr  "Redaktiruida \"toreh\" keclendnimikirjutez"
+
+msgid  "watchlistedit-raw-legend"
+msgstr  "Redaktiruida \"toreh\" keclendnimikirjutez"
+
+msgid  "watchlistedit-raw-titles"
+msgstr  "Kirjutesed:"
+
+msgid  "watchlistedit-raw-submit"
+msgstr  "Udištada kaclendnimikirjutez"
+
+msgid  "watchlistedit-raw-done"
+msgstr  "Teiden kaclendnimikirjutez om udištadud."
+
+msgid  "watchlistedit-raw-added"
+msgstr  "{{PLURAL:$1|1 kirjutez|$1 kirjutest}} om ližatud:"
+
+msgid  "watchlistedit-raw-removed"
+msgstr  "{{PLURAL:$1|1 kirjutez|$1 kirjutest}} om heittud nimikirjutesespäi:"
+
+msgid  "watchlisttools-view"
+msgstr  "Ozutada toižetused lehtpolil nimikirjutesespäi"
+
+msgid  "watchlisttools-edit"
+msgstr  "Lugeda da redaktiruida nimikirjutez"
+
+msgid  "watchlisttools-raw"
+msgstr  "Redaktiruida kut tekst"
+
+msgid  "iranian-calendar-m1"
+msgstr  "Farvardin"
+
+msgid  "iranian-calendar-m2"
+msgstr  "Ordibehešt"
+
+msgid  "iranian-calendar-m3"
+msgstr  "Hordad"
+
+msgid  "iranian-calendar-m4"
+msgstr  "Tir"
+
+msgid  "iranian-calendar-m5"
+msgstr  "Mordad"
+
+msgid  "iranian-calendar-m6"
+msgstr  "Šahrivar"
+
+msgid  "iranian-calendar-m7"
+msgstr  "Mehr"
+
+msgid  "iranian-calendar-m8"
+msgstr  "Aban"
+
+msgid  "iranian-calendar-m9"
+msgstr  "Azar"
+
+msgid  "iranian-calendar-m10"
+msgstr  "Dei"
+
+msgid  "iranian-calendar-m11"
+msgstr  "Bahman"
+
+msgid  "iranian-calendar-m12"
+msgstr  "Esfand"
+
+msgid  "hijri-calendar-m1"
+msgstr  "Muharram"
+
+msgid  "hijri-calendar-m2"
+msgstr  "Safar"
+
+msgid  "hijri-calendar-m3"
+msgstr  "Rabi al-aual"
+
+msgid  "unknown_extension_tag"
+msgstr  "Tundmatoi \"$1\"-ližanvirg"
+
+msgid  "duplicate-defaultsort"
+msgstr  "'''Varutuz:''' Sortiruindan avadim äugotižjärgendusen mödhe \"$2\" toižetab edeližen avadimen äugotižjärgendusen mödhe \"$1\"."
+
+msgid  "version"
+msgstr  "Versii"
+
+msgid  "version-extensions"
+msgstr  "Seižutadud ližad"
+
+msgid  "version-specialpages"
+msgstr  "Specialižed lehtpoled"
+
+msgid  "version-parserhooks"
+msgstr  "Sintaksižen analizatoran sabustajad"
+
+msgid  "version-variables"
+msgstr  "Vajehtujad lugud"
+
+msgid  "version-skins"
+msgstr  "Nägutemad"
+
+msgid  "version-other"
+msgstr  "Toine"
+
+msgid  "version-mediahandlers"
+msgstr  "Median radimed"
+
+msgid  "version-hooks"
+msgstr  "Sabutajad"
+
+msgid  "version-extension-functions"
+msgstr  "Ližoiden funkcijad"
+
+msgid  "version-parser-extensiontags"
+msgstr  "Sintaksižen analizatoran ližoiden virgad"
+
+msgid  "version-parser-function-hooks"
+msgstr  "Sintaksižen analizatoran funkcijoiden sabutajad"
+
+msgid  "version-skin-extension-functions"
+msgstr  "Irdnäguližoiden funkcijad"
+
+msgid  "version-hook-name"
+msgstr  "Sabustajan nimi"
+
+msgid  "version-hook-subscribedby"
+msgstr  "Ezipakitoitajad"
+
+msgid  "version-version"
+msgstr  "(Versii $1)"
+
+msgid  "version-license"
+msgstr  "Licenzii"
+
+msgid  "version-poweredby-others"
+msgstr  "toižed"
+
+msgid  "version-software"
+msgstr  "Seižutadud programmišt"
+
+msgid  "version-software-product"
+msgstr  "Produkt"
+
+msgid  "version-software-version"
+msgstr  "Versii"
+
+msgid  "filepath"
+msgstr  "Te failannoks"
+
+msgid  "filepath-page"
+msgstr  "Fail:"
+
+msgid  "filepath-submit"
+msgstr  "Te"
+
+msgid  "fileduplicatesearch"
+msgstr  "Ectä kaksitadud failad"
+
+msgid  "fileduplicatesearch-summary"
+msgstr  "Ühtejiččiden failoiden ecmine niiden heš-kodan mödhe.\n\nKirjutagat failan nimi «{{ns:file}}:»-pkefiksata."
+
+msgid  "fileduplicatesearch-legend"
+msgstr  "Ectä dublikatoid"
+
+msgid  "fileduplicatesearch-filename"
+msgstr  "Failannimi:"
+
+msgid  "fileduplicatesearch-submit"
+msgstr  "Ectä"
+
+msgid  "fileduplicatesearch-info"
+msgstr  "$1 × $2 pikselad<br />Failan suruz: $3<br />MIME-tip: $4"
+
+msgid  "fileduplicatesearch-result-1"
+msgstr  "\"$1\"-failal ei ole identižid dublikatoid."
+
+msgid  "fileduplicatesearch-result-n"
+msgstr  "\"$1\"-failal om {{PLURAL:$2|1 identine kopii|$2 identišt kopijad}}."
+
+msgid  "specialpages"
+msgstr  "Specialižed lehtpoled"
+
+msgid  "specialpages-note"
+msgstr  "----\n* Järgeližed specialižed lehtpoled.\n* <strong class=\"mw-specialpagerestricted\">Kaitud specialižed lehtpoled.</strong>"
+
+msgid  "specialpages-group-maintenance"
+msgstr  "Tehnižen holitandan satusenladindad"
+
+msgid  "specialpages-group-other"
+msgstr  "Toižed specialižed lehtpoled"
+
+msgid  "specialpages-group-login"
+msgstr  "Kirjutadas sistemha / Sada registracii"
+
+msgid  "specialpages-group-changes"
+msgstr  "Tantoižed toižetused da aigkirjad"
+
+msgid  "specialpages-group-media"
+msgstr  "Media: satusenladindad da jügutoitand"
+
+msgid  "specialpages-group-users"
+msgstr  "Kävutajad da oiktused"
+
+msgid  "specialpages-group-highuse"
+msgstr  "Intensivižešti kävutadud lehtpoled"
+
+msgid  "specialpages-group-pages"
+msgstr  "Lehtpoliden nimikirjutesed"
+
+msgid  "specialpages-group-pagetools"
+msgstr  "Azegišt lehtpoliden täht"
+
+msgid  "specialpages-group-wiki"
+msgstr  "Wiki-andmused da azegišt"
+
+msgid  "specialpages-group-redirects"
+msgstr  "Oigendajad specialižed lehtpoled"
+
+msgid  "specialpages-group-spam"
+msgstr  "Azeged spaman vaste"
+
+msgid  "blankpage"
+msgstr  "Puhtaz lehtpol'"
+
+msgid  "intentionallyblankpage"
+msgstr  "Nece lehtpol' om jättud puhthaks tahtonke."
+
+msgid  "external_image_whitelist"
+msgstr  "  #Jätkat nece rivi kändmatoman<pre>\n#Sijakat tänna regulärižiden kuvandoiden fragmentad (vaiše //-znamoiden keskpala)\n#Ned korreliruitadas irdkuviden URLoidenke\n#Sättujad ozutadas kuvil, toižed - kut kosketused kuvile\n#Rived, kudambiden augoitšes oma #-znamad, ozutadas kut kommentarijad\n#Rived mujadas registrad\n\n#Sijakat regulärižiden kuvandoiden fragmentad necen riven päle. Jätkat nece rivi kändmatoman</pre>"
+
+msgid  "tags"
+msgstr  "Aktualižed toižetusiden vestatesed"
+
+msgid  "tag-filter"
+msgstr  "[[Special:Tags|Vestatesiden]] fil'tr:"
+
+msgid  "tag-filter-submit"
+msgstr  "Fil'tr"
+
+msgid  "tags-title"
+msgstr  "Virgad"
+
+msgid  "tags-intro"
+msgstr  "Necil lehtpolel om virgoiden nimikirj i neniden virgoiden znamoičendad. Programmad znamoitas virgoil toižetusid."
+
+msgid  "tags-tag"
+msgstr  "Tegan (virgan) nimi"
+
+msgid  "tags-display-header"
+msgstr  "Nägu toižetisiden aigkirjoiš"
+
+msgid  "tags-description-header"
+msgstr  "Znamoičendan täuz' ümbrikirjutand"
+
+msgid  "tags-hitcount-header"
+msgstr  "Virgastadud redakcijad"
+
+msgid  "tags-edit"
+msgstr  "redaktiruida"
+
+msgid  "tags-hitcount"
+msgstr  "$1 {{PLURAL:$1|toižetuz|toižetust}}"
+
+msgid  "comparepages"
+msgstr  "Lehtpoliden rindatuz"
+
+msgid  "compare-selector"
+msgstr  "Lehtpoliden versijoiden rindatuz"
+
+msgid  "compare-page1"
+msgstr  "Ezmäine lehtpol'"
+
+msgid  "compare-page2"
+msgstr  "Toine lehtpol'"
+
+msgid  "compare-rev1"
+msgstr  "Ezmäine versii"
+
+msgid  "compare-rev2"
+msgstr  "Toine versii"
+
+msgid  "compare-submit"
+msgstr  "Rindatada"
+
+msgid  "dberr-header"
+msgstr  "Necil wikil om problemoid"
+
+msgid  "dberr-problems"
+msgstr  "Pakičem armahtust! Necil saital om tehnižid problemoid."
+
+msgid  "dberr-again"
+msgstr  "Varastagat pordon aigad da udištagat lehtpol'."
+
+msgid  "dberr-info"
+msgstr  "(Ei voi säta sidod admusiden baziden serveranke: $1)"
+
+msgid  "dberr-usegoogle"
+msgstr  "Täl aigal tö voit ectä Google'an abul."
+
+msgid  "dberr-outofdate"
+msgstr  "Google'an indeks voib olda vanhtunuden."
+
+msgid  "dberr-cachederror"
+msgstr  "Naku om ectud lehtpolen keširuidud versii. Voib olda, siš ei ole tantoižid toižetusid."
+
+msgid  "htmlform-invalid-input"
+msgstr  "Erasil teil anttud andmusil om problem"
+
+msgid  "htmlform-select-badoption"
+msgstr  "Teil anttud znamoičend ei ole lasktud."
+
+msgid  "htmlform-int-invalid"
+msgstr  "Teil anttud znamoičend ei ole kogonaine lugu."
+
+msgid  "htmlform-float-invalid"
+msgstr  "Teil anttud znamoičend ei ole lugu."
+
+msgid  "htmlform-int-toolow"
+msgstr  "Teil znamoitud znamoičend om madalamb minimališt - $1"
+
+msgid  "htmlform-int-toohigh"
+msgstr  "Teil znamoitud znamoičend om korktemb maksikališt - $1"
+
+msgid  "htmlform-submit"
+msgstr  "Oigeta"
+
+msgid  "htmlform-reset"
+msgstr  "Tühjitada toižetused"
+
+msgid  "htmlform-selectorother-other"
+msgstr  "Toine"
+
+msgid  "sqlite-no-fts"
+msgstr  " $1 täuz'tekstaižen ecindan tügedamižeta"
+
+msgid  "wm-license-cc-attribution"
+msgstr  "Avtoran nimi"
+
+msgid  "wm-license-information-description"
+msgstr  "Ümbrikirjutand"
+
+msgid  "wm-license-information-source"
+msgstr  "Purde"
+
+msgid  "wm-license-information-date"
+msgstr  "Dat"
+
+msgid  "wm-license-information-author"
+msgstr  "Avtor"
+

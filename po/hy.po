@@ -1,0 +1,5577 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "#ՎԵՐԱՀՂՈՒՄ"
+msgstr "#REDIRECT"
+
+msgid  "__ԱՌԱՆՑ_ԲՈՎ__"
+msgstr "__NOTOC__"
+
+msgid  "__ԱՌԱՆՑ_ՍՐԱՀԻ__"
+msgstr "__NOGALLERY__"
+
+msgid  "__ՍՏԻՊԵԼ_ԲՈՎ__"
+msgstr "__FORCETOC__"
+
+msgid  "__ԲՈՎ__"
+msgstr "__TOC__"
+
+msgid  "__ԱՌԱՆՑ_ԲԱԺՆԻ_ԽՄԲԱԳՐՄԱՆ__"
+msgstr "__NOEDITSECTION__"
+
+msgid  "ԸՆԹԱՑԻՔ_ԱՄԻՍԸ"
+msgstr "CURRENTMONTH2"
+
+msgid  "CURRENTMONTH"
+msgstr "CURRENTMONTH2"
+
+msgid  "ԸՆԹԱՑԻՔ_ԱՄՍՎԱ_ԱՆՈՒՆԸ"
+msgstr "CURRENTMONTHNAME"
+
+msgid  "ԸՆԹԱՑԻՔ_ԱՄՍՎԱ_ԱՆՈՒՆԸ_ՍԵՌ"
+msgstr "CURRENTMONTHNAMEGEN"
+
+msgid  "ԸՆԹԱՑԻՔ_ԱՄՍՎԱ_ԱՆՎԱՆ_ՀԱՊԱՎՈՒՄԸ"
+msgstr "CURRENTMONTHABBREV"
+
+msgid  "ԸՆԹԱՑԻՔ_ՕՐԸ"
+msgstr "CURRENTDAY"
+
+msgid  "ԸՆԹԱՑԻՔ_ՕՐԸ_2"
+msgstr "CURRENTDAY2"
+
+msgid  "ԸՆԹԱՑԻՔ_ՕՐՎԱ_ԱՆՈՒՆԸ"
+msgstr "CURRENTDAYNAME"
+
+msgid  "ԸՆԹԱՑԻՔ_ՏԱՐԻՆ"
+msgstr "CURRENTYEAR"
+
+msgid  "ԸՆԹԱՑԻՔ_ԺԱՄԱՆԱԿԸ"
+msgstr "CURRENTTIME"
+
+msgid  "ԸՆԹԱՑԻՔ_ԺԱՄԸ"
+msgstr "CURRENTHOUR"
+
+msgid  "ՏԵՂԱԿԱՆ_ԱՄԻՍԸ"
+msgstr "LOCALMONTH2"
+
+msgid  "LOCALMONTH"
+msgstr "LOCALMONTH2"
+
+msgid  "ՏԵՂԱԿԱՆ_ԱՄՍՎԱ_ԱՆՈՒՆԸ"
+msgstr "LOCALMONTHNAME"
+
+msgid  "ՏԵՂԱԿԱՆ_ԱՄՍՎԱ_ԱՆՈՒՆԸ_ՍԵՌ"
+msgstr "LOCALMONTHNAMEGEN"
+
+msgid  "ՏԵՂԱԿԱՆ_ԱՄՍՎԱ_ԱՆՎԱՆ_ՀԱՊԱՎՈՒՄԸ"
+msgstr "LOCALMONTHABBREV"
+
+msgid  "ՏԵՂԱԿԱՆ_ՕՐԸ"
+msgstr "LOCALDAY"
+
+msgid  "ՏԵՂԱԿԱՆ_ՕՐԸ_2"
+msgstr "LOCALDAY2"
+
+msgid  "ՏԵՂԱԿԱՆ_ՕՐՎԱ_ԱՆՈՒՆԸ"
+msgstr "LOCALDAYNAME"
+
+msgid  "ՏԵՂԱԿԱՆ_ՏԱՐԻՆ"
+msgstr "LOCALYEAR"
+
+msgid  "ՏԵՂԱԿԱՆ_ԺԱՄԱՆԱԿԸ"
+msgstr "LOCALTIME"
+
+msgid  "ՏԵՂԱԿԱՆ_ԺԱՄԸ"
+msgstr "LOCALHOUR"
+
+msgid  "ԷՋԵՐԻ_ՔԱՆԱԿԸ"
+msgstr "NUMBEROFPAGES"
+
+msgid  "ՀՈԴՎԱԾՆԵՐԻ_ՔԱՆԱԿԸ"
+msgstr "NUMBEROFARTICLES"
+
+msgid  "ՖԱՅԼԵՐԻ_ՔԱՆԱԿԸ"
+msgstr "NUMBEROFFILES"
+
+msgid  "ՄԱՍՆԱԿԻՑՆԵՐԻ_ՔԱՆԱԿԸ"
+msgstr "NUMBEROFUSERS"
+
+msgid  "ԷՋԻ_ԱՆՈՒՆԸ"
+msgstr "PAGENAME"
+
+msgid  "ԷՋԻ_ԱՆՈՒՆԸ_2"
+msgstr "PAGENAMEE"
+
+msgid  "ԱՆՎԱՆԱՏԱՐԱԾՔ"
+msgstr "NAMESPACE"
+
+msgid  "ԱՆՎԱՆԱՏԱՐԱԾՔ_2"
+msgstr "NAMESPACEE"
+
+msgid  "ՔՆՆԱՐԿՄԱՆ_ՏԱՐԱԾՔԸ"
+msgstr "TALKSPACE"
+
+msgid  "ՔՆՆԱՐԿՄԱՆ_ՏԱՐԱԾՔԸ_2"
+msgstr "TALKSPACEE"
+
+msgid  "ՀՈԴՎԱԾՆԵՐԻ_ՏԱՐԱԾՔԸ"
+msgstr "ARTICLESPACE"
+
+msgid  "SUBJECTSPACE"
+msgstr "ARTICLESPACE"
+
+msgid  "ՀՈԴՎԱԾՆԵՐԻ_ՏԱՐԱԾՔԸ_2"
+msgstr "ARTICLESPACEE"
+
+msgid  "SUBJECTSPACEE"
+msgstr "ARTICLESPACEE"
+
+msgid  "ARTICLESPACE"
+msgstr "FULLPAGENAME"
+
+msgid  "ԷՋԻ_ԼՐԻՎ_ԱՆՎԱՆՈՒՄԸ"
+msgstr "FULLPAGENAME"
+
+msgid  "ԷՋԻ_ԼՐԻՎ_ԱՆՎԱՆՈՒՄԸ_2"
+msgstr "FULLPAGENAMEE"
+
+msgid  "ԵՆԹԱԷՋԻ_ԱՆՎԱՆՈՒՄԸ"
+msgstr "SUBPAGENAME"
+
+msgid  "ԵՆԹԱԷՋԻ_ԱՆՎԱՆՈՒՄԸ_2"
+msgstr "SUBPAGENAMEE"
+
+msgid  "ՀԻՄՆԱԿԱՆ_ԷՋԻ_ԱՆՎԱՆՈՒՄԸ"
+msgstr "BASEPAGENAME"
+
+msgid  "ՀԻՄՆԱԿԱՆ_ԷՋԻ_ԱՆՎԱՆՈՒՄԸ_2"
+msgstr "BASEPAGENAMEE"
+
+msgid  "ՔՆՆԱՐԿՄԱՆ_ԷՋԻ_ԱՆՎԱՆՈՒՄԸ"
+msgstr "TALKPAGENAME"
+
+msgid  "ՔՆՆԱՐԿՄԱՆ_ԷՋԻ_ԱՆՎԱՆՈՒՄԸ_2"
+msgstr "TALKPAGENAMEE"
+
+msgid  "ՀՈԴՎԱԾԻ_ԷՋԻ_ԱՆՎԱՆՈՒՄԸ"
+msgstr "ARTICLEPAGENAME"
+
+msgid  "SUBJECTPAGENAME"
+msgstr "ARTICLEPAGENAME"
+
+msgid  "ՀՈԴՎԱԾԻ_ԷՋԻ_ԱՆՎԱՆՈՒՄԸ_2"
+msgstr "ARTICLEPAGENAMEE"
+
+msgid  "SUBJECTPAGENAMEE"
+msgstr "ARTICLEPAGENAMEE"
+
+msgid  "ՀՈՂՈՐԴ՝"
+msgstr "MSG:"
+
+msgid  "ՀՈՂՈՐԴ_ԱՌԱՆՑ_ՎԻՔԻԻ՝"
+msgstr "MSGNW:"
+
+msgid  "մինի"
+msgstr "thumb"
+
+msgid  "thumbnail"
+msgstr "thumb"
+
+msgid  "մինի=$1"
+msgstr "thumb=$1"
+
+msgid  "thumbnail=$1"
+msgstr "thumb=$1"
+
+msgid  "աջից"
+msgstr "right"
+
+msgid  "ձախից"
+msgstr "left"
+
+msgid  "առանց"
+msgstr "none"
+
+msgid  "$1փքս"
+msgstr "$1px"
+
+msgid  "կենտրոն"
+msgstr "centre"
+
+msgid  "center"
+msgstr "centre"
+
+msgid  "շրջափակել"
+msgstr "frame"
+
+msgid  "framed"
+msgstr "frame"
+
+msgid  "enframed"
+msgstr "frame"
+
+msgid  "էջը=$1"
+msgstr "page $1"
+
+msgid  "էջ $1"
+msgstr "page $1"
+
+msgid  "page=$1"
+msgstr "page $1"
+
+msgid  "ՆԵՐՔ՝"
+msgstr "INT:"
+
+msgid  "ԿԱՅՔԻ_ԱՆՈՒՆԸ"
+msgstr "SITENAME"
+
+msgid  "ԱՏ՝"
+msgstr "NS:"
+
+msgid  "ՏԵՂԱԿԱՆ_ՀԱՍՑԵՆ՝"
+msgstr "LOCALURL:"
+
+msgid  "ՏԵՂԱԿԱՆ_ՀԱՍՑԵՆ_2՝"
+msgstr "LOCALURLE:"
+
+msgid  "ՍԵՐՎԵՐԸ"
+msgstr "SERVER"
+
+msgid  "ՍԵՐՎԵՐԻ_ԱՆՈՒՆԸ"
+msgstr "SERVERNAME"
+
+msgid  "ՍՔՐԻՊՏԻ_ՃԱՆԱՊԱՐՀԸ"
+msgstr "SCRIPTPATH"
+
+msgid  "ՀՈԼՈՎ՛"
+msgstr "GRAMMAR:"
+
+msgid  "__ԱՌԱՆՑ_ՎԵՐՆԱԳՐԻ_ՓՈՓՈԽՄԱՆ__"
+msgstr "__NOTC__"
+
+msgid  "__NOTITLECONVERT__"
+msgstr "__NOTC__"
+
+msgid  "__ԱՌԱՆՑ_ՊԱՐՈՒՆԱԿՈՒԹՅԱՆ_ՓՈՓՈԽՄԱՆ__"
+msgstr "__NOCC__"
+
+msgid  "__NOCONTENTCONVERT__"
+msgstr "__NOCC__"
+
+msgid  "ԸՆԹԱՑԻՔ_ՇԱԲԱԹԸ"
+msgstr "CURRENTWEEK"
+
+msgid  "ԸՆԹԱՑԻՔ_ՇԱԲԱԹՎԱ_ՕՐԸ"
+msgstr "CURRENTDOW"
+
+msgid  "ՏԵՂԱԿԱՆ_ՇԱԲԱԹՎԸ"
+msgstr "LOCALWEEK"
+
+msgid  "ՏԵՂԱԿԱՆ_ՇԱԲԱԹՎԱ_ՕՐԸ"
+msgstr "LOCALDOW"
+
+msgid  "ՏԱՐԲԵՐԱԿԻ_ՀԱՄԱՐԸ"
+msgstr "REVISIONID"
+
+msgid  "ՏԱՐԲԵՐԱԿԻ_ՕՐԸ"
+msgstr "REVISIONDAY"
+
+msgid  "ՏԱՐԲԵՐԱԿԻ_ՕՐԸ_2"
+msgstr "REVISIONDAY2"
+
+msgid  "ՏԱՐԲԵՐԱԿԻ_ԱՄԻՍԸ"
+msgstr "REVISIONMONTH"
+
+msgid  "ՏԱՐԲԵՐԱԿԻ_ՏԱՐԻՆ"
+msgstr "REVISIONYEAR"
+
+msgid  "ՀՈԳՆԱԿԻ՝"
+msgstr "PLURAL:"
+
+msgid  "ԼՐԻՎ_ՀԱՍՑԵՆ՝"
+msgstr "FULLURL:"
+
+msgid  "ԼՐԻՎ_ՀԱՍՑԵՆ_2՝"
+msgstr "FULLURLE:"
+
+msgid  "ՓՈՔՐԱՏԱՌ_ՍԿԶԲՆԱՏԱՌ՝"
+msgstr "LCFIRST:"
+
+msgid  "ՄԵԾԱՏԱՌ_ՍԿԶԲՆԱՏԱՌ՝"
+msgstr "UCFIRST:"
+
+msgid  "ՓՈՔՐԱՏԱՌ՝"
+msgstr "LC:"
+
+msgid  "ՄԵԾԱՏԱՌ՝"
+msgstr "UC:"
+
+msgid  "ՑՈՒՅՑ_ՏԱԼ_ՎԵՐՆԱԳԻՐԸ"
+msgstr "DISPLAYTITLE"
+
+msgid  "Չ"
+msgstr "R"
+
+msgid  "__ՀՂՈՒՄ_ՆՈՐ_ԲԱԺՆԻ_ՎՐԱ__"
+msgstr "__NEWSECTIONLINK__"
+
+msgid  "ԸՆԹԱՑԻՔ_ՏԱՐԲԵՐԱԿԸ"
+msgstr "CURRENTVERSION"
+
+msgid  "ՄՇԱԿՎԱԾ_ՀԱՍՑԵ՛"
+msgstr "URLENCODE:"
+
+msgid  "ԸՆԹԱՑԻՔ_ԺԱՄԱՆԱԿԻ_ԴՐՈՇՄ"
+msgstr "CURRENTTIMESTAMP"
+
+msgid  "ՏԵՂԱԿԱՆ_ԺԱՄԱՆԱԿԻ_ԴՐՈՇՄ"
+msgstr "LOCALTIMESTAMP"
+
+msgid  "ՆԱՄԱԿԻ_ՈՒՂՂՈՒԹՅՈՒՆԸ"
+msgstr "DIRMARK"
+
+msgid  "DIRECTIONMARK"
+msgstr "DIRMARK"
+
+msgid  "#ԼԵԶՈՒ՝"
+msgstr "#LANGUAGE:"
+
+msgid  "ՊԱՐՈՒՆԱԿՈՒԹՅԱՆ_ԼԵԶՈՒՆ"
+msgstr "CONTENTLANG"
+
+msgid  "CONTENTLANGUAGE"
+msgstr "CONTENTLANG"
+
+msgid  "ԷՋԵՐ_ԱՆՎԱՆԱՏԱՐԱԾՔՈՒՄ՝"
+msgstr "PAGESINNS:"
+
+msgid  "PAGESINNAMESPACE:"
+msgstr "PAGESINNS:"
+
+msgid  "ԱԴՄԻՆՆԵՐԻ_ՔԱՆԱԿԸ"
+msgstr "NUMBEROFADMINS"
+
+msgid  "ՁԵՎԵԼ_ԹԻՎԸ"
+msgstr "FORMATNUM"
+
+msgid  "ԼՐԱՑՆԵԼ_ՁԱԽԻՑ"
+msgstr "PADLEFT"
+
+msgid  "ԼՐԱՑՆԵԼ_ԱՋԻՑ"
+msgstr "PADRIGHT"
+
+msgid  "սպասարկող"
+msgstr "special"
+
+msgid  "ԼՌՈՒԹՅԱՄԲ_ԴԱՍԱՎՈՐՈՒՄ՝"
+msgstr "DEFAULTCATEGORYSORT:"
+
+msgid  "DEFAULTSORT:"
+msgstr "DEFAULTCATEGORYSORT:"
+
+msgid  "DEFAULTSORTKEY:"
+msgstr "DEFAULTCATEGORYSORT:"
+
+msgid  "tog-underline"
+msgstr  "ընդգծել հղումները՝"
+
+msgid  "tog-highlightbroken"
+msgstr  "Ցույց տալ չգործող հղումները <a href=\"\" class=\"new\">այսպես</a> (այլապես՝ այսպես<a href=\"\" class=\"internal\">(՞)</a>)։"
+
+msgid  "tog-justify"
+msgstr  "Հավասարացնել տեքստը էջի լայնությամբ"
+
+msgid  "tog-hideminor"
+msgstr  "Թաքցնել չնչին խմբագրումները վերջին փոփոխությունների ցանկից"
+
+msgid  "tog-hidepatrolled"
+msgstr  "Թաքցնել պարեկված խմբագրումները վերջին փոփոխությունների ցանկից"
+
+msgid  "tog-newpageshidepatrolled"
+msgstr  "Թաքցնել պարեկված էջերը նոր էջերի ցանկից"
+
+msgid  "tog-extendwatchlist"
+msgstr  "Ընդարձակել հսկացանկը՝ ցույց տալով բոլոր փոփոխությունները, այլ ոչ միայն վերջինները"
+
+msgid  "tog-usenewrc"
+msgstr  "Օգտագործել վերջին փոփոխությունների լավացված ցանկ (պահանջում է JavaScript)"
+
+msgid  "tog-numberheadings"
+msgstr  "Ինքնաթվագրել վերնագրերը"
+
+msgid  "tog-showtoolbar"
+msgstr  "Ցույց տալ խմբագրումների գործիքների վահանակը (JavaScript)"
+
+msgid  "tog-editondblclick"
+msgstr  "Խմբագրել էջերը կրկնակի մատնահարմամբ (JavaScript)"
+
+msgid  "tog-editsection"
+msgstr  "Ցույց տալ [խմբագրել] հղումը ամեն բաժնի համար"
+
+msgid  "tog-editsectiononrightclick"
+msgstr  "Խմբագրել բաժինները վերնագրի աջ մատնահարմամբ (JavaScript)"
+
+msgid  "tog-showtoc"
+msgstr  "Ցույց տալ բովանդակությունը (3  կամ ավել վերնագրեր ունեցող էջերի համար)"
+
+msgid  "tog-rememberpassword"
+msgstr  "Հիշել իմ մասնակցի հաշիվը այս համակարգչում (for a maximum of $1 {{PLURAL:$1|day|days}})"
+
+msgid  "tog-watchcreations"
+msgstr  "Ավելացնել իմ ստեղծած էջերը հսկացանկին"
+
+msgid  "tog-watchdefault"
+msgstr  "Ավելացնել իմ խմբագրած էջերը հսկացանկին"
+
+msgid  "tog-watchmoves"
+msgstr  "Ավելացնել իմ տեղափոխած էջերը հսկացանկին"
+
+msgid  "tog-watchdeletion"
+msgstr  "Ավելացնել իմ ջնջած էջերը հսկացանկին"
+
+msgid  "tog-minordefault"
+msgstr  "Նշել խմբագրումները որպես չնչին ըստ լռության"
+
+msgid  "tog-previewontop"
+msgstr  "Ցույց տալ նախադիտումը խմբագրման դաշտից առաջ"
+
+msgid  "tog-previewonfirst"
+msgstr  "Նախադիտել մինչև առաջին խմբագրությունը"
+
+msgid  "tog-nocache"
+msgstr  "Արգելել էջերի գրանցումը հիշողության մեջ"
+
+msgid  "tog-enotifwatchlistpages"
+msgstr  "էլ-փոստով տեղեկացնել հսկվող էջերում փոփոխությունների մասին"
+
+msgid  "tog-enotifusertalkpages"
+msgstr  "էլ-փոստով տեղեկացնել իմ քննարկման էջի փոփոխության մասին"
+
+msgid  "tog-enotifminoredits"
+msgstr  "էլ-փոստով տեղեկացնել էջերի նաև չնչին խմբագրումների մասին"
+
+msgid  "tog-enotifrevealaddr"
+msgstr  "Ցույց տալ իմ էլ-փոստի հասցեն ծանուցման նամակներում"
+
+msgid  "tog-shownumberswatching"
+msgstr  "Ցույց տալ էջ հսկող մասնակիցների թիվը"
+
+msgid  "tog-oldsig"
+msgstr  "Առկա ստորագրության նախադիտում."
+
+msgid  "tog-fancysig"
+msgstr  "Ստորագրությունը վիքիտեքստի տեսքով (առանց ավտոմատ հղման)"
+
+msgid  "tog-externaleditor"
+msgstr  "Օգտագործել արտաքին խմբագրիչ ըստ լռության (պահանջում է հատուկ նախընտրություններ ձեր համակարգչում)"
+
+msgid  "tog-externaldiff"
+msgstr  "Օգտագործել տարբերակների համեմատման արտաքին ծրագիր ըստ լռության (պահանջում է հատուկ նախընտրություններ ձեր համակարգչում)"
+
+msgid  "tog-showjumplinks"
+msgstr  "Միացնել «անցնել դեպի» օգնական հղումները"
+
+msgid  "tog-uselivepreview"
+msgstr  "Օգտագործել ուղիղ նախադիտում (JavaScript) (Փորձնական)"
+
+msgid  "tog-forceeditsummary"
+msgstr  "Նախազգուշացնել փոփոխությունների ամփոփումը դատարկ թողնելու մասին"
+
+msgid  "tog-watchlisthideown"
+msgstr  "Թաքցնել իմ խմբագրումները հսկացանկից"
+
+msgid  "tog-watchlisthidebots"
+msgstr  "Թաքցնել բոտերի խմբագրումները հսկացանկից"
+
+msgid  "tog-watchlisthideminor"
+msgstr  "Թաքցնել չնչին խմբագրումները հսկացանկից"
+
+msgid  "tog-watchlisthideliu"
+msgstr  "Թաքցնել մուտք գործած մասնակիցների խմբագրումները հսկացանկից"
+
+msgid  "tog-watchlisthideanons"
+msgstr  "Թաքցնել անանուն մասնակիցների խմբագրումները հսկացանկից"
+
+msgid  "tog-watchlisthidepatrolled"
+msgstr  "Թաքցնել պարեկված խմբագրումները հսկացանկից"
+
+msgid  "tog-nolangconversion"
+msgstr  "Անջատել գրի համակարգի փոփոխումը"
+
+msgid  "tog-ccmeonemails"
+msgstr  "Ուղարկել ինձ իմ կողմից մյուս մասնակիցներին ուղարկված նամակների պատճեններ"
+
+msgid  "tog-diffonly"
+msgstr  "Չցուցադրել էջի պարունակությունը տարբերությունների ներքևից"
+
+msgid  "tog-showhiddencats"
+msgstr  "Ցուցադրել թաքնված կատեգորիաները"
+
+msgid  "tog-norollbackdiff"
+msgstr  "Չցուցադրել տարբերությունները հետ գլորելուց հետո"
+
+msgid  "underline-always"
+msgstr  "Միշտ"
+
+msgid  "underline-never"
+msgstr  "Երբեք"
+
+msgid  "underline-default"
+msgstr  "Օգտագործել զննարկիչի նախընտրությունները"
+
+msgid  "editfont-style"
+msgstr  "Խմբագրման շրջանի տառատեսակի ձևը."
+
+msgid  "editfont-default"
+msgstr  "Զննարկիչի լռելյայն տառատեսակը"
+
+msgid  "editfont-monospace"
+msgstr  "Միալայն տառատեսակ"
+
+msgid  "editfont-sansserif"
+msgstr  "Սանս-սերիֆ տառատեսակ"
+
+msgid  "editfont-serif"
+msgstr  "Սերիֆ տառատեսակ"
+
+msgid  "sunday"
+msgstr  "Կիրակի"
+
+msgid  "monday"
+msgstr  "Երկուշաբթի"
+
+msgid  "tuesday"
+msgstr  "Երեքշաբթի"
+
+msgid  "wednesday"
+msgstr  "Չորեքշաբթի"
+
+msgid  "thursday"
+msgstr  "Հինգշաբթի"
+
+msgid  "friday"
+msgstr  "Ուրբաթ"
+
+msgid  "saturday"
+msgstr  "Շաբաթ"
+
+msgid  "sun"
+msgstr  "Կիր"
+
+msgid  "mon"
+msgstr  "Երկ"
+
+msgid  "tue"
+msgstr  "Երե"
+
+msgid  "wed"
+msgstr  "Չոր"
+
+msgid  "thu"
+msgstr  "Հին"
+
+msgid  "fri"
+msgstr  "Ուրբ"
+
+msgid  "sat"
+msgstr  "Շաբ"
+
+msgid  "january"
+msgstr  "Հունվար"
+
+msgid  "february"
+msgstr  "Փետրվար"
+
+msgid  "march"
+msgstr  "Մարտ"
+
+msgid  "april"
+msgstr  "Ապրիլ"
+
+msgid  "may_long"
+msgstr  "Մայիս"
+
+msgid  "june"
+msgstr  "Հունիս"
+
+msgid  "july"
+msgstr  "Հուլիս"
+
+msgid  "august"
+msgstr  "Օգոստոս"
+
+msgid  "september"
+msgstr  "Սեպտեմբեր"
+
+msgid  "october"
+msgstr  "Հոկտեմբեր"
+
+msgid  "november"
+msgstr  "Նոյեմբեր"
+
+msgid  "december"
+msgstr  "Դեկտեմբեր"
+
+msgid  "january-gen"
+msgstr  "Հունվարի"
+
+msgid  "february-gen"
+msgstr  "Փետրվարի"
+
+msgid  "march-gen"
+msgstr  "Մարտի"
+
+msgid  "april-gen"
+msgstr  "Ապրիլի"
+
+msgid  "may-gen"
+msgstr  "Մայիսի"
+
+msgid  "june-gen"
+msgstr  "Հունիսի"
+
+msgid  "july-gen"
+msgstr  "Հուլիսի"
+
+msgid  "august-gen"
+msgstr  "Օգոստոսի"
+
+msgid  "september-gen"
+msgstr  "Սեպտեմբերի"
+
+msgid  "october-gen"
+msgstr  "Հոկտեմբերի"
+
+msgid  "november-gen"
+msgstr  "Նոյեմբերի"
+
+msgid  "december-gen"
+msgstr  "Դեկտեմբերի"
+
+msgid  "jan"
+msgstr  "հունվ"
+
+msgid  "feb"
+msgstr  "փետ"
+
+msgid  "mar"
+msgstr  "մար"
+
+msgid  "apr"
+msgstr  "ապր"
+
+msgid  "may"
+msgstr  "մայ"
+
+msgid  "jun"
+msgstr  "հուն"
+
+msgid  "jul"
+msgstr  "հուլ"
+
+msgid  "aug"
+msgstr  "օգո"
+
+msgid  "sep"
+msgstr  "սեպ"
+
+msgid  "oct"
+msgstr  "հոկ"
+
+msgid  "nov"
+msgstr  "նոյ"
+
+msgid  "dec"
+msgstr  "դեկ"
+
+msgid  "pagecategories"
+msgstr  "{{PLURAL:$1|Կատեգորիա|Կատեգորիաներ}}"
+
+msgid  "category_header"
+msgstr  "«$1» կատեգորիայի հոդվածները"
+
+msgid  "subcategories"
+msgstr  "Ենթակատեգորիաներ"
+
+msgid  "category-media-header"
+msgstr  "«$1» կատեգորիայի մեդիան"
+
+msgid  "category-empty"
+msgstr  "''Այս կատեգորիան ներկայումս դատարկ է։''"
+
+msgid  "hidden-categories"
+msgstr  "{{PLURAL:$1|Թաքցված կատեգորիա|Թաքցված կատեգորիաներ}}"
+
+msgid  "hidden-category-category"
+msgstr  "Թաքցված կատեգորիաներ"
+
+msgid  "category-subcat-count"
+msgstr  "{{PLURAL:$2|Այս կատեգորիան ունի միայն հետևյալ ենթակատեգորիան։|Ստորև  {{PLURAL:$1|բերված է այս կատեգորիայի $1 ենթակատեգորիան|բերված է այս կատեգորիայի $1 ենթակատեգորիա}}՝ $2-ից։}}"
+
+msgid  "category-subcat-count-limited"
+msgstr  "Այս կատեգորիան ունի հետևյալ {{PLURAL:$1|ենթակատեգորիան|$1 ենթակատեգորիաները}}։"
+
+msgid  "category-article-count"
+msgstr  "{{PLURAL:$2|Այս կատեգորիան ունի միայն հետևյալ էջը։|Ստորև բերված է այս կատեգորիայի {{PLURAL:$1|էջ|$1 էջ}}՝ $2-ից։}}"
+
+msgid  "category-article-count-limited"
+msgstr  "Այս կատեգորիան պարունակում է հետևյալ {{PLURAL:$1|էջը|$1 էջերը}}։"
+
+msgid  "category-file-count"
+msgstr  "{{PLURAL:$2|Այս կատեգորիան պարունակում է միայն հետևյալ նիշքը։|Ստորև {{PLURAL:$1|բերված է այս կատեգորիայի $1 նիշքը|բերված է այս կատեգորիայի $1 նիշք}}՝ $2-ից։}}"
+
+msgid  "category-file-count-limited"
+msgstr  "Այս կատեգորիան պարունակում է հետևյալ {{PLURAL:$1|նիշքը|$1 նիշքերը}}։"
+
+msgid  "listingcontinuesabbrev"
+msgstr  "շարունակ."
+
+msgid  "index-category"
+msgstr  "Ինդեքսավորված էջեր"
+
+msgid  "noindex-category"
+msgstr  "Ինդեքսավորված էջեր չկան"
+
+msgid  "mainpagetext"
+msgstr  "'''«MediaWiki» ծրագիրը հաջողությամբ տեղադրվեց։'''"
+
+msgid  "mainpagedocfooter"
+msgstr  "Այցելեք [http://meta.wikimedia.org/wiki/Help:Contents User's Guide]՝ վիքի ծրագրային ապահովման օգտագործման մասին տեղեկությունների համար։\n\n== Որոշ օգտակար ռեսուրսներ ==\n\n* [http://www.mediawiki.org/wiki/Manual:Configuration_settings Configuration settings list]\n* [http://www.mediawiki.org/wiki/Manual:FAQ MediaWiki FAQ]\n* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki release mailing list]"
+
+msgid  "about"
+msgstr  "Էությունը"
+
+msgid  "article"
+msgstr  "Հոդված"
+
+msgid  "newwindow"
+msgstr  "(բացվելու է նոր պատուհանի մեջ)"
+
+msgid  "cancel"
+msgstr  "Բեկանել"
+
+msgid  "moredotdotdot"
+msgstr  "Ավելին..."
+
+msgid  "mypage"
+msgstr  "Իմ էջը"
+
+msgid  "mytalk"
+msgstr  "Իմ քննարկումները"
+
+msgid  "anontalk"
+msgstr  "Քննարկում այս IP-հասցեի համար"
+
+msgid  "navigation"
+msgstr  "Շրջել կայքում"
+
+msgid  "and"
+msgstr  "&#32;և"
+
+msgid  "qbfind"
+msgstr  "Գտնել"
+
+msgid  "qbbrowse"
+msgstr  "Թերթել"
+
+msgid  "qbedit"
+msgstr  "Խմբագրել"
+
+msgid  "qbpageoptions"
+msgstr  "Այս էջը"
+
+msgid  "qbpageinfo"
+msgstr  "Հոդվածի մասին"
+
+msgid  "qbmyoptions"
+msgstr  "Իմ էջերը"
+
+msgid  "qbspecialpages"
+msgstr  "Սպասարկող էջեր"
+
+msgid  "faq"
+msgstr  "ՀՏՀ"
+
+msgid  "faqpage"
+msgstr  "Project:ՀՏՀ"
+
+msgid  "vector-action-addsection"
+msgstr  "Ավելացնել քննարկում"
+
+msgid  "vector-action-delete"
+msgstr  "Ջնջել"
+
+msgid  "vector-action-move"
+msgstr  "Տեղափոխել"
+
+msgid  "vector-action-protect"
+msgstr  "Պաշտպանել"
+
+msgid  "vector-action-undelete"
+msgstr  "Վերականգնել"
+
+msgid  "vector-action-unprotect"
+msgstr  "Հանել պաշտպանումից"
+
+msgid  "vector-view-create"
+msgstr  "Ստեղծել"
+
+msgid  "vector-view-edit"
+msgstr  "Խմբագրել"
+
+msgid  "vector-view-history"
+msgstr  "Դիտել պատմությունը"
+
+msgid  "vector-view-view"
+msgstr  "Կարդալ"
+
+msgid  "vector-view-viewsource"
+msgstr  "Դիտել ելատեքստը"
+
+msgid  "actions"
+msgstr  "Գործողություններ"
+
+msgid  "namespaces"
+msgstr  "Անվանատարածքներ"
+
+msgid  "variants"
+msgstr  "Տարբերակներ"
+
+msgid  "errorpagetitle"
+msgstr  "Սխալ"
+
+msgid  "returnto"
+msgstr  "Վերադառնալ $1։"
+
+msgid  "tagline"
+msgstr  "{{SITENAME}}յից՝ ազատ հանրագիտարանից"
+
+msgid  "help"
+msgstr  "Օգնություն"
+
+msgid  "search"
+msgstr  "Որոնում"
+
+msgid  "searchbutton"
+msgstr  "Որոնել"
+
+msgid  "go"
+msgstr  "Անցնել"
+
+msgid  "searcharticle"
+msgstr  "Անցնել"
+
+msgid  "history"
+msgstr  "Էջի պատմություն"
+
+msgid  "history_short"
+msgstr  "Պատմություն"
+
+msgid  "updatedmarker"
+msgstr  "թարմացվել է իմ վերջին այցից հետո"
+
+msgid  "info_short"
+msgstr  "Տեղեկություն"
+
+msgid  "printableversion"
+msgstr  "Տպելու տարբերակ"
+
+msgid  "permalink"
+msgstr  "Մշտական հղում"
+
+msgid  "print"
+msgstr  "Տպել"
+
+msgid  "edit"
+msgstr  "Խմբագրել"
+
+msgid  "create"
+msgstr  "Ստեղծել"
+
+msgid  "editthispage"
+msgstr  "Խմբագրել այս էջը"
+
+msgid  "create-this-page"
+msgstr  "Ստեղծել այս էջը"
+
+msgid  "delete"
+msgstr  "Ջնջել"
+
+msgid  "deletethispage"
+msgstr  "Ջնջել այս էջը"
+
+msgid  "undelete_short"
+msgstr  "Վերականգնել {{PLURAL:$1|մեկ խմբագրում|$1 խմբագրում}}"
+
+msgid  "protect"
+msgstr  "Պաշտպանել"
+
+msgid  "protect_change"
+msgstr  "փոխել"
+
+msgid  "protectthispage"
+msgstr  "Պաշտպանել այս էջը"
+
+msgid  "unprotect"
+msgstr  "Հանել պաշտպանումից"
+
+msgid  "unprotectthispage"
+msgstr  "Հանել այս էջը պաշտպանումից"
+
+msgid  "newpage"
+msgstr  "Նոր էջ"
+
+msgid  "talkpage"
+msgstr  "Քննարկել այս էջը"
+
+msgid  "talkpagelinktext"
+msgstr  "Քննարկում"
+
+msgid  "specialpage"
+msgstr  "Սպասարկող էջ"
+
+msgid  "personaltools"
+msgstr  "Անձնական գործիքներ"
+
+msgid  "postcomment"
+msgstr  "Նոր բաժին"
+
+msgid  "articlepage"
+msgstr  "Դիտել հոդվածը"
+
+msgid  "talk"
+msgstr  "Քննարկում"
+
+msgid  "views"
+msgstr  "Դիտումները"
+
+msgid  "toolbox"
+msgstr  "Գործիքներ"
+
+msgid  "userpage"
+msgstr  "Դիտել մասնակցի էջը"
+
+msgid  "projectpage"
+msgstr  "Դիտել նախագծի էջը"
+
+msgid  "imagepage"
+msgstr  "Դիտել նիշքի էջը"
+
+msgid  "mediawikipage"
+msgstr  "Դիտել ուղերձի էջը"
+
+msgid  "templatepage"
+msgstr  "Դիտել կաղապարի էջը"
+
+msgid  "viewhelppage"
+msgstr  "Դիտել օգնության էջը"
+
+msgid  "categorypage"
+msgstr  "Դիտել կատեգորիայի էջը"
+
+msgid  "viewtalkpage"
+msgstr  "Դիտել քննարկումը"
+
+msgid  "otherlanguages"
+msgstr  "Այլ լեզուներով"
+
+msgid  "redirectedfrom"
+msgstr  "(Վերահղված է $1-ից)"
+
+msgid  "redirectpagesub"
+msgstr  "Վերահղման էջ"
+
+msgid  "lastmodifiedat"
+msgstr  "Այս էջը վերջին անգամ փոփոխվել է $2, $1։"
+
+msgid  "viewcount"
+msgstr  "Այս էջին դիմել են {{PLURAL:$1|մեկ անգամ|$1 անգամ}}։"
+
+msgid  "protectedpage"
+msgstr  "Պաշտպանված էջ"
+
+msgid  "jumpto"
+msgstr  "Անցնել՝"
+
+msgid  "jumptonavigation"
+msgstr  "նավարկություն"
+
+msgid  "jumptosearch"
+msgstr  "որոնում"
+
+msgid  "view-pool-error"
+msgstr  "Ներեցեք՝ սերվերները գերբեռնված են այս պահին։\nՉափից շատ օգտվողներ փորձում են դիտել այս էջը։\nԽնդրում ենք սպասել որոշ ժամանակ էջը դիտելու կրկին հայցում անելուց առաջ։\n\n$1"
+
+msgid  "aboutsite"
+msgstr  "{{grammar:genitive|{{SITENAME}}}} մասին"
+
+msgid  "aboutpage"
+msgstr  "Project:Էությունը"
+
+msgid  "copyright"
+msgstr  "Կայքի բովանդակությունը գտնվում է «$1» արտոնագրի տակ։"
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:Հեղինակային իրավունքներ"
+
+msgid  "currentevents"
+msgstr  "Ընթացիկ իրադարձություններ"
+
+msgid  "currentevents-url"
+msgstr  "Project:Ընթացիկ իրադարձություններ"
+
+msgid  "disclaimers"
+msgstr  "Ազատում պատասխանատվությունից"
+
+msgid  "disclaimerpage"
+msgstr  "Project:Ազատում պատասխանատվությունից"
+
+msgid  "edithelp"
+msgstr  "Խմբագրման ուղեցույց"
+
+msgid  "edithelppage"
+msgstr  "Help:Խմբագրում"
+
+msgid  "helppage"
+msgstr  "Help:Գլխացանկ"
+
+msgid  "mainpage"
+msgstr  "Գլխավոր էջ"
+
+msgid  "mainpage-description"
+msgstr  "Գլխավոր էջ"
+
+msgid  "policy-url"
+msgstr  "Project:Կանոնակարգ"
+
+msgid  "portal"
+msgstr  "Խորհրդարան"
+
+msgid  "portal-url"
+msgstr  "Project:Խորհրդարան"
+
+msgid  "privacy"
+msgstr  "Գաղտնիության քաղաքականություն"
+
+msgid  "privacypage"
+msgstr  "Project:Գաղտնիության քաղաքականություն"
+
+msgid  "badaccess"
+msgstr  "Թույլատրման սխալ"
+
+msgid  "badaccess-group0"
+msgstr  "Ձեզ չի թույլատրվում կատարել տվյալ գործողությունը։"
+
+msgid  "badaccess-groups"
+msgstr  "Տվյալ գործողությունը կարող են կատարել միայն $1 {{PLURAL:$2|խմբի|խմբերի}} մասնակիցները։"
+
+msgid  "versionrequired"
+msgstr  "Պահանջվում է MediaWiki ծրագրի $1 տարբերակը"
+
+msgid  "versionrequiredtext"
+msgstr  "Այս էջի օգտագործման համար պահանջվում է MediaWiki ծրագրի $1 տարբերակը։ Տես [[Special:Version|տարբերակի էջը]]։"
+
+msgid  "ok"
+msgstr  "OK"
+
+msgid  "pagetitle"
+msgstr  "$1 — {{SITENAME}}"
+
+msgid  "retrievedfrom"
+msgstr  "Ստացված է «$1» էջից"
+
+msgid  "youhavenewmessages"
+msgstr  "Դուք ունեք $1 ($2)։"
+
+msgid  "newmessageslink"
+msgstr  "նոր ուղերձներ"
+
+msgid  "newmessagesdifflink"
+msgstr  "վերջին փոփոխությունը"
+
+msgid  "youhavenewmessagesmulti"
+msgstr  "Դուք նոր ուղերձներ եք ստացել $1 վրա"
+
+msgid  "editsection"
+msgstr  "խմբագրել"
+
+msgid  "editold"
+msgstr  "խմբագրել"
+
+msgid  "viewsourceold"
+msgstr  "դիտել ելատեքստը"
+
+msgid  "editlink"
+msgstr  "խմբագրել"
+
+msgid  "viewsourcelink"
+msgstr  "դիտել ելատեքստը"
+
+msgid  "editsectionhint"
+msgstr  "Խմբագրել բաժինը. $1"
+
+msgid  "toc"
+msgstr  "Բովանդակություն"
+
+msgid  "showtoc"
+msgstr  "ցույց տալ"
+
+msgid  "hidetoc"
+msgstr  "թաքցնել"
+
+msgid  "thisisdeleted"
+msgstr  "Դիտե՞լ կամ վերականգնե՞լ $1։"
+
+msgid  "viewdeleted"
+msgstr  "Դիտե՞լ $1։"
+
+msgid  "restorelink"
+msgstr  "{{PLURAL:$1|մեկ ջնջված խմբագրում|$1 ջնջված խմբագրում}}"
+
+msgid  "feedlinks"
+msgstr  "Սնուցման տեսակ."
+
+msgid  "feed-invalid"
+msgstr  "Սխալ բաժանորդագրման սնուցման տեսակ։"
+
+msgid  "feed-unavailable"
+msgstr  "Սինդիկացման սնուցումներն անջատված են"
+
+msgid  "site-rss-feed"
+msgstr  "$1 RSS Սնուցում"
+
+msgid  "site-atom-feed"
+msgstr  "$1 Atom Սնուցում"
+
+msgid  "page-rss-feed"
+msgstr  "«$1» RSS Սնուցում"
+
+msgid  "page-atom-feed"
+msgstr  "«$1» Atom Սնուցում"
+
+msgid  "red-link-title"
+msgstr  "$1 (էջը գոյություն չունի)"
+
+msgid  "nstab-main"
+msgstr  "Էջ"
+
+msgid  "nstab-user"
+msgstr  "Մասնակցի էջ"
+
+msgid  "nstab-media"
+msgstr  "Մեդիա էջ"
+
+msgid  "nstab-special"
+msgstr  "Սպասարկող էջ"
+
+msgid  "nstab-project"
+msgstr  "Նախագծի էջ"
+
+msgid  "nstab-image"
+msgstr  "Նիշք"
+
+msgid  "nstab-mediawiki"
+msgstr  "Ուղերձ"
+
+msgid  "nstab-template"
+msgstr  "Կաղապար"
+
+msgid  "nstab-help"
+msgstr  "Օգնության էջ"
+
+msgid  "nstab-category"
+msgstr  "Կատեգորիա"
+
+msgid  "nosuchaction"
+msgstr  "Նման գործողություն չկա"
+
+msgid  "nosuchactiontext"
+msgstr  "URL-ում նշված գործողությունը սխալ է։\nՀնարավոր է դուք վրիպակ եք թույլ տվել URL-ի մուտքագրման ժամանակ կամ հետևել եք սխալ հղմամբ։\nՍա կարող է նաև լինել {{SITENAME}} նախագծում օգտագործվող ծրագրի սխալ։"
+
+msgid  "nosuchspecialpage"
+msgstr  "Նման սպասարկող էջ չկա"
+
+msgid  "nospecialpagetext"
+msgstr  "<strong>Ձեր հայցված սպասարկող էջը գոյություն չունի։</strong>\n\nՏեսեք [[Special:SpecialPages|սպասարկող էջերի ցանկը]]։"
+
+msgid  "error"
+msgstr  "Սխալ"
+
+msgid  "databaseerror"
+msgstr  "Տվյալների բազայի սխալ"
+
+msgid  "dberrortext"
+msgstr  "Հայտնաբերվել է տվյալների բազային հայցի շարահյուսության սխալ։\nՍա կարող է լինել ծրագրային ապահովման սխալից։\nՏվյալների բազային վերջին հայցն էր․\n<blockquote><tt>$1</tt></blockquote>\nհետևյալ ֆունկցիայի մարմնից <tt>«$2»</tt>։\nՏվյլաների բազայի վերադարձրած սխալն է․ <tt>«$3: $4»</tt>։"
+
+msgid  "dberrortextcl"
+msgstr  "Հայտնաբերվել է տվյալների բազային հայցի շարահյուսության սխալ։\nՏվյալների բազային վերջին հայցն էր.\n«$1»\nհետևյալ ֆունկցիայի մարմնից <tt>«$2»</tt>։\nՏվյալների բազայի վերադարձրած սխալն է. <tt>«$3: $4»</tt>։"
+
+msgid  "laggedslavemode"
+msgstr  "Զգուշացում. էջը կարող է չպարունակել վերջին փոփոխությունները։"
+
+msgid  "readonly"
+msgstr  "Տվյալների բազան կողպված է"
+
+msgid  "enterlockreason"
+msgstr  "Նշեք կողպման պատճառը և մոտավոր ժամկետը"
+
+msgid  "readonlytext"
+msgstr  "Տվյալների բազան ներկայումս կողպված է նոր էջերի և փոփոխությունների համար՝ հավանաբար նախատեսված սպասարկման կապակցությամբ, որից հետո այն կվերադարձվի սովորական վիճակի։\n\nԱդմինիստրատորը, որը կողպել է այն, թողել է հետևյալ բացատրությունը.\n$1"
+
+msgid  "missing-article"
+msgstr  "Տվյալների բազայում չգտնվեց որոնվող էջի տեքստը, որը պետք է գտնվեր «$1» անվանմամբ $2։\n\nՍա սովորաբար պատահում է հեռացված էջի պատմության կամ փոփոխությունների հնացած հղմամբ հետևելու արդյունքում։\n\nԵթե պատճառը դա չէ, ապա դուք հավանաբար սխալ եք գտել ծրագրային ապահովման մեջ։\nԽնդրում ենք սրա մասին հայտնել որևէ [[Special:ListUsers/sysop|ադմինիստրատորի]]՝ ընդգրկելով URL-ը։"
+
+msgid  "missingarticle-rev"
+msgstr  "(տարբերակ № $1)"
+
+msgid  "missingarticle-diff"
+msgstr  "(Տարբ. $1, $2)"
+
+msgid  "readonly_lag"
+msgstr  "Տվյալների բազան ավտոմատիկ կողպվել է ժամանակավորապես՝ մինչև ՏԲ-ի երկրորդական սերվերը չհամաժամանակեցվի առաջնայինի հետ։"
+
+msgid  "internalerror"
+msgstr  "Ներքին սխալ"
+
+msgid  "internalerror_info"
+msgstr  "Ներքին սխալ. $1"
+
+msgid  "fileappenderror"
+msgstr  "Չհաջողվեց ավելացնել «$1» «$2»-ին։"
+
+msgid  "filecopyerror"
+msgstr  "Չհաջողվեց պատճենել «$1» նիշքը «$2» նիշքի մեջ։"
+
+msgid  "filerenameerror"
+msgstr  "Չհաջողվեց «$1» նիշքը վերանվանել «$2»։"
+
+msgid  "filedeleteerror"
+msgstr  "Չհաջողվեց ջնջել «$1» ֆայլը։"
+
+msgid  "directorycreateerror"
+msgstr  "Չհաջողվեց ստեղծել «$1» պանակը։"
+
+msgid  "filenotfound"
+msgstr  "Չհաջողվեց գտնել «$1» ֆայլը։"
+
+msgid  "fileexistserror"
+msgstr  "Չհաջողվեց գրել «$1» նիշքին. նիշքը գոյություն ունի։"
+
+msgid  "unexpected"
+msgstr  "Անսպասելի արժեք. «$1»=«$2»։"
+
+msgid  "formerror"
+msgstr  "Սխալ. չհաջողվեց փոխանցել տվյալները"
+
+msgid  "badarticleerror"
+msgstr  "Տվյալ գործողությունը չի կարող կատարվել այս էջում։"
+
+msgid  "cannotdelete"
+msgstr  "Չհաջողվեց ջնջել «$1» էջը կամ ֆայլը։\nՀավանաբար այն արդեն ջնջվել է մեկ այլ մասնակցի կողմից։"
+
+msgid  "badtitle"
+msgstr  "Անընդունելի անվանում"
+
+msgid  "badtitletext"
+msgstr  "Հարցված էջի անվանումը անընդունելի է, դատարկ է կամ սխալ միջ-լեզվական կամ ինտերվիքի անվանում է։ Հնարավոր է, որ այն պարունակում է անթույլատրելի սիմվոլներ։"
+
+msgid  "perfcached"
+msgstr  "Հետևյալ տվյալները վերցված են քեշից և հնարավոր է չարտացոլեն վերջին փոփոխությունները։"
+
+msgid  "perfcachedts"
+msgstr  "Հետևյալ տվյալները վերցված են քեշից և վերջին անգամ թարմացվել են $1։"
+
+msgid  "querypage-no-updates"
+msgstr  "Այս էջի փոփոխությունները ներկայումս արգելված են։ Այստեղի տվյալները այժմ չեն թարմացվի։"
+
+msgid  "wrong_wfQuery_params"
+msgstr  "Անթույլատրելի պարամետրեր wfQuery() ֆունկցիայի համար<br />\nՖունկցիա. $1<br />\nՀայցում. $2"
+
+msgid  "viewsource"
+msgstr  "Դիտել ելատեքստը"
+
+msgid  "viewsourcefor"
+msgstr  "«$1» էջի"
+
+msgid  "actionthrottled"
+msgstr  "Գործողությունը արգելափակվեց"
+
+msgid  "actionthrottledtext"
+msgstr  "Որպես հակա-սպամային միջոց, այս գործողության չափից շատ կատարումը կարճ ժամանակահատվածի ընթացքում սահմանափակված է։ Խնդրում ենք փորձել կրկին մի քանի րոպե անց։"
+
+msgid  "protectedpagetext"
+msgstr  "Այս էջը կողպված խմբագրման համար։"
+
+msgid  "viewsourcetext"
+msgstr  "Դուք կարող եք դիտել և պատճենել այս էջի ելատեքստը."
+
+msgid  "protectedinterface"
+msgstr  "Այս էջը պարունակում է ծրագրային ապահովման ինտերֆեյսի ուզերձ և կողպված է չարաշահումների կանխարգելման նպատակով։."
+
+msgid  "editinginterface"
+msgstr  "'''Զգուշացում.''' Դուք խմբագրում եք ծրագրային ապահովման ինտերֆեյսի տեքստ պարունակող էջ։ Այս էջի փոփոխությունը կանդրադառնա այլ մասնակիցներին տեսանելի ինտերֆեյսի տեսքի վրա։\nԹարգմանությունների համար նախընտրելի է օգտագործել [http://translatewiki.net/wiki/Main_Page?setlang=hy translatewiki.net]՝ MediaWiki ծրագրի տեղայնացման նախագիծը։"
+
+msgid  "sqlhidden"
+msgstr  "(SQL հայցումը թաքցված է)"
+
+msgid  "cascadeprotected"
+msgstr  "Այս էջը պաշտպանված է խմբագրումից, քանի որ ընդգրկված է հետևյալ {{PLURAL:$1|էջի|էջերի}} տեքստում, {{PLURAL:$1|որը|որոնք}} պաշտպանվել {{PLURAL:$1|է|են}} կասկադային հնարավորությամբ.\n$2"
+
+msgid  "namespaceprotected"
+msgstr  "Դուք չունեք «$1» անվանատարածքի էջերի խմբագրման իրավունք։"
+
+msgid  "customcssjsprotected"
+msgstr  "Դուք չունեք այս էջի խմբագրման իրավունք, քանի որ այն պարունակում է այլ մասնակցի անձնական նախընտրություններ։"
+
+msgid  "ns-specialprotected"
+msgstr  "«{{ns:special}}» անվանատարածքի էջերը չեն կարող խմբագրվել։"
+
+msgid  "titleprotected"
+msgstr  "Այս անվանմամբ էջի ստեղծումը արգելվել է [[User:$1|$1]] մասնակցի կողմից։\nՏրված պատճառն է՝ ''$2''։"
+
+msgid  "virus-badscanner"
+msgstr  "Սխալ կարգավորւմ։ Անծանոթ վիրուսների զննիչ. ''$1''"
+
+msgid  "virus-scanfailed"
+msgstr  "զննման սխալ (կոդ $1)"
+
+msgid  "virus-unknownscanner"
+msgstr  "անծանոթ հակավիրուս."
+
+msgid  "logouttext"
+msgstr  "'''Դուք դուրս եկաք համակարգից։'''\n\nԴուք կարող եք շարունակել օգտագործել {{SITENAME}} կայքը անանուն, կամ [[Special:UserLogin|կրկին մուտք գործել համակարգ]] նույն կամ մեկ այլ մասնակցի անվամբ։ Ի նկատի ունեցեք, որ որոշ էջեր կարող են ցուցադրվել այնպես՝ ինչպես եթե դեռ համակարգում լինեիք մինչև որ չջնջեք ձեր զննարկիչի հիշապահեստը։"
+
+msgid  "welcomecreation"
+msgstr  "== Բարի՛ գալուստ, $1 ==\nՁեր հաշիվը ստեղծված է։\nՉմոռանաք անձնավորել ձեր [[Special:Preferences|նախընտրությունները]]։"
+
+msgid  "yourname"
+msgstr  "Մասնակցի անուն."
+
+msgid  "yourpassword"
+msgstr  "Գաղտնաբառ."
+
+msgid  "yourpasswordagain"
+msgstr  "Կրկնեք գաղտնաբառը."
+
+msgid  "remembermypassword"
+msgstr  "Հիշել իմ մուտքագրված տվյալները այս համակարգչում ($1 {{PLURAL:$1|օրից|օրից}} ոչ ավել ժամկետով)"
+
+msgid  "yourdomainname"
+msgstr  "Ձեր դոմենը."
+
+msgid  "externaldberror"
+msgstr  "Տեղի է ունեցել վավերացման արտաքին տվյալների բազայի սխալ, կամ դուք չունեք բավարար իրավունքներ ձեր արտաքին հաշվի փոփոխման համար։"
+
+msgid  "login"
+msgstr  "Մտնել"
+
+msgid  "nav-login-createaccount"
+msgstr  "Մտնել / Գրանցվել"
+
+msgid  "loginprompt"
+msgstr  "{{SITENAME}} մուտք գործելու համար հարկավոր է քուքիները թույլատրել։"
+
+msgid  "userlogin"
+msgstr  "Մտնել / Գրանցվել"
+
+msgid  "userloginnocreate"
+msgstr  "Մտնել"
+
+msgid  "logout"
+msgstr  "Ելնել"
+
+msgid  "userlogout"
+msgstr  "Ելնել"
+
+msgid  "notloggedin"
+msgstr  "Դուք չեք մտել համակարգ"
+
+msgid  "nologin"
+msgstr  "Դեռևս չե՞ք գրանցվել։ '''$1'''։"
+
+msgid  "nologinlink"
+msgstr  "Ստեղծեք մասնակցային հաշիվ"
+
+msgid  "createaccount"
+msgstr  "Ստեղծել նոր մասնակցային հաշիվ"
+
+msgid  "gotaccount"
+msgstr  "Դուք արդեն գրանցվա՞ծ եք։ '''$1'''։"
+
+msgid  "gotaccountlink"
+msgstr  "Մուտք գործեք համակարգ"
+
+msgid  "createaccountmail"
+msgstr  "էլ-փոստով"
+
+msgid  "badretype"
+msgstr  "Ձեր մուտքագրած գաղտնաբառերը չեն համընկնում։"
+
+msgid  "userexists"
+msgstr  "Այս մասնակցի անունը արդեն զբաղված է։ Խնդրում ենք ընտրել մեկ այլ անուն։"
+
+msgid  "loginerror"
+msgstr  "Մասնակցի մուտքի սխալ"
+
+msgid  "createaccounterror"
+msgstr  "Չհաջողվեց ստեղծել մասնակցային հաշիվ. $1"
+
+msgid  "nocookiesnew"
+msgstr  "Մասնակցային հաշիվը ստեղծված է, սակայն մուտքը համակարգ չհաջողվեց։ {{SITENAME}} կայքը օգտագործում է «քուքիներ» մասնակիցների վավերացման համար։ Ձեր մոտ «քուքիները» արգելված են։ Խնդրում ենք թույլատրել սրանք, ապա մտնել համակարգ ձեր նոր մասնակցի անունով և գաղտնաբառով։"
+
+msgid  "nocookieslogin"
+msgstr  "{{SITENAME}} կայքը օգտագործում է «քուքիներ» մասնակիցների վավերացման համար։ Ձեր մոտ «քուքիները» արգելված են։ Խնդրում ենք թույլատրել սրանք և փորձել կրկին։"
+
+msgid  "noname"
+msgstr  "Դուք չեք նշել թույլատրելի մասնակցային անուն։"
+
+msgid  "loginsuccesstitle"
+msgstr  "Բարեհաջող մուտք"
+
+msgid  "loginsuccess"
+msgstr  "'''Դուք մուտք գործեցիք {{SITENAME}}, որպես \"$1\"։'''"
+
+msgid  "nosuchuser"
+msgstr  "$1 անունով մասնակից գոյություն չունի։\nՄասնակիցների անունները զգայուն են մեծատառերի նկատմամբ։\nՍտուգեք ձեր ուղղագրությունը կամ [[Special:UserLogin/signup|ստեղծեք նոր մասնակցի հաշիվ]]։"
+
+msgid  "nosuchusershort"
+msgstr  "<nowiki>$1</nowiki> անունով մասնակից գոյություն չունի։ Ստուգեք ձեր ուղղագրությունը։"
+
+msgid  "nouserspecified"
+msgstr  "Հարկավոր է նշել մասնակցային անուն։"
+
+msgid  "login-userblocked"
+msgstr  "Այս մասնակիցը արգելափակված է: Մուտքը արգելված է:"
+
+msgid  "wrongpassword"
+msgstr  "Մուտքագրված գաղտնաբառը սխալ էր։ Խնդրում ենք կրկին փորձել։"
+
+msgid  "wrongpasswordempty"
+msgstr  "Մուտքագրված գաղտնաբառը դատարկ էր։ Խնդրում ենք կրկին փորձել։"
+
+msgid  "passwordtooshort"
+msgstr  "Գաղտնաբառը պետք է պարունակի առնվազն {{PLURAL:$1|1 սիմվոլ|$1 սիմվոլ}}։"
+
+msgid  "password-name-match"
+msgstr  "Գաղտնաբառը պետք է տարբեր լինել ձեր մասնակցի անունից։"
+
+msgid  "mailmypassword"
+msgstr  "Ուղարկել նոր գաղտնաբառ էլ–փոստով"
+
+msgid  "passwordremindertitle"
+msgstr  "Նոր ժամանակավոր գաղտնաբառ {{grammar:genitive|{{SITENAME}}}} համար"
+
+msgid  "passwordremindertext"
+msgstr  "Ինչ-որ մեկը (հավանաբար դուք՝ $1 IP-հասցեից) խնդրել է նոր գաղտնաբառ {{grammar:genitive|{{SITENAME}}}} ($4)։ «$2» մասնակցի ժամանակավոր գաղտնաբառն է՝ <code>$3</code>։ Եթե սա իսկապես ձեր մտադրություններ, ապա ձեզ հարկավոր է մտնել համակարգ և փոխել գաղտնաբառը։ Ձեր ժամանակավոր գաղտնաբառը գործելու է {{PLURAL:$5|օր|$5 օր}}։\n\nԵթե դուք չեք արել այսպիսի հայցում կամ արդեն հիշել եք ձեր գաղտնաբառը և մտադրություն չունեք այն փոխել, ապա կարող եք անտեսել այս ուղերձը և շարունակել օգտվել ձեր հին գաղտնաբառից։"
+
+msgid  "noemail"
+msgstr  "«$1» մասնակցի համար էլ-փոստի հասցե չի նշվել։"
+
+msgid  "noemailcreate"
+msgstr  "Պահանջվում է տրամադրել գործող էլ-հասցե"
+
+msgid  "passwordsent"
+msgstr  "Նոր գաղտնաբառ է ուղարկվել $1 մասնակցի համար նշված էլ-փոստի հասցեին։\n\nԽնդրում ենք կրկին ներկայանալ համակարգին այն ստանալուց հետո։"
+
+msgid  "blocked-mailpassword"
+msgstr  "Ձեր IP հասցեից խմբագրումները արգելափակված են, և հետևաբար արգելված է նաև գաղտնաբառի վերականգնումը՝ հետագա չարաշահումների կանխման նպատակով։"
+
+msgid  "eauthentsent"
+msgstr  "Առաջարկված էլ-հասցեին ուղարկվել է վավերացման նամակ։\nՄինչև որևէ այլ ուղերջներ կուղարկվեն այդ հասցեին, ձեզ անհրաժեշտ է հետևել նամակում նկարագրված գործողություններին՝ հաշվի ձեզ պատկանելու փաստը վավերացնելու համար։"
+
+msgid  "throttled-mailpassword"
+msgstr  "Գաղտնաբառի հիշեցման ուղերձ արդեն ուղարկվել է վերջին {{PLURAL:$1|ժամվա|$1 ժամվա}} ընթացքում։ Չարաշահման կանխարգելման նպատակով թույլատրվում է միայն մեկ գաղտնաբառի հիշեցում ամեն {{PLURAL:$1|ժամվա|$1 ժամվա}} ընթացքում։"
+
+msgid  "mailerror"
+msgstr  "Փոստի ուղարկման սխալ. $1"
+
+msgid  "acct_creation_throttle_hit"
+msgstr  "Վերջին օրվա ընթացքում ձեր IP-հասցեից ստեղծվել է {{PLURAL:$1|1 մասնակցի հաշվիվ|$1 մասնակցի հաշվիվ}}, ինչը այս ժամանակաշրջանում առավելագույն թույլատրելի քանակն է։\nԱյս պատճառով այդ IP-հասցեից այցելուները չեն կարող այլևս հաշիվ ստեղծել այս պահին։"
+
+msgid  "emailauthenticated"
+msgstr  "Ձեր էլ-փոստի հասցեն վավերացվել է $2, $3-ին։"
+
+msgid  "emailnotauthenticated"
+msgstr  "Ձեր էլ-փոստի հասցեն դեռ վավերացված չէ։ Հետևյալ հնարավորությունների գործածումը անջատված է։"
+
+msgid  "noemailprefs"
+msgstr  "Այս հնարավորության գործածման համար անհրաժեշտ է նշել էլ-փոստի հասցե։"
+
+msgid  "emailconfirmlink"
+msgstr  "Վավերացնել ձեր էլ-փոստի հասցեն"
+
+msgid  "invalidemailaddress"
+msgstr  "Նշված էլ-փոստի հասցեն անընդունելի է, քանի որ այն ունի անթույլատրելի ֆորմատ։ Խնդրում ենք նշել ճշմարիտ հասցե կամ այս դաշտը թողնել դատարկ։"
+
+msgid  "accountcreated"
+msgstr  "Հաշիվը ստեղծված է"
+
+msgid  "accountcreatedtext"
+msgstr  "$1 մասնակցի հաշիվը ստեղծված է։"
+
+msgid  "createaccount-title"
+msgstr  "{{SITENAME}}. մասնակցային հաշվի ստեղծում"
+
+msgid  "createaccount-text"
+msgstr  "Ինչ-որ մեկը ստեղծել է «$2» անվանմամբ մասնակցային հաշիվ «$3» գաղտնաբառով {{SITENAME}} ($4) նախագծում՝ նշելով ձեր էլ-հասցեն։ Ձեզ անհրաժեշտ է մտնել համակարգ և փոխել գաղտնաբառը։\n\nԿարող եք անտեսել այս հաղորդագրությունը, եթե հաշիվը ստեղծվել է սխալմամբ։"
+
+msgid  "usernamehasherror"
+msgstr  "Մասնակցի անունը չի կարող պարունակել «#» նիշը։"
+
+msgid  "login-throttled"
+msgstr  "Դուք կատարել եք չափից շատ մուտքի փորձ։\nԽնդրում ենք սպասել որոշ ժամանակ կրկին փորձելուց առաջ։"
+
+msgid  "loginlanguagelabel"
+msgstr  "Լեզու. $1"
+
+msgid  "resetpass"
+msgstr  "Փոխել գաղտնաբառը"
+
+msgid  "resetpass_announce"
+msgstr  "Դուք ներկայացել եք էլ-փոստով ստացված ժամանակավոր գաղտնաբառով։ Համակարգ մուտքի համար անհրաժեշտ է նոր գաղտնաբառ ընտրել այստեղ."
+
+msgid  "resetpass_text"
+msgstr  "<!-- Ավելացնել տեքստը այստեղ -->"
+
+msgid  "resetpass_header"
+msgstr  "Փոխել մասնակցային հաշվի գաղտնաբառը"
+
+msgid  "oldpassword"
+msgstr  "Հին գաղտնաբառը."
+
+msgid  "newpassword"
+msgstr  "Նոր գաղտնաբառը."
+
+msgid  "retypenew"
+msgstr  "Հաստատեք նոր գաղտնաբառը."
+
+msgid  "resetpass_submit"
+msgstr  "Հաստատել գաղտնաբառը և մտնել համակարգ"
+
+msgid  "resetpass_success"
+msgstr  "Ձեր գաղտնաբառը փոխված է։ Մուտք համակարգ…"
+
+msgid  "resetpass_forbidden"
+msgstr  "Գաղտնաբառը չի կարող փոխվել"
+
+msgid  "resetpass-no-info"
+msgstr  "Այս էջին ուղիղ դիմելու համար անհրաժեշտ է մտնել համակարգ։"
+
+msgid  "resetpass-submit-loggedin"
+msgstr  "Փոխել գաղտնաբառը"
+
+msgid  "resetpass-wrong-oldpass"
+msgstr  "Սխալ ժամանակավոր կամ ընթացիկ գաղտնաբառ։\nՀնարավոր է, որ դուք արդեն բարեհաջող փոխել եք գաղտնաբարը կամ հայցել եք նոր ժամանակավոր գաղտնաբառ։"
+
+msgid  "resetpass-temp-password"
+msgstr  "Ժամանակավոր գաղտնաբառ."
+
+msgid  "bold_sample"
+msgstr  "Թավատառ տեքստ"
+
+msgid  "bold_tip"
+msgstr  "Թավատառ տեքստ"
+
+msgid  "italic_sample"
+msgstr  "Շեղատառ տեքստ"
+
+msgid  "italic_tip"
+msgstr  "Շեղատառ տեքստ"
+
+msgid  "link_sample"
+msgstr  "Հղման վերնագիր"
+
+msgid  "link_tip"
+msgstr  "Ներքին հղում"
+
+msgid  "extlink_sample"
+msgstr  "http://www.example.com հղման վերնագիրը"
+
+msgid  "extlink_tip"
+msgstr  "Արտաքին հղում (հիշեք http:// նախածանցը)"
+
+msgid  "headline_sample"
+msgstr  "Ենթագլուխ"
+
+msgid  "headline_tip"
+msgstr  "Ենթագլուխ"
+
+msgid  "math_sample"
+msgstr  "Գրեք բանաձևը այստեղ"
+
+msgid  "math_tip"
+msgstr  "Մաթեմատիկական բանաձև (LaTeX)"
+
+msgid  "nowiki_sample"
+msgstr  "Մուտքագրեք չձևավորված տեքստը այստեղ"
+
+msgid  "nowiki_tip"
+msgstr  "Անտեսել վիքի ձևավորումը"
+
+msgid  "image_tip"
+msgstr  "Ներդրված նիշք"
+
+msgid  "media_tip"
+msgstr  "Հղում նիշքին"
+
+msgid  "sig_tip"
+msgstr  "Ձեր ստորագրությունը ամսաթվով"
+
+msgid  "hr_tip"
+msgstr  "Հորիզոնական գիծ (միայն անհրաժեշտության դեպքում)"
+
+msgid  "summary"
+msgstr  "Ամփոփում:"
+
+msgid  "subject"
+msgstr  "Վերնագիր:"
+
+msgid  "minoredit"
+msgstr  "Սա չնչին խմբագրում է"
+
+msgid  "watchthis"
+msgstr  "Հսկել այս էջը"
+
+msgid  "savearticle"
+msgstr  "Հիշել էջը"
+
+msgid  "preview"
+msgstr  "Նախադիտում"
+
+msgid  "showpreview"
+msgstr  "Նախադիտել"
+
+msgid  "showlivepreview"
+msgstr  "Ուղիղ նախադիտում"
+
+msgid  "showdiff"
+msgstr  "Կատարված փոփոխությունները"
+
+msgid  "anoneditwarning"
+msgstr  "'''Զգուշացում.''' Դուք չեք մտել համակարգ։ Ձեր IP հասցեն կգրանցվի այս էջի խմբագրումների պատմության մեջ։"
+
+msgid  "missingsummary"
+msgstr  "'''Հիշեցում.''' Դուք չեք տվել խմբագրման ամփոփում։ «Հիշել» կոճակի կրկնակի մատնահարման դեպքում փոփոխությունները կհիշվեն առանց ամփոփման։"
+
+msgid  "missingcommenttext"
+msgstr  "Խնդրում ենք մեկնաբանություն ավելացնել ստորև։"
+
+msgid  "missingcommentheader"
+msgstr  "'''Հիշեցում.''' Դուք չեք նշել մեկնաբանության վերնագիրը։ «Հիշել» կոճակի կրկնակի մատնահարման դեպքում ձեր մեկնաբանությունը կհիշվի առանց վերնագրի։"
+
+msgid  "summary-preview"
+msgstr  "Ամփոփման նախադիտում:"
+
+msgid  "subject-preview"
+msgstr  "Վերնագրի նախադիտում:"
+
+msgid  "blockedtitle"
+msgstr  "Մասնակիցը արգելափակված է"
+
+msgid  "blockedtext"
+msgstr  "'''Ձեր մասնակցի անունը կամ IP-հասցեն արգելափակված է։'''\n\nԱրգելափակումը կատարվել է $1 ադմինիստրատորի կողմից։\nՏրված պատճառն է. ''«$2»''\n\n* Արգելափակման սկիզբ՝ $8\n* Արգելափակման մարում՝ $6\n* Արգելափակվել է՝ $7\n\nԴուք կարող եք կապնվել $1 մասնակցի կամ մեկ այլ [[{{MediaWiki:Grouppage-sysop}}|ադմինիստրատորի]] հետ՝ ձեր արգելափակումը քննարկելու նպատակով։\nԴուք չեք կարող օգտվել` «էլ-նամակ ուղարկել այս մասնակցին» հնարավորությունից, քանի դեռ ինքներդ գործող էլ-փոստի հասցե չէք  նշել ձեր [[Special:Preferences|մասնակցի նախընտրություններում]] և չեք արգելափակվել այս հնարավորւությունը օգտագործելուց։\n\nՁեր ընթացիկ IP-հասցեն է` $3, արգելափակման իդենտիֆիկատորը՝ #$5։\nԽնդրում ենք նշել այս տվյալները ձեր հարցումների ժամանակ։"
+
+msgid  "autoblockedtext"
+msgstr  "Ձեր IP-հասցեն ավտոմատիկ արգելափակված է, քանի որ այն օգտագործվել է այլ մասնակցի կողմից, որը արգելափակվել է $1 ադմինիստրատորի կողմից։\n\nՏրված պատճառն է.\n:''«$2»''\n\n* Արգելափակման սկիզբ՝ $8\n* Արգելափակման մարում՝ $6\n* Արգելափակվել է՝ $7\n\nԴուք կարող եք կապնվել $1 մասնակցի կամ մեկ այլ [[{{MediaWiki:Grouppage-sysop}}|ադմինիստրատորի]] հետ՝ ձեր արգելափակումը քննարկելու նպատակով։\n\nԴուք չեք կարող օգտվել «էլ-նամակ ուղարկել այս մասնակցին» հնարավորությունից քանի դեռ ինքներդ գործող էլ-փոստի հասցե չէք  նշել ձեր [[Special:Preferences|մասնակցի նախընտրություններում]] և չեք արգելափակվել այս հնարավորությից օգտվելուց։\n\nՁեր ընթացիկ IP-հասցեն է $3, արգելափակման իդենտիֆիկատորը՝ $5։\nԽնդրում ենք նշել այս տվյալները ձեր հարցումների ժամանակ։"
+
+msgid  "blockednoreason"
+msgstr  "պատճառ չի տրվել"
+
+msgid  "blockedoriginalsource"
+msgstr  "«'''$1'''» էջի տեքստը բերված է ստորև։"
+
+msgid  "blockededitsource"
+msgstr  "«'''$1'''» էջի '''ձեր խմբագրումները''' հետևյալն են."
+
+msgid  "whitelistedittitle"
+msgstr  "Խմբագրման համար հարկավոր է մտնել համակարգ"
+
+msgid  "whitelistedittext"
+msgstr  "Անհրաժեշտ է $1 էջերը խմբագրելու համար։"
+
+msgid  "confirmedittext"
+msgstr  "Էջերի խմբագրումից առաջ անհրաժեշտ է վավերացնել էլ-հասցեն։\nԽնդրում ենք նշել և վավերացնել ձեր էլ-փոստի հասցեն ձեր [[Special:Preferences|նախընտրությունների]] մեջ։"
+
+msgid  "nosuchsectiontitle"
+msgstr  "Այսպիսի բաժին գոյություն չունի"
+
+msgid  "nosuchsectiontext"
+msgstr  "Դուք փորձել եք խմբագրել գոյություն չունեցող բաժին։"
+
+msgid  "loginreqtitle"
+msgstr  "Անհրաժեշտ է մտնել համակարգ"
+
+msgid  "loginreqlink"
+msgstr  "մտնել համակարգ"
+
+msgid  "loginreqpagetext"
+msgstr  "Անհրաժեշտ է $1 այլ էջեր դիտելու համար։"
+
+msgid  "accmailtitle"
+msgstr  "Գաղտնաբառն ուղարկված է։"
+
+msgid  "accmailtext"
+msgstr  "[[User talk:$1|$1]] մասնակցի համար պատահական նշերից կազմված գաղտնաբառը ուղարկված է $2 հասցեին։\n\nՀամակարգ մուտք գործելուն պես կարող եք ''[[Special:ChangePassword|փոխել գաղտնաբառը]]''։"
+
+msgid  "newarticle"
+msgstr  "(Նոր)"
+
+msgid  "newarticletext"
+msgstr  "Դուք հղվել եք դեռևս գոյություն չունեցող էջի։ Էջը ստեղծելու համար սկսեք տեքստի մուտքագրումը ներքևի արկղում (այցելեք [[{{MediaWiki:Helppage}}|օգնության էջը]]՝ մանրամասն տեղեկությունների համար)։ Եթե դուք սխալմամբ եք այստեղ հայտնվել, ապա մատնահարեք ձեր զննարկիչի '''back''' կոճակը։"
+
+msgid  "anontalkpagetext"
+msgstr  "----''Այս քննարկման էջը պատկանում է անանուն մասնակցին, որը դեռ չի ստեղծել մասնակցային հաշիվ կամ չի մտել համակարգ մասնակցի անունով։\nԱյդ իսկ պատճառով օգտագործվում է թվային IP-հասցեն։\nՆման IP-հասցեից կարող են օգտվել մի քանի մասնակիցներ։\nԵթե դուք անանուն մասնակից եք, բայց կարծում եք, որ ուրիշներին վերաբերող դիտողությունները արվում են ձեր հասցեով, ապա խնդրում ենք պարզապես [[Special:UserLogin/signup|գրանցվել]] կամ [[Special:UserLogin|մտնել համակարգ]], որպեսզի հետագայում ձեզ չշփոթեն այլ անանուն մասնակիցների հետ։''"
+
+msgid  "noarticletext"
+msgstr  "Ներկայումս այս էջում որևէ տեքստ չկա։\nԴուք կարող եք [[Special:Search/{{PAGENAME}}|որոնել այս անվանումը]] այլ էջերում, <span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} որոնել համապատասխան տեղեկամատյանները] կամ [{{fullurl:{{FULLPAGENAME}}|action=edit}} ստեղծել նոր էջ այս անվանմամբ]</span>։"
+
+msgid  "noarticletext-nopermission"
+msgstr  "Ներկայումս այս էջում որևէ տեքստ չկա։\nԴուք կարող եք [[Special:Search/{{PAGENAME}}|որոնել այս անվանունը]] այլ էջերում կամ <span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} որոնել այն տեղեկամատյաններում]</span>։"
+
+msgid  "userpage-userdoesnotexist"
+msgstr  "«$1» անվանմամբ մասնակից գոյություն չունի։\nԽնդրում ենք հավաստիանալ նրանում, թե արդյոք ուզում եք ստեղծել/խմբագրել այս էջը։"
+
+msgid  "userpage-userdoesnotexist-view"
+msgstr  "«$1» անվանմամբ գրանցված մասնակից չկա։"
+
+msgid  "clearyourcache"
+msgstr  "'''Ծանուցում. Հիշելուց հետո կատարված փոփոխությունները տեսնելու համար մաքրեք ձեր զննարկիչի հիշապահեստը. '''\n'''Mozilla / Firefox / Safari'''՝ ''Ctrl+Shift+R''  (''Cmd+Shift+R'' Mac OS X-ում)\n'''Konqueror'''՝ ''F5''\n'''Opera'''՝ ''Tools→Preferences'' ընտրացանկից։\n'''Internet Explorer'''՝ ''Ctrl+F5''"
+
+msgid  "usercssyoucanpreview"
+msgstr  "'''Հուշում.''' Էջը հիշելուց առաջ օգտվեք «{{int:showpreview}}» կոճակից՝ ձեր նոր CSS-նիշքը ստուգելու համար։"
+
+msgid  "userjsyoucanpreview"
+msgstr  "'''Հուշում.''' Էջը հիշելուց առաջ օգտվեք «{{int:showpreview}}» կոճակից՝ ձեր նոր JS-նիշքը ստուգելու համար։"
+
+msgid  "usercsspreview"
+msgstr  "'''Նկատի ունեցեք, որ դուք միայն նախադիտում եք ձեր մասնակցի CSS-նիշքը. այն դեռ հիշված չէ՛։'''"
+
+msgid  "userjspreview"
+msgstr  "'''Նկատի ունեցեք, որ դուք միայն նախադիտում եք ձեր մասնակցի JavaScript-նիշքը. այն դեռ հիշված չէ՛։'''"
+
+msgid  "userinvalidcssjstitle"
+msgstr  "'''Զգուշացում.''' «$1» տեսք չի գտնվել։ Ի նկատի ունեցեք, որ մասնակցային .css և .js էջերը ունեն փոքրատառ անվանումներ, օր.՝ «{{ns:user}}:Ոմն/vector.css», և ոչ թե «{{ns:user}}:Ոմն/Vector.css»։"
+
+msgid  "updated"
+msgstr  "(Թարմացված)"
+
+msgid  "note"
+msgstr  "'''Ծանուցում.'''"
+
+msgid  "previewnote"
+msgstr  "'''Սա միայն նախադիտումն է. ձեր կատարած փոփոխությունները դեռ չե՛ն հիշվել։'''"
+
+msgid  "previewconflict"
+msgstr  "Այս նախադիտումը արտապատկերում է վերևի խմբագրման դաշտում եղած տեքստը այնպես, ինչպես այն կերևա հիշվելուց հետո։"
+
+msgid  "session_fail_preview"
+msgstr  "'''Ցավոք՝ չհաջողվեց հիշել ձեր խմբագրումները սեսիայի տվյալների կորստի պատճառով։\nԽնդրում ենք կրկին փորձել։ Սխալի կրկնման դեպքում՝ փորձեք դուրս գալ, ապա կրկին մտնել համակարգ։'''"
+
+msgid  "session_fail_preview_html"
+msgstr  "'''Ցավոք՝ չհաջողվեց հիշել ձեր խմբագրումները սեսիայի տվյալների կորստի պատճառով։'''\n\n''Քանի որ {{SITENAME}} նախագիծը թույլատրում է հում HTML, նախադիտումը անջատված է JavaScript-գրոհի կանխման նպատակով։''\n\n'''Եթե սա բարեխիղճ խմբագրման փորձ է, խնդրում ենք փորձել կրկին։ Սխալի կրկնման դեպքում՝ փորձեք [[Special:UserLogout|դուրս գալ]], ապա կրկին մտնել համակարգ։'''"
+
+msgid  "token_suffix_mismatch"
+msgstr  "'''Ձեր խմբագրումը մերժվել է, քանի որ ձեր օգտագործած ծրագիրը աղավաղել է կետադրության նշանները խմբագրման դաշտում։ Խմբագրումը մերժվել է էջի տեքստի խաթարումը կանխելու նպատակով։ Սա երբեմն պայմանավորված է սխալներ պարունակող անանվանեցնող վեբ-փոխարինորդ (proxy) ծառայության օգտագործմամբ։'''"
+
+msgid  "editing"
+msgstr  "Խմբագրում. $1"
+
+msgid  "editingsection"
+msgstr  "Խմբագրում. $1 (բաժին)"
+
+msgid  "editingcomment"
+msgstr  "Խմբագրում $1 (նոր բաժին)"
+
+msgid  "editconflict"
+msgstr  "Խմբագրման ընդհարում. $1"
+
+msgid  "explainconflict"
+msgstr  "Մեկ այլ մասնակից փոփոխել է այս տեքստը ձեր խմբագրման ընթացքում։\nՎերին խմբագրման դաշտում ընդգրկված է ընթացիկ տեքստը, որն ենթակա է հիշման։\nՁեր խմբագրումներով տեքստը գտնվում է ստորին դաշտում։\nՈրպեսզի ձեր փոփոխությունները հիշվեն, միաձուլեք դրանք վերին տեքստի մեջ։\n«{{int:savearticle}}» կոճակին սեղմելով կհիշվի '''միայն''' վերևվի դաշտի տեքստը:"
+
+msgid  "yourtext"
+msgstr  "Ձեր տեքստը"
+
+msgid  "storedversion"
+msgstr  "Պահված տարբերակ"
+
+msgid  "nonunicodebrowser"
+msgstr  "'''ԶԳՈՒՇԱՑՈՒՄ. Ձեր զննարկիչը չունի Յունիկոդ ապահովում։ Հոդվածներ խմբագրելիս բոլոր ոչ-ASCII սիմվլոները փոխարինվելու են իրենց տասնվեցական կոդերով։'''"
+
+msgid  "editingold"
+msgstr  "'''ԶԳՈՒՇԱՑՈՒՄ. Դուք խմբագրում եք այս էջի հնացած տարբերակ։ Էջը հիշելուց հետո հետագա տարբերակներում կատարված փոփոխությունները կկորեն։'''"
+
+msgid  "yourdiff"
+msgstr  "Տարբերությունները"
+
+msgid  "copyrightwarning"
+msgstr  "Հաշվի առեք, որ տեքստի յուրաքանչյուր լրացում և փոփոխություն համարվում է $2 արտոնագրի համաձայն թողարկված (տե՛ս $1 մանրամասների համար)։ Եթե չեք ցանկանում, որ ձեր նյութը անողոքաբար խմբագրվի ու ազատորեն տարածվի, ապա մի՛ տեղադրեք այն այստեղ։<br />\nՆյութն այստեղ տեղադրելով՝ դուք նաև հավաստիացնում եք մեզ, որ այն գրված է ձեր կողմից կամ վերցված է ազատ տարածում և բովանդակային փոփոխություններ թույլատրող աղբյուրներից։\n'''ԱՌԱՆՑ ԹՈՒՅԼՏՎՈՒԹՅԱՆ ՄԻ՛ ՏԵՂԱԴՐԵՔ ՀԵՂԻՆԱԿԱՅԻՆ ԻՐԱՎՈՒՆՔՆԵՐՈՎ ՊԱՇՏՊԱՆՎԱԾ ՆՅՈՒԹԵՐ։'''"
+
+msgid  "copyrightwarning2"
+msgstr  "Խնդրում ենք ի նկատի ունենալ, որ {{SITENAME}} կայքում արված բոլոր ներդրումները կարող են խմբագրվել, վերամշակվել կամ ջնջվել ուրիշ մասնակիցների կողմից։ Եթե դուք չեք ցանկանում, որ ձեր նյութը խմբագրվի, ապա մի՛ տեղադրեք այն այստեղ։<br /> Դուք նաև հավաստիացնում եք մեզ, որ նյութը գրված է ձեր կողմից կամ վերցված է ազատ տարածում և պարունակության փոփոխություններ թույլատրող աղբյուրներից (մանրամասնությունների համար տես $1)։ '''ՄԻ՛ ՏԵՂԱԴՐԵՔ ՀԵՂԻՆԱԿԱՅԻՆ ԻՐԱՎՈՒՆՔՆԵՐՈՎ ՊԱՇՏՊԱՆՎԱԾ ՆՅՈՒԹԵՐ ԱՌԱՆՑ ԹՈՒՅԼԱՏՐՈՒԹՅԱՆ։'''"
+
+msgid  "longpageerror"
+msgstr  "'''ՍԽԱԼ. Ներկայացված տեքստը ունի $1 կիլոբայթ երկարություն, ինչը գերազանցում է սահմանված $2 ԿԲ առավելագույն չափը։ Էջը չի կարող հիշվել։'''"
+
+msgid  "readonlywarning"
+msgstr  "'''ԶԳՈՒՇԱՑՈՒՄ. Տվյալների բազան կողպվել է սպասարկման նպատակով, և դուք չեք կարող հիշել ձեր կատարած փոփոխությունները այս պահին։\nՀավանաբար իմաստ ունի պատճենել տեքստը տեքստային նիշքի մեջ և պահել այն՝ հետագայում նախագծում ավելացնելու համար։'''\n\nՏվյալների բազան կողպած ադմինիստրատորը թողել է հետևյալ բացատրությունը. $1"
+
+msgid  "protectedpagewarning"
+msgstr  "'''ԶԳՈՒՇԱՑՈՒՄ. Այս էջը պաշտպանված է փոփոխություններից. այն կարող են խմբագրել միայն ադմինիստրատորները։'''"
+
+msgid  "semiprotectedpagewarning"
+msgstr  "'''Ծանուցում.''' Այս էջը պաշտպանված է. այն կարող են խմբագրել միայն գրանցված մասնակիցները։"
+
+msgid  "cascadeprotectedwarning"
+msgstr  "'''Զգուշացում.''' Այս էջը պաշտպանված է և կարող է խմբագրվել միայն ադմինիստրատորների կողմից, քանի որ այն ընդգրկված է հետևյալ կասկադային-պաշտպանմամբ {{PLURAL:$1|էջում|էջերում}}."
+
+msgid  "titleprotectedwarning"
+msgstr  "'''Զգուշացում. Այս էջը պաշտպանված է. այն կարող են խմբագրել միայն [[Special:ListGroupRights|համապատասխան իրավունքներով]] մասնակիցները։'''"
+
+msgid  "templatesused"
+msgstr  "Այս էջում օգտագործված {{PLURAL:$1|կաղապարը|կաղապարները}}."
+
+msgid  "templatesusedpreview"
+msgstr  "Այս նախադիտման մեջ օգտագործված {{PLURAL:$1|կաղապարը|կաղապարները}}."
+
+msgid  "templatesusedsection"
+msgstr  "Այս բաժնում օգտագործված {{PLURAL:$1|կաղապարը|կաղապարները}}."
+
+msgid  "template-protected"
+msgstr  "(պաշտպանված)"
+
+msgid  "template-semiprotected"
+msgstr  "(կիսապաշտպանված)"
+
+msgid  "hiddencategories"
+msgstr  "Այս էջը պատկանում է հետևյալ {{PLURAL:$1|1 թաքնված կատեգորիային|$1 թաքնված կատեգորիաներին}}."
+
+msgid  "edittools"
+msgstr  "<!-- Այստեղ տեղադրված տեքստը կցուցադրվի խմբագրման և բեռնման ձևերի տակ։ -->"
+
+msgid  "nocreatetitle"
+msgstr  "Էջերի ստեղծումը սահմանափակված է"
+
+msgid  "nocreatetext"
+msgstr  "{{SITENAME}} կայքում էջերի ստեղծման հնարավորությունը սահմանափակված է։\nԴուք կարող եք վերադառնալ և խմբագրել գոյություն ունեցող էջ կամ էլ [[Special:UserLogin|գրանցվել կամ մտնել համակարգ]]։"
+
+msgid  "nocreate-loggedin"
+msgstr  "Դուք չունեք նոր էջեր ստեղծելու թույլտվություն։"
+
+msgid  "permissionserrors"
+msgstr  "Թույլատրության Սխալներ"
+
+msgid  "permissionserrorstext"
+msgstr  "Ձեզ չի թույլատրվում դա անել հետևյալ {{PLURAL:$1|պատճառով|պատճառներով}}."
+
+msgid  "permissionserrorstext-withaction"
+msgstr  "Ձեզ չի թույլատրվում $2 հետևյալ {{PLURAL:$1|պատճառով|պատճառներով}}."
+
+msgid  "recreate-moveddeleted-warn"
+msgstr  "'''Զգուշացում. դուք փորձում եք վերստեղծել մի էջ, որը ջնջվել է նախկինում։'''\n\nԽնդրում ենք վերանայել ձեր խմբագրման նպատակահարմարությունը։ Հարմարության համար ստորև բերված են այս էջի ջնջման և տեղափոխման տեղեկամատյանները։"
+
+msgid  "moveddeleted-notice"
+msgstr  "Այս էջը հեռացված է։\nԷջի մասին գրառումները տեղափոխման և ջնջման տեղեկամատյանից բերված են ստորև տեղեկության համար։"
+
+msgid  "edit-conflict"
+msgstr  "Խմբագրման ընհարում։"
+
+msgid  "edit-no-change"
+msgstr  "Ձեր խմբագրումը անտեսվել է, քանի որ ոչ մի փոփոխություն չի կատարվել տեքստի մեջ։"
+
+msgid  "undo-success"
+msgstr  "Խմբագրումը կարող է հետ շրջվել։ Ստուգեք տարբերակների համեմատությունը ստորև, որպեսզի համոզվեք, որ դա է ձեզ հետաքրքրող փոփոխությունը և մատնահարեք «Հիշել էջը»՝ գործողությունն ավարտելու համար։"
+
+msgid  "undo-failure"
+msgstr  "Խմբագրումը չի կարող հետ շրջվել միջանկյալ խմբագրումների ընդհարման պատճառով։"
+
+msgid  "undo-summary"
+msgstr  "Հետ է շրջվում $1 խմբագրումը, որի հեղինակն է՝ [[Special:Contributions/$2|$2]] ([[User talk:$2|քննարկում]])"
+
+msgid  "cantcreateaccounttitle"
+msgstr  "Չհաջողվեց ստեղծել մասնակցային հաշիվ"
+
+msgid  "cantcreateaccount-text"
+msgstr  "Այս IP-հասցեից ('''$1''') մասնակցային հաշվի ստեղծումը արգելափակվել է [[User:$3|$3]] մասնակցի կողմից։\n\n$3 մասնակիցը տվել է հետևյալ պատճառը. ''$2''"
+
+msgid  "viewpagelogs"
+msgstr  "Դիտել այս էջի տեղեկամատյանները"
+
+msgid  "nohistory"
+msgstr  "Այս էջը չունի խմբագրումների պատմություն։"
+
+msgid  "currentrev"
+msgstr  "Ընթացիկ տարբերակ"
+
+msgid  "currentrev-asof"
+msgstr  "Ընթացիկ տարբերակը $1-ի դրությամբ"
+
+msgid  "revisionasof"
+msgstr  "$1-ի տարբերակ"
+
+msgid  "revision-info"
+msgstr  "$1 տարբերակ, $2"
+
+msgid  "previousrevision"
+msgstr  "←Նախորդ տարբերակ"
+
+msgid  "nextrevision"
+msgstr  "Հաջորդ տարբերակ→"
+
+msgid  "currentrevisionlink"
+msgstr  "Ընթացիկ տարբերակ"
+
+msgid  "cur"
+msgstr  "ընթ"
+
+msgid  "next"
+msgstr  "հաջորդ"
+
+msgid  "last"
+msgstr  "նախ"
+
+msgid  "page_first"
+msgstr  "առաջին"
+
+msgid  "page_last"
+msgstr  "վերջին"
+
+msgid  "histlegend"
+msgstr  "Տարբերությունների համեմատում. դրեք նշման կետեր այն տարբերակների կողքին, որոնք ուզում եք համեմատել և սեղմեք ներքևում գտնվող կոճակը։<br />\nՊարզաբանում. (ընթ) = համեմատել ընթացիկ տարբերակի հետ,\n(նախ) = համեմատել նախորդ տարբերակի հետ,<br />'''չ''' = չնչին խմբագրում"
+
+msgid  "history-fieldset-title"
+msgstr  "Դիտել պատմությունը"
+
+msgid  "history-show-deleted"
+msgstr  "Միայն ջնջված"
+
+msgid  "histfirst"
+msgstr  "Առաջին"
+
+msgid  "histlast"
+msgstr  "Վերջին"
+
+msgid  "historysize"
+msgstr  "({{PLURAL:$1|1 բայթ|$1 բայթ}})"
+
+msgid  "historyempty"
+msgstr  "(դատարկ)"
+
+msgid  "history-feed-title"
+msgstr  "Փոփոխությունների պատմություն"
+
+msgid  "history-feed-description"
+msgstr  "Վիքիի այս էջի փոփոխումների պատմություն"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$1՝ $2"
+
+msgid  "history-feed-empty"
+msgstr  "Հայցված էջը գոյություն չունի։\nՀնարավոր է այն ջնջվել է վիքիից կամ վերանվանվել։\nՓորձեք [[Special:Search|որոնել վիքիում]] նոր համանման էջեր։"
+
+msgid  "rev-deleted-comment"
+msgstr  "(մեկնաբանությունը հեռացված է)"
+
+msgid  "rev-deleted-user"
+msgstr  "(մասնակցի անունը ջնջված է)"
+
+msgid  "rev-deleted-event"
+msgstr  "(գրությունը հեռացված է)"
+
+msgid  "rev-deleted-text-permission"
+msgstr  "Էջի այս տարբերակը հեռացված է։\nՀնարավոր է մանրամասնություններ լինեն [{{fullurl:{{ns:special}}:Log/delete|page={{PAGENAMEE}}}} ջնջման տեղեկամատյանում]։"
+
+msgid  "rev-deleted-text-view"
+msgstr  "Էջի այս տարբերակը '''ջնջված''' է։\nՈրպես ադմինիստրատոր դուք կարող եք դիտել այն։\nՀնարավոր է ջնջման մանրամասնություններ լինեն [{{fullurl:{{ns:special}}:Log/delete|page={{FULLPAGENAMEE}}}} ջնջման տեղեկամատյանում]։"
+
+msgid  "rev-delundel"
+msgstr  "ցույց տալ/թաքցնել"
+
+msgid  "revisiondelete"
+msgstr  "Ջնջել/վերականգնել տարբերակները"
+
+msgid  "revdelete-nooldid-title"
+msgstr  "Անվավեր նպատակային տարբերակ"
+
+msgid  "revdelete-nooldid-text"
+msgstr  "Դուք կա՛մ չեք նշել նպատակային տարբերակ(ներ)ը այս ֆունկցիայի կատարման համար, կա՛մ նպատակային տարբերակը գոյություն չունի, կա՛մ էլ դուք փորձում եք թաքցնել ընթացիկ տարբերակը։"
+
+msgid  "revdelete-selected"
+msgstr  "'''[[:$1]] էջի ընտրված {{PLURAL:$2|տարբերակը|տարբերակները}}.'''"
+
+msgid  "logdelete-selected"
+msgstr  "'''Տեղեկամատյանի ընտրված {{PLURAL:$1|գրառումը|գրառումները}}.'''"
+
+msgid  "revdelete-text"
+msgstr  "'''Ջնջված տարբերակները երևալու են էջերի պատմության մեջ և տեղեկամատյաններում, բայց դրանց պարունակության մի մասը հասարակ այցելուներին չի ցուցադրվելու։'''\n\nԱդմինիստրատորները հնարավորություն կունենան դիտել թաքցված պարունակությունը, ինչպես նաև վերականգնել այն այս նույն ինտերֆեյսի միջոցով, բացառությամբ ավելորդ սահմանափակումների դեպքում։"
+
+msgid  "revdelete-legend"
+msgstr  "Սահմանել տեսանելիության սահմանափակումներ"
+
+msgid  "revdelete-hide-text"
+msgstr  "Թաքցնել տարբերակի տեքստը"
+
+msgid  "revdelete-hide-image"
+msgstr  "Թաքցնել նիշքի պարունակությունը"
+
+msgid  "revdelete-hide-name"
+msgstr  "Թաքցնել գործողությունը և առարկան"
+
+msgid  "revdelete-hide-comment"
+msgstr  "Թաքցնել մեկնաբանությունը"
+
+msgid  "revdelete-hide-user"
+msgstr  "Թաքցնել հեղինակի մասնակցի անունը/IP"
+
+msgid  "revdelete-hide-restricted"
+msgstr  "Թաքցնել տվյալները և՛ ադմինիստրատորներից, և՛ այլ մասնակիցներից"
+
+msgid  "revdelete-radio-set"
+msgstr  "Այո"
+
+msgid  "revdelete-radio-unset"
+msgstr  "Ոչ"
+
+msgid  "revdelete-suppress"
+msgstr  "Թաքցնել տվյալները ադմինիստրատորներից և մյուսներից նոյնպես"
+
+msgid  "revdelete-unsuppress"
+msgstr  "Հանել սահմանափակումները վերականգնված տարբերակներից"
+
+msgid  "revdelete-log"
+msgstr  "Պատճառ."
+
+msgid  "revdelete-submit"
+msgstr  "Կիրառել ընտրված տարբերակի վրա"
+
+msgid  "revdelete-logentry"
+msgstr  "«[[$1]]»-ի տարբերակների տեսանելիությունը փոփոխված է"
+
+msgid  "logdelete-logentry"
+msgstr  "«[[$1]]»-ի իրադարձությունների տեսանելիությունը փոփոխված է"
+
+msgid  "revdelete-success"
+msgstr  "'''Տարբերակի տեսանելիությունը փոփոխված է։'''"
+
+msgid  "logdelete-success"
+msgstr  "'''Իրադարձության տեսանելիությունը փոփոխված է։'''"
+
+msgid  "revdel-restore"
+msgstr  "Փոխել տեսանելիությունը"
+
+msgid  "pagehist"
+msgstr  "Էջի պատմություն"
+
+msgid  "deletedhist"
+msgstr  "Ջնջումների պատմություն"
+
+msgid  "revdelete-otherreason"
+msgstr  "Ուրիշ/հավելյալ պատճառ՝"
+
+msgid  "revdelete-reasonotherlist"
+msgstr  "Ուրիշ պատճառ"
+
+msgid  "revdelete-edit-reasonlist"
+msgstr  "Խմբագրել ջնջման պատճառների ցանկը"
+
+msgid  "revdelete-offender"
+msgstr  "Էջի տարբերակի հեղինակ՝"
+
+msgid  "revertmerge"
+msgstr  "Անջատել"
+
+msgid  "history-title"
+msgstr  "«$1» էջի փոփոխումների պատմություն"
+
+msgid  "difference"
+msgstr  "(Խմբագրումների միջև եղած տարբերությունները)"
+
+msgid  "lineno"
+msgstr  "Տող  $1."
+
+msgid  "compareselectedversions"
+msgstr  "Համեմատել ընտրած տարբերակները"
+
+msgid  "editundo"
+msgstr  "հետ շրջել"
+
+msgid  "diff-multi"
+msgstr  "({{PLURAL:$1|$1 միջանկյալ տարբերակ|$1 միջանկյալ տարբերակ}} ցուցադրված չէ։)"
+
+msgid  "searchresults"
+msgstr  "Որոնման արդյունքներ"
+
+msgid  "searchresults-title"
+msgstr  "«$1»-ի որոնման արդյունքներ"
+
+msgid  "searchresulttext"
+msgstr  "{{SITENAME}} կայքում որոնման մասին տեղեկությունների համար այցելեք [[{{MediaWiki:Helppage}}|{{int:help}}]] էջը։"
+
+msgid  "searchsubtitle"
+msgstr  "Դուք որոնել եք «'''[[:$1]]'''» ([[Special:Prefixindex/$1|այս անվանմամբ սկսվող էջերը]]{{int:pipe-separator}}[[Special:WhatLinksHere/$1|այս անվանվանը հղվող էջերը]])"
+
+msgid  "searchsubtitleinvalid"
+msgstr  "Դուք որոնել եք «$1»"
+
+msgid  "titlematches"
+msgstr  "Համընկած հոդվածների անվանումներ"
+
+msgid  "notitlematches"
+msgstr  "Չկան համընկած հոդվածների անվանումներ"
+
+msgid  "textmatches"
+msgstr  "Համընկած տեքստերով էջեր"
+
+msgid  "notextmatches"
+msgstr  "Չկան համընկած տեքստերով էջեր"
+
+msgid  "prevn"
+msgstr  "նախորդ {{PLURAL:$1|$1}}"
+
+msgid  "nextn"
+msgstr  "հաջորդ {{PLURAL:$1|$1}}"
+
+msgid  "viewprevnext"
+msgstr  "Դիտել ($1 {{int:pipe-separator}} $2) ($3)"
+
+msgid  "searchmenu-legend"
+msgstr  "Որոնման ընտրանքներ"
+
+msgid  "searchmenu-exists"
+msgstr  "'''Այս վիքիում, գոյություն ունի \"[[:$1]]\" անվանումով էջը։'''"
+
+msgid  "searchmenu-new"
+msgstr  "'''Ստեղծե՛լ \"[[:$1]]\" էջը այս վիքիում'''"
+
+msgid  "searchhelp-url"
+msgstr  "Help:Գլխացանկ"
+
+msgid  "searchmenu-prefix"
+msgstr  "[[Special:PrefixIndex/$1|Ցուցադրել այս նախածանցով սկսվող էջերը]]"
+
+msgid  "searchprofile-articles"
+msgstr  "Հիմնական էջեր"
+
+msgid  "searchprofile-project"
+msgstr  "Օգնության և նախագծերի էջեր"
+
+msgid  "searchprofile-images"
+msgstr  "Մուլտիմեդիա"
+
+msgid  "searchprofile-everything"
+msgstr  "Ամենուրեք"
+
+msgid  "searchprofile-advanced"
+msgstr  "Ընդլայնված"
+
+msgid  "searchprofile-articles-tooltip"
+msgstr  "Որոնել $1ում"
+
+msgid  "searchprofile-project-tooltip"
+msgstr  "Որոնել $1ում"
+
+msgid  "searchprofile-images-tooltip"
+msgstr  "Նիշքերի որոնում"
+
+msgid  "searchprofile-everything-tooltip"
+msgstr  "Որոնել բոլոր էջերում (այդ թվում քննարկման)"
+
+msgid  "searchprofile-advanced-tooltip"
+msgstr  "Որոնել նշված անվանատարածքներում"
+
+msgid  "search-result-size"
+msgstr  "$1 ({{PLURAL:$2|1 բառ|$2 բառ}})"
+
+msgid  "search-redirect"
+msgstr  "(վերահղում $1)"
+
+msgid  "search-section"
+msgstr  "(բաժին $1)"
+
+msgid  "search-suggest"
+msgstr  "Դուք ի նկատի ունե՞ք՝ $1"
+
+msgid  "search-interwiki-caption"
+msgstr  "Կից նախագծեր"
+
+msgid  "search-interwiki-default"
+msgstr  "$1 արդյունք."
+
+msgid  "search-interwiki-more"
+msgstr  "(էլի)"
+
+msgid  "search-mwsuggest-enabled"
+msgstr  "առաջարկներով"
+
+msgid  "search-mwsuggest-disabled"
+msgstr  "առանց առաջարկների"
+
+msgid  "search-relatedarticle"
+msgstr  "Հարակից"
+
+msgid  "mwsuggest-disable"
+msgstr  "Անջատել AJAX հուշումներ"
+
+msgid  "searcheverything-enable"
+msgstr  "Որոնել բոլոր անվանատարածքներում"
+
+msgid  "searchrelated"
+msgstr  "հարակից"
+
+msgid  "searchall"
+msgstr  "բոլոր"
+
+msgid  "showingresults"
+msgstr  "Ստորև բերված է մինչև {{PLURAL:$1|'''1''' արդյունք|'''$1''' արդյունք}}՝ սկսած №&nbsp;<strong>$2</strong>-ից։"
+
+msgid  "showingresultsnum"
+msgstr  "Ստորև բերված է {{PLURAL:$3|'''1''' արդյունք|'''$3''' արդյունք}}` սկսած №&nbsp;<strong>$2</strong>-ից։"
+
+msgid  "showingresultsheader"
+msgstr  "{{PLURAL:$5|'''$1''' արդյունք '''$3'''-ից|'''$1 - $2''' արդյունքներ '''$3'''-ից}}  '''$4'''-ի համար"
+
+msgid  "nonefound"
+msgstr  "'''Ծանուցում'''։ Լռությամբ որոնումը կատարվում է ոչ բոլոր անվանատարածքներում։ Բոլոր անվանատարածքներում որոնելու համար (ներառյալ քննարկման էջերը, կաղապարները և այլն) օգտագործեք ''all:'' նախածանցը կամ նշեք ցանկացած անվանատարածքի անվանումը որպես նախածանց։"
+
+msgid  "search-nonefound"
+msgstr  "Որոնմանը համապատասխանող արդյունքներ չեն գտնվել։"
+
+msgid  "powersearch"
+msgstr  "Ընդլայնված որոնում"
+
+msgid  "powersearch-legend"
+msgstr  "Ընդլայնված որոնում"
+
+msgid  "powersearch-ns"
+msgstr  "Որոնել անվանատարածքում."
+
+msgid  "powersearch-redir"
+msgstr  "Ցույց տալ վերահղումները"
+
+msgid  "powersearch-field"
+msgstr  "Որոնել"
+
+msgid  "powersearch-togglelabel"
+msgstr  "Նշել․"
+
+msgid  "powersearch-toggleall"
+msgstr  "Բոլորը"
+
+msgid  "powersearch-togglenone"
+msgstr  "Ոչ մեկը"
+
+msgid  "search-external"
+msgstr  "Արտաքին որոնում"
+
+msgid  "searchdisabled"
+msgstr  "{{SITENAME}} կայքի ներքին որոնումը անջատված է։ Դուք կարող եք որոնել կայքի պարունակությունը արտաքին որոնման շարժիչներով (Google, Yahoo...), սակայն, ի նկատի ունեցեք, որ կայքի իրենց ինդեքսները կարող են հնացած լինել։"
+
+msgid  "qbsettings"
+msgstr  "Արագ անցման վահանակ"
+
+msgid  "qbsettings-none"
+msgstr  "Չցուցադրել"
+
+msgid  "qbsettings-fixedleft"
+msgstr  "Ձախից անշարժ"
+
+msgid  "qbsettings-fixedright"
+msgstr  "Աջից անշարժ"
+
+msgid  "qbsettings-floatingleft"
+msgstr  "Ձախից լողացող"
+
+msgid  "qbsettings-floatingright"
+msgstr  "Աջից լողացող"
+
+msgid  "preferences"
+msgstr  "Նախընտրություններ"
+
+msgid  "mypreferences"
+msgstr  "Իմ նախընտրությունները"
+
+msgid  "prefs-edits"
+msgstr  "Խմբագրումների քանակը."
+
+msgid  "prefsnologin"
+msgstr  "Դուք չեք մտել համակարգ"
+
+msgid  "prefsnologintext"
+msgstr  "Մասնակցային նախընտրությունները փոփոխելու համար անհրաժեշտ է <span class=\"plainlinks\">[{{fullurl:{{#Special:UserLogin}}|returnto=$1}} մտնել համակարգ]</span>։"
+
+msgid  "changepassword"
+msgstr  "Փոխել գաղտնաբառը"
+
+msgid  "prefs-skin"
+msgstr  "Տեսք"
+
+msgid  "skin-preview"
+msgstr  "նախադիտել"
+
+msgid  "prefs-math"
+msgstr  "Մաթեմատիկական բանաձևեր"
+
+msgid  "datedefault"
+msgstr  "Առանց նախընտրության"
+
+msgid  "prefs-datetime"
+msgstr  "Օր ու ժամ"
+
+msgid  "prefs-personal"
+msgstr  "Անձնական"
+
+msgid  "prefs-rc"
+msgstr  "Վերջին փոփոխություններ"
+
+msgid  "prefs-watchlist"
+msgstr  "Հսկացանկ"
+
+msgid  "prefs-watchlist-days"
+msgstr  "Հսկացանկում ցուցադրվող օրերի թիվը՝"
+
+msgid  "prefs-watchlist-days-max"
+msgstr  "(7 օրից ոչ ավել)"
+
+msgid  "prefs-watchlist-edits"
+msgstr  "Ընդարձակված հսկացանկում ցուցադրվող օրերի թիվը՝"
+
+msgid  "prefs-watchlist-edits-max"
+msgstr  "(1000-ից ոչ ավել)"
+
+msgid  "prefs-watchlist-token"
+msgstr  "Հսկացանկի կտրոն."
+
+msgid  "prefs-misc"
+msgstr  "Այլ"
+
+msgid  "prefs-resetpass"
+msgstr  "Փոխել գաղտնաբառը"
+
+msgid  "prefs-email"
+msgstr  "Էլ-հասցեի ընտրանքներ"
+
+msgid  "prefs-rendering"
+msgstr  "Արտաքին տեսք"
+
+msgid  "saveprefs"
+msgstr  "Հիշել"
+
+msgid  "resetprefs"
+msgstr  "Անտեսել փոփոխությունները"
+
+msgid  "restoreprefs"
+msgstr  "Զրոյացնել, բերելով իլռելայն նախընտրանքներին"
+
+msgid  "prefs-editing"
+msgstr  "Խմբագրում"
+
+msgid  "prefs-edit-boxsize"
+msgstr  "Խմբագրման պատուհանի չափը։"
+
+msgid  "rows"
+msgstr  "Տողեր`"
+
+msgid  "columns"
+msgstr  "Սյունակներ"
+
+msgid  "searchresultshead"
+msgstr  "Որոնում"
+
+msgid  "resultsperpage"
+msgstr  "Արդյունքների քանակը մեկ էջում."
+
+msgid  "contextlines"
+msgstr  "Տողերի քանակը յուրաքանչյուր արդյունքում."
+
+msgid  "contextchars"
+msgstr  "Սիմվոլների քանակը յուրաքանչյուր տողում."
+
+msgid  "stub-threshold"
+msgstr  "<a href=\"#\" class=\"stub\">Պատառ հոդվածների հղումների</a> ձևավորման որոշման սահմանը."
+
+msgid  "recentchangesdays"
+msgstr  "Վերջին փոփոխություններում ցուցադրվող օրերի թիվը՝"
+
+msgid  "recentchangesdays-max"
+msgstr  "($1 {{PLURAL:$1|օրից|օրից}} ոչ ավել)"
+
+msgid  "recentchangescount"
+msgstr  "Խմբագրումների թիվը ըստ լռության."
+
+msgid  "prefs-help-recentchangescount"
+msgstr  "Ներառում է վերջին փոփոխությունները, էջերի պատմությունը և տեղեկամատյանները։"
+
+msgid  "prefs-help-watchlist-token"
+msgstr  "Այս դաշտը գաղտնի բանալիով լռացնելը կբերի ձեր հսկողության ցանկի RSS ժապավենի ստեղծմանը։\nՑանկացած մեկը, ով գիտի այս բանալին, կարող է կարդալ ձեր հսկողության ցանկը, այդ պատճառով ընտրեք գաղտնի արժեք։\nԴուք կարող եք օգտագործել այս պատահականորեն գեներացված բանալին՝ $1"
+
+msgid  "savedprefs"
+msgstr  "Ձեր նախընտրությունները հիշված են։"
+
+msgid  "timezonelegend"
+msgstr  "Ժամային գոտի."
+
+msgid  "localtime"
+msgstr  "Տեղական ժամանակ."
+
+msgid  "timezoneuseserverdefault"
+msgstr  "Օգտագործել սերվերի ժամանակը"
+
+msgid  "timezoneuseoffset"
+msgstr  "Այլ (նշեք տարբերությունը)"
+
+msgid  "timezoneoffset"
+msgstr  "Տարբերություն¹."
+
+msgid  "servertime"
+msgstr  "Սերվերի ժամանակ."
+
+msgid  "guesstimezone"
+msgstr  "Լրացնել բրաուզերից"
+
+msgid  "timezoneregion-africa"
+msgstr  "Աֆրիկա"
+
+msgid  "timezoneregion-america"
+msgstr  "Ամերիկա"
+
+msgid  "timezoneregion-antarctica"
+msgstr  "Անտարկտիկա"
+
+msgid  "timezoneregion-arctic"
+msgstr  "Արկտիկա"
+
+msgid  "timezoneregion-asia"
+msgstr  "Ասիա"
+
+msgid  "timezoneregion-atlantic"
+msgstr  "Ատլանտյան օվկիանոս"
+
+msgid  "timezoneregion-australia"
+msgstr  "Ավստրալիա"
+
+msgid  "timezoneregion-europe"
+msgstr  "Եվրոպա"
+
+msgid  "timezoneregion-indian"
+msgstr  "Հնդկական Օվկիանոս"
+
+msgid  "timezoneregion-pacific"
+msgstr  "Խաղաղ օվկիանոս"
+
+msgid  "allowemail"
+msgstr  "Թույլատրել էլ-նամակներ մյուս մասնակիցներից"
+
+msgid  "prefs-searchoptions"
+msgstr  "Որոնման ընտրանքներ"
+
+msgid  "prefs-namespaces"
+msgstr  "Անվանատարածք"
+
+msgid  "defaultns"
+msgstr  "Հակառակ դեպքում, որոնել այս անվանատարծքներում․"
+
+msgid  "default"
+msgstr  "լռությամբ"
+
+msgid  "prefs-files"
+msgstr  "Նիշքեր"
+
+msgid  "prefs-custom-css"
+msgstr  "Անհատական CSS"
+
+msgid  "prefs-custom-js"
+msgstr  "Անհատական JS"
+
+msgid  "prefs-reset-intro"
+msgstr  "Այս էջում հնաարավոր է զրոյացնել ձեր բոլոր նախընրանքները, փոխելով դրանք իլռելայն նախընտրանքների։\nԳործողությունը հաստատելուց հետո, նածընտրանքները հնաարվոր չի լինելու հետ բերել։"
+
+msgid  "prefs-emailconfirm-label"
+msgstr  "Էլ-փոստի վավերացում․"
+
+msgid  "prefs-textboxsize"
+msgstr  "Խմբագրման պատուհանի չափը"
+
+msgid  "youremail"
+msgstr  "Էլեկտրոնային փոստ."
+
+msgid  "username"
+msgstr  "Մասնակցի անուն."
+
+msgid  "uid"
+msgstr  "Մասնակցի իդենտիֆիկատոր."
+
+msgid  "prefs-memberingroups"
+msgstr  "Անդամակցության {{PLURAL:$1|խումբ|խմբեր}}."
+
+msgid  "prefs-registration"
+msgstr  "Գրանցման ամսաթիվը․"
+
+msgid  "yourrealname"
+msgstr  "Ձեր իրական անունը."
+
+msgid  "yourlanguage"
+msgstr  "Ինտերֆեյսի լեզուն."
+
+msgid  "yourvariant"
+msgstr  "Լեզվական տարբերակ"
+
+msgid  "yournick"
+msgstr  "Ստորագրություն."
+
+msgid  "prefs-help-signature"
+msgstr  "Քննարկման էջերում մեկնաբանությունները անհրաժեշտ է ստորագրել \"<nowiki>~~~~</nowiki>\" նշանագրով, որը կվերածվի ձեր ստորագրությանը և ամսաթվին։"
+
+msgid  "badsig"
+msgstr  "Սխալ ստորագրություն. ստուգեք HTML-թեգերը։"
+
+msgid  "badsiglength"
+msgstr  "Ստորագրությունը շատ երկար է։\nԱյն պետք է լինի {{PLURAL:$1|սիմվոլից|սիմվոլից}} ոչ ավել։"
+
+msgid  "yourgender"
+msgstr  "Սեռ․"
+
+msgid  "gender-unknown"
+msgstr  "Չնշված"
+
+msgid  "gender-male"
+msgstr  "Արական"
+
+msgid  "gender-female"
+msgstr  "Իգական"
+
+msgid  "prefs-help-gender"
+msgstr  "Ոչ պարտադիր դաշտ․ ծրագիրը օգտագործում է այս տվյալը մասնակցին ճիշտ դիմելու համար։\nԱյս տեղեկությունը բոլորին տեսանլի է լինելու։"
+
+msgid  "email"
+msgstr  "Էլ-փոստ"
+
+msgid  "prefs-help-realname"
+msgstr  "Իրական անունը պարտադիր չէ, սակայն եթե դուք նշեք դա, ապա այն կօգտագործվի ձեր փոփոխությունների իրական անվանը վերագրման համար։"
+
+msgid  "prefs-help-email"
+msgstr  "Էլեկտրոնային փոստի մուտքագրումը պարտադիր չէ, սակայն սա թույլ կտա մյուս մասնակիցներին կապնվել ձեզ հետ ձեր մասնակցի կամ մասնակցի քննարկման էջի միջոցով՝ առանց ձեր անձի կամ ձեր էլեկտրոնային հասցեի բացահայտման։"
+
+msgid  "prefs-help-email-required"
+msgstr  "Էլ-փոստի հասցեն նշելը պարտադիր է։"
+
+msgid  "prefs-info"
+msgstr  "Հիմնական տեղեկություններ"
+
+msgid  "prefs-i18n"
+msgstr  "Միջազգայնացում"
+
+msgid  "prefs-signature"
+msgstr  "Ստորագրություն"
+
+msgid  "prefs-dateformat"
+msgstr  "Ամսաթվի ձևաչափ"
+
+msgid  "prefs-timeoffset"
+msgstr  "Ժամային տարբերություն"
+
+msgid  "prefs-advancedediting"
+msgstr  "Ընդլայնված ընրանքներ"
+
+msgid  "prefs-advancedrc"
+msgstr  "Ընդլայնված ընրանքներ"
+
+msgid  "prefs-advancedrendering"
+msgstr  "Ընդլայնված ընրանքներ"
+
+msgid  "prefs-advancedsearchoptions"
+msgstr  "Ընդլայնված ընրանքներ"
+
+msgid  "prefs-advancedwatchlist"
+msgstr  "Ընդլայնված ընրանքներ"
+
+msgid  "prefs-displayrc"
+msgstr  "Ցուցադրման ընտրանքներ"
+
+msgid  "prefs-diffs"
+msgstr  "Տարբերություններ"
+
+msgid  "userrights"
+msgstr  "Մասնակիցների իրավունքների կառավարում"
+
+msgid  "userrights-lookup-user"
+msgstr  "Մասնակիցների խմբերի կառավարում"
+
+msgid  "userrights-user-editname"
+msgstr  "Մուտքագրեք մասնակցի անուն."
+
+msgid  "editusergroup"
+msgstr  "Խմբագրել մասնակիցների խմբերը"
+
+msgid  "editinguser"
+msgstr  "<b>$1</b> մասնակցի համար ([[User talk:$1|{{int:talkpagelinktext}}]] | [[Special:Contributions/$1|{{int:contribslink}}]])"
+
+msgid  "userrights-editusergroup"
+msgstr  "Խմբագրել մասնակցի խմբերը"
+
+msgid  "saveusergroups"
+msgstr  "Հիշել մասնակցի խմբերը"
+
+msgid  "userrights-groupsmember"
+msgstr  "Անդամ է."
+
+msgid  "userrights-reason"
+msgstr  "Պատճառ."
+
+msgid  "userrights-changeable-col"
+msgstr  "Խմբեր, որոնք դուք կարող եք ձևափոխել"
+
+msgid  "group"
+msgstr  "Խումբ."
+
+msgid  "group-user"
+msgstr  "Մասնակիցներ"
+
+msgid  "group-autoconfirmed"
+msgstr  "Ավտովավերացված մասնակիցներ"
+
+msgid  "group-bot"
+msgstr  "Բոտեր"
+
+msgid  "group-sysop"
+msgstr  "Ադմիններ"
+
+msgid  "group-bureaucrat"
+msgstr  "Բյուրոկրատներ"
+
+msgid  "group-suppress"
+msgstr  "Հսկիչներ"
+
+msgid  "group-all"
+msgstr  "(բոլոր)"
+
+msgid  "group-user-member"
+msgstr  "մասնակից"
+
+msgid  "group-autoconfirmed-member"
+msgstr  "Ավտովավերացված մասնակից"
+
+msgid  "group-bot-member"
+msgstr  "Բոտ"
+
+msgid  "group-sysop-member"
+msgstr  "Ադմին"
+
+msgid  "group-bureaucrat-member"
+msgstr  "Բյուրոկրատ"
+
+msgid  "group-suppress-member"
+msgstr  "Հսկիչ"
+
+msgid  "grouppage-user"
+msgstr  "{{ns:project}}:Մասնակիցներ"
+
+msgid  "grouppage-autoconfirmed"
+msgstr  "{{ns:project}}:Ավտովավերացված մասնակից"
+
+msgid  "grouppage-bot"
+msgstr  "{{ns:project}}:Բոտ"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:Ադմինիստրատոր"
+
+msgid  "grouppage-bureaucrat"
+msgstr  "{{ns:project}}:Բյուրոկրատ"
+
+msgid  "grouppage-suppress"
+msgstr  "{{ns:project}}:Հսկիչ"
+
+msgid  "right-edit"
+msgstr  "էջերի խմբագրում"
+
+msgid  "right-upload"
+msgstr  "Նիշքերի բեռնում"
+
+msgid  "right-delete"
+msgstr  "Էջերի ջնջում"
+
+msgid  "rightslog"
+msgstr  "Մասնակցի իրավունքների տեղեկամատյան"
+
+msgid  "rightslogtext"
+msgstr  "Սա մասնակիցների իրավունքների փոփոխությունների տեղեկամատյանն է։"
+
+msgid  "rightslogentry"
+msgstr  "$1 մասնակցի անդամակցությունը փոխվել է $2-ից $3"
+
+msgid  "rightsnone"
+msgstr  "(ոչ մի)"
+
+msgid  "action-edit"
+msgstr  "խմբագրել այս էջը"
+
+msgid  "nchanges"
+msgstr  "$1 {{PLURAL:$1|փոփոխություն|փոփոխություն}}"
+
+msgid  "recentchanges"
+msgstr  "Վերջին փոփոխություններ"
+
+msgid  "recentchanges-legend"
+msgstr  "Վերջին փոփոխությունների նախընտրություններ"
+
+msgid  "recentchangestext"
+msgstr  "Հետևեք վիքիում կատարված վերջին փոփոխություններին այս էջում։"
+
+msgid  "recentchanges-feed-description"
+msgstr  "Հետևեք վիքիում կատարված վերջին փոփոխություններին այս սնուցման մեջ։"
+
+msgid  "recentchanges-label-newpage"
+msgstr  "Այս խմբագրմամբ ստեղծվել է նոր էջ"
+
+msgid  "recentchanges-label-minor"
+msgstr  "Սա չնչին խմբագրում է"
+
+msgid  "recentchanges-label-bot"
+msgstr  "Այս խմբագրումը կատարվել է բոտի կողմից"
+
+msgid  "recentchanges-label-unpatrolled"
+msgstr  "Այս խմբագրումը դեռ չի պարեկվել"
+
+msgid  "rcnote"
+msgstr  "Ստորև բերված են վերջին <strong>$1</strong> փոփոխությունները վերջին <strong>$2</strong> {{PLURAL:$2|օրվա|օրվա}} ընթացքում՝ $5, $4-ի դրությամբ։"
+
+msgid  "rcnotefrom"
+msgstr  "Ստորև բերված են փոփոխությունները սկսած՝ '''$2''' (մինչև՝ '''$1''')։"
+
+msgid  "rclistfrom"
+msgstr  "Ցույց տալ նոր փոփոխությունները սկսած $1"
+
+msgid  "rcshowhideminor"
+msgstr  "$1 չնչին խմբագրումները"
+
+msgid  "rcshowhidebots"
+msgstr  "$1 բոտերին"
+
+msgid  "rcshowhideliu"
+msgstr  "$1 մուտք գործած մասնակիցներին"
+
+msgid  "rcshowhideanons"
+msgstr  "$1 անանուն մասնակիցներին"
+
+msgid  "rcshowhidepatr"
+msgstr  "$1 ստուգված խմբագրումները"
+
+msgid  "rcshowhidemine"
+msgstr  "$1 իմ խմբագրումները"
+
+msgid  "rclinks"
+msgstr  "Ցույց տալ վերջին $1 փոփոխությունները վերջին $2 օրվա ընթացքում<br />$3"
+
+msgid  "diff"
+msgstr  "տարբ"
+
+msgid  "hist"
+msgstr  "պատմ"
+
+msgid  "hide"
+msgstr  "Թաքցնել"
+
+msgid  "show"
+msgstr  "Ցույց տալ"
+
+msgid  "minoreditletter"
+msgstr  "չ"
+
+msgid  "newpageletter"
+msgstr  "Ն"
+
+msgid  "boteditletter"
+msgstr  "բ"
+
+msgid  "number_of_watching_users_pageview"
+msgstr  "[$1 հսկող {{PLURAL:$1|մասնակից|մասնակիցներին}}]"
+
+msgid  "rc_categories"
+msgstr  "Սահմանափակել կատեգորիաներով (բաժանեք «|» նշանով)"
+
+msgid  "rc_categories_any"
+msgstr  "Բոլոր"
+
+msgid  "newsectionsummary"
+msgstr  "/* $1 */ Նոր բաժին"
+
+msgid  "rc-enhanced-expand"
+msgstr  "Ցույց տալ մանրամասներ (պահանջում է JavaScript)"
+
+msgid  "rc-enhanced-hide"
+msgstr  "Թաքցնել մանրամասները"
+
+msgid  "recentchangeslinked"
+msgstr  "Կապված փոփոխություններ"
+
+msgid  "recentchangeslinked-feed"
+msgstr  "Կապված փոփոխություններ"
+
+msgid  "recentchangeslinked-toolbox"
+msgstr  "Կապված փոփոխություններ"
+
+msgid  "recentchangeslinked-title"
+msgstr  "«$1» էջին կապված փոփոխությունները"
+
+msgid  "recentchangeslinked-noresult"
+msgstr  "Կապակցված էջերում նշված ժամանակաընթացքում փոփոխություններ չեն եղել։"
+
+msgid  "recentchangeslinked-summary"
+msgstr  "Այս սպասարկող էջում բերված են հղվող էջերում կատարված վերջին փոփոխությունները։ Ձեր հսկացանկի էջերը ներկայացված են '''թավատառ'''։"
+
+msgid  "recentchangeslinked-page"
+msgstr  "Էջի անվանումը՝"
+
+msgid  "recentchangeslinked-to"
+msgstr  "Հակառա՛կը. ցույց տալ այս էջին հղող էջերի փոփոխությունները։"
+
+msgid  "upload"
+msgstr  "Բեռնել նիշք"
+
+msgid  "uploadbtn"
+msgstr  "Բեռնել նիշք"
+
+msgid  "reuploaddesc"
+msgstr  "Վերադառնալ բեռնման ձևին։"
+
+msgid  "uploadnologin"
+msgstr  "Դուք չեք մտել համակարգ"
+
+msgid  "uploadnologintext"
+msgstr  "Նիշքեր բեռնելու համար անհրաժեշտ է [[Special:UserLogin|մտնել համակարգ]]։"
+
+msgid  "upload_directory_read_only"
+msgstr  "Վեբ-սերվերը չունի գրելու իրավունք բեռնումների թղթապանակում ($1)։"
+
+msgid  "uploaderror"
+msgstr  "Բեռնման սխալ"
+
+msgid  "uploadtext"
+msgstr  "Նիշք բեռնելու համար օգտագործեք ստորև բերված ձևը։\nՆախկինում բեռնված նիշքերը դիտելու կամ որոնելու համար այցելեք [[Սպասարկող:Պատկերներիցանկը|բեռնված նիշքերի ցանկը]]։ Բեռնումները գրանցվում են [[Սպասարկող:Տեղեկամատյան/upload|բեռնման տեղեկամատյանում]], ջնջումները՝ [[Սպասարկող:Տեղեկամատյան/delete|ջնջման տեղեկամատյանում]]։\n\nԱյս նիշքը որևէ էջում ընդգրկելու համար օգտագործեք հետևյալ հղման ձևերը.\n* '''<nowiki>[[</nowiki>{{ns:file}}<nowiki>:Նիշք.jpg]]</nowiki>''' - ամբողջական չափի պատկեր տեղադրելու համար,\n* '''<nowiki>[[</nowiki>{{ns:file}}<nowiki>:Նիշք.png|200px|thumb|left|այլ. տեքստ]]</nowiki>''' - 200 փիքսել լայնությամբ տարբերակը ձախ կողմում շրջանակի մեջ և «այլ․ տեքստ» բացատրությամբ տեղադրելու համար\n* '''<nowiki>[[</nowiki>{{ns:media}}<nowiki>:Նիշք.ogg]]</nowiki>''' - նիշքին ուղիղ հղման համար"
+
+msgid  "uploadlog"
+msgstr  "բեռնման տեղեկամատյան"
+
+msgid  "uploadlogpage"
+msgstr  "Բեռնման տեղեկամատյան"
+
+msgid  "uploadlogpagetext"
+msgstr  "Ստորև բերված է ամենավերջին բեռնված նիշքերի ցանկը։\nՏե՛ս [[Սպասարկող:Նորպատկերներ|նոր նիշքերի սրահը]]՝ ավելի պատկերավոր դիտման համար։"
+
+msgid  "filename"
+msgstr  "Նիշքի անվանում"
+
+msgid  "filedesc"
+msgstr  "Ամփոփում"
+
+msgid  "fileuploadsummary"
+msgstr  "Նկարագրություն՝"
+
+msgid  "filestatus"
+msgstr  "Հեղինակային իրավունքի կարգավիճակ."
+
+msgid  "filesource"
+msgstr  "Աղբյուր՝"
+
+msgid  "uploadedfiles"
+msgstr  "Բեռնված նիշքեր"
+
+msgid  "ignorewarning"
+msgstr  "Անտեսել զգուշացումը և պահպանել նիշքը ամեն դեպքում։"
+
+msgid  "ignorewarnings"
+msgstr  "Անտեսել բոլոր նախազգուշացումները"
+
+msgid  "minlength1"
+msgstr  "Նիշքի անվանումը պետք է պարունակի առնվազն մեկ տառ"
+
+msgid  "illegalfilename"
+msgstr  "«$1» նիշքի անվանումը պարունակում է սիմվոլներ, որոնք անթույլատրելի են էջերի անվանումներում։ Խնդրում ենք վերանվանել նիշքը և այն կրկին բեռնել։"
+
+msgid  "badfilename"
+msgstr  "Պատկերի վերանվանվել է «$1» անվանման։"
+
+msgid  "filetype-badmime"
+msgstr  "«$1» MIME-տեսակով նիշքերի բեռնումը արգելված է։"
+
+msgid  "filetype-missing"
+msgstr  "Նիշքը չունի ընդլայնում (օրինակ՝ «.jpg»)։"
+
+msgid  "large-file"
+msgstr  "Խորհուրդ է տրվում չօգտագործել $1 բայթից մեծ նիշքեր. այս նիշքի չափն է՝  $2 բայթ։"
+
+msgid  "largefileserver"
+msgstr  "Այս նիշքը սպասարկիչի թույլատրած առավելագույն չափից մեծ է։"
+
+msgid  "emptyfile"
+msgstr  "Ձեր բեռնած նիշքը ըստ երևույթին դատարկ է։ Հնարավոր է սա նիշքի անվանման մեջ տառասխալի հետևանք է։ Խնդրում ենք ստուգել, թե արդյոք իսկապես ուզում եք բեռնել այս նիշքը։"
+
+msgid  "fileexists"
+msgstr  "Այսպիսի անվանմամբ նիշք արդեն գոյություն ունի։ Խնդրում ենք ստուգել '''<tt>[[:$1]]</tt>''', եթե դուք համոզված չեք, որ ուզում եք այն փոխարինել։\n[[$1|thumb]]"
+
+msgid  "fileexists-extension"
+msgstr  "Գոյություն ունի համանման անվանմամբ նիշք՝ [[$2|thumb]]\n* Բեռնված նիշքի անվանում՝ '''<tt>[[:$1]]</tt>'''\n* Գոյություն ունեցող նիշքի անվանում՝ '''<tt>[[:$2]]</tt>'''\nԽնդրում ենք ընտրել մեկ այլ անվանում։"
+
+msgid  "fileexists-thumbnail-yes"
+msgstr  "Նիշքը ըստ երևույթին փոքրացված պատճեն է ''(պատկերիկ)''։ [[$1|thumb]]\nԽնդրում ենք ստուգել '''<tt>[[:$1]]</tt>''' նիշքը։\nԵթե նշված նիշքը նույն պատկերն է բնօրինակ չափով, ապա հարկովոր չէ բեռնել նրա փոքրացված պատճենը։"
+
+msgid  "file-thumbnail-no"
+msgstr  "Նիշքի անվանման սկիզբն է՝ '''<tt>$1</tt>'''։ \nՀավանաբար սա փոքրացված պատճեն է ''(պատկերիկ)''։ \nԵթե դուք այս պատկերը ամբողջական լուծաչափով ունեք, ապա խնդրում ենք բեռնել այն, հակառակ դեպքում՝ խնդրում ենք փոխել նիշքի անվանումը։"
+
+msgid  "fileexists-forbidden"
+msgstr  "Այսպիսի անվանմամբ նիշք արդեն գոյություն ունի։ Խնդրում ենք հետ վերադառնալ և բեռնել նիշքը նոր անվանմամբ։ [[File:$1|thumb|center|$1]]"
+
+msgid  "fileexists-shared-forbidden"
+msgstr  "Այսպիսի անվանմամբ նիշք արդեն գոյություն ունի նիշքերի ընդհանուր զետեղարանում։ Խնդրում ենք հետ վերադառնալ և բեռնել նիշքը նոր անվանմամբ։ [[File:$1|thumb|center|$1]]"
+
+msgid  "uploadwarning"
+msgstr  "Զգուշացում"
+
+msgid  "savefile"
+msgstr  "Հիշել նիշքը"
+
+msgid  "uploadedimage"
+msgstr  "բեռնվեց «[[$1]]»"
+
+msgid  "overwroteimage"
+msgstr  "բեռնվեց «[[$1]]» նիշքի նոր տարբերակ"
+
+msgid  "uploaddisabled"
+msgstr  "Բեռնումները արգելված են"
+
+msgid  "uploaddisabledtext"
+msgstr  "Նիշքերի բեռնումը արգելափակված է։"
+
+msgid  "uploadscripted"
+msgstr  "Այս նիշքը պարունակում է HTML-կոդ կամ գրվածք (սկրիպտ), որը կարող է սխալ մեկնաբանվել զննարկիչի կողմից։"
+
+msgid  "uploadvirus"
+msgstr  "Նիշքը պարունակում է վիրո՜ւս։ Տես $1"
+
+msgid  "sourcefilename"
+msgstr  "Սկզբնական նիշք՝"
+
+msgid  "destfilename"
+msgstr  "Նիշքի նոր անվանում՝"
+
+msgid  "watchthisupload"
+msgstr  "Հսկել այս նիշքը"
+
+msgid  "filewasdeleted"
+msgstr  "Այս անվանմամբ նիշք նախկինում բեռնվել է և հետագայում ջնջվել։ Այն կրկին բեռնելուց առաջ խնդրում ենք ստուգել $1։"
+
+msgid  "upload-wasdeleted"
+msgstr  "'''Զգուշացում. Դուք փորձում եք բեռնել նախկինում ջնջված նիշք։'''\n\nԽնդրում ենք վերանայել նիշքի բեռնման նպատակահարմարությունը։\nԱյս նիշքի ջնջման տեղեկամատյանը բերված է ստորև."
+
+msgid  "filename-bad-prefix"
+msgstr  "Բեռնվող նիշքի անվանումը սկսվում է '''<tt>«$1»</tt>''' արտահայտությամբ, որը ոչ-նկարագրական է և սովորաբար տրվում է թվային լուսանկարչական ապարատների կողմից։ Խնդրում ենք ընտրել ավելի նկարագրական անվանում ձեր նիշքի համար։"
+
+msgid  "upload-success-subj"
+msgstr  "Բեռնումը կատարված է"
+
+msgid  "upload-proto-error"
+msgstr  "Սխալ պրոտոկոլ"
+
+msgid  "upload-proto-error-text"
+msgstr  "Հեռավոր բեռնումը պահանջում է URL-հասցե, որը սկսվում է <code>http://</code> կամ <code>ftp://</code> նախածանցով։"
+
+msgid  "upload-file-error"
+msgstr  "Ներքին սխալ"
+
+msgid  "upload-file-error-text"
+msgstr  "Տեղի ունեցավ ներքին սխալ՝ սերվերի վրա ժամանակավոր նիշք ստեղծելիս։ Խնդրում ենք կապնվել համակարգային [[Special:ListUsers/sysop|ադմինիստրատորի]] հետ։"
+
+msgid  "upload-misc-error"
+msgstr  "Բեռնման անհայտ սխալ"
+
+msgid  "upload-misc-error-text"
+msgstr  "Տեղի ունեցավ անհայտ սխալ բեռնման ընթացքում։ Խնդրում ենք ստուգել URL-հասցեի ճշտությունն ու հասանելիությունը և փորձել կրկին։ Սխալի կրկնման դեպքում կապնվեք համակարգային ադմինիստրատորի հետ։"
+
+msgid  "upload-curl-error6"
+msgstr  "URL-հասցեն անհասանելի է"
+
+msgid  "upload-curl-error6-text"
+msgstr  "Նշված URL-հասցեն անհասանելի է։ Խնդրում ենք ստուգել հասցեի ճշգրտությունը և կայքի գործունությունը։"
+
+msgid  "upload-curl-error28"
+msgstr  "Բեռնման ժամհատնում"
+
+msgid  "upload-curl-error28-text"
+msgstr  "Կայքի պատասխանը ձգձգվում է։ Խնդրում ենք ստուգել կայքի գործունությունը, սպասել մի որոշ ժամանակ և փորձել կրկին։ Արժե գործողությունը փորձել կայքի քիչ բեռնվածության ժամանակ։"
+
+msgid  "license"
+msgstr  "Արտոնագրում․"
+
+msgid  "license-header"
+msgstr  "Արտոնագրում"
+
+msgid  "nolicense"
+msgstr  "Ընտրված չէ"
+
+msgid  "license-nopreview"
+msgstr  "(Նախադիտումը մատչելի չէ)"
+
+msgid  "upload_source_url"
+msgstr  " (գործուն, հանրամատչելի URL-հասցե)"
+
+msgid  "upload_source_file"
+msgstr  " (նիշք ձեր համակարգչի վրա)"
+
+msgid  "listfiles_search_for"
+msgstr  "Որոնել պատկերի անվանմամբ."
+
+msgid  "imgfile"
+msgstr  "նիշք"
+
+msgid  "listfiles"
+msgstr  "Նիշքերի ցանկ"
+
+msgid  "listfiles_date"
+msgstr  "Օր/Ժամ"
+
+msgid  "listfiles_name"
+msgstr  "Անվանում"
+
+msgid  "listfiles_user"
+msgstr  "Մասնակից"
+
+msgid  "listfiles_size"
+msgstr  "Չափ"
+
+msgid  "listfiles_description"
+msgstr  "Նկարագրություն"
+
+msgid  "listfiles_count"
+msgstr  "Տարբերակ"
+
+msgid  "file-anchor-link"
+msgstr  "Նիշք"
+
+msgid  "filehist"
+msgstr  "Նիշքի պատմություն"
+
+msgid  "filehist-help"
+msgstr  "Մատնահարեք օրվան/ժամին՝ նիշքի այդ պահին տեսքը դիտելու համար։"
+
+msgid  "filehist-deleteall"
+msgstr  "ջնջել բոլորը"
+
+msgid  "filehist-deleteone"
+msgstr  "ջնջել"
+
+msgid  "filehist-revert"
+msgstr  "հետ շրջել"
+
+msgid  "filehist-current"
+msgstr  "ընթացիկ"
+
+msgid  "filehist-datetime"
+msgstr  "Օր/Ժամ"
+
+msgid  "filehist-thumb"
+msgstr  "Մանրապատկեր"
+
+msgid  "filehist-thumbtext"
+msgstr  "$1 տարբերակի մանրապատկերը"
+
+msgid  "filehist-nothumb"
+msgstr  "Մանրապատկեր չկա"
+
+msgid  "filehist-user"
+msgstr  "Մասնակից"
+
+msgid  "filehist-dimensions"
+msgstr  "Օբյեկտի չափը"
+
+msgid  "filehist-filesize"
+msgstr  "Նիշքի չափ"
+
+msgid  "filehist-comment"
+msgstr  "Մեկնաբանություն"
+
+msgid  "imagelinks"
+msgstr  "Հղումներ նիշքին"
+
+msgid  "linkstoimage"
+msgstr  "Հետևյալ {{PLURAL:$1|էջը հղվում է|$1 էջերը հղվում են}} այս նիշքին՝"
+
+msgid  "nolinkstoimage"
+msgstr  "Այս նիշքին հղվող էջեր չկան։"
+
+msgid  "sharedupload"
+msgstr  "Այս նիշքը $1 զետեղարանից է և կարող է օգտագործվել այլ նախագծերում։"
+
+msgid  "sharedupload-desc-here"
+msgstr  "Այս նիշքը $1-ից է և թուլատրելի է այլ նախագծերի կողմից օգտագործվել։ [$2 Նիշքի նկարագրման էջի] նկարագրությունը ներկայացված է ներքո։"
+
+msgid  "uploadnewversion-linktext"
+msgstr  "Բեռնել այս նիշքի նոր տարբերակ"
+
+msgid  "filerevert"
+msgstr  "Հետ շրջել $1"
+
+msgid  "filerevert-legend"
+msgstr  "Հետ շրջել նիշք"
+
+msgid  "filerevert-intro"
+msgstr  "Դուք հետ եք շրջում '''[[Media:$1|$1]]''' նիշքը [$4 տարբերակի՝ $3, $2 պահով]։"
+
+msgid  "filerevert-comment"
+msgstr  "Մեկնաբանություն."
+
+msgid  "filerevert-defaultcomment"
+msgstr  "Հետ է շրջվում հին տարբերակին՝ $2, $1 պահով"
+
+msgid  "filerevert-submit"
+msgstr  "Հետ շրջել"
+
+msgid  "filerevert-success"
+msgstr  "'''[[Media:$1|$1]]''' նիշքը հետ է շրջվել [$4 տարբերակին՝ $3, $2 պահով]։"
+
+msgid  "filerevert-badversion"
+msgstr  "Այս նիշքի նախորդ տեղական տարբերակ նշված ժամդրոշմով չկա։"
+
+msgid  "filedelete"
+msgstr  "Ջնջում $1"
+
+msgid  "filedelete-legend"
+msgstr  "Ջնջել նիշքը"
+
+msgid  "filedelete-intro"
+msgstr  "Դուք պատրաստվում եք ջնջել '''[[Media:$1|$1]]''' նիշքը իր ամբողջ պատմությամբ։"
+
+msgid  "filedelete-intro-old"
+msgstr  "Դուք ջնջում եք '''[[Media:$1|$1]]''' նիշքի [$4 $3, $2 պահով] տարբերակը։"
+
+msgid  "filedelete-comment"
+msgstr  "Պատճառ."
+
+msgid  "filedelete-submit"
+msgstr  "Ջնջել"
+
+msgid  "filedelete-success"
+msgstr  "'''$1''' նիշքը ջնջված է։"
+
+msgid  "filedelete-success-old"
+msgstr  "'''[[Media:$1|$1]]''' նիշքի $3, $2 պահով տարբերակը ջնջված է։"
+
+msgid  "filedelete-nofile"
+msgstr  "'''$1''' գոյություն չունի։"
+
+msgid  "filedelete-nofile-old"
+msgstr  "'''$1''' նիշքի նշված հատկանիշներով արխիվային տարբերակ չկա։"
+
+msgid  "filedelete-otherreason"
+msgstr  "Այլ/հավելյալ պատճառ․"
+
+msgid  "filedelete-reason-otherlist"
+msgstr  "Ուրիշ պատճառ"
+
+msgid  "filedelete-edit-reasonlist"
+msgstr  "Խմբագրել ջնջման պատճառների ցանկը"
+
+msgid  "mimesearch"
+msgstr  "Որոնել MIME-տեսակով"
+
+msgid  "mimesearch-summary"
+msgstr  "Այս էջը հնարավորություն է տալիս զտել նիշքերը իրենց MIME-տեսակով։ Գրելաձև. օբյեկտի_տեսակ/ենթատեսակ, օրինակ՝ <tt>image/jpeg</tt>։"
+
+msgid  "mimetype"
+msgstr  "MIME-տեսակ."
+
+msgid  "download"
+msgstr  "Ներբեռնել"
+
+msgid  "unwatchedpages"
+msgstr  "Չհսկվող էջեր"
+
+msgid  "listredirects"
+msgstr  "Վերահղումների ցանկ"
+
+msgid  "unusedtemplates"
+msgstr  "Չօգտագործվող կաղապարներ"
+
+msgid  "unusedtemplatestext"
+msgstr  "Այս էջում բերված են կաղապարների անվանատարածքի բոլոր էջերը, որոնք ընդգրկված չեն այլ էջերում։ Ջնջելուց առաջ չմոռանաք ստուգել այլ հղումները կաղապարներին։"
+
+msgid  "unusedtemplateswlh"
+msgstr  "այլ հղումներ"
+
+msgid  "randompage"
+msgstr  "Պատահական էջ"
+
+msgid  "randompage-nopages"
+msgstr  "Այս անվանատարածքում էջեր չկան։"
+
+msgid  "randomredirect"
+msgstr  "Պատահական վերահղում"
+
+msgid  "randomredirect-nopages"
+msgstr  "Այս անվանատարածքում վերահղումներ չկան։"
+
+msgid  "statistics"
+msgstr  "Վիճակագրություն"
+
+msgid  "statistics-header-pages"
+msgstr  "Էջերի վիճակագրություն"
+
+msgid  "statistics-header-edits"
+msgstr  "Խմբագրումների վիճակագրություն"
+
+msgid  "statistics-header-views"
+msgstr  "Դիտումների վիճակագրություն"
+
+msgid  "statistics-header-users"
+msgstr  "Մասնակիցների վիճակագրություն"
+
+msgid  "statistics-header-hooks"
+msgstr  "Այլ վիճակագրություն"
+
+msgid  "statistics-articles"
+msgstr  "Հոդվածներ"
+
+msgid  "statistics-pages"
+msgstr  "Էջեր"
+
+msgid  "statistics-pages-desc"
+msgstr  "Վիքիի բոլոր էջերը՝ ներառյալ քննարկման էջերը, վերահղումները և այլն"
+
+msgid  "statistics-files"
+msgstr  "Բեռնված նիշքեր"
+
+msgid  "statistics-edits"
+msgstr  "Խմբագրումները {{SITENAME}} կայքի տեղադրումից ի վեր"
+
+msgid  "statistics-edits-average"
+msgstr  "Էջի խմբագրումների միջին թիվը"
+
+msgid  "statistics-views-total"
+msgstr  "Ընդհանուր դիտումներ"
+
+msgid  "statistics-views-peredit"
+msgstr  "Դիտումներ ամեն մի խմբագրման համար"
+
+msgid  "statistics-users"
+msgstr  "Գրանցված [[Special:ListUsers|մասնակիցներ]]"
+
+msgid  "statistics-users-active"
+msgstr  "Ակտիվ մասնակիցներ"
+
+msgid  "statistics-users-active-desc"
+msgstr  "Մասնակիցներ, որոնք որևէ գործողություն են կատարել վերջին {{PLURAL:$1|օրվա|$1 օրվա}} ընթացքում"
+
+msgid  "statistics-mostpopular"
+msgstr  "Ամենահաճախ դիտվող էջեր"
+
+msgid  "disambiguations"
+msgstr  "Երկիմաստության փարատման էջեր"
+
+msgid  "disambiguationspage"
+msgstr  "Template:Երկիմաստ"
+
+msgid  "disambiguations-text"
+msgstr  "Հետևյալ էջերը հղում են երկիմաստության փարատման էջերին։\nՓոխարենը նրանք, հավանաբար, պետք է հղեն համապատասխան թեմային։<br />\nԷջը համարվում է երկիմաստության փարատման էջ, եթե այն պարունակում է [[MediaWiki:Disambiguationspage]] էջում ընդգրկված կաղապարներից որևէ մեկը։"
+
+msgid  "doubleredirects"
+msgstr  "Կրկնակի վերահղումներ"
+
+msgid  "doubleredirectstext"
+msgstr  "Այս էջում բերված են վերահղման էջերին վերահղող էջերը։ Յուրաքանչյուր տող պարունակում է հղումներ դեպի առաջին և երկրորդ վերահղումները, ինչպես նաև երկրորդ վերահղման նպատակային էջի առաջին տողը, որում սովորաբար նշված է էջի անվանումը, որին պետք է հղի նաև առաջին վերահղումը։"
+
+msgid  "double-redirect-fixed-move"
+msgstr  "«[[$1]]» էջը վերանվանված է և այժմ վերահղում է «[[$2]]» էջին։"
+
+msgid  "double-redirect-fixer"
+msgstr  "Վերահղումների շտկիչ"
+
+msgid  "brokenredirects"
+msgstr  "Կոտրված վերահղումներ"
+
+msgid  "brokenredirectstext"
+msgstr  "Հետևյալ վերահղումները տանում են գոյություն չունեցող էջերի."
+
+msgid  "brokenredirects-edit"
+msgstr  "խմբագրել"
+
+msgid  "brokenredirects-delete"
+msgstr  "ջնջել"
+
+msgid  "withoutinterwiki"
+msgstr  "Լեզվային հղումներ չպարունակող էջեր"
+
+msgid  "withoutinterwiki-summary"
+msgstr  "Հետևյալ էջերը չունեն լեզվական հղումներ."
+
+msgid  "withoutinterwiki-legend"
+msgstr  "Նախածանց"
+
+msgid  "withoutinterwiki-submit"
+msgstr  "Ցուցադրել"
+
+msgid  "fewestrevisions"
+msgstr  "Ամենաքիչ վերափոխումներով հոդվածներ"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|բայթ|բայթ}}"
+
+msgid  "ncategories"
+msgstr  "$1 {{PLURAL:$1|կատեգորիա|կատեգորիաներ}}"
+
+msgid  "nlinks"
+msgstr  "$1 {{PLURAL:$1|հղում|հղումներ}}"
+
+msgid  "nmembers"
+msgstr  "$1 {{PLURAL:$1|անդամ|անդամ}}"
+
+msgid  "nrevisions"
+msgstr  "$1 {{PLURAL:$1|տարբերակ|տարբերակներ}}"
+
+msgid  "nviews"
+msgstr  "$1 {{PLURAL:$1|դիտում|դիտումներ}}"
+
+msgid  "specialpage-empty"
+msgstr  "Հայցումը արդյունքներ չվերադարձրեց։"
+
+msgid  "lonelypages"
+msgstr  "Որբ էջեր"
+
+msgid  "lonelypagestext"
+msgstr  "Հետևյալ էջերին չկան հղումներ այս վիքիի այլ էջերից։"
+
+msgid  "uncategorizedpages"
+msgstr  "Չդասակարգված էջեր"
+
+msgid  "uncategorizedcategories"
+msgstr  "Չդասակարգված կատեգորիաներ"
+
+msgid  "uncategorizedimages"
+msgstr  "Չդասակարգված պատկերներ"
+
+msgid  "uncategorizedtemplates"
+msgstr  "Չդասակարգված կաղապարներ"
+
+msgid  "unusedcategories"
+msgstr  "Չօգտագործվող կատեգորիաներ"
+
+msgid  "unusedimages"
+msgstr  "Չօգտագործվող նիշքեր"
+
+msgid  "popularpages"
+msgstr  "Հաճախ այցելվող էջեր"
+
+msgid  "wantedcategories"
+msgstr  "Անհրաժեշտ կատեգորիաներ"
+
+msgid  "wantedpages"
+msgstr  "Անհրաժեշտ էջեր"
+
+msgid  "wantedfiles"
+msgstr  "Անհրաժեշտ նիշքեր"
+
+msgid  "wantedtemplates"
+msgstr  "Անհրաժեշտ կաղապարներ"
+
+msgid  "mostlinked"
+msgstr  "Էջեր, որոնց շատ են հղվում"
+
+msgid  "mostlinkedcategories"
+msgstr  "Կատեգորիաներ, որոնց շատ են հղվում"
+
+msgid  "mostlinkedtemplates"
+msgstr  "Կաղապարներ, որոնց շատ են հղվում"
+
+msgid  "mostcategories"
+msgstr  "Ամենաշատ կատեգորիաներով էջեր"
+
+msgid  "mostimages"
+msgstr  "Ամենաշատ օգտագործվող նկարներ"
+
+msgid  "mostrevisions"
+msgstr  "Ամենաշատ վերափոխումներով հոդվածներ"
+
+msgid  "prefixindex"
+msgstr  "Բոլոր էջերը ըստ սկզբնատառի"
+
+msgid  "shortpages"
+msgstr  "Կարճ էջեր"
+
+msgid  "longpages"
+msgstr  "Երկար էջեր"
+
+msgid  "deadendpages"
+msgstr  "Հղումներ չպարունակող էջեր"
+
+msgid  "deadendpagestext"
+msgstr  "Հետևյալ էջերը չունեն հղումներ վիքիի այլ էջերին։"
+
+msgid  "protectedpages"
+msgstr  "Պաշտպանված էջեր"
+
+msgid  "protectedpagestext"
+msgstr  "Հետևյալ էջերը պաշտպանված են վերանվանումից կամ տեղափոխումից։"
+
+msgid  "protectedpagesempty"
+msgstr  "Ներկայումս չկան պաշտպանված էջեր նշված պարամետրերով։"
+
+msgid  "protectedtitles"
+msgstr  "Պաշտպանված անվանումներ"
+
+msgid  "listusers"
+msgstr  "Մասնակիցների ցանկ"
+
+msgid  "newpages"
+msgstr  "Նոր էջեր"
+
+msgid  "newpages-username"
+msgstr  "Մասնակից՝"
+
+msgid  "ancientpages"
+msgstr  "Ամենահին էջերը"
+
+msgid  "move"
+msgstr  "Տեղափոխել"
+
+msgid  "movethispage"
+msgstr  "Տեղափոխել այս էջը"
+
+msgid  "unusedimagestext"
+msgstr  "Խնդրում ենք ի նկատի ունեցեք, որ այլ կայքեր կարող են անմիջապես հղել որևէ պատկերի ուղիղ URL-հղմամբ, և ուստի պատկերը կարող է ակտիվ օգտագործվել՝ չնայած այս ցանկում ընդգրկվելուն։"
+
+msgid  "unusedcategoriestext"
+msgstr  "Հետևյալ կատեգորիաաների էջերը գոյություն ունեն, սակայն չեն պարունակում ոչ մի էջ կամ ենթակատեգորիա։"
+
+msgid  "notargettitle"
+msgstr  "Նպատակը նշված չէ"
+
+msgid  "notargettext"
+msgstr  "Դուք չեք նշել նպատակային էջ կամ մասնակից այս ֆունկցիայի գործածման համար։"
+
+msgid  "pager-newer-n"
+msgstr  "{{PLURAL:$1|ավելի թարմ 1|ավելի թարմ $1}}"
+
+msgid  "pager-older-n"
+msgstr  "{{PLURAL:$1|ավելի հին 1|ավելի հին $1}}"
+
+msgid  "booksources"
+msgstr  "Գրքային աղբյուրներ"
+
+msgid  "booksources-search-legend"
+msgstr  "Գրքի մասին տեղեկությունների որոնում"
+
+msgid  "booksources-go"
+msgstr  "Անցնել"
+
+msgid  "booksources-text"
+msgstr  "Ստորև բերված են հղումներ դեպի արտաքին կայքեր, որտեղ կգտնեք հավելյալ տեղեկություններ գրքի մասին։ Սրանց մեջ ընդգրկված են ցանցային գրախանութներ և ընդհանուր գրադարանային կատալոգներ։"
+
+msgid  "booksources-invalid-isbn"
+msgstr  "Նշված ISBN համարը ըստ երևույթի սխալ է պարունակում։ Համոզվեք որ համարը մուտքագրելիս, սխալ չի պատահել։"
+
+msgid  "specialloguserlabel"
+msgstr  "Մասնակից."
+
+msgid  "speciallogtitlelabel"
+msgstr  "Անվանում."
+
+msgid  "log"
+msgstr  "Տեղեկամատյաններ"
+
+msgid  "all-logs-page"
+msgstr  "Բոլոր տեղեկամատյանները"
+
+msgid  "alllogstext"
+msgstr  "{{SITENAME}} կայքի տեղեկամատյանների համընդհանուր ցանկ։\nԴուք կարող եք սահմանափակել արդյունքները ըստ տեղեկամատյանի տեսակի, մասնակցի անունի կամ համապատասխան էջի։"
+
+msgid  "logempty"
+msgstr  "Տեղեկամատյանում չկան համընկնող տարրեր։"
+
+msgid  "log-title-wildcard"
+msgstr  "Որոնել այս տեքստով սկսվող անվանումներ"
+
+msgid  "allpages"
+msgstr  "Բոլոր էջերը"
+
+msgid  "alphaindexline"
+msgstr  "$1 -ից՝ $2"
+
+msgid  "nextpage"
+msgstr  "Հաջորդ էջը ($1)"
+
+msgid  "prevpage"
+msgstr  "Նախորդ էջը ($1)"
+
+msgid  "allpagesfrom"
+msgstr  "Ցույց տալ էջերը, որոնք սկսվում են՝"
+
+msgid  "allpagesto"
+msgstr  "Ցույց տալ էջերը, որոնք ավարտվում են՝"
+
+msgid  "allarticles"
+msgstr  "Բոլոր հոդվածները"
+
+msgid  "allinnamespace"
+msgstr  "Բոլոր էջերը ($1 անվանատարածք)"
+
+msgid  "allnotinnamespace"
+msgstr  "Բոլոր էջերը (ոչ $1 անվանատարածքում)"
+
+msgid  "allpagesprev"
+msgstr  "Նախորդ"
+
+msgid  "allpagesnext"
+msgstr  "Հաջորդ"
+
+msgid  "allpagessubmit"
+msgstr  "Անցնել"
+
+msgid  "allpagesprefix"
+msgstr  "Ցույց տալ հետևյալ նախածանցով էջերը՝"
+
+msgid  "allpagesbadtitle"
+msgstr  "Տվյալ էջի անվանումը անթույլատրելի է։ Այն պարունակում է միջ-լեզվական կամ ինտերվիքի նախածանց, կամ էլ անվանումներում այնթույլատրելի սիմվոլներ։"
+
+msgid  "allpages-bad-ns"
+msgstr  "{{SITENAME}} կայքը չունի «$1» անվանատարածք։"
+
+msgid  "categories"
+msgstr  "Կատեգորիաներ"
+
+msgid  "categoriespagetext"
+msgstr  "Հետևյալ կատեգորիաները պարունակում են էջեր կամ մեդիա.\n[[Special:UnusedCategories|Unused categories]] are not shown here.\nAlso see [[Special:WantedCategories|wanted categories]]."
+
+msgid  "deletedcontributions"
+msgstr  "Մասնակցի ջնջված ներդրում"
+
+msgid  "deletedcontributions-title"
+msgstr  "Մասնակցի ջնջված ներդրում"
+
+msgid  "sp-deletedcontributions-contribs"
+msgstr  "ներդրում"
+
+msgid  "linksearch"
+msgstr  "Արտաքին հղումներ"
+
+msgid  "linksearch-ok"
+msgstr  "Որոնել"
+
+msgid  "listusersfrom"
+msgstr  "Ցուցադրել մասնակիցներին՝ սկսած."
+
+msgid  "listusers-submit"
+msgstr  "Ցուցադրել"
+
+msgid  "listusers-noresult"
+msgstr  "Այդպիսի մասնակիցներ չգտնվեցին։"
+
+msgid  "listusers-blocked"
+msgstr  "(արգելափակված)"
+
+msgid  "activeusers"
+msgstr  "Ակտիվ մասնակիցների ցանկ"
+
+msgid  "newuserlogpage"
+msgstr  "Մասնակիցների գրանցման տեղեկամատյան"
+
+msgid  "newuserlogpagetext"
+msgstr  "Սա նոր մասնակիցների գրանցման տեղեկամատյանն է."
+
+msgid  "newuserlog-create-entry"
+msgstr  "Նոր մասնակից"
+
+msgid  "newuserlog-create2-entry"
+msgstr  "ստեղծեց նոր մասնակցային հաշիվ $1"
+
+msgid  "newuserlog-autocreate-entry"
+msgstr  "Ավտոմատիկ հաշվի ստեղծում"
+
+msgid  "listgrouprights-members"
+msgstr  "(անդամների ցանկ)"
+
+msgid  "mailnologin"
+msgstr  "Ուղարկման հասցե չկա"
+
+msgid  "mailnologintext"
+msgstr  "Անհրաժեշտ է [[Special:UserLogin|մտնել համակարգ]] և ունենալ գործող էլ-փոստի հասցե ձեր [[Special:Preferences|նախընտրություններում]]՝ ուրիշ մասնակիցներին էլեկտրոնային նամակներ ուղարկելու համար։"
+
+msgid  "emailuser"
+msgstr  "էլ-նամակ ուղարկել այս մասնակցին"
+
+msgid  "emailpage"
+msgstr  "Էլ-նամակ ուղարկել մասնակցին"
+
+msgid  "emailpagetext"
+msgstr  "Եթե այս մասնակիցը նշել է գործող էլ-փոստի հասցե իր նախընտրություններում, ապա ստորև բերված ձևով հնարավոր է ուղարկել նրան էլ-նամակ։\nԱյն էլ-հասցեն, որը դուք նշել եք ձեր նախընտրություններում, կերևա «Ումից» դաշտում, ուստի ստացողը հնարավորություն կունենա պատասխանել։"
+
+msgid  "usermailererror"
+msgstr  "Նամակն ուղարկելիս սխալ է վերադարձվել."
+
+msgid  "defemailsubject"
+msgstr  "{{SITENAME}} e-mail"
+
+msgid  "noemailtitle"
+msgstr  "Չկա էլ-փոստի հասցե"
+
+msgid  "noemailtext"
+msgstr  "Այս մասնակիցը չի նշել էլ-փոստի հասցե կամ նախընտրել է չստանալ էլ-նամակներ այլ մասնակիցներից։"
+
+msgid  "emailfrom"
+msgstr  "Ումից."
+
+msgid  "emailto"
+msgstr  "Ում."
+
+msgid  "emailsubject"
+msgstr  "Թեմա."
+
+msgid  "emailmessage"
+msgstr  "Ուղերձ."
+
+msgid  "emailsend"
+msgstr  "Ուղարկել"
+
+msgid  "emailccme"
+msgstr  "Ուղարկել ինձ իմ նամակի պատճեն։"
+
+msgid  "emailccsubject"
+msgstr  "Ձեր՝ $1 մասնակցին նամակի պատճեն. $2"
+
+msgid  "emailsent"
+msgstr  "Էլ-նամակը ուղարկված է"
+
+msgid  "emailsenttext"
+msgstr  "Ձեր էլ-ուղերձն ուղարկված է։"
+
+msgid  "watchlist"
+msgstr  "Իմ հսկողության ցանկը"
+
+msgid  "mywatchlist"
+msgstr  "Իմ հսկացանկը"
+
+msgid  "nowatchlist"
+msgstr  "Ձեր հսկողության ցանկը դատարկ է։"
+
+msgid  "watchlistanontext"
+msgstr  "Անհրաժեշտ է $1՝ հսկացանկը դիտելու կամ խմբագրելու համար։"
+
+msgid  "watchnologin"
+msgstr  "Չեք մտել համակարգ"
+
+msgid  "watchnologintext"
+msgstr  "Անհրաժեշտ է [[Special:UserLogin|մտնել համակարգ]]՝ հսկացանկը փոփոխելու համար։"
+
+msgid  "addedwatch"
+msgstr  "Ավելացված է հսկացանկին"
+
+msgid  "addedwatchtext"
+msgstr  "«[[:$1]]» էջը ավելացված է ձեր [[Special:Watchlist|հսկացանկին]]։ Այս էջի և նրան կապված քննարկումների էջի հետագա փոփոխությունները կգրանցվեն այդտեղ, և կցուցադրվեն թավատառ [[Special:RecentChanges|վերջին փոփոխությունների]] ցանկում։\n\nՀետագայում հսկացանկից էջը հեռացնելու ցանկության դեպքում մատնահարեք էջի վերնամասի ընտրացանկում գտնվող «հանել հսկումից» կոճակին։"
+
+msgid  "removedwatch"
+msgstr  "Հանված է հսկման ցանկից"
+
+msgid  "removedwatchtext"
+msgstr  "«[[:$1]]» էջը հանված է [[Special:Watchlist|ձեր հսկացանկից]]։"
+
+msgid  "watch"
+msgstr  "Հսկել"
+
+msgid  "watchthispage"
+msgstr  "Հսկել այս էջը"
+
+msgid  "unwatch"
+msgstr  "Հանել հսկումից"
+
+msgid  "unwatchthispage"
+msgstr  "Հանել հսկումից"
+
+msgid  "notanarticle"
+msgstr  "Հոդված չէ"
+
+msgid  "watchnochange"
+msgstr  "Ոչ մի հսկվող էջ չի փոփոխվել ցուցադրվող ժամանակահատվածում։"
+
+msgid  "watchlist-details"
+msgstr  "Ձեր հսկացանկում կա {{PLURAL:$1|$1 էջ|$1 էջ}}` քննարկման էջերը չհաշված։"
+
+msgid  "wlheader-enotif"
+msgstr  "* Էլ-փոստով տեղեկացումը միացված է։"
+
+msgid  "wlheader-showupdated"
+msgstr  "* Էջերը, որոնք փոփոխվել են ձեր դրանց վերջին այցից հետո բերված են '''թավատառ'''։"
+
+msgid  "watchmethod-recent"
+msgstr  "վերջին փոփոխությունները հսկվող էջերի համար"
+
+msgid  "watchmethod-list"
+msgstr  "հսկվող էջերի վերջին փոփոխությունները"
+
+msgid  "watchlistcontains"
+msgstr  "Ձեր հսկացանկում կա $1 {{PLURAL:$1|էջ|էջ}}։"
+
+msgid  "iteminvalidname"
+msgstr  "Խնդիր «$1» տարրի հետ, անթույլատրելի անվանում..."
+
+msgid  "wlnote"
+msgstr  "Ստորև բերված {{PLURAL:$1|է վերջին փոփոխությունը|են վերջին '''$1''' փոփոխությունները}} վերջին <strong>$2</strong> ժամվա ընթացքում։"
+
+msgid  "wlshowlast"
+msgstr  "Ցուցադրել վերջին $1 ժամերը $2 օրերը $3"
+
+msgid  "watchlist-options"
+msgstr  "Հսկացանկի նախընտրություններ"
+
+msgid  "watching"
+msgstr  "Հսկվում է..."
+
+msgid  "unwatching"
+msgstr  "Հանվում է հսկումից..."
+
+msgid  "enotif_mailer"
+msgstr  "{{grammar:genitive|{{SITENAME}}}} Տեղեկացման ծառայություն"
+
+msgid  "enotif_reset"
+msgstr  "Նշել բոլոր էջերը այցելված"
+
+msgid  "enotif_newpagetext"
+msgstr  "Սա նոր էջ է։"
+
+msgid  "enotif_impersonal_salutation"
+msgstr  "{{grammar:genitive|{{SITENAME}}}} մասնակից"
+
+msgid  "changed"
+msgstr  "փոփոխված է"
+
+msgid  "created"
+msgstr  "ստեղծված է"
+
+msgid  "enotif_subject"
+msgstr  "{{grammar:genitive|{{SITENAME}}}} «$PAGETITLE» էջը $CHANGEDORCREATED $PAGEEDITOR մասնակցի կողմից"
+
+msgid  "enotif_lastvisited"
+msgstr  "Տես $1՝ ձեր վերջին այցից ի վեր կատարված փոփոխությունների համար։"
+
+msgid  "enotif_lastdiff"
+msgstr  "Տես $1՝ այս փոփոխությունը դիտելու համար։"
+
+msgid  "enotif_anon_editor"
+msgstr  "անանուն մասնակից $1"
+
+msgid  "enotif_body"
+msgstr  "Հարգելի $WATCHINGUSERNAME,\n\n$PAGEEDITDATE {{grammar:genitive|{{SITENAME}}}} «$PAGETITLE» էջը $CHANGEDORCREATED $PAGEEDITOR մասնակցի կողմից, տես $PAGETITLE_URL ՝ ընթացիկ տարբերակի համար։\n\n$NEWPAGE\n\nԽմբագրման ամփոփում. $PAGESUMMARY $PAGEMINOREDIT\n\nԿապվել խմբագրողի հետ.\nէլ-փոստ՝ $PAGEEDITOR_EMAIL\nվիքի՝ $PAGEEDITOR_WIKI\n\nՀետագա տեղեկացումներ այս էջի փոփոխումների մասին չեն լինի, մինչև որ չայցելեք այն։ Դուք կարող եք նաև փոփոխել տեղեկացման դրոշները ձեր կողմից հսկվող բոլոր էջերի համար ձեր հսկացանկում։\n\n             {{grammar:genitive|{{SITENAME}}}} տեղեկացման ծառայություն\n\n--\nՁեր հսկացանկի նախընտրությունները փոխելու համար այցելեք՝\n{{fullurl:{{#special:Watchlist}}/edit}}\n\nՀետադարձ կապ և օգնություն՝\n{{fullurl:{{MediaWiki:Helppage}}}}"
+
+msgid  "deletepage"
+msgstr  "Ջնջել էջը"
+
+msgid  "confirm"
+msgstr  "Հաստատել"
+
+msgid  "excontent"
+msgstr  "բովանդակությունը սա էր՝ «$1»"
+
+msgid  "excontentauthor"
+msgstr  "Պարունակությունն էր. «$1» (և միակ հեղինակն էր՝ [[Special:Contributions/$2|$2]])"
+
+msgid  "exbeforeblank"
+msgstr  "պարունակությունը մինչև մաքրումը. «$1»"
+
+msgid  "exblank"
+msgstr  "էջը դատարկ էր"
+
+msgid  "delete-confirm"
+msgstr  "$1 ― ջնջում"
+
+msgid  "delete-legend"
+msgstr  "Ջնջում"
+
+msgid  "historywarning"
+msgstr  "Զգուշացում. էջը, որը դուք պատրաստվում եք ջնջել ունի փոփոխությունների պատմություն։"
+
+msgid  "confirmdeletetext"
+msgstr  "Դուք պատրաստվում եք ընդմիշտ ջնջել էջը կամ պատկերը տվյալների բազայից իր փոփոխությունների պատմությամբ հանդերձ։ Խնդրում ենք հաստատել, որ դուք իրոք մտադրված եք դա անել, հասկանում եք դրա հետևանքները և գործում եք [[{{MediaWiki:Policy-url}}|կանոնադրության]] սահմաններում։"
+
+msgid  "actioncomplete"
+msgstr  "Գործողությունը ավարտված  է"
+
+msgid  "deletedtext"
+msgstr  "«<nowiki>$1</nowiki>» էջը ջնջված է։\nՏես $2՝ վերջին ջնջումների պատմության համար։"
+
+msgid  "deletedarticle"
+msgstr  "ջնջված է «[[$1]]»"
+
+msgid  "dellogpage"
+msgstr  "Ջնջման տեղեկամատյան"
+
+msgid  "dellogpagetext"
+msgstr  "Ստորև բերված է ամենավերջին ջնջումների ցանկը։"
+
+msgid  "deletionlog"
+msgstr  "ջնջման տեղեկամատյան"
+
+msgid  "reverted"
+msgstr  "Հետ է շրջվել նախորդ տարբերակի"
+
+msgid  "deletecomment"
+msgstr  "Պատճառ."
+
+msgid  "deleteotherreason"
+msgstr  "Լրացուցիչ պատճառ"
+
+msgid  "deletereasonotherlist"
+msgstr  "Ուրիշ պատճառ"
+
+msgid  "rollback"
+msgstr  "Հետ գլորել խմբագրումները"
+
+msgid  "rollback_short"
+msgstr  "Հետ գլորել"
+
+msgid  "rollbacklink"
+msgstr  "հետ գլորել"
+
+msgid  "rollbackfailed"
+msgstr  "Հետ գլորումը ձախողվեց"
+
+msgid  "cantrollback"
+msgstr  "Չհաջողվեց հետ շրջել խմբագրումը։ Վերջին ներդրումը կատարվել է էջի միակ հեղինակի կողմից։"
+
+msgid  "alreadyrolled"
+msgstr  "Չհաջողվեց հետ գլորել [[:$1]] էջի վերջին խմբագրումները՝ կատարված [[User:$2|$2]] ([[User talk:$2|Քննարկում]]) մասնակցի կողմից։ Մեկ ուրիշը արդեն խմբագրել է կամ հետ է գլորել էջը։\n\nՎերջին խմբագրումը կատարվել է [[User:$3|$3]] ([[User talk:$3|Քննարկում]]) մասնակցի կողմից։"
+
+msgid  "editcomment"
+msgstr  "Խմբագրման մեկնաբանումն էր. «''$1''»։"
+
+msgid  "revertpage"
+msgstr  "[[Special:Contributions/$2|$2]] ([[User talk:$2|քննարկում]]) մասնակցի խմբագրումները հետ են շրջվել [[User:$1|$1]] մասնակցի վերջին տարբերակին։"
+
+msgid  "rollback-success"
+msgstr  "Հետ են շրջվել $1 մասնակցի խմբագրումները. վերադարձվել է $2 մասնակցի վերջին տարբերակին։"
+
+msgid  "sessionfailure"
+msgstr  "Կարծես խնդիր է առաջացել կապված ձեր ընթացիկ աշխատանքային սեսիայի հետ.\nայս գործողությունը բեկանվել է սեսիայի հափշտակման կանխման նպատակով։\nԽնդրում ենք սեղմել «back» կոճակը և վերբեռնել այն էջը որտեղից եկել եք ու փորձել կրկին։"
+
+msgid  "protectlogpage"
+msgstr  "Պաշտպանման տեղեկամատյան"
+
+msgid  "protectlogtext"
+msgstr  "Ստորև բերված է պաշտպանված և պաշտպանումից հանված էջերի ցանկը։ Տես նաև [[Special:ProtectedPages|ներկայումս պաշտպանված էջերի ցանկը]]։"
+
+msgid  "protectedarticle"
+msgstr  "պաշտպանվեց «[[$1]]» էջը"
+
+msgid  "modifiedarticleprotection"
+msgstr  "փոխվեց պաշտպանման մակարդակը «[[$1]]» էջի համար"
+
+msgid  "unprotectedarticle"
+msgstr  "պաշտպանումը հանված է «[[$1]]» էջից"
+
+msgid  "protect-title"
+msgstr  "«$1» էջի պաշտպանման մակարդակի հաստատում"
+
+msgid  "prot_1movedto2"
+msgstr  "«[[$1]]» վերանվանված է «[[$2]]»"
+
+msgid  "protect-legend"
+msgstr  "Հաստատել պաշտպանումը"
+
+msgid  "protectcomment"
+msgstr  "Պատճառ."
+
+msgid  "protectexpiry"
+msgstr  "Մարում."
+
+msgid  "protect_expiry_invalid"
+msgstr  "Անթույլատրելի մարման ժամկետ։"
+
+msgid  "protect_expiry_old"
+msgstr  "Մարման ժամկետը անցյալում է։"
+
+msgid  "protect-text"
+msgstr  "Այստեղ դուք կարող եք դիտել և փոխել '''<nowiki>$1</nowiki>''' էջի պաշտպանման մակարդակը։"
+
+msgid  "protect-locked-blocked"
+msgstr  "Դուք չեք կարող փոխել էջի պաշտպանման մակարդակը քանի դեռ արգելափակված եք։ Էջի ընթացիկ կարգավորումն է՝ '''$1'''."
+
+msgid  "protect-locked-dblock"
+msgstr  "Պաշտպանման մակարդակը չի կարող փոխվել տվյալների բազայի կողպման պատճառով։ Էջի ընթացիկ կարգավորումն է՝ '''$1'''."
+
+msgid  "protect-locked-access"
+msgstr  "Ձեր մասնակցային հաշիվը չունի էջի պաշտպանման մակարդակը փոփոխելու իրավունք։\nԷջի ընթացիկ կարգավորումն է՝ '''$1'''."
+
+msgid  "protect-cascadeon"
+msgstr  "Այս էջը ներկայումս պաշտպանված է, քանի որ այն ընդգրկված է հետևյալ {{PLURAL:$1|էջում, որը պաշտպանվել է|էջերում, որոնք պաշտպանվել են}} կասկադային պաշտպանմամբ։ Դուք կարող եք փոխել պաշտպանման մակարդակը, բայց դա չի ազդի կասկադային պաշտպանման վրա։"
+
+msgid  "protect-default"
+msgstr  "Թույլատրել բոլոր մասնակիցներին"
+
+msgid  "protect-fallback"
+msgstr  "Անհրաժեշտ է «$1» իրավունք"
+
+msgid  "protect-level-autoconfirmed"
+msgstr  "Պաշտպանել նոր և չգրանցված մասնակիցներից"
+
+msgid  "protect-level-sysop"
+msgstr  "Միայն ադմինիստրատորներ"
+
+msgid  "protect-summary-cascade"
+msgstr  "կասկադային"
+
+msgid  "protect-expiring"
+msgstr  "մարում՝ $1 (UTC)"
+
+msgid  "protect-cascade"
+msgstr  "Պաշտպանել այս էջում ընդգրկված էջերը (կասկադային պաշտպանում)"
+
+msgid  "protect-cantedit"
+msgstr  "Դուք չեք կարող փոխել այս էջի պաշտպանության մակարդակը, քանի որ ձեզ չի թույլատրվում խմբագրել այն։"
+
+msgid  "protect-edit-reasonlist"
+msgstr  "Խմբագրել պաշտպանման պատճառների ցանկը"
+
+msgid  "protect-expiry-options"
+msgstr  "2 ժամ:2 hours,1 օր:1 day,3 օր:3 days,1 շաբաթ:1 week,2 շաբաթ:2 weeks,1 ամիս:1 month,3 ամիս:3 months,6 ամիս:6 months,1 տարի:1 year,առհավետ:infinite"
+
+msgid  "restriction-type"
+msgstr  "Իրավունքներ."
+
+msgid  "restriction-level"
+msgstr  "Սահմանափակման մակարդակ."
+
+msgid  "minimum-size"
+msgstr  "Նվազագույն չափ"
+
+msgid  "maximum-size"
+msgstr  "Առավելագույն չափ:"
+
+msgid  "pagesize"
+msgstr  "(բայթ)"
+
+msgid  "restriction-edit"
+msgstr  "Խմբագրում"
+
+msgid  "restriction-move"
+msgstr  "Տեղափոխում"
+
+msgid  "restriction-create"
+msgstr  "Ստեղծում"
+
+msgid  "restriction-upload"
+msgstr  "Բեռնում"
+
+msgid  "restriction-level-sysop"
+msgstr  "լրիվ պաշտպանված"
+
+msgid  "restriction-level-autoconfirmed"
+msgstr  "կիսապաշտպանված"
+
+msgid  "restriction-level-all"
+msgstr  "բոլոր մակարդակները"
+
+msgid  "undelete"
+msgstr  "Դիտել ջնջված էջերը"
+
+msgid  "undeletepage"
+msgstr  "Դիտել և վերականգնել ջնջված էջերը"
+
+msgid  "viewdeletedpage"
+msgstr  "Դիտել ջնջված էջերը"
+
+msgid  "undeletepagetext"
+msgstr  "Հետևյալ էջերը ջնջվել են, բայց դեռ գտնվում են արխիվում և կարող են վերականգնվել։ Արխիվը կարող է պարբերաբար մաքրվել։"
+
+msgid  "undeleteextrahelp"
+msgstr  "Էջի լրիվ վերականգնման համար բոլոր արկղերը թողեք առանց նշումների և սեղմեք '''«Վերականգնել»''' կոճակը։ Մասնակի վերականգնման համար նշեք վերականգնման ենթակա տարբերակների արկղերը և սեղմեք '''«Վերականգնել»'''։ '''«Մաքրել»''' կոճակին սեղմելիս կմաքրվի մեկնաբանության դաշտը և բոլոր նշումները։"
+
+msgid  "undeleterevisions"
+msgstr  "արխիվում կա $1 տարբերակ"
+
+msgid  "undeletehistory"
+msgstr  "Եթե դուք վերականգնեք էջը, նրա բոլոր տարբերակները կվերականգնվեն փոփոխությունների պատմության մեջ։\nԵթե էջի ջնջումից հետո ստեղծվել է նոր էջ նույն անվանմամբ, ապա վերականգնված տարբերակները կհայտնվեն էջի նախկին պատմության մեջ, և ընթացիկ տարբերակները ավտոմատ չեն փոխարինվի։"
+
+msgid  "undeleterevdel"
+msgstr  "Վերականգնումը չի կատարվի, եթե այն բերելու է վերջին տարբերակի մասնակի ջնջման։ \nԱյսպիսի դեպքերում հարկավոր է նշումից հանել կամ ցուցադրել վերջին ջնջված տարբերակները։"
+
+msgid  "undeletehistorynoadmin"
+msgstr  "Էջը ջնջվել է։ Ջնջման պատճառը և էջը խմբագրած մասնակիցների անունները բերված են ստորև։ Այս ջնջված տարբերակների բուն տեքստերը կարող են դիտել միայն ադմինիստրատորները։"
+
+msgid  "undelete-revision"
+msgstr  "«$1» էջի $3 մասնակցի կողմից ջնջված տարբերակ ($2 պահով)."
+
+msgid  "undeleterevision-missing"
+msgstr  "Սխալ կամ գոյություն չունեցող տարբերակ։ Հնարավոր է դուք անցել եք սխալ հղմամբ, կամ տարբերակը վերականգնվել է, կամ էլ ջնջվել արխիվից։"
+
+msgid  "undeletebtn"
+msgstr  "Վերականգնել"
+
+msgid  "undeletelink"
+msgstr  "դիտել/վերականգնել"
+
+msgid  "undeletereset"
+msgstr  "Մաքրել"
+
+msgid  "undeleteinvert"
+msgstr  "Շրջել ընտրությունը"
+
+msgid  "undeletecomment"
+msgstr  "Մեկնաբանություն."
+
+msgid  "undeletedarticle"
+msgstr  "«[[$1]]» վերականգնված է"
+
+msgid  "undeletedrevisions"
+msgstr  "վերականգնվեց $1 տարբերակ"
+
+msgid  "undeletedrevisions-files"
+msgstr  "վերականգնվեց $1 {{PLURAL:$1|տարբերակ}} և  $2 {{PLURAL:$2|նիշք}}"
+
+msgid  "undeletedfiles"
+msgstr  "վերականգնվեց $1 {{PLURAL:$1|նիշք}}"
+
+msgid  "cannotundelete"
+msgstr  "Վերականգնումը ձախողվեց։ Հնարավոր է մեկ ուրիշն արդեն վերականգնել է այս էջը։"
+
+msgid  "undeletedpage"
+msgstr  "'''«$1» էջը վերականգնված է։'''\n\nՏես [[Special:Log/delete|ջնջման տեղեկամատյանը]]` վերջին ջնջումների և վերականգնումների համար։"
+
+msgid  "undelete-header"
+msgstr  "Տես [[Special:Log/delete|ջնջման տեղեկամատյանը]]՝ վերջին ջնջումների և վերականգնումների համար։"
+
+msgid  "undelete-search-box"
+msgstr  "Որոնել ջնջված էջերը"
+
+msgid  "undelete-search-prefix"
+msgstr  "Ցուց տալ էջերը նախածանցով."
+
+msgid  "undelete-search-submit"
+msgstr  "Որոնել"
+
+msgid  "undelete-no-results"
+msgstr  "Համընկնող էջեր չեն գտնվել ջնջված էջերի արխիվում։"
+
+msgid  "undelete-filename-mismatch"
+msgstr  "Չհաջողվեց վերականգնել նիշքի $1 ժամդրոշմով տարբերակը. նիշքի անվան անհամապատասխանություն"
+
+msgid  "undelete-bad-store-key"
+msgstr  "Չհաջողվեց վերականգնել նիշքի $1 ժամդրոշմով տարբերակը. նիշքը բացակայում էր ջնջումից առաջ։"
+
+msgid  "undelete-cleanup-error"
+msgstr  "Տեղի ունեցավ սխալ չօգտագործվող արխիվացված «$1» նիշքը ջնջելիս։"
+
+msgid  "undelete-missing-filearchive"
+msgstr  "Չհաջողվեց վերականգնել $1 արխիվային իդենտիֆիկատորով նիշքը, քանի որ այն բացակայում է տվյալների բազայից։ Հնարավոր է այն արդեն վերականգնվել է։"
+
+msgid  "undelete-error-short"
+msgstr  "Նայլի վերականգնման սխալ. $1"
+
+msgid  "undelete-error-long"
+msgstr  "Տեղի են ունեցել սխալներ նիշքը վերականգնելու ընթացքում.\n\n$1"
+
+msgid  "namespace"
+msgstr  "Անվանատարածք."
+
+msgid  "invert"
+msgstr  "շրջել ընտրությունը"
+
+msgid  "blanknamespace"
+msgstr  "(Գլխավոր)"
+
+msgid  "contributions"
+msgstr  "Մասնակցի ներդրում"
+
+msgid  "contributions-title"
+msgstr  "$1 մասնակցի ներդրումը"
+
+msgid  "mycontris"
+msgstr  "Իմ ներդրումը"
+
+msgid  "contribsub2"
+msgstr  "$1-ի ներդրումները ($2)"
+
+msgid  "nocontribs"
+msgstr  "Այս չափանիշներին համապատասխանող փոփոխություններ չեն գտնվել։"
+
+msgid  "uctop"
+msgstr  " (վերջինը)"
+
+msgid  "month"
+msgstr  "Սկսած ամսից (և վաղ)՝"
+
+msgid  "year"
+msgstr  "Սկսած տարեթվից (և վաղ)՝"
+
+msgid  "sp-contributions-newbies"
+msgstr  "Ցույց տալ միայն նորաստեղծ հաշիվներից կատարված ներդրումները"
+
+msgid  "sp-contributions-newbies-sub"
+msgstr  "Նոր մասնակցային հաշիվներից"
+
+msgid  "sp-contributions-blocklog"
+msgstr  "Արգելափակման տեղեկամատյան"
+
+msgid  "sp-contributions-deleted"
+msgstr  "Մասնակցի ջնջված ներդրում"
+
+msgid  "sp-contributions-logs"
+msgstr  "տեղեկամատյաններ"
+
+msgid  "sp-contributions-talk"
+msgstr  "Քննարկում"
+
+msgid  "sp-contributions-userrights"
+msgstr  "Մասնակիցների իրավունքների կառավարում"
+
+msgid  "sp-contributions-search"
+msgstr  "Որոնել ներդրումները"
+
+msgid  "sp-contributions-username"
+msgstr  "IP-հասե կամ մասնակցի անուն."
+
+msgid  "sp-contributions-submit"
+msgstr  "Որոնել"
+
+msgid  "whatlinkshere"
+msgstr  "Այստեղ հղվող էջերը"
+
+msgid  "whatlinkshere-title"
+msgstr  "Էջեր, որոնք հղում են դեպի «$1»"
+
+msgid  "whatlinkshere-page"
+msgstr  "Էջ."
+
+msgid  "linkshere"
+msgstr  "Հետևյալ էջերը հղում են '''[[:$1]]''' էջին."
+
+msgid  "nolinkshere"
+msgstr  "Ուրիշ էջերից '''[[:$1]]''' էջին հղումներ չկան։"
+
+msgid  "nolinkshere-ns"
+msgstr  "Ընտրված անվանատարածքում '''[[:$1]]''' էջին հղվող էջեր չկան։"
+
+msgid  "isredirect"
+msgstr  "վերահղման էջ"
+
+msgid  "istemplate"
+msgstr  "ներառում"
+
+msgid  "isimage"
+msgstr  "պատկերի հղումներ"
+
+msgid  "whatlinkshere-prev"
+msgstr  "{{PLURAL:$1|նախորդ|նախորդ $1}}"
+
+msgid  "whatlinkshere-next"
+msgstr  "{{PLURAL:$1|հաջորդ|հաջորդ $1}}"
+
+msgid  "whatlinkshere-links"
+msgstr  "← հղումներ"
+
+msgid  "whatlinkshere-hideredirs"
+msgstr  "$1 վերահղում"
+
+msgid  "whatlinkshere-hidetrans"
+msgstr  "$1 ներառումները"
+
+msgid  "whatlinkshere-hidelinks"
+msgstr  "$1 հղում"
+
+msgid  "whatlinkshere-filters"
+msgstr  "Զտիչներ"
+
+msgid  "blockip"
+msgstr  "Մասնակցի արգելափակում"
+
+msgid  "blockip-legend"
+msgstr  "Մասնակցի արգելափակում"
+
+msgid  "blockiptext"
+msgstr  "Օգտագործեք ստորև բերված ձևը որոշակի IP-հասցեից կամ մասնակցի անունից գրելու հնարավորությունը արգելափակելու համար։\nՆման բան հարկավոր է անել միայն վանդալության կանխարգելման նպատակով և համաձայն [[{{MediaWiki:Policy-url}}|կանոնակարգի]]։\nՆշեք արգելափակման որոշակի պատճառը ստորև (օրինակ՝ նշեք այն էջը, որում վանդալություն է տեղի ունեցել)։"
+
+msgid  "ipaddress"
+msgstr  "IP-հասցե."
+
+msgid  "ipadressorusername"
+msgstr  "IP-հասցե կամ մասնակցի անուն."
+
+msgid  "ipbexpiry"
+msgstr  "Մարման ժամկետ."
+
+msgid  "ipbreason"
+msgstr  "Պատճառ."
+
+msgid  "ipbreasonotherlist"
+msgstr  "Այլ պատճառ"
+
+msgid  "ipbreason-dropdown"
+msgstr  "*Արգելափակման սովորական պատճառներ\n** Կեղծ տեղեկությունների ներմուծում\n** Էջերից նյութերի հեռացում\n** Արտաքին կայքերին հղումների սպամ\n** Անիմաստ/անկապ տեքստի ներմուծում էջերում\n** Վարկաբեկող/ահաբեկող պահվածք\n** Բազմաթիվ մասնակցային հաշիվների չարաշահում\n** Անպատշաճ մասնակցի անուն"
+
+msgid  "ipbanononly"
+msgstr  "Արգելափակել միայն անանուն մասնակիցներին"
+
+msgid  "ipbcreateaccount"
+msgstr  "Կանխարգելել մասնակցային հաշվի ստեղծումը"
+
+msgid  "ipbemailban"
+msgstr  "Կանխարգելել մասնակցի կողմից էլ-նամակների ուղարկումը"
+
+msgid  "ipbenableautoblock"
+msgstr  "Ավտոմատիկ արգելափակել այս մասնակցի վերջին IP-հասցեն և բոլոր հետագա IP-հասցեները, որոնցից նա կփորձի խբագրումներ կատարել"
+
+msgid  "ipbsubmit"
+msgstr  "Արգելափակել այս մասնակցին"
+
+msgid  "ipbother"
+msgstr  "Այլ ժամկետ."
+
+msgid  "ipboptions"
+msgstr  "2 ժամ:2 hours,1 օր:1 day,3 օր:3 days,1 շաբաթ:1 week,2 շաբաթ:2 weeks,1 ամիս:1 month,3 ամիս:3 months,6 ամիս:6 months,1 տարի:1 year,առհավետ:infinite"
+
+msgid  "ipbotheroption"
+msgstr  "այլ"
+
+msgid  "ipbotherreason"
+msgstr  "Այլ/հավելյալ պատճառներ."
+
+msgid  "ipbhidename"
+msgstr  "Թաքցնել մասնակցի անունը արգելափակման տեղեկամատյանից, գործող արգելափակումների ցանկից և մասնակիցների ցանկից։"
+
+msgid  "badipaddress"
+msgstr  "Սխալ IP-հասցե"
+
+msgid  "blockipsuccesssub"
+msgstr  "Արգելափակումը կատարված է"
+
+msgid  "blockipsuccesstext"
+msgstr  "[[Special:Contributions/$1|«$1»]] արգելափակված է։\n<br />Տես [[Special:IPBlockList|արգելափակված IP-հասցեների ցանկը]]։"
+
+msgid  "ipb-edit-dropdown"
+msgstr  "Խմբագրել արգելափակման պատճառները"
+
+msgid  "ipb-unblock-addr"
+msgstr  "Անարգելել $1 մասնակցին"
+
+msgid  "ipb-unblock"
+msgstr  "Անարգելել որևէ մասնակից կամ IP-հասցե"
+
+msgid  "ipb-blocklist"
+msgstr  "Դիտել գործող արգելափակումները"
+
+msgid  "ipb-blocklist-contribs"
+msgstr  "$1 մասնակցի ներդրումը"
+
+msgid  "unblockip"
+msgstr  "Անարգելել մասնակցին"
+
+msgid  "unblockiptext"
+msgstr  "Օգտագործեք ստորև ձևը՝ նախկինում արգելափակված IP-հասցեի կամ մասնակցի գրելու հնարավորությունը վերականգնելու համար։"
+
+msgid  "ipusubmit"
+msgstr  "Հանել արգելափակումը"
+
+msgid  "unblocked"
+msgstr  "[[User:$1|$1]] մասնակիցը անարգելված է։"
+
+msgid  "unblocked-id"
+msgstr  "$1 արգելափակումը հանված է"
+
+msgid  "ipblocklist"
+msgstr  "Արգելափակված IP-հասցեները և մասնակիցները"
+
+msgid  "ipblocklist-legend"
+msgstr  "Արգելափակված մասնակցի որոնում"
+
+msgid  "ipblocklist-username"
+msgstr  "Մասնակցի անուն կամ IP-հասցե."
+
+msgid  "ipblocklist-submit"
+msgstr  "Որոնել"
+
+msgid  "blocklistline"
+msgstr  "$1, $2 արգելափակել է $3 ($4)"
+
+msgid  "infiniteblock"
+msgstr  "ընդմիշտ"
+
+msgid  "expiringblock"
+msgstr  "կմարվի $1 $2"
+
+msgid  "anononlyblock"
+msgstr  "միայն անանուն"
+
+msgid  "noautoblockblock"
+msgstr  "ավտոմատ արգելափակումը անջատված է"
+
+msgid  "createaccountblock"
+msgstr  "մասնակցային հաշվի ստեղծումը արգելափակված է"
+
+msgid  "emailblock"
+msgstr  "էլ-փոստը արգելափակված"
+
+msgid  "blocklist-nousertalk"
+msgstr  "չի կարող խմբագրել իր քննարկման էջը"
+
+msgid  "ipblocklist-empty"
+msgstr  "Արգելափակումների ցանկը դատարկ է։"
+
+msgid  "ipblocklist-no-results"
+msgstr  "Նշված IP-հասցեն կամ մասնակցի անունը արգելափակված չէ։"
+
+msgid  "blocklink"
+msgstr  "արգելափակել"
+
+msgid  "unblocklink"
+msgstr  "անարգելել"
+
+msgid  "change-blocklink"
+msgstr  "փոխել արգելափակումը"
+
+msgid  "contribslink"
+msgstr  "ներդրում"
+
+msgid  "autoblocker"
+msgstr  "Դուք ավտոմատիկ արգելափակվել եք «$1» մասնակցի հետ ձեր IP-հասցեի համընկնելու պատճառով։ Նրա արգելափակման պատճառն է՝ «$2»։"
+
+msgid  "blocklogpage"
+msgstr  "Արգելափակման տեղեկամատյան"
+
+msgid  "blocklogentry"
+msgstr  "արգելափակվել է  [[$1]]. արգելափակման ժամկետն է՝  $2 $3"
+
+msgid  "blocklogtext"
+msgstr  "Սա մասնակիցների արգելափակման և անարգելման գործողությունների տեղեկամատյանն է։\nԱվտոմատիկ արգելափակված IP-հասցեները ընդգրկված չեն այստեղ։\nՏես [[Special:IPBlockList|նաերկայումս գործող արգելափակումների ցանկը]]։"
+
+msgid  "unblocklogentry"
+msgstr  "անարգելված է $1"
+
+msgid  "block-log-flags-anononly"
+msgstr  "միայն անանուն մասնակիցներ"
+
+msgid  "block-log-flags-nocreate"
+msgstr  "մասնակցային հաշվի ստեղծումը արգելված է"
+
+msgid  "block-log-flags-noautoblock"
+msgstr  "ավտոմատ արգելափակումը անջատված է"
+
+msgid  "block-log-flags-noemail"
+msgstr  "էլ-փոստը արգելափակված է"
+
+msgid  "range_block_disabled"
+msgstr  "Ադմինիստրատորների կողմից լայնույթի արգելափակման հնարավորությունը անջատված է։"
+
+msgid  "ipb_expiry_invalid"
+msgstr  "Մարման ժամկետը անթույլատրելի է"
+
+msgid  "ipb_already_blocked"
+msgstr  "«$1» մասնակիցը արդեն արգելափակված է"
+
+msgid  "ipb_cant_unblock"
+msgstr  "Սխալ. «$1» իդենտիֆիկատորով արգելափակում չի գտնվել։ Հնարավոր է այն արդեն անարգելվել է։"
+
+msgid  "ip_range_invalid"
+msgstr  "IP-հասցեների անթույլատրելի լայնույթ։"
+
+msgid  "proxyblocker"
+msgstr  "Փոխանորդի արգելափակում"
+
+msgid  "proxyblockreason"
+msgstr  "Ձեր IP-հասցեն արգելափակվել է, քանի որ այն ազատ օգտագործման փոխանորդ է։ Խնդրում ենք կապնվել ձեր ցանցային կամ տեխնիկական ծառայության տրամադրողի հետ և տեղեկացնել այս լուրջ անվտանգության խնդրի մասին։"
+
+msgid  "proxyblocksuccess"
+msgstr  "Արված է։"
+
+msgid  "sorbsreason"
+msgstr  "Ձեր IP-հասցեն հաշվված է որպես ազատ օգտագործման փոխանորդ DNSBL ցանկում։"
+
+msgid  "sorbs_create_account_reason"
+msgstr  "Ձեր IP-հասցեն հաշվված է որպես ազատ օգտագործման փոխանորդ DNSBL ցանկում։ Դուք չեք կարող ստեղծել մասնակցային հաշիվ։"
+
+msgid  "lockdb"
+msgstr  "Կողպել տվյալների բազան"
+
+msgid  "unlockdb"
+msgstr  "Բանալ տվյալների բազան"
+
+msgid  "lockdbtext"
+msgstr  "Տվյլաների բազայի կողպումը կընդհատի բոլոր մասնակիցների կողմից էջերի խմբագրման, իրենց նախընտրությունների փոփոխման և այլ հնարավորությունները, որոնք պահանջում են տվյալների բազայի փոփոխություններ։ Խնդրում ենք հաստատել, որ դուք մտադրված եք դա անել և կբանաք տվյալների բազան սպասարկման ավարտից հետո։"
+
+msgid  "unlockdbtext"
+msgstr  "Տվյլաների բազայի բանումը կվերականգնի բոլոր մասնակիցների կողմից էջերի խմբագրման, իրենց նախընտրությունների փոփոխման և այլ հնարավորությունները, որոնք պահանջում են տվյալների բազայի փոփոխություններ։ Խնդրում ենք հաստատել, որ դուք մտադրված եք դա անել։"
+
+msgid  "lockconfirm"
+msgstr  "Այո, ես իսկապես ուզում եմ կողպել տվյալների բազան։"
+
+msgid  "unlockconfirm"
+msgstr  "Այո, ես իսկապես ուզում եմ բանալ տվյալների բազան։"
+
+msgid  "lockbtn"
+msgstr  "Կողպել տվյալների բազան"
+
+msgid  "unlockbtn"
+msgstr  "Բանալ տվյալների բազան"
+
+msgid  "locknoconfirm"
+msgstr  "Դուք չեք նշել հաստատման արկղը։"
+
+msgid  "lockdbsuccesssub"
+msgstr  "Տվյալների բազան կողպված է"
+
+msgid  "unlockdbsuccesssub"
+msgstr  "Տվյալների բազան բանված է։"
+
+msgid  "lockdbsuccesstext"
+msgstr  "Տվյալների բազան կողպված է։<br />\nՉմոռանաք [[Special:UnlockDB|բանալ այն]] սպասարկման ավարտից հետո։"
+
+msgid  "unlockdbsuccesstext"
+msgstr  "Տվյալների բազան բանված է։"
+
+msgid  "lockfilenotwritable"
+msgstr  "Տվյալների բազայի կողպման նիշքը գրելի չէ։ Տվյալների բազան կողպելու կամ բանալու համար ցանցի սպասարկիչը պետք է ունենա այս նիշքը փոփոխելու իրավունք։"
+
+msgid  "databasenotlocked"
+msgstr  "Տվյալների բազան կողպված չէ։"
+
+msgid  "move-page"
+msgstr  "$1 — տեղափոխում"
+
+msgid  "move-page-legend"
+msgstr  "Տեղափոխել էջը"
+
+msgid  "movepagetext"
+msgstr  "Ստորև բերված ձևով կարող եք վերանվանել էջը՝ միաժամանակ տեղափոխելով նրա պատմությունը նոր անվանմանը։\nՀին էջը կդառնա վերահղման էջ դեպի նոր անվանումը։\nԴուք կարող եք ավտոմատիկ կերպով թարմացնել հին անվանմանը տանող վերահղումները։\nԵթե ընտրեք չանել դա, ապա խնդրում ենք ստուգել [[Special:DoubleRedirects|կրկնակի]] կամ [[Special:BrokenRedirects|չգործող վերահղումների]] առկայությունը։\nԴուք պատասխանատու եք ստուգել, որպեսզի հղումները շարունակեն տանել այնտեղ, ուր պետք է տանեն։\n\nԻ նկատի ունեցեք, որ էջը '''չի''' տեղափոխվի, եթե նոր անվանմամբ էջ արդեն գոյություն ունի՝ բացառությամբ այն դեպքերի, երբ էջը դատարկ է կամ վերահղման էջ է, և չունի նախկին փոփոխումների պատմություն\nՍա նշանակում է, որ դուք կարող եք հետ տեղափոխել էջը հին անվանմանը, եթե տեղափոխումը կատարվել է սխալմամբ և նաև չեք կարող արդեն գոյություն ունեցող էջը վրագրել։\n\n'''ԶԳՈՒՇԱՑՈ՜ՒՄ'''\nԱյս գործողությունը կարող է ունենալ արմատական ազդեցություն ''ժողովրդական'' էջի համար։\nՇարունակելուց առաջ խնդրում ենք համոզվել նրանում, որ դուք հասկանում եք հնարավոր հետևանքները։"
+
+msgid  "movepagetalktext"
+msgstr  "Կցված քննարկման էջը ավտոմատիկ կտեղափոխվի էջի հետ՝ '''բացառությամբ դեպքերի, երբ'''.\n*Գոյություն ունի ոչ-դատարկ քքնարկման էջ նոր անվանման տակ\n*Դուք հանել եք նշումը ստորև արկղից\n\nԱյսպիսի դեպքերում հարկավոր է տեղափոխել կամ միաձուլել էջերը ձեռքով, եթե դա ցանկանաք։"
+
+msgid  "movearticle"
+msgstr  "Տեղափոխել էջը"
+
+msgid  "movenologin"
+msgstr  "Դուք չեք մտել համակարգ"
+
+msgid  "movenologintext"
+msgstr  "Անհրաժեշտ է [[Special:UserLogin|մտնել համակարգ]]՝ էջը տեղափոխելու համար։"
+
+msgid  "movenotallowed"
+msgstr  "Դուք չունեք էջերի տեղափոխման իրավունք։"
+
+msgid  "newtitle"
+msgstr  "Նոր անվանում."
+
+msgid  "move-watch"
+msgstr  "Հսկել էջը"
+
+msgid  "movepagebtn"
+msgstr  "Տեղափոխել էջը"
+
+msgid  "pagemovedsub"
+msgstr  "Էջը տեղափոխվեց"
+
+msgid  "movepage-moved"
+msgstr  "'''«$1» էջը վերանվանվել է «$2»'''"
+
+msgid  "movepage-moved-redirect"
+msgstr  "Ստեղծվել է վերահղում։"
+
+msgid  "articleexists"
+msgstr  "Այդ անվանմամբ էջ արդեն գոյություն ունի կամ ձեր ընտրած անվանումը անթույլատրելի է։\nԽնդրում ենք ընտրել այլ անվանում։"
+
+msgid  "talkexists"
+msgstr  "'''Էջը հաջողությամբ տեղափոխվեց, սակայն կցված քննարկման էջը հնարավոր չէր տեղափոխել, քանի որ նոր անվանմամբ էջ արդեն գոյություն ուներ։ Խնդրում ենք միաձուլել դրանք ձեռքով։'''"
+
+msgid  "movedto"
+msgstr  "տեղափոխված է"
+
+msgid  "movetalk"
+msgstr  "Տեղափոխել զուգակցված քննարկման էջը"
+
+msgid  "1movedto2"
+msgstr  "«[[$1]]» վերանվանված է «[[$2]]»"
+
+msgid  "1movedto2_redir"
+msgstr  "«[[$1]]» վերանվանված է «[[$2]]» վերահղմամբ"
+
+msgid  "movelogpage"
+msgstr  "Տեղափոխման տեղեկամատյան"
+
+msgid  "movelogpagetext"
+msgstr  "Ստորև բերված է վերանվանված էջերի ցանկը։"
+
+msgid  "movereason"
+msgstr  "Պատճառ."
+
+msgid  "revertmove"
+msgstr  "հետ շրջել"
+
+msgid  "delete_and_move"
+msgstr  "Ջնջել և տեղափոխել"
+
+msgid  "delete_and_move_text"
+msgstr  "==Պահանջվում է ջնջում==\n\n«[[:$1]]» անվանմամբ էջ արդեն գոյություն ունի։ Ուզո՞ւմ եք այն ջնջել՝ տեղափոխումը իրականացնելու համար։"
+
+msgid  "delete_and_move_confirm"
+msgstr  "Այո, ջնջել էջը"
+
+msgid  "delete_and_move_reason"
+msgstr  "Ջնջված է՝ տեղափոխման տեղ ազատելու համար"
+
+msgid  "selfmove"
+msgstr  "Ելակետային և նոր անվանումները համընկնում են. անհնար է տեղափոխել էջը ինքն իրեն։"
+
+msgid  "move-leave-redirect"
+msgstr  "Թողնել վերահղում։"
+
+msgid  "export"
+msgstr  "Արտածել էջերը"
+
+msgid  "exporttext"
+msgstr  "Դուք կարող եք արտածել որևէ էջի կամ էջերի ամբողջության տեքստերը և փոփոխումների պատմությունները XML ֆորմատով, որը այնուհետև կարող է ներմուծվել այլ վիքի՝ օգտագործելով MediaWiki ծրագրի [[Special:Import|ներմուծման էջը]]։\n\nԷջեր արտածելու համար մուտքագրեք դրանց անվանումները խմբագրման դաշտում՝ մեկ անվանում ամեն տողում, և ընտրեք՝ ցանկանում եք արտածել ամբողջ պատմությունները, թե միայն ընթացիկ տարբերակները, վերջին խմբագրումների մասին տեղեկությունների հետ միասին։\n\nՎերջին տարբերակը արտածելու համար դուք կարող եք նաև օգտագործել հատուկ հղումներ, օր.՝ [[{{MediaWiki:Mainpage}}]] էջի համար հղման հասցեն է [[{{#Special:Export}}/{{MediaWiki:Mainpage}}]]։"
+
+msgid  "exportcuronly"
+msgstr  "Ընդգրկել միայն ընթացիկ տարբերակը, առանց լրիվ պատմության"
+
+msgid  "exportnohistory"
+msgstr  "----\n'''Ծանուցում.''' էջերի փոփոխումների լրիվ պատմության արտածումը այս ձևի միջոցով անջատված է արտադրողականության նկատառումներով։"
+
+msgid  "export-submit"
+msgstr  "Արտածել"
+
+msgid  "export-addcattext"
+msgstr  "Ավելացնել էջեր կատեգորիայից."
+
+msgid  "export-addcat"
+msgstr  "Ավելացնել"
+
+msgid  "export-download"
+msgstr  "Առաջարկել հիշել որպես նիշք"
+
+msgid  "allmessages"
+msgstr  "Համակարգային ուղերձներ"
+
+msgid  "allmessagesname"
+msgstr  "Ուղերձ"
+
+msgid  "allmessagesdefault"
+msgstr  "Լռությամբ տեքստ"
+
+msgid  "allmessagescurrent"
+msgstr  "Ընթացիկ տեքստ"
+
+msgid  "allmessagestext"
+msgstr  "Ստորև բերված է «MediaWiki» անվանատարածքի բոլոր համակարգային ուղերձների ցանկը։\nPlease visit [http://www.mediawiki.org/wiki/Localisation MediaWiki Localisation] and [http://translatewiki.net translatewiki.net] if you wish to contribute to the generic MediaWiki localisation."
+
+msgid  "allmessagesnotsupportedDB"
+msgstr  "Այս էջը չի գործում, քանի որ '''$wgUseDatabaseMessages''' հատկանիշը անջատված է։"
+
+msgid  "thumbnail-more"
+msgstr  "Ընդարձակել"
+
+msgid  "filemissing"
+msgstr  "Նման նիշք չկա"
+
+msgid  "thumbnail_error"
+msgstr  "Պատկերիկի ստեղծման սխալ. $1"
+
+msgid  "djvu_page_error"
+msgstr  "DjVu էջը լայնույթից դուրս է"
+
+msgid  "djvu_no_xml"
+msgstr  "Չհաջողվեց ստեղծել XML DjVu նիշքի համար"
+
+msgid  "thumbnail_invalid_params"
+msgstr  "Պատկերիկի սխալ պարամետրեր"
+
+msgid  "thumbnail_dest_directory"
+msgstr  "Չհաջողվեց ստեղծել նպատակային թղթապանակ"
+
+msgid  "import"
+msgstr  "Էջերի ներմուծում"
+
+msgid  "importinterwiki"
+msgstr  "Միջվիքի ներմուծում"
+
+msgid  "import-interwiki-text"
+msgstr  "Նշեք վիքի և ներմուծվող էջի անվանումը։\nՓոփոխումների ժամանակները և խմբագրողների անունները կպահպանվեն։\nԲոլոր միջվիքի ներմուծման գործողությունները գրանցվում են [[Special:Log/import|ներմուծման տեղեկամատյանում]]։"
+
+msgid  "import-interwiki-history"
+msgstr  "Պատճենել այս էջի փոփոխումների լրիվ պատմությունը"
+
+msgid  "import-interwiki-submit"
+msgstr  "Ներմուծել"
+
+msgid  "import-interwiki-namespace"
+msgstr  "Տեղադրել էջերը անվանատարածքում."
+
+msgid  "import-comment"
+msgstr  "Մեկնաբանություն."
+
+msgid  "importtext"
+msgstr  "Խնդրում ենք արտածեք էջը ելակետային վիքիից օգտագործելով [[Special:Export|արտածման գործիք]], հիշեք այն նիշքի տեսքով ձեր համակարգչի վրա և այնուհետև, բեռնեք այն այստեղ։"
+
+msgid  "importstart"
+msgstr  "Էջերի ներմուծում..."
+
+msgid  "import-revision-count"
+msgstr  "$1 տարբերակ"
+
+msgid  "importnopages"
+msgstr  "Չկան էջեր ներմուծման համար։"
+
+msgid  "importfailed"
+msgstr  "Ներմուծումը ձախողվեց. $1"
+
+msgid  "importunknownsource"
+msgstr  "Ներմուծման անհայտ ելակետային տեսակ"
+
+msgid  "importcantopen"
+msgstr  "Չհաջողվեց բացել ներմուծման նիշքը"
+
+msgid  "importbadinterwiki"
+msgstr  "Սխալ միջվիքի հղում"
+
+msgid  "importnotext"
+msgstr  "Տեքստ չկա"
+
+msgid  "importsuccess"
+msgstr  "Ներմուծումն ավարտվե՜ց։"
+
+msgid  "importhistoryconflict"
+msgstr  "Գոյություն ունեցող տարբերակների ընդհարում (հավանաբար այս էջն արդեն ներմուծվել է նախկինում)"
+
+msgid  "importnosources"
+msgstr  "Միջվիքի ներմուծման աղբյուր ընտրված չէ, իսկ փոփոխումների պատմության ուղիղ ներմուծումը անջատված է։"
+
+msgid  "importnofile"
+msgstr  "Ներմուծման նիշք չի բեռնվել։"
+
+msgid  "importlogpage"
+msgstr  "Ներմուծման տեղեկամատյան"
+
+msgid  "importlogpagetext"
+msgstr  "Ադմինիստրատորների կողմից այլ վիքիներից իրենց պատմությունների հետ էջերի ներմուծումներ։"
+
+msgid  "import-logentry-upload"
+msgstr  "ներմուծվել է «[[$1]]» նիշքի բեռնումով"
+
+msgid  "import-logentry-upload-detail"
+msgstr  "$1 տարբերակ"
+
+msgid  "import-logentry-interwiki"
+msgstr  "«$1»՝ միջվիքի ներմուծմամբ"
+
+msgid  "import-logentry-interwiki-detail"
+msgstr  "$1 տարբերակ $2-ից"
+
+msgid  "tooltip-pt-userpage"
+msgstr  "Ձեր մասնակցի էջը"
+
+msgid  "tooltip-pt-anonuserpage"
+msgstr  "Ձեր IP-հասցեի մասնակցային էջը"
+
+msgid  "tooltip-pt-mytalk"
+msgstr  "Ձեր քննարկման էջը"
+
+msgid  "tooltip-pt-anontalk"
+msgstr  "IP-հասցեից կատարված խմբագրումների քննարկում"
+
+msgid  "tooltip-pt-preferences"
+msgstr  "Ձեր նախընտրությունները"
+
+msgid  "tooltip-pt-watchlist"
+msgstr  "Ձեր հսկողության տակ գտնվող էջերի ցանկը"
+
+msgid  "tooltip-pt-mycontris"
+msgstr  "Ձեր ներդրումների ցանկը"
+
+msgid  "tooltip-pt-login"
+msgstr  "Կոչ ենք անում մտնել համակարգ, սակայն դա պարտադիր չէ"
+
+msgid  "tooltip-pt-anonlogin"
+msgstr  "Կոչ ենք ձեզ անում մուտք գործել համակարգ, սակայն դա պարտադիր չէ"
+
+msgid  "tooltip-pt-logout"
+msgstr  "Դուրս գալ համակարգից"
+
+msgid  "tooltip-ca-talk"
+msgstr  "Քննարկումներ այս էջի բովանդակության մասին"
+
+msgid  "tooltip-ca-edit"
+msgstr  "Դուք կարող էք խմբագրել այս էջը։ Խնդրում ենք օգտագործել նախադիտման կոճակը հիշելուց առաջ։"
+
+msgid  "tooltip-ca-addsection"
+msgstr  "Ստեղծել նոր բաժին"
+
+msgid  "tooltip-ca-viewsource"
+msgstr  "Այս էջը պաշտպանված է։ Դուք կարող եք դիտել նրա ելատեքստը։"
+
+msgid  "tooltip-ca-history"
+msgstr  "Այս էջի խմբագրումների պատմությունը"
+
+msgid  "tooltip-ca-protect"
+msgstr  "Պաշտպանել այս էջը"
+
+msgid  "tooltip-ca-delete"
+msgstr  "Ջնջել այս էջը"
+
+msgid  "tooltip-ca-undelete"
+msgstr  "Վերականգնել այս էջի խմբագրումները՝ կատարված ջնջումից առաջ"
+
+msgid  "tooltip-ca-move"
+msgstr  "Վերանվանել էջը"
+
+msgid  "tooltip-ca-watch"
+msgstr  "Ավելացնել այս էջը ձեր հսկողության ցանկին"
+
+msgid  "tooltip-ca-unwatch"
+msgstr  "Հանել այս էջը ձեր հսկողության ցանկից"
+
+msgid  "tooltip-search"
+msgstr  "Որոնել {{SITENAME}} կայքում"
+
+msgid  "tooltip-search-go"
+msgstr  "Անցնել այս ճշգրիտ անվանումով էջին"
+
+msgid  "tooltip-search-fulltext"
+msgstr  "Գտնել այս տեքստով էջերը"
+
+msgid  "tooltip-p-logo"
+msgstr  "Գլխավոր էջ"
+
+msgid  "tooltip-n-mainpage"
+msgstr  "Այցելեք Գլխավոր Էջը"
+
+msgid  "tooltip-n-mainpage-description"
+msgstr  "Անցնել գլխավոր էջ"
+
+msgid  "tooltip-n-portal"
+msgstr  "Նախագծի մասին, որտեղ գտնել ինչը, ինչով կարող եք օգնել"
+
+msgid  "tooltip-n-currentevents"
+msgstr  "Տեղեկություններ ընթացիկ իրադարձությունների մասին"
+
+msgid  "tooltip-n-recentchanges"
+msgstr  "Վիքիում կատարված վերջին փոփոխությունների ցանկը"
+
+msgid  "tooltip-n-randompage"
+msgstr  "Այցելեք պատահական էջ"
+
+msgid  "tooltip-n-help"
+msgstr  "{{SITENAME}} նախագծի ուղեցույց"
+
+msgid  "tooltip-t-whatlinkshere"
+msgstr  "Այս էջին հղվող բոլոր վիքի էջերի ցանկը"
+
+msgid  "tooltip-t-recentchangeslinked"
+msgstr  "Այս էջից կապված էջերի վերջին փոփոխությունները"
+
+msgid  "tooltip-feed-rss"
+msgstr  "Այս էջի RSS սնուցումը"
+
+msgid  "tooltip-feed-atom"
+msgstr  "Այս էջի Atom սնուցումը"
+
+msgid  "tooltip-t-contributions"
+msgstr  "Դիտել այս մասնակցի ներդրումների ցանկը"
+
+msgid  "tooltip-t-emailuser"
+msgstr  "Ուղարկել էլ-նամակ այս մասնակցին"
+
+msgid  "tooltip-t-upload"
+msgstr  "Բեռնել պատկերներ կամ մեդիա նիշքեր"
+
+msgid  "tooltip-t-specialpages"
+msgstr  "Բոլոր սպասարկող էջերի ցանկը"
+
+msgid  "tooltip-t-print"
+msgstr  "Այս էջի տպելու տարբերակ"
+
+msgid  "tooltip-t-permalink"
+msgstr  "Էջի այս տարբերակի մշտական հղում"
+
+msgid  "tooltip-ca-nstab-main"
+msgstr  "Դիտել հոդվածը"
+
+msgid  "tooltip-ca-nstab-user"
+msgstr  "Դիտել մասնակցի էջը"
+
+msgid  "tooltip-ca-nstab-media"
+msgstr  "Դիտել մեդիա-նիշքի էջը"
+
+msgid  "tooltip-ca-nstab-special"
+msgstr  "Սա սպասարկող էջ է, դուք չեք կարող հենց իրեն խմբագրել"
+
+msgid  "tooltip-ca-nstab-project"
+msgstr  "Դիտել նախագծի էջը"
+
+msgid  "tooltip-ca-nstab-image"
+msgstr  "Դիտել պատկերի էջը"
+
+msgid  "tooltip-ca-nstab-mediawiki"
+msgstr  "Դիտել համակարգային ուղերձը"
+
+msgid  "tooltip-ca-nstab-template"
+msgstr  "Դիտել կաղապարը"
+
+msgid  "tooltip-ca-nstab-help"
+msgstr  "Դիտել օգնության էջը"
+
+msgid  "tooltip-ca-nstab-category"
+msgstr  "Դիտել կատեգորիայի էջը"
+
+msgid  "tooltip-minoredit"
+msgstr  "Նշել այս խմբագրումը որպես չնչին"
+
+msgid  "tooltip-save"
+msgstr  "Հիշել ձեր կատարած փոփոխությունները"
+
+msgid  "tooltip-preview"
+msgstr  "Նախադիտել ձեր կատարած փոփոխությունները։ Խնդրում ենք օգտագործե՛ք սա մինչև էջի հիշելը։"
+
+msgid  "tooltip-diff"
+msgstr  "Ցույց տալ ձեր կատարած փոփոխությունները այս էջում"
+
+msgid  "tooltip-compareselectedversions"
+msgstr  "Դիտել այս էջի ընտրված երկու տարբերակների միջև տարբերությունները"
+
+msgid  "tooltip-watch"
+msgstr  "Ավելացնել այս էջը ձեր հսկողության ցանկին"
+
+msgid  "tooltip-recreate"
+msgstr  "Վերստեղծել այս էջը, չնայած նրան, որ այն ջնջվել է նախկինում"
+
+msgid  "tooltip-upload"
+msgstr  "Սկսել բեռնումը"
+
+msgid  "tooltip-rollback"
+msgstr  "Մեկ սեղմումով հետ շրջել վերջին մասնակցի կատարած բոլոր խմբագրումները"
+
+msgid  "tooltip-undo"
+msgstr  "Հետ շրջել կատարված փոփոխությունը և բացել խմբագրման ձևը նախադիտման ռեժիմով՝ թույլ տալով ավելացնել հետ շրջման պատճառը։"
+
+msgid  "common.css"
+msgstr  "/** Այստեղ տեղադրված CSS կոդը կկիրառվի բոլոր տեսքերի վրա */"
+
+msgid  "monobook.css"
+msgstr  "/* Այստեղ տեղադրված CSS կոդը կկիրառվի Monobook տեսքի վրա*/"
+
+msgid  "common.js"
+msgstr  "/* Այստեղ տեղադրված JavaScript կոդը կբեռնվի բոլոր մասնակիցների համար էջերի բոլոր դիմումների ժամանակ */"
+
+msgid  "monobook.js"
+msgstr  "/* Հնացած է. օգտագործեք [[MediaWiki:common.js]] */"
+
+msgid  "nodublincore"
+msgstr  "Dublin Core RDF մետատվյալները արգելված են այս սերվերում։"
+
+msgid  "nocreativecommons"
+msgstr  "Creative Commons RDF մետատվյալները արգելված են այս սերվերում։"
+
+msgid  "notacceptable"
+msgstr  "Վիքի-սպասարկիչը չի կարող տվյլաները տրամադրել ձեր զննարկիչի կողմից կարդացվող ֆորմատով։"
+
+msgid  "anonymous"
+msgstr  "{{grammar:genitive|{{SITENAME}}}} անանուն մասնակիցները"
+
+msgid  "siteuser"
+msgstr  "{{grammar:genitive|{{SITENAME}}}} մասնակից $1"
+
+msgid  "lastmodifiedatby"
+msgstr  "Այս էջը վերջին անգամ փոփոխվել է $2, $1 $3 մասնակցի կողմից։"
+
+msgid  "othercontribs"
+msgstr  "Հիմնված է {{grammar:genitive|$1}} գործի վրա։"
+
+msgid  "others"
+msgstr  "այլոք"
+
+msgid  "siteusers"
+msgstr  "{{grammar:genitive|{{SITENAME}}}} մասնակից(ներ) $1"
+
+msgid  "creditspage"
+msgstr  "Երախտիքներ"
+
+msgid  "nocredits"
+msgstr  "Այս էջի հեղինակների մասին տեղեկություններ չկան։"
+
+msgid  "spamprotectiontitle"
+msgstr  "Սպամ-պաշտպանման զտիչ"
+
+msgid  "spamprotectiontext"
+msgstr  "Էջը, որը դուք փորձում եք հիշել արգելափակվել է սպամի զտիչի կողմից։ Սա հավանաբար արտաքին կայքին հղման պատճառով է։"
+
+msgid  "spamprotectionmatch"
+msgstr  "Սպամ զտիչին գործադրած տեքստն է. $1."
+
+msgid  "spambot_username"
+msgstr  "Սպամի մաքրում"
+
+msgid  "spam_reverting"
+msgstr  "Հետ է շրջվում վերջին տարբերակի, որը չի պարունակում հղումներ դեպի $1"
+
+msgid  "spam_blanking"
+msgstr  "Բոլոր տարբերակները պարունակում են հղումներ դեպի $1, մաքրում"
+
+msgid  "infosubtitle"
+msgstr  "Տեղեկությունների էջի մասին"
+
+msgid  "numedits"
+msgstr  "Խմբագրումների թիվ (հոդված). $1"
+
+msgid  "numtalkedits"
+msgstr  "Խմբագրումների թիվ (քննարկման էջ). $1"
+
+msgid  "numwatchers"
+msgstr  "Հսկողների թիվ. $1"
+
+msgid  "numauthors"
+msgstr  "Տարբեր հեղինակների թիվ (հոդված). $1"
+
+msgid  "numtalkauthors"
+msgstr  "Տարբեր հեղինակների թիվ (քննարկման էջ). $1"
+
+msgid  "skinname-standard"
+msgstr  "Դասական"
+
+msgid  "skinname-nostalgia"
+msgstr  "Հայրենաբաղձություն"
+
+msgid  "skinname-cologneblue"
+msgstr  "Քյոլնի թախիծ"
+
+msgid  "skinname-monobook"
+msgstr  "ՄիաԳիրք"
+
+msgid  "skinname-myskin"
+msgstr  "ԻմՏեսք"
+
+msgid  "skinname-chick"
+msgstr  "Ծիտ"
+
+msgid  "skinname-simple"
+msgstr  "Պարզ"
+
+msgid  "mw_math_png"
+msgstr  "Միշտ դարձնել PNG"
+
+msgid  "mw_math_simple"
+msgstr  "HTML՝ պարզ դեպքերում, այլապես՝ PNG"
+
+msgid  "mw_math_html"
+msgstr  "HTML, եթե հնարավոր է, այլապես՝ PNG"
+
+msgid  "mw_math_source"
+msgstr  "Թողնել որպես ТеХ (տեքստային բրաուզերների համար)"
+
+msgid  "mw_math_modern"
+msgstr  "Խորհուրդ է տրվում ժամանակակից բրաուզերների համար"
+
+msgid  "mw_math_mathml"
+msgstr  "MathML, եթե հնարավոր է (փորձնական)"
+
+msgid  "math_failure"
+msgstr  "Չհաջողվեց վերլուծել"
+
+msgid  "math_unknown_error"
+msgstr  "անհայտ սխալ"
+
+msgid  "math_unknown_function"
+msgstr  "անհայտ ֆունկցիա"
+
+msgid  "math_lexing_error"
+msgstr  "բառական սխալ"
+
+msgid  "math_syntax_error"
+msgstr  "շարահյուսության սխալ"
+
+msgid  "math_image_error"
+msgstr  "PNG վերածումը ձախողվեց. ստուգեք latex, dvips, gs և convert ծրագրերի տեղադրման ճշտությունը։"
+
+msgid  "math_bad_tmpdir"
+msgstr  "Չի հաջողվում ստեղծել կամ գրել մաթեմատիկայի ժամանակավոր թղթապանակին։"
+
+msgid  "math_bad_output"
+msgstr  "Չի հաջողվում ստեղծել կամ գրել մաթեմատիկայի արտածման թղթապանակին"
+
+msgid  "math_notexvc"
+msgstr  "Կատարման texvc նիշքը չի գտնվել։ Տեսեք math/README՝ կարգավորման համար։"
+
+msgid  "markaspatrolleddiff"
+msgstr  "Նշել որպես ստուգված"
+
+msgid  "markaspatrolledtext"
+msgstr  "Նշել այս էջը որպես ստուգված"
+
+msgid  "markedaspatrolled"
+msgstr  "Նշված է որպես ստուգված"
+
+msgid  "markedaspatrolledtext"
+msgstr  "Ընտրված տարբերակը նշված է որպես ստուգված։"
+
+msgid  "rcpatroldisabled"
+msgstr  "Վերջին Փոփոխությունների Պարեկումն անջատված է"
+
+msgid  "rcpatroldisabledtext"
+msgstr  "Վերջին Փոփոխությունների Պարեկման հնարավորությունը անջատված է:"
+
+msgid  "markedaspatrollederror"
+msgstr  "Չհաջողվեց նշել որպես ստուգված"
+
+msgid  "markedaspatrollederrortext"
+msgstr  "Անհրաժեշտ է ընտրել տարբերակ՝ որպես ստուգված նշելու համար։"
+
+msgid  "markedaspatrollederror-noautopatrol"
+msgstr  "Ձեզ չի թույլատրվում ձեր կատարած փոփոխությունները նշել որպես ստուգված։"
+
+msgid  "patrol-log-page"
+msgstr  "Պարեկման տեղեկամատյան"
+
+msgid  "patrol-log-line"
+msgstr  "նշագրված է $1՝ $2-ից, պարեկվել է $3"
+
+msgid  "patrol-log-auto"
+msgstr  "(ավտոմատ)"
+
+msgid  "deletedrevision"
+msgstr  "Ջնջված է հին տարբերակը $1"
+
+msgid  "filedeleteerror-short"
+msgstr  "Նիշքի ջնջման սխալ. $1"
+
+msgid  "filedeleteerror-long"
+msgstr  "Տեղի են ունեցել սխալներ նիշքի ջնջման ընթացքում.\n\n$1"
+
+msgid  "filedelete-missing"
+msgstr  "«$1» նիշքը չի կարող ջնջվել, քանի որ այն գոյություն չունի։"
+
+msgid  "filedelete-old-unregistered"
+msgstr  "Ձեր նշած «$1» նիշքի տարբերակը չկա տվյալների բազայում։"
+
+msgid  "filedelete-current-unregistered"
+msgstr  "Նշված «$1» նիշքը գոյություն չունի տվյալների բազայում։"
+
+msgid  "filedelete-archive-read-only"
+msgstr  "«$1» արխիվային թղթապանակը գրելի չէ վեբ-սերվերի կողմից։"
+
+msgid  "previousdiff"
+msgstr  "← Նախորդ խմբագրում"
+
+msgid  "nextdiff"
+msgstr  "Հաջորդ խմբագրում →"
+
+msgid  "mediawarning"
+msgstr  "'''Զգուշացում'''. այս նիշքի տեսակը կարող է պարունակել վնասակար ծրագրային կոդ։ Այն կիրարկելը կարող է վտանգել ձեր համակարգը։"
+
+msgid  "imagemaxsize"
+msgstr  "Պատկերի էջում պատկերի չափի սահմանափակում."
+
+msgid  "thumbsize"
+msgstr  "Պատկերների փոքրացված չափ."
+
+msgid  "widthheightpage"
+msgstr  "$1 × $2, $3 էջեր"
+
+msgid  "file-info"
+msgstr  "նիշքի չափ՝ $1, MIME-տեսակ՝ $2"
+
+msgid  "file-info-size"
+msgstr  "$1 × $2 փիքսել, նիշքի չափը՝ $3, MIME-տեսակը՝ $4"
+
+msgid  "file-nohires"
+msgstr  "<small>Բարձր թույլատվությամբ տարբերակ չկա։</small>"
+
+msgid  "svg-long-desc"
+msgstr  "SVG-նիշք, անվանապես $1 × $2 փիքսել, նիշքի չափը՝ $3"
+
+msgid  "show-big-image"
+msgstr  "Լրիվ թույլատվությամբ"
+
+msgid  "show-big-image-thumb"
+msgstr  "<small>Նախադիտման չափ. $1 × $2 փիքսել</small>"
+
+msgid  "newimages"
+msgstr  "Նոր նիշքերի սրահ"
+
+msgid  "imagelisttext"
+msgstr  "Ստորև բերված է '''$1''' {{PLURAL:$1|նիշքի}} ցանկ՝ դասավորված ըստ $2։"
+
+msgid  "showhidebots"
+msgstr  "($1 բոտերին)"
+
+msgid  "noimages"
+msgstr  "Տեսնելու բան չկա։"
+
+msgid  "ilsubmit"
+msgstr  "Որոնել"
+
+msgid  "bydate"
+msgstr  "ըստ ամսաթվի"
+
+msgid  "sp-newimages-showfrom"
+msgstr  "Ցույց տալ նոր պատկերները՝ սկսած $1 ժամը $2"
+
+msgid  "video-dims"
+msgstr  "$1, $2 × $3"
+
+msgid  "seconds-abbrev"
+msgstr  "վ"
+
+msgid  "minutes-abbrev"
+msgstr  "ր"
+
+msgid  "hours-abbrev"
+msgstr  "ժ"
+
+msgid  "bad_image_list"
+msgstr  "Գրաձևը հետևյալն է.\n\nՀաշվի են առնվելու միայն ցանկի տարրերը (* սիմվոլով սկսվող տողերը)։\nՏողի առաջին հղումը պետք է լինի դեպի արգելված պատկերը։\nՏողի հետագա հղումները ընկալվելու են որպես բացառություններ, այսինքն էջեր, որտեղ նշված պատկերի փակցնումը չի արգելվում։"
+
+msgid  "metadata"
+msgstr  "Մետատվյալներ"
+
+msgid  "metadata-help"
+msgstr  "Նիշքը պարունակում է ընդարձակ տվյալները, հավանաբար ավելացված թվային լուսանկարչական ապարատի կամ սկաների կողմից, որոնք օգտագործվել են նկարը ստեղծելու կամ թվայնացնելու համար։\nԵթե նիշքը ձևափոխվել է ստեղծումից ի վեր, ապա որոշ տվյալները կարող են չհամապատասխանել ձևափոխված նիշքին։"
+
+msgid  "metadata-expand"
+msgstr  "Ցուց տալ ընդարձակ տվյալները"
+
+msgid  "metadata-collapse"
+msgstr  "Թաքցնել ընդարձակ տվյլաները"
+
+msgid  "metadata-fields"
+msgstr  "EXIF մետատվյալների այն դաշտերը, որոնք նշված ենք այս ուղերձի մեջ, կցուցադրվեն պատկերի էջուն լռությամբ։ Այլ տվյալները լռությամբ կթաքցվեն։\n* make\n* model\n* datetimeoriginal\n* exposuretime\n* fnumber\n* isospeedratings\n* focallength"
+
+msgid  "exif-imagewidth"
+msgstr  "Լայնք"
+
+msgid  "exif-imagelength"
+msgstr  "Բարձրություն"
+
+msgid  "exif-artist"
+msgstr  "Հեղինակ"
+
+msgid  "exif-componentsconfiguration-0"
+msgstr  "գոյություն չունի"
+
+msgid  "edit-externally"
+msgstr  "Խմբագրել այս նիշքը արտաքին խմբագրիչով"
+
+msgid  "edit-externally-help"
+msgstr  "(Մանրամասնությունների համար տես [http://www.mediawiki.org/wiki/Manual:External_editors տեղակայման հրահանգները])"
+
+msgid  "recentchangesall"
+msgstr  "բոլոր"
+
+msgid  "imagelistall"
+msgstr  "բոլոր"
+
+msgid  "watchlistall2"
+msgstr  "բոլոր"
+
+msgid  "namespacesall"
+msgstr  "բոլոր"
+
+msgid  "monthsall"
+msgstr  "բոլոր"
+
+msgid  "limitall"
+msgstr  "բոլոր"
+
+msgid  "confirmemail"
+msgstr  "Էլ-հասցեի վավերացում"
+
+msgid  "confirmemail_noemail"
+msgstr  "Դուք չեք նշել գործող էլ-հասցե ձեր [[Special:Preferences|նախընտրություններում]]։"
+
+msgid  "confirmemail_text"
+msgstr  "Այս վիքիում անհրաժեշտ է վավերացնել էլ-հասցեն մինչև էլ-փոստի վրա հիմնված հնարավորությունների օգտագործելը։ Մատնահարեք ստորև կոճակին՝ ձեր հասցեին վավերացման նամակ ուղարկելու համար։ Ուղերձում կգտնեք վավերացման կոդով հղում, որին հետևելով կվավերացնեք ձեր էլ-հասցեն։"
+
+msgid  "confirmemail_pending"
+msgstr  "Վավերացման կոդով նամակն արդեն ուղարկվել է։ Եթե դուք նորերս եք ստեղծել մասնակցային հաշիվը, ապա, հավանաբար, արժե սպասել մի քանի րոպե մինչև նամակի ժամանելը՝ նոր կոդ հայցելուց առաջ։"
+
+msgid  "confirmemail_send"
+msgstr  "Ուղարկել վավերացման ուղերձ"
+
+msgid  "confirmemail_sent"
+msgstr  "Վավերացման ուղերձը ուղարկված է։"
+
+msgid  "confirmemail_oncreate"
+msgstr  "Վավերացման կոդով նամակը ուղարկվել է ձեր նշված էլ-հասցեով։\nԱյս կոդը պարտադիր չէ համակարգ մտնելու համար, սակայն այն անհրաժեշտ է տրամադրել այս վիքիում էլ-փոստի վրա հիմնված հնարավորությունները ակտիվացնելու համար։"
+
+msgid  "confirmemail_sendfailed"
+msgstr  "Վավերացման նամակի ուղարկումը չհաջողվեց։ Ստուգեք հասցեի ճշտությունը։\n\nՍերվերի պատասխանն էր. $1"
+
+msgid  "confirmemail_invalid"
+msgstr  "Սխալ վավերացման կոդ։ Հնարավոր է կոդի ժամկետն անցած լինի։"
+
+msgid  "confirmemail_needlogin"
+msgstr  "Ձեզ անհրաժեշտ է $1՝ ձեր էլ-փոստի հասցեն վավերացնելու համար։"
+
+msgid  "confirmemail_success"
+msgstr  "Ձեր էլ-փոստի հասցեն վավերացված է։ Դուք կարող եք մտնել համակարգ և օգտվել վիքիից։"
+
+msgid  "confirmemail_loggedin"
+msgstr  "Ձեր էլ-փոստի հասցեն վավերացված է։"
+
+msgid  "confirmemail_error"
+msgstr  "Տեղի է ունեցել սխալ էլ-փոստի հասցեի վավերացման ընթացքում։"
+
+msgid  "confirmemail_subject"
+msgstr  "{{SITENAME}}. էլ-հասցեի վավերացման հայց"
+
+msgid  "confirmemail_body"
+msgstr  "Ինչ-որ մեկը, հավանաբար դուք, $1 IP-հասցեից գրանցվել է {{SITENAME}} նախագծի կայքում՝ ստեղծելով «$2» մասնակցային հաշիվը, և նշել է ձեր էլ-փոստի հասցեն։\n\nԷլ-հասցեն վավերացնելու և {{SITENAME}} կայքի էլ-փոստի վրա հիմնված հնարավորությունները ակտիվացնելու համար մատնահարեք ստորև բերված հղման վրա.\n\n$3\n\nԵթե դուք անտեղյակ եք այս հայցից, ապա խնդրում ենք պարզապես անտեսել սույն ուղերձը։ Վավերցման կոդը գերծելու է մինչև $4։"
+
+msgid  "scarytranscludedisabled"
+msgstr  "[«Interwiki transcluding» հնարավորությունը անջատված է]"
+
+msgid  "scarytranscludefailed"
+msgstr  "[Ցավոք՝ $1 կաղապարի կանչը ձախողվեց]"
+
+msgid  "scarytranscludetoolong"
+msgstr  "[Ցավոք՝ URL-հասցեն չափից երկար է]"
+
+msgid  "trackbackbox"
+msgstr  "Այս էջի Trackback-ները.<br />\n$1"
+
+msgid  "trackbackremove"
+msgstr  "([$1 ջնջել])"
+
+msgid  "trackbacklink"
+msgstr  "Trackback"
+
+msgid  "trackbackdeleteok"
+msgstr  "Trackback-ը հաջողությամբ հեռացվեց։"
+
+msgid  "deletedwhileediting"
+msgstr  "Զգուշացում. ձեր խմբագրման ընթացքում այս էջը ջնջվել է։"
+
+msgid  "confirmrecreate"
+msgstr  "[[User:$1|$1]] ([[User talk:$1|քննարկում]]) մասնակիցը ջնջել է այս էջը ձեր խմաբգրումը սկսելուց հետո՝ հետևյալ պատճառով.\n: ''$2''\nԽնդրում ենք հաստատել, որ դուք իսկապես ուզում եք վերստեղծել այս էջը։"
+
+msgid  "recreate"
+msgstr  "Վերստեղծել"
+
+msgid  "unit-pixel"
+msgstr  " փիքսել"
+
+msgid  "confirm_purge_button"
+msgstr  "OK"
+
+msgid  "confirm-purge-top"
+msgstr  "Մաքրե՞լ այս էջի քեշը։"
+
+msgid  "imgmultipageprev"
+msgstr  "← նախորդ էջ"
+
+msgid  "imgmultipagenext"
+msgstr  "հաջորդ էջ →"
+
+msgid  "imgmultigo"
+msgstr  "Անցնե՜լ"
+
+msgid  "ascending_abbrev"
+msgstr  "աճմ. կարգ."
+
+msgid  "descending_abbrev"
+msgstr  "նվազ"
+
+msgid  "table_pager_next"
+msgstr  "Հաջորդ էջ"
+
+msgid  "table_pager_prev"
+msgstr  "Նախորդ էջ"
+
+msgid  "table_pager_first"
+msgstr  "Առաջին էջ"
+
+msgid  "table_pager_last"
+msgstr  "Վերջին էջ"
+
+msgid  "table_pager_limit"
+msgstr  "Ցույց տալ $1 իր մեկ էջում"
+
+msgid  "table_pager_limit_submit"
+msgstr  "Անցնել"
+
+msgid  "table_pager_empty"
+msgstr  "Գտնված չէ"
+
+msgid  "autosumm-blank"
+msgstr  "Ջնջվում է էջի ամբողջ պարունակությունը"
+
+msgid  "autosumm-replace"
+msgstr  "Փոխվում է էջը '$1'-ով"
+
+msgid  "autoredircomment"
+msgstr  "Վերահղվում է դեպի [[$1]]"
+
+msgid  "autosumm-new"
+msgstr  "Նոր էջ. $1"
+
+msgid  "size-bytes"
+msgstr  "$1 բայթ"
+
+msgid  "size-kilobytes"
+msgstr  "$1 ԿԲ"
+
+msgid  "size-megabytes"
+msgstr  "$1 ՄԲ"
+
+msgid  "size-gigabytes"
+msgstr  "$1 ԳԲ"
+
+msgid  "livepreview-loading"
+msgstr  "Բեռնվում է…"
+
+msgid  "livepreview-ready"
+msgstr  "Բեռնվում է… Պատրա՜ստ է։"
+
+msgid  "livepreview-failed"
+msgstr  "Ուղիղ նախադիտումը ձախողվեց։ Փորձեք օգտվել հասարակ նախադիտմամբ։"
+
+msgid  "livepreview-error"
+msgstr  "Չհաջողվեց կապ հաստատել. $1 «$2»։ Փորձեք օգտվել հասարակ նախադիտմամբ։"
+
+msgid  "lag-warn-normal"
+msgstr  "Վերջին $1 վայրկյանի ընթացքում կատարված փափախությունները հնարավոր է չլինեն այս ցանկում։"
+
+msgid  "lag-warn-high"
+msgstr  "Տվյալների բազայի մեծ հապաղման պատճառով վերջին $1 {{PLURAL:$1|վայրկյանում|վայրկյանում}} կատարված խմբագրումները հնարավոր է չերևան այս ցանկում։"
+
+msgid  "watchlistedit-numitems"
+msgstr  "Ձեր հսկացանկը պարունակում է {{PLURAL:$1|1 անվանում|$1 անվանում}}՝ քննարկման էջերը չհաշված։"
+
+msgid  "watchlistedit-noitems"
+msgstr  "Ձեր հսկացանկը չի պարունակում ոչ մի անվանում։"
+
+msgid  "watchlistedit-normal-title"
+msgstr  "Հսկացանկի խմբագրում"
+
+msgid  "watchlistedit-normal-legend"
+msgstr  "Հեռացնել անվանումները հսկացանկից"
+
+msgid  "watchlistedit-normal-explain"
+msgstr  "Ձեր հսկացանկի անվանումները բերված են ստորև։\nԱնվանումը հեռացնելու համար նշեք անվանման կողքի արկղում և մատնահարեք Հեռացնել Անվանումները։\nԴուք կարող եք նաև [[Special:Watchlist/raw|խմբագրել հում ցանկը]]։"
+
+msgid  "watchlistedit-normal-submit"
+msgstr  "Հեռացնել Անվանումները"
+
+msgid  "watchlistedit-normal-done"
+msgstr  "{{PLURAL:$1|1 անվանում|$1 անվանում}} հեռացվեց ձեր հսկացանկից."
+
+msgid  "watchlistedit-raw-title"
+msgstr  "Հում հսկացանկի խմբագրում"
+
+msgid  "watchlistedit-raw-legend"
+msgstr  "Խմբագրել հում հսկացանկը"
+
+msgid  "watchlistedit-raw-explain"
+msgstr  "Ձեր հսկացանկի անվանումները բերված են ստորև։ Դուք կարող եք այն խմբագրել հեռացնելով եղածները կամ ավելացնելով նոր անվանումներ՝ ամեն տողում մեկ անվանում։ Ավարտելուց հետո մատնահարեք Թարմացնել Հսկացանկը։ Կարող եք նաև [[Special:Watchlist/edit|օգտագործել ստանդարտ խմբագրիչը]]։"
+
+msgid  "watchlistedit-raw-titles"
+msgstr  "Անվանումներ."
+
+msgid  "watchlistedit-raw-submit"
+msgstr  "Թարմացնել Հսկացանկը"
+
+msgid  "watchlistedit-raw-done"
+msgstr  "Ձեր հսկացանկը թարմացված է։"
+
+msgid  "watchlistedit-raw-added"
+msgstr  "Ավելացվեց {{PLURAL:$1|1 անվանում|$1 անվանում}}."
+
+msgid  "watchlistedit-raw-removed"
+msgstr  "Հեռացվեց {{PLURAL:$1|1 անվանում|$1 անվանում}}."
+
+msgid  "watchlisttools-view"
+msgstr  "Փոփոխությունները հսկացանկում"
+
+msgid  "watchlisttools-edit"
+msgstr  "Դիտել և խմբագրել հսկացանկը"
+
+msgid  "watchlisttools-raw"
+msgstr  "Խմբագրել հում հսկացանկը"
+
+msgid  "version"
+msgstr  "MediaWiki տարբերակը"
+
+msgid  "fileduplicatesearch-submit"
+msgstr  "Որոնել"
+
+msgid  "specialpages"
+msgstr  "Սպասարկող էջեր"
+
+msgid  "specialpages-note"
+msgstr  "----\n* Հասարակ հատուկ էջեր։\n* <strong class=\"mw-specialpagerestricted\">Սահմանափակված հատուկ էջեր։</strong>"
+
+msgid  "specialpages-group-maintenance"
+msgstr  "Տեխնիկական սպասարկման տեղեկատուներ"
+
+msgid  "specialpages-group-other"
+msgstr  "Այլ հատուկ էջեր"
+
+msgid  "specialpages-group-login"
+msgstr  "Մտնել / Գրանցվել"
+
+msgid  "specialpages-group-changes"
+msgstr  "Վերջին փոփոխություններ և տեղեկամատյաններ"
+
+msgid  "specialpages-group-media"
+msgstr  "Մեդիա նյութերի տեղեկատուներ և բեռնում"
+
+msgid  "specialpages-group-users"
+msgstr  "Մասնակիցներ և իրավունքներ"
+
+msgid  "specialpages-group-highuse"
+msgstr  "Հաճախակի օգտագործվող էջեր"
+
+msgid  "specialpages-group-pages"
+msgstr  "Էջերի ցանկեր"
+
+msgid  "specialpages-group-pagetools"
+msgstr  "Էջերի գործիքներ"
+
+msgid  "specialpages-group-wiki"
+msgstr  "Վիքի-տվյալներ և գործիքներ"
+
+msgid  "specialpages-group-redirects"
+msgstr  "Վերահղող հատուկ էջեր"
+
+msgid  "specialpages-group-spam"
+msgstr  "Սպամի գործիքներ"
+
+msgid  "blankpage"
+msgstr  "Դատարկ էջ"
+
+msgid  "intentionallyblankpage"
+msgstr  "Այս էջը միտումնավոր դատարկ է թողված։"
+
+msgid  "dberr-header"
+msgstr  "Այս վիքիում խնդիրներ են առաջացել"
+
+msgid  "dberr-problems"
+msgstr  "Այս կայքում առաջացել են տեխնիկական խնդիրներ։ Հայցում ենք ձեր ներողությունը։"
+
+msgid  "dberr-again"
+msgstr  "Փորձեք մի քանի րոպե սպասել և վերաբեռնել էջը։"
+
+msgid  "wm-license-artwork-artist"
+msgstr  "Նկարիչ"
+
+msgid  "wm-license-artwork-medium"
+msgstr  "Տեխնիկա"
+
+msgid  "wm-license-artwork-dimensions"
+msgstr  "Չափեր"
+
+msgid  "wm-license-artwork-current-location"
+msgstr  "Ընթացիկ տեղագրություն"
+
+msgid  "wm-license-artwork-notes"
+msgstr  "Ծանոթագրություններ"
+
+msgid  "wm-license-artwork-id"
+msgstr  "ID"
+
+msgid  "wm-license-artwork-source"
+msgstr  "Աղբյուր"
+
+msgid  "wm-license-creator-alternative-names"
+msgstr  "Այլընտրանի անուններ"
+
+msgid  "wm-license-creator-description"
+msgstr  "Նկրարագրում"
+
+msgid  "wm-license-creator-date-of-birth-and-death"
+msgstr  "Ծննդյան օր/Վախճանի օր"
+
+msgid  "wm-license-creator-location-of-birth-and-death"
+msgstr  "Ծննդավայր/Վախճանի վայր"
+
+msgid  "wm-license-creator-work-period"
+msgstr  "Ստեղծագործության տարիներ"
+
+msgid  "wm-license-creator-work-location"
+msgstr  "Ստեղծագործության վայր"
+
+msgid  "wm-license-fal-wiki-link"
+msgstr  "w:hy:Ազատ արվեստ արտոնագիր"
+
+msgid  "wm-license-fsf-wiki-link"
+msgstr  "w:hy:Ազատ ծրագրային ապահովման հիմնադրամ"
+
+msgid  "wm-license-free-software-wiki-link"
+msgstr  "w:hy:Ազատ ծրագրային ապահովում"
+
+msgid  "wm-license-gfdl-1.2-and-later"
+msgstr  "Այս վավերագրման պատճենահանման, տարածման և/կամ ձևափոխման թույլատվություն կամ '''[[{{int:wm-license-gfdl-wiki-link}}|լիցենսիայի GNU FDL]]''' պայմաններով 1.2 մեկնակերպի կամ ավելի ուշ, հրատարակված [[{{int:wm-license-fsf-wiki-link}}|Ազատ ծրագրային ապահովության հիմնադրամում]], առանց անփոփոխելի հատվածների, առանց բնագիրների, որոնք տեղադրված են առաջին և վերջին շապիկներում: Լիցենզիայի պատճեն գտնվում է ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' հատվածում:"
+
+msgid  "wm-license-gfdl-wiki-link"
+msgstr  "w:hy:GNU Free Documentation License"
+
+msgid  "wm-license-information-description"
+msgstr  "Նկարագրում"
+
+msgid  "wm-license-information-description-missing"
+msgstr  "Այս պատկերի '''{{ #if: {{{1|}}} | {{{1}}} | նկարագրումը }}''' բացակայում է, կարող են նաև բացակայել ուրիշ տեղեկություններ:"
+
+msgid  "wm-license-information-description-missing-request"
+msgstr  "Խնդրում ենք այս նիշքի մասին իմաստալից նկարագրություն ներկայացնել։"
+
+msgid  "wm-license-information-source"
+msgstr  "Աղբյուր"
+
+msgid  "wm-license-information-source-missing"
+msgstr  "Այս մեդիա-նիշքի '''աղբյուրի''' մասին տեղեկությունները պակասում են։"
+
+msgid  "wm-license-information-source-missing-request"
+msgstr  "Խնդրում ենք խմբագրել այս նիշքի նկարագրումը և ավելացնել աղբյուրի մասին տեղեկություններ։"
+
+msgid  "wm-license-information-date"
+msgstr  "Թվական"
+
+msgid  "wm-license-information-author"
+msgstr  "Հեղինակ"
+
+msgid  "wm-license-information-author-missing"
+msgstr  "Այս նյութում նշված չեն '''հեղինակին''' վերաբերվող տեղեկություները։"
+
+msgid  "wm-license-information-permission"
+msgstr  "Իրավունքներ"
+
+msgid  "wm-license-information-permission-reusing-text"
+msgstr  "Նիշքի վերաօգտագործումը"
+
+msgid  "wm-license-information-permission-see-below"
+msgstr  "Տես տակը"
+
+msgid  "wm-license-information-other-versions"
+msgstr  "Այլ մեկնակերպներ"
+
+msgid  "wm-license-licensing-update-text"
+msgstr  "Այս արտոնգրության հատկանիշը ավելացված է տվյալ նիշքին որպես GFDL [[{{int:wm-license-licensing-update-wiki-link}}|արտոնագրի բարեփոխում]]:"
+
+msgid  "wm-license-own-work"
+msgstr  "Բեռնողի սեփական աշխատանք"
+
+msgid  "wm-license-pd-wiki-link"
+msgstr  "w:hy:Հանրության սեփականություն"
+
+msgid  "wm-license-self-one-license"
+msgstr  "Ես, սույն աշխատանքի հեղինակային իրավունքների տերը, այսուհետ այն հրատարակում եմ հետևյալ արտոնագրի ներքո։"
+
+msgid  "wm-license-self-one-license-with-author"
+msgstr  "$1, սույն աշխատանքի հեղինակային իրավունքների տերը, այսուհետ այն հրատարակում է հետևյալ արտոնագրի պայմաններով՝"
+
+msgid  "wm-license-self-multiple-licenses"
+msgstr  "Ես, այս  աշխատանքի հեղինակային իրավունքների տերը, ներկա հրատարակում եմ սրա հետևյալ լիցենզիաների պայմաններով"
+
+msgid  "wm-license-self-multiple-licenses-with-author"
+msgstr  "$1, այս  աշխատանքի հեղինակային իրավունքների տերը, հրատարակել եմ կամ ներկա հրատարակում է սրա հետևյալ լիցենզիաների պայմաններով"
+
+msgid  "wm-license-self-multiple-licenses-select"
+msgstr  "Դուք կարող եք ընտրել յուրաքանչուրը այս լիցենզիաներից."
+

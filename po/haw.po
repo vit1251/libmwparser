@@ -1,0 +1,1989 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: haw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "KĒIAMAHINA"
+msgstr "CURRENTMONTH2"
+
+msgid  "KEIAMAHINA"
+msgstr "CURRENTMONTH2"
+
+msgid  "CURRENTMONTH"
+msgstr "CURRENTMONTH2"
+
+msgid  "KĒIAINOAMAHINA"
+msgstr "CURRENTMONTHNAME"
+
+msgid  "KEIAINOAMAHINA"
+msgstr "CURRENTMONTHNAME"
+
+msgid  "KĒIALĀ"
+msgstr "CURRENTDAY"
+
+msgid  "KEIALA"
+msgstr "CURRENTDAY"
+
+msgid  "KĒIALĀ2"
+msgstr "CURRENTDAY2"
+
+msgid  "KEIALA2"
+msgstr "CURRENTDAY2"
+
+msgid  "KĒIAINOALĀ"
+msgstr "CURRENTDAYNAME"
+
+msgid  "KEIAINOALA"
+msgstr "CURRENTDAYNAME"
+
+msgid  "KĒIAMAKAHIKI"
+msgstr "CURRENTYEAR"
+
+msgid  "KEIAMAKAHIKI"
+msgstr "CURRENTYEAR"
+
+msgid  "KĒIAMANAWA"
+msgstr "CURRENTTIME"
+
+msgid  "KEIAMANAWA"
+msgstr "CURRENTTIME"
+
+msgid  "KĒIAHOLA"
+msgstr "CURRENTHOUR"
+
+msgid  "KEIAHOLA"
+msgstr "CURRENTHOUR"
+
+msgid  "HELUʻAOʻAO"
+msgstr "NUMBEROFPAGES"
+
+msgid  "HELUAOAO"
+msgstr "NUMBEROFPAGES"
+
+msgid  "HELUMEA"
+msgstr "NUMBEROFARTICLES"
+
+msgid  "HELUWAIHONA"
+msgstr "NUMBEROFFILES"
+
+msgid  "HELUMEAHOʻOHANA"
+msgstr "NUMBEROFUSERS"
+
+msgid  "HELUMEAHOOHANA"
+msgstr "NUMBEROFUSERS"
+
+msgid  "HELULOLI"
+msgstr "NUMBEROFEDITS"
+
+msgid  "INOAʻAOʻAO"
+msgstr "PAGENAME"
+
+msgid  "INOAAOAO"
+msgstr "PAGENAME"
+
+msgid  "ʻākau"
+msgstr "right"
+
+msgid  "ākau"
+msgstr "right"
+
+msgid  "akau"
+msgstr "right"
+
+msgid  "hema"
+msgstr "left"
+
+msgid  "ʻaʻohe"
+msgstr "none"
+
+msgid  "aohe"
+msgstr "none"
+
+msgid  "loulou=$1"
+msgstr "link=$1"
+
+msgid  "KĒIAPULE"
+msgstr "CURRENTWEEK"
+
+msgid  "KEIAPULE"
+msgstr "CURRENTWEEK"
+
+msgid  "#ʻŌLELO"
+msgstr "#LANGUAGE:"
+
+msgid  "#ŌLELO"
+msgstr "#LANGUAGE:"
+
+msgid  "#OLELO"
+msgstr "#LANGUAGE:"
+
+msgid  "HELUKAHU"
+msgstr "NUMBEROFADMINS"
+
+msgid  "tog-underline"
+msgstr  "Kahalalo i nā loulou:"
+
+msgid  "tog-justify"
+msgstr  "Ho‘okaulihi i nā paukū"
+
+msgid  "tog-hideminor"
+msgstr  "E hūnā i nā ho‘opololei iki ma nā loli hou"
+
+msgid  "tog-editondblclick"
+msgstr  "Ho‘opololei i nā ‘ao‘ao ma ke kōmi pālua (JavaScript)"
+
+msgid  "tog-showtoc"
+msgstr  "Hō‘ike i ka papa kuhikuhi"
+
+msgid  "tog-rememberpassword"
+msgstr  "Hoʻomanaʻo iaʻu ma kēia lolo uila (no ka palena nui o $1 {{PLURAL:$1|lā|mau lā}})"
+
+msgid  "tog-watchcreations"
+msgstr  "Ho‘ohui i nā ‘ao‘ao i hana ai au i ka‘u papa nānā pono"
+
+msgid  "tog-watchdefault"
+msgstr  "Ho‘ohui i nā ‘ao‘ao i ho‘opololei ai au i ka‘u papa nānā pono"
+
+msgid  "tog-watchmoves"
+msgstr  "Ho‘ohui i nā ‘ao‘ao i ne‘e ai au i ka‘u papa nānā pono"
+
+msgid  "tog-watchdeletion"
+msgstr  "Ho‘ohui i nā ‘ao‘ao i kāpae ai au i ka‘u papa nānā pono"
+
+msgid  "tog-previewontop"
+msgstr  "Hō‘ike i ka nāmua mamua o ke kau ho‘opololei"
+
+msgid  "tog-previewonfirst"
+msgstr  "Hō‘ike i ka nāmua ma ka ho‘ololi mua"
+
+msgid  "tog-enotifwatchlistpages"
+msgstr  "Ke loli kekahi ‘ao‘ao ma ka‘u papa nānā pono, leka uila ia‘u"
+
+msgid  "tog-enotifusertalkpages"
+msgstr  "Ke loli ka‘u ʻaoʻao kūkākūkā, leka uila ia‘u"
+
+msgid  "tog-enotifminoredits"
+msgstr  "No nā ho‘opololei ‘ana, leka uila ia‘u"
+
+msgid  "tog-enotifrevealaddr"
+msgstr  "Hō‘ike i ko‘u leka uila ma nā leka uila hō‘ike"
+
+msgid  "tog-shownumberswatching"
+msgstr  "Hō‘ike i ka heluna o nā mea ho‘ohana e nānā ai"
+
+msgid  "tog-fancysig"
+msgstr  "Nā kākau inoa kūlohelohe (‘a‘ole me ka loulou hana nona iho)"
+
+msgid  "tog-forceeditsummary"
+msgstr  "Ke kāhuakomo au i kekahi ho‘ulu‘ulu mana‘o ‘ole, ha‘i mai iaʻu"
+
+msgid  "tog-watchlisthideown"
+msgstr  "Hūnā i ko‘u mau ho‘ololi ma ka papa nānā pono"
+
+msgid  "tog-watchlisthidebots"
+msgstr  "Hūnā i nā ho‘opololei ‘ana o nā lopako mai ka papa nānā pono"
+
+msgid  "tog-watchlisthideminor"
+msgstr  "E hūnā i nā ho‘ololi iki ma ka papa nānā pono"
+
+msgid  "tog-ccmeonemails"
+msgstr  "Hā‘awi mai i nā kope o nā leka uila i hā‘awi ai au i kekahi mau mea ho‘ohana."
+
+msgid  "tog-showhiddencats"
+msgstr  "Hō‘ike i nā mahele huna"
+
+msgid  "underline-always"
+msgstr  "Mau"
+
+msgid  "underline-never"
+msgstr  "‘A‘ole loa"
+
+msgid  "sunday"
+msgstr  "Lāpule"
+
+msgid  "monday"
+msgstr  "Pō‘akahi"
+
+msgid  "tuesday"
+msgstr  "Pō‘alua"
+
+msgid  "wednesday"
+msgstr  "Pō‘akolu"
+
+msgid  "thursday"
+msgstr  "Pō‘ahā"
+
+msgid  "friday"
+msgstr  "Pō‘alima"
+
+msgid  "saturday"
+msgstr  "Pō‘aono"
+
+msgid  "sun"
+msgstr  "Lāpule"
+
+msgid  "mon"
+msgstr  "Pōʻakahi"
+
+msgid  "tue"
+msgstr  "Pō‘alua"
+
+msgid  "wed"
+msgstr  "Pō‘akolu"
+
+msgid  "thu"
+msgstr  "Pō‘ahā"
+
+msgid  "fri"
+msgstr  "Pō‘alima"
+
+msgid  "sat"
+msgstr  "Pō‘aono"
+
+msgid  "january"
+msgstr  "Ianuali"
+
+msgid  "february"
+msgstr  "Pepeluali"
+
+msgid  "march"
+msgstr  "Malaki"
+
+msgid  "april"
+msgstr  "‘Apelila"
+
+msgid  "may_long"
+msgstr  "Mei"
+
+msgid  "june"
+msgstr  "Iune"
+
+msgid  "july"
+msgstr  "Iulai"
+
+msgid  "august"
+msgstr  "‘Aukake"
+
+msgid  "september"
+msgstr  "Kepakemapa"
+
+msgid  "october"
+msgstr  "‘Okakopa"
+
+msgid  "november"
+msgstr  "Nowemapa"
+
+msgid  "december"
+msgstr  "Kēkēmapa"
+
+msgid  "january-gen"
+msgstr  "Ianuali"
+
+msgid  "february-gen"
+msgstr  "Pepeluali"
+
+msgid  "march-gen"
+msgstr  "Malaki"
+
+msgid  "april-gen"
+msgstr  "‘Apelila"
+
+msgid  "may-gen"
+msgstr  "Mei"
+
+msgid  "june-gen"
+msgstr  "Iune"
+
+msgid  "july-gen"
+msgstr  "Iulai"
+
+msgid  "august-gen"
+msgstr  "‘Aukake"
+
+msgid  "september-gen"
+msgstr  "Kepakemapa"
+
+msgid  "october-gen"
+msgstr  "‘Okakopa"
+
+msgid  "november-gen"
+msgstr  "Nowemapa"
+
+msgid  "december-gen"
+msgstr  "Kēkēmapa"
+
+msgid  "jan"
+msgstr  "Ian"
+
+msgid  "feb"
+msgstr  "Pep"
+
+msgid  "mar"
+msgstr  "Mal"
+
+msgid  "apr"
+msgstr  "ʻAp"
+
+msgid  "may"
+msgstr  "Mei"
+
+msgid  "jun"
+msgstr  "Iun"
+
+msgid  "jul"
+msgstr  "Iul"
+
+msgid  "aug"
+msgstr  "ʻAuk"
+
+msgid  "sep"
+msgstr  "Kep"
+
+msgid  "oct"
+msgstr  "ʻOk"
+
+msgid  "nov"
+msgstr  "Now"
+
+msgid  "dec"
+msgstr  "Kek"
+
+msgid  "pagecategories"
+msgstr  "{{PLURAL:$1|Mahele|Nā mahele}}"
+
+msgid  "category_header"
+msgstr  "Nā ʻaoʻao i loko o ka mahele \"$1\""
+
+msgid  "subcategories"
+msgstr  "Nā māhele lalo"
+
+msgid  "category-media-header"
+msgstr  "Nā pāpaho i loko o ka mahele \"$1\""
+
+msgid  "category-empty"
+msgstr  "''‘A‘ohe mo‘olelo a me pāpaho o kēia mahele i kēia manawa.''"
+
+msgid  "hidden-categories"
+msgstr  "{{PLURAL:$1|Mahele hūnā|Nā mahele hūnā}}"
+
+msgid  "hidden-category-category"
+msgstr  "Nā mahele hūnā"
+
+msgid  "listingcontinuesabbrev"
+msgstr  "(ho‘omau ‘ia)"
+
+msgid  "mainpagetext"
+msgstr  "'''Ua pono ka ho‘ouka ‘ana o MediaWiki.'''"
+
+msgid  "about"
+msgstr  "E pili ana"
+
+msgid  "newwindow"
+msgstr  "(wehe i loko o kekahi pukaaniani ʻē aʻe)"
+
+msgid  "cancel"
+msgstr  "Ho‘ōki"
+
+msgid  "moredotdotdot"
+msgstr  "Hou..."
+
+msgid  "mypage"
+msgstr  "Ko‘u ‘ao‘ao"
+
+msgid  "mytalk"
+msgstr  "Ka‘u kūkākūkā"
+
+msgid  "anontalk"
+msgstr  "Ke kūkākūkā no kēia IP"
+
+msgid  "navigation"
+msgstr  "Ka hoʻokele ʻana"
+
+msgid  "and"
+msgstr  "&#32;a me"
+
+msgid  "qbfind"
+msgstr  "Loa‘a"
+
+msgid  "qbedit"
+msgstr  "E ho‘ololi"
+
+msgid  "qbpageoptions"
+msgstr  "Kēia ‘ao‘ao"
+
+msgid  "qbpageinfo"
+msgstr  "Pō‘aiapili"
+
+msgid  "qbmyoptions"
+msgstr  "Ka‘u mau ‘ao‘ao"
+
+msgid  "qbspecialpages"
+msgstr  "Nā ‘ao‘ao kūikawā"
+
+msgid  "vector-action-delete"
+msgstr  "E holoi"
+
+msgid  "vector-action-move"
+msgstr  "Neʻe"
+
+msgid  "vector-action-protect"
+msgstr  "Hoʻomalu"
+
+msgid  "vector-view-edit"
+msgstr  "E hoʻololi"
+
+msgid  "vector-view-view"
+msgstr  "Heluhelu"
+
+msgid  "errorpagetitle"
+msgstr  "Hewa"
+
+msgid  "returnto"
+msgstr  "Ho‘i iā $1."
+
+msgid  "tagline"
+msgstr  "Mai {{SITENAME}}"
+
+msgid  "help"
+msgstr  "Kōkua"
+
+msgid  "search"
+msgstr  "Huli"
+
+msgid  "searchbutton"
+msgstr  "Huli"
+
+msgid  "go"
+msgstr  "E huli"
+
+msgid  "searcharticle"
+msgstr  "Hele"
+
+msgid  "history"
+msgstr  "Mo‘olelo o ka ‘ao‘ao"
+
+msgid  "history_short"
+msgstr  "Mōʻaukala"
+
+msgid  "info_short"
+msgstr  "Hō‘ike"
+
+msgid  "printableversion"
+msgstr  "Mana paʻi pono"
+
+msgid  "permalink"
+msgstr  "Ka loulou paʻa"
+
+msgid  "print"
+msgstr  "Pa‘i"
+
+msgid  "edit"
+msgstr  "E ho‘ololi"
+
+msgid  "create"
+msgstr  "Hana"
+
+msgid  "editthispage"
+msgstr  "E ho‘opololei i kēia ‘ao‘ao"
+
+msgid  "create-this-page"
+msgstr  "Hana i keia ‘ao‘ao"
+
+msgid  "delete"
+msgstr  "E kāpae"
+
+msgid  "deletethispage"
+msgstr  "E kāpae i kēia mo‘olelo"
+
+msgid  "undelete_short"
+msgstr  "Wehe-kāpae i {{PLURAL:$1|kekahi ho‘opololei|$1 ho‘opololei}}"
+
+msgid  "protect"
+msgstr  "E ho‘omalu"
+
+msgid  "protect_change"
+msgstr  "hoʻololi"
+
+msgid  "protectthispage"
+msgstr  "E ho‘omalu i kēia ‘ao‘ao"
+
+msgid  "unprotect"
+msgstr  "E wehe ho‘omalu"
+
+msgid  "newpage"
+msgstr  "‘Ao‘ao hou"
+
+msgid  "talkpage"
+msgstr  "Kūkākūkā i keia ‘ao‘ao"
+
+msgid  "talkpagelinktext"
+msgstr  "Kūkākūkā"
+
+msgid  "specialpage"
+msgstr  "‘Ao‘ao kūikawā"
+
+msgid  "personaltools"
+msgstr  "Nā mea hana ponoʻī"
+
+msgid  "postcomment"
+msgstr  "Māhele hou"
+
+msgid  "talk"
+msgstr  "Kūkākūkā"
+
+msgid  "views"
+msgstr  "Nā nānaina"
+
+msgid  "toolbox"
+msgstr  "Pahu mea hana"
+
+msgid  "userpage"
+msgstr  "Nānā i ka ‘ao‘ao-mea ho‘ohana"
+
+msgid  "projectpage"
+msgstr  "Nānā i ka ‘ao‘ao papahana"
+
+msgid  "imagepage"
+msgstr  "Nānā i ka ‘ao‘ao pāpaho"
+
+msgid  "mediawikipage"
+msgstr  "Nānā i ka ‘ao‘ao memo"
+
+msgid  "templatepage"
+msgstr  "Nānā i ka ‘ao‘ao anakuhi"
+
+msgid  "viewhelppage"
+msgstr  "Nānā i ka ‘ao‘ao kōkua"
+
+msgid  "categorypage"
+msgstr  "Nānā i ka ‘ao‘ao mahele"
+
+msgid  "viewtalkpage"
+msgstr  "Nānā i ke kūkākūkā"
+
+msgid  "otherlanguages"
+msgstr  "Ma nā leo ʻē aʻe"
+
+msgid  "redirectedfrom"
+msgstr  "(Hoʻoili mai $1)"
+
+msgid  "redirectpagesub"
+msgstr  "‘Ao‘ao e alaka‘i ai"
+
+msgid  "lastmodifiedat"
+msgstr  "Ua hoʻololi ʻia kēia ʻaoʻao ma ka lā $1, i ka manawa $2."
+
+msgid  "protectedpage"
+msgstr  "‘Ao‘ao ho‘omalu"
+
+msgid  "jumpto"
+msgstr  "Lele i:"
+
+msgid  "jumptonavigation"
+msgstr  "ka ho‘okele ‘ana"
+
+msgid  "jumptosearch"
+msgstr  "huli"
+
+msgid  "aboutsite"
+msgstr  "No {{SITENAME}}"
+
+msgid  "aboutpage"
+msgstr  "Project:E pili ana"
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:Palapala ho‘okuleana"
+
+msgid  "currentevents"
+msgstr  "Ka nū hou"
+
+msgid  "currentevents-url"
+msgstr  "Project:Ka nū hou"
+
+msgid  "disclaimers"
+msgstr  "Palapala hoʻokuʻu kuleana"
+
+msgid  "disclaimerpage"
+msgstr  "Project:Palapala hoʻokuʻu kuleana"
+
+msgid  "edithelp"
+msgstr  "Kōkua me ka ho‘ololi ‘ana"
+
+msgid  "edithelppage"
+msgstr  "Help:Ho‘ololi"
+
+msgid  "helppage"
+msgstr  "Help:Papa kuhikuhi"
+
+msgid  "mainpage"
+msgstr  "Papa kinohi"
+
+msgid  "mainpage-description"
+msgstr  "Ka papa kinohi"
+
+msgid  "policy-url"
+msgstr  "Project:Palapala"
+
+msgid  "portal"
+msgstr  "Ka hui kaiaulu"
+
+msgid  "portal-url"
+msgstr  "Project:Ka hui kaiaulu"
+
+msgid  "privacy"
+msgstr  "Kulekele palekana ʻikepili pilikino"
+
+msgid  "privacypage"
+msgstr  "Project:Palapala pilikino"
+
+msgid  "badaccess"
+msgstr  "Hewa me ka ‘ae"
+
+msgid  "ok"
+msgstr  "Hiki nō"
+
+msgid  "retrievedfrom"
+msgstr  "Kiʻi ʻia mai \"$1\""
+
+msgid  "youhavenewmessages"
+msgstr  "He $1 ($2) kāu."
+
+msgid  "newmessageslink"
+msgstr  "mau memo hou"
+
+msgid  "newmessagesdifflink"
+msgstr  "loli hope"
+
+msgid  "youhavenewmessagesmulti"
+msgstr  "He mau memo kou ma $1"
+
+msgid  "editsection"
+msgstr  "e ho‘ololi"
+
+msgid  "editold"
+msgstr  "e ho‘ololi"
+
+msgid  "viewsourceold"
+msgstr  "nānā i ke kumu kanawai"
+
+msgid  "editlink"
+msgstr  "hoʻololi"
+
+msgid  "viewsourcelink"
+msgstr  "nānā i ka molekumu"
+
+msgid  "editsectionhint"
+msgstr  "E hoʻololi i ka paukū: $1"
+
+msgid  "toc"
+msgstr  "Papa kuhikuhi"
+
+msgid  "showtoc"
+msgstr  "hō‘ike"
+
+msgid  "hidetoc"
+msgstr  "hūnā"
+
+msgid  "thisisdeleted"
+msgstr  "Nānā ai‘ole hō‘āla i $1?"
+
+msgid  "viewdeleted"
+msgstr  "Nānā i $1?"
+
+msgid  "restorelink"
+msgstr  "{{PLURAL:$1|kekahi ho‘opololei kāpae|nā ho‘opololei kāpae $1}}"
+
+msgid  "site-rss-feed"
+msgstr  "Hulu RSS o $1"
+
+msgid  "site-atom-feed"
+msgstr  "Hulu Atom o $1"
+
+msgid  "page-rss-feed"
+msgstr  "Hulu RSS o \"$1\""
+
+msgid  "page-atom-feed"
+msgstr  "Hulu Atom o \"$1\""
+
+msgid  "red-link-title"
+msgstr  "$1 (ʻaʻole i kākau ʻia)"
+
+msgid  "nstab-main"
+msgstr  "ʻaoʻao"
+
+msgid  "nstab-user"
+msgstr  "Inoa mea ho‘ohana"
+
+msgid  "nstab-media"
+msgstr  "Pāpaho"
+
+msgid  "nstab-special"
+msgstr  "Papa nui"
+
+msgid  "nstab-project"
+msgstr  "Papahana"
+
+msgid  "nstab-image"
+msgstr  "Waihona"
+
+msgid  "nstab-mediawiki"
+msgstr  "Memo"
+
+msgid  "nstab-template"
+msgstr  "Anakuhi"
+
+msgid  "nstab-help"
+msgstr  "Kōkua"
+
+msgid  "nstab-category"
+msgstr  "Mahele"
+
+msgid  "error"
+msgstr  "Hewa"
+
+msgid  "readonly"
+msgstr  "Laka ‘ia ka hōkeo ‘ikepili"
+
+msgid  "missingarticle-diff"
+msgstr  "(Loli hope: $1, $2)"
+
+msgid  "filedeleteerror"
+msgstr  "‘A‘ole hiki ke kāpae i ka waihona \"$1\"."
+
+msgid  "filenotfound"
+msgstr  "‘A‘ole hiki ke loa‘a waihona \"$1\"."
+
+msgid  "badtitle"
+msgstr  "Inoa ‘ino"
+
+msgid  "viewsource"
+msgstr  "E nānā i ka molekumu"
+
+msgid  "viewsourcefor"
+msgstr  "no $1"
+
+msgid  "cascadeprotected"
+msgstr  "Ho‘omalu ‘ia kēia ‘ao‘ao mai e ho‘opololei ana, no ka mea, hoʻokomo pū ‘ia ‘oia ma aia {{PLURAL:$1|‘ao‘ao|nā ‘ao‘ao}} i lalo, ho‘omalu ‘ia me ka \"e wailele ana\" koho:\n$2"
+
+msgid  "ns-specialprotected"
+msgstr  "‘A‘ole hiki ke ho‘opololei i nā ‘ao‘ao kūikawā"
+
+msgid  "welcomecreation"
+msgstr  "== E komo mai, $1! ==\nUa hoʻokumu ʻia kāu moʻokāki.\nMai poina e hoʻololi i [[Special:Preferences|kāu makemake ma {{SITENAME}}]]."
+
+msgid  "yourname"
+msgstr  "Inoa mea ho'ohana"
+
+msgid  "yourpassword"
+msgstr  "ʻŌlelo hūnā:"
+
+msgid  "yourpasswordagain"
+msgstr  "Hua'ōlelo huna hou"
+
+msgid  "remembermypassword"
+msgstr  "Hoʻomanaʻo iaʻu ma kēia lolo uila (no ka palena nui o $1 {{PLURAL:$1|lā|mau lā}})"
+
+msgid  "login"
+msgstr  "ʻEʻe"
+
+msgid  "nav-login-createaccount"
+msgstr  "ʻEʻe / E kāinoa"
+
+msgid  "loginprompt"
+msgstr  "Pono ʻoe e hoʻā i nā makana (cookies) no ka ʻeʻe ʻana i {{SITENAME}}."
+
+msgid  "userlogin"
+msgstr  "ʻEʻe / E kāinoa"
+
+msgid  "userloginnocreate"
+msgstr  "ʻEʻe"
+
+msgid  "logout"
+msgstr  "E haʻalele"
+
+msgid  "userlogout"
+msgstr  "E haʻalele"
+
+msgid  "notloggedin"
+msgstr  "Mai ‘e‘e"
+
+msgid  "nologin"
+msgstr  "ʻAʻohe āu moʻokāki? '''$1'''."
+
+msgid  "nologinlink"
+msgstr  "E kāinoa"
+
+msgid  "createaccount"
+msgstr  "E hana"
+
+msgid  "gotaccount"
+msgstr  "He moʻokāki kāu? '''$1'''."
+
+msgid  "gotaccountlink"
+msgstr  "ʻEʻe"
+
+msgid  "createaccountmail"
+msgstr  "no ka leka uila"
+
+msgid  "createaccountreason"
+msgstr  "Kumu:"
+
+msgid  "badretype"
+msgstr  "ʻAʻole like nā ʻōlelo hūnā āu i hoʻokomo ai"
+
+msgid  "userexists"
+msgstr  "Lilo ka inoa mea ho‘ohana.\nE koho i kekahi inoa, ke ‘olu‘olu."
+
+msgid  "loginerror"
+msgstr  "Hewa ʻeʻe"
+
+msgid  "loginsuccesstitle"
+msgstr  "ʻEʻe kūleʻa"
+
+msgid  "loginsuccess"
+msgstr  "'''ʻEʻe ʻia ʻoe, ʻo \"$1\", iā {{SITENAME}}.'''"
+
+msgid  "nouserspecified"
+msgstr  "Pono ʻoe e kāhuakomo i ka ʻōlelo ʻeʻe."
+
+msgid  "wrongpassword"
+msgstr  "Hewa ka ʻōlelo hūnā.\nE ʻoluʻolu, e kūlia hou."
+
+msgid  "wrongpasswordempty"
+msgstr  "Hakahaka ka ʻōlelo hūnā.\nE ʻoluʻolu, e kūlia hou."
+
+msgid  "mailmypassword"
+msgstr  "Leka uila i ka huaʻōlelo hūnā hou"
+
+msgid  "passwordremindertitle"
+msgstr  "He 'ōlelo hūnā kūikawā no {{SITENAME}}"
+
+msgid  "emailauthenticated"
+msgstr  "Ua hō‘oia ‘ia kāu leka uila ma ka lā $2 i ka hola $3."
+
+msgid  "emailconfirmlink"
+msgstr  "E hō‘oia i kāu leka uila"
+
+msgid  "accountcreated"
+msgstr  "Ua lilo ‘ia ka mea ho‘ohana"
+
+msgid  "accountcreatedtext"
+msgstr  "Ua lilo ‘ia ka mea ho‘ohana no $1."
+
+msgid  "loginlanguagelabel"
+msgstr  "Kou 'ōlelo: $1"
+
+msgid  "newpassword"
+msgstr  "ʻŌlelo hūnā hou:"
+
+msgid  "resetpass_success"
+msgstr  "Ua loli ‘ia kāu hua‘ōlelo huna! E ‘e‘e iā‘oe..."
+
+msgid  "bold_sample"
+msgstr  "Ho‘okā‘ele"
+
+msgid  "bold_tip"
+msgstr  "Ho‘okā‘ele"
+
+msgid  "italic_sample"
+msgstr  "Ho‘ohiō"
+
+msgid  "italic_tip"
+msgstr  "Ho‘ohiō"
+
+msgid  "link_sample"
+msgstr  "Inoa loulou"
+
+msgid  "link_tip"
+msgstr  "Loulou loko wahi"
+
+msgid  "extlink_tip"
+msgstr  "Loulou kūwaho (e ho‘omana‘o i ka poʻo pāʻālua http://)"
+
+msgid  "headline_sample"
+msgstr  "Po‘o‘ōlelo"
+
+msgid  "math_tip"
+msgstr  "Ha‘ilula makemakika (LaTeX)"
+
+msgid  "media_tip"
+msgstr  "Loulou waihona"
+
+msgid  "sig_tip"
+msgstr  "Kou kākau inoa a me ka manawa"
+
+msgid  "hr_tip"
+msgstr  "Laina ‘ilikai (e ho‘ohana pākiko)"
+
+msgid  "summary"
+msgstr  "Hōʻuluʻulu manaʻo:"
+
+msgid  "subject"
+msgstr  "Kumumanaʻo/poʻo laina:"
+
+msgid  "minoredit"
+msgstr  "He mea i ho'opololei iki 'ia"
+
+msgid  "watchthis"
+msgstr  "E nānā pono i kēia mea"
+
+msgid  "savearticle"
+msgstr  "E mālama i ka mea"
+
+msgid  "preview"
+msgstr  "Nāmua"
+
+msgid  "showpreview"
+msgstr  "E hō'ike i ka nāmua"
+
+msgid  "showdiff"
+msgstr  "E hō'ike hou"
+
+msgid  "anoneditwarning"
+msgstr  "'''Ke aʻo ʻana:''' ʻAʻole ʻoe ʻeʻe.\nE hoʻopaʻa ʻia ana kou IP ma ko kēia ʻaoʻao mōʻaukala."
+
+msgid  "blockedtitle"
+msgstr  "Ua ke‘a ‘ia ka mea ho‘ohana"
+
+msgid  "blockednoreason"
+msgstr  "‘a‘ohe kumu"
+
+msgid  "blockedoriginalsource"
+msgstr  "Aia ke kumu o '''$1'''\nhō‘ike ‘ia i lalo:"
+
+msgid  "blockededitsource"
+msgstr  "Aia ka mo‘olelo o '''kou mau ho‘opololei''' i '''$1''' hō‘ike ‘ia i lalo:"
+
+msgid  "loginreqlink"
+msgstr  "ʻeʻe"
+
+msgid  "accmailtitle"
+msgstr  "Ua ho‘ouna ‘ia ka hua‘ōlelo huna"
+
+msgid  "newarticle"
+msgstr  "(Hou)"
+
+msgid  "anontalkpagetext"
+msgstr  "----''‘O kēia ka ʻaoʻao kūkākūkā no kekahi mea ho‘ohana me ka moʻokāki ʻole. No laila, pono mākou e ho‘ohana i ka wahi noho IP no ka hōʻoia ʻana iā ia.\nHiki i kekahi mau mea hoʻohana ke hoʻokaʻana i kēia wahi noho IP.\nInā he mea ho‘ohana ʻoe a ua haʻi ʻia kekahi manaʻo iā ʻoe, [[Special:UserLogin/signup|e hoʻokumu ʻia kekahi moʻokāki]] a i ʻole [[Special:UserLogin|e ʻeʻe]].''"
+
+msgid  "noarticletext"
+msgstr  "ʻAʻohe kikokikona a kēia ʻaoʻao.\nHiki iā ʻoe ke [[Special:Search/{{PAGENAME}}|huli no kēia inoa ʻaoʻao]] i nā ʻaoʻao ʻē aʻe, <span class=\"plainlinks\">[{{fullurl:SpecialLog|page={{FULLPAGENAMEE}}}} huli i nā moʻolelo pili], a i ʻole [{{fullurl:{{FULLPAGENAME}}|action=edit}} hoʻololi i kēia ʻaoʻao]</span>."
+
+msgid  "previewnote"
+msgstr  "'''‘O keia ka nāmua;\n‘a‘ole i mālama ‘ia ka ho‘ololi!'''"
+
+msgid  "editing"
+msgstr  "Ke ho‘ololi nei iā $1"
+
+msgid  "editingsection"
+msgstr  "Ke ho‘opololei nei iā $1 (mahele)"
+
+msgid  "editingcomment"
+msgstr  "Ke ho‘ololi nei iā $1 (paukū hou)"
+
+msgid  "yourtext"
+msgstr  "Ko‘u ‘ōlelo"
+
+msgid  "yourdiff"
+msgstr  "Nā mea ‘oko‘a"
+
+msgid  "copyrightwarning"
+msgstr  "Hoʻokuʻu ʻia nā mea lūlū iā {{SITENAME}} ma lalo o ka $2 (no nā mea kikoʻī, kele iā $1).\nInā ʻaʻole ʻoe makemake i ka hoʻololi ʻana kūnoa i kou kākau ʻana a ʻaʻole ʻoe makemake i ka hoʻomalele ʻana i kāu mau loli, inā mai kākau ma ʻaneʻi.<br />\nKe hoʻohiki nei ʻoe iā kākou: nou i kākau i kēia kikokikona a i ʻole nou i kope i kēia kikokikona mai ke kūmole kūʻokoʻa.\n'''MAI KĀKAU I NĀ KIKOKIKONA PONOKOPE E NELE AI KA ʻAE!'''"
+
+msgid  "protectedpagewarning"
+msgstr  "'''A‘o ‘ana:  Ua laka ‘ia kēia ‘ao‘ao, pēlā, hiki i nā \"kahu\" ke ho‘opololei wale nō.'''"
+
+msgid  "templatesusedpreview"
+msgstr  "Hoʻohana ʻia kēia {{PLURAL:$1|anakuhi|mau anakuhi}} i kēia nāmua:"
+
+msgid  "template-protected"
+msgstr  "(ho‘omalu ‘ia)"
+
+msgid  "template-semiprotected"
+msgstr  "(hapa-ho‘omalu ‘ia)"
+
+msgid  "edittools"
+msgstr  "<!-- Eia ka ‘ōlelo e hō‘ike ‘ia malalo o nā palapala ho‘ololi ame nā palapala ho‘ohui. -->"
+
+msgid  "permissionserrorstext-withaction"
+msgstr  "ʻAʻohe ou ʻae no $2, no {{PLURAL:$1|ia mea|no ia mau mea}}:"
+
+msgid  "undo-success"
+msgstr  "Hiki iā ʻoe ke hoʻihoʻi mai i kēia loli ʻana.\nE ʻoluʻolu, e hōʻoia i ka hoʻokūkū ʻana i lalo, a laila, e mālama i nā loli i lalo no ka hoʻopau ʻana i ka hoʻihoʻi mai ʻana i ka loli."
+
+msgid  "undo-summary"
+msgstr  "Hoʻihoʻi mai i ke kāmua $1 na [[Special:Contributions/$2|$2]] ([[User talk:$2|kūkākūkā]])"
+
+msgid  "currentrev"
+msgstr  "Kāmua hou"
+
+msgid  "revisionasof"
+msgstr  "Ka loli ʻana ma $1"
+
+msgid  "previousrevision"
+msgstr  "← Kāmua mua"
+
+msgid  "nextrevision"
+msgstr  "Kāmua hou →"
+
+msgid  "currentrevisionlink"
+msgstr  "Kāmua hou"
+
+msgid  "cur"
+msgstr  "hou"
+
+msgid  "last"
+msgstr  "hope"
+
+msgid  "page_first"
+msgstr  "mua"
+
+msgid  "page_last"
+msgstr  "hope"
+
+msgid  "histfirst"
+msgstr  "Kahiko loa"
+
+msgid  "histlast"
+msgstr  "Hou loa"
+
+msgid  "historysize"
+msgstr  "({{PLURAL:$1|1 ‘ai|$1 ‘ai}})"
+
+msgid  "historyempty"
+msgstr  "(‘ole)"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$1 ma $2"
+
+msgid  "rev-delundel"
+msgstr  "hō‘ike/hūnā"
+
+msgid  "revdelete-radio-same"
+msgstr  "(mai hoʻololi)"
+
+msgid  "revdelete-radio-set"
+msgstr  "ʻAe"
+
+msgid  "revdelete-radio-unset"
+msgstr  "ʻAʻole"
+
+msgid  "revdel-restore"
+msgstr  "hoʻololi ka nānā ʻana"
+
+msgid  "revertmerge"
+msgstr  "Mai hoʻokuʻi pū"
+
+msgid  "difference"
+msgstr  "(Ka ʻokoʻa ma waena o nā hoʻololi)"
+
+msgid  "lineno"
+msgstr  "Laina $1:"
+
+msgid  "editundo"
+msgstr  "hoʻihoʻi mai"
+
+msgid  "searchresults"
+msgstr  "Nā hualoaʻa"
+
+msgid  "searchresults-title"
+msgstr  "Nā hualoaʻa no \"$1\""
+
+msgid  "searchresulttext"
+msgstr  "No kekahi ʻike hou aku e pili ana i ka huli ʻana iā {{SITENAME}}, kele i [[{{MediaWiki:Helppage}}|{{int:help}}]]."
+
+msgid  "searchsubtitle"
+msgstr  "Ua huli ʻoe no '''[[:$1]]''' ([[Special:Prefixindex/$1|nā ʻaoʻao a pau i hoʻomaka me \"$1\"]]{{int:pipe-separator}} [[Special:WhatLinksHere/$1|nā ʻaoʻao a pau e loulou ai i \"$1\"]])"
+
+msgid  "searchsubtitleinvalid"
+msgstr  "Ua huli ʻoe iā '''$1'''"
+
+msgid  "notitlematches"
+msgstr  "ʻAʻohe inoa ʻaoʻao e like me ka huli ʻana"
+
+msgid  "prevn"
+msgstr  "{{PLURAL:$1|$1}} ma mua"
+
+msgid  "nextn"
+msgstr  "{{PLURAL:$1|$1}} ma hope"
+
+msgid  "viewprevnext"
+msgstr  "Nānā i nā ($1 {{int:pipe-separator}} $2) ($3)"
+
+msgid  "searchhelp-url"
+msgstr  "Help:Papa kuhikuhi"
+
+msgid  "search-result-size"
+msgstr  "$1 ({{PLURAL:$2|1 huaʻōlelo|$2 huaʻōlelo}})"
+
+msgid  "search-section"
+msgstr  "(māhele $1)"
+
+msgid  "search-suggest"
+msgstr  "ʻO kēia paha kou manaʻo: $1"
+
+msgid  "search-interwiki-caption"
+msgstr  "Nā pāhana ʻē aʻe"
+
+msgid  "search-mwsuggest-enabled"
+msgstr  "me nā manaʻo kōkua"
+
+msgid  "search-mwsuggest-disabled"
+msgstr  "ʻaʻohe manaʻo kōkua"
+
+msgid  "searchall"
+msgstr  "apau"
+
+msgid  "powersearch"
+msgstr  "Hulina kūlana kiʻekiʻe"
+
+msgid  "powersearch-legend"
+msgstr  "Hulina kūlana kiʻekiʻe"
+
+msgid  "powersearch-ns"
+msgstr  "Huli i loko o nā wahi inoa:"
+
+msgid  "powersearch-field"
+msgstr  "Huli no"
+
+msgid  "preferences"
+msgstr  "Kaʻu makemake"
+
+msgid  "mypreferences"
+msgstr  "Ka‘u makemake"
+
+msgid  "changepassword"
+msgstr  "E loli i ka palapala hua‘ōlelo"
+
+msgid  "prefs-skin"
+msgstr  "ʻIli"
+
+msgid  "skin-preview"
+msgstr  "Nāmua"
+
+msgid  "prefs-math"
+msgstr  "Makemakika"
+
+msgid  "datedefault"
+msgstr  "ʻAʻohe makemake"
+
+msgid  "prefs-datetime"
+msgstr  "Ka lā a me ka hola"
+
+msgid  "prefs-personal"
+msgstr  "ʻAoʻao ʻike mea hoʻohana"
+
+msgid  "prefs-rc"
+msgstr  "Nā loli hou"
+
+msgid  "prefs-watchlist"
+msgstr  "Helu nānā"
+
+msgid  "prefs-watchlist-days"
+msgstr  "Nā lā e hōʻike ana i ka helu nānā:"
+
+msgid  "prefs-watchlist-days-max"
+msgstr  "ʻEhiku lā ka palena nui"
+
+msgid  "saveprefs"
+msgstr  "Mālama"
+
+msgid  "searchresultshead"
+msgstr  "Huli"
+
+msgid  "savedprefs"
+msgstr  "Ua mālama ‘ia kāu makemake"
+
+msgid  "timezoneregion-africa"
+msgstr  "ʻApelika"
+
+msgid  "timezoneregion-america"
+msgstr  "Amelika"
+
+msgid  "timezoneregion-antarctica"
+msgstr  "ʻAneʻālika"
+
+msgid  "timezoneregion-arctic"
+msgstr  "ʻĀlika"
+
+msgid  "timezoneregion-asia"
+msgstr  "ʻĀkia"
+
+msgid  "timezoneregion-atlantic"
+msgstr  "Moana ʻAkelanika"
+
+msgid  "timezoneregion-australia"
+msgstr  "ʻAukekulelia"
+
+msgid  "timezoneregion-europe"
+msgstr  "ʻEulopa"
+
+msgid  "timezoneregion-indian"
+msgstr  "Moana ʻIniana"
+
+msgid  "timezoneregion-pacific"
+msgstr  "Moana Pakipika"
+
+msgid  "default"
+msgstr  "paʻamau"
+
+msgid  "youremail"
+msgstr  "Leka uila:"
+
+msgid  "username"
+msgstr  "Inoa mea ho'ohana:"
+
+msgid  "yourrealname"
+msgstr  "Inoa maoli:"
+
+msgid  "yourlanguage"
+msgstr  "Kou ʻōlelo:"
+
+msgid  "yournick"
+msgstr  "Inoa kapakapa:"
+
+msgid  "yourgender"
+msgstr  "Keka:"
+
+msgid  "gender-male"
+msgstr  "Kāne"
+
+msgid  "gender-female"
+msgstr  "Wahine"
+
+msgid  "email"
+msgstr  "Leka uila"
+
+msgid  "prefs-help-email-required"
+msgstr  "Koina ka leka uila."
+
+msgid  "userrights"
+msgstr  "Ho‘oponopono ‘ana o nā kuleana"
+
+msgid  "group-sysop"
+msgstr  "Nā kahu"
+
+msgid  "group-bureaucrat"
+msgstr  "Nā kuhina"
+
+msgid  "group-all"
+msgstr  "(āpau)"
+
+msgid  "group-sysop-member"
+msgstr  "Kahu"
+
+msgid  "group-bureaucrat-member"
+msgstr  "Kuhina"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:Nā kahu"
+
+msgid  "action-edit"
+msgstr  "ka hoʻololi ʻana i kēia ʻaoʻao"
+
+msgid  "nchanges"
+msgstr  "$1 {{PLURAL:$1|loli|mau loli}}"
+
+msgid  "recentchanges"
+msgstr  "Nā loli hou"
+
+msgid  "rcnote"
+msgstr  "ʻO {{PLURAL:$1|ka loli '''1'''|nā loli hope '''$1'''}} ma hope mai {{PLURAL:$2|ka lā hoʻokahi|nā lā '''$2'''}} ma hope, ma $5, $4."
+
+msgid  "rcshowhideminor"
+msgstr  "$1 i nā ho‘opololei iki"
+
+msgid  "rcshowhidebots"
+msgstr  "$1 i nā lopako"
+
+msgid  "rcshowhideliu"
+msgstr  "$1 i nā mea hoʻohana i ʻeʻe ai"
+
+msgid  "rcshowhideanons"
+msgstr  "$1 i nā mea hoʻohana i nele ai ka inoa"
+
+msgid  "rcshowhidemine"
+msgstr  "$1 i ka‘u mau hoʻololi"
+
+msgid  "diff"
+msgstr  "‘oko‘a"
+
+msgid  "hist"
+msgstr  "loli"
+
+msgid  "hide"
+msgstr  "hūnā"
+
+msgid  "show"
+msgstr  "hō‘ike"
+
+msgid  "minoreditletter"
+msgstr  "iki"
+
+msgid  "newpageletter"
+msgstr  "hou"
+
+msgid  "boteditletter"
+msgstr  "lopako"
+
+msgid  "rc-enhanced-expand"
+msgstr  "Hō‘ike i nā ‘ikepili (me JavaScript)"
+
+msgid  "rc-enhanced-hide"
+msgstr  "Hūnā i nā ‘ikepili"
+
+msgid  "recentchangeslinked"
+msgstr  "Nā loli hou ʻālike"
+
+msgid  "recentchangeslinked-page"
+msgstr  "Inoa ʻaoʻao:"
+
+msgid  "upload"
+msgstr  "Hoʻouka i ka waihona"
+
+msgid  "uploadbtn"
+msgstr  "Hoʻouka i ka waihona"
+
+msgid  "filedesc"
+msgstr  "Hōʻuluʻulu manaʻo"
+
+msgid  "fileuploadsummary"
+msgstr  "Hōʻuluʻulu manaʻo:"
+
+msgid  "uploadedimage"
+msgstr  "hoʻouka ʻia iā \"[[$1]]\""
+
+msgid  "listfiles_name"
+msgstr  "Inoa"
+
+msgid  "file-anchor-link"
+msgstr  "Waihona"
+
+msgid  "filehist"
+msgstr  "Mo‘olelo o ka waihona"
+
+msgid  "filehist-current"
+msgstr  "o kēia manawa"
+
+msgid  "filehist-datetime"
+msgstr  "Manawa"
+
+msgid  "filehist-thumb"
+msgstr  "Kiʻiliʻiliʻi"
+
+msgid  "filehist-user"
+msgstr  "Mea ho‘ohana"
+
+msgid  "filehist-dimensions"
+msgstr  "Nā nui"
+
+msgid  "filehist-filesize"
+msgstr  "Nui o ka waihona"
+
+msgid  "filehist-comment"
+msgstr  "Manaʻo"
+
+msgid  "imagelinks"
+msgstr  "Nā loulou faila"
+
+msgid  "linkstoimage"
+msgstr  "Loulou {{PLURAL:$1|kekahi ‘ao‘ao|kēia mau ‘ao‘ao $1}} i kēia waihona:"
+
+msgid  "filedelete-comment"
+msgstr  "Kumu:"
+
+msgid  "randompage"
+msgstr  "He akikala kaulele"
+
+msgid  "statistics"
+msgstr  "Papa helu"
+
+msgid  "brokenredirects-edit"
+msgstr  "e ho‘ololi"
+
+msgid  "brokenredirects-delete"
+msgstr  "e kāpae"
+
+msgid  "withoutinterwiki-submit"
+msgstr  "Hō‘ike"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|‘ai|‘ai}}"
+
+msgid  "nlinks"
+msgstr  "$1 {{PLURAL:$1|loulou|loulou}}"
+
+msgid  "nmembers"
+msgstr  "$1 {{PLURAL:$1|lālā|lālā}}"
+
+msgid  "wantedcategories"
+msgstr  "Nā māhele makemake"
+
+msgid  "shortpages"
+msgstr  "Nā ʻaoʻao pōkole"
+
+msgid  "longpages"
+msgstr  "Nā ʻaoʻao lōʻihi"
+
+msgid  "newpages"
+msgstr  "Nā ‘ao‘ao hou"
+
+msgid  "newpages-username"
+msgstr  "Inoa mea ho'ohana:"
+
+msgid  "ancientpages"
+msgstr  "Nā ‘ao‘ao kahiko loa"
+
+msgid  "move"
+msgstr  "E ho‘ololi i ka inoa"
+
+msgid  "movethispage"
+msgstr  "E hoʻoneʻe i kēia ʻaoʻao"
+
+msgid  "pager-newer-n"
+msgstr  "{{PLURAL:$1|1 hou aku|$1 hou aku}}"
+
+msgid  "pager-older-n"
+msgstr  "{{PLURAL:$1|1 kekahi iho|$1 kekahi iho}}"
+
+msgid  "booksources"
+msgstr  "Kumu puke"
+
+msgid  "booksources-go"
+msgstr  "E huli"
+
+msgid  "log"
+msgstr  "Nā mo‘olelo"
+
+msgid  "all-logs-page"
+msgstr  "Nā moʻolelo āpau"
+
+msgid  "allpages"
+msgstr  "Nā ‘ao‘ao loa apau"
+
+msgid  "alphaindexline"
+msgstr  "$1 i $2"
+
+msgid  "nextpage"
+msgstr  "Mea aʻe ($1)"
+
+msgid  "prevpage"
+msgstr  "Mea ma mua aʻe ($1)"
+
+msgid  "allarticles"
+msgstr  "Nā mo‘olelo apau loa"
+
+msgid  "allpagesprev"
+msgstr  "Mua"
+
+msgid  "allpagesnext"
+msgstr  "Hope"
+
+msgid  "allpagessubmit"
+msgstr  "E huli"
+
+msgid  "categories"
+msgstr  "Nā mahele"
+
+msgid  "deletedcontributions"
+msgstr  "Nā ha‘awina o ka inoa mea ho‘ohana i kāpae ‘ia ai"
+
+msgid  "deletedcontributions-title"
+msgstr  "Nā ha‘awina o ka inoa mea ho‘ohana i kāpae ‘ia ai"
+
+msgid  "linksearch"
+msgstr  "Loulou waho wahi"
+
+msgid  "linksearch-ok"
+msgstr  "Huli"
+
+msgid  "listusers-submit"
+msgstr  "Hō‘ike"
+
+msgid  "newuserlog-create-entry"
+msgstr  "Mea hoʻohana hou"
+
+msgid  "listgrouprights-members"
+msgstr  "(papa o nā lālā)"
+
+msgid  "emailuser"
+msgstr  "E leka uila i kēia mea ho‘ohana"
+
+msgid  "emailmessage"
+msgstr  "Memo:"
+
+msgid  "watchlist"
+msgstr  "Kaʻu papa nānā pono"
+
+msgid  "mywatchlist"
+msgstr  "Ka‘u papa nānā pono"
+
+msgid  "removedwatch"
+msgstr  "Wehe ʻia mai kāu papa nānā pono"
+
+msgid  "removedwatchtext"
+msgstr  "Wehe ʻia ʻo \"[[:$1]]\" mai [[Special:Watchlist|kāu papa nānā pono]]."
+
+msgid  "watch"
+msgstr  "E kia‘i"
+
+msgid  "watchthispage"
+msgstr  "E nānā pono i kēia mea"
+
+msgid  "unwatch"
+msgstr  "E wehe ke kia‘i"
+
+msgid  "watchlist-details"
+msgstr  "{{PLURAL:$1|$1|$1}} a kāu papa nānā pono ʻaoʻao, me ke koe ʻana o nā ʻaoʻao kūkākūkā."
+
+msgid  "wlshowlast"
+msgstr  "Hōʻike $1 hola hope $2 lā hope $3"
+
+msgid  "watching"
+msgstr  "Ke kia‘i nei..."
+
+msgid  "unwatching"
+msgstr  "Ke wehe nei i ke kiaʻi..."
+
+msgid  "changed"
+msgstr  "ua loli ‘ia"
+
+msgid  "deletepage"
+msgstr  "Kāpae ʻaoʻao"
+
+msgid  "actioncomplete"
+msgstr  "Ua pau"
+
+msgid  "deletedtext"
+msgstr  "Ua kāpae ʻia ʻo \"<nowiki>$1</nowiki>\".\nE ʻike iā $2 no ka papa o nā kāpae ʻana hou."
+
+msgid  "deletedarticle"
+msgstr  "ua kāpae ‘ia \"[[$1]]\""
+
+msgid  "dellogpage"
+msgstr  "Mo‘olelo kāpae"
+
+msgid  "dellogpagetext"
+msgstr  "He helu o nā mea i kāpae ʻia hou i lalo."
+
+msgid  "deletionlog"
+msgstr  "mo‘olelo kāpae"
+
+msgid  "deletecomment"
+msgstr  "Kumu:"
+
+msgid  "deleteotherreason"
+msgstr  "Kumu ʻē aʻe/hoʻokomo"
+
+msgid  "deletereasonotherlist"
+msgstr  "Kumu ʻē aʻe"
+
+msgid  "delete-edit-reasonlist"
+msgstr  "Ho‘opololei i nā kumu no ke kāpae ‘ana"
+
+msgid  "rollbacklink"
+msgstr  "ho‘i"
+
+msgid  "protectedarticle"
+msgstr  "ua pale ʻia \"[[$1]]\""
+
+msgid  "prot_1movedto2"
+msgstr  "Ua hoʻoneʻe ʻo [[$1]] iā [[$2]]"
+
+msgid  "protectcomment"
+msgstr  "Kumu:"
+
+msgid  "protect-default"
+msgstr  "ʻAe nā mea hoʻohana a pau"
+
+msgid  "protect-level-sysop"
+msgstr  "Nā kahu wale nō"
+
+msgid  "protect-cantedit"
+msgstr  "ʻAʻole hiki iā ʻoe ke hoʻololi i nā kūlana māmalu o kēia ʻaoʻao, no ka mea, ʻaʻohe āu ʻae no ka hoʻololi ʻana."
+
+msgid  "protect-expiry-options"
+msgstr  "1 hola:1 hour,1 lā:1 day,1 pule:1 week,2 pule:2 weeks,1 mahina:1 month,3 mahina:3 months,6 mahina:6 months,1 makahiki:1 year,pau ʻole:infinite"
+
+msgid  "restriction-type"
+msgstr  "ʻAe ʻia:"
+
+msgid  "restriction-edit"
+msgstr  "E ho‘ololi"
+
+msgid  "restriction-move"
+msgstr  "E ho'ololi i ka inoa"
+
+msgid  "undeletebtn"
+msgstr  "Ho‘āla"
+
+msgid  "undeletelink"
+msgstr  "nānā/ho‘āla"
+
+msgid  "undelete-search-submit"
+msgstr  "Huli"
+
+msgid  "namespace"
+msgstr  "Wahi inoa"
+
+msgid  "blanknamespace"
+msgstr  "(‘ano nui)"
+
+msgid  "contributions"
+msgstr  "Nā ha‘awina o kēia mea ho‘ohana"
+
+msgid  "mycontris"
+msgstr  "Koʻu mau haʻawina"
+
+msgid  "contribsub2"
+msgstr  "No $1 ($2)"
+
+msgid  "uctop"
+msgstr  "(wēkiu)"
+
+msgid  "month"
+msgstr  "Mai ka mahina (me mua):"
+
+msgid  "year"
+msgstr  "Mai ka makahiki (me mua):"
+
+msgid  "sp-contributions-deleted"
+msgstr  "Nā ha‘awina o ka inoa mea ho‘ohana i kāpae ‘ia ai"
+
+msgid  "sp-contributions-talk"
+msgstr  "Kūkākūkā"
+
+msgid  "sp-contributions-userrights"
+msgstr  "Ho‘oponopono ‘ana o nā kuleana"
+
+msgid  "sp-contributions-search"
+msgstr  "Huli no nā haʻawina"
+
+msgid  "sp-contributions-submit"
+msgstr  "Huli"
+
+msgid  "whatlinkshere"
+msgstr  "Nā mea e loulou iho ai"
+
+msgid  "whatlinkshere-page"
+msgstr  "‘Ao‘ao:"
+
+msgid  "nolinkshere"
+msgstr  "‘A‘ole he ‘ao‘ao e loulou ai iā '''[[:$1]]'''."
+
+msgid  "isredirect"
+msgstr  "ʻaoʻao hoʻoili ʻana"
+
+msgid  "whatlinkshere-prev"
+msgstr  "{{PLURAL:$1|mua|mua $1}}"
+
+msgid  "whatlinkshere-next"
+msgstr  "{{PLURAL:$1|hope|hope $1}}"
+
+msgid  "whatlinkshere-links"
+msgstr  "← nā loulou"
+
+msgid  "whatlinkshere-hidelinks"
+msgstr  "$1 i nā loulou"
+
+msgid  "whatlinkshere-filters"
+msgstr  "Kānana"
+
+msgid  "blockip"
+msgstr  "E ke‘a i kēia mea ho‘ohana"
+
+msgid  "ipbexpiry"
+msgstr  "Pau āhea:"
+
+msgid  "ipbreason"
+msgstr  "Kumu:"
+
+msgid  "ipbsubmit"
+msgstr  "E ke‘a i kēia mea ho‘ohana"
+
+msgid  "ipbother"
+msgstr  "ʻĒ aʻe manawa:"
+
+msgid  "ipboptions"
+msgstr  "2 hola:2 hours,1 lā:1 day,3 lā:3 days,1 pule:1 week,2 pule:2 weeks,1 mahina:1 month,3 mahina:3 months,6 mahina:6 months,1 makahiki:1 year,pau ʻole:infinite"
+
+msgid  "badipaddress"
+msgstr  "Mana ‘ole ka wahi noho IP"
+
+msgid  "ipblocklist-submit"
+msgstr  "Huli"
+
+msgid  "infiniteblock"
+msgstr  "pau ʻole"
+
+msgid  "anononlyblock"
+msgstr  "‘A‘ohe i hō‘ike‘ia ka inoa wale nō"
+
+msgid  "blocklink"
+msgstr  "e keʻa"
+
+msgid  "unblocklink"
+msgstr  "mai pale"
+
+msgid  "change-blocklink"
+msgstr  "hoʻololi ka palena"
+
+msgid  "contribslink"
+msgstr  "nā ha‘awina"
+
+msgid  "blockme"
+msgstr  "E ke‘a ia‘u"
+
+msgid  "move-page-legend"
+msgstr  "Hoʻoneʻe i ka ʻaoʻao"
+
+msgid  "movearticle"
+msgstr  "E hoʻoneʻe i ka ʻaoʻao:"
+
+msgid  "newtitle"
+msgstr  "I ka inoa hou:"
+
+msgid  "move-watch"
+msgstr  "E nānā pono i kēia mea"
+
+msgid  "movepagebtn"
+msgstr  "Hoʻoneʻe i ka ʻaoʻao"
+
+msgid  "pagemovedsub"
+msgstr  "Kūleʻa ka hoʻoneʻe ʻana"
+
+msgid  "movepage-moved"
+msgstr  "'''Ua hoʻoneʻe ʻia ʻo \"$1\" iā \"$2\"'''"
+
+msgid  "movedto"
+msgstr  "ua neʻe ʻia i/iā"
+
+msgid  "1movedto2"
+msgstr  "Ua hoʻoneʻe ʻo [[$1]] iā [[$2]]"
+
+msgid  "movereason"
+msgstr  "Kumu:"
+
+msgid  "delete_and_move"
+msgstr  "E kāpae a e ho‘ololi i ka inoa"
+
+msgid  "delete_and_move_confirm"
+msgstr  "‘Ae, e kāpae i ka ‘ao‘ao"
+
+msgid  "export-addcat"
+msgstr  "Ho‘ohui"
+
+msgid  "allmessages"
+msgstr  "Nā kauoha o ke kahua"
+
+msgid  "allmessagesname"
+msgstr  "Inoa"
+
+msgid  "allmessagesdefault"
+msgstr  "Kikokikona pa‘amau"
+
+msgid  "allmessagescurrent"
+msgstr  "Kikokikona i kēia manawa"
+
+msgid  "thumbnail-more"
+msgstr  "ho‘onui"
+
+msgid  "tooltip-pt-userpage"
+msgstr  "Kāu inoa mea ho‘ohana"
+
+msgid  "tooltip-pt-mytalk"
+msgstr  "Kāu ‘aoʻao ʻōlelo"
+
+msgid  "tooltip-pt-preferences"
+msgstr  "ka‘u makemake"
+
+msgid  "tooltip-pt-watchlist"
+msgstr  "Ka papa o nā ʻaoʻao o kou nānā ʻana no nā loli"
+
+msgid  "tooltip-pt-mycontris"
+msgstr  "Kāu mau ha‘awina"
+
+msgid  "tooltip-pt-login"
+msgstr  "Pai ‘ia ‘oe e ‘e‘e, akā, ‘a‘ole ia he koina"
+
+msgid  "tooltip-pt-logout"
+msgstr  "E ha‘alele"
+
+msgid  "tooltip-ca-talk"
+msgstr  "Kūkākūkā e pili ana i kēia ‘ao‘ao"
+
+msgid  "tooltip-ca-edit"
+msgstr  "Hiki iā ‘oe ke ho‘ololi i kēia ‘ao‘ao. Ma mua o ka mālama ʻia ʻana, e ho‘ohana i ke pihi nāmua, ke ‘olu‘olu."
+
+msgid  "tooltip-ca-addsection"
+msgstr  "Hoʻomaka i kekahi māhele hou"
+
+msgid  "tooltip-ca-viewsource"
+msgstr  "Pale ʻia kēia ʻaoʻao.\nHiki iā ʻoe ke ʻikena i kāna molekumu."
+
+msgid  "tooltip-ca-history"
+msgstr  "Ko kēia ʻaoʻao mau kāmua hope"
+
+msgid  "tooltip-ca-protect"
+msgstr  "Ho‘omalu i keia ‘ao‘ao"
+
+msgid  "tooltip-ca-delete"
+msgstr  "E kāpae i kēia mo‘olelo"
+
+msgid  "tooltip-ca-move"
+msgstr  "E hoʻoneʻe i kēia ʻaoʻao"
+
+msgid  "tooltip-ca-watch"
+msgstr  "E nānā pono i kēia mea"
+
+msgid  "tooltip-search"
+msgstr  "Huli iā {{SITENAME}}"
+
+msgid  "tooltip-search-go"
+msgstr  "Kele i kekahi ʻaoʻao me kēia inoa inā hiki ke loaʻa"
+
+msgid  "tooltip-search-fulltext"
+msgstr  "Huli i nā ʻaoʻao no kēia kikokikona"
+
+msgid  "tooltip-p-logo"
+msgstr  "Kele i ka papa kinohi"
+
+msgid  "tooltip-n-mainpage"
+msgstr  "Kele i ka papa kinohi"
+
+msgid  "tooltip-n-mainpage-description"
+msgstr  "Kele i ka papa kinohi"
+
+msgid  "tooltip-n-portal"
+msgstr  "E pili ana ka pāhana, nā hana hiki, nā wahi no ka loaʻa ʻana"
+
+msgid  "tooltip-n-currentevents"
+msgstr  "ʻIke i nā nū hou"
+
+msgid  "tooltip-n-recentchanges"
+msgstr  "Nā loli hou ma ka wiki"
+
+msgid  "tooltip-n-randompage"
+msgstr  "Hōʻike kekahi ʻaoʻao kaulele"
+
+msgid  "tooltip-n-help"
+msgstr  "Ka wahi e kōkua ai iā ‘oe"
+
+msgid  "tooltip-t-whatlinkshere"
+msgstr  "Nā ‘ao‘ao a pau i loulou mai ai"
+
+msgid  "tooltip-t-emailuser"
+msgstr  "Leka uila i kēia mea hoʻohana"
+
+msgid  "tooltip-t-upload"
+msgstr  "Ho‘ouka i nā waihona"
+
+msgid  "tooltip-t-specialpages"
+msgstr  "Papa inoa o nā ʻaoʻao nui apau"
+
+msgid  "tooltip-t-print"
+msgstr  "Mana paʻi pono o kēia ʻaoʻao"
+
+msgid  "tooltip-t-permalink"
+msgstr  "Loulou paʻa no kēia kāmua o ka ʻaoʻao"
+
+msgid  "tooltip-ca-nstab-special"
+msgstr  "He papa nui kēia; ʻaʻole hiki iā ʻoe ke hoʻololi"
+
+msgid  "tooltip-ca-nstab-project"
+msgstr  "Nānā i ka ‘ao‘ao papahana"
+
+msgid  "tooltip-ca-nstab-image"
+msgstr  "Nānā i ka ʻaoʻao faila"
+
+msgid  "tooltip-ca-nstab-help"
+msgstr  "Nānaina i ka ʻaoʻao kōkua"
+
+msgid  "tooltip-minoredit"
+msgstr  "Wae i kēia hoʻopololei me he hoʻopololei iki"
+
+msgid  "tooltip-save"
+msgstr  "Mālama i kāu ho‘opololei"
+
+msgid  "tooltip-watch"
+msgstr  "E nānā pono i kēia mea"
+
+msgid  "nextdiff"
+msgstr  "Hoʻololi hou aʻe →"
+
+msgid  "file-info-size"
+msgstr  "$1 x $2 kiʻiʻuku, nui faila: $3, ʻano MIME: $4"
+
+msgid  "show-big-image"
+msgstr  "Miomio piha"
+
+msgid  "ilsubmit"
+msgstr  "Huli"
+
+msgid  "edit-externally-help"
+msgstr  "(E ʻike i nā [http://www.mediawiki.org/wiki/Manual:External_editors aʻo palapala no ka hoʻokuene ʻana])"
+
+msgid  "recentchangesall"
+msgstr  "apau"
+
+msgid  "imagelistall"
+msgstr  "āpau"
+
+msgid  "watchlistall2"
+msgstr  "apau"
+
+msgid  "namespacesall"
+msgstr  "apau"
+
+msgid  "monthsall"
+msgstr  "āpau"
+
+msgid  "confirm_purge_button"
+msgstr  "Hiki nō"
+
+msgid  "imgmultipageprev"
+msgstr  "← mea ma mua aʻe"
+
+msgid  "imgmultipagenext"
+msgstr  "mea aʻe →"
+
+msgid  "table_pager_next"
+msgstr  "Mea aʻe"
+
+msgid  "table_pager_prev"
+msgstr  "Mea ma mua aʻe"
+
+msgid  "autosumm-replace"
+msgstr  "Ke pani nei i ka ‘ao‘ao me '$1'"
+
+msgid  "autoredircomment"
+msgstr  "Ke alaka‘i nei hou i [[$1]]"
+
+msgid  "autosumm-new"
+msgstr  "Ua hoʻokumu ʻia kekahi ʻaoʻao me '$1'"
+
+msgid  "livepreview-loading"
+msgstr  "Ke ho‘ouka nei…"
+
+msgid  "watchlistedit-normal-title"
+msgstr  "E ho‘opololei i ka‘u papa nānā pono"
+
+msgid  "version-specialpages"
+msgstr  "Nā ‘ao‘ao kūikawā"
+
+msgid  "fileduplicatesearch-submit"
+msgstr  "Huli"
+
+msgid  "specialpages"
+msgstr  "Nā ‘ao‘ao kūikawā"
+
+msgid  "tags-edit"
+msgstr  "e hoʻololi"
+

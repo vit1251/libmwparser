@@ -1,0 +1,6390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "#வழிமாற்று"
+msgstr "#REDIRECT"
+
+msgid  "வலது"
+msgstr "right"
+
+msgid  "இடது"
+msgstr "left"
+
+msgid  "ஒன்றுமில்லை"
+msgstr "none"
+
+msgid  "மையம்"
+msgstr "centre"
+
+msgid  "center"
+msgstr "centre"
+
+msgid  "மேல்"
+msgstr "top"
+
+msgid  "மத்தியில்"
+msgstr "middle"
+
+msgid  "கீழ்"
+msgstr "bottom"
+
+msgid  "பன்மை"
+msgstr "PLURAL:"
+
+msgid  "சிறப்பு"
+msgstr "special"
+
+msgid  "பக்க_அளவு"
+msgstr "PAGESIZE"
+
+msgid  "வழி"
+msgstr "PATH"
+
+msgid  "விக்கி"
+msgstr "WIKI"
+
+msgid  "tog-underline"
+msgstr  "இணைப்புகளுக்கு அடிக்கோடிடு"
+
+msgid  "tog-highlightbroken"
+msgstr  "முறிந்த இணைப்புகளை வடிவமை <a href=\"\" class=\"புதிது\">இதைப் போல </a> (alternative: like this<a href=\"\" class=\"internal\">?</a>)."
+
+msgid  "tog-justify"
+msgstr  "பந்திகளை ஓரச் சீர்மைப் படுத்து"
+
+msgid  "tog-hideminor"
+msgstr  "அண்மைய மாற்றங்களில் சிறிய தொகுப்புகளை மறை"
+
+msgid  "tog-hidepatrolled"
+msgstr  "அண்மைய மாற்றங்களில் பலமுறை பார்வையிட்ட தொகுப்புக்களை மறைக்கவும்"
+
+msgid  "tog-newpageshidepatrolled"
+msgstr  "பலமுறை பார்வையிட்ட பக்கங்களை புதியபக்கங்களின் பட்டியலில் காட்டவேண்டாம்."
+
+msgid  "tog-extendwatchlist"
+msgstr  "அனைத்து பொருத்தமான மாற்றங்களைக் காட்டுமாறு கவனிப்புப் பட்டியலை விரிவாக்கு"
+
+msgid  "tog-usenewrc"
+msgstr  "மேம்படுத்தப்பட்ட அண்மைய மாற்றங்கள் (ஜாவாஸ்கிரிப்ட் தேவை)"
+
+msgid  "tog-numberheadings"
+msgstr  "தலைப்புகளுக்கு தானியங்கி இலக்கமிடு"
+
+msgid  "tog-showtoolbar"
+msgstr  "கருவிப் பட்டகத்தைக் காட்டு (ஜாவா நிரல்)"
+
+msgid  "tog-editondblclick"
+msgstr  "இரட்டைச் சொடுக்கில் பக்கங்களைத் தொகு (ஜாவா நிரல்)"
+
+msgid  "tog-editsection"
+msgstr  "(தொகு) இணைப்பின் வழியாக பிரிவுத் தொகுப்பை முடுக்கு"
+
+msgid  "tog-editsectiononrightclick"
+msgstr  "பிரிவுத் தலைப்பின் மீது வலச் சொடுக்குவதன் மூலம் பகுதி தொகுப்பை முடுக்கு (ஜாவா நிரல்)"
+
+msgid  "tog-showtoc"
+msgstr  "உள்ளடக்க அட்டவணையைக் காண்பி<br />(மூன்றுக்கு மேற்பட்ட தலைப்புகளையுடைய கட்டுரைகளுக்கு)"
+
+msgid  "tog-rememberpassword"
+msgstr  "எனது புகுபதிவு பற்றிய விவரங்களை இவ்வுலாவியில் (மிக அதிகமாக $1 {{PLURAL:$1|நாள்|நாட்கள்}})  நினைவில் வைத்திருக்கவும்."
+
+msgid  "tog-watchcreations"
+msgstr  "நான் உருவாக்கிய பக்கங்களை எனது கவனிப்புப் பட்டியலில் சேர்க்கவும்."
+
+msgid  "tog-watchdefault"
+msgstr  "நான் தொகுத்த பக்கங்களை, என் கவனிப்புப் பட்டியலில் சேர்"
+
+msgid  "tog-watchmoves"
+msgstr  "நான் நகர்த்திய பக்கங்களை என் கவனிப்புப் பட்டியலில் சேர்."
+
+msgid  "tog-watchdeletion"
+msgstr  "நான் நீக்கியப் பக்கங்களை என் கவனிப்புப் பட்டியலில் சேர்"
+
+msgid  "tog-minordefault"
+msgstr  "இயல்பிருப்பாக அனைத்து தொகுப்புகளையும் சிறியது எனக் குறித்துக்கொள்."
+
+msgid  "tog-previewontop"
+msgstr  "தொகுப்புப் பெட்டிக்கு முன்பே முன்தோற்றத்தைக் காட்டு"
+
+msgid  "tog-previewonfirst"
+msgstr  "முதல் தொகுப்பில் முன்தோற்றத்தைக் காட்டு"
+
+msgid  "tog-nocache"
+msgstr  "உலாவி பக்க இடைமாற்றை முடக்கு"
+
+msgid  "tog-enotifwatchlistpages"
+msgstr  "நான் கவனிக்கும் பக்கங்கள் மாற்றப்பட்டால் எனக்கு மின்னஞ்சல் செய்க"
+
+msgid  "tog-enotifusertalkpages"
+msgstr  "என் பயனர் பேச்சுப் பக்கம் மாற்றப்பட்டால் எனக்கு மின்னஞ்சல் செய்"
+
+msgid  "tog-enotifminoredits"
+msgstr  "பக்கங்களுக்கான சிறு தொகுப்புக்கள் குறித்தும் எனக்கு மின்னஞ்சல் செய்யவும்"
+
+msgid  "tog-enotifrevealaddr"
+msgstr  "அறிவித்தல் மின்னஞ்சல்களில் எனது மின்னஞ்சல் முகவரியை வெளிப்படுத்து"
+
+msgid  "tog-shownumberswatching"
+msgstr  "கவனிக்கும் பயனர்களின் எண்ணிக்கையைக் காட்டவும்"
+
+msgid  "tog-oldsig"
+msgstr  "நடப்பு கையொப்பத்தின் முன்தோற்றம்:"
+
+msgid  "tog-fancysig"
+msgstr  "வெற்றுக் கையொப்பம் (தானியங்கி இணைப்பின்றி)"
+
+msgid  "tog-externaleditor"
+msgstr  "இயல்பிருப்பாக வெளி தொகுப்பு மென்பொருளைப் பயன்படுத்து (இது நிபுணர்களுக்கு மட்டும், உங்கள் கணினியில் சிறப்பு அமைப்புகள் தேவைப்படும்)"
+
+msgid  "tog-externaldiff"
+msgstr  "வெளி வேறுபாட்டை இயல்பிருப்பாக பயன்படுத்து (இது நிபுணர்களுக்கு மட்டும், உங்கள் கணினியில் சிறப்பு அமைப்புகள் தேவைப்படும்)"
+
+msgid  "tog-showjumplinks"
+msgstr  "\"தாவிச் செல்லவும்\" இணைப்புகளை முடுக்கு"
+
+msgid  "tog-uselivepreview"
+msgstr  "நேரடி முன்தோற்றத்தைப் பயன்படுத்து (ஜாவா நிரல்) (சோதனையிலுள்ளது)"
+
+msgid  "tog-forceeditsummary"
+msgstr  "தொகுப்புச் சுருக்கம் வெற்றாக இருக்கும் போது எனக்கு நினைவூட்டு"
+
+msgid  "tog-watchlisthideown"
+msgstr  "எனது தொகுப்புக்களைக் கவனிப்புப் பட்டியலிலிருந்து மறை"
+
+msgid  "tog-watchlisthidebots"
+msgstr  "தானியங்கித் தொகுப்புக்களைக் கவனிப்புப் பட்டியலில் காட்டாதே"
+
+msgid  "tog-watchlisthideminor"
+msgstr  "சிறு தொகுப்புக்களைக் கவனிப்புப் பட்டியலில் காட்டாதே"
+
+msgid  "tog-watchlisthideliu"
+msgstr  "கவனிப்புப் பட்டியலில் புகுபதிகை செய்த பயனர்களின் தொகுப்புக்களை மறைக்கவும்."
+
+msgid  "tog-watchlisthideanons"
+msgstr  "கவனிப்புப் பட்டியலில் அடையாளம் காட்டாத பயனர்களின் தொகுப்புக்களை மறைக்கவும்."
+
+msgid  "tog-watchlisthidepatrolled"
+msgstr  "தொடர் தானியங்கித் தொகுப்புக்களைக் கவனிப்புப் பட்டியலிலிருந்து மறை"
+
+msgid  "tog-ccmeonemails"
+msgstr  "ஏனைய பயனருக்கு நான் அனுப்பும் மின்னஞ்சல்களின் நகலொன்றை எனக்கும் அனுப்பு"
+
+msgid  "tog-diffonly"
+msgstr  "மாற்றங்களை ஒப்பிடும் போது அதன் கீழ் பக்க உள்ளடக்கத்தைக் காட்டாதே"
+
+msgid  "tog-showhiddencats"
+msgstr  "மறைக்கப்பட்ட பகுப்புகளைக் காட்டு"
+
+msgid  "tog-norollbackdiff"
+msgstr  "முன்பிருந்த நிலைக்குக் கொண்டுவந்தபின் வித்தியாசங்களை விட்டுவிடவும் (காட்டத்தேவையில்லை)."
+
+msgid  "underline-always"
+msgstr  "எப்பொழுதும்"
+
+msgid  "underline-never"
+msgstr  "எப்போதுமில்லை"
+
+msgid  "underline-default"
+msgstr  "உலாவி இயல்பிருப்பு"
+
+msgid  "editfont-style"
+msgstr  "தொகுத்தல் பெட்டி எழுத்துரு:"
+
+msgid  "editfont-default"
+msgstr  "உலாவி இயல்பிருப்பு"
+
+msgid  "editfont-monospace"
+msgstr  "சீரான இடைவெளிகொண்ட எழுத்துரு"
+
+msgid  "editfont-sansserif"
+msgstr  "சேன்சு-செரீஃப் எழுத்துரு"
+
+msgid  "editfont-serif"
+msgstr  "செரிஃப் எழுத்துரு"
+
+msgid  "sunday"
+msgstr  "ஞாயிறு"
+
+msgid  "monday"
+msgstr  "திங்கள்"
+
+msgid  "tuesday"
+msgstr  "செவ்வாய்"
+
+msgid  "wednesday"
+msgstr  "புதன்"
+
+msgid  "thursday"
+msgstr  "வியாழன்"
+
+msgid  "friday"
+msgstr  "வெள்ளி"
+
+msgid  "saturday"
+msgstr  "சனி"
+
+msgid  "sun"
+msgstr  "ஞாயி"
+
+msgid  "mon"
+msgstr  "திங்"
+
+msgid  "tue"
+msgstr  "செவ்"
+
+msgid  "wed"
+msgstr  "புத"
+
+msgid  "thu"
+msgstr  "வியா"
+
+msgid  "fri"
+msgstr  "வெள்"
+
+msgid  "sat"
+msgstr  "சனி"
+
+msgid  "january"
+msgstr  "ஜனவரி"
+
+msgid  "february"
+msgstr  "பெப்ரவரி"
+
+msgid  "march"
+msgstr  "மார்ச்"
+
+msgid  "april"
+msgstr  "ஏப்ரல்"
+
+msgid  "may_long"
+msgstr  "மே"
+
+msgid  "june"
+msgstr  "ஜூன்"
+
+msgid  "july"
+msgstr  "ஜூலை"
+
+msgid  "august"
+msgstr  "ஆகஸ்ட்"
+
+msgid  "september"
+msgstr  "செப்டெம்பர்"
+
+msgid  "october"
+msgstr  "அக்டோபர்"
+
+msgid  "november"
+msgstr  "நவம்பர்"
+
+msgid  "december"
+msgstr  "டிசம்பர்"
+
+msgid  "january-gen"
+msgstr  "சனவரி"
+
+msgid  "february-gen"
+msgstr  "பெப்ரவரி"
+
+msgid  "march-gen"
+msgstr  "மார்ச்"
+
+msgid  "april-gen"
+msgstr  "ஏப்ரல்"
+
+msgid  "may-gen"
+msgstr  "மே"
+
+msgid  "june-gen"
+msgstr  "சூன்"
+
+msgid  "july-gen"
+msgstr  "சூலை"
+
+msgid  "august-gen"
+msgstr  "ஆகத்து"
+
+msgid  "september-gen"
+msgstr  "செப்டெம்பர்"
+
+msgid  "october-gen"
+msgstr  "அக்டோபர்"
+
+msgid  "november-gen"
+msgstr  "நவம்பர்"
+
+msgid  "december-gen"
+msgstr  "திசம்பர்"
+
+msgid  "jan"
+msgstr  "சன"
+
+msgid  "feb"
+msgstr  "பெப்"
+
+msgid  "mar"
+msgstr  "மார்"
+
+msgid  "apr"
+msgstr  "ஏப்"
+
+msgid  "may"
+msgstr  "மே"
+
+msgid  "jun"
+msgstr  "சூன்"
+
+msgid  "jul"
+msgstr  "சூலை"
+
+msgid  "aug"
+msgstr  "ஆக"
+
+msgid  "sep"
+msgstr  "செப்"
+
+msgid  "oct"
+msgstr  "அக்"
+
+msgid  "nov"
+msgstr  "நவ"
+
+msgid  "dec"
+msgstr  "திச"
+
+msgid  "pagecategories"
+msgstr  "{{PLURAL:$1|பகுப்பு|பகுப்புகள்}}"
+
+msgid  "category_header"
+msgstr  "\"$1\" பகுப்பிலுள்ள கட்டுரைகள்"
+
+msgid  "subcategories"
+msgstr  "துணைப் பகுப்புகள்"
+
+msgid  "category-media-header"
+msgstr  "\"$1\" பகுப்பில் உள்ள ஊடகங்கள்"
+
+msgid  "category-empty"
+msgstr  "இப்பகுப்பில் தற்போது ஊடகங்கள் யாதும் இல்லை."
+
+msgid  "hidden-categories"
+msgstr  "{{PLURAL:$1|மறைக்கப்பட்ட பகுப்பு|மறைக்கப்பட்ட பகுப்புகள்}}"
+
+msgid  "hidden-category-category"
+msgstr  "மறைக்கப்பட்ட பகுப்புகள்"
+
+msgid  "category-subcat-count"
+msgstr  "{{PLURAL:$2|இந்தப் பகுப்பின் கீழ் பின்வரும் ஒரு துணைப் பகுப்பு மட்டுமே உள்ளது.|இந்தப்பகுப்பின் கீழ் உள்ள $2 துணைப் பகுப்புகளில் பின்வரும் {{PLURAL:$1|துணைப்பகுப்பும் உள்ளது.|$1 துணைப்பகுப்புகளும் உள்ளன.}}}}"
+
+msgid  "category-subcat-count-limited"
+msgstr  "இந்தப் பகுப்பின் கீழ் பின்வரும் {{PLURAL:$1|ஒரு துணைப் பகுப்பு மட்டுமே உள்ளது.|$1 துணைப் பகுப்புகள் உள்ளன.}}"
+
+msgid  "category-article-count"
+msgstr  "{{PLURAL:$2|இந்தப் பகுப்பின் கீழ் பின்வரும் பக்கம் மட்டுமே உள்ளது.|இந்தப்பகுப்பின் கீழ் உள்ள $2 பக்கங்களில் பின்வரும் {{PLURAL:$1|பக்கமும் உள்ளது.|$1 பக்கங்களும் உள்ளன.}}}}"
+
+msgid  "category-article-count-limited"
+msgstr  "இப்பகுப்பில் பின்வரும் {{PLURAL:$1|பக்கம்|$1 பக்கங்கள்}} உள்ள{{PLURAL:$1|து|ன}}."
+
+msgid  "category-file-count"
+msgstr  "{{PLURAL:$2|இந்தப் பகுப்பின் கீழ் பினவரும் ஒரு கோப்பு மட்டுமே உள்ளது.|இந்தப்பகுப்பின் கீழ் உள்ள $2 கோப்புகளில் பின்வரும் {{PLURAL:$1|கோப்பும் உள்ளது.|$1 கோப்புகளும் உள்ளன.}}}}"
+
+msgid  "category-file-count-limited"
+msgstr  "இப்பகுப்பில் பின்வரும் {{PLURAL:$1|கோப்பு|$1 கோப்புகள்}} உள்ள{{PLURAL:$1|து|ன}}."
+
+msgid  "listingcontinuesabbrev"
+msgstr  "தொடரும்."
+
+msgid  "index-category"
+msgstr  "வரிசைபடுத்தப்பட்ட பக்கங்கள்"
+
+msgid  "noindex-category"
+msgstr  "வரிசைபடுத்தப்படாத பக்கங்கள்"
+
+msgid  "mainpagetext"
+msgstr  "'''விக்கி மென்பொருள் வெற்றிகரமாக உள்ளிடப்பட்டது.'''"
+
+msgid  "mainpagedocfooter"
+msgstr  "விக்கி மென்பொருளைப் பயன்படுத்துவது தொடர்பாக [http://meta.wikimedia.org/wiki/Help:Contents பயனர் வழிகாட்டியைப்] பார்க்க.\n\n== தொடக்கப்படிகள் ==\n\n* [http://www.mediawiki.org/wiki/Manual:Configuration_settings அமைப்புக்களை மாற்றம் செய்தல்]\n* [http://www.mediawiki.org/wiki/Manual:FAQ மிடியாவிக்கி பொதுவான கேள்விகள்]\n* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce மீடியாவிக்கி வெளியீடு மின்னஞ்சல் பட்டியல்]"
+
+msgid  "about"
+msgstr  "விவரம்"
+
+msgid  "article"
+msgstr  "உள்ளடக்கப் பக்கம்"
+
+msgid  "newwindow"
+msgstr  "(புதிய சாளரத்துள் திறக்கும்)"
+
+msgid  "cancel"
+msgstr  "சேமிக்காமல் திரும்பு"
+
+msgid  "moredotdotdot"
+msgstr  "மேலும்..."
+
+msgid  "mypage"
+msgstr  "எனது பக்கம்"
+
+msgid  "mytalk"
+msgstr  "என் பேச்சு"
+
+msgid  "anontalk"
+msgstr  "இந்த ஐ.பி. முகவரிக்கான பேச்சு"
+
+msgid  "navigation"
+msgstr  "வழிசெலுத்தல்"
+
+msgid  "and"
+msgstr  "&#32;மற்றும்"
+
+msgid  "qbfind"
+msgstr  "கண்டுபிடி"
+
+msgid  "qbbrowse"
+msgstr  "உலவு"
+
+msgid  "qbedit"
+msgstr  "தொகு"
+
+msgid  "qbpageoptions"
+msgstr  "பக்க விருப்பத் தேர்வுகள்"
+
+msgid  "qbpageinfo"
+msgstr  "பக்கத் தகவல்கள்"
+
+msgid  "qbmyoptions"
+msgstr  "என் விருப்பத்தேர்வுகள்"
+
+msgid  "qbspecialpages"
+msgstr  "சிறப்புப் பக்கங்கள்"
+
+msgid  "faq"
+msgstr  "அடிக்கடி கேட்கப்படும் கேள்விகள்"
+
+msgid  "faqpage"
+msgstr  "Project:அடிக்கடி கேட்கப்படும் கேள்விகள்"
+
+msgid  "vector-action-addsection"
+msgstr  "தலைப்பைச் சேர்"
+
+msgid  "vector-action-delete"
+msgstr  "நீக்குக"
+
+msgid  "vector-action-move"
+msgstr  "நகர்த்தவும்"
+
+msgid  "vector-action-protect"
+msgstr  "காக்கவும்"
+
+msgid  "vector-action-undelete"
+msgstr  "நீக்கத்தை நிறுத்து"
+
+msgid  "vector-action-unprotect"
+msgstr  "காப்பைநீக்கு"
+
+msgid  "vector-simplesearch-preference"
+msgstr  "மேம்பட்ட தேடுதல் முடிவுகளைச் செயல்படுத்தவும் (Vector தோல் மட்டும்)"
+
+msgid  "vector-view-create"
+msgstr  "உருவாக்கவும்"
+
+msgid  "vector-view-edit"
+msgstr  "தொகு"
+
+msgid  "vector-view-history"
+msgstr  "வரலாற்றைக் காட்டவும்"
+
+msgid  "vector-view-view"
+msgstr  "வாசிக்கவும்"
+
+msgid  "vector-view-viewsource"
+msgstr  "மூலத்தைக் காட்டவும்"
+
+msgid  "actions"
+msgstr  "செயல்கள்"
+
+msgid  "namespaces"
+msgstr  "பெயர்வெளிகள்"
+
+msgid  "variants"
+msgstr  "மாற்றுக்கள்\n\nமாற்றுருவங்கள்"
+
+msgid  "errorpagetitle"
+msgstr  "தவறு"
+
+msgid  "returnto"
+msgstr  "$1 பக்கத்துக்குத் திரும்பு."
+
+msgid  "tagline"
+msgstr  "{{SITENAME}} இருந்து"
+
+msgid  "help"
+msgstr  "உதவி"
+
+msgid  "search"
+msgstr  "தேடுக"
+
+msgid  "searchbutton"
+msgstr  "தேடுக"
+
+msgid  "go"
+msgstr  "செல்"
+
+msgid  "searcharticle"
+msgstr  "செல்"
+
+msgid  "history"
+msgstr  "பக்க வரலாறு"
+
+msgid  "history_short"
+msgstr  "வரலாறு"
+
+msgid  "updatedmarker"
+msgstr  "எனது கடைசி வருகைக்குப் பின் இற்றைப்படுத்தப்பட்டது"
+
+msgid  "info_short"
+msgstr  "தகவல்"
+
+msgid  "printableversion"
+msgstr  "அச்சுக்குகந்த பதிப்பு"
+
+msgid  "permalink"
+msgstr  "நிலையான இணைப்பு"
+
+msgid  "print"
+msgstr  "அச்சிடு"
+
+msgid  "edit"
+msgstr  "தொகு"
+
+msgid  "create"
+msgstr  "உருவாக்கு"
+
+msgid  "editthispage"
+msgstr  "இப்பக்கத்தை தொகு"
+
+msgid  "create-this-page"
+msgstr  "இப்பக்கத்தை உருவாக்கு"
+
+msgid  "delete"
+msgstr  "நீக்கவும்"
+
+msgid  "deletethispage"
+msgstr  "இப்பக்கத்தை நீக்கு"
+
+msgid  "undelete_short"
+msgstr  "{{PLURAL:$1|ஒரு தொகுப்பை|$1 தொகுப்புக்களை}} மீட்டெடு"
+
+msgid  "protect"
+msgstr  "காப்புச்செய்க"
+
+msgid  "protect_change"
+msgstr  "மாற்று"
+
+msgid  "protectthispage"
+msgstr  "இப் பக்கத்தை காப்புச் செய்"
+
+msgid  "unprotect"
+msgstr  "காப்பைநீக்கு"
+
+msgid  "unprotectthispage"
+msgstr  "இப்பக்கத்தின் காப்பை நீக்கு"
+
+msgid  "newpage"
+msgstr  "புதிய பக்கம்"
+
+msgid  "talkpage"
+msgstr  "இப் பக்கம்பற்றிக் கலந்துரையாடு"
+
+msgid  "talkpagelinktext"
+msgstr  "பேச்சு"
+
+msgid  "specialpage"
+msgstr  "சிறப்புப் பக்கம்"
+
+msgid  "personaltools"
+msgstr  "தனிப்பட்ட பயன்பாட்டுக் கருவிகள்"
+
+msgid  "postcomment"
+msgstr  "புதிய கருத்து"
+
+msgid  "articlepage"
+msgstr  "உள்ளடக்கப் பக்கத்தைப் பார்"
+
+msgid  "talk"
+msgstr  "உரையாடல்"
+
+msgid  "views"
+msgstr  "பார்வைகள்"
+
+msgid  "toolbox"
+msgstr  "கருவிப் பெட்டி"
+
+msgid  "userpage"
+msgstr  "பயனர் பக்கத்தைப் பார்"
+
+msgid  "projectpage"
+msgstr  "திட்டப் பக்கத்தைப் பார்"
+
+msgid  "imagepage"
+msgstr  "கோப்புப் பக்கத்தை நோக்க"
+
+msgid  "mediawikipage"
+msgstr  "தகவல் பக்கத்தைப் பார்"
+
+msgid  "templatepage"
+msgstr  "வார்ப்புரு பக்கத்தைப் பார்"
+
+msgid  "viewhelppage"
+msgstr  "உதவிப் பக்கத்தைக் காண்க"
+
+msgid  "categorypage"
+msgstr  "பகுப்புப் பக்கத்தைப் பார்"
+
+msgid  "viewtalkpage"
+msgstr  "கலந்துரையாடல்களைப் பார்"
+
+msgid  "otherlanguages"
+msgstr  "ஏனைய மொழிகள்"
+
+msgid  "redirectedfrom"
+msgstr  "($1 இலிருந்து மீள் வழிப்படுத்தப்பட்டது)"
+
+msgid  "redirectpagesub"
+msgstr  "பக்கவழிமாற்றுப் பக்கம்"
+
+msgid  "lastmodifiedat"
+msgstr  "இப்பக்கம் கடைசியாக $1, $2 மணிக்குத் திருத்தப்பட்டது."
+
+msgid  "viewcount"
+msgstr  "இப்பக்கம் {{PLURAL:$1|ஒரு முறை|$1 முறைகள்}} அணுகப்பட்டது."
+
+msgid  "protectedpage"
+msgstr  "காக்கப்பட்ட பக்கம்"
+
+msgid  "jumpto"
+msgstr  "தாவிச் செல்ல:"
+
+msgid  "jumptonavigation"
+msgstr  "வழிசெலுத்தல்"
+
+msgid  "jumptosearch"
+msgstr  "தேடுக"
+
+msgid  "view-pool-error"
+msgstr  "பொறுத்தருள்க, அனைத்து வழங்கிகளும் தற்போது மிகுபயன்பாட்டில் உள்ளன.\nபல பயனர்கள் இப்பக்கத்தைப் பார்க்க விழைகின்றனர்.\nநீங்கள் மறுபடியும் இப்பக்கத்தை அணுக முயலும் முன் சற்றே பொறுக்கவும்.\n\n$1"
+
+msgid  "pool-queuefull"
+msgstr  "பணி வரிசையில் இடம் இல்லை"
+
+msgid  "pool-errorunknown"
+msgstr  "அறியப்படாத தவறு"
+
+msgid  "aboutsite"
+msgstr  "{{SITENAME}} பற்றி"
+
+msgid  "aboutpage"
+msgstr  "Project:விவரம்"
+
+msgid  "copyright"
+msgstr  "உள்ளடக்கங்கள் $1 இன் கீழ் கிடைக்கின்றன."
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:பதிப்புரிமை"
+
+msgid  "currentevents"
+msgstr  "தற்போதைய நிகழ்வுகள்"
+
+msgid  "currentevents-url"
+msgstr  "Project:நடப்பு நிகழ்வுகள்"
+
+msgid  "disclaimers"
+msgstr  "பொறுப்புத் துறப்புகள்"
+
+msgid  "disclaimerpage"
+msgstr  "Project:பொதுவான பொறுப்புத் துறப்புகள்"
+
+msgid  "edithelp"
+msgstr  "தொகுத்தலுக்கான உதவி"
+
+msgid  "edithelppage"
+msgstr  "Help:ஒருவர் பக்கமொன்றைத் தொகுப்பது எப்படி?"
+
+msgid  "helppage"
+msgstr  "Help:உதவி"
+
+msgid  "mainpage"
+msgstr  "முதற் பக்கம்"
+
+msgid  "mainpage-description"
+msgstr  "முதற் பக்கம்"
+
+msgid  "policy-url"
+msgstr  "Project:கொள்கைகளும் வழிகாட்டல்களும்"
+
+msgid  "portal"
+msgstr  "சமுதாய வலைவாசல்"
+
+msgid  "portal-url"
+msgstr  "Project:சமுதாய வலைவாசல்"
+
+msgid  "privacy"
+msgstr  "தகவல் பாதுகாப்பு"
+
+msgid  "privacypage"
+msgstr  "Project:தகவல் பாதுகாப்பு"
+
+msgid  "badaccess"
+msgstr  "அனுமதிப் பிழை"
+
+msgid  "badaccess-group0"
+msgstr  "நீங்கள் கோரிய செயலைச் செய்வதற்கு உங்களுக்கு அனுமதி கிடையாது."
+
+msgid  "badaccess-groups"
+msgstr  "நீங்கள் கோரிய செயற்பாடு $1 {{PLURAL:$2|குழு|குழுக்களுள் ஒன்றின்}} பயனர்களுக்கு மட்டுமே."
+
+msgid  "versionrequired"
+msgstr  "மீடியாவிக்கியின் $1 பதிப்பு தேவை"
+
+msgid  "versionrequiredtext"
+msgstr  "இப்பக்கத்தைப் பயன்படுத்த மீடியாவிக்கியின் $1 பதிப்பு தேவை. [[Special:Version|பதிப்புப் பக்கத்தைப்]] பார்க்க."
+
+msgid  "ok"
+msgstr  "சரி"
+
+msgid  "retrievedfrom"
+msgstr  "\"$1\" இருந்து மீள்விக்கப்பட்டது"
+
+msgid  "youhavenewmessages"
+msgstr  "உங்களுக்குப் $1 உள்ளன ($2)."
+
+msgid  "newmessageslink"
+msgstr  "புதிய செய்திகள்"
+
+msgid  "newmessagesdifflink"
+msgstr  "கடைசி மாற்றம்"
+
+msgid  "youhavenewmessagesmulti"
+msgstr  "$1 இல் உங்களுக்கு புதிய செய்திகள் காத்திருக்கின்றன"
+
+msgid  "editsection"
+msgstr  "தொகு"
+
+msgid  "editold"
+msgstr  "தொகு"
+
+msgid  "viewsourceold"
+msgstr  "மூலத்தை காட்டுக"
+
+msgid  "editlink"
+msgstr  "தொகு"
+
+msgid  "viewsourcelink"
+msgstr  "மூலத்தைக் காண்க"
+
+msgid  "editsectionhint"
+msgstr  "$1 பகுதியை தொகு"
+
+msgid  "toc"
+msgstr  "பொருளடக்கம்"
+
+msgid  "showtoc"
+msgstr  "காட்டு"
+
+msgid  "hidetoc"
+msgstr  "மறை"
+
+msgid  "thisisdeleted"
+msgstr  "$1 பார்க்கவா அல்லது மீள்விக்கவா?"
+
+msgid  "viewdeleted"
+msgstr  "$1 பார்?"
+
+msgid  "restorelink"
+msgstr  "{{PLURAL:$1|ஒரு நீக்கப்பட்ட தொகுப்பை|$1 நீக்கப்பட்ட தொகுப்புகளை}}"
+
+msgid  "feedlinks"
+msgstr  "உள்ளிடு:"
+
+msgid  "feed-invalid"
+msgstr  "பிழையான ஓடை வகை."
+
+msgid  "feed-unavailable"
+msgstr  "தகவல் ஓடைகள் வழங்கப்படுவதில்லை"
+
+msgid  "site-rss-feed"
+msgstr  "$1 RSS ஓடை"
+
+msgid  "site-atom-feed"
+msgstr  "$1 ஆடாம் ஓடை"
+
+msgid  "page-rss-feed"
+msgstr  "\"$1\" RSS ஓடை"
+
+msgid  "page-atom-feed"
+msgstr  "\"$1\" Atom ஓடை"
+
+msgid  "red-link-title"
+msgstr  "$1 (இன்னமும் எழுதப்படவில்லை)"
+
+msgid  "nstab-main"
+msgstr  "கட்டுரை"
+
+msgid  "nstab-user"
+msgstr  "பயனர் பக்கம்"
+
+msgid  "nstab-media"
+msgstr  "ஊடகப் பக்கம்"
+
+msgid  "nstab-special"
+msgstr  "சிறப்புப் பக்கம்"
+
+msgid  "nstab-project"
+msgstr  "திட்டத்தின் பக்கம்"
+
+msgid  "nstab-image"
+msgstr  "கோப்பு"
+
+msgid  "nstab-mediawiki"
+msgstr  "தகவல்"
+
+msgid  "nstab-template"
+msgstr  "வார்ப்புரு"
+
+msgid  "nstab-help"
+msgstr  "உதவிப் பக்கம்"
+
+msgid  "nstab-category"
+msgstr  "பகுப்பு"
+
+msgid  "nosuchaction"
+msgstr  "அவ்வித செயற்பாடுகள் எதுவுமில்லை"
+
+msgid  "nosuchactiontext"
+msgstr  "யூ.ஆர்.எல். குறித்த செயற்பாடு விக்கி மென்பொருளினால் அடையாளம் காணப்படவில்லை"
+
+msgid  "nosuchspecialpage"
+msgstr  "அவ்வாறான சிறப்புப் பக்கங்கள் எதுவுமில்லை"
+
+msgid  "nospecialpagetext"
+msgstr  "<strong>நீங்கள் செல்லுபடியற்ற சிறப்புப் பக்கமொன்றை கோரியிருக்கிறீர்கள்.</strong>\n\n\nசெல்லுபடியான எல்லாச் சிறப்புப் பக்கங்களினதும் பட்டியல் [[Special:SpecialPages|இங்கே]] தரப்பட்டுள்ளது."
+
+msgid  "error"
+msgstr  "தவறு"
+
+msgid  "databaseerror"
+msgstr  "தரவுத்தள தவறு"
+
+msgid  "dberrortext"
+msgstr  "ஒரு தரவுத்தள வினவல் தொடரமைப்புத் தவறு ஏற்பட்டுள்ளது.\nகடைசியாக முயற்சிக்கப்பட்ட தரவுத்தள வினவல்:\n<blockquote><tt>$1</tt></blockquote>\nசெயலுக்குள் இருந்து \"<tt>$2</tt>\".\nMySQL பிழையை விளைவாக்கியது \"<tt>$3: $4</tt>\"."
+
+msgid  "dberrortextcl"
+msgstr  "ஒரு தரவுத்தள வினவல் தொடரமைப்புத் தவறு ஏற்பட்டுள்ளது.\nகடைசியாக முயற்சிக்கப்பட்ட தரவுத்தள வினவல்:\n\"$1\"\nசெயலுக்குள்(function) இருந்து \"$2\".\nMySQL returned error \"$3: $4\"."
+
+msgid  "laggedslavemode"
+msgstr  "எச்சரிக்கை: இப்பக்கம் அண்மையில் இற்றைப்படுத்தப்படாமல் இருக்கலாம்."
+
+msgid  "readonly"
+msgstr  "தரவுத்தளம் பூட்டப்பட்டுள்ளது"
+
+msgid  "enterlockreason"
+msgstr  "பூட்டுக்கான காரணத்தைத் தருக. பூட்டு எப்பொழுது திறக்கப்படும் என்பதையும் குறிப்பிடுக."
+
+msgid  "readonlytext"
+msgstr  "{{SITENAME}} தரவுத்தளம் தற்போது பூட்டப்பட்டுள்ளது. வழமையான பராமரிப்புக்காகவாக இருக்கலாம். புதிய பதிவுகளோ திருத்த்ங்களோ செய்ய முடியாது.  இதன் பின்னர் இயல்பு நிலைக்குக் கொண்டுவரப்படும்.\n\nஇந்த விளக்கத்தை இதனைப் பூட்டிய நிர்வாகி வழங்கியுள்ளார்: $1"
+
+msgid  "missing-article"
+msgstr  "இந்த தரவுத்தளத்தில் காணப்பட வேண்டிய இப்பக்கங்களின் சொற்றொடர்கள் கண்டுபிடிக்க முடியவில்லை. அவையாவன \"$1\" $2.\n\nகாலாவதியான வித்தியாசங்கள் அல்லது பக்க வரலாறுகள் முதலியவை நீக்கப்பட்ட பக்கங்களுடன் இணைப்பு கொண்டுள்ளதே இதற்கான காரணமாகும்.\n\nஅப்படி மேற்கூறிய காரணங்கள் இல்லையென்றால், இது ஒரு மென்பொருள் தவறாக (வழு-ஆக) இருக்கலாம். \n\nஆகவே இதுபற்றிய தகவலை, இணையதள முகவரியுடன் (URL) இங்கு [[Special:ListUsers/sysop|நிர்வாகியிடம்]] தெரிவிக்கவும் ."
+
+msgid  "missingarticle-rev"
+msgstr  "(திருத்தம்#: $1)"
+
+msgid  "missingarticle-diff"
+msgstr  "(வேறுபாடு: $1, $2)"
+
+msgid  "readonly_lag"
+msgstr  "இரண்டாம் நிலை தரவுத்தளங்கள் தலைமை தரவுத்தளத்துடன் இணைந்துக் கொள்ளும் வரை தரவுத்தளம் தானியகக்மாக பூட்டப்பட்டுள்ளது"
+
+msgid  "internalerror"
+msgstr  "உள்ளகத் தவறு"
+
+msgid  "internalerror_info"
+msgstr  "உள்ளகத் தவறு: $1"
+
+msgid  "fileappenderrorread"
+msgstr  "கடையிணைப்புச் செய்யும் போது \"$1\" கோப்பை படிக்க முடியவில்லை."
+
+msgid  "fileappenderror"
+msgstr  "\"$1\" கோப்பை \"$2\" கோப்பில்  கடையிணைப்புச் செய்ய முடியவில்லை."
+
+msgid  "filecopyerror"
+msgstr  "\"$1\" இலிருந்து \"$2\" க்கு கோப்பை நகல் செய்ய முடியவில்லை."
+
+msgid  "filerenameerror"
+msgstr  "\"$1\" இலிருந்து \"$2\" க்கு கோப்பை பெயர்மாற்ற முடியவில்லை."
+
+msgid  "filedeleteerror"
+msgstr  "\"$1\" கோப்பை நீக்க முடியவில்லை."
+
+msgid  "directorycreateerror"
+msgstr  "\"$1\" அடைவை உருவாக்க முடியவில்லை."
+
+msgid  "filenotfound"
+msgstr  "\"$1\" கோப்பைக் கண்டுபிடிக்க முடியவில்லை."
+
+msgid  "fileexistserror"
+msgstr  "\"$1\" கோப்புக்கு எழுத்தப்படமுடியவில்லை:கோப்பு ஏற்கனவே உள்ளது"
+
+msgid  "unexpected"
+msgstr  "எதிர்பாராத பெறுமானம்: \"$1\"=\"$2\"."
+
+msgid  "formerror"
+msgstr  "தவறு: படிவத்தை சமர்ப்பிக்க முடியவில்லை"
+
+msgid  "badarticleerror"
+msgstr  "இச்செயற்பாட்டை இப்பக்கத்தில் செயற்படுத்த முடியாது."
+
+msgid  "cannotdelete"
+msgstr  "\"$1\" பக்கத்தையோ கோப்பையோ நீக்க முடியாது. (வேறு யாராலோ ஏற்கெனவே நீக்கப்பட்டிருக்கலாம்.)"
+
+msgid  "badtitle"
+msgstr  "பழுதுள்ள தலைப்பு"
+
+msgid  "badtitletext"
+msgstr  "கோரப்பட்ட பக்கத்தின் தலைப்பு செல்லாது, வெறுமை, அல்லது பிழையாக இணைக்கப்பட்ட மொழிகளிடை அல்லது விக்கியிடைத் தலைப்பாகும்."
+
+msgid  "perfcached"
+msgstr  "பின்வரும் தரவுகள் இடைமாற்றைக் கொண்டுள்ளன தரவுகள் நிகழ்நிலையிலில்லாமல் இருக்கலாம்."
+
+msgid  "perfcachedts"
+msgstr  "பின்வரும் தரவுகள் இடைமாற்றைக் கொண்டுள்ளன, தரவுகள் கடைசியாக  $1 இல் இற்றைப்படுத்தப்பட்டன."
+
+msgid  "querypage-no-updates"
+msgstr  "இப்பக்கத்துக்கான இற்றைப்படுத்தல்கள் செயலிழக்கச் செய்யப்பட்டுள்ளன. இங்கே உள்ளத் தரவுகள் தற்சமயம் இற்றைப்படுத்தப்படமாட்டாது."
+
+msgid  "wrong_wfQuery_params"
+msgstr  "பிழையான அளபுருக்கள் wfQuery()<br />\nசெயல்: $1<br />\nவினவல்: $2"
+
+msgid  "viewsource"
+msgstr  "மூலத்தைப் பார்"
+
+msgid  "viewsourcefor"
+msgstr  "$1 பக்கத்துக்கான"
+
+msgid  "actionthrottled"
+msgstr  "செயற்பாடு கட்டுப்படுத்தப்பட்டது"
+
+msgid  "actionthrottledtext"
+msgstr  "எரிதக் காப்பு நடவடிக்கையாக பயனொருவர் குறித்த சிறு கால இடைவெளியில் இச்செயற்பாட்டை அதிகளவில் செய்வது தடுக்கப்பட்டுள்ளது. நீர் அவ்வெல்லைடை தாண்டிவிட்டீர். அருள் கூர்ந்து சில நிமிடங்களில் முயலவும்."
+
+msgid  "protectedpagetext"
+msgstr  "இப்பக்கம் தொகுக்கப்படுவதை தவிர்ப்பதற்காக பூட்டப்பட்டுள்ளது."
+
+msgid  "viewsourcetext"
+msgstr  "நீங்கள் இதன் மூலத்தை பார்க்கவும் அதனை நகலெடுக்கவும் முடியும்:"
+
+msgid  "protectedinterface"
+msgstr  "இப்பக்கம் இம்மென் பொருளுக்கான பயனர் இடைமுக உரைகளை வழங்குகிறது, விசம தொகுப்புக்களை தவிர்ப்பதற்க்காக இப்பக்கம் பூட்டப்பட்டுள்ளது."
+
+msgid  "editinginterface"
+msgstr  "'''எச்சரிக்கை:''' நீங்கள் இம்மென் பொருளுக்கான பயனர் இடைமுக உரைகளை வழங்கும் பக்கமொன்றை தொகுக்க முயற்சி செய்கிறீர்கள். இதில் செய்யப்படும் மாற்றங்கள் ஏனைய பயனர்களது பயனர் இடைமுகங்களிலும் மாற்றங்களை ஏற்படுத்தும். மொழிபெயர்ப்புகளுக்கு, அருள் கூர்ந்து மிடியாவிக்கி மொழிபெயர்ப்புத் திட்டமான [http://translatewiki.net/wiki/Main_Page?setlang=ta பீட்டாவிக்கி] திட்டத்தை பயன்படுத்தவும்."
+
+msgid  "sqlhidden"
+msgstr  "(SQL கோரிக்கை மறைக்கப்பட்டுள்ளது)"
+
+msgid  "cascadeprotected"
+msgstr  "படிநிலைக் காப்புக்குட்படுத்தப்பட்டுள்ள பின்வரும் {{PLURAL:$1|பக்கத்தில்|பக்கங்களில்}} இப்பக்கம் இணைக்கப் பட்டுள்ளமையால் இப்பக்கம் தொகுப்பதிலிருந்து காக்கப்பட்டுள்ளது:$2"
+
+msgid  "namespaceprotected"
+msgstr  "'''$1''' பெயர்வெளியில் தொகுப்புக்களைச் செய்வதற்கு உங்களுக்கு அனுமதி கிடையாது."
+
+msgid  "customcssjsprotected"
+msgstr  "வேறு பயனர் ஒருவரின் தனிப்பட்ட அமைப்புகள் காணப்படுவதால் இப்பக்கத்தை தொகுக்க உங்களுக்கு அனுமதி கிடையாது."
+
+msgid  "ns-specialprotected"
+msgstr  "சிறப்பு பக்கங்களைத் தொகுக்க முடியாது."
+
+msgid  "titleprotected"
+msgstr  "பயனர் [[User:$1|$1]] இத்தலைப்பு உருவாக்கப்படுவதை தவிர்க்கும் வகையில் தடுத்துள்ளார்.\nகொடுக்கப்பட்டக் காரணம் ''$2''."
+
+msgid  "virus-scanfailed"
+msgstr  "வருடல் நடைபெறவில்லை (குறியீடு $1)"
+
+msgid  "virus-unknownscanner"
+msgstr  "அறியப்படாத வைரசெதிர்ப்பு:"
+
+msgid  "logouttext"
+msgstr  "'''நீங்கள் இப்பொழுது விடுபதிகையில் உள்ளீர்கள்.'''\n\nநீங்கள் தொடர்ந்தும் {{SITENAME}} தளத்தை அனனியாக பயன்படுத்தலாம், அல்லது [[Special:UserLogin|மீண்டும் புகுபதிகை]] அதே பயனராகவோ வேறு பயனராகவோ செய்யலாம். உங்கள் உலவியின் இடைமாற்று நீக்கப்படும் வரை சில பக்கங்கள் தொடர்ந்தும் புகுபதிகையில் உள்ளது போன்றே காட்சி தரும் என்பதைக் கவனிக்கவும்."
+
+msgid  "welcomecreation"
+msgstr  "==நல்வரவு, $1!==\nஉங்களுக்கான பயனர் கணக்கு உருவாக்கப்பட்டுள்ளது. உங்களுக்கேற்றவாறு [[Special:Preferences|{{SITENAME}} விருப்பத்தேர்வுகளை]] மாற்றிக் கொள்ள மறவாதீர்கள்."
+
+msgid  "yourname"
+msgstr  "பயனர் பெயர்:"
+
+msgid  "yourpassword"
+msgstr  "கடவுச்சொல்:"
+
+msgid  "yourpasswordagain"
+msgstr  "கடவுச்சொல்லைத் திரும்ப தட்டச்சிடுக:"
+
+msgid  "remembermypassword"
+msgstr  "எனது கடவுச்சொல்லை (கூடியது $1 {{PLURAL:$1|நாள்|நாட்கள்}}) அமர்வுகளிடையே நினைவில் வைத்திருக்கவும்."
+
+msgid  "securelogin-stick-https"
+msgstr  "புகுபதிகைக்குப் பிறகும் HTTPS-இலேயே இருக்கவும்"
+
+msgid  "yourdomainname"
+msgstr  "உங்கள் உரிமைப்பரப்பு:"
+
+msgid  "externaldberror"
+msgstr  "வெளி உறுதிப்படுத்தலில் ஏற்பட்ட தவறு காரணமாக உங்கள் வெளி கணக்கை இற்றைப்படுத்த முடியாது."
+
+msgid  "login"
+msgstr  "புகுபதிகை"
+
+msgid  "nav-login-createaccount"
+msgstr  "புகுபதிகை/பயனர் கணக்கு தொடக்கம்"
+
+msgid  "loginprompt"
+msgstr  "{{SITENAME}} தளத்துக்கு புகுபதிகை செய்ய உங்கள் இணைய உலாவியின் ஞாபகிகளை செயற்படுத்த வேண்டும்."
+
+msgid  "userlogin"
+msgstr  "புகுபதிகை/பயனர் கணக்கு தொடக்கம்"
+
+msgid  "userloginnocreate"
+msgstr  "புகுபதிகை"
+
+msgid  "logout"
+msgstr  "விடுபதிகை"
+
+msgid  "userlogout"
+msgstr  "விடுபதிகை"
+
+msgid  "notloggedin"
+msgstr  "புகுபதிகை செய்யப்படவில்லை"
+
+msgid  "nologin"
+msgstr  "பயனர் கணக்கு இல்லையா? '''$1'''."
+
+msgid  "nologinlink"
+msgstr  "கணக்கு ஒன்றை உருவாக்கவும்"
+
+msgid  "createaccount"
+msgstr  "புதிய கணக்கை உருவாக்கு"
+
+msgid  "gotaccount"
+msgstr  "ஏற்கனவே பயனர் கணக்கு உள்ளதா? '''$1'''."
+
+msgid  "gotaccountlink"
+msgstr  "புகுபதிகை"
+
+msgid  "createaccountmail"
+msgstr  "மின்னஞ்சல் மூலம்"
+
+msgid  "createaccountreason"
+msgstr  "காரணம்:"
+
+msgid  "badretype"
+msgstr  "நீங்கள் பதிந்த கடவுச்சொல் பொருத்தமாக இல்லை."
+
+msgid  "userexists"
+msgstr  "நீர் பதிந்த பயனர் பெயர் ஏற்கெனவே பாயன்பாட்டில் உள்ளது. அருள் கூர்ந்து வேறு பயனர் பெயரைத் தெரிவுச் செய்க."
+
+msgid  "loginerror"
+msgstr  "புகுபதிகைத் தவறு"
+
+msgid  "createaccounterror"
+msgstr  "இந்த கணக்கை உருவாக்க முடியவில்லை: $1"
+
+msgid  "nocookiesnew"
+msgstr  "{{SITENAME}} தளத்துக்கான உங்கள் பயனர் கணக்கு உருவாக்கப்பட்டுள்ளது, ஆனால் நீங்கள் புகுபதிகை செய்யவில்லை. பயனர்களைப் புகுபதிகை செய்ய {{SITENAME}} தளம் ஞாபகிகளைப் (குக்கிகள்) பயன்படுத்துகிறது. நீங்கள் ஞாபகிகளைச் செயலற்றவையாக்கியுள்ளீர்கள். தயவுசெய்து அவற்றைச் செயற்படுத்தியப் பின் உங்கள் புதிய பயனர் பெயருடனும், கடவுச் சொல்லுடனும் புகுபதிகை செய்யுங்கள்."
+
+msgid  "nocookieslogin"
+msgstr  "{{SITENAME}} தளம் பயனர்களைப் புகுபதிகை செய்வதற்கு ஞாபகிகளைப் (குக்கிகள்) பயன்படுத்துகிறது. நீங்கள் ஞாபகிகளைச் செயலிழக்கச் செய்துள்ளீர்கள். தயவுசெய்து அவற்றைச் செயற்பாடுள்ளதாக்கித் திரும்பவும் முயலுங்கள்."
+
+msgid  "noname"
+msgstr  "நீங்கள் கொடுத்த பயனர் பெயர் செல்லுபடியற்றது."
+
+msgid  "loginsuccesstitle"
+msgstr  "புகுபதிகை வெற்றி"
+
+msgid  "loginsuccess"
+msgstr  "நீங்கள் தற்பொழுது {{SITENAME}} தளத்தில் \"$1\" கணக்கினூடாக புகுபதிகை செய்துள்ளீர்கள்."
+
+msgid  "nosuchuser"
+msgstr  "\"$1\" என்ற பெயரில் பயனர் எவருமில்லை.\n\nபயனர் பெயர், பெரிய எழுத்து,  சிறிய எழுத்து என்ற வித்தியாசத்திற்குட்பட்டது.\n\nஎழுத்துப் பிழைகளைச் சரி பார்க்கவும், அல்லது [[Special:UserLogin/signup|புதிய பயனர் கணக்கொன்றை உருவாக்கவும்]]."
+
+msgid  "nosuchusershort"
+msgstr  "\"<nowiki>$1</nowiki>\" என்ற பெயரில் பயனர் யாரும் இல்லை. நீங்கள் உள்ளிட்ட பெயரை சரி பார்க்கவும்."
+
+msgid  "nouserspecified"
+msgstr  "நீங்கள் பயனர் பெயரொன்றை குறிப்பிட வேண்டும்."
+
+msgid  "login-userblocked"
+msgstr  "இப்பயனர் கணக்கு தடைசெய்யப்பட்டுள்ளது. புகுபதிகை அனுமதிக்கப்படவில்லை."
+
+msgid  "wrongpassword"
+msgstr  "நீங்கள் கொடுத்த கடவுச்சொல் சரியல்ல. மீண்டும் முயற்சிக்கவும்."
+
+msgid  "wrongpasswordempty"
+msgstr  "நீங்கள் வெற்றுக் கடவுச் சொல்லை அளித்திருக்கிறீர்கள். திரும்ப முயலவும்."
+
+msgid  "passwordtooshort"
+msgstr  "கடவுச்சொற்களில் குறைந்தது {{PLURAL:$1|1 எழுத்து முதல் |$1 எழுத்துக்களாவது}} இருக்க வேண்டும்."
+
+msgid  "password-name-match"
+msgstr  "உங்கள் பயனர் பெயரிலிருந்து உங்கள் கடவுச்சொல் முற்றிலும் மாறுபட்டிருக்க வேண்டும்."
+
+msgid  "mailmypassword"
+msgstr  "புதிய கடவுச் சொல்லொன்றை மின்னஞ்சல் செய்யவும்"
+
+msgid  "passwordremindertitle"
+msgstr  "{{SITENAME}} தளத்திலிருந்தான கடவுச்சொல் நினைவூட்டல்"
+
+msgid  "passwordremindertext"
+msgstr  "யாரோ ஒருவர் (நீங்களாக இருக்கலாம், IP முகவரி $1 இலிருந்து)\n{{SITENAME}} ($4) தளத்திற்கு புதிய கடவுச்சொல் ஒன்று அனுப்பும்படி கோரியுள்ளார். பயனர் \"$2\" க்கான தற்காலிக கடவுச்சொல் உருவாக்கப்பட்டுள்ளது. \"$3\" இதுவே அந்த கடவுச்சொல்லாகும். இந்த நடவடிக்கையே தாங்கள் எண்ணியதாக இருந்தால், தாங்கள் இப்பொழுது புகுபதிகை செய்து கடவுச்சொல்லை மாற்றிக்கொள்ளவும்.\n\nதங்களது தற்காலிக் கடவுச்சொல் {{PLURAL:$5|இன்று முதல் |$5 நாட்களில்}} காலாவதியாகிவிடும் என்பதனைக் கவனத்தில் கொள்ளவும்.\n\nவேறு யாராவது இவ்வேண்டுகோளை விடுத்திருந்தால் அல்லது தங்களது கடவுச்சொல் நினைவுக்கு வந்திருந்து நீங்கள் கடவுச்சொல்லை மாற்ற விரும்பாவிட்டால் இந்தச் செய்தியைப் புறக்கணித்துவிட்டு தங்களது பழைய கடவுச்சொல்லைத் தொடர்ந்து பயன்படுத்தலாம்."
+
+msgid  "noemail"
+msgstr  "\"$1\" பயனருக்கு மின்னஞ்சல் முகவரி எதுவும் பதியப்பட்டிருக்கவில்லை."
+
+msgid  "noemailcreate"
+msgstr  "ஒரு செல்லத்தக்க மின்னஞ்சல் முகவரியை நீங்கள் தரவேண்டும்."
+
+msgid  "passwordsent"
+msgstr  "\"$1\" பயனருக்கான மின்னஞ்சல் முகவரிக்கு ஒரு புதிய கடவுச்சொல் அனுப்பப்பட்டுள்ளது. பெற்றுக்கொண்டதும் தயவுசெய்து மீண்டும் புகுபதிகை செய்யவும்."
+
+msgid  "blocked-mailpassword"
+msgstr  "உங்கள் ஐ.பி. முகவரி தடுக்கப்பட்டுள்ளது, விசம செயற்பாடுகளைத் தவிர்க்க கடவுச்சொல் மீட்புச் செயலியை நீங்கள் பயன்படுத்து அனுமதிக்கப்படவில்லை."
+
+msgid  "eauthentsent"
+msgstr  "உறுதிப்படுத்தல் மின்னஞ்சலொன்று நீங்கள் கொடுத்த மின்னஞ்சல் முகவரிக்கு அனுப்பப் பட்டுள்ளது. மேலதிகமாக எந்த மின்னஞ்சலும் இந்த முகவரிக்கு அனுப்பப்படு முன்னர், மின்னலில் கொடுக்கப்பட்டுள்ள அறிவுறுத்தல்களின் படி, இம்மின்னஞ்சல் முகவரி உங்களுடையது என்பதை உறுதிப்படுத்தவும்."
+
+msgid  "throttled-mailpassword"
+msgstr  "கடந்த {{PLURAL:$1|மணிநேரத்துக்குள்|$1 மணிநேரங்களுக்குள்}} ஒரு கடவுச்சொல் நினைவூட்டல் மின்னஞ்சல் ஏற்கனவே அனுப்பப் பட்டுவிட்டது. விசம பயன்பாடுகளைத் தவிர்ப்பதற்காக {{PLURAL:$1|மணிநேரத்திற்கு|$1 மணிநேரங்களுக்கு}} ஒரு கடவுச்சொல் நினைவூட்டல் மின்னஞ்சல் மட்டுமே அனுப்பப்படும்."
+
+msgid  "mailerror"
+msgstr  "மின்னஞ்சல் அனுப்புவதில் தவறு: $1"
+
+msgid  "acct_creation_throttle_hit"
+msgstr  "தங்களது IP முகவரியை பயன்படுத்தி இந்த விக்கியில் நேற்று {{PLURAL:$1|1 கணக்கு |$1 கணக்குகள்}} உருவாக்கப்பட்டுள்ளது.  தற்போது இதுவே மிக அதிகமாக அனுமதிக்கப்பட்ட அளவாகும்.\n\nஇக்காரணத்தினால், தற்சமயம், யாரும் இந்த IP முகவரியை பயன்படுத்தி மேலும் கணக்குகளை உருவாக்க முடியாது."
+
+msgid  "emailauthenticated"
+msgstr  "உங்கள் மின்னஞ்சல் முகவரி $2 ஆம் தேதியன்று $3 மணிக்கு உறுதிப்படுத்தப்பட்டது."
+
+msgid  "emailnotauthenticated"
+msgstr  "உங்கள் மின்னஞ்சல் முகவரி இன்னமும் உறுதிப்படுத்தப்படவில்லை. பின்வருவனவற்றுக்கு மின்னஞ்சல் அனுப்பட மாட்டாது."
+
+msgid  "noemailprefs"
+msgstr  "பின்வருவனவற்றை இயங்குநிலைக்கு கொண்டுவர மின்னஞ்சல் முகவரியொன்றக் குறிப்பிடவும்."
+
+msgid  "emailconfirmlink"
+msgstr  "உங்கள் மின்னஞ்சல் முகவரியை உறுதிப்படுத்தவும்"
+
+msgid  "invalidemailaddress"
+msgstr  "மின்னஞ்சல் முகவரி பிழையான கட்டமைப்பைக் கொண்டுள்ளப்படியால் மின்னஞ்சல் முகவரியை ஏற்றுக்கொள்ள முடியாது. தயவுசெய்து  சரியான கட்டமைப்புடன் கூடிய மின்னஞ்சல் முகவரியை இடவும் அல்லது அவ்விடத்தை வெற்றாக விடவும்."
+
+msgid  "accountcreated"
+msgstr  "கணக்கு உருவாக்கப்பட்டது."
+
+msgid  "accountcreatedtext"
+msgstr  "$1 என்ற பெயரில் பயனர் கணக்கு உருவாக்கப்பட்டது."
+
+msgid  "createaccount-title"
+msgstr  "{{SITENAME}} தளத்துக்கான கணக்கு தொடக்கம்"
+
+msgid  "createaccount-text"
+msgstr  "யாரோ ஒருவர் உங்கள் மின்னஞ்சல் முவரிக்காக {{SITENAME}} ($4) தளத்தில் கணக்கொண்றை தொடங்கியுள்ளார். கணக்கின் பெயர் \"$2\", கடவுச்சொல் \"$3\". நீங்கள் இப்போது புகுபதிகைச் செய்து கடவுச்சொல்லை மாற்ற வேண்டும்.\n\nஇக்கணக்கு தவறுதலாக தொடங்கப்பட்டிருந்தால், இத்தகவலைப் புறக்கணிக்கலாம்."
+
+msgid  "usernamehasherror"
+msgstr  "பயனர் பெயரில் '#' எழுத்தை பயன்படுத்த முடியாது"
+
+msgid  "login-throttled"
+msgstr  "தாங்கள் பலமுறை தற்போது புகுபதிகை செய்ய முயற்சி செய்துள்ளீர்கள்.\n\nஅடுத்தபடியாக முயற்சி செய்வதற்கு முன் சிறிது நேரம் காத்திருக்கவும்."
+
+msgid  "loginlanguagelabel"
+msgstr  "மொழி: $1"
+
+msgid  "resetpass"
+msgstr  "கடவுச்சொல்லை மாற்றியமை"
+
+msgid  "resetpass_announce"
+msgstr  "நீங்கள் தற்காலிக மின்னஞ்சல் குறியீட்டுடன் புகுபதிகை செய்துள்ளீர்கள். புகுபதிகையை நிறைவுச் செய்ய புதியக் கடவுச் சொல்லொன்றை இங்கே தட்டசிடுக:"
+
+msgid  "resetpass_header"
+msgstr  "கணக்கிற்கான கடவுச்சொல்லை மாற்றியமை"
+
+msgid  "oldpassword"
+msgstr  "பழைய கடவுச்சொல்:"
+
+msgid  "newpassword"
+msgstr  "புதிய கடவுச்சொல்:"
+
+msgid  "retypenew"
+msgstr  "புதிய கடவுச்சொல்லை மீண்டும் தட்டச்சிடு"
+
+msgid  "resetpass_submit"
+msgstr  "கடவுச்சொல்லை பதிவுசெய்து புகுபதிகை செய்"
+
+msgid  "resetpass_success"
+msgstr  "உங்களது கடவுச்சொல் வெற்றிகரமாக மாற்றப்பட்டுள்ளது! உங்களை புகுபதிகை செய்யப்படுகிறது..."
+
+msgid  "resetpass_forbidden"
+msgstr  "கடவுச்சொற்கள் மாற்றப்பட முடியாது"
+
+msgid  "resetpass-no-info"
+msgstr  "இப்பக்கத்தை நேரடியாக அணுகுவதற்கு நீங்கள் புகுபதிகை செய்திருக்கவேண்டும்."
+
+msgid  "resetpass-submit-loggedin"
+msgstr  "கடவுச்சொல்லை மாற்று"
+
+msgid  "resetpass-submit-cancel"
+msgstr  "விட்டுவிடு"
+
+msgid  "resetpass-wrong-oldpass"
+msgstr  "செல்லுபடியற்ற தற்காலிகமான அல்லது நடப்புக் கடவுச்சொல்.\nஉங்கள் கடவுச் சொல்லை நீங்கள் வெற்றிகரமாக மாற்றிவிட்டீர்கள் அல்லது புதிய தற்காலிகக் கடவுச்சொல்லைக் கோரியுள்ளீர்கள்."
+
+msgid  "resetpass-temp-password"
+msgstr  "தற்காலிக கடவுச்சொல்:"
+
+msgid  "bold_sample"
+msgstr  "தடித்த எழுத்துக்கள்"
+
+msgid  "bold_tip"
+msgstr  "தடித்த எழுத்து"
+
+msgid  "italic_sample"
+msgstr  "சாய்வெழுத்து"
+
+msgid  "italic_tip"
+msgstr  "சாய்வெழுத்து"
+
+msgid  "link_sample"
+msgstr  "இணைப்புத் தலைப்பு"
+
+msgid  "link_tip"
+msgstr  "உள்ளக இணைப்பு"
+
+msgid  "extlink_sample"
+msgstr  "http://www.example.com இணைப்புத் தலைப்பு"
+
+msgid  "extlink_tip"
+msgstr  "வெளியிணைப்பு (http:// முன்னிணைப்பை மறக்காதீர்)"
+
+msgid  "headline_sample"
+msgstr  "தலைப்பு"
+
+msgid  "headline_tip"
+msgstr  "இரண்டாம் படித் தலைப்பு"
+
+msgid  "math_sample"
+msgstr  "இங்கே வாய்பாட்டை இடுக"
+
+msgid  "math_tip"
+msgstr  "கணித வாய்பாடு (LaTeX)"
+
+msgid  "nowiki_sample"
+msgstr  "விக்கி நிரலாக்கத்தால் புறக்கணிக்கப்படவேண்டிய உரையை இங்கே இடவும்"
+
+msgid  "nowiki_tip"
+msgstr  "விக்கி நிரலாக்கத்தைப் புறக்கணி"
+
+msgid  "image_tip"
+msgstr  "பொதிந்துள்ள படிமம்"
+
+msgid  "media_tip"
+msgstr  "கோப்பு இணைப்பு"
+
+msgid  "sig_tip"
+msgstr  "நேர முத்திரையுடன் உங்கள் கையொப்பம்"
+
+msgid  "hr_tip"
+msgstr  "கிடைக் கோடு (அரிதாகவே பயன்படுத்துங்கள்)"
+
+msgid  "summary"
+msgstr  "சுருக்கம்:"
+
+msgid  "subject"
+msgstr  "உட்பொருள்/தலைப்பு:"
+
+msgid  "minoredit"
+msgstr  "இது ஒரு சிறு தொகுப்பு"
+
+msgid  "watchthis"
+msgstr  "இக்கட்டுரையைக் கவனிக்கவும்"
+
+msgid  "savearticle"
+msgstr  "பக்கத்தைச் சேமி"
+
+msgid  "preview"
+msgstr  "முன்தோற்றம்"
+
+msgid  "showpreview"
+msgstr  "முன்தோற்றம் காட்டு"
+
+msgid  "showlivepreview"
+msgstr  "நேரடி முந்தோற்றம்"
+
+msgid  "showdiff"
+msgstr  "மாற்றங்களைக் காட்டு"
+
+msgid  "anoneditwarning"
+msgstr  "'''எச்சரிக்கை:''' நீங்கள் புகுபதிகை செய்யவில்லை.\nஉங்கள் ஐ.பி. முகவரி இப்பக்கத்தின் தொகுப்பு வரலாற்றில் பதிவு செய்யப்படும்."
+
+msgid  "anonpreviewwarning"
+msgstr  "நீங்கள் புகுபதிகை செய்யவில்லை. இந்த பக்கத்தை சேமித்தால் உஙகள் ஐ.பி. முகவரி இதன் வரலாற்றுப் பக்கத்தில் பதிவாகும்."
+
+msgid  "missingsummary"
+msgstr  "'''நினைவூட்டல்:''' நீர் தொகுப்புச் சுருக்கமொன்றைக் கொடுக்கவில்லை.\nஇன்னொரு முறை பக்கத்தை சேமி என்பதை அழுத்தினால் உங்கள் தொகுப்பு சுருக்கமெதுவுமில்லாமல் சேமிக்கப்படும்."
+
+msgid  "missingcommenttext"
+msgstr  "கீழே சுருக்கமொன்றக் குறிப்பிடவும்."
+
+msgid  "missingcommentheader"
+msgstr  "'''நினைவூட்டல்:'''  தாங்கள் தொகுத்தற்கான சுருக்கமான உரையை கொடுக்கவில்லை.\n\nஇன்னொருமுறை 'சேமி' என்பதனை அழுத்தினால் எந்தவித சுருக்கமான உரையின்றி சேமிக்கப்படும்."
+
+msgid  "summary-preview"
+msgstr  "சுருக்க முன்தோற்றம்:"
+
+msgid  "subject-preview"
+msgstr  "உட்பொருள்/தலைப்பு முன்தோற்றம்:"
+
+msgid  "blockedtitle"
+msgstr  "பயனர் தடுக்கப்பட்டுள்ளார்"
+
+msgid  "blockedtext"
+msgstr  "'''உங்கள் பயனர் பெயர் அல்லது ஐ.பி. முகவரி தடுக்கப்பட்டுள்ளது.'''\n\n''$2'' காரணத்தை(களை)க் காட்டி $1 உங்களை தடை செய்துள்ளார்.\n\n* தடை தொடக்கம்: $8\n* தடை முடிவு: $6\n* தடை செய்யப்பட்டவர்: $7\n\n$1 பயனரையோ அல்லது வேறு [[{{MediaWiki:Grouppage-sysop}}|நிர்வாகி]] ஒருவரையோ அனுகி தடைப் பற்றி கலந்துரையாடலாம். 'இப் பயனருக்கு மின்னஞ்சல் செய்' என்ற வசதியை நீங்கள் பயன்படுத்துவதுலிருந்து தடைச் செய்யப்பட்டிருந்தாலோ அல்லது [[Special:Preferences|என் விருப்பத்தேர்வுகள்]] பக்கத்தில் இயங்குநிலையிலுள்ள மின்னஞ்சல் முகவரியை தராத போதோ பயனருக்கு மின்னஞ்சல் செய்ய முடியாது. உங்களது தற்போதைய ஐ.பி. முகவரி $3 மற்றும் தடை எண்  #$5 என்பவற்றை கேள்விகள் கேட்கும் போது கட்டாயம் குறிப்பிடவும்."
+
+msgid  "autoblockedtext"
+msgstr  "$1 ஆல் தடைச்செய்யப்பட்ட வேறு பயனரால் பயன்படுத்தபட்டதால், உங்கள் ஐ.பி. முகவரி தானியக்கமாக தடுக்கப்பட்டுள்ளது. அதற்கான காரணம் பின்வருமாறு:\n\n:''$2''\n\n* தடை தொடக்கம்: $8\n* தடை முடிவு: $6\n* தடை செய்யப்பட்டவர்: $7\n\n$1 பயனரையோ அல்லது வேறு [[{{MediaWiki:Grouppage-sysop}}|நிர்வாகி]] ஒருவரையோ அனுகி தடைப் பற்றி கலந்துரையாடலாம்.\n\n\"இப் பயனருக்கு மின்னஞ்சல் செய்\" என்ற வசதியை நீங்கள் பயன்படுதுவதிலிருந்து தடைச் செய்யப்பட்டிருந்தாலோ அல்லது [[Special:Preferences|என் விருப்பத்தேர்வுகள்]] பக்கத்தில் இயங்குநிலையிலுள்ள மின்னஞ்சல் முகவரியை தராத போதோ பயனருக்கு மின்னஞ்சல் செய்ய முடியாது.\n\nஉங்களது தற்போதைய ஐ.பி. முகவரி $3 மற்றும் தடை எண் #$5 என்பவற்றை கேள்விகள் கேட்கும் போது கட்டாயம் குறிப்பிடவும்."
+
+msgid  "blockednoreason"
+msgstr  "காரணம் தரப்படவில்லை"
+
+msgid  "blockedoriginalsource"
+msgstr  "'''$1''' பக்கத்தின் மூலம் கீழே தரப்பட்டுள்ளது:"
+
+msgid  "blockededitsource"
+msgstr  "'''$1''' பக்கத்துக்கான '''உங்கள் தொகுப்புகள்''' கீழே கொடுக்கப்பட்டுள்ளன:"
+
+msgid  "whitelistedittitle"
+msgstr  "தொகுப்பதற்கு புகுபதிகை செய்யப்படவேண்டும்."
+
+msgid  "whitelistedittext"
+msgstr  "நீங்கள் பக்கங்களத் தொகுக்க $1 செய்யவேண்டும்."
+
+msgid  "confirmedittext"
+msgstr  "நீங்கள் பக்கங்களைத் தொகுக்க முன்னர் மின்னஞ்சல் முகவரியை உறுதிப்படுத்த வேண்டும். உங்கள் [[Special:Preferences|விருப்பத்தேர்வுகள்]] பக்கத்தில் செல்லுபடியான மின்னஞ்சலைக் கொடுத்து அதனை உறுதிப்படுத்துங்கள்."
+
+msgid  "nosuchsectiontitle"
+msgstr  "அப்படியொரு பகுதி கிடையாது"
+
+msgid  "nosuchsectiontext"
+msgstr  "இல்லாத பகுதியொன்றைத் தாங்கள் தொகுக்க முயற்சி செய்துள்ளீர்கள்.\n\nதாங்கள் இப்பக்கத்தை பார்த்துக்கொண்டிருக்கம் போது, அதனை வேறு இடத்திற்கு நகர்த்தியிருக்கலாம் (அல்லது) நீக்கியிருக்கலாம்."
+
+msgid  "loginreqtitle"
+msgstr  "புகுபதிகை செய்யப்பட வேண்டும்"
+
+msgid  "loginreqlink"
+msgstr  "புகுபதிகை"
+
+msgid  "loginreqpagetext"
+msgstr  "ஏனைய பக்கங்களைப் பார்க்க  நீங்கள் $1 செய்ய வேண்டும்."
+
+msgid  "accmailtitle"
+msgstr  "கடவுச்சொல் அனுப்பப்பட்டுள்ளது."
+
+msgid  "accmailtext"
+msgstr  "தான்தோன்றித்தனமான ஒரு கடவுச்சொல்லை [[User talk:$1|பயனர் பேச்சு:$1|$1]] $2-க்கு அனுப்பி வைக்கப்பட்டுள்ளது.\n\nஇந்த புதிய கணக்கிற்கான கடவுச்சொல்லை புகுபதிகை செய்தவுடன் மாற்றிக்கொள்ளவும் ''[[Special:ChangePassword|கடவுச்சொல்லை மாற்று]]''."
+
+msgid  "newarticle"
+msgstr  "(புதிது)"
+
+msgid  "newarticletext"
+msgstr  "ஒரு இணைப்பினூடாக நீங்கள் வந்துள்ள இப்பக்கம் இன்னும் உருவாக்கப்படவில்லை. பக்கத்தை உருவாக்குவதற்குக் கீழேயுள்ள கட்டத்துள் தட்டச்சிடத் தொடங்குங்கள். (மேலதிக விபரங்களுக்கு [[{{MediaWiki:Helppage}}|உதவிப் பக்கத்தைப்]] பார்க்கவும்). நீங்கள் தவறுதலாக இங்கே வந்திருந்தால், உங்கள் உலாவியின் பின் செல்வதற்கான பொத்தானைச் சொடுக்கவும்."
+
+msgid  "anontalkpagetext"
+msgstr  "----''தாங்கள், தமிழ் விக்கிப்பீடியாவின் பயனர் கணக்கு உருவாக்காத புதியவராகவோ அல்லது பயனர் கணக்கு உருவாக்கி, புகுபதிகை செய்ய மறந்த நிலையில் இப்பக்கத்திற்கு வந்தவராகவோ இருக்கலாம். தற்போதைய நிலையில் அடையாளம் காணமுடியாதவராக தாங்கள் இருப்பதால், தங்களைத் தாங்கள் உபயோகித்த இணைய விதிமுறை இலக்கம் (I.P.Number)கொண்டு அடையாளப்படுத்த வேண்டியுள்ளது. இந்த நிலையைத் தவிர்க்கத் தமிழ் விக்கிப்பீடியாவில் தங்களுக்கென ஒரு பயனர் பக்கத்தை உருவாக்கிக் கொள்ளலாம். இந்தப் பயனர் பக்கத்தின் உரையாடல் பக்கம் தங்களுடன் தொடர்பு கொள்வதற்கும், கருத்துப் பரிமாற்றத்திற்கும் உதவியாக இருக்கும். \n\nதங்களுக்காக ஒரு பயனர் பக்கம் உருவாக்கிக் கொள்வது என்பது மிகவும் எளிதானது. [[Special:UserLogin/signup|இங்கு தங்களுக்கான புதிய கணக்கொன்றைத் தொடங்கி]] உங்களுக்கான பயனர் பக்கத்தை உருவாக்கிக் கொள்ள வேண்டுகிறோம், அல்லது [[Special:UserLogin|புகுபதிகை]] செய்திட வேண்டுகிறோம்.''"
+
+msgid  "noarticletext"
+msgstr  "இப் பக்கத்தில் தற்பொழுது உள்ளடக்கம் எதுவுமில்லை. நீங்கள் இப்பக்க [[Special:Search/{{PAGENAME}}|தலைப்பை வேறு பக்கங்களில் தேடவோ]] அல்லது [{{fullurl:{{FULLPAGENAME}}|action=edit}} இப்பக்கத்தை தொகுக்கவோ] முடியும்."
+
+msgid  "userpage-userdoesnotexist"
+msgstr  "\"$1\" என்றக் கணக்கு இன்னமும் பதிவுச் செய்யப்படவில்லை. இதை உருவாக்க/தொகுக்க வேண்டுமா என்பதை உறுதிப்படுத்தவும்."
+
+msgid  "userpage-userdoesnotexist-view"
+msgstr  "பயனர் கணக்கு \"$1\" பதியப்படவில்லை"
+
+msgid  "blocked-notice-logextract"
+msgstr  "இந்தப் பயனர் தற்சமயம் தடை செய்யப்பட்டுள்ளார்.\nஇவரது தடை பதிகையின் அண்மைய மாற்றம் கிழே தரப்பட்டுள்ளது:"
+
+msgid  "clearyourcache"
+msgstr  "'''கவனிக்க - சேமித்த பின்னர், நீங்கள் செய்த மாற்றங்களைக் காண்பதற்கு உங்கள் உலவியின் இடைமாற்று அகற்றப்பட வேண்டும்.'''\n'''மொஸில்லா / பயர்பாக்ஸ் / சபாரி:''' ''Shift+Reload'', அல்லது ''Ctrl-F5'' அல்லது ''Ctrl-R''\n( மசிண்டோஷில் ''Command-R'');\n'''கொன்குவெரர்: ''' ''Reload'' அல்லது ''F5'';\n'''ஒபேரா:''' ''Tools → Preferences'' இல் இடைமாற்றை அகற்றவும்;\n'''இண்டர்நெட் எக்ஸ்ப்ளோரர்:''' ''Ctrl-Refresh'' அல்லது ''Ctrl-F5''."
+
+msgid  "usercssyoucanpreview"
+msgstr  "'''சிறு உதவி:''' தங்களது சி.எஸ்.எஸ்(CSS)-ஐ சேமிப்பதற்கு முன்பாக \"{{int:showpreview}}\" பொத்தானைப் பயனபடுத்தி சோதனை செய்யவும்"
+
+msgid  "userjsyoucanpreview"
+msgstr  "'''சிறு உதவி:''' தங்களது ஜாவா-வரிவடிவத்தை (JavaScript-ஐ) சேமிப்பதற்கு முன்பாக \"{{int:showpreview}}\" பொத்தானைப் பயனபடுத்தி சோதனை செய்யவும்"
+
+msgid  "usercsspreview"
+msgstr  "'''உங்களது பயனர் சி.எஸ்.எஸ். இன் முன் தோற்றத்தை மட்டுமே காண்கிறீர்கள் என்பதை நினைவில் கொள்ளவும்.'''\n'''இது இன்னமும் சேமிக்கப்படவில்லை!'''"
+
+msgid  "userjspreview"
+msgstr  "'''நீர் உமது ஜாவா நிரலை சோதிக்கிறீர் அல்லது முன் தோற்றத்தைப் பார்க்கிறீர் என்பதை நினைவக்கவும், இன்னமும் சேமிக்கப்படவில்லை!'''"
+
+msgid  "userinvalidcssjstitle"
+msgstr  "'''எச்சரிக்கை:'''  \"$1\" என்றப் பெயரில் தோல்லொறுக் கிடையாது. சி.எஸ்.எஸ் மற்றும் ஜெ.எஸ். பக்கங்கள் ஆங்கில கீழ் வரிசைப் பெயர்களைக் கொண்டிருக்க வேண்டும் என்பதைக் கவனிக்கவும். எ+கா: {{ns:user}}:Foo/vector.css என்பது சரியான வடிவம் {{ns:user}}:Foo/Vector.css என்பது பிழையான வடிவம்."
+
+msgid  "updated"
+msgstr  "(இற்றைப்படுத்தப்பட்டது)"
+
+msgid  "note"
+msgstr  "'''குறிப்பு:'''"
+
+msgid  "previewnote"
+msgstr  "'''இது ஒரு முன்தோற்றம் மட்டுமே, உங்கள் மாற்றங்கள் இன்னும் சேமிக்கப்படவில்லை!'''"
+
+msgid  "previewconflict"
+msgstr  "இந்த முன்தோற்றம் உரை தொகுப்புப் பகுதியின் மேற்பகுதியிலுள்ள உரையைப் பிரதிபலிக்கின்றது. நீங்கள் இப்பொழுது சேமித்தால் மேற்படி தோற்றமே கிடைக்கும்."
+
+msgid  "session_fail_preview"
+msgstr  "'''உங்கள் அமர்வுத் தரவுகள் அழிந்துப்போனமையால் உங்கள் தொகுப்பை செயற்படுத்த முடியவில்லை. அருள் கூர்ந்து மீண்டும் முயலவும். அதுவும் பலனளிக்காவிட்டால் விடுபதிகைச் செய்து மீண்டும் புகுபதிகைச் செய்யவும்'''"
+
+msgid  "session_fail_preview_html"
+msgstr  "'''மன்னிக்கவும்! தங்கள் அமர்வுத் தரவுகள் அழிந்துப்போனமையால் தொகுப்பைச் செயற்படுத்த முடியவில்லை.'''\n\n''கரணியம்:{{SITENAME}} தளத்தில் பக்குவப்படாத எச்.டி.எம்.எல். முடுக்கிவிடப்பட்டுள்ளமையால் ஜாவா நிரல் தாக்குதல்களைத் தவிர்க்கும் பொருட்டு முன்தோற்றம் முடக்கப்பட்டுள்ளது.''\n\n'''இது ஒரு முறையான தொகுப்பாயின், அருள் கூர்ந்து மீண்டும் முயலவும். அதுவும் பலனளிக்காவிடின் [[Special:UserLogout|விடுபதிகை]] செய்து மீண்டும் புகுபதிகை செய்யவும்'''"
+
+msgid  "token_suffix_mismatch"
+msgstr  "'''உங்கள் தொகுப்பினுள் சேவையாளர் நிறுத்தக்குறியீடுகளை செறுகியுள்ளனதன் காரணமாக உங்களது தொகுப்பு நிராகரிக்கப்பட்டுள்ளது. இது வலைத்தளத்தை மையமாகக் கொண்ட அடையாளம் காட்டாத புரொக்சி சேவைகளிலிருந்து தொகுக்கும் போது ஏற்படலாம்.'''"
+
+msgid  "editing"
+msgstr  "$1 தொகுக்கப்படுகிறது"
+
+msgid  "editingsection"
+msgstr  "தொகுப்பு $1 (பிரிவு)"
+
+msgid  "editingcomment"
+msgstr  "$1 தொகுக்கப்படுகிறது (புதிய பிரிவு)"
+
+msgid  "editconflict"
+msgstr  "முரண்பாடுகளைத் தொகுக்கவும்: $1"
+
+msgid  "explainconflict"
+msgstr  "நீங்கள் தொகுக்கத் தொடங்கியதின் பின்னர் வேறு பயனரொருவர் இப் பக்கத்தில் மாற்றங்கள்ச் செய்துள்ளார்.\nஉரைப் பகுதியின்  மேற்பக்கம் தற்போதுள்ள உரைகளைக் கொண்டிருகிறது.\nநீங்கள் செய்த மாற்றங்கள் உரையின் கீழே தரப்பட்டுள்ளன.\nநீங்கள் உங்களுடைய மாற்றங்களை ஏற்கெனவேயிருக்கும் உரையுடன் ஒருங்கிணைக்க வேண்டியிருக்கும்.\n\"{{int:savearticle}}\" என்ற பொத்தானை அழுத்தும்போது உரைப்பகுதியின் மேற்பக்கத்திலுள்ள உரை '''மட்டுமே''' சேமிக்கப்படும்."
+
+msgid  "yourtext"
+msgstr  "உங்கள் உரை"
+
+msgid  "storedversion"
+msgstr  "சேமிக்கப்பட்ட பதிப்பு"
+
+msgid  "nonunicodebrowser"
+msgstr  "'''எச்சரிக்கை: உங்களது உலாவி ஒருங்குக்குறியை ஆதரிக்கவில்லை. உங்கள் தொகுப்புக்களைத் பாதுகாப்பகத் தொடர்ந்துச் செய்ய வழிமுறையொன்றுள்ளது: அஸ்கியில்லாத எழுத்துகள் அடி பதினாறைக் கொண்ட குறிகளாக தொகுப்புக் கட்டத்தில் தென்படும்.'''"
+
+msgid  "editingold"
+msgstr  "'''எச்சரிக்கை: நீங்கள் தொகுத்துக்கொண்டிருப்பது இப்பக்கத்தின் பழைய திருத்தமொன்றையாகும். இதை நீங்கள் சேமித்தால், மேற்படி திருத்தத்தின் பின்னர் செய்யப்பட்ட மாற்றங்கள் அனைத்தும் இழக்கப்படும்.'''"
+
+msgid  "yourdiff"
+msgstr  "வேறுபாடுகள்"
+
+msgid  "copyrightwarning"
+msgstr  "{{SITENAME}} தளத்தில் உங்கள் பங்களிப்புகள் $2 உரிமத்தின் கீழ் அளிக்கப்பட்டதாக கருதப்படும்.(மேலதிக தகவல்களுக்கு $1 பக்கத்தைப் பார்க்க) உங்களுடைய எழுத்துக்கள் கடுமையாகத் தொகுக்கப்படுவதையோ, விரும்பியபடி பகிரப்படுவதையோ நீங்கள் விரும்பாவிடில் இங்கே சமர்ப்பிக்காதீர்.<br />\nஅத்துடன் நீங்களே இதை எழுதியதாகவோ, அல்லது வேறு பொதுக் களம் அல்லது அது போன்ற விடுதலையளிக்கும் மூலங்களிலிருந்து பிரதி பண்ணியிருப்பதாகவோ உறுதி கூறுகிறீர்கள்.\n'''பதிப்புரிமையுள்ள ஆக்கங்களை அனுமதியின்றி சமர்ப்பிக்க வேண்டாம்!'''"
+
+msgid  "copyrightwarning2"
+msgstr  "{{SITENAME}} தளத்துக்கான உமது பங்களிப்புக்கள் அனைத்தும் வேறு பயனர்களால் தொகுக்கப் படவோ, மாற்றங்கள் செய்யப்படவோ அல்லது நீக்கப்படவோ கூடும். உமது பங்களிப்புகள் கடுமையாகத் தொகுக்கப்படுவதை நீர் விரும்பாவிடில் இங்கே சமர்ப்பிக்காதீர்.<br />\nநீர் இதை எழுதியதாகவோ, அல்லது வேறு பொதுக் களம் அல்லது அது போன்ற விடுதலையளிக்கும் மூலங்களிலிருந்து பிரதி பண்ணியிருப்பதாகவோ உறுதி கூறுகிறீர்.(மேலதிக தகவல்களுக்கு $1).'''பதிப்புரிமையுள்ள ஆக்கங்களை அனுமதியின்றி சமர்ப்பிக்காதீர்!'''"
+
+msgid  "longpageerror"
+msgstr  "'''தவறு: நீங்கள் இட்ட உரை $1 கிலோபைட்டுகள் நீளமானது, $2 கிலோபைட்டிலும் கூடிய அளவுள்ள பக்கங்கள் இங்கே அனுமதிக்கப்படுவதில்லை. உங்கள் உரையை சேமிக்க முடியாது.'''"
+
+msgid  "readonlywarning"
+msgstr  "'''எச்சரிக்கை: பராமரிப்புக்காகத் தரவுவழங்கன் பூட்டப்பட்டுள்ளது, எனவே உங்கள் தொகுப்புக்களை இப்பொழுது சேமிக்க முடியாது. உங்கள் உரையை இன்னொரு உரைக் கோப்பில் வெட்டி ஒட்டி சேமித்துவைத்துப் பின்பு உபயோகிக்கலாம்.'''\n\nஇந்த தரவுவழங்கனை பூட்டிய நிர்வாகி அதுகுறித்து அளித்த விளக்கம் பின்வருமாறு: $1"
+
+msgid  "protectedpagewarning"
+msgstr  "'''எச்சரிக்கை: இது ஒரு பாதுகாக்கப்பட்ட பக்கமாகும். இதனை நிர்வாகிகள் தரத்திற்கான உரிமைகளை பெற்றவர்களே தொகுக்க முடியும்.'''\n\nகடைசியாகப் பதியபட்ட குறிப்பினை தங்களின் கவனத்திற்காக கீழே கொடுக்கப்பட்டது."
+
+msgid  "semiprotectedpagewarning"
+msgstr  "'''குறிப்பு:''' புகுபதிகை செய்த பயனர்கள் மட்டும் தொகுக்கக் கூடியவகையில் இப்பக்கம் காக்கப்பட்டுள்ளது. \n\nகடைசியாகப் பதியபட்ட குறிப்பு தங்கள் கவனத்திற்காகக் கீழே கொடுக்கப்பட்டுள்ளது:"
+
+msgid  "cascadeprotectedwarning"
+msgstr  "எச்சரிக்கை: படிநிலைக் காப்புக்குட்படுத்தப்பட்ட பின்வரும் {{PLURAL:$1|பக்கத்தில்|பக்கங்களில்}} இணைக்கப்பட்டுள்ளமையால் முறைமை செயற்படுத்துனர் (நிர்வாகி) அனுமதியுள்ள பயனர்கள் மட்டுமே தொகுக்ககூடிய வகையில் இப்பக்கம் பூட்டப்பட்டுள்ளது:"
+
+msgid  "titleprotectedwarning"
+msgstr  "'''எச்சரிக்கை: இது ஒரு காக்கப்பட்ட பக்கமாகும். இதனை உருவாக்க [[Special:ListGroupRights|குறிப்பிட்ட உரிமைகள்]]  தேவைப்படுகின்றன.'''\n\nகடைசியாகப் பதியபட்ட குறிப்பினை தங்களின் கவனத்திற்காக கீழே கொடுக்கப்பட்டுள்ளது:"
+
+msgid  "templatesused"
+msgstr  "இப்பக்கத்தில் பயன்படுத்தப்பட்டுள்ள {{PLURAL:$1|வார்ப்புரு|வார்ப்புருக்கள்}}:"
+
+msgid  "templatesusedpreview"
+msgstr  "இம்முன்தோற்றத்தில் பயன்படுத்தப்பட்டுள்ள {{PLURAL:$1|வார்ப்புரு|வார்ப்புருக்கள்}}:"
+
+msgid  "templatesusedsection"
+msgstr  "இப்பகுதியில் பயன்படுத்தப்பட்டுள்ள {{PLURAL:$1|வார்ப்புரு| $1 வார்ப்புருக்கள்}}:"
+
+msgid  "template-protected"
+msgstr  "(காக்கப்பட்டது)"
+
+msgid  "template-semiprotected"
+msgstr  "(பகுதியாகக் காக்கப்பட்டது)"
+
+msgid  "hiddencategories"
+msgstr  "இப்பக்கம் {{PLURAL:$1|ஒரு மறைக்கப்பட்ட பகுப்பில்|$1 மறைக்கப்பட்ட பகுப்புகளில்}} அடங்குகிறது:"
+
+msgid  "nocreatetitle"
+msgstr  "பக்கத் தொடக்கம் மட்டுப்படுத்தப்பட்டுள்ளது"
+
+msgid  "nocreatetext"
+msgstr  "{{SITENAME}} புதிய பக்கங்களை ஆக்குவதற்கான அனுமதியை மட்டுப்படுத்தியுள்ளது.\nநீங்கள் ஏற்கனவே இருக்கும் பக்கங்களைத் தொகுக்க முடியும் அல்லது [[Special:UserLogin|புகுபதிகை செய்யவும் அல்லது கணக்கொன்றை தொடங்குங்கள்]]."
+
+msgid  "nocreate-loggedin"
+msgstr  "புதியப் பக்கங்களைத் தொடங்குவதற்கு உங்களுக்கு அனுமதி கிடையாது."
+
+msgid  "sectioneditnotsupported-title"
+msgstr  "உட்பிரிவை தொகுக்க தேவையான ஆதரவில்லை."
+
+msgid  "sectioneditnotsupported-text"
+msgstr  "இப்பக்கத்தில் உட்பிரிவை தொகுக்க தேவையான ஆதரவில்லை."
+
+msgid  "permissionserrors"
+msgstr  "அனுமதி தவறுகள்"
+
+msgid  "permissionserrorstext"
+msgstr  "பின்வரும் {{PLURAL:$1|காரணத்துக்காக|காரணங்களுக்காக}} நீங்கள் அதைச் செய்ய முடியாது:"
+
+msgid  "permissionserrorstext-withaction"
+msgstr  "$2-க்கு தங்களுக்கு அனுமதி இல்லை. அதற்கான {{PLURAL:$1|காரணம்|காரணங்கள்}}:"
+
+msgid  "recreate-moveddeleted-warn"
+msgstr  "'''எச்சரிக்கை: தாங்கள் ஏற்கனவே நீக்கப்பட்ட பக்கமொன்றை மீண்டும் தொடங்க விழைகிறீர்கள்.'''\n\nஇப்பக்கத்தைத் தொடர்ந்து தொகுப்பது சரியானதா என்று எண்ணிப்பார்க்கவும்.\n\nதங்களின் வசதிக்காக இப்பக்கத்தின் நீக்கல் மற்றும் நகர்த்தல் குறிப்புகள் கொடுக்கப்பட்டுள்ளது:"
+
+msgid  "moveddeleted-notice"
+msgstr  "இது ஒரு நீக்கப்பட்ட பக்கமாகும்.\n\nதங்களின் வசதிக்காக இப்பக்கத்தின் நீக்கல் மற்றும் நகர்த்தல் குறிப்புகள் கொடுக்கப்பட்டுள்ளது."
+
+msgid  "log-fulllog"
+msgstr  "குறிப்பினை முழுதுமாக பார்க்கவும்"
+
+msgid  "edit-gone-missing"
+msgstr  "இப்பக்கத்தை நிகழ்நிலைப் படுத்தமுடியவில்லை.\nஇது நீக்கப்பட்டதாக இருக்கலாம்."
+
+msgid  "edit-conflict"
+msgstr  "முரண்பாடுகளைத் தொகுக்கவும்."
+
+msgid  "edit-no-change"
+msgstr  "வாசகங்களுக்கு எந்த மாற்றமும் செய்யப்படவில்லை என்பதனால் உங்கள் தொகுப்பு புறக்கணிக்கப்பட்டது."
+
+msgid  "edit-already-exists"
+msgstr  "புதிய பக்கமொன்றை உருவாக்க முடியாது.\nஇப்பக்கம் ஏற்கனவே உள்ளது."
+
+msgid  "expensive-parserfunction-warning"
+msgstr  "எச்சரிக்கை: இப்பக்கம் அதிகளவு இலக்கணப் பாகுபடுத்திச் சார்புகளைக் கொண்டுள்ளது.\n\nஇது $2 {{PLURAL:$2|சார்புக்கும்|சார்புகளுக்கும் }} குறைவான இலக்கணப் பாகுபடுத்திச் சார்புகளைக் கொண்டிருக்க வேண்டும், ஆனால் தற்போது இதில் {{PLURAL:$1|$1 சார்பு|$1 சார்புகள்}} உள்ளன."
+
+msgid  "expensive-parserfunction-category"
+msgstr  "அதிகளவு இலக்கணப் பாகுபடுத்திச் சார்புகளைக் கொண்ட பக்கங்கள்"
+
+msgid  "parser-template-loop-warning"
+msgstr  "வார்ப்புருவின் முழுச்சுற்று உணரப்பட்டுள்ளது: [[$1]]"
+
+msgid  "undo-success"
+msgstr  "இத்தொகுப்பை மீளமைக்க முடியும். தயவு செய்து, கீழே காட்டப்பட்டுள்ள ஒப்பீட்டைப் பார்த்து, நீங்கள் செய்ய முயற்சிப்பது இதுதானா? என்பதை உறுதிப்படுத்திக் கொண்டு '''பக்கத்தைச் சேமிக்கவும்''' என்பதன் மேல் சொடுக்கவும்."
+
+msgid  "undo-failure"
+msgstr  "முரண்பாடான இடைப்பட்டத் தொகுப்புகள் காரணமாக இத்தொகுப்பை மீளமைக்க முடியாது."
+
+msgid  "undo-norev"
+msgstr  "தங்களின் தொகுப்பு இல்லாததாலோ அல்லது நீக்கப்பட்டதாலோ இத்தொகுப்பை மீளமைக்க முடியாது."
+
+msgid  "undo-summary"
+msgstr  "[[Special:Contributions/$2|$2]] ([[User talk:$2|Talk]]) பயனரால் செய்யப்பட்ட திருத்தம் $1 இல்லாது செய்யப்பட்டது"
+
+msgid  "cantcreateaccounttitle"
+msgstr  "கணக்கைத் தொடங்கள் முடியாது"
+
+msgid  "cantcreateaccount-text"
+msgstr  "இந்த இணைய விதிமுறை இலக்க முகவரியிலிருந்து (IP address) ('''$1''') பயனர் கணக்குகள் தொடங்குவதை பயனர் [[User:$3|$3]] தடை செய்துள்ளார்.\n\nஇதற்காக $3 கொடுத்துள்ள காரணங்கள்  ''$2''"
+
+msgid  "viewpagelogs"
+msgstr  "இப்பக்கத்துக்கான பதிகைகளைப் பார்"
+
+msgid  "nohistory"
+msgstr  "இப் பக்கத்துக்குத் தொகுப்பு வரலாறு இல்லை."
+
+msgid  "currentrev"
+msgstr  "நடைமுறையிலுள்ள திருத்தம்"
+
+msgid  "currentrev-asof"
+msgstr  "$1 இல் கடைசித் திருத்தம்"
+
+msgid  "revisionasof"
+msgstr  "$1 இல் நிலவும் திருத்தம்"
+
+msgid  "revision-info"
+msgstr  "$2 பயனரால் செய்யப்பட்ட $1 அன்றிருந்தவாரான திருத்தம்"
+
+msgid  "previousrevision"
+msgstr  "←முந்தைய தொகுப்பு"
+
+msgid  "nextrevision"
+msgstr  "புதிய தொகுப்பு→"
+
+msgid  "currentrevisionlink"
+msgstr  "நடப்பிலுள்ள திருத்தம்"
+
+msgid  "cur"
+msgstr  "நடப்பு"
+
+msgid  "next"
+msgstr  "அடுத்தது"
+
+msgid  "last"
+msgstr  "முந்தைய"
+
+msgid  "page_first"
+msgstr  "முதல்"
+
+msgid  "page_last"
+msgstr  "கடைசி"
+
+msgid  "histlegend"
+msgstr  "வேறுபாட்டைக் காண வேண்டிய இரண்டு பத்திப்புக்களை தெரிவுச் செய்து கீழுள்ள பொத்தானை அழுத்தவும்.<br />\nகுறியீட்டு விளக்கம்: (நடப்பு) = நடைமுறையிலுள்ள பதிப்புடனான வேறுபாடு,\n(கடைசி) = முந்திய பதிப்புடனான வேறுபாடு, சி = சிறு தொகுப்பு"
+
+msgid  "history-fieldset-title"
+msgstr  "வரலாற்றில் தேடவும்"
+
+msgid  "history-show-deleted"
+msgstr  "நீக்கப்பட்டவை மட்டும்"
+
+msgid  "histfirst"
+msgstr  "மிகமுந்திய"
+
+msgid  "histlast"
+msgstr  "மிகப்பிந்திய"
+
+msgid  "historysize"
+msgstr  "({{PLURAL:$1|1 பைட்டு|$1 பைட்டுகள்}})"
+
+msgid  "historyempty"
+msgstr  "(வெற்று)"
+
+msgid  "history-feed-title"
+msgstr  "திருத்த வரலாறு"
+
+msgid  "history-feed-description"
+msgstr  "விக்கியில் இப்பக்கத்துக்கான திருத்த வரலாறு"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$2 இல் $1"
+
+msgid  "history-feed-empty"
+msgstr  "நீங்கள் கோரியப் பக்கம் இல்லை.\nஇப்பக்கம் விக்கியில் நீக்கப்பட்டோ நகர்த்தப்பட்டோ இருக்கலாம்.\nபொருத்தமான புதியப் பக்கங்களைத் [[Special:Search|இந்த விக்கியில் தேடவும்]]."
+
+msgid  "rev-deleted-comment"
+msgstr  "(கருத்து நீக்கப்பட்டது)"
+
+msgid  "rev-deleted-user"
+msgstr  "(பயனர் பெயர் நீக்கப்பட்டது)"
+
+msgid  "rev-deleted-event"
+msgstr  "(பதிவு செயற்பாடு நீக்கப்பட்டது)"
+
+msgid  "rev-deleted-user-contribs"
+msgstr  "பயனர் பெயர் அல்லது ஐ.பி. முகவரி நீக்கப்பட்டுள்ளது - இந்தத் தொகுப்பு பங்களிப்புகள் பட்டியலில் இருந்து மறைக்கப்பட்டுள்ளது"
+
+msgid  "rev-deleted-text-permission"
+msgstr  "இந்த பக்கத்திருத்தம்  '''நீக்கப்பட்டுள்ளது'''.\n\nஇது தொடர்பான விவரங்களை [{{fullurl:{{#Special:Log}}/delete|page={{FULLPAGENAMEE}}}} நீக்கல் பதிகையில்] காணலாம்."
+
+msgid  "rev-deleted-text-view"
+msgstr  "இந்த பக்கத்திருத்தம்  '''நீக்கப்பட்டுள்ளது'''.\n\nநிர்வாகி என்ற வகையில் நீங்கள் அதைப் பார்க்கலாம் மேலும் இது தொடர்பான விவரங்களை [{{fullurl:{{#Special:Log}}/delete|page={{FULLPAGENAMEE}}}} நீக்கல் பதிகையில்] காணலாம்."
+
+msgid  "rev-delundel"
+msgstr  "காட்டு/மறை"
+
+msgid  "rev-showdeleted"
+msgstr  "காட்டு"
+
+msgid  "revisiondelete"
+msgstr  "திருத்தங்களை நீக்கு/மீட்டெடு"
+
+msgid  "revdelete-nooldid-title"
+msgstr  "செல்லுபடியற்ற இலக்குத் திருத்தம்"
+
+msgid  "revdelete-nooldid-text"
+msgstr  "நீங்கள் இச்செயற்பாட்டை மேற்கொள்ள வேண்டிய இலக்குத் திருத்தம் ஒன்றையாவது குறிப்பிடவில்லை அல்லது குறித்தவாரான திருத்தமொன்று இல்லை அல்லது நடைமுறையிலுள்ள திருத்தமொன்ற மறைக்க எத்தனிக்கிறீர்கள்."
+
+msgid  "revdelete-nologtype-title"
+msgstr  "பதிகை வகை தரப்படவில்லை"
+
+msgid  "revdelete-nologtype-text"
+msgstr  "இந்தச்செயலைச் செய்வதற்குத் தாங்கள் எந்த குறிப்புப் பக்கத்தில் குறித்து வைக்கவேண்டும் என்று தெரிவிக்கவில்லை."
+
+msgid  "revdelete-nologid-title"
+msgstr  "செல்லுபடியற்ற பதிகைப் பதிவு"
+
+msgid  "revdelete-no-file"
+msgstr  "தாங்கள் குறிப்பிட்ட கோப்புக்கள் இங்கில்லை."
+
+msgid  "revdelete-show-file-confirm"
+msgstr  "\"<nowiki>$1</nowiki>\" கோப்பின் $2-தேதி,  $3-நேரத்தில் நீக்கப்பட்ட திருத்தத்தை தாங்கள் காணவேண்டுமா ?"
+
+msgid  "revdelete-show-file-submit"
+msgstr  "ஆம்"
+
+msgid  "revdelete-selected"
+msgstr  "'''[[:$1]] பக்கத்தின் தெரிவுச் செய்யப்பட்ட {{PLURAL:$2|திருத்தம்|திருத்தங்கள்}}:'''"
+
+msgid  "logdelete-selected"
+msgstr  "'''தெரிவு செய்யப்பட்ட பதிகை {{PLURAL:$1|நிகழ்வு|நிகழ்வுகள்}}:'''"
+
+msgid  "revdelete-text"
+msgstr  "'''நீக்கப்பட்ட நிகழ்வுகள் மற்றும் திருத்தங்கள், வரலாற்றுப் பக்கத்திலும் குறிப்புகளிலும் தெரியும். ஆனால் அவற்றின் உள்ளடக்கத்தை எல்லோரும் பார்க்கமுடியாது.'''\n\nமேலதிக கட்டுப்பாடுகளை விதிக்காமல் இருந்தால்,  {{SITENAME}} இத்தளத்தில் உள்ள மற்ற நிர்வாகிகள், இந்த இணைப்பின் மூலம்,  மறைந்துள்ள பகுதிகளை அணுகவும் மீட்டெடுக்கவும் முடியும்."
+
+msgid  "revdelete-legend"
+msgstr  "பார்வையியழுமைக் கட்டுப்பாடுகளை ஏற்படுத்துக"
+
+msgid  "revdelete-hide-text"
+msgstr  "திருத்த உரையை மறை"
+
+msgid  "revdelete-hide-image"
+msgstr  "கோப்பின் உள்ளடக்கங்களை மறை"
+
+msgid  "revdelete-hide-name"
+msgstr  "செயற்பாட்டையும் இலக்கையும் மறை"
+
+msgid  "revdelete-hide-comment"
+msgstr  "தொகுப்புச் சுருக்கத்தை மறை"
+
+msgid  "revdelete-hide-user"
+msgstr  "தொகுப்பவரின் ஐ.பி./பயனர்பெயரை மறை"
+
+msgid  "revdelete-hide-restricted"
+msgstr  "குறிப்புக்களை அதிகாரிகள் உட்பட எல்லோரிடமிருந்தும் மறைத்துவிடு (காட்டத்தேவையில்லை)."
+
+msgid  "revdelete-radio-same"
+msgstr  "(தயவுசெய்து மாற்ற வேண்டாம்)"
+
+msgid  "revdelete-radio-set"
+msgstr  "ஆம்"
+
+msgid  "revdelete-radio-unset"
+msgstr  "இல்லை"
+
+msgid  "revdelete-suppress"
+msgstr  "நிர்வாகிகள் உட்பட இனவரிடமிருந்தாக தரவுகளை அடக்கு"
+
+msgid  "revdelete-unsuppress"
+msgstr  "மீட்கப்பட்ட திருத்தங்கள் மீதான கட்டுப்பாடுகளை நீக்கு"
+
+msgid  "revdelete-log"
+msgstr  "காரணம்:"
+
+msgid  "revdelete-submit"
+msgstr  "தெரிவு செய்யப்பட்ட {{PLURAL:$1|திருத்தம்|$1 திருத்தங்கள்}} மீது பயன்படுத்தவும்."
+
+msgid  "revdelete-logentry"
+msgstr  "[[$1]] பக்கத்துக்கான திருத்த பார்வையியலுமை மாற்றப்பட்டது"
+
+msgid  "logdelete-logentry"
+msgstr  "[[$1]] பக்கத்துக்கான நிகழ்வு பார்வையியலுமை மாற்றப்பட்டது"
+
+msgid  "revdelete-success"
+msgstr  "'''திருத்தங்களை பார்வையிடும் வசதியை வெற்றிகரமாக நிகழ்நிலைப்படுத்தப்பட்டுள்ளது.'''"
+
+msgid  "logdelete-success"
+msgstr  "'''நிகழ்வு பார்வையியலுமை வெற்றிகரமாக அமைக்கப்பட்டது.'''"
+
+msgid  "revdel-restore"
+msgstr  "பார்வையியலுமையை மாற்றுக"
+
+msgid  "revdel-restore-deleted"
+msgstr  "நீக்கப்பட்ட மாற்றங்கள்"
+
+msgid  "revdel-restore-visible"
+msgstr  "வெளிப்படையாகத்தெரியும் மாற்றங்கள்"
+
+msgid  "pagehist"
+msgstr  "பக்க வரலாறு"
+
+msgid  "deletedhist"
+msgstr  "நீக்கப்பட்ட வரலாறு"
+
+msgid  "revdelete-content"
+msgstr  "உள்ளடக்கத்தை"
+
+msgid  "revdelete-summary"
+msgstr  "தொகுப்பு சுருக்கத்தை"
+
+msgid  "revdelete-uname"
+msgstr  "பயனர் பெயரை"
+
+msgid  "revdelete-restricted"
+msgstr  "நிர்வாகிகளுக்கு கட்டுப்பாடுகள் விதிக்கப்பட்டது"
+
+msgid  "revdelete-unrestricted"
+msgstr  "நிர்வாகிகளின் கட்டுப்பாடுகள் நீக்கப்பட்டது"
+
+msgid  "revdelete-hid"
+msgstr  "$1 மறைக்க"
+
+msgid  "revdelete-unhid"
+msgstr  "$1 காட்டுக"
+
+msgid  "revdelete-log-message"
+msgstr  "$2 {{PLURAL:$2|திருத்தத்திற்கு|திருத்தங்களிற்கு}} $1"
+
+msgid  "logdelete-log-message"
+msgstr  "$2 {{PLURAL:$2|நிகழ்விற்கு|நிகழ்வுகளிற்கு}} $1"
+
+msgid  "revdelete-reason-dropdown"
+msgstr  "* பொதுவான நீக்கு காரணங்கள்\n**பதிப்புரிமை மீறல்\n** தனிப்பட்ட தகவல்கள் வெளியிட்டமை\n** அவதூறாகக் கொள்ளக்கூடிய உள்ளடக்கம்"
+
+msgid  "revdelete-otherreason"
+msgstr  "வேறு மேலதிக காரணம்:"
+
+msgid  "revdelete-reasonotherlist"
+msgstr  "வேறு காரணம்"
+
+msgid  "revdelete-edit-reasonlist"
+msgstr  "நீக்கல் காரணங்களைத் தொகு"
+
+msgid  "revdelete-offender"
+msgstr  "மாற்றங்களைச் செய்தவர்:"
+
+msgid  "suppressionlog"
+msgstr  "அடக்கல் பதிகை"
+
+msgid  "suppressionlogtext"
+msgstr  "பின்வருவது நிர்வாகிகளிடமிருந்து மறைக்கப்பட்ட நீக்கல்களதும் தடுப்புகளதும் பட்டியலாகும்.\nநடைமுறையிலுள்ள தடுப்புகளைக் காண [[Special:IPBlockList|ஐ.பி. தடைப் பட்டியலைப்]] பார்க்க"
+
+msgid  "mergehistory"
+msgstr  "பக்க வரலாறுகளை இணை"
+
+msgid  "mergehistory-header"
+msgstr  "இப்பக்கம் மூலப்பக்கத்தின் திருத்த வரலாற்றைப் புதிய பக்கத்துடன் இணைக்கத் துணை செய்கிறது. இப்பக்கத்தின் வரலாற்றுத் தொடர்ச்சி காக்கப்பட்டுள்ளதா என்பதை உறுதிப்படுத்திக் கொள்ளவும்."
+
+msgid  "mergehistory-box"
+msgstr  "இரண்டு பக்கங்களின் திருத்தங்களை இணை:"
+
+msgid  "mergehistory-from"
+msgstr  "மூலப் பக்கம்:"
+
+msgid  "mergehistory-into"
+msgstr  "இலக்குப் பக்கம்:"
+
+msgid  "mergehistory-list"
+msgstr  "இணைக்கபடக்கூடிய தொகுப்பு வரலாறு"
+
+msgid  "mergehistory-merge"
+msgstr  "[[:$1]] பக்கத்துக்கான பின்வரும் திருத்தங்கள் [[:$2]] பக்கத்துக்கு இணைக்கப்பட முடியும். ரேடியோ பொத்தான் நிரலைப் பயன்படுத்தி ஒரு குறித்த நேரம் உட்பட அதற்கு முன்னர் செய்யப்பட்ட திருத்தங்களைத் தெரிவுச் செய்யலாம். இணைப்புகளைப் பயன்படுத்தல் இந்நிரலை இயல்பிருப்பு நிலைக்கு மீட்டமைக்கும்."
+
+msgid  "mergehistory-go"
+msgstr  "இணைக்கப்படக் கூடிய தொகுப்புக்களைக் காட்டு"
+
+msgid  "mergehistory-submit"
+msgstr  "திருத்தங்களை இணை"
+
+msgid  "mergehistory-empty"
+msgstr  "இணைக்கப்படக்கூடிய திருத்தங்கள் எதுவுமில்லை."
+
+msgid  "mergehistory-success"
+msgstr  "[[:$1]] பக்கத்தின் {{PLURAL:$3|ஒரு திருத்தம்|$3 திருத்தங்கள்}} வெற்றிகரமாக [[:$2]] பக்கத்தில் இணைக்கப்பட்ட{{PLURAL:$3|து|ன}}."
+
+msgid  "mergehistory-fail"
+msgstr  "வரலாற்றை இணைக்க முடியவில்லை. அருள் கூர்ந்து நேரங்களை ஒரு முறை சரி பார்க்கவும்."
+
+msgid  "mergehistory-no-source"
+msgstr  "மூலப் பக்கம் $1 இல்லை."
+
+msgid  "mergehistory-no-destination"
+msgstr  "இலக்குப் பக்கம் $1 இல்லை."
+
+msgid  "mergehistory-invalid-source"
+msgstr  "மூலப் பக்கம் செல்லுபடியான பக்கமாக இருக்க வேண்டும்."
+
+msgid  "mergehistory-invalid-destination"
+msgstr  "இலக்குக் கட்டுரையின் தலைப்பு செல்லுபடியானதாக இருக்க வேண்டும்."
+
+msgid  "mergehistory-autocomment"
+msgstr  "[[:$1]]பக்கம் [[:$2]] பக்கத்துடன் இணைக்கப்பட்டது"
+
+msgid  "mergehistory-comment"
+msgstr  "[[:$1]]பக்கம் [[:$2]] பக்கத்துடன் இணைக்கப்பட்டது: $3"
+
+msgid  "mergehistory-same-destination"
+msgstr  "மூலப் பக்கமும் முடிவிடப் பக்கமும் ஒன்றாக இருக்கமுடியாது"
+
+msgid  "mergehistory-reason"
+msgstr  "காரணம்:"
+
+msgid  "mergelog"
+msgstr  "இணைப்புப் பதிகை"
+
+msgid  "pagemerge-logentry"
+msgstr  "[[$1]] பக்கம் [[$2]] பக்கத்துடன் இணைக்கப்பட்டது ($3 வரையான திருத்தங்கள்)"
+
+msgid  "revertmerge"
+msgstr  "பிரி"
+
+msgid  "mergelogpagetext"
+msgstr  "பின்வருவது அண்மையில் செய்யப்பட்ட பக்க வரலாறு இணைப்புகளின் பட்டியலாகும்."
+
+msgid  "history-title"
+msgstr  "\"$1\" பக்கத்தின் திருத்த வரலாறு"
+
+msgid  "difference"
+msgstr  "(திருத்தங்களுக்கிடையான வேறுபாடு)"
+
+msgid  "difference-multipage"
+msgstr  "பக்கங்களுக்கு இடையேயான வேறுபாடு"
+
+msgid  "lineno"
+msgstr  "வரிசை $1:"
+
+msgid  "compareselectedversions"
+msgstr  "தெரிவு செய்யப்பட்ட பதிப்புக்களை ஒப்பிடவும்"
+
+msgid  "showhideselectedversions"
+msgstr  "தெரிவு செய்யப்பட்ட மாற்றங்களை காட்டு/மறை"
+
+msgid  "editundo"
+msgstr  "மீளமை"
+
+msgid  "diff-multi"
+msgstr  "({{PLURAL:$1|ஒரு இடைப்பட்ட திருத்தம்|$1 இடைப்பட்ட திருத்தங்கள்}} {{PLURAL:$2|பயனர்|$2 பயனர்கள்}}  செய்தவைகளை காட்டப்படவில்லை.)"
+
+msgid  "searchresults"
+msgstr  "தேடல் முடிவுகள்"
+
+msgid  "searchresults-title"
+msgstr  "\"$1\" இற்கான தேடல் முடிவுகள்"
+
+msgid  "searchresulttext"
+msgstr  "{{SITENAME}} தளத்தில் தேடுவது தொடர்பான மேலதிகத் தகவல்களுக்கு [[{{MediaWiki:Helppage}}|{{int:help}}]] பக்கத்தைப் பார்க்க."
+
+msgid  "searchsubtitle"
+msgstr  "நீர் தேடியப் பக்கம் '''[[:$1]]'''  ([[Special:Prefixindex/$1|\"$1\" இல் ஆரம்பிக்கும் அனைத்து பக்கங்கள்]]{{int:pipe-separator}}[[Special:WhatLinksHere/$1|\"$1\" இற்கு இணைப்பு உள்ள அனைத்து பக்கங்கள்]])"
+
+msgid  "searchsubtitleinvalid"
+msgstr  "நீர் தேடியப் பக்கம் \"$1\""
+
+msgid  "toomanymatches"
+msgstr  "அதிகளவான பொருத்தமான உருபடிகள் உள்ளன, உமது விசாரணையை மாற்றியமை"
+
+msgid  "titlematches"
+msgstr  "கட்டுரைத் தலைப்புப் பொருந்துகிறது"
+
+msgid  "notitlematches"
+msgstr  "ஒரு கட்டுரைத் தலைப்பும் பொருந்தவில்லை"
+
+msgid  "textmatches"
+msgstr  "கட்டுரை உரை பொருந்துகிறது"
+
+msgid  "notextmatches"
+msgstr  "கட்டுரை உரை எதுவும் பொருந்தவில்லை"
+
+msgid  "prevn"
+msgstr  "முன் {{PLURAL:$1|$1}}"
+
+msgid  "nextn"
+msgstr  "அடுத்த {{PLURAL:$1|$1}}"
+
+msgid  "prevn-title"
+msgstr  "முந்தைய $1 {{PLURAL:$1|முடிவு|முடிவுகள்}}"
+
+msgid  "nextn-title"
+msgstr  "அடுத்த $1 {{PLURAL:$1|முடிவு|முடிவுகள்}}"
+
+msgid  "shown-title"
+msgstr  "ஒரு பக்கத்திற்கு $1 {{PLURAL:$1|முடிவு|முடிவுகள்}} காட்டவும்"
+
+msgid  "viewprevnext"
+msgstr  "($1 {{int:pipe-separator}} $2) ($3) பக்கங்களைப் பார்."
+
+msgid  "searchmenu-legend"
+msgstr  "தேடல் விருப்பு"
+
+msgid  "searchmenu-exists"
+msgstr  "'''\"[[:$1]]\" என்னும் பெயருடைய பக்கம் இந்த விக்கியில் உள்ளது'''"
+
+msgid  "searchmenu-new"
+msgstr  "'''\"[[:$1]]\" பக்கத்தை இந்த விக்கியில் உருவாக்கவும்!'''"
+
+msgid  "searchhelp-url"
+msgstr  "Help:உதவி"
+
+msgid  "searchprofile-articles"
+msgstr  "உள்ளடக்கப் பக்கங்களின் பட்டியல்"
+
+msgid  "searchprofile-project"
+msgstr  "உதவி மற்றும் திட்டப் பக்கங்கள்"
+
+msgid  "searchprofile-images"
+msgstr  "பல்லூடகம்"
+
+msgid  "searchprofile-everything"
+msgstr  "எல்லாம்\n\nஅத்தனையும்"
+
+msgid  "searchprofile-advanced"
+msgstr  "மேம்பட்ட"
+
+msgid  "searchprofile-articles-tooltip"
+msgstr  "$1-ல் தேடவும்"
+
+msgid  "searchprofile-project-tooltip"
+msgstr  "$1-ல் தேடவும்"
+
+msgid  "searchprofile-images-tooltip"
+msgstr  "கோப்புகளைத் தேடுக"
+
+msgid  "searchprofile-everything-tooltip"
+msgstr  "எல்லா உள்ளடக்கங்களிலும் தேடுக (பேச்சுப் பக்கங்கள் உட்பட)"
+
+msgid  "searchprofile-advanced-tooltip"
+msgstr  "தனிப்பட்ட பெயர்வெளிகளில் தேடவும்"
+
+msgid  "search-result-size"
+msgstr  "$1 ({{PLURAL:$2|1 சொல்|$2 சொற்கள்}})"
+
+msgid  "search-result-score"
+msgstr  "பொருத்தம்: $1%"
+
+msgid  "search-redirect"
+msgstr  "(பக்க வழிமாற்றம் $1)"
+
+msgid  "search-section"
+msgstr  "(பிரிவு $1)"
+
+msgid  "search-suggest"
+msgstr  "நீங்கள் கருதியது இதையா: $1"
+
+msgid  "search-interwiki-caption"
+msgstr  "உறவுத் திட்டங்கள்"
+
+msgid  "search-interwiki-default"
+msgstr  "$1 தளத்தின் முடிவுகள்:"
+
+msgid  "search-interwiki-more"
+msgstr  "(மேலும்)"
+
+msgid  "search-mwsuggest-enabled"
+msgstr  "ஆலோசனைகளுடன்"
+
+msgid  "search-mwsuggest-disabled"
+msgstr  "ஆலோசனைகளில்லை"
+
+msgid  "search-relatedarticle"
+msgstr  "தொடர்புடையவை"
+
+msgid  "mwsuggest-disable"
+msgstr  "AJAX ஆலோசனைகளை முடக்கு"
+
+msgid  "searcheverything-enable"
+msgstr  "அனைத்துப் பெயர்வெளிகளிலும் தேடவும்"
+
+msgid  "searchrelated"
+msgstr  "தொடர்புடையவை"
+
+msgid  "searchall"
+msgstr  "அனைத்தும்"
+
+msgid  "showingresults"
+msgstr  "'''$2''' இலிருந்து தொடங்கும்  {{PLURAL:$1|'''1''' முடிவு கீழே காட்டப்பட்டுள்ளது|'''$1''' முடிவுகள் கீழே காட்டப்பட்டுள்ளன}}."
+
+msgid  "showingresultsnum"
+msgstr  "'''$2''' இலிருந்து தொடங்கும்  {{PLURAL:$3|'''1''' முடிவு கீழே காட்டப்பட்டுள்ளது|'''$3''' முடிவுகள் கீழே காட்டப்பட்டுள்ளன}}."
+
+msgid  "nonefound"
+msgstr  "<strong>குறிப்பு</strong>:சில பெயர்வெளிகள் மட்டுமே இயல்பிருப்பாக தேடப்படும்.\n\nஅனைத்து உள்ளடக்கங்களையும் (பேச்சு பக்கங்கள், வார்புருகள் மற்றும் பல) காண ''all:''  என்பதை உங்கள் கேள்விக்கு முன்னொட்டி முயற்சிக்கவும் அல்லது விரும்பப்படும் பெயர்வெளியை முன்னொட்டியாக உபயோகிக்கவும்."
+
+msgid  "search-nonefound"
+msgstr  "உங்கள் வினவலுக்கான முடிவுகள் எதுவும் இல்லை."
+
+msgid  "powersearch"
+msgstr  "மேம்படுத்தப்பட்ட தேடல்"
+
+msgid  "powersearch-legend"
+msgstr  "மேம்பட்ட தேடல்"
+
+msgid  "powersearch-ns"
+msgstr  "பெயர்வெளிகளில் தேடவும்"
+
+msgid  "powersearch-redir"
+msgstr  "வழிமாற்றுகளைப் பட்டியலிடவும்"
+
+msgid  "powersearch-field"
+msgstr  "தேடு"
+
+msgid  "powersearch-togglelabel"
+msgstr  "சரிபார்க்கவும்:"
+
+msgid  "powersearch-toggleall"
+msgstr  "அனைத்தும்"
+
+msgid  "powersearch-togglenone"
+msgstr  "ஏதுமில்லை"
+
+msgid  "search-external"
+msgstr  "வெளித்தேடல்"
+
+msgid  "searchdisabled"
+msgstr  "{{SITENAME}} தளத்தின் தேடல் வசதிகள் தற்காலிகமாக முடக்கப்பட்டுள்ளது. அதுவரை நீங்கள் கீழேயுள்ள கூகிள் தேடலைப் பயன்படுத்தலாம். இது சில சமயம் இற்றைப்படுத்தப்படாததாய் இருக்கக்கூடும்."
+
+msgid  "qbsettings"
+msgstr  "விரைவுச் சட்ட அமைவுகள்"
+
+msgid  "qbsettings-none"
+msgstr  "எதுவுமில்லை"
+
+msgid  "qbsettings-fixedleft"
+msgstr  "நிலைத்த இடது"
+
+msgid  "qbsettings-fixedright"
+msgstr  "நிலைத்த வலது"
+
+msgid  "qbsettings-floatingleft"
+msgstr  "மிதப்பு இடது"
+
+msgid  "qbsettings-floatingright"
+msgstr  "மிதப்பு வலது"
+
+msgid  "preferences"
+msgstr  "விருப்பங்கள்"
+
+msgid  "mypreferences"
+msgstr  "என் விருப்பத்தேர்வுகள்"
+
+msgid  "prefs-edits"
+msgstr  "தொகுப்புகளின் எண்ணிக்கை:"
+
+msgid  "prefsnologin"
+msgstr  "புகுபதிகை செய்யப்படவில்லை"
+
+msgid  "prefsnologintext"
+msgstr  "பயனர் விருப்பத்தேர்வுகளை அமைப்பதற்கு நீங்கள் <span class=\"plainlinks\">[{{fullurl:{{#Special:UserLogin}}|returnto=$1}} புகுபதிகை ]</span> செய்திருக்க வேண்டும்."
+
+msgid  "changepassword"
+msgstr  "கடவுச்சொல்லை மாற்று"
+
+msgid  "prefs-skin"
+msgstr  "தோல்"
+
+msgid  "skin-preview"
+msgstr  "முன்தோற்றம்"
+
+msgid  "prefs-math"
+msgstr  "கணிதம்"
+
+msgid  "datedefault"
+msgstr  "விருப்பத்தேர்வுகள் இல்லை"
+
+msgid  "prefs-datetime"
+msgstr  "நாள் நேரம்"
+
+msgid  "prefs-personal"
+msgstr  "பயனர் தரவு"
+
+msgid  "prefs-rc"
+msgstr  "அண்மைய மாற்றங்கள்"
+
+msgid  "prefs-watchlist"
+msgstr  "கவனிப்புப் பட்டியல்"
+
+msgid  "prefs-watchlist-days"
+msgstr  "கவனிப்புப் பட்டியலில் காட்டவேண்டிய நாட்கள்:"
+
+msgid  "prefs-watchlist-days-max"
+msgstr  "(அதிகபட்சம் 7 நாட்கள்)"
+
+msgid  "prefs-watchlist-edits"
+msgstr  "விரிவாக்கப்பட்ட கவனிப்புப் பட்டியலில் காட்டவேண்டிய தொகுப்புகளின் எண்ணிக்கை:"
+
+msgid  "prefs-watchlist-edits-max"
+msgstr  "(அதிகபட்ச எண்: 1000)"
+
+msgid  "prefs-watchlist-token"
+msgstr  "கவனிப்பு பட்டியலின் அடையாளம்:"
+
+msgid  "prefs-misc"
+msgstr  "பலதரப்பட்டவை"
+
+msgid  "prefs-resetpass"
+msgstr  "கடவுச்சொல்லை மாற்றுக"
+
+msgid  "prefs-email"
+msgstr  "மின்னஞ்சல் விருப்பத்தேர்வுகள்"
+
+msgid  "prefs-rendering"
+msgstr  "தோற்றம்"
+
+msgid  "saveprefs"
+msgstr  "சேமி"
+
+msgid  "resetprefs"
+msgstr  "சேமிக்காத மாற்றங்கள் நீக்குக"
+
+msgid  "restoreprefs"
+msgstr  "எல்லோருக்கும் பொதுவான வடிவமைப்பைத் திரும்பக்கொண்டுவரவும்."
+
+msgid  "prefs-editing"
+msgstr  "தொகுத்தல்"
+
+msgid  "prefs-edit-boxsize"
+msgstr  "தொகுக்கும் சாளரத்தின் அளவு."
+
+msgid  "rows"
+msgstr  "நிரைகள் (கிடை வரிசைகள்):"
+
+msgid  "columns"
+msgstr  "நிரல்கள்"
+
+msgid  "searchresultshead"
+msgstr  "தேடுக"
+
+msgid  "resultsperpage"
+msgstr  "ஒரு பக்கத்துக்குக் காட்டப்படவேண்டிய அடிகள்"
+
+msgid  "contextlines"
+msgstr  "அடித்தலொன்றுக்குக் காட்டப்பட வேண்டிய வரிகள்:"
+
+msgid  "contextchars"
+msgstr  "ஒரு வரிக்கான இடம்சார் எழுத்துக்கள்"
+
+msgid  "stub-threshold"
+msgstr  "<a href=\"#\" class=\"stub\">stub link</a> சீர்படுத்தலுக்கான எல்லை (பைட்டுகள்):"
+
+msgid  "stub-threshold-disabled"
+msgstr  "செயலிழக்கம் செய்யப்பட்டுள்ளது"
+
+msgid  "recentchangesdays"
+msgstr  "அண்மைய மாற்றங்களில் காட்ட வேண்டிய நாட்களின் எண்ணிக்கை:"
+
+msgid  "recentchangesdays-max"
+msgstr  "மிக அதிகமாக $1 {{PLURAL:$1|நாள்|நாட்கள்}}"
+
+msgid  "recentchangescount"
+msgstr  "மொத்த தொகுப்புக்களின் எண்ணிக்கையை தானகவே காட்ட:"
+
+msgid  "prefs-help-recentchangescount"
+msgstr  "அண்மைய மாற்றங்கள், பக்கத்தின் வரலாறுகள் மற்றும் குறிப்புக்களை உள்ளடக்கியதாகும்."
+
+msgid  "savedprefs"
+msgstr  "உங்கள் விருப்பத்தேர்வுகள் சேமிக்கப்பட்டுள்ளன."
+
+msgid  "timezonelegend"
+msgstr  "நேர வலயம்:"
+
+msgid  "localtime"
+msgstr  "உள்ளூர் நேரம்:"
+
+msgid  "timezoneuseserverdefault"
+msgstr  "வழங்கனின் எல்லோருக்கும் பொதுவானவற்றை பயன்படுத்தவும்"
+
+msgid  "timezoneuseoffset"
+msgstr  "மற்றவை (வித்தியாசத்தைக் குறிப்பிடவும்)"
+
+msgid  "timezoneoffset"
+msgstr  "நேர இடைவெளி¹:"
+
+msgid  "servertime"
+msgstr  "வழங்கன் நேரம்:"
+
+msgid  "guesstimezone"
+msgstr  "உலாவியிலிருந்து நிரப்பு"
+
+msgid  "timezoneregion-africa"
+msgstr  "ஆப்ரிக்கா"
+
+msgid  "timezoneregion-america"
+msgstr  "அமெரிக்கா"
+
+msgid  "timezoneregion-antarctica"
+msgstr  "அன்டார்க்டிக்கா"
+
+msgid  "timezoneregion-arctic"
+msgstr  "ஆர்க்டிக்"
+
+msgid  "timezoneregion-asia"
+msgstr  "ஆசியா"
+
+msgid  "timezoneregion-atlantic"
+msgstr  "அத்திலாந்திக் பெருங்கடல்"
+
+msgid  "timezoneregion-australia"
+msgstr  "ஆத்திரேலியா"
+
+msgid  "timezoneregion-europe"
+msgstr  "ஐரோப்பா"
+
+msgid  "timezoneregion-indian"
+msgstr  "இந்தியப் பெருங்கடல்"
+
+msgid  "timezoneregion-pacific"
+msgstr  "பசிபிக் பெருங்கடல்"
+
+msgid  "allowemail"
+msgstr  "ஏனைய பயனர்களிடம் இருந்தான மின்னஞ்சல்களை அனுமதி"
+
+msgid  "prefs-searchoptions"
+msgstr  "தேடல் விருப்பத் தேர்வுகள்"
+
+msgid  "prefs-namespaces"
+msgstr  "பெயர்வெளிகள்"
+
+msgid  "defaultns"
+msgstr  "அப்படியில்லையென்றால் இந்த பொயர்வெளிகளில் தேடவும்:"
+
+msgid  "default"
+msgstr  "பொதுவானது"
+
+msgid  "prefs-files"
+msgstr  "கோப்புகள்"
+
+msgid  "prefs-custom-css"
+msgstr  "தனிப்பட்ட சி.எசு.எசு (CSS)"
+
+msgid  "prefs-emailconfirm-label"
+msgstr  "மின்னஞ்சலை உறுதிசெய்தல்:"
+
+msgid  "prefs-textboxsize"
+msgstr  "தொகுக்கும் சாளரத்தின் அளவு"
+
+msgid  "youremail"
+msgstr  "மின்னஞ்சல்:"
+
+msgid  "username"
+msgstr  "பயனர் பெயர்:"
+
+msgid  "uid"
+msgstr  "பயனர்:"
+
+msgid  "prefs-memberingroups"
+msgstr  "பின்வரும் {{PLURAL:$1|குழு|குழுக்களில்}} உறுப்பினர்:"
+
+msgid  "prefs-registration"
+msgstr  "பதிவு செய்யும் நேரம்:"
+
+msgid  "yourrealname"
+msgstr  "உண்மைப் பெயர்:"
+
+msgid  "yourlanguage"
+msgstr  "மொழி:"
+
+msgid  "yournick"
+msgstr  "கையொப்பம்:"
+
+msgid  "badsig"
+msgstr  "செல்லுபடியற்ற கையொப்பம் எச்.டி.எம்.எல். நிரலைச் சரி பார்க்கவும்."
+
+msgid  "badsiglength"
+msgstr  "தங்களது கையெழுத்து மிக நீளமானது.\n\nஅது $1 {{PLURAL:$1|எழுத்து|எழுத்துக்களுக்கு}} மேல் இருக்கக்கூடாது."
+
+msgid  "yourgender"
+msgstr  "பால்:"
+
+msgid  "gender-unknown"
+msgstr  "குறிப்பிடப்படவில்லை"
+
+msgid  "gender-male"
+msgstr  "ஆண்"
+
+msgid  "gender-female"
+msgstr  "பெண்"
+
+msgid  "email"
+msgstr  "மின்னஞ்சல்"
+
+msgid  "prefs-help-realname"
+msgstr  "உண்மையான பெயர் கட்டாயமற்றது. நீங்கள் இதை கொடுத்தால் உங்கள் ஆக்கங்களுக்கான உரிமையளிப்புகளின் போது இது பயன்படும்."
+
+msgid  "prefs-help-email"
+msgstr  "மின்னஞ்சல் விருப்பத்தின் பேரில் ஆனால் உங்கள் கடவுச்சொல் உங்களுக்கு நினைவில்லையென்றால், புதிய கடவுச்சொல் ஒன்றை மின்னஞ்சல் மூலம் அனுப்ப வழிசெய்யும்.மேலும் உங்கள் பயனர் பக்கம் அல்லது பயனர் பேச்சுப் பக்கத்தில் இருந்து மற்ற பயனர்கள் உங்களுக்கு மின்னஞ்சல் அனுப்ப உதவும். எனினும் உங்கள் மின்னஞ்சல் முகவரி வெளிப்படுத்தப்பட மாட்டாது."
+
+msgid  "prefs-help-email-required"
+msgstr  "மின்னஞ்சல் முகவரி தேவை."
+
+msgid  "prefs-info"
+msgstr  "அடிப்படைச் செய்தி"
+
+msgid  "prefs-i18n"
+msgstr  "உலகமயமாக்குதல்"
+
+msgid  "prefs-signature"
+msgstr  "கையெழுத்து"
+
+msgid  "prefs-dateformat"
+msgstr  "தேதியின் வடிவமைப்பு"
+
+msgid  "prefs-timeoffset"
+msgstr  "நேர வித்தியாசம்"
+
+msgid  "prefs-advancedediting"
+msgstr  "மேம்பட்ட விருப்பத்தேர்வுகள்"
+
+msgid  "prefs-advancedrc"
+msgstr  "மேம்பட்ட விருப்பத்தேர்வுகள்"
+
+msgid  "prefs-advancedrendering"
+msgstr  "மேம்பட்ட விருப்பத்தேர்வுகள்"
+
+msgid  "prefs-advancedsearchoptions"
+msgstr  "மேம்பட்ட விருப்பத்தேர்வுகள்"
+
+msgid  "prefs-advancedwatchlist"
+msgstr  "மேம்பட்ட விருப்பத்தேர்வுகள்"
+
+msgid  "prefs-displayrc"
+msgstr  "விருப்பத்தேர்வுகளைக் காட்டு"
+
+msgid  "prefs-displaysearchoptions"
+msgstr  "விருப்பத்தேர்வுகளைக் காட்டு"
+
+msgid  "prefs-displaywatchlist"
+msgstr  "விருப்பத்தேர்வுகளைக் காட்டு"
+
+msgid  "prefs-diffs"
+msgstr  "வித்தியாசங்கள்"
+
+msgid  "userrights"
+msgstr  "பயனர் அனுமதி முகாமைத்துவம்"
+
+msgid  "userrights-lookup-user"
+msgstr  "பயனர்க் குழுக்களைப் பராமரி"
+
+msgid  "userrights-user-editname"
+msgstr  "பயனர் பெயரொன்றை இடுக:"
+
+msgid  "editusergroup"
+msgstr  "பயனர் குழுக்களை தொகு"
+
+msgid  "editinguser"
+msgstr  "'''[[User:$1|$1]]''' ([[User talk:$1|{{int:talkpagelinktext}}]]{{int:pipe-separator}}[[Special:Contributions/$1|{{int:contribslink}}]]) பயனருக்கான அனுமதிகளை மாற்றல்"
+
+msgid  "userrights-editusergroup"
+msgstr  "பயனர் குழுக்களை தொகு"
+
+msgid  "saveusergroups"
+msgstr  "பயனர் குழுக்களை சேமி"
+
+msgid  "userrights-groupsmember"
+msgstr  "அங்கத்துவம்:"
+
+msgid  "userrights-groupsmember-auto"
+msgstr  "தானகவே உடன்வரும் உறுப்பினர்:\n\nகூடவே வரும் உறுப்பினர்:"
+
+msgid  "userrights-groups-help"
+msgstr  "இப்பயனரின் குழுக்களை மாற்றலாம்:\n*குறிக்கப்பெற்றிருந்த பெட்டி ஒன்று இருந்தால் இந்தப் பயனர் இந்தக் குழுவில் உள்ளார் என்று பொருள்\n*பெட்டி குறிக்கப்பெறாமல் இருந்தால் இந்தப் பயனர் இந்தக்குழுவில் இல்லை என்று பொருள்\n*ஒரு * குறி இருந்தால் நீங்கள் இக்குழுவை சேர்த்தப் பின்னர் நீக்கவோ, நீக்கியிருப்பின் சேர்க்கவோ முடியாது"
+
+msgid  "userrights-reason"
+msgstr  "காரணம்:"
+
+msgid  "userrights-no-interwiki"
+msgstr  "ஏனைய விக்கிகளில் பயனர் உரிமைகளை மாற்றும் அனுமதி உங்களுக்குக் கிடையாது."
+
+msgid  "userrights-nodatabase"
+msgstr  "$1 தரவுத்தளம் கிடையாது அல்லது உள்ளக விக்கியில் கிடையாது."
+
+msgid  "userrights-nologin"
+msgstr  "பயனர் உரிமைகளை வழங்குவதற்கு நீங்கள் நிர்வாகி கணக்கில் [[Special:UserLogin|புகுபதிகை]] செய்ய வேண்டும்."
+
+msgid  "userrights-notallowed"
+msgstr  "பயனர் உரிமைகளை மாற்றும் அனுமதி உங்கள் பயனர் கணக்குக் கிடையாது."
+
+msgid  "userrights-changeable-col"
+msgstr  "நீங்கள் மாற்றக்கூடிய குழுக்கள்"
+
+msgid  "userrights-unchangeable-col"
+msgstr  "நீங்கள் மாற்ற முடியாத குழுக்கள்"
+
+msgid  "group"
+msgstr  "குழு:"
+
+msgid  "group-user"
+msgstr  "பயனர்கள்"
+
+msgid  "group-autoconfirmed"
+msgstr  "தானாக உறுதியளிக்கப்பட்ட பயனர்கள்"
+
+msgid  "group-bot"
+msgstr  "தானியங்கிகள்"
+
+msgid  "group-sysop"
+msgstr  "நிர்வாகிகள்"
+
+msgid  "group-bureaucrat"
+msgstr  "அதிகாரிகள்"
+
+msgid  "group-suppress"
+msgstr  "கவனக்குறைவுகள்"
+
+msgid  "group-all"
+msgstr  "(அனைத்து)"
+
+msgid  "group-user-member"
+msgstr  "பயனர்"
+
+msgid  "group-autoconfirmed-member"
+msgstr  "தானாக உறுதியளிக்கப்பட்ட பயனர்கள்"
+
+msgid  "group-bot-member"
+msgstr  "தானியங்கி"
+
+msgid  "group-sysop-member"
+msgstr  "நிர்வாகி"
+
+msgid  "group-bureaucrat-member"
+msgstr  "அதிகாரி"
+
+msgid  "group-suppress-member"
+msgstr  "கவனக்குறைவு"
+
+msgid  "grouppage-user"
+msgstr  "{{ns:project}}:பயனர்கள்"
+
+msgid  "grouppage-autoconfirmed"
+msgstr  "{{ns:project}}:தானாக உறுதியளிக்கப்பட்ட பயனர்கள்"
+
+msgid  "grouppage-bot"
+msgstr  "{{ns:project}}:தானியங்கிகள்"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:நிர்வாகிகள்"
+
+msgid  "grouppage-bureaucrat"
+msgstr  "{{ns:project}}:அதிகாரிகள்"
+
+msgid  "grouppage-suppress"
+msgstr  "{{ns:project}}: மேற்பார்வை"
+
+msgid  "right-read"
+msgstr  "பக்கங்களை வாசிக்க"
+
+msgid  "right-edit"
+msgstr  "பக்கங்களை தொகு"
+
+msgid  "right-createpage"
+msgstr  "பக்கங்களை உருவாக்கல் (உரையாடல் பக்கங்கள் அல்லாதவை)"
+
+msgid  "right-createtalk"
+msgstr  "உரையாடல் பக்கங்களைத் தொடங்கல்"
+
+msgid  "right-createaccount"
+msgstr  "புதிய பயனர் கணக்குகளை தொடங்கல்"
+
+msgid  "right-minoredit"
+msgstr  "தொகுப்புகளை சிறியதாக குறிக்க"
+
+msgid  "right-move"
+msgstr  "பக்கத்தை நகர்த்து"
+
+msgid  "right-move-subpages"
+msgstr  "துணைப் பக்கங்களுடன் பக்கத்தை நகர்த்தவும்"
+
+msgid  "right-move-rootuserpages"
+msgstr  "மூலப் பயனர் பக்கத்தை நகர்த்தவும்"
+
+msgid  "right-movefile"
+msgstr  "கோப்புக்களை நகர்த்தவும்"
+
+msgid  "right-suppressredirect"
+msgstr  "பக்கங்களை நகர்த்தும்பொழுது, மூலப்பக்கத்தில் இருந்து வழிமாற்றுகளை உருவாக்காதீர்"
+
+msgid  "right-upload"
+msgstr  "கோப்புகளைப் பதிவேற்றுக"
+
+msgid  "right-reupload"
+msgstr  "தற்போதுள்ள கோப்பை மேழெழுழுதுக"
+
+msgid  "right-reupload-own"
+msgstr  "இப்பொழுதுள்ள, யாரோ ஒருவர் தரவேற்றிய கோப்புகளை மீறி (அழித்து) எழுது"
+
+msgid  "right-upload_by_url"
+msgstr  "யூ.ஆர்.எல். ஒன்றிலிருந்து கோப்பை பதிவேற்றல்"
+
+msgid  "right-purge"
+msgstr  "உறுதிப்படுத்தல் பக்கமெதுவுமின்றி பக்க இடைமாற்றை நீக்கல்"
+
+msgid  "right-autoconfirmed"
+msgstr  "பகுதியாக காக்கப்பட்ட பக்கங்களை தொகுத்தல்"
+
+msgid  "right-delete"
+msgstr  "பக்கங்களை நீக்குக"
+
+msgid  "right-bigdelete"
+msgstr  "பெரிய வரலாற்றைக் கொண்ட பக்கங்களை நீக்கல்"
+
+msgid  "right-deleterevision"
+msgstr  "பக்கமொன்றின் குறித்த திருத்தங்களை நிக்கல் மீட்டல்"
+
+msgid  "right-browsearchive"
+msgstr  "நீக்கப்பட்ட பக்கங்களை தேடுக"
+
+msgid  "right-undelete"
+msgstr  "பக்கமொன்றை மீட்டெடுக்கவும்"
+
+msgid  "right-suppressionlog"
+msgstr  "தனிப்பட்ட பதிவுகளை பார்க்க"
+
+msgid  "right-block"
+msgstr  "ஏனைய பயனர்கள் தொகுப்பதை தடுக்கவும்"
+
+msgid  "right-blockemail"
+msgstr  "பயனர் மின்னஞ்சல் அனுப்புவதை தடுக்கவும்"
+
+msgid  "right-hideuser"
+msgstr  "பயனர்பெயரை தடுத்து, மறைக்கவும்"
+
+msgid  "right-editinterface"
+msgstr  "பயனர் இடைமுகப்பை தொகுக்கவும்"
+
+msgid  "right-rollback"
+msgstr  "கடைசி தொகுப்பை விரைவாக முன்னிலையாக்கல்"
+
+msgid  "right-markbotedits"
+msgstr  "முந்நிலையாக்கல்களை தானியக்க தொகுப்பாக குறிக்கவும்"
+
+msgid  "right-import"
+msgstr  "ஏனைய விக்கிகளிலிருந்து பக்கங்களை இறக்கவும்"
+
+msgid  "right-importupload"
+msgstr  "கோப்பு பதிவேற்றத்திலிருந்து பக்கங்களை இறக்கவும்"
+
+msgid  "right-patrol"
+msgstr  "தொகுப்புகளை ரோந்திட்டதாக குறிக்கவும்"
+
+msgid  "right-autopatrol"
+msgstr  "தொகுப்புகளை தானியக்கமாக ரோந்திடப்பட்டதாக குறித்தல்"
+
+msgid  "right-unwatchedpages"
+msgstr  "கவனிக்கப்படாத பக்கங்களின் பட்டியலைப் பார்த்தல்"
+
+msgid  "right-mergehistory"
+msgstr  "பக்கங்களின் வரலாற்றை இணைத்தல்"
+
+msgid  "right-userrights"
+msgstr  "எல்லாப் பயனர் உரிமைகளையும் தொகுக்கவும்"
+
+msgid  "right-userrights-interwiki"
+msgstr  "ஏனைய விக்கி தளங்களின் பயனர் உரிமைகளை தொகுத்தல்"
+
+msgid  "right-siteadmin"
+msgstr  "தரவுத்தளத்தை பூட்டல் திறத்தல்"
+
+msgid  "right-reset-passwords"
+msgstr  "பிற பயனர்களின் கடவுச் சொற்களை மீட்டமைக்கவும்"
+
+msgid  "right-sendemail"
+msgstr  "மற்ற பயனர்களுக்கு மின்னஞ்சல் அனுப்பு"
+
+msgid  "rightslog"
+msgstr  "பயனர் உரிமைகள் பதிகை"
+
+msgid  "rightslogtext"
+msgstr  "இது பயனர் உரிமைகள் தொடர்பான மாற்றங்களின் பதிகையாகும்."
+
+msgid  "rightslogentry"
+msgstr  "$1 பயனருக்கான குழு அங்கத்துவம் $2 குழுவிலிருந்து $3 குழுவிற்க்கு மாற்றப்பட்டது"
+
+msgid  "rightsnone"
+msgstr  "(எதுவுமில்லை)"
+
+msgid  "action-read"
+msgstr  "இப் பக்கத்தை வாசிக்கவும்"
+
+msgid  "action-edit"
+msgstr  "இப்பக்கத்தைத் தொகுக்கவும்"
+
+msgid  "action-createpage"
+msgstr  "பக்கங்களை உருவாக்கவும்"
+
+msgid  "action-createtalk"
+msgstr  "உரையாடல் பக்கங்களை உருவாக்கவும்"
+
+msgid  "action-createaccount"
+msgstr  "இந்தப் பயனர் கணக்கை உருவாக்கவும்"
+
+msgid  "action-minoredit"
+msgstr  "இந்த தொகுப்பை சிறுதொகுப்பு என்று குறிப்பிடவும்"
+
+msgid  "action-move"
+msgstr  "இந்தப் பக்கத்தை நகர்த்தவும்"
+
+msgid  "action-move-subpages"
+msgstr  "இந்தப் பக்கத்தையும் அதன் துணைப்பக்கங்களையும் நகர்த்தவும்"
+
+msgid  "action-move-rootuserpages"
+msgstr  "மூலப் பயனர் பக்கங்களை நகர்த்தவும்"
+
+msgid  "action-movefile"
+msgstr  "இந்தக் கோப்பை நகர்த்தவும்"
+
+msgid  "action-upload"
+msgstr  "இந்தக் கோப்பைப் பதிவிறக்கவும்"
+
+msgid  "action-reupload"
+msgstr  "தற்போதுள்ள கோப்பின் மேலெழுதுங்கள்"
+
+msgid  "action-upload_by_url"
+msgstr  "இக்கோப்பை ஓர் உரலியிலிருந்துப் பதிவேற்றவும்"
+
+msgid  "action-delete"
+msgstr  "இந்தப் பக்கத்தை நீக்கவும்"
+
+msgid  "action-deleterevision"
+msgstr  "இந்த மாற்றத்தை நீக்கவும்"
+
+msgid  "action-browsearchive"
+msgstr  "அழிக்கப்பட்ட  பக்கங்களை தேடு"
+
+msgid  "action-undelete"
+msgstr  "அழித்த பக்கத்தை மறுபடியும் கொண்டு வா"
+
+msgid  "action-suppressionlog"
+msgstr  "இத்தனிப் பதிகையைக் காணவும்"
+
+msgid  "action-block"
+msgstr  "இப்பயனரை மேலும் தொகுக்க அனுமதிக்க வேண்டாம்"
+
+msgid  "action-protect"
+msgstr  "இந்த பக்கத்திற்கான பாதுகாப்பு நிலைகளை மாற்றவும்"
+
+msgid  "action-import"
+msgstr  "மற்றொரு விக்கியில் இருந்து இப்பக்கத்தை இறக்குமதி செய்யவும்"
+
+msgid  "action-importupload"
+msgstr  "கோப்பு பதிவேற்றத்திலிருந்து இப்பக்கத்தை இறக்கவும்"
+
+msgid  "action-unwatchedpages"
+msgstr  "கவனிக்கப்படாத பக்கங்களின் பட்டியலைப் பார்க்க"
+
+msgid  "action-mergehistory"
+msgstr  "இப்பக்க வரலாற்றை இணைக்கவும்"
+
+msgid  "action-userrights"
+msgstr  "எல்லாப் பயனர் உரிமைகளையும் தொகுக்கவும்"
+
+msgid  "nchanges"
+msgstr  "{{PLURAL:$1|ஒரு மாற்றம்|$1 மாற்றங்கள்}}"
+
+msgid  "recentchanges"
+msgstr  "அண்மைய மாற்றங்கள்"
+
+msgid  "recentchanges-legend"
+msgstr  "அண்மைய மாற்றங்களின் தேர்வுகள்"
+
+msgid  "recentchangestext"
+msgstr  "இந்த விக்கிக்கு மிக அண்மையில் செய்யப்பட்ட மாற்றங்களை, இந்தப் பக்கத்தில் காணலாம்."
+
+msgid  "recentchanges-feed-description"
+msgstr  "இவ்வுள்ளீட்டில் இந்த விக்கியில் செய்யப்பட்ட் மிக அண்மைய மாற்றங்கள் கவனிக்கப்படுகின்றன."
+
+msgid  "recentchanges-label-newpage"
+msgstr  "இந்தத் தொகுப்பு ஒரு புதிய பக்கத்தை உருவாக்கியுள்ளது"
+
+msgid  "recentchanges-label-minor"
+msgstr  "இது ஒரு சிறு தொகுப்பு"
+
+msgid  "recentchanges-label-bot"
+msgstr  "இந்த தொகுப்பானது ஒரு தானியங்கியால் செய்யப்பட்டதாகும்"
+
+msgid  "recentchanges-label-unpatrolled"
+msgstr  "இந்த  தொகுப்பு  இன்னும் ரோந்திடப்படவில்லை"
+
+msgid  "rcnote"
+msgstr  "கீழே காணப்படுவது $4 ஆம் தேதி $5 மணிக்கு் உள்ளபடி கடைசி {{PLURAL:$2|24 மணிகளில்|'''$2''' நாட்களில்}} செய்யப்பட்ட {{PLURAL:$1|'''ஒரு''' மாற்றம்|'''$1''' கடைசி மாற்றங்கள்}} ஆகும்."
+
+msgid  "rcnotefrom"
+msgstr  "கீழே காணப்படுவது '''$2''' இலிருந்து செய்யப்பட்ட மாற்றங்களாகும் ('''$1''' வரைக் காட்டப்பட்டுள்ளது)."
+
+msgid  "rclistfrom"
+msgstr  "$1 தொடக்கம் செய்யப்பட்ட புதிய மாற்றங்களைக் காட்டவும்"
+
+msgid  "rcshowhideminor"
+msgstr  "சிறிய தொகுப்புகளை $1"
+
+msgid  "rcshowhidebots"
+msgstr  "தானியங்கிகளை $1"
+
+msgid  "rcshowhideliu"
+msgstr  "புகுபதிகை செய்த பயனர்களை $1"
+
+msgid  "rcshowhideanons"
+msgstr  "அடையாளம் காட்டாத பயனர்களை $1"
+
+msgid  "rcshowhidepatr"
+msgstr  "$1 கவனிக்கப்பட்ட தொகுப்புக்கள்"
+
+msgid  "rcshowhidemine"
+msgstr  "என் தொகுப்புகளை $1"
+
+msgid  "rclinks"
+msgstr  "கடைசி $2 நாட்களில் கடைசி $1 மாற்றங்களைக் காட்டு.<br />$3"
+
+msgid  "diff"
+msgstr  "வேறுபாடு"
+
+msgid  "hist"
+msgstr  "வரலாறு"
+
+msgid  "hide"
+msgstr  "மறை"
+
+msgid  "show"
+msgstr  "காட்டு"
+
+msgid  "minoreditletter"
+msgstr  "சி"
+
+msgid  "newpageletter"
+msgstr  "பு"
+
+msgid  "boteditletter"
+msgstr  "தா"
+
+msgid  "number_of_watching_users_pageview"
+msgstr  "[இப்பக்க்த்தை {{PLURAL:$1|ஒரு பயனர் பார்கிறார்|$1 பயனர்கள் பார்கிறார்கள்}}]"
+
+msgid  "rc_categories"
+msgstr  "பகுப்புகளுக்கு மட்டுப்படுத்து (\"|\" குறியீட்டால் பிரிக்கப்பட்டுள்ளது)"
+
+msgid  "rc_categories_any"
+msgstr  "ஏதாவது"
+
+msgid  "newsectionsummary"
+msgstr  "/* $1 */ புதிய பகுதி"
+
+msgid  "rc-enhanced-expand"
+msgstr  "விவரங்களைக் காட்டு (ஜாவாஸ்கிரிப்ட் தேவை)"
+
+msgid  "rc-enhanced-hide"
+msgstr  "விவரங்களை மறை"
+
+msgid  "recentchangeslinked"
+msgstr  "தொடர்பான மாற்றங்கள்"
+
+msgid  "recentchangeslinked-feed"
+msgstr  "தொடர்பான மாற்றங்கள்"
+
+msgid  "recentchangeslinked-toolbox"
+msgstr  "தொடர்பான மாற்றங்கள்"
+
+msgid  "recentchangeslinked-title"
+msgstr  "\"$1\" பக்கத்துடன் தொடர்புடைய மாற்றங்கள்"
+
+msgid  "recentchangeslinked-noresult"
+msgstr  "குறித்த நேரத்தில் இப்பக்கத்துடன் இணைக்கப்பட்ட பக்கங்களில் மாற்றங்கள் ஏதுமில்லை."
+
+msgid  "recentchangeslinked-summary"
+msgstr  "இந்த சிறப்புப் பக்கம் அண்மைய மாற்றங்களுக்குச் சென்று இந்தக் கட்டுரைக்கான மாற்றங்களைத் தேடுவதைத் தவிர்த்து, இந்தக் கட்டுரையுடன் தொடர்புடைய (அல்லது சிறப்புப் பட்டியலிலுள்ள அங்கத்தவர்களுக்கு) அண்மைய மாற்றங்களை மட்டும் பட்டியலிடுகிறது.இங்கு [[Special:Watchlist|உங்கள் கவனிப்புப் பட்டியலில்]] உள்ள பக்கங்கள் தடித்த எழுத்துக்களில் உள்ளன என்பதைக் கவனத்தில் கொள்ளவும்."
+
+msgid  "recentchangeslinked-page"
+msgstr  "பக்கப் பெயர்:"
+
+msgid  "recentchangeslinked-to"
+msgstr  "இதற்குப் பதிலாக இப்பக்கத்தினை இணைத்த பக்கங்களின் மாற்றங்களைக் காட்டவும்"
+
+msgid  "upload"
+msgstr  "கோப்பைப் பதிவேற்று"
+
+msgid  "uploadbtn"
+msgstr  "கோப்பைப் பதிவேற்று"
+
+msgid  "reuploaddesc"
+msgstr  "பதிவேற்றத்தை நிறுத்திவிட்டு பதிவேற்றும் படிவத்துக்கு மீளச் செல்க"
+
+msgid  "upload-tryagain"
+msgstr  "மாற்றம் செய்யப்பட்ட கோப்புத் தகவலைச் சமர்ப்பிக்கவும்"
+
+msgid  "uploadnologin"
+msgstr  "புகுபதிகை செய்யப்படவில்லை"
+
+msgid  "uploadnologintext"
+msgstr  "கோப்புகளைப் பதிவேற்றம் செய்வதற்கு நீங்கள் [[Special:UserLogin|புகுபதிகை]] செய்திருக்க வேண்டும்."
+
+msgid  "upload_directory_read_only"
+msgstr  "பதிவேற்ற அடைவு ($1) வழங்கனால் எழுதப்படமுடியாது."
+
+msgid  "uploaderror"
+msgstr  "பதிவேற்றத் தவறு"
+
+msgid  "uploadtext"
+msgstr  "கோப்புக்களை பதிவேற்ற பின்வரும் படிமத்தைப் பயன்படுத்தவும்.\nமுன்னர் பதிவேற்றம் செய்யப்பட்ட படிமங்களைப் பார்ப்பதற்கு அல்லது தேடுவதற்கு, [[Special:FileList|பதிவேற்றம் செய்யப்பட்ட படிமங்களின் பட்டிய]]லுக்குச் செல்லவும். பதிவேற்றங்களும் நீக்கல்களும் [[Special:Log/upload|பதிவேற்றப் பதிகையில்]] பதியப்பட்டுள்ளன.\n\nஉங்கள் கட்டுரைகளில் படிமங்களைச் சேர்ப்பதற்கு,\n'''<nowiki>[[</nowiki>{{ns:file}}<nowiki>:File.jpg]]</nowiki>''' அல்லது\n'''<nowiki>[[</nowiki>{{ns:file}}<nowiki>:File.png|படிம பற்றிய உரை]]</nowiki>''' இணைப்பு வடிவத்தையும், ஒளி,ஒலிக்கோப்புகளுக்கு '''<nowiki>[[</nowiki>{{ns:media}}<nowiki>:File.ogg]]</nowiki>''' இணைப்புவடிவத்தையும் பயன்படுத்தவும்."
+
+msgid  "upload-permitted"
+msgstr  "அனுமதிக்கப்பட்ட கோப்பு வகைகள்: $1."
+
+msgid  "upload-preferred"
+msgstr  "விரும்பத்தக்க கோப்பு வகைகள்: $1."
+
+msgid  "upload-prohibited"
+msgstr  "தடைச் செய்யப்பட்ட கோப்பு வகைகள்: $1."
+
+msgid  "uploadlog"
+msgstr  "பதிவேற்றப் பதிகை"
+
+msgid  "uploadlogpage"
+msgstr  "பதிவேற்றப் பதிகை"
+
+msgid  "uploadlogpagetext"
+msgstr  "கீழேயுள்ளது மிக அண்மையில் பதிவேற்றம் செய்யப்பட்ட கோப்புகளின் பட்டியலாகும்.\nமேலும் விவரங்கள் அறிய, [[Special:NewFiles|புதிய கோப்புகள் பக்கத்தைப்]] பார்க்கவும்."
+
+msgid  "filename"
+msgstr  "கோப்புப் பெயர்"
+
+msgid  "filedesc"
+msgstr  "சுருக்கம்"
+
+msgid  "fileuploadsummary"
+msgstr  "சுருக்கம்:"
+
+msgid  "filereuploadsummary"
+msgstr  "கோப்பில் செய்யப்பட்ட மாற்றங்கள்:"
+
+msgid  "filestatus"
+msgstr  "பதிப்புரிமை நிலை:"
+
+msgid  "filesource"
+msgstr  "மூலம்:"
+
+msgid  "uploadedfiles"
+msgstr  "பதிவேற்றப்பட்டக் கோப்புகள்"
+
+msgid  "ignorewarning"
+msgstr  "எச்சரிக்கையை சட்டை செய்யாமல் கோப்பை சேமி"
+
+msgid  "ignorewarnings"
+msgstr  "எச்சரிக்கைகளை புறக்கணி"
+
+msgid  "minlength1"
+msgstr  "கோப்பின் பெயர் ஆகக் குறைந்தது ஒரு எழுத்தையாவது கொண்டிருக்க வேண்டும்."
+
+msgid  "illegalfilename"
+msgstr  "கோப்பின் பெயரில் தலைப்புக்களில் அனுமதிக்கப்படாத எழுத்துரு \"$1\" காணப்படுகிறது. கோப்பிற்கு வேறு பெயரொன்றை இட்டு மீண்டும் முயல்க."
+
+msgid  "badfilename"
+msgstr  "படிமப் பெயர் \"$1\" ஆக மாற்றப்பட்டுள்ளது."
+
+msgid  "filetype-badmime"
+msgstr  "\"$1\" வகைப் பலநோக்கு இணைய அஞ்சல் நீட்சிக் கோப்புகள் பதிவேற்ற அனுமதிகப்படுவதில்லை."
+
+msgid  "filetype-unwanted-type"
+msgstr  "'''\".$1\"''' தேவையற்ற கோப்பு வகையாகும்.\nவிரும்பப்படும் {{PLURAL:$3|கோப்புவகை|கோப்புவகைகள்}} $2 என்பது(வை) ஆகும்."
+
+msgid  "filetype-banned-type"
+msgstr  "'''\".$1\"''' அனுமதிக்கப்படாத கோப்பு வகையாகும்.\nஅனுமதிக்கப்பட்ட {{PLURAL:$3|கோப்புவகை|கோப்புவகைகள்}} $2 என்பது(வை) ஆகும்."
+
+msgid  "filetype-missing"
+msgstr  "இந்தக் கோப்பு நீட்சையைக் (எ+கா \".jpg\") கொண்டிருக்கவில்லை."
+
+msgid  "empty-file"
+msgstr  "தாங்கள் சமர்ப்பித்த கோப்பில் ஒன்றுமில்லை."
+
+msgid  "file-too-large"
+msgstr  "தாங்கள் சமர்ப்பித்த கோப்பு மிகப்பெரியது."
+
+msgid  "filename-tooshort"
+msgstr  "தாங்கள் சமர்ப்பித்த கோப்பு மிகவும் சிறியது."
+
+msgid  "filetype-banned"
+msgstr  "இந்த வகையான கோப்பு தடை செய்யப்பட்டுள்ளது."
+
+msgid  "verification-error"
+msgstr  "இந்த கோப்பு, கோப்பின் சரிபார்ப்பிற்கான சோதனையில் வெற்றியடையவில்லை."
+
+msgid  "illegal-filename"
+msgstr  "கோப்பின் பெயரை கொடுக்கமுடியாது."
+
+msgid  "overwrite"
+msgstr  "முன்பே உள்ள கோப்பின் மேல் எழுத அனுமதியில்லை."
+
+msgid  "unknown-error"
+msgstr  "இனம் தெரியாத ஒரு தவறு நிகழ்ந்துவிட்டது"
+
+msgid  "tmp-create-error"
+msgstr  "தற்காலிக கோப்பினை உருவாக்க முடியவில்லை."
+
+msgid  "tmp-write-error"
+msgstr  "தற்காலிக கோப்பினை எழுதும் போது ஏற்பட்டத்தவறு."
+
+msgid  "large-file"
+msgstr  "பரிந்துரைகப்படும் கோப்புகளின் உச்ச அளவு  $1; இந்தக் கோப்பின் அளவு $2."
+
+msgid  "largefileserver"
+msgstr  "வழங்கனால் ஏற்கக் கூடிய உச்ச அளவு கோப்பைவிட இக்கோப்பு பெரியதாகும்."
+
+msgid  "emptyfile"
+msgstr  "நீங்கள் பதிவேற்றிய கோப்பு வெற்றாக உள்ளது. இது கோப்பின் பெயரை பிழையாக தட்டச்சிட்டத்தக காரணமாக ஏற்பட்டிருக்கலாம். அருள் கூர்ந்து இக்கோப்பை நீங்கள் பதிவேற்ற வேண்டுமாக என்பதைக் கருதவும்."
+
+msgid  "fileexists"
+msgstr  "இப்பெயரைக் கொண்ட கோப்பொன்று ஏற்கனவே உள்ளது.\nஅந்தக் கோப்பை மாற்றப்போகிறீர்கள் என்பதில் உங்களுக்கு நிச்சயமில்லாவிடில் அருள் கூர்ந்து '''<tt>[[:$1]]</tt>''' கோப்பை ஒரு முறை பார்க்கவும்.\n[[$1|thumb]]"
+
+msgid  "filepageexists"
+msgstr  "இக்கோப்பிற்கான விளக்கப்பக்கம் '''<tt>[[:$1]]</tt>''' பக்கத்தில் ஏற்கனவே உருவாக்கப்பட்டுள்ளது, ஆனால் இப்பெயரில் கோப்பு ஒன்றில்லை. இங்கே நீங்கள் கொடுக்கும் சுருக்கம் விளக்கப்பக்கத்தில் தானியக்கமாக இணைக்கப்பட மாட்டது. சுருக்கத்தை விளக்கப்பக்கத்தில் காணச் செய்வதற்காக அப்பக்கத்தை நேரடியாக தொகுக்க வேண்டியிருக்கும்.\n[[$1|thumb]]"
+
+msgid  "fileexists-extension"
+msgstr  "இப்பெயரைக் கொண்ட கோப்பு ஏற்கனவே உள்ளது: [[$2|thumb]]\n* பதிவேற்றப்படும் கோப்பின் பெயர்: '''<tt>[[:$1]]</tt>'''\n* ஏற்கனவே உள்ளக் கோப்பின் பெயர்: '''<tt>[[:$2]]</tt>'''\nஅருள் கூர்ந்து வேறு பெயரைத் தெரிவுச் செய்யவும்."
+
+msgid  "fileexists-thumbnail-yes"
+msgstr  "இந்தக் கோப்பு அளவில் சிறியதாக்கப்பட்ட படிமம் போலத் தோன்றுகிறது. [[$1|thumb]]\nஅருள் கூர்ந்து '''<tt>[[:$1]]</tt>''' கோப்பை ஒரு முறை பார்க்கவும்.\nநீங்கள் பார்த படிமமும் பதிவேற்ற எத்தனிக்கும் படிமமு ஒன்றாயின் அதன் சிறிய படிமத்தை மீண்டும் பதிவேற்றத் தேவையில்லை."
+
+msgid  "file-thumbnail-no"
+msgstr  "இக்கோப்பின் பெயர் '''<tt>$1</tt>''' என்பதில் தொடங்குகிறது.\nஇந்தக் கோப்பு அளவில் சிறியதாக்கப்பட்ட படிமம் போலத் தோன்றுகிறது ''(thumbnail)''.\nஇப்படிமத்தின் முழு அளவிலான படிமம் உங்களிடமிருப்பின் அதைப் பதிவேற்றவும் அல்லது தயவுசெய்து கோப்பின் பெயரை மாற்றவும்."
+
+msgid  "fileexists-forbidden"
+msgstr  "இப்பெயரைக் கொண்ட கோப்பு ஏற்கனவே உள்ளது. தாங்கள் இக்கோப்பினை கட்டாயமாக பதிவேற்றம் செய்ய வேண்டும் என்றால் தாங்கள் சிறிது பின்நோக்கிச்சென்று கோப்பிற்கு புதிய பெயர் அளித்து பதிவேற்றம் செய்யவும். \n\n[[File:$1|thumb|center|$1]]"
+
+msgid  "fileexists-shared-forbidden"
+msgstr  "இப்பெயரைக் கொண்ட கோப்பு ஏற்கனவே பொதுக் கோப்பகத்தில் உள்ளது; நீங்கள் தவறாது இக்கோப்பைப் பதிவேற்ற வேண்டுமென்றால் அருள் கூர்ந்து வேறு பெயரின் கீழ் பதிவேற்றவும்.[[File:$1|thumb|center|$1]]"
+
+msgid  "file-exists-duplicate"
+msgstr  "கீழ்காணும் கோப்புக்கள் இந்த கோப்பை போலவே இருக்கின்றன.  {{PLURAL:$1|கோப்பு|கோப்புக்கள்}}:"
+
+msgid  "uploadwarning"
+msgstr  "பதிவேற்றல் எச்சரிக்கை"
+
+msgid  "uploadwarning-text"
+msgstr  "கீழுள்ள கோப்புச் சுருக்கத்தை மாற்றி விட்டு மீண்டும் சமர்ப்பியுங்கள்"
+
+msgid  "savefile"
+msgstr  "கோப்பைச் சேமி"
+
+msgid  "uploadedimage"
+msgstr  "\"[[$1]]\" பதிவேற்றப்பட்டது"
+
+msgid  "overwroteimage"
+msgstr  "\"[[$1]]\" கோப்பின் புதிய பதிப்பை பதிவேற்று"
+
+msgid  "uploaddisabled"
+msgstr  "பதிவேற்றம் செயலிழக்கச் செய்யப்பட்டுள்ளது"
+
+msgid  "uploadfromurl-queued"
+msgstr  "தங்களுடைய பதிவேற்றம் வரிசையில் உள்ளது."
+
+msgid  "uploaddisabledtext"
+msgstr  "கோப்பு பதிவேற்றங்கள் செயலிழக்கச் செய்யப்பட்டுள்ளன."
+
+msgid  "uploadscripted"
+msgstr  "இந்தக் கோப்பு உலாவியால் பிழையாக விளங்கிக் கொள்ளக்கூடிய எச்.டி.எம்.எல். அல்லது வேறு நிரல்களைக் கொண்டுள்ளது."
+
+msgid  "uploadvirus"
+msgstr  "கோப்பு நச்சுநிரலைக் (வைரஸ்) கொண்டுள்ளது! விபரங்கள்:$1"
+
+msgid  "upload-source"
+msgstr  "மூலக்கோப்பு"
+
+msgid  "sourcefilename"
+msgstr  "மூலக் கோப்பின் பெயர்*"
+
+msgid  "sourceurl"
+msgstr  "மூலத்தின் இணைய முகவரி"
+
+msgid  "destfilename"
+msgstr  "இலக்குக் கோப்பின் பெயர்:"
+
+msgid  "upload-maxfilesize"
+msgstr  "மிககூடிய கோப்பின் அளவு: $1"
+
+msgid  "upload-description"
+msgstr  "கோப்பின் விவரம்"
+
+msgid  "upload-options"
+msgstr  "விருப்பத்தேர்வுகளை பதிவேற்றவும்"
+
+msgid  "watchthisupload"
+msgstr  "இந்த கோப்பினைக் கவனி"
+
+msgid  "filewasdeleted"
+msgstr  "இப்பெயரைக் கொண்ட கோப்பு முன்பு பதிவேற்றப்பட்டு பின்னர் நீக்கப்பட்டது. பதிவேற்றத்துக்குப் முன்னர் $1 ஐச் சரிபார்க்கவும்."
+
+msgid  "upload-wasdeleted"
+msgstr  "'''எச்சரிக்கை: ஏற்கனவே நீக்கப்பட்ட கோப்பொன்றை பதிவேற்ற எத்தனிக்கிறீர்கள்.'''\n\nஇக்கோப்பை பதிவேற்றுவது சரியா என்பதைக் கருதவும்.\nஉங்கள் வசதிக்காக இக்கோப்பிற்காக நீக்கல் பதிவு தரப்பட்டுள்ளது:"
+
+msgid  "filename-bad-prefix"
+msgstr  "நீங்கள் பதிவேற்ற எத்தனிக்கும் கோப்பின் பெயர் '''\"$1\"''' என்பதுடன் தொடங்குகிறது, பொதுவாக இது எண்மருவி கமெராக்கலால் தானியக்கமாக வழங்கப்புடும் பெயராகும். அருள் கூர்ந்து கோப்பிற்கு விளக்கமான பெயரொன்றைக் கொடுக்கவும்."
+
+msgid  "upload-success-subj"
+msgstr  "வெற்றிகரமான பதிவேற்றம்"
+
+msgid  "upload-failure-subj"
+msgstr  "பதிவேற்றத்தில் ஏற்பட்டத் தொல்லை"
+
+msgid  "upload-warning-subj"
+msgstr  "பதிவேற்றல் எச்சரிக்கை"
+
+msgid  "upload-proto-error"
+msgstr  "பிழையான நெறி"
+
+msgid  "upload-proto-error-text"
+msgstr  "தொலைவுப் பதிவேற்றத்துக்கு யு.ஆர்.எல். <code>http://</code> அல்லது <code>ftp://</code> என்ற முன்னொட்டுடன் தொடங்கவேண்டும்."
+
+msgid  "upload-file-error"
+msgstr  "உள்ளகத் தவறு"
+
+msgid  "upload-file-error-text"
+msgstr  "வழங்கனில் தற்காலிக கோப்பை உருவாக்க முயற்சித்த போது உள்ளகத் தவறொன்று ஏற்பட்டுவிட்டது. அருள் கூர்ந்து [[Special:ListUsers/sysop|முறைமைச் செயற்படுத்துநரை]] அணுகவும்."
+
+msgid  "upload-misc-error"
+msgstr  "இனந்தெரியாத பதிவேற்றல் தவறு"
+
+msgid  "upload-unknown-size"
+msgstr  "தெரியாத அளவு"
+
+msgid  "img-auth-accessdenied"
+msgstr  "அனுமதி மறுக்கப்பட்டது"
+
+msgid  "upload-curl-error6"
+msgstr  "இணைய முகவரியை அடைய முடியவில்லை"
+
+msgid  "upload-curl-error6-text"
+msgstr  "கொடுக்கப்பட்ட யூ.ஆர்.எல்.லை அடைய முடியவில்லை. அருள் கூர்ந்து யூ.ஆர்.எல்.லை இரு முறை சரிபார்த்து தளம் செயற்படுகிறாதா என்பதையும் உறுதிப்படுத்தவும்."
+
+msgid  "upload-curl-error28"
+msgstr  "பதிவேற்ற நேரம் கடந்துவிட்டது"
+
+msgid  "upload-curl-error28-text"
+msgstr  "இத்தளம் பதில் கொடுக்க நீண்ட நேரம் எடுத்தது. அருள் கூர்ந்து இணையத் தளம் செயல்படுகிறதா என்பதை பார்த்து மீண்டும் முயல்க. அல்லது இணைய நெரிசல் குறைவான நேரத்தில் முயலவும்"
+
+msgid  "license"
+msgstr  "அனுமதி:"
+
+msgid  "license-header"
+msgstr  "அனுமதி"
+
+msgid  "nolicense"
+msgstr  "தெரிவுச் செய்யப்படவில்லை"
+
+msgid  "license-nopreview"
+msgstr  "(முன்தோற்றம் கையிலிருப்பில் இல்லை)"
+
+msgid  "upload_source_url"
+msgstr  " (செல்லுபடியான, இணைய முகவரி)"
+
+msgid  "upload_source_file"
+msgstr  " (உங்கள் கணணியில் உள்ள கோப்பு)"
+
+msgid  "listfiles_search_for"
+msgstr  "பின்வரும் பெயருள்ள ஊடகக் கோப்பைத் தேடு:"
+
+msgid  "imgfile"
+msgstr  "கோப்பு"
+
+msgid  "listfiles"
+msgstr  "படிமங்களின் பட்டியல்"
+
+msgid  "listfiles_date"
+msgstr  "தேதி"
+
+msgid  "listfiles_name"
+msgstr  "பெயர்"
+
+msgid  "listfiles_user"
+msgstr  "பயனர்"
+
+msgid  "listfiles_size"
+msgstr  "அளவு"
+
+msgid  "listfiles_description"
+msgstr  "விளக்கம்"
+
+msgid  "listfiles_count"
+msgstr  "பதிப்புக்கள்"
+
+msgid  "file-anchor-link"
+msgstr  "கோப்பு"
+
+msgid  "filehist"
+msgstr  "கோப்பு வரலாறு"
+
+msgid  "filehist-help"
+msgstr  "குறித்த நேரத்தில் இருந்த படிமத்தைப் பார்க்க அந்நேரத்தின் மீது சொடுக்கவும்."
+
+msgid  "filehist-deleteall"
+msgstr  "சகலதையும் நீக்கு"
+
+msgid  "filehist-deleteone"
+msgstr  "நீக்குக"
+
+msgid  "filehist-revert"
+msgstr  "முன்நிலையாக்கு"
+
+msgid  "filehist-current"
+msgstr  "தற்போதைய"
+
+msgid  "filehist-datetime"
+msgstr  "நாள்/நேரம்"
+
+msgid  "filehist-thumb"
+msgstr  "நகம் அளவு சிறுபடம்"
+
+msgid  "filehist-thumbtext"
+msgstr  "$1 -ல் இருந்த பதிப்பின் சிறு தோற்றம்"
+
+msgid  "filehist-nothumb"
+msgstr  "சிறுதோற்றம் இல்லை"
+
+msgid  "filehist-user"
+msgstr  "பயனர்"
+
+msgid  "filehist-dimensions"
+msgstr  "அளவுகள்"
+
+msgid  "filehist-filesize"
+msgstr  "கோப்பின் அளவு"
+
+msgid  "filehist-comment"
+msgstr  "கருத்து"
+
+msgid  "filehist-missing"
+msgstr  "கோப்பைக் காணவில்லை"
+
+msgid  "imagelinks"
+msgstr  "கோப்பு இணைப்புகள்"
+
+msgid  "linkstoimage"
+msgstr  "பின்வரும் {{PLURAL:$1|பக்க இணைப்புகள்|$1 பக்கங்கள் இணைப்பு}}\nஇப் படிமத்துக்கு இணைக்கபட்டுள்ளது(ளன):"
+
+msgid  "nolinkstoimage"
+msgstr  "இப் படிமத்துக்கு இணைக்கப்பட்டுள்ள பக்கங்கள் எதுவும் இல்லை."
+
+msgid  "sharedupload"
+msgstr  "இக்கோப்பு $1 இல் இருநது, இதனை ஏனைய திட்டங்களிலும் பயன்படுத்தப்படலாம்."
+
+msgid  "sharedupload-desc-here"
+msgstr  "$1-ல் இருக்கும் இக்கோப்பை மற்ற திட்டங்களிலும் பயன்படுத்தப்படலாம்.\nஇதனைப் [$2 கோப்பின் விவரப்பக்கம்] பற்றிய விவரங்கள் கீழே கொடுக்கப்பட்டுள்ளது."
+
+msgid  "filepage-nofile"
+msgstr  "இப்பெயரில் ஒரு கோப்பும் இல்லை."
+
+msgid  "filepage-nofile-link"
+msgstr  "இப்பெயரில் ஒரு கோப்பும் இல்லை, ஆனால் நீங்கள் [$1 ஐ தரவேற்றலாம்]"
+
+msgid  "uploadnewversion-linktext"
+msgstr  "இப்படிமத்தின் புதிய பதிப்பை பதிவேற்று"
+
+msgid  "shared-repo-from"
+msgstr  "$1-ல் இருந்து"
+
+msgid  "shared-repo"
+msgstr  "பகிர்ந்து பயன்கொள் வைப்பகம்"
+
+msgid  "filerevert"
+msgstr  "$1 ஐ முன்நிலையாக்கு"
+
+msgid  "filerevert-legend"
+msgstr  "கோப்பை முன்நிலையாக்கு"
+
+msgid  "filerevert-intro"
+msgstr  "நீங்கள் [$3, $2 இன் திருத்தம் $4க்கு] '''[[Media:$1|$1]]''' ஊடகத்தை முன்நிலையாக்குகிறீர்கள்."
+
+msgid  "filerevert-comment"
+msgstr  "காரணம்:"
+
+msgid  "filerevert-defaultcomment"
+msgstr  "$2, $1 இல் உள்ளபடியான பதிப்புக்கு முன்நிலையாக்கப்பட்டது"
+
+msgid  "filerevert-submit"
+msgstr  "முன்நிலையாக்கு"
+
+msgid  "filerevert-success"
+msgstr  "ஊடகம் '''[[Media:$1|$1]]''' $3, $2 இல் உள்ளபடியான $4 பதிப்புக்கு முன்நிலையாக்கப்பட்டது."
+
+msgid  "filerevert-badversion"
+msgstr  "குறித்த நேர முத்திரையுடன் கூடிய முந்தைய உள்ளக திருத்தங்கள் காணப்படவில்லை."
+
+msgid  "filedelete"
+msgstr  "$1 கோப்பை நீக்கு"
+
+msgid  "filedelete-legend"
+msgstr  "கோப்பை நீக்கு"
+
+msgid  "filedelete-intro"
+msgstr  "தாங்கள், '''[[Media:$1|$1]]''' - இந்த கோப்பினை அதன் வரலாற்றுடன் நீக்க முயற்சி செய்கிறீர்கள்"
+
+msgid  "filedelete-intro-old"
+msgstr  "'''[[Media:$1|$1]]''' என்றப் பெயருள்ள ஊடகத்தின் [$4 $3, $2] இல் உள்ளப் படியான பதிப்பை நீக்குகிறீர்கள்."
+
+msgid  "filedelete-comment"
+msgstr  "காரணம்:"
+
+msgid  "filedelete-submit"
+msgstr  "நீக்கவும்"
+
+msgid  "filedelete-success"
+msgstr  "'''$1''' நீக்கப்பட்டுவிட்டது."
+
+msgid  "filedelete-success-old"
+msgstr  "'''[[Media:$1|$1]]''' கோப்பின் $3, $2 இல் உள்ளபடியான பதிப்பு நீக்கப்பட்டது."
+
+msgid  "filedelete-nofile"
+msgstr  "'''$1''' காணப்படவில்லை."
+
+msgid  "filedelete-nofile-old"
+msgstr  "கொடுக்கப்பட்ட பண்புகளுடன் '''$1''' பக்கத்திற்கான பரண் திருத்தங்கள் காணப்படவில்லை."
+
+msgid  "filedelete-otherreason"
+msgstr  "வேறு மேலதிக காரணம்:"
+
+msgid  "filedelete-reason-otherlist"
+msgstr  "வேறு காரணம்"
+
+msgid  "filedelete-reason-dropdown"
+msgstr  "*பொதுவான நீக்கல் காரணங்கள்\n** காப்புரிமை மீறப்பட்டமை\n** இன்னொரு படிமம் உள்ளது"
+
+msgid  "filedelete-edit-reasonlist"
+msgstr  "நீக்கல் காரணங்களைத் தொகு"
+
+msgid  "mimesearch"
+msgstr  "பலநோக்கு இணைய அஞ்சல் நீட்சித் தேடல்"
+
+msgid  "mimesearch-summary"
+msgstr  "இப்பக்கம் பலநோக்கு இணைய அஞ்சல் நீட்சி வகையின் படி கோப்புக்களை வடிக்கட்ட உதவுகிறது. உள்ளீடு:உள்ளடக்க வகை/உபவகை, எ+கா <tt>image/jpeg</tt>."
+
+msgid  "mimetype"
+msgstr  "பலநோக்கு இணைய அஞ்சல் நீட்சி வகை:"
+
+msgid  "download"
+msgstr  "தரவிறக்கு"
+
+msgid  "unwatchedpages"
+msgstr  "கவனிக்கப்படாத பக்கங்கள்"
+
+msgid  "listredirects"
+msgstr  "வழிமாற்றிகளின் பட்டியல்"
+
+msgid  "unusedtemplates"
+msgstr  "பயன்படுத்தப்படாத வார்ப்புருக்கள்"
+
+msgid  "unusedtemplatestext"
+msgstr  "இப்பக்கம் வேறு பக்கங்களில் பயன்படுத்தப்படாத {{ns:template}} பெயர்வெளிப் பக்கங்களை பட்டியலிடுகிறது. இவ்வார்ப்புருக்களை நீக்கு முன்னர் வார்ப்புருவுக்கான ஏனைய இணைப்புக்களையும் ஒரு முறை சரி பார்க்கவும்."
+
+msgid  "unusedtemplateswlh"
+msgstr  "ஏனைய இணைப்புகள்"
+
+msgid  "randompage"
+msgstr  "குறிப்பில்வழிப் பக்கம்"
+
+msgid  "randompage-nopages"
+msgstr  "இந்த {{PLURAL:$2|namespace|பெயர்வெளிகளில்}}: $1 பக்கங்கள் எதுவுமில்லை."
+
+msgid  "randomredirect"
+msgstr  "குறிப்பில்வழி வழிமாற்று"
+
+msgid  "randomredirect-nopages"
+msgstr  "\"$1\" பெயர்வெளியில் வழிமாற்றுப் பக்கங்கள் எதுவுமில்லை."
+
+msgid  "statistics"
+msgstr  "புள்ளிவிவரங்கள்"
+
+msgid  "statistics-header-pages"
+msgstr  "பக்கங்களின் புள்ளிவிவரங்கள்"
+
+msgid  "statistics-header-edits"
+msgstr  "தொகுப்புக்கள் பற்றிய புள்ளிவிவரங்கள்"
+
+msgid  "statistics-header-views"
+msgstr  "எத்தனைத்தடவை பார்க்கப்பட்டது எனபது பற்றிய புள்ளிவிவரங்கள்"
+
+msgid  "statistics-header-users"
+msgstr  "பயனர் புள்ளி விபரங்கள்"
+
+msgid  "statistics-header-hooks"
+msgstr  "மற்ற புள்ளிவிவரங்கள்"
+
+msgid  "statistics-articles"
+msgstr  "உள்ளடக்கம் கொண்ட பக்கங்கள்"
+
+msgid  "statistics-pages"
+msgstr  "பக்கங்கள்"
+
+msgid  "statistics-files"
+msgstr  "பதிவேற்றப்பட்டக் கோப்புகள்"
+
+msgid  "statistics-edits-average"
+msgstr  "ஒரு பக்கத்திற்கான சராசரி தொகுப்புக்கள்"
+
+msgid  "statistics-views-total"
+msgstr  "பார்வையிடப்பட்டதின் மொத்த எண்ணிக்கை"
+
+msgid  "statistics-views-peredit"
+msgstr  "ஒரு தொகுத்தலுக்காக பார்க்கப்பட்ட எண்ணிக்கை"
+
+msgid  "statistics-users"
+msgstr  "பதிவு செய்யப்பட்ட [[Special:ListUsers|பயனர்கள்]]"
+
+msgid  "statistics-users-active"
+msgstr  "தொடர் பங்களிப்பாளர்கள் (பயனர்கள்)"
+
+msgid  "statistics-users-active-desc"
+msgstr  "கடந்த {{PLURAL:$1|நாள்|$1 நாட்களில்}} ஒன்று அல்லது அதற்கு மேற்பட்ட செயலைச் செய்த பயனர்கள்"
+
+msgid  "statistics-mostpopular"
+msgstr  "அதிகம் பார்க்கப்பட்ட பக்கங்கள்"
+
+msgid  "disambiguations"
+msgstr  "பக்கவழி நெறிப்படுத்தல் பக்கங்கள்"
+
+msgid  "disambiguationspage"
+msgstr  "Template:பக்கவழி நெறிப்படுத்தல்"
+
+msgid  "disambiguations-text"
+msgstr  "பின்வரும் பக்கங்கள் '''பக்கவழி நெறிப்படுத்தல் பக்கத்துக்கு''' இணைக்கப்பட்டுள்ளன. மாறாக இவை பொருத்தமன தலைப்பிற்கு இணைக்கப்பட வேண்டும். <br />[[MediaWiki:Disambiguationspage|பக்கவழி நெறிப்படுத்தல் பக்கங்கத்தில்]] உள்ள வார்ப்புரு இணைக்கப்பட்ட பக்கங்கள்  பக்கவழி நெறிப்படுத்தல் பக்கங்கள் என் கருதப்படும்."
+
+msgid  "doubleredirects"
+msgstr  "இரட்டை வழிமாற்றுகள்"
+
+msgid  "doubleredirectstext"
+msgstr  "இந்தப் பட்டியல் போலியான நேர்மதிப்புக்களைக் கொண்டிருக்கக்கூடும். இது வழக்கமாக, இணைப்புடன் கூடிய மேலதிக உரை முதலாவது #வழிமாற்றுக்குக் கீழ் இருப்பதைக் குறிக்கும்.ஒவ்வொரு வரியும், முதலாம் இரண்டாம் வழிமாற்றுகளுக்கு இணைப்புகளைக் கொண்டிருப்பதுடன், இரண்டாவது வழிமாற்று உரையின் முதல் வரிக்கும் இணைப்பைக் கொண்டிருக்கும், இது வழக்கமாக முதலாவது வழிமாற்று குறித்துக் காட்ட வேண்டிய \"உண்மையான\" இலக்குக் கட்டுரையைக் கொடுக்கும்."
+
+msgid  "double-redirect-fixed-move"
+msgstr  "[[$1]] நகர்த்தப்பட்டுவிட்டது. இப்பொழுது [[$2]] உக்கு வழிமாற்று தருகின்றது."
+
+msgid  "double-redirect-fixer"
+msgstr  "(இரட்டை) வழிமாற்றைத் திருத்தியபயனர்"
+
+msgid  "brokenredirects"
+msgstr  "முறிந்த வழிமாற்றுகள்"
+
+msgid  "brokenredirectstext"
+msgstr  "இல்லாத பக்கங்களை பின்வரும் வழிமாற்றுக்கள் இணைக்கின்றன:"
+
+msgid  "brokenredirects-edit"
+msgstr  "தொகு"
+
+msgid  "brokenredirects-delete"
+msgstr  "நீக்குக"
+
+msgid  "withoutinterwiki"
+msgstr  "பிற மொழி இணைப்பற்ற பக்கங்கள்"
+
+msgid  "withoutinterwiki-summary"
+msgstr  "பின்வரும் பக்கங்கள் வேறு மொழிப் பதிப்புக்களுக்கு இணைக்கப்படவில்லை:"
+
+msgid  "withoutinterwiki-legend"
+msgstr  "முன்னொட்டு"
+
+msgid  "withoutinterwiki-submit"
+msgstr  "காட்டு"
+
+msgid  "fewestrevisions"
+msgstr  "மிகக் குறைந்த திருத்தங்களைக் கொண்டப் பக்கங்கள்"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|பைட்டு|பைட்டுகள்}}"
+
+msgid  "ncategories"
+msgstr  "$1 {{PLURAL:$1|பகுப்பு|பகுப்புகள்}}"
+
+msgid  "nlinks"
+msgstr  "$1 {{PLURAL:$1|இணைப்பு|இணைப்புக்கள்}}"
+
+msgid  "nmembers"
+msgstr  "$1 {{PLURAL:$1|உறுப்பினர்|உறுப்பினர்கள்}}"
+
+msgid  "nrevisions"
+msgstr  "{{PLURAL:$1|ஒரு திருத்தம்|$1 திருத்தங்கள்}}"
+
+msgid  "nviews"
+msgstr  "{{PLURAL:$1|ஒரு பார்வை|$1 பார்வைகள்}}"
+
+msgid  "specialpage-empty"
+msgstr  "இந்தப் புகாருக்குகந்த முடிவுகள் எதுவுமில்லை."
+
+msgid  "lonelypages"
+msgstr  "உறவிலிப் பக்கங்கள்"
+
+msgid  "lonelypagestext"
+msgstr  "கீழ்கண்ட பக்கங்கள், {{SITENAME}}-இத்தளத்தின் மற்ற பக்கங்களில் எந்தவிதத்திலும் இணைக்கப்படவில்லை."
+
+msgid  "uncategorizedpages"
+msgstr  "வகைப்படுத்தப்படாத பக்கங்கள்"
+
+msgid  "uncategorizedcategories"
+msgstr  "வகைப்படுத்தப்படாத பகுப்புகள்"
+
+msgid  "uncategorizedimages"
+msgstr  "வகைப்படுத்தப்படாத படிமங்கள்"
+
+msgid  "uncategorizedtemplates"
+msgstr  "வகைப்படுத்தப்படாத வார்ப்புருக்கள்"
+
+msgid  "unusedcategories"
+msgstr  "பயன்படுத்தப்படாத பகுப்புகள்"
+
+msgid  "unusedimages"
+msgstr  "பயன்படுத்தப்படாத படிமங்கள்"
+
+msgid  "popularpages"
+msgstr  "அடிக்கடி பார்க்கப்படும் பக்கங்கள்"
+
+msgid  "wantedcategories"
+msgstr  "வேண்டிய பகுப்புகள்"
+
+msgid  "wantedpages"
+msgstr  "வேண்டிய பக்கங்கள்"
+
+msgid  "wantedfiles"
+msgstr  "வேண்டிய கோப்புகள்"
+
+msgid  "wantedtemplates"
+msgstr  "வேண்டிய வார்ப்புருக்கள்"
+
+msgid  "mostlinked"
+msgstr  "பக்கங்களுக்கு அதிகமாக இணைக்கப்பட்டவை"
+
+msgid  "mostlinkedcategories"
+msgstr  "அதிகம் இணைக்கப்பட்ட பகுப்புகள்"
+
+msgid  "mostlinkedtemplates"
+msgstr  "அதிகம் இணைக்கப்பட்ட வார்ப்புருக்கள்"
+
+msgid  "mostcategories"
+msgstr  "பகுப்புகளுக்கு அதிகமாக இணைக்கப்பட்டவை"
+
+msgid  "mostimages"
+msgstr  "படிமங்களுக்கு அதிகமாக இணைக்கப்பட்டவை"
+
+msgid  "mostrevisions"
+msgstr  "அதிக திருத்தங்களைக் கொண்ட கட்டுரைகள்"
+
+msgid  "prefixindex"
+msgstr  "முன்னொட்டுச் சுட்டியுடன் உள்ள அனைத்துப் பக்கங்களும்"
+
+msgid  "shortpages"
+msgstr  "குறும் பக்கங்கள்"
+
+msgid  "longpages"
+msgstr  "நீளமான பக்கங்கள்"
+
+msgid  "deadendpages"
+msgstr  "தொடராப் பக்கங்கள்"
+
+msgid  "deadendpagestext"
+msgstr  "பின்வரும் பக்கங்கள் {{SITENAME}} தளத்தின் ஏனைய பக்கங்களுக்கு இணைக்க்ப்படவில்லை."
+
+msgid  "protectedpages"
+msgstr  "காக்கப்பட்ட பக்கங்கள்"
+
+msgid  "protectedpagestext"
+msgstr  "பின்வரும் பக்கங்கள் தொகுக்கப்படுவதிலிந்தும் நகர்த்தப்படுவதிலிருந்தும் காக்கப்பட்டுள்ளது"
+
+msgid  "protectedpagesempty"
+msgstr  "இக்காரணிகளுடன் காக்கப்பட்டப் பக்கங்கள் கிடையாது."
+
+msgid  "protectedtitles"
+msgstr  "காக்கப்பட்ட தலைப்புகள்"
+
+msgid  "protectedtitlestext"
+msgstr  "பின்வரும் தலைப்புகள் உருவாக்கப்படுவதிலிருந்து காக்கப்பட்டுள்ளது"
+
+msgid  "protectedtitlesempty"
+msgstr  "இக்காரணிகளுடன் காக்கப்பட்டப் தலைப்புகள் எதுவும் கிடையாது."
+
+msgid  "listusers"
+msgstr  "பயனர் அட்டவணை"
+
+msgid  "listusers-editsonly"
+msgstr  "தொகுத்த பயனர்களை மட்டும் காட்டு"
+
+msgid  "listusers-creationsort"
+msgstr  "உருவாக்கிய தேதி அடிப்படையில் வரிசைப்படுத்து"
+
+msgid  "usereditcount"
+msgstr  "$1 {{PLURAL:$1|தொகு|தொகுத்தல்கள்}}"
+
+msgid  "usercreated"
+msgstr  "$1 தேதி $2 மணியில் உருவாக்கப்பட்டது"
+
+msgid  "newpages"
+msgstr  "புதிய பக்கங்கள்"
+
+msgid  "newpages-username"
+msgstr  "பயனர் பெயர்:"
+
+msgid  "ancientpages"
+msgstr  "மிகப்பழைய கட்டுரைகள்"
+
+msgid  "move"
+msgstr  "நகர்த்தவும்"
+
+msgid  "movethispage"
+msgstr  "இப்பக்கத்தை நகர்த்து"
+
+msgid  "unusedimagestext"
+msgstr  "கீழ்வரும் கோப்புகள் உண்டு, ஆனாலும் அவை எந்த ஒரு பக்கத்திலும் இணைக்கப்படவில்லை.\nஇக்கோப்பு ஏனைய இணையத்தளங்களினால் நேரடியான இணையமுகவரியை பயன்படுத்தி இனைக்கப்பட்டிருக்கக் கூடுமென்பதுடன், செயல்படு பயன்பாட்டில் இருந்தும் கூட இங்கே பட்டியலிடப்பட்டிருக்கக்கூடும் என்பதையும் கவனிக்கவும்."
+
+msgid  "unusedcategoriestext"
+msgstr  "பின்வரும் பகுப்புகள் உருவாக்கப்பட்டுள்ளன எனினும் வேறு எந்தப் பக்கமோ அல்லது பகுப்போ இதைப் பயன்படுத்தவில்லை."
+
+msgid  "notargettitle"
+msgstr  "இலக்கு இல்லை"
+
+msgid  "notargettext"
+msgstr  "நீங்கள் இந்தச் செயலை எந்தப் பயனர் அல்லது பக்கம் தொடர்பில் செய்வது என்பதைக் குறிப்பிடவில்லை."
+
+msgid  "nopagetitle"
+msgstr  "அவ்வாறான இலக்குப் பக்கம் எதுவும் இல்லை"
+
+msgid  "nopagetext"
+msgstr  "நீங்கள் குறிப்பிடும் இலக்குப்  பக்கம் இல்லை"
+
+msgid  "pager-newer-n"
+msgstr  "{{PLURAL:$1|புதிய ஒரு|புதிய $1}}"
+
+msgid  "pager-older-n"
+msgstr  "{{PLURAL:$1|பழைய ஒரு|பழைய $1}}"
+
+msgid  "suppress"
+msgstr  "கவனக்குறைவு"
+
+msgid  "booksources"
+msgstr  "நூல் மூலங்கள்"
+
+msgid  "booksources-search-legend"
+msgstr  "நூல் மூலங்களைத் தேடு"
+
+msgid  "booksources-go"
+msgstr  "செல்"
+
+msgid  "booksources-text"
+msgstr  "நீங்கள் தேடும் நூல்களின் புதிய, பயன்படுத்தியப் பிரதிகளை விற்பனை செய்யும் இணையத்தளங்களின் பட்டியல் கீழே காட்டப்பட்டுள்ளது. நூல்கள் பற்றிய மேலதிகத் தகவல்களை இத்தளங்கள் கொண்டிருக்கலாம்:"
+
+msgid  "specialloguserlabel"
+msgstr  "பயனர்:"
+
+msgid  "speciallogtitlelabel"
+msgstr  "தலைப்பு:"
+
+msgid  "log"
+msgstr  "பதிகைகள்"
+
+msgid  "all-logs-page"
+msgstr  "அனைத்துப் பொது குறிப்புக்கள்"
+
+msgid  "alllogstext"
+msgstr  "{{SITENAME}} தளத்தின் பதிவுகள் அனைத்திற்குமான ஒருங்கிணைந்த காட்சி. பதிவு வகை, பயனர் பெயர், அல்லது தொடர்புடைய பக்கத்தைத் தெரிவு செய்வதன்மூலம் காட்சி நோக்கை சுருக்கிக் கொள்ள முடியும்."
+
+msgid  "logempty"
+msgstr  "பொருத்தமான பதிவுகள் யாதுமில்லை."
+
+msgid  "log-title-wildcard"
+msgstr  "இவ்வுரையுடன் தொடங்கும் தலைப்புகளைத் தேடு"
+
+msgid  "allpages"
+msgstr  "அனைத்துப் பக்கங்கள்"
+
+msgid  "alphaindexline"
+msgstr  "$1 தொடக்கம் $2 வரை"
+
+msgid  "nextpage"
+msgstr  "அடுத்த பக்கம் ($1)"
+
+msgid  "prevpage"
+msgstr  "முந்தைய பக்கம் ($1)"
+
+msgid  "allpagesfrom"
+msgstr  "அடுத்து காணப்படும் எழுத்தில் தொடங்கும் பக்கங்களை காட்டு:"
+
+msgid  "allpagesto"
+msgstr  "இவ்வெழுத்துக்களில் முடிவடையும் பக்கங்களைக் காட்டு"
+
+msgid  "allarticles"
+msgstr  "அனைத்துக் கட்டுரைகள்"
+
+msgid  "allinnamespace"
+msgstr  "அனைத்து பக்கங்கள் ($1 பெயர்வெளியில்)"
+
+msgid  "allnotinnamespace"
+msgstr  "அனைத்து பக்கங்கள் ($1 பெயர்வெளி தவிர்த்து)"
+
+msgid  "allpagesprev"
+msgstr  "முந்தைய"
+
+msgid  "allpagesnext"
+msgstr  "அடுத்தது"
+
+msgid  "allpagessubmit"
+msgstr  "செல்"
+
+msgid  "allpagesprefix"
+msgstr  "பின்வரும் முன்னொட்டு உடைய பக்கங்களை காட்டு:"
+
+msgid  "allpagesbadtitle"
+msgstr  "கொடுக்கப்பட்ட தலைப்பு செல்லுபடியற்றது அல்லது பிழையான விக்கியிடை அல்லது மொழி முன்னொட்டைக் கொண்டுள்ளது. இது தலைப்புக்களில் பயன்படுத்த முடியாத எழுத்துக்களையும் கொண்டிருக்கலாம்."
+
+msgid  "allpages-bad-ns"
+msgstr  "{{SITENAME}} தளத்தில் \"$1\" பெயர்வெளி கிடையாது."
+
+msgid  "categories"
+msgstr  "பகுப்புகள்"
+
+msgid  "categoriespagetext"
+msgstr  "கீழே கொடுத்துள்ள பக்கங்கள் அல்லது ஊடகங்கள் இந்த {{PLURAL:$1|பகுப்பை|பகுப்புக்களை}} கொண்டுள்ளது.\n[[Special:UnusedCategories|உபயோகப்படுத்தப்படாத  பகுப்புகள்]] இங்கே காண்பிக்கப்படவில்லை.\nஇத்துடன் [[Special:WantedCategories|தேவைப்படும் பகுப்புகளையும்]] பார்க்கவும்."
+
+msgid  "categoriesfrom"
+msgstr  "இதில் தொடங்கும் பகுப்புக்களைக் காட்டவும்:"
+
+msgid  "special-categories-sort-count"
+msgstr  "எண்ணிக்கையின் படி ஒழுங்குப் படுத்துக"
+
+msgid  "special-categories-sort-abc"
+msgstr  "அகரவரிசைப்படி ஒழுங்குப் படுத்துக"
+
+msgid  "deletedcontributions"
+msgstr  "பயனரின் நீக்கப்பட்ட பங்களிப்புகள்"
+
+msgid  "deletedcontributions-title"
+msgstr  "பயனரின நீக்கப்பட்ட பங்களிப்புக்கள்"
+
+msgid  "sp-deletedcontributions-contribs"
+msgstr  "பங்களிப்புக்கள்"
+
+msgid  "linksearch"
+msgstr  "வெளி இணைப்புகள்"
+
+msgid  "linksearch-ns"
+msgstr  "பெயர்வெளி:"
+
+msgid  "linksearch-ok"
+msgstr  "தேடுக"
+
+msgid  "linksearch-line"
+msgstr  "$1-ஆனது $2-லிருந்து இணைக்கப்பட்டுள்ளது"
+
+msgid  "listusersfrom"
+msgstr  "பின்வரும் எழுத்துடன் தொடங்கும் பயனர்களைக் காட்டு:"
+
+msgid  "listusers-submit"
+msgstr  "காட்டு"
+
+msgid  "listusers-noresult"
+msgstr  "ஒரு பயனரும் இல்லை."
+
+msgid  "listusers-blocked"
+msgstr  "(தடை செய்யப்பட்டுள்ளது)"
+
+msgid  "activeusers"
+msgstr  "தொடர்பங்களிப்பாளர்களின் பட்டியல்"
+
+msgid  "activeusers-from"
+msgstr  "பின்வரும் எழுத்துடன் தொடங்கும் பயனர்களைக் காட்டு:"
+
+msgid  "activeusers-hidebots"
+msgstr  "தானியங்கிகளை மறை"
+
+msgid  "activeusers-hidesysops"
+msgstr  "நிர்வாகிகளை மறை"
+
+msgid  "activeusers-noresult"
+msgstr  "எந்தவொரு பயனர்களும் காணப்படவில்லை."
+
+msgid  "newuserlogpage"
+msgstr  "பயனர் உருவாக்கம் பற்றிய குறிப்பு"
+
+msgid  "newuserlog-byemail"
+msgstr  "மின்னஞ்சல் மூலம் கடவுச்சொல் அனுப்பப்பட்டுவிட்டது"
+
+msgid  "newuserlog-create-entry"
+msgstr  "புதிய பயனர் கணக்கு"
+
+msgid  "newuserlog-create2-entry"
+msgstr  "$1-என்ற புதிய கணக்குத் தொடங்கப்பட்டுவிட்டது"
+
+msgid  "newuserlog-autocreate-entry"
+msgstr  "கணக்கு தானாக உருவாக்கப்பட்டுவிட்டது"
+
+msgid  "listgrouprights"
+msgstr  "பயனர் குழு உரிமைகள்"
+
+msgid  "listgrouprights-group"
+msgstr  "குழு"
+
+msgid  "listgrouprights-rights"
+msgstr  "உரிமைகள்"
+
+msgid  "listgrouprights-helppage"
+msgstr  "Help:குழு உரிமைகள்"
+
+msgid  "listgrouprights-members"
+msgstr  "(அங்கத்தவர் பட்டியல்)"
+
+msgid  "listgrouprights-removegroup-all"
+msgstr  "எல்லா குழுக்களையும் நீக்கு"
+
+msgid  "mailnologin"
+msgstr  "அனுப்பும் முகவரி இல்லை"
+
+msgid  "mailnologintext"
+msgstr  "நீங்கள்[[Special:UserLogin|புகுபதிகை செய்திருப்பதுடன்]]\nஏனைய பயனர்களுக்கு மின்னஞ்சல் அனுப்பக்கூடியத்தாக செல்லுபடியாகக்கூடிய மின்னஞ்சல் முகவரியொன்றும் உங்களுடைய  [[Special:Preferences|விருப்பத் தெரிவுகளில்]] கொடுபட்டிருக்கவேண்டும்."
+
+msgid  "emailuser"
+msgstr  "இப் பயனருக்கு மின்னஞ்சல் செய்"
+
+msgid  "emailpage"
+msgstr  "மின்னஞ்சல் பயனர்"
+
+msgid  "emailpagetext"
+msgstr  "நீங்கள் கீழ்வரும் படிவத்தை உபயோகித்து இந்த பயனருக்கு மின்னஞ்சல் செய்யலாம்.\n\n[[Special:Preferences|என் விருப்பத்தேர்வுகளில்]] நீங்கள் கொடுத்துள்ள மின்னஞ்சல் முகவரி மின்னஞ்சலின் \"From\" முகவரியாகக் காட்சி தரும், இதனால் பெறுநர் உங்களுக்கு நேரடியாக பதில் எழுத முடியும்."
+
+msgid  "usermailererror"
+msgstr  "மின்னஞ்சல் விளைவாக்கிய தவறு:"
+
+msgid  "defemailsubject"
+msgstr  "{{SITENAME}} மின்னஞ்சல்"
+
+msgid  "noemailtitle"
+msgstr  "மின்னஞ்சல் முகவரி இல்லை"
+
+msgid  "noemailtext"
+msgstr  "இப் பயனர் ஒரு செல்லுபடியாகக்கூடிய மின்னஞ்சல் முகவரியைக் குறிப்பிடவில்லை."
+
+msgid  "emailfrom"
+msgstr  "அனுப்புநர்:"
+
+msgid  "emailto"
+msgstr  "பெறுநர்:"
+
+msgid  "emailsubject"
+msgstr  "பொருள்:"
+
+msgid  "emailmessage"
+msgstr  "தகவல்:"
+
+msgid  "emailsend"
+msgstr  "அனுப்பு"
+
+msgid  "emailccme"
+msgstr  "என் கருத்துக்களின் நகலொன்றை எனக்கு மின்னஞ்சலிடு"
+
+msgid  "emailccsubject"
+msgstr  "$1 பயனருக்கான உங்கள் மின்னஞ்சலின் நகல்: $2"
+
+msgid  "emailsent"
+msgstr  "மின்னஞ்சல் அனுப்பப்பட்டது"
+
+msgid  "emailsenttext"
+msgstr  "உங்கள் மின்னஞ்சல் செய்தி அனுப்பப்பட்டது."
+
+msgid  "watchlist"
+msgstr  "என் கவனிப்புப் பட்டியல்"
+
+msgid  "mywatchlist"
+msgstr  "என் கவனிப்புப் பட்டியல்"
+
+msgid  "nowatchlist"
+msgstr  "உங்களுடைய கவனிப்புப் பட்டியலில் ஒரு விடயமும் இல்லை."
+
+msgid  "watchlistanontext"
+msgstr  "உமது கவனிப்புப் பட்டியலை பார்க அல்லது தொகுக்க அருள் கூர்ந்து $1."
+
+msgid  "watchnologin"
+msgstr  "புகுபதிகை செய்யப்படவில்லை."
+
+msgid  "watchnologintext"
+msgstr  "உங்கள் கவனிப்புப் பட்டியலில் திருத்தம் செய்வதற்கு, நீங்கள்[[Special:UserLogin|புகுபதிகை செய்திருக்கவேண்டும்]]."
+
+msgid  "addedwatch"
+msgstr  "கவனிப்புப் பட்டியலில் சேர்க்கப்பட்டது"
+
+msgid  "addedwatchtext"
+msgstr  "\"[[:$1]]\" பக்கம் உங்கள் [[Special:Watchlist|கவனிப்புப் பக்கத்தில்]] சேர்க்கப்பட்டுள்ளது. இந்தப் பக்கத்துக்கு எதிர்காலத்தில் செய்யப்படவுள்ள மாற்றங்களும், அதனோடிணைந்த பேச்சுப் பக்கமும், அங்கே பட்டியலிடப்படும். அத்துடன் தெரிந்தெடுக்க வசதியாக [[Special:RecentChanges|அண்மைய மாற்றங்களின் பட்டியலில்]] இது தடித்த எழுத்துக்களில் காட்டப்படும். பின்னர், இப் பக்கத்தை உங்கள் கவனிப்புப் பட்டியலிலிருந்து நீக்க விரும்பினால், பக்கச் சட்டத்திலுள்ள ''கவனிப்பு நீக்கு'' என்ற இணைப்பைச் சொடுக்கவும்."
+
+msgid  "removedwatch"
+msgstr  "கவனிப்புப் பட்டியலிலிருந்து நீக்கப்பட்டது"
+
+msgid  "removedwatchtext"
+msgstr  "\"[[:$1]]\" பக்கம் [[Special:Watchlist|உங்கள் கவனிப்புப் பட்டியலில்]] இருந்து நீக்கப்பட்டது."
+
+msgid  "watch"
+msgstr  "கவனி"
+
+msgid  "watchthispage"
+msgstr  "இந்தப் பக்கத்தைக் கவனிக்கவும்"
+
+msgid  "unwatch"
+msgstr  "கவனிப்புநீக்கு"
+
+msgid  "unwatchthispage"
+msgstr  "கவனிப்பதை நிறுத்தவும்"
+
+msgid  "notanarticle"
+msgstr  "ஒரு கட்டுரைப் பக்கமல்ல"
+
+msgid  "notvisiblerev"
+msgstr  "திருத்தம் நீக்கப்பட்டுள்ளது"
+
+msgid  "watchnochange"
+msgstr  "காட்சிப்படுத்தப்பட்ட கால இடைவெளியில், கவனிப்பிலுள்ள, உங்கள் விடயமெதுவும் தொகுக்கப்பட்டிருக்கவில்லை."
+
+msgid  "watchlist-details"
+msgstr  "பேச்சுப் பக்கங்களைக் தவிர்த்து, {{PLURAL:$1|$1 பக்கம் கவனிக்கப்பட்டது.|$1 பக்கங்கள் கவனிக்கப்பட்டன.}}"
+
+msgid  "wlheader-enotif"
+msgstr  "* மின்னஞ்சல் அறிவித்தல்கள் செயல்படுத்தப்பட்டுள்ளன."
+
+msgid  "wlheader-showupdated"
+msgstr  "* உமது கடைசி வருகைக்குப் பின்னர் மாற்றங்கள் செய்யப்பட்ட பக்கங்கள் '''தடித்த எழுத்துக்களால்''' காட்டப்பட்டுள்ளன"
+
+msgid  "watchmethod-recent"
+msgstr  "கவனிக்கப்படுகின்ற பக்கங்களுக்காக, அண்மைய தொகுப்புகள் தேடிப் பார்க்கப்படுகிறன"
+
+msgid  "watchmethod-list"
+msgstr  "அண்மைய தொகுப்புகளுக்காக, கவனிக்கப்படுகின்ற பக்கங்கள் தேடிப் பார்க்கப்படுகிறன"
+
+msgid  "watchlistcontains"
+msgstr  "உங்கள் கவனிப்புப் பட்டியல் {{PLURAL:$1|ஒரு பக்கத்தைக்|$1 பக்கங்களைக்}} கொண்டுள்ளது."
+
+msgid  "iteminvalidname"
+msgstr  "விடயம் '$1' தொடர்பில் பிரச்சினை உள்ளது, செல்லுபடியாகாத பெயர்..."
+
+msgid  "wlnote"
+msgstr  "பின்வருவன கடைசி {{PLURAL:$2|மணித்தியாலத்தில்|'''$2''' மணித்தியாலங்களில்}} செய்யப்பட்ட {{PLURAL:$1|கடைசி ஒரு மாற்றமாகும்|கடைசி $1 மாற்றங்களாகும்}}."
+
+msgid  "wlshowlast"
+msgstr  "கடைசி $1 மணித்தியாலங்கள் $2 நாட்களைக் காட்டு $3"
+
+msgid  "watchlist-options"
+msgstr  "கவனிப்பு பட்டியலின் விருப்பத் தேர்வுகள்"
+
+msgid  "watching"
+msgstr  "கவனிக்கப்படுகிறது..."
+
+msgid  "unwatching"
+msgstr  "கவனிப்பு விடப்படுகிறது..."
+
+msgid  "enotif_mailer"
+msgstr  "{{SITENAME}} தளத்தின் அறிவித்தல் அஞ்சல்காரர்"
+
+msgid  "enotif_reset"
+msgstr  "எல்லாப் பக்கங்களையும் பார்வையிட்டதாக குறித்துக்கொள்"
+
+msgid  "enotif_newpagetext"
+msgstr  "இது ஒரு புதிய பக்கமாகும்."
+
+msgid  "enotif_impersonal_salutation"
+msgstr  "{{SITENAME}} பயனர்"
+
+msgid  "changed"
+msgstr  "மாற்றப்பட்டது"
+
+msgid  "created"
+msgstr  "தொடக்கப்பட்டது"
+
+msgid  "enotif_subject"
+msgstr  "{{SITENAME}} தளத்தின் $PAGETITLE என்றத் தலைப்புடையப் பக்கம் $PAGEEDITOR பயனரால் $CHANGEDORCREATED"
+
+msgid  "enotif_lastvisited"
+msgstr  "உங்கள் கடைசி வருகைக்குப் பின்னர் நடைபெற்றுள்ள மாற்றங்களைக் காண $1 பக்கத்தைப் பார்க்கவும்."
+
+msgid  "enotif_lastdiff"
+msgstr  "மாற்றங்களைக் காண  $1 பக்கத்தைப் பார்."
+
+msgid  "enotif_anon_editor"
+msgstr  "அடையாளம் காட்டாத பயனர் $1"
+
+msgid  "enotif_body"
+msgstr  "வணக்கம் $WATCHINGUSERNAME,\n\n\n{{SITENAME}} தளத்தின் $PAGETITLE பக்கம் $PAGEEDITDATE அன்று $PAGEEDITOR என்ற பெயருடைய பயனரால் $CHANGEDORCREATED, இப்பக்கத்தின் தற்போதைய பதிப்பை $PAGETITLE_URL என்ற இணைப்பின் வழிச் சென்றுக் காணலாம்.\n\n\n$NEWPAGE\n\nதொகுப்புச் சுருக்கம்: $PAGESUMMARY $PAGEMINOREDIT\n\nதொகுத்தவரை அனுக:\nமின்னஞ்சல்: $PAGEEDITOR_EMAIL\nவிக்கி: $PAGEEDITOR_WIKI\n\nஇப்பக்கத்தை நீங்கள் மீண்டும் பார்க்கும் வரையும் அதில் செய்யப்படும் மாற்றங்கள் தொடர்பிம் அறிவித்தல்கள் வழங்கப்பட மாட்டது. உங்கள் கவனிப்புப் பட்டியலிலுள்ள பக்கங்களுக்கான அறிவித்தல் குறிகளை உங்கள் கவனிபுப் பட்டியலிலேயே மாற்றலாம்.\n\n             உங்கள் தோழமையுள்ள {{SITENAME}} தளத்தின் அறிவித்தல் அமைப்பு\n\n--\nஉங்கள் கவனிப்புப் பட்டியல் அமைவுகளை மாற்ற\n{{fullurl:{{#special:Watchlist}}/edit}}\n\nபின்னூட்டம், மேலதிக உதவிகளுக்கு:\n{{fullurl:{{MediaWiki:Helppage}}}}"
+
+msgid  "deletepage"
+msgstr  "பக்கத்தை நீக்கு"
+
+msgid  "confirm"
+msgstr  "உறுதிசெய்"
+
+msgid  "excontent"
+msgstr  "இருந்த உள்ளடக்கம்: '$1'"
+
+msgid  "excontentauthor"
+msgstr  "இருந்த உள்ளடக்கம்: '$1' (தவிர, '[[Special:Contributions/$2|$2]]' மட்டுமே பங்களித்திருந்தார்)"
+
+msgid  "exbeforeblank"
+msgstr  "வெறுமைப்படுத்த முன்னிருந்த உள்ளடக்கம்: '$1'"
+
+msgid  "exblank"
+msgstr  "பக்கம் வெறுமையாய் இருந்தது"
+
+msgid  "delete-confirm"
+msgstr  "\"$1\" பக்கத்தை நீக்கு"
+
+msgid  "delete-legend"
+msgstr  "நீக்கவும்"
+
+msgid  "historywarning"
+msgstr  "'''எச்சரிக்கை:''' தாங்கள் நீக்கவுள்ள பக்கத்திற்கு சுமார் $1 {{PLURAL:$1|திருத்தம்|திருத்தங்களின்}} வரலாறு உண்டு:"
+
+msgid  "confirmdeletetext"
+msgstr  "நீங்கள் இப்பக்கத்தை அதன் வரலாற்றுடன் சேர்த்து நீக்க விழைகிறிர்கள்.\nஅருள் கூர்ந்து உங்கள் செய்கையின் விளைவுகளை நீங்கள் விள்ங்கிக் கொண்டீர்கள் என்பதையும் இது [[{{MediaWiki:Policy-url}}|கொள்கைகளுடன்]] ஒத்துப்போவதையும் உறுதிப் படுத்தவும்."
+
+msgid  "actioncomplete"
+msgstr  "செயற்பாடு நிறைவுற்றது"
+
+msgid  "actionfailed"
+msgstr  "செயல் வெற்றியடையவில்லை"
+
+msgid  "deletedtext"
+msgstr  "\"<nowiki>$1</nowiki>\" நீக்கப்பட்டு விட்டது. அண்மைய நீக்குதல்களின் பதிவுக்கு $2 ஐப் பார்க்க."
+
+msgid  "deletedarticle"
+msgstr  "\"[[$1]]\" நீக்கப்பட்டது"
+
+msgid  "dellogpage"
+msgstr  "நீக்கல் பதிவு"
+
+msgid  "dellogpagetext"
+msgstr  "கீழே காணப்படுவது மிக அண்மைய நீக்கல்களின் அட்டவணையாகும்."
+
+msgid  "deletionlog"
+msgstr  "நீக்கல் பதிவு"
+
+msgid  "reverted"
+msgstr  "முன் திருத்தத்துக்கு முன்நிலையாக்கப்பட்டது"
+
+msgid  "deletecomment"
+msgstr  "காரணம்:"
+
+msgid  "deleteotherreason"
+msgstr  "வேறு மேலதிக காரணம்:"
+
+msgid  "deletereasonotherlist"
+msgstr  "வேறு காரணம்"
+
+msgid  "deletereason-dropdown"
+msgstr  "*பொதுவான நீக்கல் காரணங்கள்\n** காப்புரிமை மீறப்பட்டமை\n** விசமத் தொகுப்பு\n** ஆசிரியர் வேண்டுகோள்"
+
+msgid  "delete-edit-reasonlist"
+msgstr  "நீக்கல் காரணங்களைத் தொகு"
+
+msgid  "delete-toobig"
+msgstr  "இப்பக்கம் அதிகமான திருத்தங்களை கொண்டுள்ளது, குறிப்பாக $1 {{PLURAL:$1|திருத்தத்திற்கு|திருத்தங்களிற்கு}} மேல்.\n{{SITENAME}} தளத்தின் தரவுகள் தற்செயலாக அழிந்துப்போவதை தடுப்பதற்க்காக இவ்வாறான பக்கங்கள் நீக்கப்படுவது முடக்கப்பட்டுள்ளது."
+
+msgid  "delete-warning-toobig"
+msgstr  "இப்பக்கம் அதிகமான திருத்தங்களை கொண்டுள்ளது, குறிப்பாக $1 {{PLURAL:$1|திருத்தத்திற்கு|திருத்தங்களிற்கு}} மேல்.\nஇப்பக்கத்தை நீக்குவது {{SITENAME}} தளத்தின் தரவுவழங்கனின் செயற்பாட்டை பாதிக்கலாம்;\nகவனத்துடன் முன்னெடுக்கவும்."
+
+msgid  "rollback"
+msgstr  "முன்நிலையாக்கத் தொகுப்புகள்"
+
+msgid  "rollback_short"
+msgstr  "முன்நிலையாக்கு"
+
+msgid  "rollbacklink"
+msgstr  "முன்நிலையாக்கு"
+
+msgid  "rollbackfailed"
+msgstr  "முன்நிலையாக்கம் தோல்வி"
+
+msgid  "cantrollback"
+msgstr  "தொகுப்பை முன்நிலையாக்க முடியாது; கடைசிப் பங்களிப்பாளரே இக்கட்டுரையின் ஒரே ஆசிரியராகும்."
+
+msgid  "alreadyrolled"
+msgstr  "[[User:$2|$2]] ([[User talk:$2|Talk]]{{int:pipe-separator}}[[Special:Contributions/$2|{{int:contribslink}}]]) பயனரால் செய்யப்பட்ட [[:$1]] இன் கடைசித் தொகுப்பை முன்நிலையாக்க முடியாது; வேறு யாரோ இப்பக்கத்தை ஏற்கெனவே தொகுத்தோ அல்லது முன்நிலையாக்கியோ உள்ளார்.\n\nஇப்பக்கத்தை கடைசியாகத் தொகுத்தவர் [[User:$3|$3]] ([[User talk:$3|Talk]]{{int:pipe-separator}}[[Special:Contributions/$3|{{int:contribslink}}]])."
+
+msgid  "editcomment"
+msgstr  "தொகுப்பிற்கான சிறுகுறிப்புக்கள் இவை:\"''$1''\"."
+
+msgid  "revertpage"
+msgstr  "[[Special:Contributions/$2|$2]] ([[User talk:$2|பேச்சு]]) செய்தத் தொகுப்புகள் நீக்கப்பட்டு [[User:$1|$1]] இன் பதிப்புக்கு முன்நிலையாக்கப்பட்டது"
+
+msgid  "rollback-success"
+msgstr  "$1 செய்தத் தொகுப்புகள் நீக்கப்பட்டு $2 இன் பதிப்புக்கு முன்நிலையாக்கப்பட்டது."
+
+msgid  "sessionfailure"
+msgstr  "உங்கள் புகுபதிகை அமர்வில் பிரச்சினை உள்ளது போல தோன்றுகிறது. செல்வழி திருட்டுக் கெதிரான முன்னெச்செரிக்கையாக இந்த நடவடிக்கை இரத்துச் செய்யப்பட்டது. உங்கள் உலாவியின் பின் செல்வதற்கான பொத்தானைச் செருகி மீண்டும் முயலவும்."
+
+msgid  "protectlogpage"
+msgstr  "காப்புப் பதிகை"
+
+msgid  "protectlogtext"
+msgstr  "பின்வருவது பக்க திறப்புக்களதும் பூட்டுக்களதும் பட்டியலாகும். தற்போது நடைமுறையிலுள்ள காக்கப்பட்டப் பக்கங்களைக் காண [[Special:ProtectedPages|காக்கப்பட்ட பக்கங்களின் பட்டியலைப்]] பார்க்கவும்."
+
+msgid  "protectedarticle"
+msgstr  "\"[[$1]]\" காக்கப்பட்டது"
+
+msgid  "modifiedarticleprotection"
+msgstr  "\"[[$1]]\" பக்கத்திற்கான காப்பின் அளவு மாற்றப்பட்டது"
+
+msgid  "unprotectedarticle"
+msgstr  "\"[[$1]]\" பக்கத்தின் காப்பு நீக்கப்பட்டது"
+
+msgid  "protect-title"
+msgstr  "\"$1\" பக்கத்துக்கான காப்பு அமைப்பு"
+
+msgid  "prot_1movedto2"
+msgstr  "[[$1]], [[$2]] என்றத் தலைப்புக்கு நகர்த்தப் பட்டுள்ளது"
+
+msgid  "protect-legend"
+msgstr  "காப்பை உறுதிப்படுத்து"
+
+msgid  "protectcomment"
+msgstr  "காரணம்:"
+
+msgid  "protectexpiry"
+msgstr  "முடிவுறுகிறது:"
+
+msgid  "protect_expiry_invalid"
+msgstr  "பொருத்தமற்ற முடிவு நாள்"
+
+msgid  "protect_expiry_old"
+msgstr  "முடிவு நாள் கடந்தக் காலத்தில் உள்ளது."
+
+msgid  "protect-text"
+msgstr  "நீங்கள் '''<nowiki>$1</nowiki>''' பக்கத்துக்கான காப்பு நிலையைப் பார்த்து அதனை மாற்ற முடியும்."
+
+msgid  "protect-locked-blocked"
+msgstr  "நீங்கள் தடுக்கப்பட்டுள்ள நிலையில் பக்க காப்பு நிலைகளை மாற்ற முடியாது. தற்போதை பக்க காப்பு நிலை பின்வருமாறு '''$1''':"
+
+msgid  "protect-locked-dblock"
+msgstr  "தற்போதுள்ள தரவுத்தள பூட்டின் காரணமாக பக்க காப்பு நிலைகள் மாற்றப் படமுடியாது.\n'''$1''' பக்கத்துக்கான தற்போதைய அமைவுகள்:"
+
+msgid  "protect-locked-access"
+msgstr  "உங்கள் பயனர் கணக்குகு இப்பக்கத்தின் காப்புநிலையை மாற்றுவதற்கான அனுமதில் இல்லை.\n'''$1''' பக்கத்துக்கான நடப்பு அமைப்புகள் பின்வருமாறு:"
+
+msgid  "protect-cascadeon"
+msgstr  "இந்தப்பக்கம் படிநிலை காப்புகுட்படுத்தப்பட்ட {{PLURAL:$1|பக்கத்திற்கு|பக்கங்களிற்கு}} இணைக்கப்பட்டுள்ளமையால் காப்புச் செய்யப்பட்டுள்ளது. இந்த பக்கத்தின் காப்பு நிலையை நீங்கள் மாற்றம் செய்யலாம் எனினும் இது படிநிலை காப்பினை மாற்றம் செய்யாது."
+
+msgid  "protect-default"
+msgstr  "அனைத்துப் பயனரையும் உள்ளிடு"
+
+msgid  "protect-fallback"
+msgstr  "\"$1\" அனுமதி தேவை"
+
+msgid  "protect-level-autoconfirmed"
+msgstr  "புதிய, பதிவு செய்யாத பயனர்களைத் தடை செய்"
+
+msgid  "protect-level-sysop"
+msgstr  "நிருவாகிகள் மட்டும்"
+
+msgid  "protect-summary-cascade"
+msgstr  "படிநிலை"
+
+msgid  "protect-expiring"
+msgstr  "$1 (UTC) மணிக்கு காலாவதியாகிறது"
+
+msgid  "protect-expiry-indefinite"
+msgstr  "காலவரையறையற்ற"
+
+msgid  "protect-cascade"
+msgstr  "இப்பக்கத்தில் இணைக்கப்பட்ட பக்கங்களைக் காப்புச் செய் (படிநிலைக் காப்பு)"
+
+msgid  "protect-cantedit"
+msgstr  "இப்பக்கத்தின் காப்பு நிலையை நீங்கள் மாற்ற முடியாது. உங்களுக்கு காப்பு நிலையை தொகுப்பதற்கான அனுமதி கிடையாது."
+
+msgid  "protect-othertime"
+msgstr  "வேறு நேரம்:"
+
+msgid  "protect-othertime-op"
+msgstr  "வேறு நேரம்"
+
+msgid  "protect-otherreason"
+msgstr  "வேறு மேலதிக காரணம்:"
+
+msgid  "protect-otherreason-op"
+msgstr  "வேறு காரணம்"
+
+msgid  "protect-expiry-options"
+msgstr  "1 மணி:1 hour,1 நாள்:1 day,1 வாரம்:1 week,2 வாரங்கள்:2 weeks,1 மாதம்:1 month,3 மாதங்கள்:3 months,6 மாதங்கள்:6 months,1 ஆண்டு:1 year,முடிவிலி:infinite"
+
+msgid  "restriction-type"
+msgstr  "அனுமதி:"
+
+msgid  "restriction-level"
+msgstr  "தடை அளவு:"
+
+msgid  "minimum-size"
+msgstr  "குறைந்த அளவு"
+
+msgid  "maximum-size"
+msgstr  "கூடிய அளவு:"
+
+msgid  "pagesize"
+msgstr  "(பைட்டுகள்)"
+
+msgid  "restriction-edit"
+msgstr  "தொகு"
+
+msgid  "restriction-move"
+msgstr  "நகர்த்தவும்"
+
+msgid  "restriction-create"
+msgstr  "உருவாக்கு"
+
+msgid  "restriction-upload"
+msgstr  "பதிவேற்றம்"
+
+msgid  "restriction-level-sysop"
+msgstr  "முழுமையாக காக்கப்பட்டது"
+
+msgid  "restriction-level-autoconfirmed"
+msgstr  "பகுதியாக காக்கப்பட்டது"
+
+msgid  "restriction-level-all"
+msgstr  "எந்த நிலையும்"
+
+msgid  "undelete"
+msgstr  "நீக்கப்பட்ட பக்கங்களைப் பார்"
+
+msgid  "undeletepage"
+msgstr  "பார்ப்பதுடன், நீக்கப்பட்ட பக்கங்களை மீட்டெடு"
+
+msgid  "undeletepagetitle"
+msgstr  "'''[[:$1]] பக்கத்துக்கான நீக்கப்பட்ட திருத்தங்கள் கீழே தரப்பட்டுள்ளன'''."
+
+msgid  "viewdeletedpage"
+msgstr  "நீக்க்கப்பட்ட பக்கங்களைப் பார்"
+
+msgid  "undeletepagetext"
+msgstr  "பின்வரும் {{PLURAL:$1|பக்கம் நீக்கப்பட்டுவிட்டது எனினும் அது|$1 பக்கங்கள் நீக்கப்பட்டுவிட்டன எனினும் அவை}} காப்பகத்தில் உள்ளதால், மீட்டெடுக்க முடியும். காப்பகம் காலத்துக்குக் காலம் சுத்தப்படுத்தப்படலாம்."
+
+msgid  "undelete-fieldset-title"
+msgstr  "மாற்றங்களை பழையபடிக்கு கொண்டுவரவும்"
+
+msgid  "undeleterevisions"
+msgstr  "{{PLURAL:$1|ஒரு திருத்தம் பரணிடப்பட்டது|$1 திருத்தங்கள் பரணிடப்பட்டன}}"
+
+msgid  "undeletehistory"
+msgstr  "இந்தப் பக்கத்தை நீங்கள் மீள்வித்தால், எல்லாத் திருத்தங்களும் வரலாற்றுக்கு மீள்விக்கப்படும்.\nநீக்குதலின் பின்னர், அதே பெயருடைய வேறொரு புதிய பக்கம் உருவாக்கப்பட்டிருந்தால், மீள்விக்கப்பட்ட திருத்தங்கள் முன்னைய வரலாற்றிலேயே காணப்படும்."
+
+msgid  "undeletehistorynoadmin"
+msgstr  "இந்த பக்கம் நீக்கப்பட்டு உள்ளது.\n\nநீக்கப்பட்டமைக்கான காரனீயமும், நீக்கப்படுவதற்கு முன் இப்பக்கத்தை தொகுத்த பயனர்களின் தகவல்களும் பின்வரும் சுருக்கத்தில் கொடுக்கப்பட்டுள்ளன.\n\nநீக்கப்பட்ட திருத்தங்களின் வாசகங்களை நிர்வாகிகள் மட்டுமே காணமுடியும்."
+
+msgid  "undelete-revision"
+msgstr  "$3 செய்த $1 பக்கத்தின் ($4, $5 இல் உள்ளபடியான) நீக்கப்பட்ட திருத்தம்:"
+
+msgid  "undeleterevision-missing"
+msgstr  "செல்லுபடியற்ற அல்லது காணப்படாத திருத்தம். நீங்கள் இங்கே வந்த இணைப்பு பழுதுள்ளதாக இருக்கலாம் அல்லது குறித்த திருத்தம் பரணிலிருந்து நீக்கப்பட்டோ அல்லது மீட்கபட்டோ இருக்கலாம்."
+
+msgid  "undelete-nodiff"
+msgstr  "முந்தைய திருத்தங்கள் காணப்படவில்லை."
+
+msgid  "undeletebtn"
+msgstr  "மீட்டெடு"
+
+msgid  "undeletelink"
+msgstr  "பார்க்க/மீட்டெடு"
+
+msgid  "undeleteviewlink"
+msgstr  "பார்வையிடு"
+
+msgid  "undeletereset"
+msgstr  "மீட்டமைக்க"
+
+msgid  "undeletecomment"
+msgstr  "காரணம்:"
+
+msgid  "undeletedarticle"
+msgstr  "\"$1\" மீட்டெடுக்கப்பட்டது"
+
+msgid  "undeletedrevisions"
+msgstr  "{{PLURAL:$1|1 திருத்தம் மீட்கப்பட்டது|$1 திருத்தங்கள் மீட்கப்பட்டன}}"
+
+msgid  "undeletedrevisions-files"
+msgstr  "{{PLURAL:$1|1 திருத்தம்|$1 திருத்தங்கள்}} மற்றும் {{PLURAL:$2|1 கோப்பு|$2 கோப்புகள்}} மீட்கப்பட்டன."
+
+msgid  "undeletedfiles"
+msgstr  "{{PLURAL:$1|ஒரு கோப்பு மீட்டெடுக்கப்பட்டது|$1 கோப்புகள் மீட்டெடுக்கப்பட்டன}}"
+
+msgid  "cannotundelete"
+msgstr  "நீக்கம் தோல்வி; வேறு யாராவது முன்னதாக இப்பக்கத்தை நீக்கியிருக்கலாம்."
+
+msgid  "undeletedpage"
+msgstr  "'''$1 மீட்கப்பட்டது'''\n\nஅண்மைய நீக்கல்களுக்கும் மீட்புக்ளுக்கும் [[Special:Log/delete|நீக்கல் பதிவைப்]] பார்க்கவும்."
+
+msgid  "undelete-header"
+msgstr  "அண்மையில் நீக்கப்பட்ட பக்கங்களைக் காண [[Special:Log/delete|நீக்கல் பதிவைப்]] பார்க்க."
+
+msgid  "undelete-search-box"
+msgstr  "நீக்கப்பட்ட பக்கங்களைத் தேடு"
+
+msgid  "undelete-search-prefix"
+msgstr  "பின்வரும் எழுத்துடன் தொடங்கும் பக்கங்களைக் காட்டு:"
+
+msgid  "undelete-search-submit"
+msgstr  "தேடுக"
+
+msgid  "undelete-no-results"
+msgstr  "நீக்கல் பரணில் பொருத்தமான பக்கங்கள் காணப்படவில்லை."
+
+msgid  "undelete-filename-mismatch"
+msgstr  "$1 என்ற நேர முத்திரையுடன் கூடிய கோப்பு திருத்ததை மீட்க முடியாது:கோப்பின் பெயர் பொருந்தவில்லை"
+
+msgid  "undelete-bad-store-key"
+msgstr  "$1 என்ற நேர முத்திரையுடன் கூடிய கோப்பு திருத்ததை மீட்க முடியாது: நீக்கலுக்கு முன்னதாக கோப்பைக் காணவில்லை."
+
+msgid  "undelete-cleanup-error"
+msgstr  "பயன்படுத்தப்படாத \"$1\" என்றப் பரண் கோப்பை நீக்குவதில் தவறு."
+
+msgid  "undelete-missing-filearchive"
+msgstr  "தரவுத்தளத்தில் காணப்படாத படியினால் பரணிடல் அடையாள எண் $1ஐ உடைய கோப்பை மீட்க முடியாது. ஏற்கனவே மீட்கப்பட்டிருக்கலாம்."
+
+msgid  "undelete-error-short"
+msgstr  "கோப்பை மீட்பதில் தவறு: $1"
+
+msgid  "undelete-error-long"
+msgstr  "கோப்பை மீட்டெடுக்கும் போது தவறு ஏற்பட்டுள்ளது:\n\n$1"
+
+msgid  "undelete-show-file-confirm"
+msgstr  "\"<nowiki>$1</nowiki>\" கோப்பின் $2, $3ல் நீக்கப்பட்ட திருத்தத்தை நீங்கள் காணவேண்டுமா என்பதை உறுதிப்படுத்தவும்?"
+
+msgid  "undelete-show-file-submit"
+msgstr  "ஆம்"
+
+msgid  "namespace"
+msgstr  "பெயர்வெளி:"
+
+msgid  "invert"
+msgstr  "தெரிவைத் தலைகீழாக்கு"
+
+msgid  "blanknamespace"
+msgstr  "(முதன்மை)"
+
+msgid  "contributions"
+msgstr  "பயனர் பங்களிப்புக்கள்"
+
+msgid  "contributions-title"
+msgstr  "$1 இற்கான பயனர் பங்களிப்புகள்"
+
+msgid  "mycontris"
+msgstr  "என் பங்களிப்புக்கள்"
+
+msgid  "contribsub2"
+msgstr  "$1 பயனரின் ($2)"
+
+msgid  "nocontribs"
+msgstr  "இந்த நிபந்தனையுடன் ஒத்துப்போகும் வகையில் மாற்றங்களெதுவும் காணப்படவில்லை."
+
+msgid  "uctop"
+msgstr  "(மேல்)"
+
+msgid  "month"
+msgstr  "மாதம் உட்பட முந்தைய:"
+
+msgid  "year"
+msgstr  "ஆண்டு உட்பட முந்தைய:"
+
+msgid  "sp-contributions-newbies"
+msgstr  "புதிய கணக்குகளின் பங்களிப்புகளை மட்டும் காட்டு"
+
+msgid  "sp-contributions-newbies-sub"
+msgstr  "புதிய கணக்குகளுக்கு"
+
+msgid  "sp-contributions-blocklog"
+msgstr  "தடைப் பதிகை"
+
+msgid  "sp-contributions-deleted"
+msgstr  "பயனரின நீக்கப்பட்ட பங்களிப்புக்கள்"
+
+msgid  "sp-contributions-talk"
+msgstr  "உரையாடல்"
+
+msgid  "sp-contributions-userrights"
+msgstr  "பயனர் அனுமதி முகாமைத்துவம்"
+
+msgid  "sp-contributions-search"
+msgstr  "பங்களிப்புகளைத் தேடு"
+
+msgid  "sp-contributions-username"
+msgstr  "ஐ.பி. அல்லது பயனர் பெயர்:"
+
+msgid  "sp-contributions-submit"
+msgstr  "தேடுக"
+
+msgid  "whatlinkshere"
+msgstr  "இப்பக்கத்தை இணைத்தவை"
+
+msgid  "whatlinkshere-title"
+msgstr  "\"$1\" பக்கத்துக்கு இணைக்கப்பட்டவை"
+
+msgid  "whatlinkshere-page"
+msgstr  "பக்கம்:"
+
+msgid  "linkshere"
+msgstr  "'''[[:$1]]''' பின்வரும் பக்கங்களில் இப்பக்கம் இணைக்கப்பட்டுள்ளது:"
+
+msgid  "nolinkshere"
+msgstr  "'''[[:$1]]''' எந்தப் பக்கத்திலும் இந்தப் பக்கம் இணைக்கப்படவில்லை."
+
+msgid  "nolinkshere-ns"
+msgstr  "தெரிவு செய்யப்பட்ட பெயர்வெளியில் '''[[:$1]]''' பக்கத்துக்கு இணைக்கப்பட்ட பக்கங்கள் எதுவுமில்லை."
+
+msgid  "isredirect"
+msgstr  "வழிமாற்றுப் பக்கம்"
+
+msgid  "istemplate"
+msgstr  "உள்ளிடப்பட்டுள்ளது"
+
+msgid  "isimage"
+msgstr  "இப் படத்தை இணைத்தவை"
+
+msgid  "whatlinkshere-prev"
+msgstr  "{{PLURAL:$1|முந்தைய|முந்தைய $1}}"
+
+msgid  "whatlinkshere-next"
+msgstr  "{{PLURAL:$1|அடுத்த|அடுத்த $1}}"
+
+msgid  "whatlinkshere-links"
+msgstr  "← இணைப்புக்கள்"
+
+msgid  "whatlinkshere-hideredirs"
+msgstr  "வழிமாற்றுகளை $1"
+
+msgid  "whatlinkshere-hidetrans"
+msgstr  "உள்ளிடப்பட்டவைகளை $1"
+
+msgid  "whatlinkshere-hidelinks"
+msgstr  "இணைப்புகள் $1"
+
+msgid  "whatlinkshere-filters"
+msgstr  "வடிகட்டிகள்"
+
+msgid  "blockip"
+msgstr  "பயனரைத் தடு"
+
+msgid  "blockip-legend"
+msgstr  "பயனரைத் தடு"
+
+msgid  "blockiptext"
+msgstr  "ஒரு குறிப்பிட்ட ஐபி முகவரி அல்லது பயனரிடமிருந்து எழுத்து அணுக்கத்தைத் தடுப்பதற்குக் கீழேயுள்ள படிவத்தை உபயோகிக்கவும். இது விசமத்தனத்தைத் தடுப்பதற்கும் [[{{MediaWiki:Policy-url}}|{{SITENAME}} கொள்கை]]க்கு எற்புடைய வகையிலும் மட்டுமே பயன்படுத்தப்பட வேண்டும்.\nகுறிப்பிட்ட காரணமொன்றைக் கீழே நிரப்புக (எடுத்துக்காட்டாக, விசமத்தனம் செய்யப்பட்ட பக்கங்களை எடுத்துக் காட்டவும்)."
+
+msgid  "ipaddress"
+msgstr  "ஐ.பி. முகவரி:"
+
+msgid  "ipadressorusername"
+msgstr  "ஐ.பி. அல்லது பயனர் பெயர்:"
+
+msgid  "ipbexpiry"
+msgstr  "காலாவதி:"
+
+msgid  "ipbreason"
+msgstr  "காரணம்:"
+
+msgid  "ipbreasonotherlist"
+msgstr  "வேறு காரணம்"
+
+msgid  "ipbreason-dropdown"
+msgstr  "*பொதுவான தடைக் காரணங்கள்\n** பொய்யான தகவல்களை இடல்\n** பக்கங்களிலிருந்து உள்ளடக்கங்களை நீக்கல்\n** எரித இணைப்புகளை வெளியிணைப்பாக கொடுத்தல்\n** பக்கங்களுக்கு அர்த்தமற்ற உள்ளடக்கங்களை இணைத்தல்\n** பொறுப்பற்ற நடிவடிக்கைகள்\n** ஒரு பயனர் பல கணக்குகளைப் பேணல்\n** ஏற்றுக்கொள்ளப்படமுடியாத பயனர் பெயர்"
+
+msgid  "ipbanononly"
+msgstr  "அடையாளம் காட்டாத பயனர்களை மட்டும் தடு"
+
+msgid  "ipbcreateaccount"
+msgstr  "கணக்குகள் தொடங்குவதைத் தடு"
+
+msgid  "ipbemailban"
+msgstr  "பயனர் மின்னஞ்சல் செய்வதைத் தடு"
+
+msgid  "ipbenableautoblock"
+msgstr  "தானியக்கமாக இப்பயனர் கடைசியாகப் பயன்படுத்திய ஐ.பி முகவரியையும் பங்களிக்க முயலும் ஐ.பி. முகவரிகளையும் தடை செய்"
+
+msgid  "ipbsubmit"
+msgstr  "இப் பயனரைத் தடு"
+
+msgid  "ipbother"
+msgstr  "வேறு நேரம்:"
+
+msgid  "ipboptions"
+msgstr  "2 மணிநேரம்:2 hours,1 நாள்:1 day,3 நாட்கள்:3 days,1 வாரம்:1 week,2 வாரங்கள்:2 weeks,1 மாதம்:1 month,3 மாதங்கள்:3 months,6 மாதங்கள்:6 months,1 ஆண்டு:1 year,முடிவிலி:infinite"
+
+msgid  "ipbotheroption"
+msgstr  "மற்றவை"
+
+msgid  "ipbotherreason"
+msgstr  "வேறு மேலதிக காரணம்:"
+
+msgid  "ipbhidename"
+msgstr  "தொகுப்புக்கள் மற்றும் பட்டியல்களிலிருந்து பயனர் பெயரை மறைக்கவும்"
+
+msgid  "badipaddress"
+msgstr  "செல்லுபடியற்ற ஐ.பி. முகவரி"
+
+msgid  "blockipsuccesssub"
+msgstr  "தடுப்பு வெற்றி"
+
+msgid  "blockipsuccesstext"
+msgstr  "[[Special:Contributions/$1|$1]] தடுக்கப்பட்டுள்ளார்.<br />\nதடுப்பை மீளாய்வு செய்ய [[Special:IPBlockList|தடுக்கப்பட்ட ஐ.பி. முகவரிகளின் பட்டியலைப்]] பார்."
+
+msgid  "ipb-edit-dropdown"
+msgstr  "தடை காரணங்கள் தொகு"
+
+msgid  "ipb-unblock-addr"
+msgstr  "$1 இன் தடையை நீக்கு"
+
+msgid  "ipb-unblock"
+msgstr  "ஐ.பி. அல்லது பயனருக்கான தடையை நீக்கு"
+
+msgid  "ipb-blocklist"
+msgstr  "தற்போதுள்ள தடுப்புகளைப் பார்"
+
+msgid  "unblockip"
+msgstr  "பயனர் தடையை நீக்கு"
+
+msgid  "unblockiptext"
+msgstr  "முன்னர் தடுக்கப்பட்ட ஐ.பி. முகவரி அல்லது பயனர்பெயரின் எழுத்து அணுக்கத்தை மீழ்விப்பதற்கு கீழேயுள்ள படிவத்தை பயன்படுத்தவும்."
+
+msgid  "ipusubmit"
+msgstr  "இந்தத் தடையை நீக்கு"
+
+msgid  "unblocked"
+msgstr  "[[User:$1|$1]] பயனருக்கான தடை நீக்கப்பட்டது"
+
+msgid  "unblocked-id"
+msgstr  "$1 தடை நீக்கப்பட்டது"
+
+msgid  "ipblocklist"
+msgstr  "தடுக்கப்பட்ட ஐபி முகவரிகள் மற்றும் பயனர்பெயர்களின் பட்டியல்"
+
+msgid  "ipblocklist-legend"
+msgstr  "தடுக்கப்பட்ட பயனரொருவரைத் தேடு"
+
+msgid  "ipblocklist-username"
+msgstr  "பயனர் பெயர் அல்லது ஐ.பி. முகவரி:"
+
+msgid  "ipblocklist-submit"
+msgstr  "தேடுக"
+
+msgid  "blocklistline"
+msgstr  "$1, தடுத்தவர்:$2, தடுக்கப்பட்டவர்:$3 ($4)"
+
+msgid  "infiniteblock"
+msgstr  "காலவரையறையற்ற"
+
+msgid  "expiringblock"
+msgstr  "$1-தேதியில், $2-மணிக்கு இது காலாவதியாகிறது"
+
+msgid  "anononlyblock"
+msgstr  "அடையாளம் காட்டாத பயனர் மட்டும்"
+
+msgid  "noautoblockblock"
+msgstr  "தானியக்கமான தடை முடக்கப்பட்டுள்ளது"
+
+msgid  "createaccountblock"
+msgstr  "கணக்குத் தொடங்குவது தடுக்கப்பட்டது"
+
+msgid  "emailblock"
+msgstr  "மின்னஞ்சல் தடுக்கப்பட்டது"
+
+msgid  "ipblocklist-empty"
+msgstr  "தடுப்புப் பட்டியலியலில் ஒன்றுமில்லை."
+
+msgid  "ipblocklist-no-results"
+msgstr  "கோரப்பட்ட ஐ.பி. அல்லது பயனர் பெயர் தடைச் செய்யப்படவில்லை."
+
+msgid  "blocklink"
+msgstr  "தடு"
+
+msgid  "unblocklink"
+msgstr  "தடை நீக்கு"
+
+msgid  "change-blocklink"
+msgstr  "குறிப்பிட்ட பகுதியை மாற்று"
+
+msgid  "contribslink"
+msgstr  "பங்களிப்புகள்"
+
+msgid  "autoblocker"
+msgstr  "நீங்கள் \"[[User:$1|$1]]\" உடன் ஒரே ஐ.பி. முகவரியைப் பகிர்ந்துகொள்வதால் தானியங்கித் தடை விதிக்கப்பட்டுள்ளது. $1இன் தடுப்புக்காக கொடுக்கப்பட்டக் காரணம்: \"$2\"."
+
+msgid  "blocklogpage"
+msgstr  "தடைப் பதிகை"
+
+msgid  "blocklogentry"
+msgstr  "$2, $3 அன்று காலாவதியாகும் வகையில் [[$1]] தடுக்கப்பட்டது"
+
+msgid  "blocklogtext"
+msgstr  "இது ஒரு பயனரின் தடுப்பு தடை நீக்கல் செயற்பாடுகளுக்கான பதிவாகும். தானியங்கி முறையில் தடுக்கப்படும் ஐபி முகவரிகள் இப்பட்டியலில் இடம்பெறா.  தற்போது செயற்பாட்டிலுள்ள தடைகளையும் முடக்கங்களையும் [[Special:IPBlockList|ஐ.பி. தடுப்பு பட்டியலில்]] பார்க்க."
+
+msgid  "unblocklogentry"
+msgstr  "\"$1\" தொடர்பான தடுப்பு நீக்கப்பட்டது"
+
+msgid  "block-log-flags-anononly"
+msgstr  "அடையாளம் காட்டாத பயனர் மட்டும்"
+
+msgid  "block-log-flags-nocreate"
+msgstr  "கணக்கு தொடக்கம் முடக்கப்பட்டுள்ளது"
+
+msgid  "block-log-flags-noautoblock"
+msgstr  "தானியக்கமான தடை முடக்கப்பட்டுள்ளது"
+
+msgid  "block-log-flags-noemail"
+msgstr  "மின்னஞ்சல் தடுக்கப்பட்டது"
+
+msgid  "block-log-flags-hiddenname"
+msgstr  "பயனர் பெயர் மறைக்கப்பட்டுள்ளது"
+
+msgid  "range_block_disabled"
+msgstr  "வீச்சு தடுப்புக்களை ஏற்படுத்தக் கூடியா நிர்வாகிகளின் இயலுமை முடக்கப்பட்டது."
+
+msgid  "ipb_expiry_invalid"
+msgstr  "காலாவதியாகும் நாள் செல்லுபடியற்றது."
+
+msgid  "ipb_already_blocked"
+msgstr  "\"$1\" ஏற்கனவே தடுக்கப்பட்டுள்ளார்"
+
+msgid  "ipb_cant_unblock"
+msgstr  "தவறு: தடை இலக்கம் $1 காணப்படவில்லை. இதற்கான தடை ஏற்கனவே நீக்கப்பட்டிருக்கலாம்."
+
+msgid  "ipb_blocked_as_range"
+msgstr  "தவறு:இந்த ஐ.பி. $1 நேரடியாக தடைச் செய்யப்படவில்லை எனவே தடையை நீக்க முடியாது. இது $2 என்ற ஐ.பி. வீச்சு தடைச் செய்யப்பட்டதால் தடைச் செய்யப்பட்டுள்ளது இவ்வீச்சிற்கான தடையை நீக்க முடியும்."
+
+msgid  "ip_range_invalid"
+msgstr  "செல்லுபடியற்ற ஐ.பி. வீச்சு"
+
+msgid  "blockme"
+msgstr  "என்னை தடைச் செய்"
+
+msgid  "proxyblocker"
+msgstr  "மறைவணுக்கம் (புரொக்சி) தடுப்பி"
+
+msgid  "proxyblocker-disabled"
+msgstr  "இந்தச் செயல் செயலிழக்கச் முடக்கப்பட்டுள்ளது."
+
+msgid  "proxyblocksuccess"
+msgstr  "வெற்றி."
+
+msgid  "lockdb"
+msgstr  "தரவுத்தளத்தைப் பூட்டு"
+
+msgid  "unlockdb"
+msgstr  "தரவுத்தளத்தைத் திற"
+
+msgid  "lockdbtext"
+msgstr  "தரவுத்தளத்தைப் பூட்டுதல், பயனர்கள் பக்கங்களைத் தொகுக்கவும், விருப்பத் தேர்வுகளை மாற்றவும், கவனிப்புப் பட்டியல்களைத் தொகுக்கவும், மற்றும் தரவுத்தளத்தில் மாற்றங்கள் தேவைப்படும் பிற விடயங்களைச் செய்யவும் முடியாமல் இடை நிறுத்தும். இதுதான் உங்களுக்கு வேண்டியது என்பதையும், பராமரிப்பு முடிந்ததும் தரவுத்தளத்தைத் திறந்துவிடுவீர்கள் என்பதையும் தயவுசெய்து உறுதிப்படுத்தவும்."
+
+msgid  "unlockdbtext"
+msgstr  "தரவுத்தளத்தைத் திறத்தல், பக்கங்களைத் தொகுக்கவும், விருப்பத் தேர்வுகளை மாற்றவும், கவனிப்புப் பட்டியல்களைத் தொகுக்கவும், மற்றும் தரவுத்தளத்தில் மாற்றங்கள் தேவைப்படும் பிற விடயங்களைச் செய்யவும் கூடிய திறனைப் பயனர்களுக்கு மீள்விக்கும். இதுதான் நீங்கள் செய்ய விரும்புகிறீர்கள் என்பதைத் தயவுசெய்து உறுதிப்படுத்துங்கள்."
+
+msgid  "lockconfirm"
+msgstr  "ஆம், நான் உண்மையில் தரவுத்தளத்தைப் பூட்ட விரும்புகிறேன்."
+
+msgid  "unlockconfirm"
+msgstr  "ஆம், நான் உண்மையில் தரவுத்தளத்தைத் திறக்க விரும்புகிறேன்."
+
+msgid  "lockbtn"
+msgstr  "தரவுத்தளத்தைப் பூட்டுக"
+
+msgid  "unlockbtn"
+msgstr  "தரவுத்தளத்தைத் திறக்கவும்"
+
+msgid  "locknoconfirm"
+msgstr  "நீங்கள் உறுதிப்படுத்தல் கட்டத்துள் குறியிடவில்லை."
+
+msgid  "lockdbsuccesssub"
+msgstr  "தரவுத்தளப் பூட்டல் வெற்றி"
+
+msgid  "unlockdbsuccesssub"
+msgstr  "தரவுத்தளப் பூட்டு நீக்கப்பட்டது"
+
+msgid  "lockdbsuccesstext"
+msgstr  "தரவுத்தளம் பூட்டப் பட்டது.<br />பராமரிப்பு முடிவடைந்ததும் [[Special:UnlockDB|பூட்டை நீக்க]] மறவாதீர்."
+
+msgid  "unlockdbsuccesstext"
+msgstr  "தரவுத்தளம் திறக்கப்பட்டது."
+
+msgid  "databasenotlocked"
+msgstr  "தரவுத்தளம் பூட்டப்படவில்லை."
+
+msgid  "move-page"
+msgstr  "$1 பக்கத்தை நகர்த்து"
+
+msgid  "move-page-legend"
+msgstr  "பக்கத்தை நகர்த்து"
+
+msgid  "movepagetext"
+msgstr  "தாங்கள் தற்போதுள்ள கட்டுரையை வேறு தலைப்பிற்கு மாற்றும் நோக்கத்துடன் இங்கு வந்திருக்கிறீர்கள். தற்போது இருக்கும் தலைப்பிலிருந்து மற்றொரு புதிய தலைப்பிற்கு நகர்த்த கீழ்காணும் படிவத்தை நிரப்புவதுடன் காரணம் எனும் கட்டத்தினுள் தங்கள் மாற்றத்திற்கான காரணத்தைத் தெரிவிப்பது விரும்பத்தக்கது. இந்த நகர்த்தலில் கட்டுரையுடன், கட்டுரைக்கான உரையாடல் பக்கத்தில் செய்திகள் இடம் பெற்றிருந்தால் அந்தப் பக்கத்தையும் நகர்த்துவதற்கான கட்டத்தில் குறியிடுங்கள். இப்படி நகர்த்தப்படும் பொழுது கட்டுரையின் முழு வரலாறும் அப்படியே மாற்றப்பட்டுவிடும் என்பதையும் கவனத்தில் கொள்ள வேண்டும். நீங்கள் பழைய தலைப்புக்கு தானியக்கமாக வழிகாட்டும் வழிமாற்றுக்களை மாற்றியமைக்கலாம். அப்படி நீங்கள் செய்ய விரும்பவில்லை எனில்,[[Special:DoubleRedirects|இரட்டை]] அல்லது [[Special:BrokenRedirects|முறிந்த வழிமாற்றுகள்]]  உள்ளனவா என்பதைச் சரி பார்த்து உறுதி செய்யவும்.\n\n\nஇந்த நகர்த்தலின் போது தாங்கள் உள்ளீடு செய்த தலைப்பில் முன்பே கட்டுரையின் தலைப்பு இருந்தால் நகர்த்தல் வெற்றியடையாது என்பதையும் அறிந்து கொள்ள வேண்டுகிறோம்.\n\n\n'''எச்சரிக்கை:''' இந்த நகர்த்தல் தாங்கள் அவசியமென்று கருதும் நிலையில் மட்டும் மேற்கொள்ள வேண்டுகிறோம். தாங்கள் தேவையில்லாமல் இடையூறு செய்யும் நோக்கத்துடன் தவறான நகர்த்தலை மேற்கொள்ளாதிருக்கவும் வேண்டுகிறோம்."
+
+msgid  "movepagetalktext"
+msgstr  "*நீங்கள் பக்கத்தைப் பெயர்வெளிகளிடையே நகர்த்துகிறீர்கள் என்றோ,\n*ஒரு வெறுமையில்லாத பேச்சுப் பக்கம் புதிய பெயரில் ஏற்கெனவேயிருந்தோ, அல்லது\n*நீங்கள் கீழேயுள்ள கட்டத்தில் குறியிடாமல் விடுகிறீர்கள் என்றோ.\n'''இல்லாவிடில்''' சேர்ந்திருக்கும் பேச்சுப் பக்கம், ஏதாவது இருந்தால், தன்னியக்கமாக அதனுடன் நகர்த்தப்படும்.\nஇப்படியான சந்தர்ப்பங்களில், விரும்பினால், நகர்த்தலையோ அல்லது ஒன்றிணைத்தலையோ நீங்கள் கைவினையாகச் செய்யவேண்டியிருக்கும்."
+
+msgid  "movearticle"
+msgstr  "பக்கத்தை நகர்த்து"
+
+msgid  "movenologin"
+msgstr  "புகுபதிகை செய்யப்படவில்லை"
+
+msgid  "movenologintext"
+msgstr  "இப் பக்கத்தை நகர்த்துவதற்கு, நீங்கள் ஒரு பதிவு செய்யப்பட்ட பயனராயும் [[Special:UserLogin|புகுபதிகை செய்தும்]] இருக்க வேண்டும்."
+
+msgid  "movenotallowed"
+msgstr  "உங்களுக்கு பக்கங்களை நகர்த்த அனுமதி கிடையாது."
+
+msgid  "movenotallowedfile"
+msgstr  "உங்களுக்கு கோப்புக்களை நகர்த்த அனுமதி கிடையாது."
+
+msgid  "newtitle"
+msgstr  "புதிய தலைப்பு"
+
+msgid  "move-watch"
+msgstr  "இப்பக்கத்தைக் கவனி"
+
+msgid  "movepagebtn"
+msgstr  "பக்கத்தை நகர்த்து"
+
+msgid  "pagemovedsub"
+msgstr  "நகர்த்தல் வெற்றி"
+
+msgid  "movepage-moved"
+msgstr  "'''\"$1\", \"$2\" என்ற தலைப்புக்கு நகர்த்தப் பட்டுள்ளது'''"
+
+msgid  "movepage-moved-redirect"
+msgstr  "ஒரு வழிமாற்று உருவாக்கப்பட்டுள்ளது."
+
+msgid  "articleexists"
+msgstr  "அந்தப் பெயரையுடைய பக்கம் ஏற்கெனவே உள்ளது அல்லது நீங்கள் தெரிவு செய்த பெயர் செல்லுபடியாகாது. தயவுசெய்து வேறு பெயரைத் தெரியவும்."
+
+msgid  "cantmove-titleprotected"
+msgstr  "நீர் பக்கத்க்தை நகர்த்த எத்தனித்த தலைப்பு உருவாக்கப்படுவது தடை செய்யப்பட்டுமையால் அத்தலைப்புக்கு நகர்த்த முடியாது"
+
+msgid  "talkexists"
+msgstr  "பக்கம் வெற்றிகரமாக நகர்த்தப்பட்டது, ஆனால் பேச்சுப் பக்கத்தை நகர்த்த முடியவில்லை ஏனெனில் புதிய தலைப்பில் இன்னொன்று உள்ளது. தயவுசெய்து கையால் ஒன்றுகலக்கவும்."
+
+msgid  "movedto"
+msgstr  "நகர்த்தப்பட்ட இடம்"
+
+msgid  "movetalk"
+msgstr  "தக்கதாயின் \"பேச்சுப்\" பக்கத்தையும் நகர்த்தவும்."
+
+msgid  "1movedto2"
+msgstr  "[[$1]], [[$2]] என்றத் தலைப்புக்கு நகர்த்தப் பட்டுள்ளது"
+
+msgid  "1movedto2_redir"
+msgstr  "[[$1]],[[$2]] பக்கத்துக்கு வழிமாற்றிக்கு மேலாக நகர்த்தப்பட்டது"
+
+msgid  "movelogpage"
+msgstr  "நகர்த்தல் பதிகை"
+
+msgid  "movelogpagetext"
+msgstr  "நகர்த்தப்பட்டப் பக்கங்களின் பட்டியல் கீழே தரப்பட்டுள்ளது."
+
+msgid  "movereason"
+msgstr  "காரணம்:"
+
+msgid  "revertmove"
+msgstr  "முன்நிலையாக்கு"
+
+msgid  "delete_and_move"
+msgstr  "நீக்கிவிட்டு நகர்த்து"
+
+msgid  "delete_and_move_text"
+msgstr  "==நீக்கம் தேவை==\n\nநகர்த்தப்படவேண்டியப் பக்கம் \"[[:$1]]\" ஏற்கனவே உள்ளது. நகர்த்தலுக்கு வழி ஏற்படுத்த அப்பக்கத்தை நீக்க வேண்டுமா?"
+
+msgid  "delete_and_move_confirm"
+msgstr  "ஆம், இப்பக்கத்தை நீக்குக"
+
+msgid  "delete_and_move_reason"
+msgstr  "நகர்த்துவதற்கு இடமளிப்பதற்காக நீக்கப்பட்டது"
+
+msgid  "selfmove"
+msgstr  "நகர்தலின் தொடக்கப் பக்கத்தலைப்பும் முடிவுப் பக்கத்தலைப்பும் ஒன்றாகும்; ஒரு தலைப்பை அதன் மீதே நகர்த்த முடியாது."
+
+msgid  "immobile-source-namespace"
+msgstr  "\"$1\" பெயர்வெளியின் பக்கங்களை நகர்த்த முடியாது."
+
+msgid  "immobile-target-namespace"
+msgstr  "\"$1\" பெயர்வேளிக்குள் பக்கங்களை நகர்த்த முடியாது."
+
+msgid  "immobile-source-page"
+msgstr  "இந்த பக்கம் நகர்த்தக்கூடியதல்ல."
+
+msgid  "imagenocrossnamespace"
+msgstr  "ஒரு கோப்பற்ற பெயர்வெளிக்கு கோப்பை நகர்த்தமுடியாது"
+
+msgid  "move-leave-redirect"
+msgstr  "ஒரு வழிமாற்றை விட்டுச்செல்"
+
+msgid  "export"
+msgstr  "ஏற்றுமதிப் பக்கங்கள்"
+
+msgid  "exporttext"
+msgstr  "ஒரு பக்கத்தினதோ அல்லது ஒரு தொகுதி பக்கங்களினதோ உரையையும், தொகுப்பு வரலாற்றையும், ஏதாவது XML இல் சுற்றி ஏற்றுமதி செய்ய முடியும்; இதைப் மீடியாவிக்கி மென்பொருளிலியங்கும் இன்னொரு விக்கிக்கு [[Special:Import|இறக்குமதி செய்யலாம்]].\n\nஏற்றுமதி செய்ய வேண்டிய பக்கங்களின் தலைப்புக்களை ஒரு நிரைக்கு ஒன்றாக கீழுள்ள உரைக் கட்டத்தில் இடுக, மேலும் உமக்கு நடப்புப் பதிப்பு மட்டும் வேண்டுமா அல்லது பழைய பதிப்புக்களும் வேண்டுமா என்பதைக் குறிப்பிடவும்.\n\nநடப்புப் பதிப்பு தேவையாயின் இணைப்புக்களைப் பயன்படுத்தலாம் எ+கா  \"[[{{MediaWiki:Mainpage}}]]\" என்றப் பக்கத்தை ஏறுமதி செய்ய [[{{#Special:Export}}/{{MediaWiki:Mainpage}}]] என்ற இணைப்பை பயன்படுத்தலாம்."
+
+msgid  "exportcuronly"
+msgstr  "நடப்புத் திருத்தத்தை மட்டும் சேர்க்கவும்"
+
+msgid  "exportnohistory"
+msgstr  "----\n'''குறிப்பு:'''செயல் திறைனைக் கருத்திற் கொண்டு பக்கங்களின் முழுமையான வரலாற்றை இப்படிமமூடாக ஏற்றுமதி செய்வது முடக்கப்பட்டுள்ளது."
+
+msgid  "export-submit"
+msgstr  "ஏற்றுமதி செய்"
+
+msgid  "export-addcattext"
+msgstr  "பகுப்பிலுள்ள பக்கங்களைச் சேர்:"
+
+msgid  "export-addcat"
+msgstr  "சேர்"
+
+msgid  "export-addns"
+msgstr  "சேர்த்துக்கொள்க"
+
+msgid  "export-download"
+msgstr  "கோப்பாக சேமி"
+
+msgid  "export-templates"
+msgstr  "வார்ப்புருக்களையும் உள்ளடக்கு"
+
+msgid  "allmessages"
+msgstr  "அனைத்து முறைமைசார் தகவல்கள் அட்டவணை"
+
+msgid  "allmessagesname"
+msgstr  "பெயர்"
+
+msgid  "allmessagesdefault"
+msgstr  "இயல்பிருப்பு உரை"
+
+msgid  "allmessagescurrent"
+msgstr  "தற்போதைய உரை"
+
+msgid  "allmessagestext"
+msgstr  "இது மீடியாவிக்கி பெயர்வெளியிலுள்ள எல்லா முறைமை தகவல்களினதும் பட்டியலாகும்.\nமொழிபெயர்ப்பில் உதவ விரும்பின் அருள்கூர்ந்து [http://translatewiki.net பீட்டாவிக்கி], [http://www.mediawiki.org/wiki/Localisation மீடியாவிக்கி மொழியாக்க]  தளங்களுக்குச் செல்லவும்."
+
+msgid  "allmessagesnotsupportedDB"
+msgstr  "'''$wgUseDatabaseMessages''' முடக்கப்பட்டுள்ளப் படியால் இப்பக்கததை பயன்படுத்த முடியாது."
+
+msgid  "allmessages-filter-legend"
+msgstr  "வடிகட்டி"
+
+msgid  "allmessages-filter-unmodified"
+msgstr  "மாற்றம் செய்யப்படாதது"
+
+msgid  "allmessages-filter-all"
+msgstr  "அனைத்தும்"
+
+msgid  "allmessages-filter-modified"
+msgstr  "மாற்றப்பட்டுள்ளது"
+
+msgid  "allmessages-language"
+msgstr  "மொழி:"
+
+msgid  "allmessages-filter-submit"
+msgstr  "செல்"
+
+msgid  "thumbnail-more"
+msgstr  "பெரிதாக்கு"
+
+msgid  "filemissing"
+msgstr  "கோப்பைக் காணவில்லை"
+
+msgid  "thumbnail_error"
+msgstr  "சிறு முன்தோற்றத்தை உருவாக்கப்படுவதில் தவறு: $1"
+
+msgid  "thumbnail_dest_directory"
+msgstr  "இலக்கு அடைவை உருவாக்க முடியவில்லை."
+
+msgid  "import"
+msgstr  "பக்கங்களை இறக்கு"
+
+msgid  "importinterwiki"
+msgstr  "விக்கியிடை இறக்குமதி"
+
+msgid  "import-interwiki-text"
+msgstr  "இறக்குமதிக்கான விக்கியையும் பக்கத்தையும் தெரிவுச் செய்க.\nதிருத்த நாட்கள், தொகுத்தவர்களின் பெயர்கள் என்பன பேனப்படும்.\nஎல்லா விக்கியிடை இறக்குமதிகளும் [[Special:Log/import|இறக்குமதிப் பதிகையில்]] பதியப்படும்."
+
+msgid  "import-interwiki-source"
+msgstr  "மூல விக்கி/பக்கம்:"
+
+msgid  "import-interwiki-history"
+msgstr  "இப்பக்கத்தின் அனைத்து வரலாற்றுப் பதிப்புகளையும் நகலெடு"
+
+msgid  "import-interwiki-submit"
+msgstr  "இறக்கு"
+
+msgid  "import-interwiki-namespace"
+msgstr  "பின்வரும் பெயர்வெளிக்கு மாற்று:"
+
+msgid  "import-upload-filename"
+msgstr  "கோப்புப்பெயர்:"
+
+msgid  "import-comment"
+msgstr  "கருத்து:"
+
+msgid  "importtext"
+msgstr  "அருள் கூர்ந்து மூல விக்கியிலிருந்து [[Special:Export|ஏற்றுமதி அம்சத்தைப்]] பயன்படுத்தி கோப்பை ஏற்றுமதி செய்து உங்கள் கணினியில் சேமித்து அக்கோப்பை இங்கே பதிவேற்றவும்."
+
+msgid  "importstart"
+msgstr  "பக்கங்கள் இறக்கப்படுகின்றன..."
+
+msgid  "import-revision-count"
+msgstr  "{{PLURAL:$1|ஒரு திருத்தம்|$1 திருத்தங்கள்}}"
+
+msgid  "importnopages"
+msgstr  "இறக்குமதிக்கு பக்கங்கள் எதுவுமில்லை."
+
+msgid  "importfailed"
+msgstr  "இறக்குமதி தோல்வி: <nowiki>$1</nowiki>"
+
+msgid  "importunknownsource"
+msgstr  "அறியப்படாத இறக்குமதிக் கோப்பு வகை"
+
+msgid  "importcantopen"
+msgstr  "இறக்குமதிக் கோப்பை திறக்க முடியவில்லை"
+
+msgid  "importbadinterwiki"
+msgstr  "பழுதுள்ள விக்கியிடை இணைப்பு"
+
+msgid  "importnotext"
+msgstr  "வெற்று அல்லது உரையெதுவுமில்லை"
+
+msgid  "importsuccess"
+msgstr  "இறக்குமதி முற்றியது!"
+
+msgid  "importhistoryconflict"
+msgstr  "முரண்பாடான திருத்த வரலாறுகள் காணப்படுகின்றன (நீர் ஏற்கனவே இப்பக்கத்தை இறக்கியிருக்கலாம்)"
+
+msgid  "importnosources"
+msgstr  "விக்கியிடை இறகுமதி மூலம் வரையறுக்கப்படவில்லை மேலும் நேரடி வரலாறு பதிவேற்றங்கள் முடக்கப்பட்டுள்ளன."
+
+msgid  "importnofile"
+msgstr  "இறக்குமதிக் கோப்பொன்றும் பதிவேற்றப்படவில்லை."
+
+msgid  "importuploaderrorsize"
+msgstr  "இறக்குமதி கோப்பின் பதிவேற்றம் தோல்வி. அனுமதிக்கப்பட்ட உச்ச அளவைவிட கோப்பு பெரியது."
+
+msgid  "importuploaderrorpartial"
+msgstr  "இறக்குமதிக் கோப்பின் பதிவேற்றம் வெற்றியளிக்கவில்லை. பகுதியாகவே பதிவேற்றப்பட்டது."
+
+msgid  "importuploaderrortemp"
+msgstr  "இறக்குமதிக் கோப்பின் பதிவேற்றம் வெற்றியளிக்கவில்லை. தற்காலிக அடைவொன்றக் காணவில்லை."
+
+msgid  "import-noarticle"
+msgstr  "இறக்குமதிக்கான பக்கமெதுவுமில்லை!"
+
+msgid  "import-nonewrevisions"
+msgstr  "எல்லாத் திருத்தங்களும் முன்னர் இறக்கப்பட்டுள்ளன."
+
+msgid  "xml-error-string"
+msgstr  "$1 நிரை $2, நிரல் $3 (பைட் $4): $5"
+
+msgid  "import-upload"
+msgstr  "XML தரவை பதிவேற்று"
+
+msgid  "import-token-mismatch"
+msgstr  "உங்கள் அமர்வின் தரவுகள் அழிந்துவிட்டன. அருள்கூர்ந்து மீண்டும் முயல்க."
+
+msgid  "import-invalid-interwiki"
+msgstr  "குறிப்பிட்ட விக்கியில் இருந்து இறக்குமதி செய்யமுடியாது ."
+
+msgid  "importlogpage"
+msgstr  "இறக்குமதி பதிகை"
+
+msgid  "importlogpagetext"
+msgstr  "வேறு விக்கிகளிலில் தொகுப்பு வரலாற்றைக் கொண்டப் பக்கங்களின் மேலாண்மை இறக்குமதிகள்."
+
+msgid  "import-logentry-upload"
+msgstr  "கோப்பு பதிவேற்றத்தின் மூலம் [[$1]] இறக்கப்பட்டது"
+
+msgid  "import-logentry-upload-detail"
+msgstr  "{{PLURAL:$1|ஒரு திருத்தம்|$1 திருத்தங்கள்}}"
+
+msgid  "import-logentry-interwiki-detail"
+msgstr  "$2 இலிருந்து {{PLURAL:$1|ஒரு திருத்தம்|$1 திருத்தங்கள்}}"
+
+msgid  "tooltip-pt-userpage"
+msgstr  "உங்கள் பயனர் பக்கம்"
+
+msgid  "tooltip-pt-anonuserpage"
+msgstr  "நீங்கள் தொகுத்துக் கொண்டிருக்கும் ஐ.பி. முகவரிக்கான பயனர் பக்கம்"
+
+msgid  "tooltip-pt-mytalk"
+msgstr  "உங்கள் பேச்சுப் பக்கம்"
+
+msgid  "tooltip-pt-anontalk"
+msgstr  "இந்த ஐ.பி. முகவரியிலிருந்தான தொகுப்புக்களைப் பற்றிய உரையாடல்"
+
+msgid  "tooltip-pt-preferences"
+msgstr  "உங்கள் விருப்பத்தேர்வுகள்"
+
+msgid  "tooltip-pt-watchlist"
+msgstr  "மாற்றங்களுக்காக நீங்கள் கவனிக்கும் பக்கங்களின் பட்டியல்"
+
+msgid  "tooltip-pt-mycontris"
+msgstr  "உங்கள் பங்களிப்புக்களின் பட்டியல்"
+
+msgid  "tooltip-pt-login"
+msgstr  "நீங்கள் புகுபதிகை செய்ய ஊக்குவிக்கப்படுகிறீர்கள், ஆனால் இது கட்டாயமன்று."
+
+msgid  "tooltip-pt-anonlogin"
+msgstr  "நீங்கள் புகுபதிகைச் செய்ய ஊக்குவிக்கப்படுகிறீர்கள் எனினும் இது கட்டாயமல்ல."
+
+msgid  "tooltip-pt-logout"
+msgstr  "விடுபதிகை"
+
+msgid  "tooltip-ca-talk"
+msgstr  "உள்ளடக்கப் பக்கம் தொடர்பான உரையாடல் பக்கம்"
+
+msgid  "tooltip-ca-edit"
+msgstr  "நீங்கள் இப்பக்கத்தைத் தொகுக்க முடியும். \"முன்தோற்றம் காட்டு\" பொத்தானைப் பயன்படுத்திய பின்னர் உங்கள் மாற்றங்களை சேமிக்கவும்."
+
+msgid  "tooltip-ca-addsection"
+msgstr  "புதிய பகுதியைத் தொடங்கு"
+
+msgid  "tooltip-ca-viewsource"
+msgstr  "இப்பக்கம் காக்கப்பட்டுள்ளது. நீங்கள் இதன் மூலத்தைப் பார்க்கலாம்."
+
+msgid  "tooltip-ca-history"
+msgstr  "இப்பக்கத்தின் பழைய பதிப்புகள்."
+
+msgid  "tooltip-ca-protect"
+msgstr  "இப்பக்க்த்தை காப்புச் செய்"
+
+msgid  "tooltip-ca-delete"
+msgstr  "இப்பக்கத்தை நீக்கு"
+
+msgid  "tooltip-ca-undelete"
+msgstr  "இப்பக்கம் நீக்கப்பட்டதற்கு முன்னர் செய்யப்பட்டத் தொகுப்புகளை மீட்டெடு"
+
+msgid  "tooltip-ca-move"
+msgstr  "இப்பக்கத்தை நகர்த்துக"
+
+msgid  "tooltip-ca-watch"
+msgstr  "இப்பக்கத்தை உன் கவனிப்புப் பட்டியலில் சேர்"
+
+msgid  "tooltip-ca-unwatch"
+msgstr  "இப்பக்கத்தை என் கவனிப்புப் பட்டியலிருந்து நீக்கு"
+
+msgid  "tooltip-search"
+msgstr  "{{SITENAME}}-இல் தேடுக"
+
+msgid  "tooltip-search-go"
+msgstr  "இப்பெயரைக் கொண்டப் பக்கம் இருப்பின் அதற்கு நேரடியாகச் செல்க"
+
+msgid  "tooltip-search-fulltext"
+msgstr  "இச்சொற்களைக் கொண்டப் பக்கங்களைத் தேடுக"
+
+msgid  "tooltip-p-logo"
+msgstr  "முதற் பக்கம்"
+
+msgid  "tooltip-n-mainpage"
+msgstr  "முதற் பக்கத்துக்குச் செல்லவும்"
+
+msgid  "tooltip-n-mainpage-description"
+msgstr  "முதற்பக்கத்துக்குச் செல்க"
+
+msgid  "tooltip-n-portal"
+msgstr  "திட்டம் பற்றி தெரிந்துக் கொள்ள, நீங்கள் என்ன செய்ய முடியும், தேவையானவற்றை எங்கு தேட என்பனவற்றை அறிய"
+
+msgid  "tooltip-n-currentevents"
+msgstr  "நடப்பு நிகழ்வுகள் பற்றிய மேலதிக தகவல்களைக் காண"
+
+msgid  "tooltip-n-recentchanges"
+msgstr  "இந்த விக்கியில் செய்யப்பட்ட அண்மைய மாற்றங்களின் பட்டியல்"
+
+msgid  "tooltip-n-randompage"
+msgstr  "ஏதாவது பக்கமொன்றைக் காட்டு"
+
+msgid  "tooltip-n-help"
+msgstr  "உதவிகளைப் பெற"
+
+msgid  "tooltip-t-whatlinkshere"
+msgstr  "இங்கே இணைக்கப்பட்ட எல்லா விக்கிப் பக்கங்களின் பட்டியல்"
+
+msgid  "tooltip-t-recentchangeslinked"
+msgstr  "இப்பக்கத்துடன் இணைக்கப்பட்ட பக்கங்களில் மாற்றங்கள்"
+
+msgid  "tooltip-feed-rss"
+msgstr  "இப்பக்கத்துக்கான ஆர்.எஸ்.எஸ். ஓடை கிடையாது"
+
+msgid  "tooltip-feed-atom"
+msgstr  "இப்பக்கத்துக்கான அடொம் ஓடை கிடையாது"
+
+msgid  "tooltip-t-contributions"
+msgstr  "இப்பயனரின்  பங்களிப்புக்களின் பட்டியலைப் பார்"
+
+msgid  "tooltip-t-emailuser"
+msgstr  "இப் பயனருக்கு மின்னஞ்சல் செய்"
+
+msgid  "tooltip-t-upload"
+msgstr  "ஊடகக் கோப்புகளை பதிவேற்ற"
+
+msgid  "tooltip-t-specialpages"
+msgstr  "அனைத்துச் சிறப்புப் பக்கங்களின் பட்டியல்"
+
+msgid  "tooltip-t-print"
+msgstr  "இப்பக்கத்தின் அச்சுக்குகந்தப் பதிப்பு"
+
+msgid  "tooltip-t-permalink"
+msgstr  "இப்பக்கத்தின் இந்தப் பதிப்புக்கான நிலையான இணைப்பு"
+
+msgid  "tooltip-ca-nstab-main"
+msgstr  "உள்ளடக்கப் பக்கத்தைப் பார்"
+
+msgid  "tooltip-ca-nstab-user"
+msgstr  "பயனர் பக்கத்தைப் பார்"
+
+msgid  "tooltip-ca-nstab-media"
+msgstr  "ஊடகக் கோப்பைப் பார்"
+
+msgid  "tooltip-ca-nstab-special"
+msgstr  "இது ஒரு சிறப்புப் பக்கமாகும், இப்பக்கத்தை நீங்கள் நேரடியாகத் தொகுக்க முடியாது"
+
+msgid  "tooltip-ca-nstab-project"
+msgstr  "திட்டப்பக்கத்தைப் பார்"
+
+msgid  "tooltip-ca-nstab-image"
+msgstr  "கோப்புப் பக்கத்தைப் பார்"
+
+msgid  "tooltip-ca-nstab-mediawiki"
+msgstr  "முறைமைசார் தகவல்களைப் பார்"
+
+msgid  "tooltip-ca-nstab-template"
+msgstr  "வார்ப்புருவைப் பார்"
+
+msgid  "tooltip-ca-nstab-help"
+msgstr  "உதவிப் பக்கத்தைப் பார்"
+
+msgid  "tooltip-ca-nstab-category"
+msgstr  "பகுப்புப் பக்கத்தை பார்க்க"
+
+msgid  "tooltip-minoredit"
+msgstr  "இம்மாற்றத்தை சிறிய தொகுப்பாக கருது"
+
+msgid  "tooltip-save"
+msgstr  "உங்கள் மாற்றங்களைச் சேமிக்கவும்."
+
+msgid  "tooltip-preview"
+msgstr  "நீங்கள் செய்த மாற்றங்களின் முன்தோற்றம் பார்க்கவும்! தயவுசெய்து, மாற்றங்களை சேமிக்கும் முன்னர் இதனைப் பயன்படுத்தவும்!"
+
+msgid  "tooltip-diff"
+msgstr  "உரையில் நீங்கள் செய்த மாற்றங்களைக் காட்டவும்."
+
+msgid  "tooltip-compareselectedversions"
+msgstr  "இப் பக்கத்தின் தெரிவு செய்யப்பட்ட இரண்டு பதிப்புக்களுக்கு இடையிலான வேறுபாடுகளைப் பார்க்கவும்."
+
+msgid  "tooltip-watch"
+msgstr  "இப்பக்கத்தை உங்கள் கவனிப்புப் பட்டியலில் சேர்க்கவும்"
+
+msgid  "tooltip-recreate"
+msgstr  "ஏற்கனவே நீக்கப்பட்டிருந்தாலும் இப்பக்கத்தை மீண்டும் உருவாக்கு"
+
+msgid  "tooltip-upload"
+msgstr  "பதிவேற்றத்தை தொடங்கு"
+
+msgid  "tooltip-rollback"
+msgstr  "\"முன்பிருந்த நிலைக்குக் கொண்டுவருதல்\" என்பது தொகுப்புக்கள் அனைத்தையும் பழையபடி இப்பக்கத்தில் கடைசி பயனர் தொகுத்த நிலைக்கு ஒரே ஒரு சொடுக்கில் கொண்டுவரும்."
+
+msgid  "tooltip-undo"
+msgstr  "\"பின்வாங்கு\" என்பது முன்பு செய்த தொகுப்புக்களை இல்லாது செய்கிறது. மேலும் தாங்கள் செய்த தொகுப்பினை முன்தோற்ற நிலைக்கு கொண்டுவந்து காட்டும். அது தங்களுக்குச் சிறுகுறிப்புப் பகுதியில் அதற்கான காரணத்தைக் கூற அனுமதிக்கிறது."
+
+msgid  "notacceptable"
+msgstr  "உங்களது சேவையாளர் வாசிக்க கூடிய விதத்தில் இந்த விக்கியால தரவுகளை வழங்க முடியாது."
+
+msgid  "anonymous"
+msgstr  "{{SITENAME}} தளத்தின் அடையாளம் காட்டாத {{PLURAL:$1|பயனர்|பயனர்கள்}}"
+
+msgid  "siteuser"
+msgstr  "{{SITENAME}} தளத்தின் பயனர் $1"
+
+msgid  "lastmodifiedatby"
+msgstr  "இப்பக்கம் கடைசியாக $2, $1 அன்று $3 என்ற பயனரால் தொகுக்கப்பட்டது."
+
+msgid  "othercontribs"
+msgstr  "$1 உடைய ஆக்கத்தை அடிப்படையாகக் கொண்டது."
+
+msgid  "others"
+msgstr  "மற்றவைகள்"
+
+msgid  "siteusers"
+msgstr  "{{SITENAME}} தளத்தின் {{PLURAL:$2|பயனர்|பயனர்கள்}} $1"
+
+msgid  "creditspage"
+msgstr  "பக்க நன்றிகள்"
+
+msgid  "spamprotectiontitle"
+msgstr  "எரிதக் காப்பு வடி"
+
+msgid  "spamprotectiontext"
+msgstr  "நீங்கள் சேமிக்க முற்பட்ட பக்கம் எரித வடியால் தடுக்கப்பட்டது. இது தடை செய்யப்பட்ட வெளி இணையத்தளம் ஒன்றுக்கான இணைப்புக் காரணமாக ஏற்பட்டிருக்கலாம்."
+
+msgid  "spamprotectionmatch"
+msgstr  "பின்வரும் உரையே எரித வடியை தூண்டியது: $1"
+
+msgid  "spambot_username"
+msgstr  "மிடியாவிக்கி எரித துப்புரவு"
+
+msgid  "spam_reverting"
+msgstr  "$1 தளத்துக்கு இணைப்புகளற்ற பதிப்புக்கு முன்நிலையாக்கப்பட்டது"
+
+msgid  "spam_blanking"
+msgstr  "$1 தளத்துக்கு இணைப்பை கொண்ட திருத்தங்களை வெறுமையாக்கல்"
+
+msgid  "infosubtitle"
+msgstr  "பக்கத்துக்கான தகவல்"
+
+msgid  "numedits"
+msgstr  "தொகுப்புகளின் எண்ணிக்கை (பக்கங்கள்): $1"
+
+msgid  "numtalkedits"
+msgstr  "தொகுப்புகளின் எண்ணிக்கை (உரையாடல் பக்கங்கள்): $1"
+
+msgid  "numwatchers"
+msgstr  "இப்பக்கத்தைக் கவனிப்பவர்கள்: $1"
+
+msgid  "numauthors"
+msgstr  "எழுத்தாளர்களின் எண்ணிக்கை (பக்கம்): $1"
+
+msgid  "numtalkauthors"
+msgstr  "எழுத்தாளர்களின் எண்ணிக்கை (உரையாடல் பக்கம்): $1"
+
+msgid  "skinname-standard"
+msgstr  "இயல்பான"
+
+msgid  "skinname-nostalgia"
+msgstr  "பசுமை நினைவு (Nostalgia)"
+
+msgid  "skinname-cologneblue"
+msgstr  "கொலோன் (Cologne) நீலம் Blue"
+
+msgid  "mw_math_png"
+msgstr  "எப்போதும் பி.என்.ஞ்சி (PNG) ஆக மாற்று"
+
+msgid  "mw_math_simple"
+msgstr  "சிக்கலற்றதாயின் எச்.டி.எம்.எல் (HTML), இல்லாவிடில் பி.என்.ஞ்சி (PNG)"
+
+msgid  "mw_math_html"
+msgstr  "கூடுமானால் எச்.டி.எம்.எல் (HTML), இல்லாவிடில் பி.என்.ஞ்சி (PNG)"
+
+msgid  "mw_math_source"
+msgstr  "TeX  ஆக விட்டு வை (உரைசார் உலாவிகளுக்கு)"
+
+msgid  "mw_math_modern"
+msgstr  "புதிய உலாவிகளுக்குப் பரிந்துரைக்கப்படுவது"
+
+msgid  "mw_math_mathml"
+msgstr  "கூடுமாயின் MathML (சோதனை)"
+
+msgid  "math_failure"
+msgstr  "பாகுபடுத்தல் தோல்வி"
+
+msgid  "math_unknown_error"
+msgstr  "அறியாத ஏதோவொரு பிழை"
+
+msgid  "math_unknown_function"
+msgstr  "அறியப்படாத செயற்பாடு"
+
+msgid  "math_lexing_error"
+msgstr  "தொகுத்தல் (லெக்சிங்) தவறு"
+
+msgid  "math_syntax_error"
+msgstr  "தொடரமைப்புத் தவறு"
+
+msgid  "math_bad_tmpdir"
+msgstr  "தற்காலிக கணித அடைவை உருவாக்க அல்லது எழுத முடியவில்லை"
+
+msgid  "math_bad_output"
+msgstr  "கணித அடைவை உருவாக்க அல்லது அதில் எழுத முடியவில்லை."
+
+msgid  "markaspatrolleddiff"
+msgstr  "ரோந்திட்டதாக குறி"
+
+msgid  "markaspatrolledtext"
+msgstr  "இப்பக்கத்தை ரோந்திட்டதாகக் குறி"
+
+msgid  "markedaspatrolled"
+msgstr  "ரோந்திட்டதாக குறிக்கப்பட்டது"
+
+msgid  "markedaspatrolledtext"
+msgstr  "தெரிவு செய்யப்பட்டத் திருத்தம் [[:$1]]  பார்வையிட்டதாக குறிக்கப்பட்டுள்ளது."
+
+msgid  "rcpatroldisabled"
+msgstr  "அண்மைய மாற்றங்களின் ரோந்து முடக்கப்பட்டுள்ளது"
+
+msgid  "rcpatroldisabledtext"
+msgstr  "அண்மைய மாற்றங்களின் ரோந்து தற்காலிகமாக முடக்கப்பட்டுள்ளது."
+
+msgid  "markedaspatrollederror"
+msgstr  "ரோந்திட்டதாக குறிக்க முடியாது"
+
+msgid  "markedaspatrollederrortext"
+msgstr  "ரோந்திட்டதாக குறிக்க நீங்கள் திருத்தமொன்றைக் குறிப்பிட வேண்டும்."
+
+msgid  "markedaspatrollederror-noautopatrol"
+msgstr  "உமது மாற்றங்களை நீரே ரோந்திட்டதாக குறிக்க அனுமதி கிடையாது."
+
+msgid  "patrol-log-page"
+msgstr  "ரோந்துப் பதிகை"
+
+msgid  "patrol-log-line"
+msgstr  "$1 பக்கத்தின் $2 திருத்தத்தை ரோந்திடப்பட்டதாகக் குறித்தார் $3"
+
+msgid  "patrol-log-auto"
+msgstr  "(தன்னிச்சையாக)"
+
+msgid  "patrol-log-diff"
+msgstr  "திருத்தம் $1"
+
+msgid  "deletedrevision"
+msgstr  "பழைய திருத்தம் $1 நீக்கப்பட்டது"
+
+msgid  "filedeleteerror-short"
+msgstr  "பின்வரும் கோப்பை நீக்குவதில் தவறு: $1"
+
+msgid  "filedeleteerror-long"
+msgstr  "கோப்பை நீக்கும் போது தவறுகள் ஏற்பட்டுள்ளன:\n\n$1"
+
+msgid  "filedelete-missing"
+msgstr  "\"$1\" என்றக் கோப்பு இல்லாதப்டியால் கோப்பை நீக்கமுடியாது."
+
+msgid  "filedelete-old-unregistered"
+msgstr  "குறித்த திருத்தம் \"$1\"  தரவுத்தளத்தில் காணப்படவில்லை."
+
+msgid  "filedelete-current-unregistered"
+msgstr  "குறித்தக் கோப்பு \"$1\" தரவுத்தளத்தில் இல்லை."
+
+msgid  "filedelete-archive-read-only"
+msgstr  "வழங்கனால் பரண் அடைவு \"$1\" எழுதப்படமுடியாது."
+
+msgid  "previousdiff"
+msgstr  "← முந்தைய தொகுப்பு"
+
+msgid  "nextdiff"
+msgstr  "அடுத்த தொகுப்பு →"
+
+msgid  "mediawarning"
+msgstr  "'''எச்சரிக்கை''': இந்தக் கோப்பு கேடுவிளைவிக்கக் கூடிய நிரலைக் கொண்டிருக்கலாம், இதனை செயற்படுத்துவதன் மூலம் உங்கள் கணனியின் பாதுகாப்பு கேள்விகுற்படுத்தப்படலாம்."
+
+msgid  "imagemaxsize"
+msgstr  "படிமங்களின் உச்ச அளவு:<br />''(கோப்புக்களின் விவர பக்கங்களுக்கு)''"
+
+msgid  "thumbsize"
+msgstr  "சிறு முன்தோற்றத்தின் பரிமாணம்:"
+
+msgid  "widthheightpage"
+msgstr  "$1×$2, $3 {{PLURAL:$3|பக்கம்|பக்கங்கள்}}"
+
+msgid  "file-info"
+msgstr  "கோப்பின் அளவு: $1, MIME வகை: $2"
+
+msgid  "file-info-size"
+msgstr  "$1 × $2 படவணுக்கள், கோப்பின் அளவு: $3, MIME வகை: $4"
+
+msgid  "file-nohires"
+msgstr  "<small>இதைவிட அளவில் பெரிய படிமம் இல்லை.</small>"
+
+msgid  "svg-long-desc"
+msgstr  "SVG கோப்பு, பெயரளவில் $1 × $2 பிக்சல்கள், கோப்பு அளவு: $3"
+
+msgid  "show-big-image"
+msgstr  "முழு அளவிலான படிமம்"
+
+msgid  "show-big-image-thumb"
+msgstr  "<small>இந்த முன்தோற்றத்தின் பரிமாணம்: $1 × $2 பிக்சல்கள்</small>"
+
+msgid  "newimages"
+msgstr  "புதிய படிமங்கள் பக்கம்"
+
+msgid  "imagelisttext"
+msgstr  "கீழ் வருவது $2 பாகுபடுத்தப்பட்ட $1 {{PLURAL:$1|படிமத்தின்|படிமங்களின்}} பட்டியலாகும்."
+
+msgid  "newimages-summary"
+msgstr  "இச்சிறப்புப் பக்கம் கடைசியாக பதிவேற்றப்பட்ட பக்கங்களைப் பட்டியலிடுகிறது."
+
+msgid  "newimages-legend"
+msgstr  "வடிகட்டி"
+
+msgid  "newimages-label"
+msgstr  "கோப்பின் பெயர் (அல்லது அதன் பகுதி):"
+
+msgid  "showhidebots"
+msgstr  "(தானியங்கிகளை $1)"
+
+msgid  "noimages"
+msgstr  "பார்வைக்கு ஓன்றுமில்லை."
+
+msgid  "ilsubmit"
+msgstr  "தேடுக"
+
+msgid  "bydate"
+msgstr  "நாள் வழி"
+
+msgid  "sp-newimages-showfrom"
+msgstr  "$1, $2க்குப் பின்னரான புதியக் கோப்புக்களைக் காட்டுக"
+
+msgid  "bad_image_list"
+msgstr  "முறை பின்வருமாறு:\n\nபட்டியல் உள்ளடக்கங்கள் (* குறியீட்டுடன் தொடங்கும் வரிகள்) மட்டுமே கருத்தில் கொள்ளப்படும். பழுதுள்ளக் கோப்புடைய இணைப்பு ஒரு வரியில் முதலாவதாக தரப்பட வேண்டும்.\nதொடர்ந்து வரும் இணைப்புகள் விதிவிலக்குகளாக கருதப்படும், அதாவது வரியில் படிமங்கள் வரக்கூடிய பக்கங்கள்."
+
+msgid  "metadata"
+msgstr  "மேல் நிலைத் தரவு"
+
+msgid  "metadata-help"
+msgstr  "இந்தக் கோப்பு கூடுதலான தகவல்களைக் கொண்டுளது, இவை பெரும்பாலும் இக்கோப்பை உருவாக்கப் பயன்படுத்திய எண்ணிம ஒளிப்படக்கருவி அல்லது ஒளிவருடியால் சேர்க்கப்பட்டிருக்கலாம். இக்கோப்பு ஏதாவது வகையில் மாற்றியமைக்கப்பட்டிருந்தால் இத்தகவல்கள் அவற்றைச் சரிவர தராமல் இருக்கலாம்."
+
+msgid  "metadata-expand"
+msgstr  "மேலதிகத் தகவல்களைக் காட்டு"
+
+msgid  "metadata-collapse"
+msgstr  "மேலதிகத் தகவல்களை மறை"
+
+msgid  "metadata-fields"
+msgstr  "இங்கே காட்டப்பட்டுள்ள எக்சிப் மேல்நிலைத் தரவுகள் படிமவிளக்கப்பக்கத்தில் காட்டப்படும். ஏனைய தரவுகள் இயல்பிருப்பாக மறைக்கப்பட்டிருக்கும்.\n* make\n* model\n* datetimeoriginal\n* exposuretime\n* fnumber\n* isospeedratings\n* focallength"
+
+msgid  "exif-imagewidth"
+msgstr  "அகலம்"
+
+msgid  "exif-imagelength"
+msgstr  "உயரம்"
+
+msgid  "exif-compression"
+msgstr  "சுருக்கத் திட்டம்"
+
+msgid  "exif-photometricinterpretation"
+msgstr  "படவணுக்கள் (பிக்சல்) அமைப்புருவாக்கம்"
+
+msgid  "exif-orientation"
+msgstr  "திசை"
+
+msgid  "exif-samplesperpixel"
+msgstr  "அங்கங்களின் எண்ணிக்கை"
+
+msgid  "exif-planarconfiguration"
+msgstr  "தரவு அமைவு"
+
+msgid  "exif-xresolution"
+msgstr  "கிடை நுணுக்கம்"
+
+msgid  "exif-yresolution"
+msgstr  "நிலைக்குத்து நுணுக்கம்"
+
+msgid  "exif-resolutionunit"
+msgstr  "X, Y நுணுக்களின் அலகு"
+
+msgid  "exif-stripoffsets"
+msgstr  "படிமத் தரவு அமைவிடம்"
+
+msgid  "exif-rowsperstrip"
+msgstr  "ஒரு பட்டையில் உள்ள நிரைகளின் எண்ணிக்கை"
+
+msgid  "exif-stripbytecounts"
+msgstr  "சுருக்கப்பட்ட பட்டியில் உள்ள பைட்டுகள்"
+
+msgid  "exif-jpeginterchangeformatlength"
+msgstr  "சே.பி.இ.சி (JPEG) தரவுகளின் பைட் அளவு"
+
+msgid  "exif-transferfunction"
+msgstr  "இடமாற்ற செயல்முறை"
+
+msgid  "exif-datetime"
+msgstr  "கோப்பு மாற்ற நாள் நேரம்"
+
+msgid  "exif-imagedescription"
+msgstr  "படிம தலைப்பு"
+
+msgid  "exif-make"
+msgstr  "படமி (கமெரா) படைப்பாளர்"
+
+msgid  "exif-model"
+msgstr  "படமி (கமெரா) வகை"
+
+msgid  "exif-software"
+msgstr  "பயன்படுத்தப்பட்ட மென்பொருள்"
+
+msgid  "exif-artist"
+msgstr  "ஆக்கர்"
+
+msgid  "exif-copyright"
+msgstr  "பதிப்புரிமையாளர்"
+
+msgid  "exif-exifversion"
+msgstr  "எக்ஃசிஃப் (Exif) பதிப்பு"
+
+msgid  "exif-flashpixversion"
+msgstr  "பயன்வழக்கிலுள்ள பிளாழ்சுபிக்ஃசு (Flashpix) பதிப்பு"
+
+msgid  "exif-colorspace"
+msgstr  "நிற வெளி"
+
+msgid  "exif-componentsconfiguration"
+msgstr  "ஒவ்வெரு அங்கத்தினதும் பொருள்"
+
+msgid  "exif-compressedbitsperpixel"
+msgstr  "படிம சுறுக்க முறை"
+
+msgid  "exif-pixelydimension"
+msgstr  "செல்லுபடியான படிம அகலம்"
+
+msgid  "exif-pixelxdimension"
+msgstr  "செல்லுபடியான படிம உயரம்"
+
+msgid  "exif-makernote"
+msgstr  "உற்பத்தியாளர் குறிப்புகள்"
+
+msgid  "exif-usercomment"
+msgstr  "பயனர் கருத்துக்கள்"
+
+msgid  "exif-relatedsoundfile"
+msgstr  "தொடர்புள்ள ஒலிக்கோப்பு"
+
+msgid  "exif-datetimeoriginal"
+msgstr  "தரவு உருவாக்க நாள் நேரம்"
+
+msgid  "exif-datetimedigitized"
+msgstr  "மென் கோப்புச் செய்யப்பட்ட நாள் நேரம்"
+
+msgid  "exif-subsectime"
+msgstr  "நாள் நேரம் பகுதி செக்கன்கள்"
+
+msgid  "exif-subsectimeoriginal"
+msgstr  "மூலநாள்நேரம் துணைசெக்கன்கள்"
+
+msgid  "exif-subsectimedigitized"
+msgstr  "எண்மருக்கியநாள்நேரம் துணைசெக்கன்கள்"
+
+msgid  "exif-exposuretime"
+msgstr  "திறப்பு"
+
+msgid  "exif-exposuretime-format"
+msgstr  "$1 நொடி ($2)"
+
+msgid  "exif-fnumber"
+msgstr  "குவிய விகிதம் (எஃப் எண்)"
+
+msgid  "exif-exposureprogram"
+msgstr  "மறைநீக்க நிரல்"
+
+msgid  "exif-spectralsensitivity"
+msgstr  "நிறமாலை உணர்திறன்"
+
+msgid  "exif-isospeedratings"
+msgstr  "சீர்தரத்துக்கான அனைத்துலக நிறுவனத்தின் வேகத் தரப்படுத்தல்"
+
+msgid  "exif-shutterspeedvalue"
+msgstr  "மூடி வேகம்"
+
+msgid  "exif-aperturevalue"
+msgstr  "துவாரம்"
+
+msgid  "exif-brightnessvalue"
+msgstr  "ஒளிர்மை"
+
+msgid  "exif-exposurebiasvalue"
+msgstr  "மறைநீக்கக் கோடல்"
+
+msgid  "exif-subjectdistance"
+msgstr  "கருப்பொருளின் தூரம்"
+
+msgid  "exif-lightsource"
+msgstr  "ஒளி மூலம்"
+
+msgid  "exif-flash"
+msgstr  "திடீர் ஒளிபாய்ச்சி"
+
+msgid  "exif-focallength"
+msgstr  "வில்லைக் குவியம் (குவியத்தொலைவு)"
+
+msgid  "exif-subjectarea"
+msgstr  "பொருள் பகுதி"
+
+msgid  "exif-flashenergy"
+msgstr  "திடீர் ஒளி வலு"
+
+msgid  "exif-focalplanexresolution"
+msgstr  "X குவியத் தளத்தில் நுணுக்கம்"
+
+msgid  "exif-focalplaneyresolution"
+msgstr  "Y குவியத் தளத்தில் நுணுக்கம்"
+
+msgid  "exif-focalplaneresolutionunit"
+msgstr  "குவியத் தள நுணுக்கத்தின் அலகு"
+
+msgid  "exif-subjectlocation"
+msgstr  "பொருளின் இடம்"
+
+msgid  "exif-exposureindex"
+msgstr  "திறப்புச் சுட்டெண்"
+
+msgid  "exif-sensingmethod"
+msgstr  "உணர்வு முறை"
+
+msgid  "exif-filesource"
+msgstr  "கோப்பு மூலம்"
+
+msgid  "exif-scenetype"
+msgstr  "காட்சி வகை"
+
+msgid  "exif-cfapattern"
+msgstr  "சி.எஃப்.ஏ. கோலம்"
+
+msgid  "exif-exposuremode"
+msgstr  "மறைநீக்க முறை"
+
+msgid  "exif-whitebalance"
+msgstr  "வெள்ளைச் சமநிலை"
+
+msgid  "exif-digitalzoomratio"
+msgstr  "எண்மருவி பெருப்பித்தல் விகிதம்"
+
+msgid  "exif-focallengthin35mmfilm"
+msgstr  "35 மி.மி. படச்சுருளில் குவியத்தொலைவு"
+
+msgid  "exif-scenecapturetype"
+msgstr  "பிடிக்கப்பட்ட காட்சி வகை"
+
+msgid  "exif-gaincontrol"
+msgstr  "காட்சிக் கட்டுப்பாடு"
+
+msgid  "exif-contrast"
+msgstr  "உறழ்பொருவு"
+
+msgid  "exif-saturation"
+msgstr  "பூரிதம்"
+
+msgid  "exif-sharpness"
+msgstr  "கூர்மை"
+
+msgid  "exif-devicesettingdescription"
+msgstr  "கருவி அமைவுகள் விளக்கம்"
+
+msgid  "exif-imageuniqueid"
+msgstr  "படிம அடையாள எண்"
+
+msgid  "exif-gpsversionid"
+msgstr  "புவியிடம் காலம் விரைவு காட்டி குறி பதிப்பு"
+
+msgid  "exif-gpslatituderef"
+msgstr  "வடக்கு அல்லது தெற்கு அகலாங்கு"
+
+msgid  "exif-gpslatitude"
+msgstr  "அகலாங்கு"
+
+msgid  "exif-gpslongituderef"
+msgstr  "கிழக்கு அல்லது மேற்கு நெட்டாங்கு"
+
+msgid  "exif-gpslongitude"
+msgstr  "நெட்டாங்கு"
+
+msgid  "exif-gpsaltitude"
+msgstr  "உயரம்"
+
+msgid  "exif-gpstimestamp"
+msgstr  "புவியிடம் காலம் விரைவு காட்டி நேரம் (அணுக் கடிகாரம்)"
+
+msgid  "exif-gpssatellites"
+msgstr  "பயன்படுத்தப்பட்ட செய்மதிகள்"
+
+msgid  "exif-gpsstatus"
+msgstr  "வாங்கியின் நிலை"
+
+msgid  "exif-gpsmeasuremode"
+msgstr  "அளவீட்டு முறை"
+
+msgid  "exif-gpsdop"
+msgstr  "அளவீட்டுத் துல்லியம்"
+
+msgid  "exif-gpsspeedref"
+msgstr  "வேகதின் அலகு"
+
+msgid  "exif-gpsspeed"
+msgstr  "புவியிடம் காலம் விரைவு காட்டியின் வேகம்"
+
+msgid  "exif-gpstrack"
+msgstr  "அசைவுத் திசை"
+
+msgid  "exif-gpsimgdirection"
+msgstr  "படிமத்தின் திசை"
+
+msgid  "exif-gpsmapdatum"
+msgstr  "பயன்படுத்தப்பட்ட புவிப்பகுப்பளவியல் தரவுகள்"
+
+msgid  "exif-gpsprocessingmethod"
+msgstr  "புவியிடம் காலம் விரைவு காட்டி செயல்முறையின் பெயர்"
+
+msgid  "exif-gpsareainformation"
+msgstr  "புவியிடம் காலம் விரைவு காட்டி பிரதேசத்தின் பெயர்"
+
+msgid  "exif-gpsdatestamp"
+msgstr  "புவியிடம் காலம் விரைவு காட்டி நாள்"
+
+msgid  "exif-compression-1"
+msgstr  "சுருக்கப்படாத"
+
+msgid  "exif-unknowndate"
+msgstr  "நாள் தெரியாது"
+
+msgid  "exif-orientation-1"
+msgstr  "வழமையான"
+
+msgid  "exif-orientation-3"
+msgstr  "180° சுழற்றப்பட்டது"
+
+msgid  "exif-orientation-6"
+msgstr  "90° வலஞ்சுழியாக சுழற்றப்பட்டது"
+
+msgid  "exif-orientation-8"
+msgstr  "90° இடஞ்சுழியாக சுழற்றப்பட்டது"
+
+msgid  "exif-componentsconfiguration-0"
+msgstr  "இல்லை"
+
+msgid  "exif-exposureprogram-0"
+msgstr  "வரையறுக்கப்படவில்லை"
+
+msgid  "exif-exposureprogram-1"
+msgstr  "கைமுறை"
+
+msgid  "exif-exposureprogram-2"
+msgstr  "வழக்கமான நிரல்"
+
+msgid  "exif-exposureprogram-3"
+msgstr  "துளை முன்னுரிமை"
+
+msgid  "exif-exposureprogram-4"
+msgstr  "மறைப்பான்விரைவு முன்னுரிமை"
+
+msgid  "exif-subjectdistance-value"
+msgstr  "$1 மீட்டர்கள்"
+
+msgid  "exif-meteringmode-0"
+msgstr  "தெரியாது"
+
+msgid  "exif-meteringmode-1"
+msgstr  "சராசரி"
+
+msgid  "exif-meteringmode-3"
+msgstr  "புள்ளி"
+
+msgid  "exif-meteringmode-4"
+msgstr  "பல்புள்ளி"
+
+msgid  "exif-meteringmode-5"
+msgstr  "கோலம்"
+
+msgid  "exif-meteringmode-6"
+msgstr  "பகுதி"
+
+msgid  "exif-meteringmode-255"
+msgstr  "மற்றவை"
+
+msgid  "exif-lightsource-0"
+msgstr  "தெரியாது"
+
+msgid  "exif-lightsource-1"
+msgstr  "பகலொளி"
+
+msgid  "exif-lightsource-2"
+msgstr  "உடனொளிர்வு விளக்கு"
+
+msgid  "exif-lightsource-3"
+msgstr  "தங்கிசிட்டன் இழை (விளக்கு ஒளி)"
+
+msgid  "exif-lightsource-4"
+msgstr  "திடீர் ஒளி"
+
+msgid  "exif-lightsource-9"
+msgstr  "நல்ல வானிலை"
+
+msgid  "exif-lightsource-10"
+msgstr  "மோடம் (கார்முகில் மூட்டம்)"
+
+msgid  "exif-lightsource-11"
+msgstr  "நிழல்"
+
+msgid  "exif-lightsource-12"
+msgstr  "பகலொளி உடனொளிர்வு (புளோரசெண்ட்டு) விளக்கு (D 5700 – 7100K)"
+
+msgid  "exif-lightsource-13"
+msgstr  "நாள் வெள்ளை உடனொளிர் (N 4600 – 5400K)"
+
+msgid  "exif-lightsource-14"
+msgstr  "தண்மையான வெள்ளை உடனொளிர்ச்சி (புளோரசெண்ட்டு) (W 3900 – 4500K)"
+
+msgid  "exif-lightsource-15"
+msgstr  "வெள்ளை உடனொளிர் (WW 3200 – 3700K)"
+
+msgid  "exif-lightsource-17"
+msgstr  "சீர்தர ஒளி A"
+
+msgid  "exif-lightsource-18"
+msgstr  "சீர்தர ஒளி B"
+
+msgid  "exif-lightsource-19"
+msgstr  "சீர்தர ஒளி C"
+
+msgid  "exif-lightsource-24"
+msgstr  "பன்னாட்டு சீர்தர அமைய கலையக தங்குதன்"
+
+msgid  "exif-lightsource-255"
+msgstr  "வேறு ஒளி மூலம்"
+
+msgid  "exif-focalplaneresolutionunit-2"
+msgstr  "அங்குலங்கள்"
+
+msgid  "exif-sensingmethod-1"
+msgstr  "இனந்தெரியாத"
+
+msgid  "exif-scenetype-1"
+msgstr  "நேரடிப் புகைப்படப் படிமம்"
+
+msgid  "exif-customrendered-0"
+msgstr  "சாதரணச் செயற்பாடு"
+
+msgid  "exif-customrendered-1"
+msgstr  "வடிவமைக்கப்பட்ட செயற்பாடு"
+
+msgid  "exif-exposuremode-0"
+msgstr  "தானியக்க திறப்பு"
+
+msgid  "exif-exposuremode-2"
+msgstr  "தானியக்க அடைப்புக் குறி"
+
+msgid  "exif-whitebalance-0"
+msgstr  "தானியக்க வெள்ளைச் சமநிலை"
+
+msgid  "exif-scenecapturetype-0"
+msgstr  "சீர்தர"
+
+msgid  "exif-scenecapturetype-1"
+msgstr  "அகலவாட்டு"
+
+msgid  "exif-scenecapturetype-2"
+msgstr  "நெடுக்கு வாட்டு (உருவப்படம்)"
+
+msgid  "exif-scenecapturetype-3"
+msgstr  "இராக் காட்சி"
+
+msgid  "exif-gaincontrol-0"
+msgstr  "எதுவுமில்லை"
+
+msgid  "exif-contrast-0"
+msgstr  "சாதரணம்"
+
+msgid  "exif-contrast-1"
+msgstr  "மென்மை"
+
+msgid  "exif-contrast-2"
+msgstr  "கடினம்"
+
+msgid  "exif-saturation-0"
+msgstr  "சாதரணம்"
+
+msgid  "exif-saturation-1"
+msgstr  "தாழ் பூரிதம்"
+
+msgid  "exif-saturation-2"
+msgstr  "உயர் பூரிதம்"
+
+msgid  "exif-sharpness-0"
+msgstr  "சாதரணம்"
+
+msgid  "exif-sharpness-1"
+msgstr  "மென்மை"
+
+msgid  "exif-sharpness-2"
+msgstr  "கடினம்"
+
+msgid  "exif-subjectdistancerange-0"
+msgstr  "தெரியாது"
+
+msgid  "exif-subjectdistancerange-1"
+msgstr  "மிக அண்மையக் காட்சி"
+
+msgid  "exif-subjectdistancerange-2"
+msgstr  "அண்மையக் காட்சி"
+
+msgid  "exif-subjectdistancerange-3"
+msgstr  "தூரக் காட்சி"
+
+msgid  "exif-gpslatitude-n"
+msgstr  "வட அகலாங்கு"
+
+msgid  "exif-gpslatitude-s"
+msgstr  "தென் அகலாங்கு"
+
+msgid  "exif-gpslongitude-e"
+msgstr  "கிழக்கு நெட்டாங்கு"
+
+msgid  "exif-gpslongitude-w"
+msgstr  "மேற்கு நெட்டாங்கு"
+
+msgid  "exif-gpsstatus-a"
+msgstr  "அளவீடு நடைப்பெற்று வருகிறது"
+
+msgid  "exif-gpsmeasuremode-2"
+msgstr  "இருபரிமாண அளவீடு"
+
+msgid  "exif-gpsmeasuremode-3"
+msgstr  "முப்பரிமாண அளவீடு"
+
+msgid  "exif-gpsspeed-k"
+msgstr  "மணிக்கு கிலோமீட்டர்"
+
+msgid  "exif-gpsspeed-m"
+msgstr  "மணித்தியாலத்துக்கு மைல்கள்"
+
+msgid  "exif-gpsspeed-n"
+msgstr  "கடல் மைல்/மணி"
+
+msgid  "exif-gpsdirection-t"
+msgstr  "உண்மைத் திசை"
+
+msgid  "exif-gpsdirection-m"
+msgstr  "காந்த திசை"
+
+msgid  "edit-externally"
+msgstr  "இக்கோப்பை வெளி மென்பொருள் கொண்டு தொகுக்க"
+
+msgid  "edit-externally-help"
+msgstr  "மேலும் தகவல்களுக்கு [http://www.mediawiki.org/wiki/Manual:External_editors அமைப்பு அறிவுறுத்தல்கள்] பக்கத்தைப் பார்க்கவும்."
+
+msgid  "recentchangesall"
+msgstr  "அனைத்தும்"
+
+msgid  "imagelistall"
+msgstr  "அனைத்து"
+
+msgid  "watchlistall2"
+msgstr  "அனைத்து"
+
+msgid  "namespacesall"
+msgstr  "அனைத்து"
+
+msgid  "monthsall"
+msgstr  "அனைத்து மாதங்களும்"
+
+msgid  "limitall"
+msgstr  "அனைத்து"
+
+msgid  "confirmemail"
+msgstr  "மின்னஞ்சல் முகவரியை உறுதிப்படுத்துக"
+
+msgid  "confirmemail_noemail"
+msgstr  "உங்கள் [[Special:Preferences|பயனர் விருப்பத்தேர்வுகளில்]] செல்லுபடியான மின்னஞ்சல் முகவரியைக் குறிப்பிடவில்லை."
+
+msgid  "confirmemail_text"
+msgstr  "மின்னஞ்சல் சிறப்பியல்புகளைப் பயன்படுத்துவதற்கு {{SITENAME}} தளம் உங்களது மின்னஞ்சல் உறுதிப்படுத்தப்பட வேண்டும் மென எதிர்பார்க்கின்றது. உறுதிப்படுத்தல் மின்னஞ்சல் ஒன்றை அனுப்ப கீழுள்ள விசையை முடுக்கவும். மின்னஞ்சல் ஒரு இணைப்பைக் கொண்டிருக்கும்; உங்கள் மின்னஞ்சலை உறுதிப்படுத்த இவ்விணைப்பை உங்கள் உலாவியில் திறக்கவும்."
+
+msgid  "confirmemail_pending"
+msgstr  "உறுதிப்படுத்தல் குறியொன்று உங்கள் மின்னஞ்சல் முகவரிக்கு அனுப்பட்டுள்ளது; நீங்கள் கணக்கை தற்போது தொடங்கியிருந்தால் புதிய உறுதிப்படுத்தல் குறியை கோறுமுன்னர் சில நிமிடங்கள் பொறுத்துப் பார்க்கவும்"
+
+msgid  "confirmemail_send"
+msgstr  "உறுதிப்படுத்தல் சொல்லை மின்னஞ்சல் செய்"
+
+msgid  "confirmemail_sent"
+msgstr  "உறுதிப்படுத்தல் மின்னஞ்சல் அனுப்பப் பட்டது."
+
+msgid  "confirmemail_oncreate"
+msgstr  "உறுதிப்படுத்தல் குறியொன்று உங்கள் மின்னஞ்சல் முகவரிக்கு அனுப்பட்டுள்ளது.\nஇக்குறி புகுபதிகைச் செய்ய தேவையில்லை, எனினும் மின்னஞ்சல் முகவரியுடன் தொடர்புடைய அம்சங்களைப் செயல்படுநிலைக்கு கொண்டுவர முதலில் இக்குறியை கொடுக்க வேண்டும்."
+
+msgid  "confirmemail_sendfailed"
+msgstr  "உறுதிப்படுத்தல் மின்னஞ்சலை {{SITENAME}} தளத்தால் அனுப்ப முடியவில்லை. மின்னஞ்சல் முகவரியில் செல்லுபடியற்ற எழுத்துக்கள் உள்ளனவா என்பதை சரி பார்க்கவும்.\n\nமின்னஞ்சல் நிறுவனத்தின் பதில்: $1"
+
+msgid  "confirmemail_invalid"
+msgstr  "செல்லுபடியற்ற உறுதிப்படுத்தல் குறி. குறி காலாவதியாகியிருக்கலாம்."
+
+msgid  "confirmemail_needlogin"
+msgstr  "மின்னஞ்சல் முகவரியை உறுதிப்படுத்த நீங்கள் $1 வேண்டும்."
+
+msgid  "confirmemail_success"
+msgstr  "உங்கள் மின்னஞ்சல் முகவரி உறுதிப்படுத்தப்பட்டது. நீங்கள் இப்போது புகுபதிகை செய்யலாம்."
+
+msgid  "confirmemail_loggedin"
+msgstr  "உங்கள் மின்னஞ்சல் முகவரி உறுதிப்படுத்தப்பட்டது."
+
+msgid  "confirmemail_error"
+msgstr  "உங்கள் உறுத்திபடுத்தல் செயற்பாட்டில் ஏதோ தவறு நடைபெற்றிருக்கிறது."
+
+msgid  "confirmemail_subject"
+msgstr  "{{SITENAME}} தளத்தின் மின்னஞ்சல் உறுதிப்படுத்தல்"
+
+msgid  "confirmemail_body"
+msgstr  "$1 என்ற ஐ.பி. முகவரியிலிருந்து ஒருவர், பெரும்பாலும் நீங்களாகவும் இருக்கலாம், {{SITENAME}} தளத்தில் \"$2\" என்றக் கணக்கை இந்த மின்னஞ்சல் முகவரியுடன் பதிவுச் செய்துள்ளார்.\n\nஇந்தக் கணக்கு உங்களுடையது என்பதை உறுதிப்படுத்தி {{SITENAME}} தளத்தின் மின்னஞ்சல் சிறப்பியல்புகளை முடுக்குவதற்கு பின்வரும் இணைப்பை உங்கள் வலை உலாவியில் திறக்கவும்:\n\n$3\n\nஇதை செய்தது நீங்கள் *இல்லையென்றால்* பின்வரும் இணைப்பின் வழிச்சென்று மின்னஞ்சலை உறுதிப்படுத்தலை இல்லாது செய்யவும்:\n\n$5\n\n\nஉறுதிப்படுத்தல் குறி $4 அன்று காலவதியாகும்."
+
+msgid  "confirmemail_invalidated"
+msgstr  "மின்னஞ்சல் உறுதிப்படுத்தல் இரத்துச் செய்யப்பட்டது"
+
+msgid  "invalidateemail"
+msgstr  "மின்னஞ்சல் உறுதிப்படுத்தலை இரத்துச் செய்க"
+
+msgid  "scarytranscludedisabled"
+msgstr  "[விக்கியிடை இணைப்புகள் முடக்கப்பட்டுள்ளது]"
+
+msgid  "scarytranscludefailed"
+msgstr  "[$1 பக்கத்துக்கான வாப்புருபெறு முயற்சித் தோல்வியடைந்தது]"
+
+msgid  "scarytranscludetoolong"
+msgstr  "[இணைய முகவரி மிகவும் நீளமானது]"
+
+msgid  "trackbackremove"
+msgstr  "([$1 நீக்கு])"
+
+msgid  "deletedwhileediting"
+msgstr  "'''எச்சரிக்கை''': நீங்கள் இப்பக்கத்தை தொகுக்க தொடங்கியப் பின் அது நீக்கப்பட்டுள்ளது!"
+
+msgid  "confirmrecreate"
+msgstr  "நீங்கள் தொகுக்க தொடங்கியப் பின்ன பயனர் [[User:$1|$1]] ([[User talk:$1|பேச்சு]]) இப்பக்கத்தை நீக்கியுள்ளார் தரப்பட்டக் காரணம்:\n: ''$2''\nஇப்பக்கத்தை மீள் உருவாக்க வேண்டுமா என்பதை உறுதிப்படுத்தவும்."
+
+msgid  "recreate"
+msgstr  "மீள உருவாக்கு"
+
+msgid  "confirm_purge_button"
+msgstr  "ஆம்"
+
+msgid  "confirm-purge-top"
+msgstr  "இப்பக்கத்தின் இடைமாற்றை நீக்கவா?"
+
+msgid  "confirm-purge-bottom"
+msgstr  "ஒரு பக்கத்தை நீக்குதல், அதன் இடைமாற்றை நீக்கி மிக அண்மையப் பதிப்பை தோன்ற செய்யும்."
+
+msgid  "imgmultipageprev"
+msgstr  "← முந்தைய பக்கம்"
+
+msgid  "imgmultipagenext"
+msgstr  "அடுத்தப் பக்கம் →"
+
+msgid  "imgmultigo"
+msgstr  "செல்!"
+
+msgid  "imgmultigoto"
+msgstr  "பக்கம் $1இற்கு செல்க"
+
+msgid  "ascending_abbrev"
+msgstr  "ஏறு"
+
+msgid  "descending_abbrev"
+msgstr  "இறங்கு"
+
+msgid  "table_pager_next"
+msgstr  "அடுத்த பக்கம்"
+
+msgid  "table_pager_prev"
+msgstr  "முந்தைய பக்கம்"
+
+msgid  "table_pager_first"
+msgstr  "முதலாவது பக்கம்"
+
+msgid  "table_pager_last"
+msgstr  "கடைசி பக்கம்"
+
+msgid  "table_pager_limit"
+msgstr  "ஒரு பக்கத்துக்கு $1 உள்ளடக்கங்களைக் காட்டு"
+
+msgid  "table_pager_limit_submit"
+msgstr  "செல்"
+
+msgid  "table_pager_empty"
+msgstr  "முடிவுகள் ஏதுமில்லை"
+
+msgid  "autosumm-blank"
+msgstr  "இப்பக்கத்தில் இருந்த உள்ளடக்கங்கள் நீக்கப்பட்டுவிட்டன"
+
+msgid  "autosumm-replace"
+msgstr  "பக்கத்தை '$1' கொண்டு பிரதியீடு செய்தல்"
+
+msgid  "autoredircomment"
+msgstr  "[[$1]] நோக்கி நகர்த்தல்"
+
+msgid  "autosumm-new"
+msgstr  "\"$1\"-இப்பெயரில் புதிய பக்கம் உருவாக்கப்பட்டுள்ளது"
+
+msgid  "livepreview-loading"
+msgstr  "ஏற்றப்படுகிறது…"
+
+msgid  "livepreview-ready"
+msgstr  "ஏற்றப்படுகிறது… தயார்!"
+
+msgid  "livepreview-failed"
+msgstr  "நேரடி முன்தோற்றம் தோல்வி! இயல்பான முன்தோற்றத்தைப் பயன்படுத்து"
+
+msgid  "livepreview-error"
+msgstr  "இணைக்க முடியவில்லை: $1 \"$2\". பொதுவான முன்தோற்றத்தை முயல்க."
+
+msgid  "lag-warn-normal"
+msgstr  "$1 {{PLURAL:$1|விநாடிக்குள்|விநாடிகளுக்குள்}} ஏற்பட்ட புதிய மாற்றங்கள் இந்த பட்டியலில் காட்டப்படாமல் இருக்கலாம்."
+
+msgid  "lag-warn-high"
+msgstr  "அதிகமான தரவுத்தள இடைமாற்று காரணமாக $1 {{PLURAL:$1|விநாடிக்குள்|விநாடிகளுக்குள்}} ஏற்பட்ட புதிய மாற்றங்கள் இந்த பட்டியலில் காட்டப்படாமல் இருக்கலாம்."
+
+msgid  "watchlistedit-numitems"
+msgstr  "பேச்சுப் பக்கங்களைக் கணக்கிடாமல், உங்கள் கவனிப்புப் பட்டியலில் {{PLURAL:$1|ஒரு பக்கம் உள்ளது|$1 பக்கங்கள் உள்ளன}}."
+
+msgid  "watchlistedit-noitems"
+msgstr  "உங்கள் கவனிப்புப் பட்டியலில் தலைப்புகள் ஏதுமில்லை."
+
+msgid  "watchlistedit-normal-title"
+msgstr  "கவனிப்புப் பட்டியலைத் தொகு"
+
+msgid  "watchlistedit-normal-legend"
+msgstr  "கவனிப்புப் பட்டியலிலிருந்து தலைப்புகளை நீக்கு"
+
+msgid  "watchlistedit-normal-explain"
+msgstr  "உங்கள் கவனிப்புப் பட்டியலில் உள்ள தலைப்புகள் கீழே காட்டப்பட்டுள்ளன.\nதலைப்பொன்றை நீக்குவதற்கு அதற்கு முன்னால் காணப்படும் பெட்டியில் சொடுகி தலைப்புக்களை நீக்கு பொத்தானை அழுத்தவும்.\nமேலும் [[Special:Watchlist/raw|விக்கி நிரலெதுவுமற்ற பட்டியலை தொகுக்கலாம்]]"
+
+msgid  "watchlistedit-normal-submit"
+msgstr  "தலைப்புக்களை நீக்கு"
+
+msgid  "watchlistedit-normal-done"
+msgstr  "உங்கள் கவனிப்புப் பட்டியலிலிருந்து {{PLURAL:$1|ஒரு தலைப்பு நீக்கப்பட்டது|$1 தலைப்புகள் நீக்கப்பட்டன}}:"
+
+msgid  "watchlistedit-raw-title"
+msgstr  "விக்கி நிரலற்றக் கவனிப்புப் பட்டியலைத் தொகு"
+
+msgid  "watchlistedit-raw-legend"
+msgstr  "விக்கி நிரலற்றக் கவனிப்புப் பட்டியலைத் தொகு"
+
+msgid  "watchlistedit-raw-explain"
+msgstr  "உங்கள் கவனிப்புப் பட்டியலில் உள்ள தலைப்புகள் கீழே காட்டப்பட்டுள்ளன, இப்பட்டியலில் உள்ள தலைப்புகளை நீக்குவதன் மூலம் பட்டியலில் இருந்து தலைப்புகளை நீக்கலாம் அல்லது வரிக்கு ஒரு தலைப்பு என்றவாறு பக்கங்களைச் சேர்ப்பதன் மூலம் பட்டியலுக்குப் பக்கங்களை இணைக்கலாம். முடிவுற்றவுடன் இற்றைப்படுத்து விசையைச் சொடுக்கவும்.\n\nமேலும் [[Special:Watchlist/edit|விக்கி சாதாரணத் தொகுப்பைப் பயன்படுத்தியும்]] கவனிப்புப் பட்டியலைத் தொகுக்க முடியும்."
+
+msgid  "watchlistedit-raw-titles"
+msgstr  "தலைப்புகள்:"
+
+msgid  "watchlistedit-raw-submit"
+msgstr  "கவனிப்புப் பட்டியலை இற்றைப்படுத்து"
+
+msgid  "watchlistedit-raw-done"
+msgstr  "உங்கள் கவனிப்புப் பட்டியல் இற்றைப்படுத்தப்பட்டது."
+
+msgid  "watchlistedit-raw-added"
+msgstr  "{{PLURAL:$1|ஒரு தலைப்பு இணைக்கப்பட்டது|$1 தலைப்புகள் இணைக்கப்பட்டன}}:"
+
+msgid  "watchlistedit-raw-removed"
+msgstr  "{{PLURAL:$1|ஒரு தலைப்பு நீக்கப்பட்டது|$1 தலைப்புகள் நீக்கப்பட்டன}}:"
+
+msgid  "watchlisttools-view"
+msgstr  "தொடர்பான மாற்றங்களைப் பார்"
+
+msgid  "watchlisttools-edit"
+msgstr  "என்கவனிப்பு பட்டியலை பார்த்து தொகு"
+
+msgid  "watchlisttools-raw"
+msgstr  "விக்கி நிரலற்றக் கவனிப்புப் பட்டியலைத் தொகு"
+
+msgid  "unknown_extension_tag"
+msgstr  "அறியப்படாத நீட்சி வகை \"$1\""
+
+msgid  "version"
+msgstr  "பதிப்பு"
+
+msgid  "version-extensions"
+msgstr  "நிறுவப்பட்ட நீட்சிகள்"
+
+msgid  "version-specialpages"
+msgstr  "சிறப்புப் பக்கங்கள்"
+
+msgid  "version-parserhooks"
+msgstr  "இலக்கணப் பாகுபடுத்தி கொக்கிகள்"
+
+msgid  "version-variables"
+msgstr  "மாறிகள்"
+
+msgid  "version-other"
+msgstr  "மற்றவை"
+
+msgid  "version-mediahandlers"
+msgstr  "ஊடக கையாளிகள்"
+
+msgid  "version-hooks"
+msgstr  "கொக்கிகள்"
+
+msgid  "version-extension-functions"
+msgstr  "நீட்சி செயற்பாடுகள்"
+
+msgid  "version-parser-extensiontags"
+msgstr  "இலக்கணப் பாகுபடுத்தி நீட்சி குறிச்சொற்கள்"
+
+msgid  "version-parser-function-hooks"
+msgstr  "இலக்கணப் பாகுபடுத்தி செயற்பாட்டு கொக்கிகள்"
+
+msgid  "version-skin-extension-functions"
+msgstr  "தோல் நீட்சி செயல்பாடு"
+
+msgid  "version-hook-name"
+msgstr  "கொக்கியின் பெயர்"
+
+msgid  "version-hook-subscribedby"
+msgstr  "பயன்பாடு"
+
+msgid  "version-version"
+msgstr  "(பதிப்பு $1)"
+
+msgid  "version-license"
+msgstr  "அனுமதி"
+
+msgid  "version-poweredby-others"
+msgstr  "மற்றவைகள்"
+
+msgid  "version-software"
+msgstr  "நிறுவப்பட்ட மென்பொருள்"
+
+msgid  "version-software-product"
+msgstr  "உற்பத்திப்பொருள்"
+
+msgid  "version-software-version"
+msgstr  "பதிப்பு"
+
+msgid  "filepath"
+msgstr  "கோப்பு வழி"
+
+msgid  "filepath-page"
+msgstr  "கோப்பு:"
+
+msgid  "filepath-submit"
+msgstr  "செல்"
+
+msgid  "filepath-summary"
+msgstr  "இச்சிறப்புப் பக்கம் கோப்பு ஒன்றுக்கான முழுமையான முகவரியை பெற்றுக் கொடுக்கும்.\nபடிமங்கள் அவற்றின் முழு அளவில் காட்டபடுவதோடு ஏனைய கோப்புகள் அவற்றுக்கான மென்பொருளில் நேரடியாகத் திறக்கப்படும்.\n\n\"{{ns:file}}:\" போன்ற முன்னொட்டு எதுவுமில்லாமல் கோப்பின் பெயரை இடுக."
+
+msgid  "fileduplicatesearch"
+msgstr  "நகல் கோப்புகளைத் தேடுக"
+
+msgid  "fileduplicatesearch-legend"
+msgstr  "நகல்களைத் தேடுக"
+
+msgid  "fileduplicatesearch-filename"
+msgstr  "கோப்பின் பெயர்:"
+
+msgid  "fileduplicatesearch-submit"
+msgstr  "தேடுக"
+
+msgid  "fileduplicatesearch-info"
+msgstr  "$1 × $2 பிக்சல்<br />கோப்பின் அளவு: $3<br />MIME வகை: $4"
+
+msgid  "fileduplicatesearch-result-1"
+msgstr  "\"$1\" கோப்பை ஒத்த நகலொன்றில்லை."
+
+msgid  "fileduplicatesearch-result-n"
+msgstr  "\"$1\" கோப்பையொத்த {{PLURAL:$2|1 ஒரு நகலொன்று|$2 நகல்கள்}} உண்டு."
+
+msgid  "specialpages"
+msgstr  "சிறப்புப் பக்கங்கள்"
+
+msgid  "specialpages-note"
+msgstr  "----\n* சாதாரண சிறப்புப் பக்கங்கள்.\n* <strong class=\"mw-specialpagerestricted\">கட்டுப்படுத்தப்பட்ட சிறப்புப் பக்கங்கள்.</strong>"
+
+msgid  "specialpages-group-maintenance"
+msgstr  "பராமரிப்பு அறிக்கைகள்"
+
+msgid  "specialpages-group-other"
+msgstr  "ஏனைய சிறப்பு பக்கங்கள்"
+
+msgid  "specialpages-group-login"
+msgstr  "புகுபதிகை / கணக்கு தொடக்கம்"
+
+msgid  "specialpages-group-changes"
+msgstr  "அண்மைய மாற்றங்களும் பதிகைகளும்"
+
+msgid  "specialpages-group-media"
+msgstr  "ஊடக அறிக்கைகளும் பதிவேற்றங்களும்"
+
+msgid  "specialpages-group-users"
+msgstr  "பயனர்களும் உரிமைகளும்"
+
+msgid  "specialpages-group-highuse"
+msgstr  "உயர் பயன்பாட்டு பக்கங்கள்"
+
+msgid  "specialpages-group-pages"
+msgstr  "பக்கங்களின் பட்டியல்கள்"
+
+msgid  "specialpages-group-pagetools"
+msgstr  "பக்கக் கருவிகள்"
+
+msgid  "specialpages-group-wiki"
+msgstr  "விக்கி தரவு மற்றும் கருவிகள்"
+
+msgid  "specialpages-group-redirects"
+msgstr  "சிறப்பு பக்கங்கள் வழிமாற்றம் செய்யப்படுகின்றது"
+
+msgid  "specialpages-group-spam"
+msgstr  "எரித கருவிகள்"
+
+msgid  "blankpage"
+msgstr  "வெற்று பக்கம்"
+
+msgid  "intentionallyblankpage"
+msgstr  "இந்த பக்கம் திட்டமிட்டே வெற்றாக விடப்பட்டுள்ளது"
+
+msgid  "tag-filter-submit"
+msgstr  "வடிகட்டி"
+
+msgid  "tags-edit"
+msgstr  "தொகு"
+
+msgid  "tags-hitcount"
+msgstr  "$1 {{PLURAL:$1|மாற்றம்|மாற்றங்கள்}}"
+
+msgid  "compare-page1"
+msgstr  "பக்கம் 1"
+
+msgid  "compare-page2"
+msgstr  "பக்கம் 2"
+
+msgid  "compare-rev1"
+msgstr  "திருத்தம் 1"
+
+msgid  "compare-rev2"
+msgstr  "திருத்தம் 2"
+
+msgid  "compare-submit"
+msgstr  "ஒப்பிடு"
+
+msgid  "htmlform-required"
+msgstr  "இதன் உட்பொருள் தேவையானது (கொடுக்கப்பட வேண்டும்)"
+
+msgid  "htmlform-submit"
+msgstr  "சமர்ப்பி"
+
+msgid  "htmlform-reset"
+msgstr  "மாற்றங்களை இல்லாது செய்"
+
+msgid  "htmlform-selectorother-other"
+msgstr  "மற்றவை"
+
+msgid  "wm-license-artwork-artist"
+msgstr  "கலைஞர்/ஆக்குனர்"
+
+msgid  "wm-license-artwork-dimensions"
+msgstr  "பரிமானங்கள்"
+
+msgid  "wm-license-artwork-current-location"
+msgstr  "அமைவிடம்"
+
+msgid  "wm-license-artwork-credit-line"
+msgstr  "கைமாற்றம்"
+
+msgid  "wm-license-artwork-references"
+msgstr  "மேற்கோள்கள்"
+
+msgid  "wm-license-artwork-id"
+msgstr  "ஏற்பு இலக்கம்"
+
+msgid  "wm-license-artwork-source"
+msgstr  "மூலம்/படப்பிடிப்பாளர்"
+
+msgid  "wm-license-cc-wiki-link"
+msgstr  "w:ta:கிரியேட்டிவ் காமன்ஸ்"
+
+msgid  "wm-license-fsf-wiki-link"
+msgstr  "w:ta:கட்டற்ற மென்பொருள் இயக்கம்"
+
+msgid  "wm-license-free-software-wiki-link"
+msgstr  "w:ta:கட்டற்ற மென்பொருள்"
+
+msgid  "wm-license-gfdl-wiki-link"
+msgstr  "w:ta:குனூ தளையறு ஆவண உரிமம்"
+
+msgid  "wm-license-gpl-wiki-link"
+msgstr  "w:ta:க்னூ பொதுமக்கள் உரிமம்"
+
+msgid  "wm-license-information-description"
+msgstr  "விளக்கம்"
+
+msgid  "wm-license-information-source"
+msgstr  "மூலம்"
+
+msgid  "wm-license-information-date"
+msgstr  "நாள்"
+
+msgid  "wm-license-information-author"
+msgstr  "பங்களிப்பாளர்"
+
+msgid  "wm-license-information-permission"
+msgstr  "அனுமதி"
+
+msgid  "wm-license-information-permission-see-below"
+msgstr  "கீழுள்ள அறிவிப்பைக் காணவும்."
+
+msgid  "wm-license-information-other-versions"
+msgstr  "ஒத்தக்கோப்பு"
+
+msgid  "wm-license-own-work"
+msgstr  "சொந்த முயற்சி"
+
+msgid  "#எண்ணிக்கை"
+msgstr  "#count"
+

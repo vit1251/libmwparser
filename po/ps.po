@@ -1,0 +1,5283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ps\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "__بی‌نيولک__"
+msgstr "__NOTOC__"
+
+msgid  "__بی‌نندارتونه__"
+msgstr "__NOGALLERY__"
+
+msgid  "__نيوليکداره__"
+msgstr "__FORCETOC__"
+
+msgid  "__نيوليک__"
+msgstr "__TOC__"
+
+msgid  "__بی‌برخې__"
+msgstr "__NOEDITSECTION__"
+
+msgid  "روانه_مياشت"
+msgstr "CURRENTMONTH2"
+
+msgid  "CURRENTMONTH"
+msgstr "CURRENTMONTH2"
+
+msgid  "دروانې_مياشت_نوم"
+msgstr "CURRENTMONTHNAME"
+
+msgid  "دروانې_مياشت_لنډون"
+msgstr "CURRENTMONTHABBREV"
+
+msgid  "نن"
+msgstr "CURRENTDAY"
+
+msgid  "نن۲"
+msgstr "CURRENTDAY2"
+
+msgid  "دننۍورځې_نوم"
+msgstr "CURRENTDAYNAME"
+
+msgid  "سږکال"
+msgstr "CURRENTYEAR"
+
+msgid  "داوخت"
+msgstr "CURRENTTIME"
+
+msgid  "دم_ګړۍ"
+msgstr "CURRENTHOUR"
+
+msgid  "سيمه_يزه_مياشت"
+msgstr "LOCALMONTH2"
+
+msgid  "LOCALMONTH"
+msgstr "LOCALMONTH2"
+
+msgid  "دسيمه_يزې_مياشت_نوم"
+msgstr "LOCALMONTHNAME"
+
+msgid  "دسيمه_يزې_مياشت_لنډون"
+msgstr "LOCALMONTHABBREV"
+
+msgid  "سيمه_يزه_ورځ"
+msgstr "LOCALDAY"
+
+msgid  "سيمه_يزه_ورځ۲"
+msgstr "LOCALDAY2"
+
+msgid  "دسيمه_يزې_ورځ_نوم"
+msgstr "LOCALDAYNAME"
+
+msgid  "سيمه_يزکال"
+msgstr "LOCALYEAR"
+
+msgid  "سيمه_يزوخت"
+msgstr "LOCALTIME"
+
+msgid  "سيمه_يزه_ګړۍ"
+msgstr "LOCALHOUR"
+
+msgid  "دمخونوشمېر"
+msgstr "NUMBEROFPAGES"
+
+msgid  "دليکنوشمېر"
+msgstr "NUMBEROFARTICLES"
+
+msgid  "ددوتنوشمېر"
+msgstr "NUMBEROFFILES"
+
+msgid  "دکارونکوشمېر"
+msgstr "NUMBEROFUSERS"
+
+msgid  "دمخ_نوم"
+msgstr "PAGENAME"
+
+msgid  "دمخ_نښه"
+msgstr "PAGENAMEE"
+
+msgid  "نوم_تشيال"
+msgstr "NAMESPACE"
+
+msgid  "د_نوم_تشيال_نښه"
+msgstr "NAMESPACEE"
+
+msgid  "دخبرواترو_تشيال"
+msgstr "TALKSPACE"
+
+msgid  "دخبرواترو_تشيال_نښه"
+msgstr "TALKSPACEE"
+
+msgid  "دسکالوتشيال"
+msgstr "ARTICLESPACE"
+
+msgid  "دليکنې_تشيال"
+msgstr "ARTICLESPACE"
+
+msgid  "SUBJECTSPACE"
+msgstr "ARTICLESPACE"
+
+msgid  "دسکالوتشيال_نښه"
+msgstr "ARTICLESPACEE"
+
+msgid  "دليکنې_تشيال_نښه"
+msgstr "ARTICLESPACEE"
+
+msgid  "SUBJECTSPACEE"
+msgstr "ARTICLESPACEE"
+
+msgid  "دمخ_بشپړنوم"
+msgstr "FULLPAGENAME"
+
+msgid  "دمخ_بشپړنوم_نښه"
+msgstr "FULLPAGENAMEE"
+
+msgid  "پیغام:"
+msgstr "MSG:"
+
+msgid  "پ:"
+msgstr "MSG:"
+
+msgid  "بټنوک"
+msgstr "thumb"
+
+msgid  "thumbnail"
+msgstr "thumb"
+
+msgid  "ښي"
+msgstr "right"
+
+msgid  "کيڼ"
+msgstr "left"
+
+msgid  "هېڅ"
+msgstr "none"
+
+msgid  "مېنځ،_center"
+msgstr "centre"
+
+msgid  "center"
+msgstr "centre"
+
+msgid  "دوېبځي_نوم"
+msgstr "SITENAME"
+
+msgid  "پالنګر"
+msgstr "SERVER"
+
+msgid  "دپالنګر_نوم"
+msgstr "SERVERNAME"
+
+msgid  "ګرامر:"
+msgstr "GRAMMAR:"
+
+msgid  "روانه_اوونۍ"
+msgstr "CURRENTWEEK"
+
+msgid  "داوونۍورځ"
+msgstr "CURRENTDOW"
+
+msgid  "سيمه_يزه_اوونۍ"
+msgstr "LOCALWEEK"
+
+msgid  "جمع:"
+msgstr "PLURAL:"
+
+msgid  "#ژبه:"
+msgstr "#LANGUAGE:"
+
+msgid  "ځانګړی"
+msgstr "special"
+
+msgid  "__پټه_وېشنيزه__"
+msgstr "__HIDDENCAT__"
+
+msgid  "مخکچه"
+msgstr "PAGESIZE"
+
+msgid  "__ليکلړ__"
+msgstr "__INDEX__"
+
+msgid  "__بې_ليکلړ__"
+msgstr "__NOINDEX__"
+
+msgid  "ژغورکچه"
+msgstr "PROTECTIONLEVEL"
+
+msgid  "tog-underline"
+msgstr  "کرښنې تړنې:"
+
+msgid  "tog-highlightbroken"
+msgstr  "د بڼې ماتې تړنې <a href=\"\" class=\"new\">لکه همدا</a> (بله چاره: لکه همدا<a href=\"\" class=\"internal\">?</a>)"
+
+msgid  "tog-justify"
+msgstr  "پاراګرافونه همجوليزول"
+
+msgid  "tog-hideminor"
+msgstr  "په وروستيو بدلونو کې واړه سمونونه پټول"
+
+msgid  "tog-hidepatrolled"
+msgstr  "په وروستيو بدلونونو کې څارل شوې سمونونه پټول"
+
+msgid  "tog-newpageshidepatrolled"
+msgstr  "د نوؤ مخونو په لړليک کې کتل شوي مخونه پټول"
+
+msgid  "tog-extendwatchlist"
+msgstr  "يوازې د وروستني بدلونونو د ښکاره کولو لپاره نه بلکه د ټولو بدلونونو د ښکاره کولو لپاره کتنلړ غځول"
+
+msgid  "tog-usenewrc"
+msgstr  "د وروستي بدلونو پرمختللې بڼه کارول (جاوا سکرېپټ ته اړتيا ده)"
+
+msgid  "tog-numberheadings"
+msgstr  "د سرليکونو خپلکاره شمېرايښودنه"
+
+msgid  "tog-showtoolbar"
+msgstr  "د سمولو توکپټه ښکاره کول (جاواسکرېپټ)"
+
+msgid  "tog-editondblclick"
+msgstr  "په دوه کلېک سره د مخونو سمون (د جاواسکرېپټ اړتيا ده)"
+
+msgid  "tog-editsection"
+msgstr  "د [سمول] تړنې له لوري د يوې ليکنې يوه برخه د سمون وړ ګرځول"
+
+msgid  "tog-editsectiononrightclick"
+msgstr  "د ښي کلېک سره د سرليکونو د برخې سمون چارنول (جاواسکرېپټ ته اړتيا)"
+
+msgid  "tog-showtoc"
+msgstr  "نيوليک ښکاره کول (د هغو مخونو لپاره چې له ۳ نه ډېر سرليکونه لري)"
+
+msgid  "tog-rememberpassword"
+msgstr  "زما کارن-نوم په دې کتنمل (تر $1 {{PLURAL:$1|ورځې|ورځو}}) په ياد وساته!"
+
+msgid  "tog-watchcreations"
+msgstr  "هغه مخونه چې زه يې جوړوم، زما کتنلړ کې ورګډ کړه"
+
+msgid  "tog-watchdefault"
+msgstr  "هغه مخونه چې زه يې سموم، زما کتنلړ کې ورګډ کړه"
+
+msgid  "tog-watchmoves"
+msgstr  "هغه مخونه چې زه يې لېږدوم، زما کتنلړ کې ورګډ کړه"
+
+msgid  "tog-watchdeletion"
+msgstr  "هغه مخونه چې زه يې ړنګوم، زما کتنلړ کې ورګډ کړه"
+
+msgid  "tog-minordefault"
+msgstr  "په تلواليزه توګه ټول سمونونه واړه په نخښه کول"
+
+msgid  "tog-previewontop"
+msgstr  "د سمون بکس نه دمخه مخکتنه ښکاره کول"
+
+msgid  "tog-previewonfirst"
+msgstr  "په لومړي سمون کې مخکتنه ښکاره کول"
+
+msgid  "tog-nocache"
+msgstr  "د کتنمل د مخ ياده ساتنې چار ناچارندول"
+
+msgid  "tog-enotifwatchlistpages"
+msgstr  "کله چې زما کتنلړ کې يو مخ بدلون مومي نو ما ته دې برېښليک راشي"
+
+msgid  "tog-enotifusertalkpages"
+msgstr  "کله چې زما د خبرو اترو په مخ کې بدلون پېښېږي نو ما ته دې يو برېښليک ولېږلی شي."
+
+msgid  "tog-enotifminoredits"
+msgstr  "کله چې په مخونو کې وړې سمونې کېږي نو ماته دې برېښليک ولېږل شي"
+
+msgid  "tog-enotifrevealaddr"
+msgstr  "په يادښت برېښليک کې زما برېښليک پته ښکاره کول"
+
+msgid  "tog-shownumberswatching"
+msgstr  "د کتونکو کارنانو شمېر ښکاره کول"
+
+msgid  "tog-oldsig"
+msgstr  "د شته لاسليک مخليدنه:"
+
+msgid  "tog-fancysig"
+msgstr  "لاسليک د ويکي متن په توګه په پام کې نيول (د خپلکاره تړن د تړلو پرته)"
+
+msgid  "tog-showjumplinks"
+msgstr  "د \"ورټوپ کړه\" د آسانتياوو تړنې چارنول"
+
+msgid  "tog-uselivepreview"
+msgstr  "ژوندۍ مخليدنه کارول (جاوا سکرېپټ ته اړتيا) (آزمېښتي)"
+
+msgid  "tog-forceeditsummary"
+msgstr  "د يوه تش سمون لنډيز په ورکولو سره دې خبر راکړل شي"
+
+msgid  "tog-watchlisthideown"
+msgstr  "په کتنلړ کې زما سمونې پټول"
+
+msgid  "tog-watchlisthidebots"
+msgstr  "په کتنلړ کې د روباټ سمونې پټول"
+
+msgid  "tog-watchlisthideminor"
+msgstr  "په کتنلړ کې وړې سمونې پټول"
+
+msgid  "tog-watchlisthideliu"
+msgstr  "په کتنلړ کې د ثبت شويو کارنانو سمونې پټول"
+
+msgid  "tog-watchlisthideanons"
+msgstr  "په کتنلړ کې د ورکنومو کارنانو سمونې پټول"
+
+msgid  "tog-watchlisthidepatrolled"
+msgstr  "په کتنلړ کې څارل شوې سمونې پټول"
+
+msgid  "tog-ccmeonemails"
+msgstr  "هغه برېښليکونه چې زه يې نورو ته لېږم، د هغو يوه کاپي دې ماته هم راشي"
+
+msgid  "tog-diffonly"
+msgstr  "د توپيرونو نه لاندې د مخ مېنځپانګه پټول"
+
+msgid  "tog-showhiddencats"
+msgstr  "پټې وېشنيزې ښکاره کول"
+
+msgid  "underline-always"
+msgstr  "تل"
+
+msgid  "underline-never"
+msgstr  "هېڅکله"
+
+msgid  "underline-default"
+msgstr  "د کتنمل تلواليزې چارې"
+
+msgid  "editfont-style"
+msgstr  "د سيمه ايزې ليکبڼې سمول:"
+
+msgid  "editfont-default"
+msgstr  "د کتنمل تلواليزې چارې"
+
+msgid  "editfont-monospace"
+msgstr  "يو واټنيزه ليکبڼه"
+
+msgid  "editfont-sansserif"
+msgstr  "سان سېرېف ليکبڼه"
+
+msgid  "editfont-serif"
+msgstr  "سېرېف ليکبڼه"
+
+msgid  "sunday"
+msgstr  "اتوار"
+
+msgid  "monday"
+msgstr  "ګل"
+
+msgid  "tuesday"
+msgstr  "نهي"
+
+msgid  "wednesday"
+msgstr  "شورو"
+
+msgid  "thursday"
+msgstr  "زيارت"
+
+msgid  "friday"
+msgstr  "جمعه"
+
+msgid  "saturday"
+msgstr  "خالي"
+
+msgid  "sun"
+msgstr  "اتوار"
+
+msgid  "mon"
+msgstr  "ګل"
+
+msgid  "tue"
+msgstr  "نهي"
+
+msgid  "wed"
+msgstr  "شورو"
+
+msgid  "thu"
+msgstr  "زيارت"
+
+msgid  "fri"
+msgstr  "جمعه"
+
+msgid  "sat"
+msgstr  "خالي"
+
+msgid  "january"
+msgstr  "جنوري"
+
+msgid  "february"
+msgstr  "فبروري"
+
+msgid  "march"
+msgstr  "مارچ"
+
+msgid  "april"
+msgstr  "اپرېل"
+
+msgid  "may_long"
+msgstr  "می"
+
+msgid  "june"
+msgstr  "جون"
+
+msgid  "july"
+msgstr  "جولای"
+
+msgid  "august"
+msgstr  "اګسټ"
+
+msgid  "september"
+msgstr  "سېپتمبر"
+
+msgid  "october"
+msgstr  "اکتوبر"
+
+msgid  "november"
+msgstr  "نومبر"
+
+msgid  "december"
+msgstr  "ډيسمبر"
+
+msgid  "january-gen"
+msgstr  "جنوري"
+
+msgid  "february-gen"
+msgstr  "فبروري"
+
+msgid  "march-gen"
+msgstr  "مارچ"
+
+msgid  "april-gen"
+msgstr  "اپرېل"
+
+msgid  "may-gen"
+msgstr  "می"
+
+msgid  "june-gen"
+msgstr  "جون"
+
+msgid  "july-gen"
+msgstr  "جولای"
+
+msgid  "august-gen"
+msgstr  "اګسټ"
+
+msgid  "september-gen"
+msgstr  "سېپتمبر"
+
+msgid  "october-gen"
+msgstr  "اکتوبر"
+
+msgid  "november-gen"
+msgstr  "نومبر"
+
+msgid  "december-gen"
+msgstr  "ډيسمبر"
+
+msgid  "jan"
+msgstr  "جنوري"
+
+msgid  "feb"
+msgstr  "فبروري"
+
+msgid  "mar"
+msgstr  "مارچ"
+
+msgid  "apr"
+msgstr  "اپرېل"
+
+msgid  "may"
+msgstr  "می"
+
+msgid  "jun"
+msgstr  "جون"
+
+msgid  "jul"
+msgstr  "جولای"
+
+msgid  "aug"
+msgstr  "اګسټ"
+
+msgid  "sep"
+msgstr  "سېپتمبر"
+
+msgid  "oct"
+msgstr  "اکتوبر"
+
+msgid  "nov"
+msgstr  "نومبر"
+
+msgid  "dec"
+msgstr  "ډيسمبر"
+
+msgid  "pagecategories"
+msgstr  "{{PLURAL:$1|وېشنيزه|وېشنيزې}}"
+
+msgid  "category_header"
+msgstr  "د \"$1\" په وېشنيزه کې شته مخونه"
+
+msgid  "subcategories"
+msgstr  "وړې-وېشنيزې"
+
+msgid  "category-media-header"
+msgstr  "د \"$1\" په وېشنيزه کې شته رسنۍ"
+
+msgid  "category-empty"
+msgstr  "''تر اوسه پورې همدا وېشنيزه هېڅ کوم مخ يا کومه رسنيزه دوتنه نلري.''"
+
+msgid  "hidden-categories"
+msgstr  "{{PLURAL:$1|پټه وېشنيزه|پټې وېشنيزې}}"
+
+msgid  "hidden-category-category"
+msgstr  "پټې وېشنيزې"
+
+msgid  "category-subcat-count"
+msgstr  "{{PLURAL:$2|په دې وېشنيزه کې دا لاندې وړه وېشنيزه ده.|په دې وېشنيزه کې له ټولټال $2 نه {{PLURAL:$1|وړه وېشنيزه ده|$1 وړې وېشنيزې دي}}.}}"
+
+msgid  "category-subcat-count-limited"
+msgstr  "دا وېشنيزه دا لاندې {{PLURAL:$1|يوه څېرمه وېشنيزه|$1 څېرمه وېشنيزې}} لري."
+
+msgid  "category-article-count"
+msgstr  "{{PLURAL:$2|په همدې وېشنيزه کې يواځې دغه لاندينی مخ شته.|دا {{PLURAL:$1|لاندينی مخ|$1 لانديني مخونه}}، له ټولټال $2 مخونو نه په دې وېشنيزه کې شته.}}"
+
+msgid  "category-article-count-limited"
+msgstr  "په دې وېشنيزه کې {{PLURAL:$1|يوه دوتنه ده|$1 دوتنې دي}}."
+
+msgid  "category-file-count"
+msgstr  "{{PLURAL:$2|په همدې وېشنيزه کې يواځې دغه لاندينی مخ شته.|دا {{PLURAL:$1|لاندينی مخ|$1 لانديني مخونه}}، له ټولټال $2 مخونو نه په دې وېشنيزه کې شته.}}"
+
+msgid  "category-file-count-limited"
+msgstr  "په اوسنۍ وېشنيزه کې {{PLURAL:$1|يوه دوتنه ده|$1 دوتنې دي}}."
+
+msgid  "listingcontinuesabbrev"
+msgstr  "پرله پسې"
+
+msgid  "index-category"
+msgstr  "ليکلړلرونکي مخونه"
+
+msgid  "noindex-category"
+msgstr  "بې ليکلړه مخونه"
+
+msgid  "mainpagetext"
+msgstr  "'''MediaWiki په برياليتوب سره نصب شو.'''"
+
+msgid  "mainpagedocfooter"
+msgstr  "د ويکي ساوترې د کارولو د  مالوماتو په اړه [http://meta.wikimedia.org/wiki/Help:Contents د کارن لارښود] سره سلا وکړۍ.\n\n== پيلول ==\n* [http://www.mediawiki.org/wiki/Manual:Configuration_settings د امستنو د سازونې لړليک]\n* [http://www.mediawiki.org/wiki/Manual:FAQ د ميډياويکي ډېرځليزې پوښتنې]\n* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce د مېډياويکي د برېښليکونو لړليک]"
+
+msgid  "about"
+msgstr  "په اړه"
+
+msgid  "article"
+msgstr  "مېنځپانګيز مخ"
+
+msgid  "newwindow"
+msgstr  "(په نوې کړکۍ کې پرانيستل کېږي)"
+
+msgid  "cancel"
+msgstr  "ناګارل"
+
+msgid  "moredotdotdot"
+msgstr  "نور ..."
+
+msgid  "mypage"
+msgstr  "زما پاڼه"
+
+msgid  "mytalk"
+msgstr  "زما خبرې اترې"
+
+msgid  "anontalk"
+msgstr  "ددې IP لپاره خبرې اترې"
+
+msgid  "navigation"
+msgstr  "ګرځښت"
+
+msgid  "and"
+msgstr  "&#32;او"
+
+msgid  "qbfind"
+msgstr  "موندل"
+
+msgid  "qbbrowse"
+msgstr  "سپړل"
+
+msgid  "qbedit"
+msgstr  "سمول"
+
+msgid  "qbpageoptions"
+msgstr  "همدا مخ"
+
+msgid  "qbpageinfo"
+msgstr  "متن"
+
+msgid  "qbmyoptions"
+msgstr  "زما پاڼې"
+
+msgid  "qbspecialpages"
+msgstr  "ځانګړي مخونه"
+
+msgid  "faq"
+msgstr  "ډ-ځ-پ"
+
+msgid  "faqpage"
+msgstr  "Project:ډ-ځ-پ"
+
+msgid  "vector-action-addsection"
+msgstr  "سرليکونه ورګډول"
+
+msgid  "vector-action-delete"
+msgstr  "ړنګول"
+
+msgid  "vector-action-move"
+msgstr  "لېږدول"
+
+msgid  "vector-action-protect"
+msgstr  "پروژه"
+
+msgid  "vector-action-undelete"
+msgstr  "ناړنګول"
+
+msgid  "vector-action-unprotect"
+msgstr  "ناژغورل"
+
+msgid  "vector-view-create"
+msgstr  "جوړول"
+
+msgid  "vector-view-edit"
+msgstr  "سمول"
+
+msgid  "vector-view-history"
+msgstr  "پېښليک کتل"
+
+msgid  "vector-view-view"
+msgstr  "لوستل"
+
+msgid  "vector-view-viewsource"
+msgstr  "سرچينه کتل"
+
+msgid  "actions"
+msgstr  "کړنې"
+
+msgid  "namespaces"
+msgstr  "نوم-تشيالونه"
+
+msgid  "errorpagetitle"
+msgstr  "تېروتنه"
+
+msgid  "returnto"
+msgstr  "بېرته $1 ته وګرځه."
+
+msgid  "tagline"
+msgstr  "د {{SITENAME}} لخوا"
+
+msgid  "help"
+msgstr  "لارښود"
+
+msgid  "search"
+msgstr  "پلټنه"
+
+msgid  "searchbutton"
+msgstr  "پلټل"
+
+msgid  "go"
+msgstr  "ورځه"
+
+msgid  "searcharticle"
+msgstr  "ورځه"
+
+msgid  "history"
+msgstr  "د مخ پېښليک"
+
+msgid  "history_short"
+msgstr  "پېښليک"
+
+msgid  "updatedmarker"
+msgstr  "زما د وروستي راتګ نه راپدېخوا اوسمهاله شوی"
+
+msgid  "info_short"
+msgstr  "مالومات"
+
+msgid  "printableversion"
+msgstr  "د چاپ بڼه"
+
+msgid  "permalink"
+msgstr  "تلپاتې تړنه"
+
+msgid  "print"
+msgstr  "چاپ"
+
+msgid  "edit"
+msgstr  "سمول"
+
+msgid  "create"
+msgstr  "جوړول"
+
+msgid  "editthispage"
+msgstr  "همدا مخ سمول"
+
+msgid  "create-this-page"
+msgstr  "همدا مخ ليکل"
+
+msgid  "delete"
+msgstr  "ړنګول"
+
+msgid  "deletethispage"
+msgstr  "دا مخ ړنګ کړه"
+
+msgid  "undelete_short"
+msgstr  "{{PLURAL:$1|يو سمون|$1 سمونې}} ناړنګول"
+
+msgid  "protect"
+msgstr  "ژغورل"
+
+msgid  "protect_change"
+msgstr  "بدلون"
+
+msgid  "protectthispage"
+msgstr  "همدا مخ ژغورل"
+
+msgid  "unprotect"
+msgstr  "نه ژغورل"
+
+msgid  "unprotectthispage"
+msgstr  "همدا مخ نه ژغورل"
+
+msgid  "newpage"
+msgstr  "نوی مخ"
+
+msgid  "talkpage"
+msgstr  "د دې مخ په اړه خبرې اترې کول"
+
+msgid  "talkpagelinktext"
+msgstr  "خبرې اترې"
+
+msgid  "specialpage"
+msgstr  "ځانګړې پاڼه"
+
+msgid  "personaltools"
+msgstr  "شخصي اوزار"
+
+msgid  "postcomment"
+msgstr  "نوې برخه"
+
+msgid  "articlepage"
+msgstr  "د مخ مېنځپانګه ښکاره کول"
+
+msgid  "talk"
+msgstr  "خبرې اترې"
+
+msgid  "views"
+msgstr  "کتنې"
+
+msgid  "toolbox"
+msgstr  "اوزاربکس"
+
+msgid  "userpage"
+msgstr  "د کارن پاڼه کتل"
+
+msgid  "projectpage"
+msgstr  "د پروژې مخ کتل"
+
+msgid  "imagepage"
+msgstr  "د دوتنې مخ کتل"
+
+msgid  "mediawikipage"
+msgstr  "د پيغامونو مخ کتل"
+
+msgid  "templatepage"
+msgstr  "د کينډۍ مخ کتل"
+
+msgid  "viewhelppage"
+msgstr  "د لارښود مخ کتل"
+
+msgid  "categorypage"
+msgstr  "د وېشنيزې مخ کتل"
+
+msgid  "viewtalkpage"
+msgstr  "خبرې اترې کتل"
+
+msgid  "otherlanguages"
+msgstr  "په نورو ژبو کې"
+
+msgid  "redirectedfrom"
+msgstr  "(له $1 نه مخ ګرځېدلی)"
+
+msgid  "redirectpagesub"
+msgstr  "د مخ ګرځونې مخ"
+
+msgid  "lastmodifiedat"
+msgstr  "دا مخ وروستی ځل په $2، $1 بدلون موندلی."
+
+msgid  "viewcount"
+msgstr  "همدا مخ {{PLURAL:$1|يو وار|$1 واره}} کتل شوی."
+
+msgid  "protectedpage"
+msgstr  "ژغورلی مخ"
+
+msgid  "jumpto"
+msgstr  "ورټوپ کړه:"
+
+msgid  "jumptonavigation"
+msgstr  "ګرځښت"
+
+msgid  "jumptosearch"
+msgstr  "پلټل"
+
+msgid  "view-pool-error"
+msgstr  "اوبخښۍ، دم ګړۍ پالنګران د ډېر بارېدو ستونزې سره مخامخ شوي.\nډېر زيات کارنان د همدې مخ د کتلو په هڅه کې دي.\nلطفاً د دې مخ د کتلو د بيا هڅې نه دمخه يو څو شېبې صبر وکړۍ.\n\n$1"
+
+msgid  "pool-errorunknown"
+msgstr  "ناجوته ستونزه"
+
+msgid  "aboutsite"
+msgstr  "د {{SITENAME}} په اړه"
+
+msgid  "aboutpage"
+msgstr  "Project:په اړه"
+
+msgid  "copyright"
+msgstr  "دا مېنځپانګه د $1 اجازتليک له مخې ستاسې لاسرسي ته پرته ده."
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:رښتې"
+
+msgid  "currentevents"
+msgstr  "اوسنۍ پېښې"
+
+msgid  "currentevents-url"
+msgstr  "Project:تازه پېښې"
+
+msgid  "disclaimers"
+msgstr  "ردادعاليکونه"
+
+msgid  "disclaimerpage"
+msgstr  "Project:ټولګړی ردادعاليک"
+
+msgid  "edithelp"
+msgstr  "د لارښود سمون"
+
+msgid  "edithelppage"
+msgstr  "Help:سمونه"
+
+msgid  "helppage"
+msgstr  "Help:نيوليک"
+
+msgid  "mainpage"
+msgstr  "لومړی مخ"
+
+msgid  "mainpage-description"
+msgstr  "لومړی مخ"
+
+msgid  "policy-url"
+msgstr  "Project:تګلاره"
+
+msgid  "portal"
+msgstr  "د ټولنې تانبه"
+
+msgid  "portal-url"
+msgstr  "Project:د ټولنې تانبه"
+
+msgid  "privacy"
+msgstr  "د پټنتيا تګلاره"
+
+msgid  "privacypage"
+msgstr  "Project:د محرميت_تګلاره"
+
+msgid  "badaccess"
+msgstr  "د لاسرسۍ تېروتنه"
+
+msgid  "badaccess-group0"
+msgstr  "تاسې د غوښتل شوې کړنې د ترسره کولو اجازه نه لرۍ."
+
+msgid  "badaccess-groups"
+msgstr  "د کومې کړنې غوښتنه چې تاسې کړې د هغو کارنانو پورې محدوده ده چې {{PLURAL:$2|په ډله د|په ډلو د}}: $1 کې دي."
+
+msgid  "versionrequired"
+msgstr  "د ميډياويکي $1 بڼې ته اړتيا ده"
+
+msgid  "versionrequiredtext"
+msgstr  "د دې مخ په ليدلو کې د مېډياويکي $1 بڼې ته اړتيا ده. \n[[Special:Version|د بڼې مخ وګورۍ]]."
+
+msgid  "ok"
+msgstr  "ښه"
+
+msgid  "retrievedfrom"
+msgstr  "\"$1\" نه اخيستل شوی"
+
+msgid  "youhavenewmessages"
+msgstr  "تاسې $1 لری  ($2)."
+
+msgid  "newmessageslink"
+msgstr  "نوي پيغامونه"
+
+msgid  "newmessagesdifflink"
+msgstr  "وروستی بدلون"
+
+msgid  "youhavenewmessagesmulti"
+msgstr  "تاسې په $1 کې نوي پېغامونه لرۍ"
+
+msgid  "editsection"
+msgstr  "سمول"
+
+msgid  "editold"
+msgstr  "سمول"
+
+msgid  "viewsourceold"
+msgstr  "سرچينې کتل"
+
+msgid  "editlink"
+msgstr  "سمول"
+
+msgid  "viewsourcelink"
+msgstr  "سرچينه کتل"
+
+msgid  "editsectionhint"
+msgstr  "د سمولو برخه: $1"
+
+msgid  "toc"
+msgstr  "نيوليک"
+
+msgid  "showtoc"
+msgstr  "ښکاره کول"
+
+msgid  "hidetoc"
+msgstr  "پټول"
+
+msgid  "thisisdeleted"
+msgstr  "$1 کتل او يا بيازېرمل؟"
+
+msgid  "viewdeleted"
+msgstr  "$1 کتل؟"
+
+msgid  "restorelink"
+msgstr  "{{PLURAL:$1|يو ړنګ شوی سمون|$1 ړنګ شوي سمونونه}}"
+
+msgid  "feedlinks"
+msgstr  "کتنه:"
+
+msgid  "site-rss-feed"
+msgstr  "$1 د آر اس اس کتنه"
+
+msgid  "site-atom-feed"
+msgstr  "$1 د اټوم کتنه"
+
+msgid  "page-rss-feed"
+msgstr  "\"$1\" د آر اس اس کتنه"
+
+msgid  "page-atom-feed"
+msgstr  "د \"$1\" د اټوم کتنې"
+
+msgid  "feed-rss"
+msgstr  "آر اس اس"
+
+msgid  "red-link-title"
+msgstr  "$1 (تر اوسه پورې نه شته)"
+
+msgid  "nstab-main"
+msgstr  "ليکنه"
+
+msgid  "nstab-user"
+msgstr  "کارن مخ"
+
+msgid  "nstab-media"
+msgstr  "د رسنۍ مخ"
+
+msgid  "nstab-special"
+msgstr  "ځانګړی مخ"
+
+msgid  "nstab-project"
+msgstr  "د پروژې مخ"
+
+msgid  "nstab-image"
+msgstr  "دوتنه"
+
+msgid  "nstab-mediawiki"
+msgstr  "پيغام"
+
+msgid  "nstab-template"
+msgstr  "کينډۍ"
+
+msgid  "nstab-help"
+msgstr  "لارښود"
+
+msgid  "nstab-category"
+msgstr  "وېشنيزه"
+
+msgid  "nosuchaction"
+msgstr  "هېڅ داسې کومه کړنه نشته"
+
+msgid  "nosuchactiontext"
+msgstr  "کومه کړنه چې د URL لخوا ځانګړې شوې سمه نه ده.\nکېدای شي چې URL مو سم نه وي ټايپ کړی، او يا مو يوه ناسمه تړنه څارلې وي.\nدا د دې هم ښکارندويي کوي چې کېدای شي چې د {{SITENAME}} لخوا کارېدونکې ساوترې کې يوه تېروتنه وي."
+
+msgid  "nosuchspecialpage"
+msgstr  "داسې هېڅ کوم ځانګړی مخ نشته"
+
+msgid  "nospecialpagetext"
+msgstr  "<strong>تاسې د يو ناسم ځانګړي مخ غوښتنه کړې.</strong>\n\nتاسې کولای شی چې د سمو ځانګړو مخونو لړليک په [[Special:SpecialPages|{{int:specialpages}}]] کې ومومۍ."
+
+msgid  "error"
+msgstr  "تېروتنه"
+
+msgid  "databaseerror"
+msgstr  "د ډاټابېز تېروتنه"
+
+msgid  "laggedslavemode"
+msgstr  "'''ګواښنه:''' په دې مخ کې کېدای شي تازه اوسمهالېدنې نه وي."
+
+msgid  "readonly"
+msgstr  "توکبنسټ تړل شوی"
+
+msgid  "enterlockreason"
+msgstr  "د بنديز يو سبب وليکۍ، او همداراز د بنديز د ليرې کېدلو يوه اټکليزه نېټه هم څرګنده کړۍ"
+
+msgid  "missing-article"
+msgstr  "توکبنسټ د \"$1\" $2 په نامه د ورکړ شوي مخ متن چې بايد موندلی يې وای، و نه موند.\n\nدا ستونزه اکثراً د يوه ړنګ شوي مخ د پېښليک يا توپير د تړنو په څارلو کې رامېنځ ته کېږي.\n\nکه چېرته داسې نه وي، نو بيا کېدای شي چې په ساوترې کې کومه تېروتنه رابرسېره شوې وي.\nلطفاً د دې چارې راپور د URL په نښه کولو سره يوه [[Special:ListUsers/sysop|پازوال]] ته ورکړۍ."
+
+msgid  "missingarticle-rev"
+msgstr  "(مخليدنه#: $1)"
+
+msgid  "missingarticle-diff"
+msgstr  "(توپير: $1، $2)"
+
+msgid  "internalerror"
+msgstr  "کورنۍ تېروتنه"
+
+msgid  "internalerror_info"
+msgstr  "کورنۍ تېروتنه: $1"
+
+msgid  "fileappenderrorread"
+msgstr  "د پايملون په وخت کې \"$1\" و نه لوستل شو."
+
+msgid  "fileappenderror"
+msgstr  "د \"$1\" پايملون \"$2\" ته ترسره نه شو.."
+
+msgid  "filecopyerror"
+msgstr  "د \"$1\" په نامه دوتنه مو \"$2\" ته و نه لمېسلای شوه."
+
+msgid  "filerenameerror"
+msgstr  "د \"$1\" په نامه د دوتنې نوم \"$2\" ته بدل نه شو."
+
+msgid  "filedeleteerror"
+msgstr  "د \"$1\" دوتنه ړنګه نه شوه."
+
+msgid  "directorycreateerror"
+msgstr  "د \"$1\" په نامه ليکلړ جوړ نه شو."
+
+msgid  "filenotfound"
+msgstr  "\"$1\" په نوم دوتنه مو و نه شوه موندلای."
+
+msgid  "fileexistserror"
+msgstr  "د \"$1\" په نامه دوتنه نه ليکل کېږي: دوتنه د پخوا نه دلته شته"
+
+msgid  "unexpected"
+msgstr  "نا اټکله شمېره: \"$1\"=\"$2\"."
+
+msgid  "formerror"
+msgstr  "ستونزه: فورمه مو و نه سپارل شوه"
+
+msgid  "badarticleerror"
+msgstr  "دا کړنه پدې مخ نه شي ترسره کېدلای."
+
+msgid  "cannotdelete"
+msgstr  "د \"$1\" مخ يا دوتنې ړنګېدنه ترسره نه شوه.\nکېدای شي چې وار دمخې دا کوم بل چا ړنګه کړې وي."
+
+msgid  "badtitle"
+msgstr  "ناسم سرليک"
+
+msgid  "badtitletext"
+msgstr  "ستاسې د غوښتل شوي مخ سرليک سم نه وو، يا مو د سرليک ځای تش وو او يا هم د ژبو خپلمنځي تړنې څخه يا د ويکي ګانو خپلمنځي سرليکونو څخه يو ناسم توری مو پکې کارولی وي.\nکېدای شي چې ستاسې په ورکړ شوي سرليک کې يو يا څو داسې توري وي چې د سرليک په توګه بايد و نه کارېږي."
+
+msgid  "viewsource"
+msgstr  "سرچينه کتل"
+
+msgid  "viewsourcefor"
+msgstr  "د $1 لپاره"
+
+msgid  "actionthrottled"
+msgstr  "د دې کړنې مخنيوی وشو"
+
+msgid  "protectedpagetext"
+msgstr  "دا مخ د بدلون او سمون د مخنيوي په تکل تړل شوی دی."
+
+msgid  "viewsourcetext"
+msgstr  "تاسې د دې مخ سرچينه کتلی او لمېسلی شی:"
+
+msgid  "protectedinterface"
+msgstr  "په همدې مخ کې د پوستکالي د ليدنمخ متن دی او دا متن د ناسمو کارولو د مخنيوي په تکل تړل شوی."
+
+msgid  "editinginterface"
+msgstr  "'''ګواښنه:''' تاسو په يوه داسې مخ کې بدلون راولی کوم چې د يوې پوستکالی د ليدنمخ متن په توګه کارېږي.\nپه همدې مخ کې بدلون راوستل به د نورو کارنانو د ليدنمخ بڼه اغېزمنه کړي.\nد ژباړې لپاره، مهرباني وکړی د [http://translatewiki.net/wiki/Main_Page?setlang=en translatewiki.net]، وېبځي ته ولاړ شی. دا وېبځی د ميډياويکي د ځايتابه پروژه ده او د همدې پر کارولو غور وکړی."
+
+msgid  "sqlhidden"
+msgstr  "(د SQL پوښتن پټ دی)"
+
+msgid  "namespaceprotected"
+msgstr  "تاسې د '''$1''' په نوم-تشيال کې د مخونو د سمولو اجازه نه لرۍ."
+
+msgid  "customcssjsprotected"
+msgstr  "تاسې د دې مخ د سمولو اجازه نه لرۍ، دا ځکه چې دا مخ د بل کارن شخصي امستنې لري."
+
+msgid  "ns-specialprotected"
+msgstr  "ځانګړي مخونو کې سمون او بدلون نه شی راوستلای."
+
+msgid  "titleprotected"
+msgstr  "د [[User:$1|$1]] لخوا د دې سرليک د جوړېدلو مخنيوی شوی.\nاو د دې کړنې سبب \"''$2''\" ورکړ شوی."
+
+msgid  "virus-badscanner"
+msgstr  "بده سازېدنه: د ويروس ناڅرګنده ځيرڅار: ''$1''"
+
+msgid  "virus-unknownscanner"
+msgstr  "ناڅرګند ضدويروس:"
+
+msgid  "logouttext"
+msgstr  "'''تاسې اوس د غونډال نه ووتلی.'''\n\nتاسې کولای شی چې د کارن-نوم نه پرته په ورکنومي توګه {{SITENAME}} وکاروی، او يا هم په همدې او يا کوم بل کارن-نوم، يو ځل [[Special:UserLogin|بيا غونډال ته ورننوځۍ]].\nدا په پام کې وساتۍ چې تر څو تاسې د خپل کتنمل حافظه نه وي سپينه کړې، نو ځينې مخونو کې به لا تر اوسه پورې په غونډال کې ننوتي ښکارۍ."
+
+msgid  "welcomecreation"
+msgstr  "==$1 ښه راغلاست! ==\n\nستاسې ګڼون جوړ شو. لطفاً د [[Special:Preferences|{{SITENAME}} غوره توبونو]] ټاکل مو مه هېروی."
+
+msgid  "yourname"
+msgstr  "کارن-نوم:"
+
+msgid  "yourpassword"
+msgstr  "پټنوم:"
+
+msgid  "yourpasswordagain"
+msgstr  "پټنوم بيا وليکه"
+
+msgid  "remembermypassword"
+msgstr  "زما پټنوم په دې کمپيوټر (تر $1 {{PLURAL:$1|ورځې|ورځو}}) په ياد وساته!"
+
+msgid  "securelogin-stick-https"
+msgstr  "وروسته د ننوتلو HTTPS سره تړلی پاتې کېدل"
+
+msgid  "yourdomainname"
+msgstr  "ستاسې شپول:"
+
+msgid  "login"
+msgstr  "ننوتل"
+
+msgid  "nav-login-createaccount"
+msgstr  "ننوتل / ګڼون جوړول"
+
+msgid  "loginprompt"
+msgstr  "ددې لپاره چې {{SITENAME}} کې ننوځۍ نو بايد ستاسې د کمپيوټر کوکيز چارن وي."
+
+msgid  "userlogin"
+msgstr  "ننوتل / ګڼون جوړول"
+
+msgid  "userloginnocreate"
+msgstr  "ننوتل"
+
+msgid  "logout"
+msgstr  "وتل"
+
+msgid  "userlogout"
+msgstr  "وتل"
+
+msgid  "notloggedin"
+msgstr  "غونډال کې نه ياست ننوتي"
+
+msgid  "nologin"
+msgstr  "کارن-نوم نه لرې؟ $1."
+
+msgid  "nologinlink"
+msgstr  "يو ګڼون جوړول"
+
+msgid  "createaccount"
+msgstr  "ګڼون جوړول"
+
+msgid  "gotaccount"
+msgstr  "آيا وار دمخې يو ګڼون لری؟ $1."
+
+msgid  "gotaccountlink"
+msgstr  "ننوتل"
+
+msgid  "createaccountmail"
+msgstr  "د برېښليک له مخې"
+
+msgid  "createaccountreason"
+msgstr  "سبب:"
+
+msgid  "badretype"
+msgstr  "دا پټنوم چې تاسې ليکلی د مخکني پټنوم سره ورته نه دی."
+
+msgid  "userexists"
+msgstr  "کوم کارن نوم چې تاسې ورکړ هغه بل چا کارولی.\nلطفاً يو بل نوم وټاکۍ."
+
+msgid  "loginerror"
+msgstr  "د ننوتنې ستونزه"
+
+msgid  "createaccounterror"
+msgstr  "ګڼون مو جوړ نه شو: $1"
+
+msgid  "nocookiesnew"
+msgstr  "ستاسې ګڼون جوړ شو، خو تاسې لا غونډال ته نه ياست ورننوتلي.\n{{SITENAME}} کې د ننوتلو لپاره کوکيز کارېږي.\nاو ستاسې د کتنمل کوکيز ناچارن دي.\nلطفاً خپل د کتنمل کوکيز چارن کړۍ او بيا د خپل کارن-نوم او پټنوم په کارولو سره غونډال ته ورننوځی."
+
+msgid  "nocookieslogin"
+msgstr  "{{SITENAME}} کې د ننوتلو لپاره کوکيز کارېږي.\nاو ستاسې د کتنمل کوکيز ناچارن دي.\nلطفاً خپل د کتنمل کوکيز چارن کړۍ او بيا د خپل کارن-نوم او پټنوم په کارولو سره غونډال ته ورننوځی."
+
+msgid  "noname"
+msgstr  "تاسې تر اوسه پورې کوم کره کارن نوم نه دی ځانګړی کړی."
+
+msgid  "loginsuccesstitle"
+msgstr  "غونډال کې بريالی ورننوتلۍ"
+
+msgid  "loginsuccess"
+msgstr  "'''تاسې اوس {{SITENAME}} کې د \"$1\" په نوم ننوتي ياست.'''"
+
+msgid  "nosuchuser"
+msgstr  "د \"$1\" په نوم هېڅ کارن نشته.\nد کارنانو نومونه د غټو او واړو تورو سره حساس دي.\nخپل حجا وڅارۍ، او يا هم [[Special:UserLogin/signup|يو نوی ګڼون جوړ کړی]]."
+
+msgid  "nosuchusershort"
+msgstr  "د \"<nowiki>$1</nowiki>\" په نوم هېڅ کوم ګڼون نشته. لطفاً خپل د نوم ليکلې بڼې ته ځير شی چې پکې تېروتنه نه وي."
+
+msgid  "nouserspecified"
+msgstr  "تاسې ځان ته کوم کارن نوم نه دی ځانګړی کړی."
+
+msgid  "login-userblocked"
+msgstr  "په دې کارن بنديز لګېدلی. غونډال کې ننوتلو ته پرې نه ښودلی شو."
+
+msgid  "wrongpassword"
+msgstr  "ناسم پټنوم مو ليکلی. لطفاً يو ځل بيا يې وليکۍ."
+
+msgid  "wrongpasswordempty"
+msgstr  "تاسې پټنوم نه دی ليکلی. لطفاً سر له نوي يې وليکۍ."
+
+msgid  "passwordtooshort"
+msgstr  "بايد چې پټنوم مو لږ تر لږه {{PLURAL:$1|1 توری|$1 توري}} وي."
+
+msgid  "password-name-match"
+msgstr  "ستاسې پټنوم بايد ستاسې د کارن-نوم سره توپير ولري."
+
+msgid  "password-login-forbidden"
+msgstr  "د دې کارن-نوم او پټنوم په کارېدنې بنديز دی."
+
+msgid  "mailmypassword"
+msgstr  "نوی پټنوم برېښليک کول"
+
+msgid  "passwordremindertitle"
+msgstr  "د {{SITENAME}} لپاره نوی لنډمهاله پټنوم"
+
+msgid  "passwordremindertext"
+msgstr  "يو چا (کېدای شي چې تاسې پخپله، د $1 IP پتې نه)\nد {{SITENAME}} ($4) وېبځي لپاره د يوه نوي پټنوم د ورلېږلو غوښتنه کړې.\nدم مهال د \"$2\" کارن لپاره يو نوی لنډمهاله پټنوم \"$3\" دی.\nکه چېرته همدا غوښتنه ستاسې لخوا شوي وي، نو تاسې غونډال ته په همدې پټنوم ورننوځی او بيا خپل نوی پټنوم په خپله خوښه وټاکۍ.\nستاسې لنډمهاله پټنوم په {{PLURAL:$5|يوه ورځ|$5 ورځو}} کې بې اعتباره کېدونکی دی.\n\nکه چېرته تاسې نه پرته کوم بل چا دغه غوښتنه کړې وي او يا هم تاسې ته خپل پټنوم در پزړه شوی وي او تاسې خپل اصلي پټنوم بدلول نه غواړۍ، نو تاسې همدا پيغام بابېزه وګڼۍ او د پخوا په څېر خپل اصلي پټنوم وکاروی."
+
+msgid  "noemail"
+msgstr  "د \"$1\" کارن لپاره هېڅ کومه برېښليک پته نه ده ثبته شوې."
+
+msgid  "noemailcreate"
+msgstr  "تاسې ته پکار ده چې يوه سمه برېښليک پته وليکۍ"
+
+msgid  "passwordsent"
+msgstr  "د \"$1\" لپاره يو نوی پټنوم د هغه/هغې د برېښليک پتې ته ولېږل شو.\nلطفاً کله چې پټنوم مو ترلاسه کړ نو بيا غونډال ته ننوځۍ."
+
+msgid  "blocked-mailpassword"
+msgstr  "ستاسې په IP پتې بنديز لګېدلی او تاسې نه شی کولای چې ليکنې وکړی، په همدې توګه تاسې نه شی کولای چې د پټنوم د پرځای کولو کړنې وکاروی دا ددې لپاره چې د وراني مخنيوی وشي."
+
+msgid  "eauthentsent"
+msgstr  "ستاسې ورکړ شوې برېښليک پتې ته مو يو تاييدي برېښليک درولېږه.\nتر دې دمخه چې ستاسې ګڼون ته کوم بل برېښليک درولېږو، پکار ده چې تاسې په برېښليک کې درلېږل شوې لارښوونې پلي کړی او ددې پخلی وکړی چې همدا ګڼون په رښتيا ستاسې خپل دی."
+
+msgid  "mailerror"
+msgstr  "د برېښليک د لېږلو ستونزه: $1"
+
+msgid  "acct_creation_throttle_hit"
+msgstr  "د همدې ويکي کارنانو په وروستيو ورځو کې ستاسې د IP پتې په کارولو سره {{PLURAL:$1|1 ګڼون|$1 ګڼونونه}} جوړ کړي، چې دا په همدې مودې کې د ګڼونونو د جوړولو تر ټولو ډېر شمېر دی چې اجازه يې ورکړ شوې.\nنو په همدې خاطر د اوس لپاره د همدې IP پتې کارنان نه شي کولای چې نور ګڼونونه جوړ کړي."
+
+msgid  "emailauthenticated"
+msgstr  "ستاسو برېښليک پته په $2 نېټه په $3 بجو د منلو وړ وګرځېده."
+
+msgid  "emailnotauthenticated"
+msgstr  "ستاسو د برېښليک پته لا تر اوسه پورې د منلو وړ نه ده ګرځېدلې. د اړوندو بېلوونکو نښو په هکله تاسو ته هېڅ کوم برېښليک نه لېږل کېږي."
+
+msgid  "noemailprefs"
+msgstr  "ددې لپاره چې دا کړنې کار وکړي نو تاسو يو برېښليک وټاکۍ."
+
+msgid  "emailconfirmlink"
+msgstr  "د خپل د برېښليک پتې پخلی وکړی"
+
+msgid  "invalidemailaddress"
+msgstr  "دا برېښليک پته نه منل کېږي، دا ځکه چې دا پته يوه ناکره بڼه لري.\nلطفاً د يوې کره بڼې پته وليکۍ او يا هم دا ځای تش پرېږدۍ."
+
+msgid  "accountcreated"
+msgstr  "ګڼون مو جوړ شو."
+
+msgid  "accountcreatedtext"
+msgstr  "د $1 لپاره يو ګڼون جوړ شو."
+
+msgid  "createaccount-title"
+msgstr  "د {{SITENAME}} د ګڼون جوړېدنه"
+
+msgid  "createaccount-text"
+msgstr  "يو چا د {{SITENAME}} په وېبځي ($4) کې ستاسې د برېښليک پتې لپاره د \"$2\" په نامه يو ګڼون جوړ کړی چې پټنوم يې \"$3\" دی.\nتاسې بايد غونډال ته ورننوځۍ او همدا اوس خپل پټنوم بدل کړی.\n\nکه چېرته دا کړنه په تېروتنه کې شوی وي نو تاسې کولای شی چې دا پيغام بابېزه وګڼۍ."
+
+msgid  "usernamehasherror"
+msgstr  "کارن-نوم نشي کېدلای چې کرښکې لوښې ولري"
+
+msgid  "loginlanguagelabel"
+msgstr  "ژبه: $1"
+
+msgid  "resetpass"
+msgstr  "پټنوم بدلول"
+
+msgid  "resetpass_header"
+msgstr  "د ګڼون پټنوم بدلول"
+
+msgid  "oldpassword"
+msgstr  "زوړ پټنوم:"
+
+msgid  "newpassword"
+msgstr  "نوی پټنوم:"
+
+msgid  "retypenew"
+msgstr  "نوی پټنوم بيا وليکه:"
+
+msgid  "resetpass_submit"
+msgstr  "پټنوم مو وټاکۍ او بيا غونډال ته ورننوځۍ"
+
+msgid  "resetpass_success"
+msgstr  "ستاسې پټنوم په برياليتوب سره بدل شو!\nاوس غونډال کې د ورننوتلو په حال کې يو ..."
+
+msgid  "resetpass_forbidden"
+msgstr  "پټنومونه مو نه شي بدلېدلای"
+
+msgid  "resetpass-no-info"
+msgstr  "همدې مخ ته د لاسرسي موندلو پخاطر تاسې ته پکار ده چې لومړی غونډال ته ورننوځۍ."
+
+msgid  "resetpass-submit-loggedin"
+msgstr  "پټنوم بدلول"
+
+msgid  "resetpass-submit-cancel"
+msgstr  "ناګارل"
+
+msgid  "resetpass-temp-password"
+msgstr  "لنډمهالی پټنوم:"
+
+msgid  "bold_sample"
+msgstr  "زغرد متن"
+
+msgid  "bold_tip"
+msgstr  "زغرد متن"
+
+msgid  "italic_sample"
+msgstr  "کوږ ليک"
+
+msgid  "italic_tip"
+msgstr  "کوږ ليک"
+
+msgid  "link_sample"
+msgstr  "د تړن سرليک"
+
+msgid  "link_tip"
+msgstr  "کورنۍ تړنه"
+
+msgid  "extlink_sample"
+msgstr  "http://www.example.com د تړنې سرليک"
+
+msgid  "extlink_tip"
+msgstr  "باندنۍ تړنې (د http:// مختاړی مه هېروی)"
+
+msgid  "headline_sample"
+msgstr  "سرليک"
+
+msgid  "headline_tip"
+msgstr  "د ۲ کچې سرليک"
+
+msgid  "math_sample"
+msgstr  "فورمول دلته ځای کړی"
+
+msgid  "math_tip"
+msgstr  "شمېرپوهنيز فورمول (LaTeX)"
+
+msgid  "nowiki_sample"
+msgstr  "دلته دې بې بڼې متن ځای پر ځای شي"
+
+msgid  "nowiki_tip"
+msgstr  "د ويکي بڼه نيونه بابېزه ګڼل"
+
+msgid  "image_tip"
+msgstr  "خښه شوې دوتنه"
+
+msgid  "media_tip"
+msgstr  "د دوتنې تړنه"
+
+msgid  "sig_tip"
+msgstr  "ستاسې لاسليک د وخت د ټاپې سره"
+
+msgid  "hr_tip"
+msgstr  "څنډيزه ليکه (ددې په کارولو کې سپما وکړۍ)"
+
+msgid  "summary"
+msgstr  "لنډيز:"
+
+msgid  "subject"
+msgstr  "سکالو/سرليک:"
+
+msgid  "minoredit"
+msgstr  "دا يوه وړه سمونه ده"
+
+msgid  "watchthis"
+msgstr  "همدا مخ کتل"
+
+msgid  "savearticle"
+msgstr  "مخ خوندي کول"
+
+msgid  "preview"
+msgstr  "مخليدنه"
+
+msgid  "showpreview"
+msgstr  "مخليدنه"
+
+msgid  "showlivepreview"
+msgstr  "ژوندۍ مخکتنه"
+
+msgid  "showdiff"
+msgstr  "بدلونونه ښکاره کول"
+
+msgid  "anoneditwarning"
+msgstr  "'''يادونه:''' تاسې غونډال ته نه ياست ننوتي. ستاسې IP پته به د دې مخ د سمونونو په پېښليک کې ثبت شي."
+
+msgid  "anonpreviewwarning"
+msgstr  "''تاسې غونډال ته نه ياست ننوتي. خوندي کولو سره به ستاسې IP پته به د دې مخ د سمونونو په پېښليک کې ثبت شي.''"
+
+msgid  "missingcommenttext"
+msgstr  "لطفاً تبصره لاندې وليکۍ."
+
+msgid  "summary-preview"
+msgstr  "د لنډيز مخليدنه:"
+
+msgid  "subject-preview"
+msgstr  "موضوع/سرليک مخکتنه:"
+
+msgid  "blockedtitle"
+msgstr  "پر کارن بنديز لګېدلی"
+
+msgid  "blockedtext"
+msgstr  "'''ستاسې د کارن-نوم يا آی پي پتې مخنيوی شوی.'''\n\nهمدا بنديز د $1 له خوا پر تاسې لږېدلی. او د همدې کړنې سبب ''$2'' دی.\n\n* د بنديز د پېل نېټه: $8\n* د بنديز د پای نېټه: $6\n* بنديزونه دي پر: $7\n\nتاسې کولای شی چې د $1 او يا هم د يو بل [[{{MediaWiki:Grouppage-sysop}}|پازوال]] سره اړيکې ټينګې کړی او د بنديز ستونزې مو هوارې کړی.\nتاسې نه شی کولای چې د 'کارن ته برېښلک لېږل' کړنې نه ګټه پورته کړی تر څو چې تاسې د خپل ګڼون په [[Special:Preferences|غوره توبونو]] کې يوه کره برېښليک پته نه وي ځانګړې کړې او تر دې بريده چې پر تاسې د هغې د کارولو بنديز نه وي لګېدلی.\nستاسې د دم مهال آی پي پته $3 ده، او ستاسې د بنديز پېژند #$5 دی. مهرباني وکړۍ د خپلې يادونې پر مهال د دغو دوو څخه د يوه او يا هم د دواړو ورکول مه هېروۍ."
+
+msgid  "autoblockedtext"
+msgstr  "په خپلکاريزه توګه ستاسې پر IP پتې بنديز لګېدلی، دا د دې په خاطر چې ستاسې پته د بل چا له خوا چې $1 پرې بنديز لګولی، کارېدلې.\nاو د بنديز سبب يې دا دی:\n\n:''$2''\n\n* د بنديز د پيل نېټه: $8\n* د بنديز د پای نېټه: $6\n* د بنديز د موخې سړی: $7\n\nتاسې کولای شی چې د $1 سره او يا هم د [[{{MediaWiki:Grouppage-sysop}}|پازوالانو]]  له ډلې نه يو چا سره اړيکې ټينګې کړی او د بنديز په اړه مو ورسره خبرې وکړۍ.\n\nدا مه هېروۍ چې تاسې د \"کارن ته برېښليک لېږل\" له اسانتياوؤ نه ګټه نه شی اخيستلای تر څو چې ستاسې د نومليکنې په وخت کې يا [[Special:Preferences|ستاسې د غوره توبونو په امستنو]] کې يوه کره برېښليک پته نه وي ځانګړې شوې، او يا هم د برېښليک لېږلو د چارو په کارولو مو بنديز نه وي لګېدلی.\n\nستاسې IP پته $3 ده او ستاسې د بنديز پېژند #$5 دی.\nد بنديز اړونده د اړيکو نيولو په وخت کې لطفاً د پورتني مالوماتو يادونه وکړۍ."
+
+msgid  "blockednoreason"
+msgstr  "هېڅ سبب نه دی ورکړ شوی"
+
+msgid  "blockedoriginalsource"
+msgstr  "د '''$1''' سرچينې لاندې ښودل شوي:"
+
+msgid  "whitelistedittitle"
+msgstr  "که د سمادولو تکل لری نو بايد غونډال ته ورننوځۍ."
+
+msgid  "whitelistedittext"
+msgstr  "ددې لپاره چې سمادول ترسره کړی تاسو بايد $1."
+
+msgid  "nosuchsectiontitle"
+msgstr  "برخه و نه موندل شوه"
+
+msgid  "nosuchsectiontext"
+msgstr  "تاسې د يوې داسې برخې د سمون هڅه کړې چې تر اوسه پورې نشته.\nکېدای هغه مهال چې تاسې د دې مخ نه کتنه کوله، همدا برخه کوم بل ځای ته لېږدل شوې او يا هم ړنګه شوې وي."
+
+msgid  "loginreqtitle"
+msgstr  "غونډال کې ننوتنه پکار ده"
+
+msgid  "loginreqlink"
+msgstr  "ننوتل"
+
+msgid  "loginreqpagetext"
+msgstr  "د نورو مخونو د کتلو لپاره تاسو بايد $1 وکړۍ."
+
+msgid  "accmailtitle"
+msgstr  "پټنوم ولېږل شو."
+
+msgid  "newarticle"
+msgstr  "(نوی)"
+
+msgid  "newarticletext"
+msgstr  "تاسې د يوې داسې تړنې څارنه کړې چې لا تر اوسه پورې نه شته.\nکه همدا مخ ليکل غواړۍ، نو په لانديني چوکاټ کې خپل متن وټاپۍ (د لا نورو مالوماتو لپاره د [[{{MediaWiki:Helppage}}|لارښود مخ]] وګورۍ).\nکه چېرته تاسې دلته په تېروتنه راغلي ياست، نو يواځې د خپل د کتنمل '''مخ پر شا''' تڼۍ مو وټوکۍ."
+
+msgid  "anontalkpagetext"
+msgstr  "----''دا د يوه ورکنومي کارن چې کارن-نوم نه لري او يا خپل کارن-نوم نه کاروي، د سکالو يوه پاڼه ده. نو د يوه کس د پېژندلو پخاطر موږ د هماغه کارن د انټرنېټ شمېره يا IP پته دلته ثبتوؤ. داسې يوه IP پته د ډېرو کارنانو لخوا هم کارېدلی شي. که تاسې يو ورکنومی کارن ياست او تاسې ته دا څرګندېږي چې تاسې ته نااړونده پېغامونه او تبصرې اشاره شوي، نو د نورو بې نومو کارنانو او ستاسې ترمېنځ د ټکنتوب د مخ نيونې لپاره لطفاً [[Special:UserLogin/signup|يو ګڼون جوړ کړۍ]] او يا هم [[Special:UserLogin|غونډال ته ورننوځۍ]].''"
+
+msgid  "noarticletext"
+msgstr  "دم مهال په دې مخ کې څه نشته.\nتاسې کولای شی چې په نورو مخونو کې [[Special:Search/{{PAGENAME}}|د دې مخ د سرليک پلټنه]] يا\n<span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} د اړوندو يادښتونو پلټنه] وکړی.\nاو يا [{{fullurl:{{FULLPAGENAME}}|action=edit}} همدا مخ سم کړی]</span>."
+
+msgid  "userpage-userdoesnotexist"
+msgstr  "د \"$1\" ګڼون نه دی ثبت شوی.\nلطفاً ځان ډاډه کړۍ چې آيا تاسې په رښتيا همدا مخ جوړول که سمول غواړۍ."
+
+msgid  "userpage-userdoesnotexist-view"
+msgstr  "د \"$1\" ګڼون نه دی ثبت شوی."
+
+msgid  "blocked-notice-logextract"
+msgstr  "دم مهال په دې کارن بنديز لګېدلی.\nدلته لاندې د بنديز تازه يادښت د سرچينې په توګه ورکړ شوی:"
+
+msgid  "clearyourcache"
+msgstr  "'''يادونه:''' د غوره توبونو د خوندي کولو وروسته، ددې لپاره چې تاسو خپل سر ته رسولي ونجونه وګورۍ نو پکار ده چې د خپل بروزر ساتل شوې حافظه تازه کړی. د '''Mozilla / Firefox / Safari:''' لپاره د ''Shift'' تڼۍ نيولې وساتی کله مو چې په ''Reload''، ټک واهه، او يا هم ''Ctrl-Shift-R'' تڼۍ کېښکاږۍ (په Apple Mac کمپيوټر باندې ''Cmd-Shift-R'' کېښکاږۍ); '''IE:''' د ''Ctrl'' تڼۍ کېښکاږۍ کله مو چې په ''Refresh'' ټک واهه، او يا هم د ''Ctrl-F5'' تڼۍ کېښکاږۍ; '''Konqueror:''' بروزر کې يواځې ''Reload'' ته ټک ورکړۍ، او يا په ''F5''; د '''Opera''' کارنانو ته پکار ده چې په بشپړه توګه د خپل کمپيوټر ساتل شوې حافظه تازه کړي چې پدې توګه کېږي ''Tools→Preferences''."
+
+msgid  "usercsspreview"
+msgstr  "'''هېر مو نشي چې دا يوازې ستاسې د کارن CSS مخليدنه ده.'''\n'''تر اوسه پورې لا ستاسې بدلونونه نه دي خوندي شوي!'''"
+
+msgid  "userjspreview"
+msgstr  "'''هېر مو نشي چې دا يوازې ستاسې د کارن د جاوا سکرېپټ آزمېيل/مخليدنه ده.'''\n'''تر اوسه پورې لا ستاسې بدلونونه نه دي خوندي شوي!'''"
+
+msgid  "updated"
+msgstr  "(تازه)"
+
+msgid  "note"
+msgstr  "'''يادونه:'''"
+
+msgid  "previewnote"
+msgstr  "'''دا يواځې مخليدنه ده، تاسې چې کوم بدلونونه ترسره کړي، لا تر اوسه پورې نه دي خوندي شوي!'''"
+
+msgid  "editing"
+msgstr  "د $1 سمونه"
+
+msgid  "editingsection"
+msgstr  "سمونه $1 (برخه)"
+
+msgid  "editingcomment"
+msgstr  "د $1 سمون (نوې برخه)"
+
+msgid  "editconflict"
+msgstr  "په سمادولو کې خنډ: $1"
+
+msgid  "yourtext"
+msgstr  "ستاسو متن"
+
+msgid  "storedversion"
+msgstr  "زېرمه شوې مخکتنه"
+
+msgid  "yourdiff"
+msgstr  "توپيرونه"
+
+msgid  "copyrightwarning"
+msgstr  "لطفاً په پام کې وساتۍ چې ټولې هغه ونډې چې تاسې يې {{SITENAME}} کې ترسره کوی هغه د $2 له مخې د خپرولو لپاره ګڼل کېږي (د لانورو تفصيلاتو لپاره $1 وګورۍ). که تاسې نه غواړۍ چې په ليکنو کې مو په بې رحمۍ سره لاسوهنې (سمونې) وشي او د نورو په غوښتنه پسې لانورې هم خپرې شي، نو دلته يې مه ځای پر ځای کوی..<br />\nتاسې زمونږ سره دا ژمنه هم کوی چې تاسې پخپله دا ليکنه کښلې، او يا مو د ټولګړو پاڼو او يا ورته وړيا سرچينو نه کاپي کړې ده '''لطفاً د ليکوال د اجازې نه پرته د خوندي رښتو ليکنې مه خپروی!'''"
+
+msgid  "longpageerror"
+msgstr  "'''ستونزه: کوم متن چې دلته تاسو ليکلی، $1 کيلوبايټه اوږد دی او دا د همدې مخ د لوړترين ټاکلي بريده، $2 کيلوبايټه، څخه اوږد دی.\nستاسو متن نه شي خوندي کېدلای.'''"
+
+msgid  "protectedpagewarning"
+msgstr  "'''ګواښنه: همدا مخ تړل شوی او يوازې هغه کارنان په دې مخ کې بدلونونه راوستلای شي چې د پازوالۍ د آسانتياوو نه برخمن دي.'''\nستاسې د مالوماتو لپاره د وروستني يادښت متن دلته په دې توګه راوړل شوی:"
+
+msgid  "semiprotectedpagewarning"
+msgstr  "'''پاملرنه:''' دا مخ تړل شوی او يواځې ثبت شوي کارنان کولای شي چې په دې مخ کې بدلونونه راولي.\nستاسې د مالوماتو لپاره د وروستني يادښت متن دلته په دې توګه راوړل شوی:"
+
+msgid  "cascadeprotectedwarning"
+msgstr  "'''ګواښنه:''' همدا مخ تړل شوی دی او يوازې هغه کارنان په دې مخ کې بدلونونه راوستلای شي چې د پازوالۍ د آسانتياوو نه برخمن دي، دا په دې خاطر چې همدا مخ د {{PLURAL:$1|لانديني مخ|لاندينيو مخونو}} په ځوړاوبيزې ژغورنې کې ورګډ دی:"
+
+msgid  "titleprotectedwarning"
+msgstr  "'''ګواښنه: همدا مخ تړل شوی دی او د دې د جوړولو لپاره تاسې ته د [[Special:ListGroupRights|ځانګړو رښتو]] د ترلاسه کولو اړتيا ده.'''\nستاسې د مالوماتو لپاره د وروستني يادښت متن دلته په دې توګه راوړل شوی:"
+
+msgid  "templatesused"
+msgstr  "په دې مخ کارېدلې {{PLURAL:$1|کينډۍ|کينډۍ}}:"
+
+msgid  "templatesusedpreview"
+msgstr  "يه دې مخليدنه کارېدلې {{PLURAL:$1|کينډۍ|کينډۍ}}:"
+
+msgid  "templatesusedsection"
+msgstr  "په دې برخه کې کارېدلي {{PLURAL:$1|کينډۍ|کينډۍ}}:"
+
+msgid  "template-protected"
+msgstr  "(ژغورلی)"
+
+msgid  "template-semiprotected"
+msgstr  "(نيم-ژغورلی)"
+
+msgid  "hiddencategories"
+msgstr  "دا مخ د {{PLURAL:$1|1 پټې وېشنيزې|$1 پټو وېشنيزو}} يو غړی دی:"
+
+msgid  "nocreatetitle"
+msgstr  "د مخ جوړول بريد ټاکلی دی"
+
+msgid  "nocreatetext"
+msgstr  "{{SITENAME}} د نوو مخونو د جوړولو وړتيا محدوده کړې.\nتاسو بېرته پر شا تللای شی او په شته مخونو کې سمونې ترسره کولای شی، او يا هم [[Special:UserLogin|غونډال ته ننوتلای او يو ګڼون جوړولای شی]]."
+
+msgid  "nocreate-loggedin"
+msgstr  "تاسې د نوو مخونو د جوړولو پرېښله نلرۍ."
+
+msgid  "sectioneditnotsupported-title"
+msgstr  "د برخې د سمون ملاتړ نه کېږي"
+
+msgid  "sectioneditnotsupported-text"
+msgstr  "په دې مخ د برخې د سمون ملاتړ نه کېږي."
+
+msgid  "permissionserrors"
+msgstr  "د اجازې ستونزې"
+
+msgid  "permissionserrorstext"
+msgstr  "تاسې د لاندې {{PLURAL:$1|سبب|سببونو}} پخاطر د دې کړنې اجازه نه لرۍ:"
+
+msgid  "permissionserrorstext-withaction"
+msgstr  "تاسې د $2 اجازه نه لری، دا د {{PLURAL:$1|دغه سبب|دغو سببونو}} پخاطر:"
+
+msgid  "recreate-moveddeleted-warn"
+msgstr  "'''ګواښنه: تاسې د يوه داسې مخ بياجوړونه کوۍ کوم چې يو ځل پخوا ړنګ شوی وو.'''\n\nپکار ده چې تاسې په دې ځان پوه کړۍ چې ايا دا تاسې ته وړ ده چې د همدې مخ جوړول په پرله پسې توګه وکړۍ.\nستاسې د اسانتياوو لپاره د همدې مخ د ړنګېدلو يادښت هم ورکړ شوی:"
+
+msgid  "moveddeleted-notice"
+msgstr  "دا مخ ړنګ شوی.\nدلته لاندې د دې مخ د ړنګېدنې او لېږدېدنې يادښت د سرچينې په توګه ورکړ شوی."
+
+msgid  "log-fulllog"
+msgstr  "بشپړ يادښت کتل"
+
+msgid  "edit-gone-missing"
+msgstr  "د دې مخ اوسمهالول و نه کړای شول.\nداسې ښکاري چې دا مخ ړنګ شوی."
+
+msgid  "edit-conflict"
+msgstr  "د سمولو خنډ"
+
+msgid  "edit-no-change"
+msgstr  "ستاسې سمون بابېزه وګڼل شو، دا ځکه چې تاسې په متن کې کوم بدلون نه دی راوستلی."
+
+msgid  "edit-already-exists"
+msgstr  "په دې نوم يو نوی مخ جوړ نه شو.\nپدې نوم د پخوا نه يو مخ شته."
+
+msgid  "post-expand-template-inclusion-warning"
+msgstr  "'''ګواښنه:''' دا کينډۍ د خپل ټاکلي بريد نه ډېره لويه ده.\nځينې کينډۍ به په کې ګډې نه شي."
+
+msgid  "undo-norev"
+msgstr  "دا سمون ناکړ کېدلای نه شي دا ځکه چې دا سمون نشته او يا هم ړنګ شوی."
+
+msgid  "cantcreateaccounttitle"
+msgstr  "ګڼون نه شي جوړېدای"
+
+msgid  "viewpagelogs"
+msgstr  "د دې مخ يادښتونه کتل"
+
+msgid  "nohistory"
+msgstr  "ددې مخ لپاره د سمادېدنې هېڅ کوم پېښليک نه شته."
+
+msgid  "currentrev"
+msgstr  "اوسنۍ بڼه"
+
+msgid  "currentrev-asof"
+msgstr  "د $1 پورې تازه بڼه"
+
+msgid  "revisionasof"
+msgstr  "د $1 بڼه"
+
+msgid  "revision-info"
+msgstr  "د $1 پورې شته مخليدنه، د $2 لخوا ترسره شوې"
+
+msgid  "previousrevision"
+msgstr  "← زړه بڼه"
+
+msgid  "nextrevision"
+msgstr  "← نوې بڼه"
+
+msgid  "currentrevisionlink"
+msgstr  "اوسنۍ بڼه"
+
+msgid  "cur"
+msgstr  "اوسنی"
+
+msgid  "next"
+msgstr  "راتلونکي"
+
+msgid  "last"
+msgstr  "وروستنی"
+
+msgid  "page_first"
+msgstr  "لومړنی"
+
+msgid  "page_last"
+msgstr  "وروستنی"
+
+msgid  "histlegend"
+msgstr  "د توپير ټاکنه: د هرې هغې بڼې پرتلنه چې تاسې غواړۍ نو د هماغې بڼې چوکاټک په نښه کړی او بيا په لاندينۍ تڼۍ وټوکۍ.<br />\nلنډيز: (اوس) = د اوسنۍ بڼې سره توپير،\n(وروست) = د وروستۍ بڼې سره توپير، و = وړه سمونه."
+
+msgid  "history-fieldset-title"
+msgstr  "پېښليک سپړل"
+
+msgid  "history-show-deleted"
+msgstr  "يواځې ړنګ شوي"
+
+msgid  "histfirst"
+msgstr  "پخواني"
+
+msgid  "histlast"
+msgstr  "تازه"
+
+msgid  "historysize"
+msgstr  "({{PLURAL:$1|1 بايټ|$1 بايټونه}})"
+
+msgid  "historyempty"
+msgstr  "(تش)"
+
+msgid  "history-feed-title"
+msgstr  "د مخکتنو پېښليک"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$1 په $2"
+
+msgid  "history-feed-empty"
+msgstr  "ستاسې غوښتلی مخ نه شته.\nکېدای شي چې دا له ويکي نه ړنګ شوی وي، او يا هم په بل نوم بدل شوی وي.\nتاسې په دې ويکي د اړوندو نوؤ مخونو لپاره [[Special:Search|د پلټنې هڅه وکړۍ]]."
+
+msgid  "rev-deleted-comment"
+msgstr  "(د سمون لنډيز لرې شو)"
+
+msgid  "rev-deleted-user"
+msgstr  "(کارن-نوم ليري شوی)"
+
+msgid  "rev-delundel"
+msgstr  "ښکاره کول/ پټول"
+
+msgid  "rev-showdeleted"
+msgstr  "ښکاره کول"
+
+msgid  "revisiondelete"
+msgstr  "د ړنګولو/ناړنګولو مخکتنې"
+
+msgid  "revdelete-nologtype-title"
+msgstr  "د يادښت ډول نه دی ځانګړی شوی"
+
+msgid  "revdelete-no-file"
+msgstr  "ځانګړې شوې دوتنه نشته."
+
+msgid  "revdelete-show-file-submit"
+msgstr  "هو"
+
+msgid  "revdelete-selected"
+msgstr  "'''د [[:$1]] {{PLURAL:$2|ټاکلې بڼه|ټاکلې بڼې}}:'''"
+
+msgid  "revdelete-hide-text"
+msgstr  "د مخکتنې متن پټول"
+
+msgid  "revdelete-hide-image"
+msgstr  "د دوتنې مېنځپانګه پټول"
+
+msgid  "revdelete-hide-name"
+msgstr  "کړنه او موخه پټول"
+
+msgid  "revdelete-hide-comment"
+msgstr  "د سمون لنډيز پټول"
+
+msgid  "revdelete-hide-user"
+msgstr  "د سمونګر کارن-نوم/آی پي پته پټول"
+
+msgid  "revdelete-radio-same"
+msgstr  "(مه بدلوه)"
+
+msgid  "revdelete-radio-set"
+msgstr  "هو"
+
+msgid  "revdelete-radio-unset"
+msgstr  "نه"
+
+msgid  "revdelete-log"
+msgstr  "سبب:"
+
+msgid  "revdel-restore"
+msgstr  "ښکارېدنه بدلول"
+
+msgid  "revdel-restore-deleted"
+msgstr  "ړنګې شوې بڼې"
+
+msgid  "revdel-restore-visible"
+msgstr  "ښکاره بڼې"
+
+msgid  "pagehist"
+msgstr  "د مخ پېښليک"
+
+msgid  "deletedhist"
+msgstr  "د ړنګولو پېښليک"
+
+msgid  "revdelete-content"
+msgstr  "مېنځپانګه"
+
+msgid  "revdelete-summary"
+msgstr  "لنډيز سمول"
+
+msgid  "revdelete-uname"
+msgstr  "کارن-نوم"
+
+msgid  "revdelete-hid"
+msgstr  "$1 پټول"
+
+msgid  "revdelete-unhid"
+msgstr  "$1 ښکاره کول"
+
+msgid  "revdelete-reason-dropdown"
+msgstr  "*د ړنګولو ټولګړي سببونه\n** د خپرېدو د رښتو سرغړونه\n** ناسم شخصي مالومات\n** Potentially libelous information"
+
+msgid  "revdelete-otherreason"
+msgstr  "بل/اضافي سبب:"
+
+msgid  "revdelete-reasonotherlist"
+msgstr  "بل سبب"
+
+msgid  "revdelete-edit-reasonlist"
+msgstr  "د ړنګولو سببونه سمول"
+
+msgid  "revdelete-offender"
+msgstr  "د مخکتنې ليکوال:"
+
+msgid  "mergehistory"
+msgstr  "د مخ پېښليکونه سره يوځای کول"
+
+msgid  "mergehistory-from"
+msgstr  "د سرچينې مخ:"
+
+msgid  "mergehistory-into"
+msgstr  "د موخې مخ:"
+
+msgid  "mergehistory-submit"
+msgstr  "بڼې سره يوځای کول"
+
+msgid  "mergehistory-no-source"
+msgstr  "د سرچينې مخ $1 نشته."
+
+msgid  "mergehistory-no-destination"
+msgstr  "د $1 موخنيز مخ نشته."
+
+msgid  "mergehistory-invalid-source"
+msgstr  "د سرچينې مخ بايد يو سم سرليک وي."
+
+msgid  "mergehistory-invalid-destination"
+msgstr  "د موخې مخ بايد يو سم سرليک وي."
+
+msgid  "mergehistory-reason"
+msgstr  "سبب:"
+
+msgid  "revertmerge"
+msgstr  "بېلول"
+
+msgid  "history-title"
+msgstr  "د \"$1\" د پېښليک بڼه"
+
+msgid  "difference"
+msgstr  "(د بڼو تر مېنځ توپير)"
+
+msgid  "difference-multipage"
+msgstr  "(د مخونو تر مېنځ توپير)"
+
+msgid  "lineno"
+msgstr  "$1 کرښه:"
+
+msgid  "compareselectedversions"
+msgstr  "ټاکلې بڼې سره پرتلل"
+
+msgid  "showhideselectedversions"
+msgstr  "ټاکلې بڼې ښکاره کول/پټول"
+
+msgid  "editundo"
+msgstr  "ناکړ"
+
+msgid  "diff-multi"
+msgstr  " د ({{PLURAL:$2| يو کارن|$2 کارنانو}} لخوا {{PLURAL:$1|يوه منځګړې بڼه|$1 منځګړې بڼې}}د  نه ده ښکاره شوې)"
+
+msgid  "searchresults"
+msgstr  "د پلټنې پايلې"
+
+msgid  "searchresults-title"
+msgstr  "د \"$1\" د پلټنې پايلې"
+
+msgid  "searchresulttext"
+msgstr  "په {{SITENAME}} کې د لټون د نورو مالوماتو لپاره، [[{{MediaWiki:Helppage}}|{{int:لارښود}}]] وګورۍ."
+
+msgid  "searchsubtitle"
+msgstr  "تاسې د '''[[:$1]]''' لپاره پلټنه کړې ([[Special:Prefixindex/$1|ټول هغه مخونه چې په \"$1\" پېلېږي]]{{int:pipe-separator}}[[Special:WhatLinksHere/$1|ټول هغه مخونه چې \"$1\" سره تړنې لري]])"
+
+msgid  "searchsubtitleinvalid"
+msgstr  "تاسې د '''$1''' لټون کړی"
+
+msgid  "titlematches"
+msgstr  "د مخ سرليک ورسره ورته دی"
+
+msgid  "notitlematches"
+msgstr  "د هېڅ يوه مخ سرليک ورسره ورته نه دی"
+
+msgid  "textmatches"
+msgstr  "د مخ متن ورسره ورته دی"
+
+msgid  "notextmatches"
+msgstr  "د هېڅ کوم مخ متن ورسره سمون نه خوري"
+
+msgid  "prevn"
+msgstr  "تېر {{PLURAL:$1|$1}}"
+
+msgid  "nextn"
+msgstr  "راتلونکي {{PLURAL:$1|$1}}"
+
+msgid  "prevn-title"
+msgstr  "تېر $1 {{PLURAL:$1|پايله|پايلې}}"
+
+msgid  "nextn-title"
+msgstr  "راتلونکې $1 {{PLURAL:$1|پايله|پايلې}}"
+
+msgid  "shown-title"
+msgstr  "په هر مخ $1 {{PLURAL:$1|پايله|پايلې}} ښکاره کول"
+
+msgid  "viewprevnext"
+msgstr  "($1 {{int:pipe-separator}} $2) ($3) کتل"
+
+msgid  "searchmenu-legend"
+msgstr  "د پلټلو خوښنې"
+
+msgid  "searchmenu-exists"
+msgstr  "'''په دې ويکي يو مخ د \"[[:$1]]\" په نامه دی'''"
+
+msgid  "searchmenu-new"
+msgstr  "'''په دې ويکي د \"[[:$1]]\" مخ جوړول!'''"
+
+msgid  "searchhelp-url"
+msgstr  "Help:لړليک"
+
+msgid  "searchprofile-articles"
+msgstr  "مېنځپانګيز مخونه"
+
+msgid  "searchprofile-project"
+msgstr  "د لارښود او پروژې مخونه"
+
+msgid  "searchprofile-images"
+msgstr  "Multimedia"
+
+msgid  "searchprofile-everything"
+msgstr  "هرڅه"
+
+msgid  "searchprofile-advanced"
+msgstr  "پرمختللی"
+
+msgid  "searchprofile-articles-tooltip"
+msgstr  "په $1 کې پلټل"
+
+msgid  "searchprofile-project-tooltip"
+msgstr  "په $1 کې پلټل"
+
+msgid  "searchprofile-images-tooltip"
+msgstr  "د دوتنو پلټنه"
+
+msgid  "searchprofile-everything-tooltip"
+msgstr  "د ټولې مېنځپانګې پلټنه (د خبرو اترو مخونو سره)"
+
+msgid  "searchprofile-advanced-tooltip"
+msgstr  "د خپل خوښې په نوم-تشيالونو کې پلټل"
+
+msgid  "search-result-size"
+msgstr  "$1 ({{PLURAL:$2|1 ويی|$2 وييونه}})"
+
+msgid  "search-result-category-size"
+msgstr  "{{PLURAL:$1|1 غړی|$1 غړي}} ({{PLURAL:$2|1 څېرمه وېشنيزه|$2 څېرمه وېشنيزې}}، {{PLURAL:$3|1 دوتنه|$3 دوتنې}})"
+
+msgid  "search-result-score"
+msgstr  "اړوندتوب: $1%"
+
+msgid  "search-redirect"
+msgstr  "(د $1 مخ ګرځونه)"
+
+msgid  "search-section"
+msgstr  "(برخه $1)"
+
+msgid  "search-suggest"
+msgstr  "آيا همدا مو موخه وه: $1"
+
+msgid  "search-interwiki-caption"
+msgstr  "خورلڼې پروژې"
+
+msgid  "search-interwiki-default"
+msgstr  "$1 پايلې:"
+
+msgid  "search-interwiki-more"
+msgstr  "(نور)"
+
+msgid  "search-mwsuggest-enabled"
+msgstr  "د وړانديزونو سره"
+
+msgid  "search-mwsuggest-disabled"
+msgstr  "له وړانديزونو نه پرته"
+
+msgid  "search-relatedarticle"
+msgstr  "اړونده"
+
+msgid  "mwsuggest-disable"
+msgstr  "د AJAX وړانديزونه ناچارن کول"
+
+msgid  "searcheverything-enable"
+msgstr  "په ټولو نوم-تشيالونو کې پلټل"
+
+msgid  "searchrelated"
+msgstr  "اړونده"
+
+msgid  "searchall"
+msgstr  "ټول"
+
+msgid  "showingresultsheader"
+msgstr  "د «'''$4'''» لپاره {{PLURAL:$5|له '''$1''' نه تر '''$3''' پايله|له '''$1 نه تر $2''' پايلې، ټولې پايلې '''$3''' }}"
+
+msgid  "nonefound"
+msgstr  "'''يادښت''': يوازې يو څو نوم-تشيالونو په تلواليزه توګه پلټل کېږي.\nد ''ټول:'' مختاړي په کارولو سره به ستاسې د پلټنې لپاره، په ټوله مېنځپانګه کې پلټنه وشي (د خبرواترو، کينډۍ او نورو مخونو په ګډون), او يا هم د خپلې خوښې نوم-تشيال د مختاړي په توګه وکاروۍ."
+
+msgid  "powersearch"
+msgstr  "ژوره پلټنه"
+
+msgid  "powersearch-legend"
+msgstr  "ژوره پلټنه"
+
+msgid  "powersearch-ns"
+msgstr  "په نوم-تشيالونو کې پلټنه:"
+
+msgid  "powersearch-redir"
+msgstr  "مخ ګرځونې په لړليک کې اوډل"
+
+msgid  "powersearch-field"
+msgstr  "پلټنه د"
+
+msgid  "powersearch-togglelabel"
+msgstr  "کره کتل:"
+
+msgid  "powersearch-toggleall"
+msgstr  "ټول"
+
+msgid  "powersearch-togglenone"
+msgstr  "هېڅ"
+
+msgid  "search-external"
+msgstr  "باندنۍ پلټنه"
+
+msgid  "qbsettings-none"
+msgstr  "هېڅ"
+
+msgid  "qbsettings-fixedleft"
+msgstr  "ثابته کيڼ"
+
+msgid  "qbsettings-fixedright"
+msgstr  "ثابته ښي"
+
+msgid  "qbsettings-floatingleft"
+msgstr  "کيڼه لامبا"
+
+msgid  "qbsettings-floatingright"
+msgstr  "ښي لامبا"
+
+msgid  "preferences"
+msgstr  "غوره توبونه"
+
+msgid  "mypreferences"
+msgstr  "زما غوره توبونه"
+
+msgid  "prefs-edits"
+msgstr  "د سمونو شمېر:"
+
+msgid  "prefsnologin"
+msgstr  "غونډال کې نه ياست ننوتي"
+
+msgid  "prefsnologintext"
+msgstr  "د دې لپاره چې خپل غوره توبونه مو وټاکی، نو پکار ده چې لومړی تاسو غونډال کې <span class=\"plainlinks\">[{{fullurl:{{#Special:UserLogin}}|returnto=$1}} ننوځی]</span>."
+
+msgid  "changepassword"
+msgstr  "پټنوم بدلول"
+
+msgid  "prefs-skin"
+msgstr  "پوښۍ"
+
+msgid  "skin-preview"
+msgstr  "مخکتنه"
+
+msgid  "prefs-math"
+msgstr  "شمېرپوهنه"
+
+msgid  "datedefault"
+msgstr  "هېڅ نه ټاکل"
+
+msgid  "prefs-datetime"
+msgstr  "نېټه او وخت"
+
+msgid  "prefs-personal"
+msgstr  "د کارن پېژنليک"
+
+msgid  "prefs-rc"
+msgstr  "وروستي بدلونونه"
+
+msgid  "prefs-watchlist"
+msgstr  "کتنلړ"
+
+msgid  "prefs-watchlist-days"
+msgstr  "د ورځو شمېر چې په کتلي لړليک کې به ښکاري:"
+
+msgid  "prefs-watchlist-days-max"
+msgstr  "اکثر بريد 7 ورځې"
+
+msgid  "prefs-watchlist-edits-max"
+msgstr  "د شمېر اکثر بريد: 1000"
+
+msgid  "prefs-misc"
+msgstr  "بېلابېل"
+
+msgid  "prefs-resetpass"
+msgstr  "پټنوم بدلول"
+
+msgid  "prefs-email"
+msgstr  "د برېښليک خوښنې"
+
+msgid  "prefs-rendering"
+msgstr  "ښکارېدنه"
+
+msgid  "saveprefs"
+msgstr  "خوندي کول"
+
+msgid  "resetprefs"
+msgstr  "بيا سمول"
+
+msgid  "restoreprefs"
+msgstr  "ټولې تلواليزې امستنې پرځای کول"
+
+msgid  "prefs-editing"
+msgstr  "د سمولو په حال کې"
+
+msgid  "prefs-edit-boxsize"
+msgstr  "د سمون کړکۍ کچه."
+
+msgid  "rows"
+msgstr  "ليکې:"
+
+msgid  "columns"
+msgstr  "ستنې:"
+
+msgid  "searchresultshead"
+msgstr  "پلټل"
+
+msgid  "resultsperpage"
+msgstr  "په هر مخ کې د پايلو شمېر:"
+
+msgid  "stub-threshold-disabled"
+msgstr  "ناچارند شوی"
+
+msgid  "recentchangesdays"
+msgstr  "د هغو ورځو شمېر وټاکی چې په وروستي بدلونو کې يې ليدل غواړی:"
+
+msgid  "recentchangescount"
+msgstr  "د هغو سمونو شمېر چې په تلواليزه بڼه ښکاره بايد شي:"
+
+msgid  "prefs-help-recentchangescount"
+msgstr  "پدې کې د وروستني بدلونونو، د مخونو د پېښليکونو او يادښتونه شامل دي."
+
+msgid  "savedprefs"
+msgstr  "ستاسو غوره توبونه خوندي شوه."
+
+msgid  "timezonelegend"
+msgstr  "د وخت سيمه:"
+
+msgid  "localtime"
+msgstr  "سيمه ايز وخت:"
+
+msgid  "timezoneuseserverdefault"
+msgstr  "د پالنګر تلواليزه بڼه کارول"
+
+msgid  "timezoneuseoffset"
+msgstr  "بل (توپير ځانګړی کړی)"
+
+msgid  "timezoneoffset"
+msgstr  "توپير¹:"
+
+msgid  "servertime"
+msgstr  "د پالنګر وخت:"
+
+msgid  "guesstimezone"
+msgstr  "له کتنمل نه ډکول"
+
+msgid  "timezoneregion-africa"
+msgstr  "افريقا"
+
+msgid  "timezoneregion-america"
+msgstr  "امريکا"
+
+msgid  "timezoneregion-antarctica"
+msgstr  "انټارکټيکا"
+
+msgid  "timezoneregion-arctic"
+msgstr  "آرکټيک"
+
+msgid  "timezoneregion-asia"
+msgstr  "آسيا"
+
+msgid  "timezoneregion-atlantic"
+msgstr  "د اطلس سمندر"
+
+msgid  "timezoneregion-australia"
+msgstr  "آسټراليا"
+
+msgid  "timezoneregion-europe"
+msgstr  "اروپا"
+
+msgid  "timezoneregion-indian"
+msgstr  "هندی سمندر"
+
+msgid  "timezoneregion-pacific"
+msgstr  "آرام سمندر"
+
+msgid  "allowemail"
+msgstr  "د نورو کارنانو لخوا د برېښليک رالېږل چارن کړه"
+
+msgid  "prefs-searchoptions"
+msgstr  "د پلټلو خوښنې"
+
+msgid  "prefs-namespaces"
+msgstr  "نوم-تشيالونه"
+
+msgid  "defaultns"
+msgstr  "او يا هم په دغو نوم-تشيالونو کې پلټل:"
+
+msgid  "default"
+msgstr  "تلواليز"
+
+msgid  "prefs-files"
+msgstr  "دوتنې"
+
+msgid  "prefs-custom-css"
+msgstr  "ځاني CSS"
+
+msgid  "prefs-custom-js"
+msgstr  "ځاني جاواسکرېپټ"
+
+msgid  "prefs-common-css-js"
+msgstr  "د ټولو پوښونو لپاره د CSS/جاواسکرېپټ دوتنه:"
+
+msgid  "prefs-emailconfirm-label"
+msgstr  "د برېښليک باورتيا:"
+
+msgid  "prefs-textboxsize"
+msgstr  "د سمون کړکۍ کچه"
+
+msgid  "youremail"
+msgstr  "برېښليک *"
+
+msgid  "username"
+msgstr  "کارن-نوم:"
+
+msgid  "uid"
+msgstr  "د کارن پېژندنه:"
+
+msgid  "prefs-memberingroups"
+msgstr  "د {{PLURAL:$1|ډلې|ډلو}} غړی:"
+
+msgid  "prefs-registration"
+msgstr  "د نومليکنې وخت:"
+
+msgid  "yourrealname"
+msgstr  "اصلي نوم:"
+
+msgid  "yourlanguage"
+msgstr  "ژبه:"
+
+msgid  "yournick"
+msgstr  "کورنی نوم:"
+
+msgid  "badsiglength"
+msgstr  "ستاسو لاسليک ډېر اوږد دی.\nبايد چې لاسليک مو له $1 {{PLURAL:$1|توري|تورو}} نه لږ وي."
+
+msgid  "yourgender"
+msgstr  "جنس:"
+
+msgid  "gender-unknown"
+msgstr  "ناڅرګنده"
+
+msgid  "gender-male"
+msgstr  "نارينه"
+
+msgid  "gender-female"
+msgstr  "ښځه"
+
+msgid  "email"
+msgstr  "برېښليک"
+
+msgid  "prefs-help-realname"
+msgstr  "د اصلي نوم ليکل ستاسو په خوښه دی خو که تاسو خپل اصلي نوم وټاکۍ پدې سره به ستاسو ټول کارونه او ونډې ستاسو د نوم په اړوندولو کې وکارېږي."
+
+msgid  "prefs-help-email"
+msgstr  "د برېښليک ليکل ستاسې په خوښه دی، خو په ورکړې سره به يې د يوه نوي پټنوم درلېږلو چار آسانه کړي هغه هم کله چې تاسې نه خپل پټنوم هېر شوی وي.\nدا هم ستاسې خپله خوښه ده چې نورو کارنانو ته اجازه ورکړی چې تاسې سره د کارن-نوم او يا هم د کارن د خبرې اترو لخوا، پرته له دې چې ستاسې پېژندنه وشي، اړيکې ټينګې کړي."
+
+msgid  "prefs-help-email-required"
+msgstr  "ستاسو د برېښليک پته پکار ده."
+
+msgid  "prefs-info"
+msgstr  "بنسټيزه مالومات"
+
+msgid  "prefs-i18n"
+msgstr  "نړېوالتوب"
+
+msgid  "prefs-signature"
+msgstr  "لاسليک"
+
+msgid  "prefs-dateformat"
+msgstr  "د نېټې بڼه"
+
+msgid  "prefs-timeoffset"
+msgstr  "د وخت واټن"
+
+msgid  "prefs-advancedediting"
+msgstr  "پرمختللې خوښنې"
+
+msgid  "prefs-advancedrc"
+msgstr  "پرمختللې خوښنې"
+
+msgid  "prefs-advancedrendering"
+msgstr  "پرمختللې خوښنې"
+
+msgid  "prefs-advancedsearchoptions"
+msgstr  "پرمختللې خوښنې"
+
+msgid  "prefs-advancedwatchlist"
+msgstr  "پرمختللې خوښنې"
+
+msgid  "prefs-displayrc"
+msgstr  "د ښکارېدنې خوښنې"
+
+msgid  "prefs-displaysearchoptions"
+msgstr  "د ښکارېدنې خوښنې"
+
+msgid  "prefs-displaywatchlist"
+msgstr  "د ښکارېدنې خوښنې"
+
+msgid  "prefs-diffs"
+msgstr  "توپيرونه"
+
+msgid  "userrights"
+msgstr  "د کارن رښتو سمبالښت"
+
+msgid  "userrights-lookup-user"
+msgstr  "کارن ډلې سمبالول"
+
+msgid  "userrights-user-editname"
+msgstr  "يو کارن نوم وليکۍ:"
+
+msgid  "editusergroup"
+msgstr  "کارن ډلې سمول"
+
+msgid  "userrights-editusergroup"
+msgstr  "کارن ډلې سمول"
+
+msgid  "saveusergroups"
+msgstr  "کارن ډلې خوندي کول"
+
+msgid  "userrights-groupsmember"
+msgstr  "غړی د:"
+
+msgid  "userrights-reason"
+msgstr  "سبب:"
+
+msgid  "userrights-changeable-col"
+msgstr  "هغه ډلې چې تاسې يې بدلولی شی"
+
+msgid  "userrights-unchangeable-col"
+msgstr  "هغه ډلې چې تاسې يې نه شی بدلولی"
+
+msgid  "group"
+msgstr  "ډله:"
+
+msgid  "group-user"
+msgstr  "کارنان"
+
+msgid  "group-bot"
+msgstr  "روباټونه"
+
+msgid  "group-sysop"
+msgstr  "پازوالان"
+
+msgid  "group-bureaucrat"
+msgstr  "بيوروکراټان"
+
+msgid  "group-suppress"
+msgstr  "څارونکي"
+
+msgid  "group-all"
+msgstr  "(ټول)"
+
+msgid  "group-user-member"
+msgstr  "کارن"
+
+msgid  "group-bot-member"
+msgstr  "روباټ"
+
+msgid  "group-sysop-member"
+msgstr  "پازوال"
+
+msgid  "group-bureaucrat-member"
+msgstr  "بيوروکراټ"
+
+msgid  "group-suppress-member"
+msgstr  "څارن"
+
+msgid  "grouppage-user"
+msgstr  "{{ns:project}}:کارنان"
+
+msgid  "grouppage-bot"
+msgstr  "{{ns:project}}:روباټان"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:پازوالان"
+
+msgid  "grouppage-bureaucrat"
+msgstr  "{{ns:project}}:بيوروکراټان"
+
+msgid  "grouppage-suppress"
+msgstr  "{{ns:project}}:څارن"
+
+msgid  "right-read"
+msgstr  "مخونه لوستل"
+
+msgid  "right-edit"
+msgstr  "مخونه سمول"
+
+msgid  "right-createpage"
+msgstr  "مخونه جوړول (هغه چې د خبرو اترو مخونه نه دي)"
+
+msgid  "right-createtalk"
+msgstr  "د خبرو اترو مخونه جوړول"
+
+msgid  "right-createaccount"
+msgstr  "نوي کارن حسابونه جوړول"
+
+msgid  "right-minoredit"
+msgstr  "سمونونه واړه په نخښه کول"
+
+msgid  "right-move"
+msgstr  "مخونه لېږدول"
+
+msgid  "right-move-subpages"
+msgstr  "مخونه د خپلو څېرمه مخونو سره لېږدول"
+
+msgid  "right-movefile"
+msgstr  "دوتنې لېږدول"
+
+msgid  "right-upload"
+msgstr  "دوتنې پورته کول"
+
+msgid  "right-delete"
+msgstr  "مخونه ړنګول"
+
+msgid  "right-bigdelete"
+msgstr  "د اوږدو پېښليکونو مخونه ړنګول"
+
+msgid  "right-browsearchive"
+msgstr  "ړنګ شوي مخونه پلټل"
+
+msgid  "right-undelete"
+msgstr  "يو مخ ناړنګول"
+
+msgid  "right-suppressionlog"
+msgstr  "شخصي يادښتونه کتل"
+
+msgid  "right-block"
+msgstr  "پر نورو کارنانو د سمون د آسانتياوؤ بنديز لګول"
+
+msgid  "right-blockemail"
+msgstr  "پر يوه کارن د برېښليک لېږلو بنديز لګول"
+
+msgid  "right-hideuser"
+msgstr  "پر يوه کارن-نوم بنديز لګول او له خلکو نه يې پټول"
+
+msgid  "right-protect"
+msgstr  "د ژغورنې کچه بدلول او ژغورلي مخونه سمول"
+
+msgid  "right-editinterface"
+msgstr  "د کارن ليدنمخ سمول"
+
+msgid  "right-editusercssjs"
+msgstr  "د نورو کارنانو د CSS او JS (جاوا سکرېپټ) دوتنې سمول"
+
+msgid  "right-editusercss"
+msgstr  "د نورو کارنانو د CSS دوتنې سمول"
+
+msgid  "right-edituserjs"
+msgstr  "د نورو کارنانو د JS (جاوا سکرېپټ) دوتنې سمول"
+
+msgid  "right-unwatchedpages"
+msgstr  "د ناکتلو مخونو يو لړليک کتل"
+
+msgid  "right-userrights"
+msgstr  "د کارن ټولې رښتې سمول"
+
+msgid  "right-userrights-interwiki"
+msgstr  "په نورو ويکي ګانو د نورو کارنانو  کارن-رښتې سمول"
+
+msgid  "right-reset-passwords"
+msgstr  "د نورو کارنانو پټتوري بياامستل"
+
+msgid  "right-sendemail"
+msgstr  "نورو کارنانو ته برېښليک لېږل"
+
+msgid  "rightslog"
+msgstr  "د کارن د رښتو يادښت"
+
+msgid  "rightslogtext"
+msgstr  "دا د کارن رښتو د بدلونونو يو يادښت دی"
+
+msgid  "rightsnone"
+msgstr  "(هېڅ)"
+
+msgid  "action-read"
+msgstr  "همدا مخ لوستل"
+
+msgid  "action-edit"
+msgstr  "دا مخ سمول"
+
+msgid  "action-createpage"
+msgstr  "مخونه جوړول"
+
+msgid  "action-createtalk"
+msgstr  "د خبرو اترو مخونه جوړول"
+
+msgid  "action-createaccount"
+msgstr  "دا ګڼون جوړول"
+
+msgid  "action-minoredit"
+msgstr  "دا سمون وړوکی په نخښه کول"
+
+msgid  "action-move"
+msgstr  "همدا مخ لېږدول"
+
+msgid  "action-movefile"
+msgstr  "همدا دوتنه لېږدول"
+
+msgid  "action-upload"
+msgstr  "همدا دوتنه پورته کول"
+
+msgid  "action-upload_by_url"
+msgstr  "دا دوتنه له يوه URL نه پورته کول"
+
+msgid  "action-delete"
+msgstr  "همدا مخ ړنګول"
+
+msgid  "action-deleterevision"
+msgstr  "دا مخکتنه ړنګول"
+
+msgid  "action-deletedhistory"
+msgstr  "د دې مخ ړنګ شوی پېښليک کتل"
+
+msgid  "action-browsearchive"
+msgstr  "ړنګ مخونه پلټل"
+
+msgid  "action-undelete"
+msgstr  "همدا مخ ناړنګول"
+
+msgid  "action-block"
+msgstr  "پر دې کارن د سمون د آسانتياوؤ بنديز لګول"
+
+msgid  "action-protect"
+msgstr  "د دې مخ د ژغورنې کچه بدلول"
+
+msgid  "action-userrights"
+msgstr  "د کارن ټولې رښتې سمول"
+
+msgid  "nchanges"
+msgstr  "$1 {{PLURAL:$1|بدلون|بدلونونه}}"
+
+msgid  "recentchanges"
+msgstr  "وروستي بدلونونه"
+
+msgid  "recentchanges-legend"
+msgstr  "د ورستي بدلونو خوښنې"
+
+msgid  "recentchangestext"
+msgstr  "په همدې مخ باندې د ويکي ترټولو تازه وروستي بدلونونه وڅارۍ."
+
+msgid  "recentchanges-feed-description"
+msgstr  "همدلته د ويکي ترټولو تازه وروستي بدلونونه وڅارۍ او وګورۍ چې څه پېښ شوي."
+
+msgid  "recentchanges-label-newpage"
+msgstr  "دغه سمون يو نوی مخ جوړ کړی"
+
+msgid  "recentchanges-label-minor"
+msgstr  "دا يوه وړه سمونه ده"
+
+msgid  "recentchanges-label-bot"
+msgstr  "دغه سمون د يو روباټ لخوا ترسره شوی"
+
+msgid  "recentchanges-label-unpatrolled"
+msgstr  "دغه سمون تر اوسه پورې نه دی څارل شوی"
+
+msgid  "rcnote"
+msgstr  "دلته لاندې {{PLURAL:$1|وروستی '''1''' بدلون دی|وروستي '''$1''' بدلونونه دي}} چې په  {{PLURAL:$2| يوې ورځ|'''$2''' ورځو}} کې تر $4 نېټې او $5 بجو پېښ شوي."
+
+msgid  "rcnotefrom"
+msgstr  "په همدې ځای کې لاندې هغه بدلونونه دي چې د '''$2''' نه راپدېخوا پېښ شوي (تر '''$1''' پورې ښکاره شوي)."
+
+msgid  "rclistfrom"
+msgstr  "هغه بدلونونه ښکاره کړی چې له $1 نه پيلېږي"
+
+msgid  "rcshowhideminor"
+msgstr  "وړې سمونې $1"
+
+msgid  "rcshowhidebots"
+msgstr  "روباټ $1"
+
+msgid  "rcshowhideliu"
+msgstr  "غونډال کې ننوتي کارنان $1"
+
+msgid  "rcshowhideanons"
+msgstr  "بې نومه کارنان $1"
+
+msgid  "rcshowhidepatr"
+msgstr  "$1 څارلې سمونې"
+
+msgid  "rcshowhidemine"
+msgstr  "زما سمونې $1"
+
+msgid  "rclinks"
+msgstr  "هغه وروستي $1 بدلونونه ښکاره کړی چې په $2 ورځو کې پېښ شوي<br />$3"
+
+msgid  "diff"
+msgstr  "توپير"
+
+msgid  "hist"
+msgstr  "پېښليک"
+
+msgid  "hide"
+msgstr  "پټول"
+
+msgid  "show"
+msgstr  "ښکاره کول"
+
+msgid  "minoreditletter"
+msgstr  "و"
+
+msgid  "newpageletter"
+msgstr  "نوی"
+
+msgid  "boteditletter"
+msgstr  "روباټ"
+
+msgid  "rc_categories_any"
+msgstr  "هر يو"
+
+msgid  "newsectionsummary"
+msgstr  "/* $1 */ نوې برخه"
+
+msgid  "rc-enhanced-expand"
+msgstr  "تفصيل ښکاره کول (د دې لپاره د JavaScript اړتيا ده)"
+
+msgid  "rc-enhanced-hide"
+msgstr  "تفصيل پټول"
+
+msgid  "recentchangeslinked"
+msgstr  "اړونده بدلونونه"
+
+msgid  "recentchangeslinked-feed"
+msgstr  "اړونده بدلونونه"
+
+msgid  "recentchangeslinked-toolbox"
+msgstr  "اړونده بدلونونه"
+
+msgid  "recentchangeslinked-title"
+msgstr  "\"$1\" ته اړونده بدلونونه"
+
+msgid  "recentchangeslinked-noresult"
+msgstr  "په دې موده، په تړل شويو مخونو کې هېڅ کوم بدلونونه نه دي راپېښ شوي."
+
+msgid  "recentchangeslinked-summary"
+msgstr  "دا د هغه بدلونونو لړليک دی چې وروستۍ ځل په تړن لرونکيو مخونو کې د يوه ځانګړي مخ (او يا هم د يوې ځانګړې وېشنيزې غړو) نه رامېنځ ته شوي.\n[[Special:Watchlist|ستاسې د کتنلړ]] مخونه په '''زغرد ليک''' کې ښکاري."
+
+msgid  "recentchangeslinked-page"
+msgstr  "د مخ نوم:"
+
+msgid  "recentchangeslinked-to"
+msgstr  "د ورکړل شوي مخ پر ځای د اړونده تړلي مخونو بدلونونه ښکاره کول"
+
+msgid  "upload"
+msgstr  "دوتنه پورته کول"
+
+msgid  "uploadbtn"
+msgstr  "دوتنه پورته کول"
+
+msgid  "uploadnologin"
+msgstr  "غونډال کې نه ياست ننوتي"
+
+msgid  "uploadnologintext"
+msgstr  "ددې لپاره چې دوتنې پورته کړای شۍ، تاسو ته پکار ده چې لومړی غونډال کې [[Special:UserLogin|ننوتنه]] ترسره کړی."
+
+msgid  "uploaderror"
+msgstr  "د پورته کولو ستونزه"
+
+msgid  "uploadtext"
+msgstr  "د دوتنې د پورته کېدو لپاره لاندينی چوکاټ وکاروۍ.\nکه چېرته د پخونيو پورته شويو دوتنو کتل او پلټل غواړۍ نو [[Special:FileList|د پورته شويو دوتنو لړليک]] ته ورشۍ، [[Special:Log/upload|د (بيا) پورته شويو دوتنو يادښتونه]] او [[Special:Log/delete|د ړنګېدو يادښتونه]] هم کتلای شی.\n\nددې لپاره چې يوه مخ ته انځور ورواچوی، نو بيا پدې ډول تړنې (لېنک) وکاروی\n* د يوې دوتنې د بشپړې بڼې د کارولو په موخه د '''<tt><nowiki>[[</nowiki>{{ns:file}}<nowiki>:File.jpg]]</nowiki></tt>''' کوډ وکاروۍ.\n* د '۲۰۰ پېکسل' په کچه د 'بټنوک' په توګه د يوې دوتنې کارول چې د مخ کيڼې څنډې کې او ترلاندې 'د انځور څرګندونې' ولري، نو د دې موخې لپاره د '''<tt><nowiki>[[</nowiki>{{ns:file}}<nowiki>:File.png|200px|بټنوک|کيڼ|د انځور څرګندونې]]</nowiki></tt>''' کوډ وکاروۍ.\n* د انځور د ښودلو نه پرته، د دوتنې سره د سيخې تړنې لپاره د '''<tt><nowiki>[[</nowiki>{{ns:media}}<nowiki>:File.ogg]]</nowiki></tt>''' کوډ وکاروۍ."
+
+msgid  "uploadlog"
+msgstr  "د پورته شويو دوتنو يادښت"
+
+msgid  "uploadlogpage"
+msgstr  "د پورته شويو دوتنو يادښت"
+
+msgid  "uploadlogpagetext"
+msgstr  "دا لاندې د نوو پورته شوو دوتنو لړليک دی."
+
+msgid  "filename"
+msgstr  "د دوتنې نوم"
+
+msgid  "filedesc"
+msgstr  "لنډيز"
+
+msgid  "fileuploadsummary"
+msgstr  "لنډيز:"
+
+msgid  "filereuploadsummary"
+msgstr  "د دوتنې بدلونونه:"
+
+msgid  "filestatus"
+msgstr  "د رښتو دريځ:"
+
+msgid  "filesource"
+msgstr  "سرچينه:"
+
+msgid  "uploadedfiles"
+msgstr  "پورته شوې دوتنې"
+
+msgid  "ignorewarnings"
+msgstr  "هر ډول ګواښونه له پامه غورځول"
+
+msgid  "minlength1"
+msgstr  "پکار ده چې د دوتنو نومونه لږ تر لږه يو حرف ولري."
+
+msgid  "badfilename"
+msgstr  "ددغې دوتنې نوم \"$1\" ته واوړېده."
+
+msgid  "filetype-badmime"
+msgstr  "د MIME بڼې \"$1\" د دوتنو د پورته کولو اجازه نشته."
+
+msgid  "empty-file"
+msgstr  "کومه دوتنه چې تاسې دلته سپارلې هغه تشه ده."
+
+msgid  "file-too-large"
+msgstr  "کومه دوتنه چې تاسې دلته سپارلې ډېره لويه ده."
+
+msgid  "filename-tooshort"
+msgstr  "د دوتنې نوم ډېر لنډ دی"
+
+msgid  "filetype-banned"
+msgstr  "د دې بڼې په دوتنې بنديز دی"
+
+msgid  "tmp-create-error"
+msgstr  "لنډمهاله دوتنه جوړېدای نه شي"
+
+msgid  "fileexists"
+msgstr  "د پخوا نه پدې نوم يوه دوتنه شته، که تاسو ډاډه نه ياست او يا هم که تاسو غواړۍ چې بدلون پکې راولۍ، لطفاً '''<tt>[[:$1]]</tt>''' وګورۍ.\n[[$1|thumb]]"
+
+msgid  "fileexists-extension"
+msgstr  "په همدې نوم يوه بله دوتنه د پخوا نه شته: [[$2|thumb]]\n* د پورته کېدونکې دوتنې نوم: '''<tt>[[:$1]]</tt>'''\n* د پخوا نه شته دوتنه: '''<tt>[[:$2]]</tt>'''\nلطفاً يو داسې نوم وټاکی چې د پخوانۍ دوتنې سره توپير ولري."
+
+msgid  "fileexists-forbidden"
+msgstr  "د پخوا نه پدې نوم يوه دوتنه شته، او په دې نوم بله دوتنه نه پورته کېږي.\nکه تاسې بيا هم د خپلې دوتنې پورته کول غواړۍ، نو لطفاً بېرته وګرځۍ او همدغه دوتنه بيا په يوه نوي نوم پورته کړی.\n[[File:$1|thumb|center|$1]]"
+
+msgid  "file-exists-duplicate"
+msgstr  "همدا دوتنه د {{PLURAL:$1|لاندينۍ دوتنې|لاندينيو دوتنو}} غبرګه لمېسه ده:"
+
+msgid  "savefile"
+msgstr  "دوتنه خوندي کړه"
+
+msgid  "uploadedimage"
+msgstr  "\"[[$1]]\" پورته شوه"
+
+msgid  "uploaddisabled"
+msgstr  "پورته کول ناچارن شوي"
+
+msgid  "uploadvirus"
+msgstr  "دا دوتنه ويروس لري! تفصيل: $1"
+
+msgid  "upload-source"
+msgstr  "سرچينيزه دوتنه"
+
+msgid  "sourcefilename"
+msgstr  "د سرچينيزې دوتنې نوم:"
+
+msgid  "sourceurl"
+msgstr  "د URL سرچينه:"
+
+msgid  "destfilename"
+msgstr  "د موخنيزې دوتنې نوم:"
+
+msgid  "upload-maxfilesize"
+msgstr  "د دوتنې تر ټولو لويه کچه: $1"
+
+msgid  "upload-description"
+msgstr  "د دوتنې څرګندونې"
+
+msgid  "upload-options"
+msgstr  "د پورته کولو خوښنې"
+
+msgid  "watchthisupload"
+msgstr  "همدا دوتنه کتل"
+
+msgid  "upload-success-subj"
+msgstr  "دوتنه پورته کېدل په برياليتوب سره ترسره شو"
+
+msgid  "upload-failure-subj"
+msgstr  "د پورته کېدو ستونزه"
+
+msgid  "upload-file-error"
+msgstr  "کورنۍ ستونزه"
+
+msgid  "upload-unknown-size"
+msgstr  "ناڅرګنده کچه"
+
+msgid  "upload-http-error"
+msgstr  "د HTTP يوه ستونزه رامېنځ ته شوې: $1"
+
+msgid  "img-auth-accessdenied"
+msgstr  "لاسرسی رد شو"
+
+msgid  "img-auth-nofile"
+msgstr  "د $1 په نوم کومه دوتنه نشته."
+
+msgid  "http-invalid-url"
+msgstr  "ناسم URL: $1"
+
+msgid  "http-read-error"
+msgstr  "د HTTP د لوستلو ستونزه."
+
+msgid  "upload-curl-error6"
+msgstr  "URL ته لاسرسی و نه شو"
+
+msgid  "license"
+msgstr  "منښتليک:"
+
+msgid  "license-header"
+msgstr  "منښتليک:"
+
+msgid  "nolicense"
+msgstr  "هېڅ نه دي ټاکل شوي"
+
+msgid  "license-nopreview"
+msgstr  "(مخليدنه نشته)"
+
+msgid  "upload_source_file"
+msgstr  "(ستاسو په کمپيوټر کې يوه دوتنه)"
+
+msgid  "listfiles_search_for"
+msgstr  "د انځور د نوم لټون:"
+
+msgid  "imgfile"
+msgstr  "دوتنه"
+
+msgid  "listfiles"
+msgstr  "د دوتنو لړليک"
+
+msgid  "listfiles_thumb"
+msgstr  "بټنوک"
+
+msgid  "listfiles_date"
+msgstr  "نېټه"
+
+msgid  "listfiles_name"
+msgstr  "نوم"
+
+msgid  "listfiles_user"
+msgstr  "کارن"
+
+msgid  "listfiles_size"
+msgstr  "کچه (بايټونه)"
+
+msgid  "listfiles_description"
+msgstr  "څرګندونه"
+
+msgid  "listfiles_count"
+msgstr  "بڼې"
+
+msgid  "file-anchor-link"
+msgstr  "دوتنه"
+
+msgid  "filehist"
+msgstr  "د دوتنې پېښليک"
+
+msgid  "filehist-help"
+msgstr  "په يوې نېټې/يوه وخت وټوکۍ چې د هماغه وخت او نېټې دوتنه چې په هماغه وخت کې څنګه ښکارېده هماغسې درښکاره شي."
+
+msgid  "filehist-deleteall"
+msgstr  "ټول ړنګول"
+
+msgid  "filehist-deleteone"
+msgstr  "همدا ړنګول"
+
+msgid  "filehist-revert"
+msgstr  "په څټ ګرځول"
+
+msgid  "filehist-current"
+msgstr  "اوسنی"
+
+msgid  "filehist-datetime"
+msgstr  "نېټه/وخت"
+
+msgid  "filehist-thumb"
+msgstr  "بټنوک"
+
+msgid  "filehist-thumbtext"
+msgstr  "د $1 پورې د بټنوک بڼه"
+
+msgid  "filehist-nothumb"
+msgstr  "بې بټنوکه"
+
+msgid  "filehist-user"
+msgstr  "کارن"
+
+msgid  "filehist-dimensions"
+msgstr  "ډډې"
+
+msgid  "filehist-filesize"
+msgstr  "د دوتنې کچه"
+
+msgid  "filehist-comment"
+msgstr  "تبصره"
+
+msgid  "filehist-missing"
+msgstr  "دوتنه ورکه ده"
+
+msgid  "imagelinks"
+msgstr  "د دوتنې تړنې"
+
+msgid  "linkstoimage"
+msgstr  "دا {{PLURAL:$1|لاندينی مخ|$1 لانديني مخونه}} د همدې دوتنې سره تړنې لري:"
+
+msgid  "nolinkstoimage"
+msgstr  "داسې هېڅ کوم مخ نه شته چې د دغې دوتنې سره تړنې ولري."
+
+msgid  "duplicatesoffile"
+msgstr  "دا لاندينۍ {{PLURAL:$1| دوتنه د همدې دوتنې غبرګونې لمېسه ده|$1 دوتنې د همدې دوتنې غبرګونې لمېسې دي}} ([[Special:FileDuplicateSearch/$2|نور تفصيل]]):"
+
+msgid  "sharedupload"
+msgstr  "دا دوتنه د $1 لخوا نه ده او کېدای شي چې نورې پروژې به يې هم کاروي."
+
+msgid  "filepage-nofile"
+msgstr  "په دې نوم کومه دوتنه نشته."
+
+msgid  "uploadnewversion-linktext"
+msgstr  "د همدغې دوتنې نوې بڼه پورته کول"
+
+msgid  "shared-repo-from"
+msgstr  "د $1 لخوا"
+
+msgid  "filerevert-comment"
+msgstr  "سبب:"
+
+msgid  "filerevert-submit"
+msgstr  "په څټ ګرځول"
+
+msgid  "filedelete"
+msgstr  "$1 ړنګول"
+
+msgid  "filedelete-legend"
+msgstr  "دوتنه ړنګول"
+
+msgid  "filedelete-comment"
+msgstr  "سبب:"
+
+msgid  "filedelete-submit"
+msgstr  "ړنګول"
+
+msgid  "filedelete-success"
+msgstr  "'''$1''' ړنګ شو."
+
+msgid  "filedelete-nofile"
+msgstr  "'''$1''' نشته."
+
+msgid  "filedelete-otherreason"
+msgstr  "بل/اضافه سبب:"
+
+msgid  "filedelete-reason-otherlist"
+msgstr  "بل سبب"
+
+msgid  "filedelete-reason-dropdown"
+msgstr  "*د ړنګولو ټولګړی سبب\n** د رښتو نه غاړه غړونه\n** کټ مټ دوه ګونې دوتنه"
+
+msgid  "filedelete-edit-reasonlist"
+msgstr  "د ړنګولو سببونه سمول"
+
+msgid  "mimesearch"
+msgstr  "MIME پلټنه"
+
+msgid  "mimetype"
+msgstr  "MIME بڼه:"
+
+msgid  "download"
+msgstr  "ښکته کول"
+
+msgid  "unwatchedpages"
+msgstr  "ناکتلي مخونه"
+
+msgid  "listredirects"
+msgstr  "د ورګرځېدنو لړليک"
+
+msgid  "unusedtemplates"
+msgstr  "ناکارېدلې کينډۍ"
+
+msgid  "unusedtemplateswlh"
+msgstr  "نور تړنونه"
+
+msgid  "randompage"
+msgstr  "ناټاکلی مخ"
+
+msgid  "randompage-nopages"
+msgstr  "په لانديني {{PLURAL:$2|نوم-تشيال|نوم-تشيالونو}} کې هېڅ کوم مخ نشته: $1."
+
+msgid  "randomredirect"
+msgstr  "ناټاکلی ورګرځېدنه"
+
+msgid  "statistics"
+msgstr  "شمار"
+
+msgid  "statistics-header-pages"
+msgstr  "د مخونو شمار"
+
+msgid  "statistics-header-edits"
+msgstr  "د سمونو شمار"
+
+msgid  "statistics-header-views"
+msgstr  "د کتنو شمار"
+
+msgid  "statistics-header-users"
+msgstr  "د کارنانو شمار"
+
+msgid  "statistics-header-hooks"
+msgstr  "بل شمار"
+
+msgid  "statistics-articles"
+msgstr  "مېنځپانګيز مخونه"
+
+msgid  "statistics-pages"
+msgstr  "مخونه"
+
+msgid  "statistics-files"
+msgstr  "پورته شوې دوتنې"
+
+msgid  "statistics-edits"
+msgstr  "د {{SITENAME}} د جوړېدو راهيسې د مخونو سمون"
+
+msgid  "statistics-edits-average"
+msgstr  "پر يوه مخ د سمون منځوۍ کچه"
+
+msgid  "statistics-views-total"
+msgstr  "ټولټال کتنې"
+
+msgid  "statistics-users"
+msgstr  "ثبت شوي [[Special:ListUsers|کارنان]]"
+
+msgid  "statistics-users-active"
+msgstr  "فعاله کارنان"
+
+msgid  "statistics-mostpopular"
+msgstr  "تر ټولو ډېر کتل شوي مخونه"
+
+msgid  "disambiguations"
+msgstr  "د څرګندونې مخونه"
+
+msgid  "disambiguationspage"
+msgstr  "Template:ناجوت"
+
+msgid  "doubleredirects"
+msgstr  "دوه ځلي ورګرځېدنې"
+
+msgid  "brokenredirects"
+msgstr  "ماتې ورګرځېدنې"
+
+msgid  "brokenredirects-edit"
+msgstr  "سمول"
+
+msgid  "brokenredirects-delete"
+msgstr  "ړنګول"
+
+msgid  "withoutinterwiki"
+msgstr  "د ژبې د تړنو بې برخې مخونه"
+
+msgid  "withoutinterwiki-legend"
+msgstr  "مختاړی"
+
+msgid  "withoutinterwiki-submit"
+msgstr  "ښکاره کول"
+
+msgid  "fewestrevisions"
+msgstr  "لږ مخليدل شوي مخونه"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|بايټ|بايټونه}}"
+
+msgid  "ncategories"
+msgstr  "$1 {{PLURAL:$1|وېشنيزه|وېشنيزې}}"
+
+msgid  "nlinks"
+msgstr  "$1 {{PLURAL:$1|تړنه|تړنې}}"
+
+msgid  "nmembers"
+msgstr  "$1 {{PLURAL:$1|غړی|غړي}}"
+
+msgid  "nrevisions"
+msgstr  "$1 {{PLURAL:$1|بڼه|بڼې}}"
+
+msgid  "nviews"
+msgstr  "$1 {{PLURAL:$1|کتنه|کتنې}}"
+
+msgid  "nimagelinks"
+msgstr  "په $1 {{PLURAL:$1|کارېدلی مخ|کارېدلي مخونه}}"
+
+msgid  "specialpage-empty"
+msgstr  "د دې راپور لپاره کومې پايلې نشته."
+
+msgid  "lonelypages"
+msgstr  "يتيم مخونه"
+
+msgid  "uncategorizedpages"
+msgstr  "په وېشنيزو ناوېشلي مخونه"
+
+msgid  "uncategorizedcategories"
+msgstr  "په وېشنيزو ناوېشلې وېشنيزې"
+
+msgid  "uncategorizedimages"
+msgstr  "په وېشنيزو ناوېشلي انځورنه"
+
+msgid  "uncategorizedtemplates"
+msgstr  "په وېشنيزو ناوېشلې کينډۍ"
+
+msgid  "unusedcategories"
+msgstr  "ناکارېدلې وېشنيزې"
+
+msgid  "unusedimages"
+msgstr  "ناکارېدلې دوتنې"
+
+msgid  "popularpages"
+msgstr  "نامتو مخونه"
+
+msgid  "wantedcategories"
+msgstr  "غوښتلې وېشنيزې"
+
+msgid  "wantedpages"
+msgstr  "غوښتل شوې پاڼې"
+
+msgid  "wantedfiles"
+msgstr  "غوښتلې دوتنې"
+
+msgid  "wantedtemplates"
+msgstr  "غوښتلې کينډۍ"
+
+msgid  "mostlinked"
+msgstr  "د ډېرو تړنو مخونه"
+
+msgid  "mostlinkedcategories"
+msgstr  "د ګڼو تړنو وېشنيزې"
+
+msgid  "mostlinkedtemplates"
+msgstr  "د ډېرو تړنو کينډۍ"
+
+msgid  "mostcategories"
+msgstr  "د ګڼو وېشنيزو مخونه"
+
+msgid  "mostimages"
+msgstr  "د ډېرو تړنو انځورونه"
+
+msgid  "mostrevisions"
+msgstr  "ډېر کتلي مخونه"
+
+msgid  "prefixindex"
+msgstr  "د مختاړيو ټول مخونه"
+
+msgid  "shortpages"
+msgstr  "لنډ مخونه"
+
+msgid  "longpages"
+msgstr  "اوږده مخونه"
+
+msgid  "deadendpages"
+msgstr  "بې پايه مخونه"
+
+msgid  "deadendpagestext"
+msgstr  "همدا لانديني مخونه په دغه ويکي کې د نورو مخونو سره تړنې نه لري."
+
+msgid  "protectedpages"
+msgstr  "ژغورلي مخونه"
+
+msgid  "protectedpages-indef"
+msgstr  "يوازې بې پايه ژغورنې"
+
+msgid  "protectedpages-cascade"
+msgstr  "يوازې ځوړاوبيزې ژغورنې"
+
+msgid  "protectedtitles"
+msgstr  "ژغورلي سرليکونه"
+
+msgid  "listusers"
+msgstr  "د کارن لړليک"
+
+msgid  "listusers-editsonly"
+msgstr  "يوازې هغه کارنان چې سمونونه يې کړي ښکاره کول"
+
+msgid  "listusers-creationsort"
+msgstr  "د جوړېدو د نېټې له مخې اوډل"
+
+msgid  "usereditcount"
+msgstr  "{{PLURAL:$1|سمون|سمونونه}}"
+
+msgid  "usercreated"
+msgstr  "په $1 نېټه په $2 بجو جوړ شو"
+
+msgid  "newpages"
+msgstr  "نوي مخونه"
+
+msgid  "newpages-username"
+msgstr  "کارن-نوم:"
+
+msgid  "ancientpages"
+msgstr  "تر ټولو زاړه مخونه"
+
+msgid  "move"
+msgstr  "لېږدول"
+
+msgid  "movethispage"
+msgstr  "دا مخ ولېږدوه"
+
+msgid  "notargettitle"
+msgstr  "بې موخې"
+
+msgid  "pager-newer-n"
+msgstr  "{{PLURAL:$1|نوی 1|نوي $1}}"
+
+msgid  "pager-older-n"
+msgstr  "{{PLURAL:$1|زوړ 1|زاړه $1}}"
+
+msgid  "suppress"
+msgstr  "څارن"
+
+msgid  "booksources"
+msgstr  "د کتاب سرچينې"
+
+msgid  "booksources-search-legend"
+msgstr  "د کتابي سرچينو لټون وکړۍ"
+
+msgid  "booksources-go"
+msgstr  "ورځه"
+
+msgid  "booksources-text"
+msgstr  "دا لاندې د هغه وېبځايونو د تړنو لړليک دی چېرته چې نوي او زاړه کتابونه پلورل کېږي، او يا هم کېدای شي چې د هغه کتاب په هکله مالومات ولري کوم چې تاسو ورپسې لټېږۍ:"
+
+msgid  "specialloguserlabel"
+msgstr  "کارن:"
+
+msgid  "speciallogtitlelabel"
+msgstr  "سرليک:"
+
+msgid  "log"
+msgstr  "يادښتونه"
+
+msgid  "all-logs-page"
+msgstr  "ټول عام يادښتونه"
+
+msgid  "log-title-wildcard"
+msgstr  "هغه سرليکونه پلټل چې په دې متن پيلېږي"
+
+msgid  "allpages"
+msgstr  "ټول مخونه"
+
+msgid  "alphaindexline"
+msgstr  "$1 نه تر $2 پورې"
+
+msgid  "nextpage"
+msgstr  "بل مخ ($1)"
+
+msgid  "prevpage"
+msgstr  "تېر مخ ($1)"
+
+msgid  "allpagesfrom"
+msgstr  "ښکاره دې شي هغه مخونه چې پېلېږي په:"
+
+msgid  "allpagesto"
+msgstr  "هغه مخونه ښکاره کول چې پای يې وي:"
+
+msgid  "allarticles"
+msgstr  "ټول مخونه"
+
+msgid  "allinnamespace"
+msgstr  "ټول مخونه ($1 نوم-تشيال)"
+
+msgid  "allnotinnamespace"
+msgstr  "ټولې پاڼې (د $1 په نوم-تشيال کې نشته)"
+
+msgid  "allpagesprev"
+msgstr  "پخواني"
+
+msgid  "allpagesnext"
+msgstr  "راتلونکي"
+
+msgid  "allpagessubmit"
+msgstr  "ورځه"
+
+msgid  "allpagesprefix"
+msgstr  "هغه مخونه ښکاره کړه چې مختاړی يې وي:"
+
+msgid  "allpagesbadtitle"
+msgstr  "ورکړ شوی سرليک سم نه دی او يا هم د ژبو او يا د بېلابېلو ويکي ګانو مختاړی لري. ستاسو په سرليک کې يو يا څو داسې ابېڅې دي کوم چې په سرليک کې نه شي کارېدلی."
+
+msgid  "allpages-bad-ns"
+msgstr  "{{SITENAME}} د \"$1\" په نامه هېڅ کوم نوم-تشيال نه لري."
+
+msgid  "categories"
+msgstr  "وېشنيزې"
+
+msgid  "categoriespagetext"
+msgstr  "دا لاندينۍ {{PLURAL:$1|وېشنيزه|وېشنيزې}} مخونه يا رسنيزې دوتنې لري.\nدلته [[Special:UnusedCategories|ناکارېدلې وېشنيزې]] نه دي ښکاره شوي.\n[[Special:WantedCategories|غوښتلې وېشنيزې]] هم وګورۍ."
+
+msgid  "categoriesfrom"
+msgstr  "هغه وېشنيزې دې ښکاره شي چې پېلېږي په:"
+
+msgid  "special-categories-sort-count"
+msgstr  "د شمېر له مخې اوډل"
+
+msgid  "special-categories-sort-abc"
+msgstr  "د ابېڅو له مخې اوډل"
+
+msgid  "deletedcontributions"
+msgstr  "د کارونکي ونډې ړنګې شوې"
+
+msgid  "deletedcontributions-title"
+msgstr  "د کارونکي ونډې ړنګې شوې"
+
+msgid  "sp-deletedcontributions-contribs"
+msgstr  "ونډې"
+
+msgid  "linksearch"
+msgstr  "باندنۍ تړنې"
+
+msgid  "linksearch-pat"
+msgstr  "د پلټنې مخبېلګه:"
+
+msgid  "linksearch-ns"
+msgstr  "نوم-تشيال:"
+
+msgid  "linksearch-ok"
+msgstr  "پلټل"
+
+msgid  "linksearch-line"
+msgstr  "$1 د $2 سره تړل شوی"
+
+msgid  "listusersfrom"
+msgstr  "هغه کارنان ښکاره کړه چې نومونه يې پېلېږي په:"
+
+msgid  "listusers-submit"
+msgstr  "ښکاره کول"
+
+msgid  "listusers-noresult"
+msgstr  "هېڅ کوم کارن و نه موندل شو."
+
+msgid  "listusers-blocked"
+msgstr  "(بنديز لګېدلی)"
+
+msgid  "activeusers"
+msgstr  "د فعالو کارنانو لړليک"
+
+msgid  "activeusers-count"
+msgstr  "په {{PLURAL:$2|تېرې|تېرو}} {{PLURAL:$3|ورځ|$3 ورځو}} کې $1 {{PLURAL:$1|سمون|سمونونه}}"
+
+msgid  "activeusers-from"
+msgstr  "هغه کارنان ښکاره کړه چې نومونه يې پېلېږي په:"
+
+msgid  "activeusers-hidesysops"
+msgstr  "پازوالان پټول"
+
+msgid  "activeusers-noresult"
+msgstr  "کارن و نه موندل شو."
+
+msgid  "newuserlogpage"
+msgstr  "د کارن-نوم د جوړېدو يادښت"
+
+msgid  "newuserlogpagetext"
+msgstr  "دا د کارن-نوم د جوړېدو يادښت دی"
+
+msgid  "newuserlog-byemail"
+msgstr  "پټنوم مو برېښليک ته درولېږه"
+
+msgid  "newuserlog-create-entry"
+msgstr  "نوی کارن"
+
+msgid  "newuserlog-create2-entry"
+msgstr  "نوی جوړ شوی ګڼون $1"
+
+msgid  "newuserlog-autocreate-entry"
+msgstr  "ګڼون په اتوماتيک ډول جوړ شو"
+
+msgid  "listgrouprights"
+msgstr  "د کارن ډلو رښتې"
+
+msgid  "listgrouprights-group"
+msgstr  "ډله"
+
+msgid  "listgrouprights-rights"
+msgstr  "رښتې"
+
+msgid  "listgrouprights-helppage"
+msgstr  "Help:د ډلې رښتې"
+
+msgid  "listgrouprights-members"
+msgstr  "(د غړو لړليک)"
+
+msgid  "listgrouprights-addgroup"
+msgstr  "{{PLURAL:$2|ډله|ډلې}} ورګډول: $1"
+
+msgid  "listgrouprights-removegroup"
+msgstr  "{{PLURAL:$2|ډله|ډلې}} ليري کول: $1"
+
+msgid  "listgrouprights-addgroup-all"
+msgstr  "ټولې ډلې ورګډول"
+
+msgid  "listgrouprights-removegroup-all"
+msgstr  "ټولې ډلې ليري کول"
+
+msgid  "listgrouprights-addgroup-self"
+msgstr  "خپل ګڼون کې د {{PLURAL:$2|ډله|ډلې}} ورګډول: $1"
+
+msgid  "listgrouprights-removegroup-self"
+msgstr  "خپل ګڼون نه د {{PLURAL:$2|ډله|ډلې}} ليري کول: $1"
+
+msgid  "listgrouprights-addgroup-self-all"
+msgstr  "خپل ګڼون کې ټولې ډلې ورګډول"
+
+msgid  "listgrouprights-removegroup-self-all"
+msgstr  "خپل ګڼون نه ټولې ډلې ليري کول"
+
+msgid  "mailnologin"
+msgstr  "هېڅ کومه لېږل شوې پته نشته"
+
+msgid  "emailuser"
+msgstr  "کارن ته برېښليک لېږل"
+
+msgid  "emailpage"
+msgstr  "کارن ته برېښليک لېږل"
+
+msgid  "defemailsubject"
+msgstr  "د {{SITENAME}} برېښليک"
+
+msgid  "usermaildisabled"
+msgstr  "د کارن برېښليک ناچارند دی"
+
+msgid  "usermaildisabledtext"
+msgstr  "په دې ويکي تاسې نورو کارنانو ته برېښليک نه شی ورلېږلی"
+
+msgid  "noemailtitle"
+msgstr  "هېڅ کومه برېښليک پته نشته."
+
+msgid  "nowikiemailtitle"
+msgstr  "د برېښليک لېږلو اجازه نشته"
+
+msgid  "nowikiemailtext"
+msgstr  "دې کارن د نورو کارنانو لخوا د برېښليک د نه ترلاسه کولو چاره خوښه کړې."
+
+msgid  "email-legend"
+msgstr  "د {{SITENAME}} يو بل کارن ته يو برېښليک ورلېږل"
+
+msgid  "emailfrom"
+msgstr  "لېږونکی"
+
+msgid  "emailto"
+msgstr  "اخيستونکی"
+
+msgid  "emailsubject"
+msgstr  "سکالو:"
+
+msgid  "emailmessage"
+msgstr  "پيغام:"
+
+msgid  "emailsend"
+msgstr  "لېږل"
+
+msgid  "emailccme"
+msgstr  "زما د پيغام يوه بېلګه دې ماته هم برېښليک شي."
+
+msgid  "emailccsubject"
+msgstr  "$1 ته ستاسو د پيغام لمېسه: $2"
+
+msgid  "emailsent"
+msgstr  "برېښليک مو ولېږل شو"
+
+msgid  "emailsenttext"
+msgstr  "ستاسو برېښليکي پيغام ولېږل شو."
+
+msgid  "emailuserfooter"
+msgstr  "همدا برېښليک د $1 لخوا $2 ته د {{SITENAME}} په وېبځي کې د \"همدې کارونکي ته برېښليک لېږل\" د کړنې په مرسته لېږل شوی دی."
+
+msgid  "usermessage-summary"
+msgstr  "د غونډال پيغام پرېښودل."
+
+msgid  "usermessage-editor"
+msgstr  "د غونډال پيغام رسونکی"
+
+msgid  "watchlist"
+msgstr  "زما کتنلړ"
+
+msgid  "mywatchlist"
+msgstr  "زما کتنلړ"
+
+msgid  "watchlistfor2"
+msgstr  "د $1 لپاره $2"
+
+msgid  "nowatchlist"
+msgstr  "ستاسو په کتلي لړليک کې هېڅ نه شته."
+
+msgid  "watchlistanontext"
+msgstr  "د خپل کتنلړ د توکو د سمولو او کتلو لپاره $1 ترسره کړۍ."
+
+msgid  "watchnologin"
+msgstr  "غونډال کې نه ياست ننوتي."
+
+msgid  "watchnologintext"
+msgstr  "ددې لپاره چې خپل کتل شوي لړليک کې بدلون راولی نو تاسو ته پکار ده چې لومړی غونډال کې [[Special:UserLogin|ننوتنه]] ترسره کړی."
+
+msgid  "addedwatch"
+msgstr  "په کتنلړ کې ورګډ شو."
+
+msgid  "addedwatchtext"
+msgstr  "د \"[[:$1]]\" په نوم يو مخ ستاسې [[Special:Watchlist|کتنلړ]] کې ورګډ شو.\nپه راتلونکې کې چې په دغه مخ او د ده د خبرواترو مخ کې کوم بدلونونه راځي نو هغه به ستاسې کتنلړ کې ښکاره شي،\nاو په همدې توګه هغه مخونه به د [[Special:RecentChanges|وروستي بدلونونو]] په لړليک کې په '''روڼ''' ليک ښکاري ترڅو په اسانۍ سره څوک وپوهېږي چې په کوم کوم مخونو کې بدلونونه ترسره شوي.\n\nکه چېرته تاسې بيا وروسته غواړۍ چې کوم مخ د خپل کتنلړ نه ليرې کړۍ، نو په \"نه کتل\" تڼۍ باندې ټک ورکړۍ."
+
+msgid  "removedwatch"
+msgstr  "د کتنلړ نه لرې شو"
+
+msgid  "removedwatchtext"
+msgstr  "د \"[[:$1]]\" مخ [[Special:Watchlist|ستاسې کتنلړ]] نه لرې شو."
+
+msgid  "watch"
+msgstr  "کتل"
+
+msgid  "watchthispage"
+msgstr  "همدا مخ کتل"
+
+msgid  "unwatch"
+msgstr  "نه کتل"
+
+msgid  "unwatchthispage"
+msgstr  "څارنې په ټپه درول"
+
+msgid  "notanarticle"
+msgstr  "يو منځپانګيز مخ نه دی"
+
+msgid  "watchlist-details"
+msgstr  "ستاسې کتنلړ کې {{PLURAL:$1|$1 مخ دی|$1 مخونه دي}}، د خبرو اترو مخونه مو پکې نه دي شمېرلي."
+
+msgid  "wlheader-enotif"
+msgstr  "د برېښليک له لارې خبرول چارن شوی.*"
+
+msgid  "wlheader-showupdated"
+msgstr  "* هغه مخونه چې وروستی ځل ستاسو د کتلو نه وروسته بدلون موندلی په '''روڼ''' ليک نښه شوي."
+
+msgid  "watchlistcontains"
+msgstr  "ستاسې کتنلړ $1 {{PLURAL:$1|مخ|مخونه}} لري."
+
+msgid  "wlshowlast"
+msgstr  "وروستي $1 ساعتونه $2 ورځې $3 ښکاره کړه"
+
+msgid  "watchlist-options"
+msgstr  "د کتنلړ خوښنې"
+
+msgid  "watching"
+msgstr  "د کتلو په حال کې..."
+
+msgid  "unwatching"
+msgstr  "د نه کتلو په حال کې..."
+
+msgid  "enotif_mailer"
+msgstr  "د {{SITENAME}} خبرتيايي برېښليک"
+
+msgid  "enotif_reset"
+msgstr  "ټول مخونه کتل شوي نخښه کول"
+
+msgid  "enotif_newpagetext"
+msgstr  "دا يوه نوې پاڼه ده."
+
+msgid  "enotif_impersonal_salutation"
+msgstr  "{{SITENAME}} کارن"
+
+msgid  "changed"
+msgstr  "بدل شو"
+
+msgid  "created"
+msgstr  "جوړ شو"
+
+msgid  "enotif_subject"
+msgstr  "د {{SITENAME}} مخ $PAGETITLE د  $PAGEEDITOR لخوا $CHANGEDORCREATED"
+
+msgid  "enotif_lastvisited"
+msgstr  "د ټولو هغو بدلونونو د کتلو لپاره چې ستاسو د وروستي ځل راتګ نه وروسته پېښې شوي، $1 وګورۍ."
+
+msgid  "enotif_lastdiff"
+msgstr  "د همدغه بدلون د کتلو لپاره $1 وګورۍ."
+
+msgid  "enotif_anon_editor"
+msgstr  "ورکنومی کارن $1"
+
+msgid  "enotif_body"
+msgstr  "قدرمن/قدرمنې $WATCHINGUSERNAME,\n\n\nپه $PAGEEDITDATE نېټه، د  $PAGEEDITOR لخوا د {{SITENAME}} مخ $PAGETITLE ته $CHANGEDORCREATED، د اوسنۍ بڼې لپاره $PAGETITLE_URL وګورۍ.\n\n$NEWPAGE\n\nد سمونګر لنډيز: $PAGESUMMARY $PAGEMINOREDIT\n\nContact the editor:\nبرېښليک: $PAGEEDITOR_EMAIL\nويکي: $PAGEEDITOR_WIKI\n\nد لا نورو بدلونونو په پېښېدو سره به تاسې ته د خبراوي بل برېښليک نه درلېږل کېږي، تر څو چې تاسې د همدې مخ نه کتنه و نه کړۍ.\nتاسې دا هم کولای شی چې په خپل کتنلړ کې د ټولو کتل شويو مخونو د خبراوي بيرغونه بيا له سره پرځای کړۍ.\n\n             ستاسې ملګری\n\nد {{SITENAME}} د خبرولو غونډال\n\n--\nد خپل کتنلړ د امستنو د بدلون لپاره،\n{{fullurl:{{#special:Watchlist}}/edit}} نه ليدنه وکړۍ\n\nد خپل کتنلړ د مخونو د ړنګولو لپاره،\n$UNWATCHURL  نه ليدنه وکړۍ\n\nانګېرنې او نورې مرستې:\n{{fullurl:{{MediaWiki:Helppage}}}}"
+
+msgid  "deletepage"
+msgstr  "پاڼه ړنګول"
+
+msgid  "confirm"
+msgstr  "تاييد"
+
+msgid  "excontent"
+msgstr  "د مخ مېنځپانګه دا وه: \"$1\""
+
+msgid  "excontentauthor"
+msgstr  "د مخ مېنځپانګه دا وه: \"$1\" (او يواځينی ونډه وال \"[[Special:Contributions/$2|$2]]\" وه)"
+
+msgid  "exblank"
+msgstr  "دا مخ تش وه"
+
+msgid  "delete-confirm"
+msgstr  "\"$1\" ړنګوول"
+
+msgid  "delete-legend"
+msgstr  "ړنګول"
+
+msgid  "historywarning"
+msgstr  "ګواښنه:''' تاسې چې د کوم مخ د ړنګېدو تکل لری، هغه د نژدې $1 {{PLURAL:$1|بڼې|بڼو}} يو پېښليک لري:"
+
+msgid  "confirmdeletetext"
+msgstr  "تاسې د تل لپار يو مخ يا انځور د هغه ټول پېښليک سره د دغه توکبنسټ نه ړنګوۍ. که چېرته تاسې ددې کړنې په پايله پوه ياست او يا ستاسو همدا کړنه د دې پاڼې د [[{{MediaWiki:Policy-url}}|تګلارې]] سره سمون خوري نو لطفاً د دې تاييد وکړی."
+
+msgid  "actioncomplete"
+msgstr  "بشپړه کړنه"
+
+msgid  "deletedtext"
+msgstr  "\"<nowiki>$1</nowiki>\" ړنګ شوی.\nد نوو ړنګ شوو سوانحو لپاره $2 وګورۍ."
+
+msgid  "deletedarticle"
+msgstr  "\"[[$1]]\" ړنګ شو"
+
+msgid  "dellogpage"
+msgstr  "د ړنګولو يادښت"
+
+msgid  "dellogpagetext"
+msgstr  "دا لاندې د نوو ړنګ شوو کړنو لړليک دی."
+
+msgid  "deletionlog"
+msgstr  "د ړنګولو يادښت"
+
+msgid  "deletecomment"
+msgstr  "سبب:"
+
+msgid  "deleteotherreason"
+msgstr  "بل/اضافه سبب:"
+
+msgid  "deletereasonotherlist"
+msgstr  "بل سبب"
+
+msgid  "deletereason-dropdown"
+msgstr  "*د ړنګولو ټولګړی سبب\n** د ليکوال غوښتنه\n** د رښتو تېری\n** د پوهې سره دښمني"
+
+msgid  "delete-edit-reasonlist"
+msgstr  "د ړنګولو سببونه سمول"
+
+msgid  "rollback_short"
+msgstr  "په شابېول"
+
+msgid  "rollbacklink"
+msgstr  "په شابېول"
+
+msgid  "protectlogpage"
+msgstr  "د ژغورنې يادښت"
+
+msgid  "protectedarticle"
+msgstr  "\"[[$1]]\" وژغورلی شو"
+
+msgid  "modifiedarticleprotection"
+msgstr  "د \"[[$1]]\" لپاره د ژغورنې کچه بدله شوه"
+
+msgid  "protect-title"
+msgstr  "د \"$1\" لپاره د ژغورنې کچه بدلول"
+
+msgid  "prot_1movedto2"
+msgstr  "[[$1]]، [[$2]] ته ولېږدېده"
+
+msgid  "protect-legend"
+msgstr  "د ژغورلو پخلی کول"
+
+msgid  "protectcomment"
+msgstr  "سبب:"
+
+msgid  "protectexpiry"
+msgstr  "د پای نېټه:"
+
+msgid  "protect_expiry_invalid"
+msgstr  "د پای وخت ناسم دی."
+
+msgid  "protect_expiry_old"
+msgstr  "د پای وخت په تېرمهال کې دی."
+
+msgid  "protect-text"
+msgstr  "تاسې کولای شی چې د '''<nowiki>$1</nowiki>''' مخ لپاره د ژغورلو کچه همدلته وګورۍ او بدلون پکې راولی."
+
+msgid  "protect-locked-access"
+msgstr  "ستاسې ګڼون دا اجازه نه لري چې د پاڼو د ژغورنې په کچه کې بدلون راولي.\nدلته د '''$1''' مخ لپاره اوسني شته امستنې دي:"
+
+msgid  "protect-cascadeon"
+msgstr  "د اوسمهال لپاره همدا مخ ژغورل شوی دا ځکه چې همدا مخ په {{PLURAL:$1|لانديني مخ|لانديني مخونو}} کې ورګډ دی چې {{PLURAL:$1|ځوړاوبيزه ژغورنه يې چارنه ده|ځوړاوبيزې ژغورنې يې چارنې دي}}.\nتاسې د همدې مخ د ژغورنې په کچه کې بدلون راوستلای شی، خو دا به په ځوړاوبيزه ژغورنه اغېزمنه نه کړي."
+
+msgid  "protect-default"
+msgstr  "ټول کارنان پرېښودل"
+
+msgid  "protect-fallback"
+msgstr  "د \"$1\" اجازه پکار ده"
+
+msgid  "protect-level-autoconfirmed"
+msgstr  "پر نوؤ او ناثبته کارنانو بنديز لګول"
+
+msgid  "protect-level-sysop"
+msgstr  "يواځې پازوالان"
+
+msgid  "protect-summary-cascade"
+msgstr  "ځوړاوبيز"
+
+msgid  "protect-expiring"
+msgstr  "په $1 (UTC) پای ته رسېږي"
+
+msgid  "protect-expiry-indefinite"
+msgstr  "لامحدوده"
+
+msgid  "protect-cascade"
+msgstr  "په همدې مخ کې د ټولو ګډو مخونو نه ژغورنه کېږي (ځوړاوبيزه ژغورنه)"
+
+msgid  "protect-cantedit"
+msgstr  "تاسې نه شی کولای چې د دې مخ د ژغورنې په کچه کې بدلون راولی، دا ځکه چې تاسې د دې مخ د سمولو اجازه نه لری."
+
+msgid  "protect-othertime"
+msgstr  "بل وخت:"
+
+msgid  "protect-othertime-op"
+msgstr  "بل وخت"
+
+msgid  "protect-otherreason"
+msgstr  "بل/اضافي سبب:"
+
+msgid  "protect-otherreason-op"
+msgstr  "بل سبب"
+
+msgid  "protect-dropdown"
+msgstr  "*د ژغورلو عام سببونه\n** ډېره زياته ورانکاري\n** ډېره زياته سپام خپرونه\n** بې ګټې سمونې او خپرونې\n** ډېر لوستونکی مخ"
+
+msgid  "protect-edit-reasonlist"
+msgstr  "د ژغورنې سببونه سمول"
+
+msgid  "protect-expiry-options"
+msgstr  "1 ساعت:1 hour,1 ورځ:1 day,1 اوونۍ:1 week,2 اوونۍ:2 weeks,1 مياشت:1 month,3 مياشتې:3 months,6 مياشتې:6 months,1 کال:1 year,لامحدوده:infinite"
+
+msgid  "restriction-type"
+msgstr  "اجازه:"
+
+msgid  "restriction-level"
+msgstr  "د بنديز کچه:"
+
+msgid  "minimum-size"
+msgstr  "وړه کچه"
+
+msgid  "pagesize"
+msgstr  "(بايټونه)"
+
+msgid  "restriction-edit"
+msgstr  "سمون"
+
+msgid  "restriction-move"
+msgstr  "لېږدول"
+
+msgid  "restriction-create"
+msgstr  "جوړول"
+
+msgid  "restriction-upload"
+msgstr  "پورته کول"
+
+msgid  "restriction-level-sysop"
+msgstr  "بشپړ ژغورلی"
+
+msgid  "restriction-level-autoconfirmed"
+msgstr  "نيم ژغورلی"
+
+msgid  "undelete"
+msgstr  "ړنګ شوي مخونه کتل"
+
+msgid  "undeletepage"
+msgstr  "ړنګ شوي مخونه کتل او بېرته پرځای کول"
+
+msgid  "viewdeletedpage"
+msgstr  "ړنګ شوي مخونه کتل"
+
+msgid  "undeletebtn"
+msgstr  "بېرته پرځای کول"
+
+msgid  "undeletelink"
+msgstr  "کتل/بيازېرمل"
+
+msgid  "undeleteviewlink"
+msgstr  "کتل"
+
+msgid  "undeletereset"
+msgstr  "بياايښودل"
+
+msgid  "undeletecomment"
+msgstr  "سبب:"
+
+msgid  "undeletedarticle"
+msgstr  "\"[[$1]]\" بېرته پرځای شو"
+
+msgid  "undeletedfiles"
+msgstr  "{{PLURAL:$1|1 دوتنه بيازېرمه شوه|$1 دوتنې بيازېرمه شوې}}"
+
+msgid  "undelete-search-box"
+msgstr  "ړنګ شوي مخونه لټول"
+
+msgid  "undelete-search-prefix"
+msgstr  "هغه مخونه ښکاره کړه چې پېلېږي په:"
+
+msgid  "undelete-search-submit"
+msgstr  "پلټل"
+
+msgid  "undelete-show-file-submit"
+msgstr  "هو"
+
+msgid  "namespace"
+msgstr  "نوم-تشيال:"
+
+msgid  "invert"
+msgstr  "ټاکنې سرچپه کول"
+
+msgid  "blanknamespace"
+msgstr  "(آرنی)"
+
+msgid  "contributions"
+msgstr  "د کارن ونډې"
+
+msgid  "contributions-title"
+msgstr  "د $1 کارن ونډې"
+
+msgid  "mycontris"
+msgstr  "زما ونډې"
+
+msgid  "contribsub2"
+msgstr  "د $1 لپاره ($2)"
+
+msgid  "uctop"
+msgstr  "(سرپاڼه)"
+
+msgid  "month"
+msgstr  "له ټاکلې مياشتې نه راپدېخوا (او تر دې پخواني):"
+
+msgid  "year"
+msgstr  "له ټاکلي کال نه راپدېخوا (او تر دې پخواني):"
+
+msgid  "sp-contributions-newbies"
+msgstr  "د نوو ګڼونونو ونډې ښکاره کول"
+
+msgid  "sp-contributions-newbies-sub"
+msgstr  "د نوو ګڼونونو لپاره"
+
+msgid  "sp-contributions-blocklog"
+msgstr  "د بنديز يادښت"
+
+msgid  "sp-contributions-deleted"
+msgstr  "د کارن ونډې ړنګې شوې"
+
+msgid  "sp-contributions-uploads"
+msgstr  "پورته کېدنې"
+
+msgid  "sp-contributions-logs"
+msgstr  "يادښتونه"
+
+msgid  "sp-contributions-talk"
+msgstr  "خبرې اترې"
+
+msgid  "sp-contributions-search"
+msgstr  "د ونډو لټون"
+
+msgid  "sp-contributions-username"
+msgstr  "IP پته يا کارن-نوم:"
+
+msgid  "sp-contributions-toponly"
+msgstr  "يوازې هغه سمونونه چې تر ټولو تازه بڼې لري ښکاره کول"
+
+msgid  "sp-contributions-submit"
+msgstr  "پلټل"
+
+msgid  "whatlinkshere"
+msgstr  "د دې مخ تړنې"
+
+msgid  "whatlinkshere-title"
+msgstr  "هغه مخونه چې د \"$1\" سره تړنې لري"
+
+msgid  "whatlinkshere-page"
+msgstr  "مخ:"
+
+msgid  "linkshere"
+msgstr  "دغه لانديني مخونه د '''[[:$1]]''' سره تړنې لري:"
+
+msgid  "nolinkshere"
+msgstr  "د '''[[:$1]]''' سره هېڅ يو مخ هم تړنې نه لري ."
+
+msgid  "isredirect"
+msgstr  "د مخ ګرځونې مخ"
+
+msgid  "istemplate"
+msgstr  "ورګډېدنه"
+
+msgid  "isimage"
+msgstr  "د انځور تړنه"
+
+msgid  "whatlinkshere-prev"
+msgstr  "{{PLURAL:$1|پخوانی|پخواني $1}}"
+
+msgid  "whatlinkshere-next"
+msgstr  "{{PLURAL:$1|راتلونکی|راتلونکي $1}}"
+
+msgid  "whatlinkshere-links"
+msgstr  "← تړنې"
+
+msgid  "whatlinkshere-hideredirs"
+msgstr  "مخ ګرځونې $1"
+
+msgid  "whatlinkshere-hidetrans"
+msgstr  "پايلې $1"
+
+msgid  "whatlinkshere-hidelinks"
+msgstr  "تړنې $1"
+
+msgid  "whatlinkshere-hideimages"
+msgstr  "$1 د انځور تړنې"
+
+msgid  "whatlinkshere-filters"
+msgstr  "چاڼګرونه"
+
+msgid  "blockip"
+msgstr  "په کارن بنديز لګول"
+
+msgid  "blockip-title"
+msgstr  "په کارن بنديز لګول"
+
+msgid  "blockip-legend"
+msgstr  "په کارن بنديز لګول"
+
+msgid  "ipaddress"
+msgstr  "IP پته"
+
+msgid  "ipadressorusername"
+msgstr  "IP پته يا کارن نوم"
+
+msgid  "ipbexpiry"
+msgstr  "د پای نېټه:"
+
+msgid  "ipbreason"
+msgstr  "سبب:"
+
+msgid  "ipbreasonotherlist"
+msgstr  "بل لامل"
+
+msgid  "ipbreason-dropdown"
+msgstr  "*د بنديز ټولګړي سببونه\n** د ناسمو مالوماتو خپرول\n** د مخونو د مېنځپانګې ړنګول\n** په مخونو کې د باندنيو وېبځايونو بېکاره سپام تړنې ځايول\n** په مخونو کې بې مانا/چټياټ ځايول\n** په مخونو کې ناندرۍ راپارېدنې/د تاوتريخوالي خپرېدو ته هڅول\n** د ګڼ شمېر ګڼونونو نه ناوړه ګټه اخيستل\n** نه مننونکی کارن-نوم کارول"
+
+msgid  "ipbcreateaccount"
+msgstr  "د ګڼون جوړولو مخنيول"
+
+msgid  "ipbsubmit"
+msgstr  "په دې کارن بنديز لګول"
+
+msgid  "ipbother"
+msgstr  "بل وخت:"
+
+msgid  "ipboptions"
+msgstr  "2 ساعتونه:2 hours,1 ورځ:1 day,3 ورځې:3 days,1 اوونۍ:1 week,2 اوونۍ:2 weeks,1 مياشت:1 month,3 مياشتې:3 months,6 مياشتې:6 months,1 کال:1 year,لامحدوده:infinite"
+
+msgid  "ipbotheroption"
+msgstr  "نور"
+
+msgid  "ipbotherreason"
+msgstr  "بل/اضافه سبب:"
+
+msgid  "ipbhidename"
+msgstr  "کارن-نوم له سمون او لړليکونو پټول"
+
+msgid  "badipaddress"
+msgstr  "ناسمه IP پته"
+
+msgid  "blockipsuccesssub"
+msgstr  "بنديز په برياليتوب سره ولګېده"
+
+msgid  "blockipsuccesstext"
+msgstr  "د [[Special:Contributions/$1|$1]] مخه نيول شوې.\n<br />د مخنيول شويو خلکو د کتنې لپاره، د [[Special:IPBlockList|مخنيول شويو IP لړليک]] وګورۍ."
+
+msgid  "ipb-edit-dropdown"
+msgstr  "د بنديز د سببونو سمول"
+
+msgid  "ipb-unblock-addr"
+msgstr  "له $1 بنديز ليرې کول"
+
+msgid  "ipb-unblock"
+msgstr  "له يوه کارن-نوم يا IP پتې بنديز ليري کول"
+
+msgid  "ipb-blocklist"
+msgstr  "شته بنديزونه کتل"
+
+msgid  "ipb-blocklist-contribs"
+msgstr  "د $1 ونډې"
+
+msgid  "unblockip"
+msgstr  "کارن له بنديزه وېستل"
+
+msgid  "ipusubmit"
+msgstr  "دا بنديز ليرې کول"
+
+msgid  "unblocked"
+msgstr  "له [[User:$1|$1]] بنديز ليري شو"
+
+msgid  "ipblocklist"
+msgstr  "بنديز لګېدلي کارنان"
+
+msgid  "ipblocklist-legend"
+msgstr  "يو بنديز شوی کارن موندل"
+
+msgid  "ipblocklist-username"
+msgstr  "کارن-نوم يا IP پته:"
+
+msgid  "ipblocklist-sh-userblocks"
+msgstr  "د ګڼون بنديزونه $1"
+
+msgid  "ipblocklist-sh-tempblocks"
+msgstr  "لنډمهاله بنديزونه $1"
+
+msgid  "ipblocklist-submit"
+msgstr  "پلټل"
+
+msgid  "ipblocklist-localblock"
+msgstr  "سيمه ايز بنديز"
+
+msgid  "ipblocklist-otherblocks"
+msgstr  "{{PLURAL:$1|بل بنديز|نور بنديزونه}}"
+
+msgid  "blocklistline"
+msgstr  "$1, $2 په $3 بنديز ولګاوه ($4)"
+
+msgid  "infiniteblock"
+msgstr  "لامحدوده"
+
+msgid  "expiringblock"
+msgstr  "په $1 نېټه، $2 بجو پای ته رسېږي"
+
+msgid  "anononlyblock"
+msgstr  "يواځې ورکنومی"
+
+msgid  "createaccountblock"
+msgstr  "په ګڼون جوړولو بنديز لګېدلی"
+
+msgid  "emailblock"
+msgstr  "پر برېښليک بنديز ولګېد"
+
+msgid  "blocklist-nousertalk"
+msgstr  "د خبرواترو خپل مخ نه شی سمولای"
+
+msgid  "ipblocklist-empty"
+msgstr  "د بنديز لړليک تش دی"
+
+msgid  "blocklink"
+msgstr  "بنديز لګول"
+
+msgid  "unblocklink"
+msgstr  "بنديز لرې کول"
+
+msgid  "change-blocklink"
+msgstr  "د بنديز بدلون"
+
+msgid  "contribslink"
+msgstr  "ونډې"
+
+msgid  "autoblocker"
+msgstr  "په اتوماتيک ډول ستاسو مخنيوی شوی دا ځکه چې ستاسو IP پته وروستی ځل د \"[[User:$1|$1]]\" له خوا کارېدلې. او د $1 د مخنيوي سبب دا دی: \"$2\""
+
+msgid  "blocklogpage"
+msgstr  "د مخنيوي يادښت"
+
+msgid  "blocklogentry"
+msgstr  "په [[$1]] بنديز لګېدلی چې د بنديز د پای وخت يې $2 $3 دی"
+
+msgid  "unblocklogentry"
+msgstr  "بنديز ليرې شو $1"
+
+msgid  "block-log-flags-anononly"
+msgstr  "يواځې ورکنومي کارنان"
+
+msgid  "block-log-flags-nocreate"
+msgstr  "د ګڼون جوړول ناچارن شوی"
+
+msgid  "block-log-flags-noemail"
+msgstr  "ددې برېښليک مخه نيول شوی"
+
+msgid  "block-log-flags-hiddenname"
+msgstr  "پټ کارن-نوم"
+
+msgid  "ipb_already_blocked"
+msgstr  "پر \"$1\" د پخوا نه بنديز دی"
+
+msgid  "ipb-needreblock"
+msgstr  "== د پخوا نه بنديز لګېدلی ==\nپر $1 د پخوا نه بنديز لګېدلی.\nآيا تاسې د امستنو بدلول غواړۍ؟"
+
+msgid  "ipb-otherblocks-header"
+msgstr  "{{PLURAL:$1|بل بنديز|نور بنديزونه}}"
+
+msgid  "blockme"
+msgstr  "پر ما بنديز لګول"
+
+msgid  "proxyblocksuccess"
+msgstr  "ترسره شو."
+
+msgid  "lockdb"
+msgstr  "توکبنسټ تړل"
+
+msgid  "lockconfirm"
+msgstr  "هو، زه د توکبنسټ تړل غواړم."
+
+msgid  "lockbtn"
+msgstr  "توکبنسټ تړل"
+
+msgid  "unlockbtn"
+msgstr  "توکبنسټ پرانيستل"
+
+msgid  "move-page"
+msgstr  "$1 لېږدول"
+
+msgid  "move-page-legend"
+msgstr  "مخ لېږدول"
+
+msgid  "movepagetext"
+msgstr  "د لاندينۍ فورمې په کارولو سره تاسې د يوه مخ نوم بدلولی شی، چې په همدې توګه به د يوه مخ ټول پېښليک د هغه د نوي نوم سرليک ته ولېږدېږي.\nد يوه مخ، پخوانی نوم به د نوي نوم ورګرځونکی مخ وګرځي او نوي سرليک ته به وګرځولی شي.\nهغه تړنې چې په زاړه مخ کې دي په هغو کې به هېڅ کوم بدلون را نه شي;\n[[Special:BrokenRedirects|د ماتو مخ ګرځونو]] يا [[Special:DoubleRedirects|دوه ځلي مخ ګرځونو]] د ستونزو د پېښېدو په خاطر ځان ډاډه کړی چې ستاسې مخ ګرځونې ماتې يا دوه ځله نه وي.\nدا ستاسې پازه ده چې ځان په دې هم ډاډمن کړی چې آيا هغه تړنې کوم چې د يو مخ سره پکار دي چې وي، همداسې په پرله پسې توګه پېيلي او خپل موخن ځايونو سره اړونده دي.\n\nپه ياد مو اوسه چې يو مخ به '''هېڅکله''' و نه لېږدېږي که چېرته د پخوا نه په هماغه نوم يو مخ شتون ولري، خو که چېرته يو مخ تش وه او يا هم يوه مخ ګرځونه چې پېښليک کې يې بدلون نه وي راغلی. نو دا په دې مانا ده چې تاسې کولای شی چې د يو مخ نوم بېرته هماغه پخواني نوم ته بدل کړی چې د پخوا نه يې درلوده، که چېرته تاسې تېرووځۍ نو په داسې حال کې تاسې نه شی کولای چې د يوه مخ پر سر يو څه وليکۍ.\n\n'''ګواښنه!'''\nيوه نوي نوم ته د مخونو د نوم بدلون کېدای شي چې په نامتو مخونو کې بنسټيزه او نه اټکل کېدونکی بدلونونه رامېنځ ته کړي;\nمخکې له دې نه چې پرمخ ولاړ شی، لطفاُ لومړی خپل ځان په دې ډاډه کړی چې تاسې ددغې کړنې په پايلو ښه پوهېږۍ."
+
+msgid  "movepagetalktext"
+msgstr  "همدې مخ ته اړونده د خبرواترو مخ هم په اتوماتيک ډول لېږدول کېږي '''خو که چېرته:'''\n*په نوي نوم د پخوا نه د خبرواترو يو مخ شتون ولري، او يا هم\n*تاسې ته لاندې ورکړ شوی څلورڅنډی په نښه شوی وي.\n\nنو په هغه وخت کې پکار ده چې د خبرواترو د مخ لېږدونه او د نوي مخ سره د يوځای کولو کړنه په لاسي توګه ترسره کړی."
+
+msgid  "movearticle"
+msgstr  "مخ لېږدول"
+
+msgid  "moveuserpage-warning"
+msgstr  "'''ګواښنه:''' تاسې د يو کارن مخ د لېږدولو په حال کې ياست. لطفاً دا مه هېروۍ چې يوازې همدا مخ به ولېږدول شي او د کارن نوم به ''نه'' بدلېږي."
+
+msgid  "movenologin"
+msgstr  "غونډال کې نه ياست ننوتي"
+
+msgid  "movenologintext"
+msgstr  "ددې لپاره چې يو مخ ولېږدوی، نو تاسې بايد يو ثبت شوی کارن او غونډال کې [[Special:UserLogin|ننوتي]] اوسۍ."
+
+msgid  "movenotallowed"
+msgstr  "تاسې د مخونو د لېږدولو پرېښله نلرۍ."
+
+msgid  "movenotallowedfile"
+msgstr  "تاسې د دوتنو د لېږدولو پرېښله نلرۍ."
+
+msgid  "cant-move-user-page"
+msgstr  "تاسې د کارن مخونو د لېږدولو پرېښله نلرۍ (د څېرمه مخونو نه پرته)."
+
+msgid  "cant-move-to-user-page"
+msgstr  "تاسې د يو کارن مخ ته د يوه بل مخ د لېږدولو پرېښله نلرۍ (د يو کارن د څېرمه مخ نه پرته)."
+
+msgid  "newtitle"
+msgstr  "يو نوي سرليک ته:"
+
+msgid  "move-watch"
+msgstr  "همدا مخ کتل"
+
+msgid  "movepagebtn"
+msgstr  "مخ لېږدول"
+
+msgid  "pagemovedsub"
+msgstr  "لېږدول په برياليتوب سره ترسره شوه"
+
+msgid  "movepage-moved"
+msgstr  "'''د \"$1\" په نامه دوتنه، \"$2\" ته ولېږدېده'''"
+
+msgid  "articleexists"
+msgstr  "په همدې نوم يوه بله پاڼه د پخوا نه شته او يا خو دا نوم چې تاسې ټاکلی سم نه دی. لطفاً يو بل نوم وټاکۍ."
+
+msgid  "talkexists"
+msgstr  "'''همدا مخ په برياليتوب سره نوي سرليک ته ولېږدېده، خو د خبرواترو مخ يې و نه لېږدول شو دا ځکه چې نوی سرليک له پخوا نه ځانته د خبرواترو يو مخ لري.\nلطفاُ د خبرواترو دا دواړه مخونه په لاسي توګه سره يو ځای کړی.'''"
+
+msgid  "movedto"
+msgstr  "ته ولېږدول شو"
+
+msgid  "movetalk"
+msgstr  "د خبرو اترو اړونده مخ ورسره لېږدول"
+
+msgid  "1movedto2"
+msgstr  "[[$1]]، [[$2]] ته ولېږدېده"
+
+msgid  "1movedto2_redir"
+msgstr  "[[$1]] د [[$2]] مخ ته د مخ ګرځونې په توګه ولېږدېده"
+
+msgid  "movelogpage"
+msgstr  "د لېږدولو يادښت"
+
+msgid  "movelogpagetext"
+msgstr  "دا لاندې د لېږدول شوو مخونو لړليک دی."
+
+msgid  "movesubpage"
+msgstr  "{{PLURAL:$1|څېرمه مخ|څېرمه مخونه}}"
+
+msgid  "movesubpagetext"
+msgstr  "همدا مخ $1 {{PLURAL:$1|څېرمه مخ لري چې لاندې ښودل شوی|څېرمه مخونه لري چې لاندې ښودل شوي}}."
+
+msgid  "movenosubpage"
+msgstr  "دا مخ کوم څېرمه مخونه نه لري."
+
+msgid  "movereason"
+msgstr  "سبب:"
+
+msgid  "revertmove"
+msgstr  "په څټ ګرځول"
+
+msgid  "delete_and_move"
+msgstr  "ړنګول او لېږدول"
+
+msgid  "delete_and_move_confirm"
+msgstr  "هو, دا مخ ړنګ کړه"
+
+msgid  "immobile-source-page"
+msgstr  "دا مخ نه لېږدېدنونکی دی"
+
+msgid  "imageinvalidfilename"
+msgstr  "د موخنې دوتنې نوم سم نه دی"
+
+msgid  "move-leave-redirect"
+msgstr  "يو ورګرځونکی مخ پر ځای پرېښودل"
+
+msgid  "move-over-sharedrepo"
+msgstr  "== دوتنه شته ==\nد [[:$1]] دوتنه په يوه ګډ زېرمتون کې شته. دې نوم ته د يوې دوتنې لېږدون به د ګډې دوتنې د باطلېدلو سبب شي."
+
+msgid  "export"
+msgstr  "مخونه صادرول"
+
+msgid  "export-addcattext"
+msgstr  "مخونو د ورګډولو وېشنيزه:"
+
+msgid  "export-addcat"
+msgstr  "ورګډول"
+
+msgid  "export-addnstext"
+msgstr  "د نوم-تشيال نه مخونه ورګډول:"
+
+msgid  "export-addns"
+msgstr  "ورګډول"
+
+msgid  "export-download"
+msgstr  "د دوتنې په بڼه خوندي کول"
+
+msgid  "allmessages"
+msgstr  "د غونډال پيغامونه"
+
+msgid  "allmessagesname"
+msgstr  "نوم"
+
+msgid  "allmessagesdefault"
+msgstr  "ټاکل شوی متن"
+
+msgid  "allmessagescurrent"
+msgstr  "اوسنی متن"
+
+msgid  "allmessagestext"
+msgstr  "دا د مېډياويکي په نوم-تشيال کې د غونډال د پيغامونو لړليک دی.\nکه چېرته تاسو د ميډياويکي په ځايتابه کې ونډې ترسره کول غواړۍ نو لطفاً [http://www.mediawiki.org/wiki/Localisation د ويډياويکي ځايتابه] او [http://translatewiki.net translatewiki.net] نه ليدنه وکړۍ."
+
+msgid  "allmessagesnotsupportedDB"
+msgstr  "'''Special:Allmessages''' ترېنه کار نه اخيستل کېږي ځکه چې '''$wgUseDatabaseMessages''' مړ دی."
+
+msgid  "allmessages-filter-legend"
+msgstr  "چاڼګر"
+
+msgid  "allmessages-filter-unmodified"
+msgstr  "نابدلېدلي"
+
+msgid  "allmessages-filter-all"
+msgstr  "ټول"
+
+msgid  "allmessages-filter-modified"
+msgstr  "بدلېدلي"
+
+msgid  "allmessages-prefix"
+msgstr  "د مختاړي پر بنسټ اړونده چاڼګر:"
+
+msgid  "allmessages-language"
+msgstr  "ژبه:"
+
+msgid  "allmessages-filter-submit"
+msgstr  "ورځه"
+
+msgid  "thumbnail-more"
+msgstr  "لويول"
+
+msgid  "filemissing"
+msgstr  "دوتنه ورکه ده"
+
+msgid  "thumbnail_error"
+msgstr  "د  بټنوک د جوړېدنې ستونزه: $1"
+
+msgid  "import-interwiki-source"
+msgstr  "سرچينيز ويکي/مخ:"
+
+msgid  "import-interwiki-templates"
+msgstr  "ټولې کينډۍ پکې شمېرل"
+
+msgid  "import-interwiki-namespace"
+msgstr  "د موخې نوم-تشيال:"
+
+msgid  "import-upload-filename"
+msgstr  "د دوتنې نوم:"
+
+msgid  "import-comment"
+msgstr  "تبصره:"
+
+msgid  "importlogpage"
+msgstr  "د واردولو يادښت"
+
+msgid  "tooltip-pt-userpage"
+msgstr  "ستاسې کارن مخ"
+
+msgid  "tooltip-pt-mytalk"
+msgstr  "ستاسې د خبرواترو مخ"
+
+msgid  "tooltip-pt-preferences"
+msgstr  "زما غوره توبونه"
+
+msgid  "tooltip-pt-watchlist"
+msgstr  "د هغه مخونو لړليک چې تاسې يې د بدلون لپاره څاری"
+
+msgid  "tooltip-pt-mycontris"
+msgstr  "ستاسې د ونډو لړليک"
+
+msgid  "tooltip-pt-login"
+msgstr  "تاسې ته په غونډال کې د ننوتلو سپارښتنه کوو، که څه هم چې دا يو اړين کار نه دی."
+
+msgid  "tooltip-pt-anonlogin"
+msgstr  "تاسو ته په غونډال کې د ننوتنې سپارښتنه کوو، که څه هم چې دا يو اړين کار نه دی."
+
+msgid  "tooltip-pt-logout"
+msgstr  "وتل"
+
+msgid  "tooltip-ca-talk"
+msgstr  "د مخ د مېنځپانګې په اړه خبرې اترې"
+
+msgid  "tooltip-ca-edit"
+msgstr  "تاسې همدا مخ سمولای شی. لطفاً د ليکنې د خوندي کولو دمخه، د همدې ليکنې مخليدنه وګورۍ."
+
+msgid  "tooltip-ca-addsection"
+msgstr  "يوه نوې برخه پيلول"
+
+msgid  "tooltip-ca-viewsource"
+msgstr  "دا مخ ژغورل شوی. تاسې کولای شی چې د دې مخ سرجينه وګورۍ."
+
+msgid  "tooltip-ca-history"
+msgstr  "د دې مخ پخوانۍ بڼې"
+
+msgid  "tooltip-ca-protect"
+msgstr  "دا مخ ژغورل"
+
+msgid  "tooltip-ca-unprotect"
+msgstr  "همدا مخ ناژغورل"
+
+msgid  "tooltip-ca-delete"
+msgstr  "دا مخ ړنګول"
+
+msgid  "tooltip-ca-move"
+msgstr  "همدا مخ لېږدول"
+
+msgid  "tooltip-ca-watch"
+msgstr  "دا مخ په خپل کتنلړکې ګډول"
+
+msgid  "tooltip-ca-unwatch"
+msgstr  "همدا مخ خپل کتنلړ نه لرې کول"
+
+msgid  "tooltip-search"
+msgstr  "د {{SITENAME}} لټون"
+
+msgid  "tooltip-search-go"
+msgstr  "په دې نوم د کټ مټ ورته مخ شتون په صورت کې، هماغه مخ ته ورځه"
+
+msgid  "tooltip-search-fulltext"
+msgstr  "په مخونو کې دا متن وپلټه"
+
+msgid  "tooltip-p-logo"
+msgstr  "لومړی مخ"
+
+msgid  "tooltip-n-mainpage"
+msgstr  "لومړي مخ ته ورتلل"
+
+msgid  "tooltip-n-mainpage-description"
+msgstr  "آرنی مخ کتل"
+
+msgid  "tooltip-n-portal"
+msgstr  "د پروژې په اړه، تاسې څه شيان او چېرته کولای شی چې وې مومۍ"
+
+msgid  "tooltip-n-currentevents"
+msgstr  "د اوسنيو پېښو اړونده د هغوی د شاليد مالومات موندل"
+
+msgid  "tooltip-n-recentchanges"
+msgstr  "په ويکي کې د وروستي بدلونو لړليک."
+
+msgid  "tooltip-n-randompage"
+msgstr  "يو ناټاکلی مخ ښکاره کوي"
+
+msgid  "tooltip-n-help"
+msgstr  "د موندلو ځای"
+
+msgid  "tooltip-t-whatlinkshere"
+msgstr  "د ويکي د ټولو هغو مخونو لړليک چې همدې مخ سره تړنې لري"
+
+msgid  "tooltip-t-recentchangeslinked"
+msgstr  "له دې مخ سره د تړل شويو مخونو وروستي بدلونونه"
+
+msgid  "tooltip-feed-rss"
+msgstr  "د همدې مخ د آر اس اس کتنه"
+
+msgid  "tooltip-feed-atom"
+msgstr  "د دې مخ د اټوم کتنې"
+
+msgid  "tooltip-t-contributions"
+msgstr  "د دې کارن د ونډو لړليک کتل"
+
+msgid  "tooltip-t-emailuser"
+msgstr  "دې کارن ته يو برېښليک لېږل"
+
+msgid  "tooltip-t-upload"
+msgstr  "دوتنې پورته کول"
+
+msgid  "tooltip-t-specialpages"
+msgstr  "د ټولو ځانګړو پاڼو لړليک"
+
+msgid  "tooltip-t-print"
+msgstr  "د دې مخ چاپي بڼه"
+
+msgid  "tooltip-t-permalink"
+msgstr  "د دې مخ د همدې بڼې تلپاتې تړنه"
+
+msgid  "tooltip-ca-nstab-main"
+msgstr  "د مخ مېنځپانګه کتل"
+
+msgid  "tooltip-ca-nstab-user"
+msgstr  "د کارن پاڼه کتل"
+
+msgid  "tooltip-ca-nstab-media"
+msgstr  "د رسنۍ مخ کتل"
+
+msgid  "tooltip-ca-nstab-special"
+msgstr  "دا يو ځانګړی مخ دی، تاسې په دې مخ کې سمون نه شی کولای."
+
+msgid  "tooltip-ca-nstab-project"
+msgstr  "د پروژې مخ کتل"
+
+msgid  "tooltip-ca-nstab-image"
+msgstr  "د دوتنې مخ کتل"
+
+msgid  "tooltip-ca-nstab-mediawiki"
+msgstr  "د غونډال پيغامونه ښکاره کول"
+
+msgid  "tooltip-ca-nstab-template"
+msgstr  "کينډۍ کتل"
+
+msgid  "tooltip-ca-nstab-help"
+msgstr  "د لارښود مخ کتل"
+
+msgid  "tooltip-ca-nstab-category"
+msgstr  "د وېشنيزې مخ ښکاره کول"
+
+msgid  "tooltip-minoredit"
+msgstr  "دا لکه يوه وړه سمونه په نښه کوي[alt-i]"
+
+msgid  "tooltip-save"
+msgstr  "ستاسې بدلونونه خوندي کوي"
+
+msgid  "tooltip-preview"
+msgstr  "ستاسې بدلونونه ښکاره کوي, لطفاً دا کړنه د خوندي کولو دمخه وکاروۍ! [alt-p]"
+
+msgid  "tooltip-diff"
+msgstr  "دا هغه بدلونونه چې تاسې په متن کې ترسره کړي، ښکاره کوي. [alt-v]"
+
+msgid  "tooltip-compareselectedversions"
+msgstr  "د همدې مخ د دوو ټاکل شويو بڼو تر مېنځ توپيرونه وګورۍ."
+
+msgid  "tooltip-watch"
+msgstr  "دا مخ ستاسې کتنلړ کې ورګډوي [alt-w]"
+
+msgid  "tooltip-rollback"
+msgstr  "په همدې مخ کې \"په شابېول\" د وروستني ونډوال سمون (سمونونه) په يوه کلېک په څټ ورګرځوي."
+
+msgid  "tooltip-undo"
+msgstr  "\"ناکړ\" همدا سمون پر شا ګرځوي او د سمون کړکۍ د مخکتنې په بڼه پرانيزي.\nدا کړنه د لنډيز په برخه کې د سمونونو د سببونو د ورګډولو آسانتيا برابروي."
+
+msgid  "tooltip-preferences-save"
+msgstr  "غوره توبونه خوندي کول"
+
+msgid  "tooltip-summary"
+msgstr  "يو لنډ لنډيز کښل"
+
+msgid  "anonymous"
+msgstr  "د {{SITENAME}} {{PLURAL:$1|ورکنومی کارن|ورکنومي کارنان}}"
+
+msgid  "siteuser"
+msgstr  "د {{SITENAME}} کارن $1"
+
+msgid  "anonuser"
+msgstr  "د {{SITENAME}} ورکنومی کارن $1"
+
+msgid  "lastmodifiedatby"
+msgstr  "دا مخ وروستی ځل د $3 لخوا په $2، $1 بدلون موندلی."
+
+msgid  "others"
+msgstr  "نور"
+
+msgid  "siteusers"
+msgstr  "د {{SITENAME}} {{PLURAL:$2|کارن|کارنان}} $1"
+
+msgid  "anonusers"
+msgstr  "د {{SITENAME}} {{PLURAL:$2|ورکنومی کارن|ورکنومي کارنان}} $1"
+
+msgid  "infosubtitle"
+msgstr  "د مخ مالومات"
+
+msgid  "numedits"
+msgstr  "د سمونونو شمېر (مخ): $1"
+
+msgid  "numtalkedits"
+msgstr  "د سمونونو شمېر (د خبرو اترو مخ): $1"
+
+msgid  "numwatchers"
+msgstr  "د کتونکو شمېر: $1"
+
+msgid  "skinname-standard"
+msgstr  "کلاسيک"
+
+msgid  "skinname-nostalgia"
+msgstr  "نوستالژي"
+
+msgid  "skinname-cologneblue"
+msgstr  "شين کلون"
+
+msgid  "skinname-monobook"
+msgstr  "مونوبوک"
+
+msgid  "skinname-myskin"
+msgstr  "زمابڼه"
+
+msgid  "skinname-chick"
+msgstr  "شيک"
+
+msgid  "skinname-simple"
+msgstr  "ساده"
+
+msgid  "skinname-modern"
+msgstr  "نوی"
+
+msgid  "math_unknown_error"
+msgstr  "ناجوته ستونزه"
+
+msgid  "math_unknown_function"
+msgstr  "ناجوته کړنه"
+
+msgid  "markaspatrolledtext"
+msgstr  "دا مخ څارل شوی په نخښه کول"
+
+msgid  "patrol-log-auto"
+msgstr  "(خپلسر)"
+
+msgid  "patrol-log-diff"
+msgstr  "بڼه $1"
+
+msgid  "filedeleteerror-short"
+msgstr  "د دوتنې د ړنګولو ستونزه: $1"
+
+msgid  "previousdiff"
+msgstr  "تېر توپير ←"
+
+msgid  "nextdiff"
+msgstr  "بل توپير →"
+
+msgid  "thumbsize"
+msgstr  "د بټنوک کچه:"
+
+msgid  "widthheightpage"
+msgstr  "$1×$2, $3 {{PLURAL:$3|مخ|مخونه}}"
+
+msgid  "file-info-size"
+msgstr  "$1 × $2 پېکسل, د دوتنې کچه: $3, MIME بڼه: $4"
+
+msgid  "file-nohires"
+msgstr  "<small>تر دې کچې لوړې بېلن نښې نشته.</small>"
+
+msgid  "svg-long-desc"
+msgstr  "SVG دوتنه، نومېنلي $1 × $2 پېکسل، د دوتنې کچه: $3"
+
+msgid  "show-big-image"
+msgstr  "بشپړ بېلن نښې"
+
+msgid  "show-big-image-thumb"
+msgstr  "<small>د دې مخليدنې کچه: $1 × $2 pixels</small>"
+
+msgid  "newimages"
+msgstr  "د نوو دوتنو انځورتون"
+
+msgid  "imagelisttext"
+msgstr  "دلته لاندې د '''$1''' {{PLURAL:$1|دوتنه|دوتنې}} يو لړليک دی چې اوډل شوي $2."
+
+msgid  "newimages-summary"
+msgstr  "همدا ځانګړی مخ، وروستنۍ پورته شوې دوتنې ښکاره کوي."
+
+msgid  "newimages-legend"
+msgstr  "چاڼګر"
+
+msgid  "newimages-label"
+msgstr  "د دوتنې نوم (يا د دې برخه):"
+
+msgid  "showhidebots"
+msgstr  "($1 روباټ)"
+
+msgid  "noimages"
+msgstr  "د کتلو لپاره څه نشته."
+
+msgid  "ilsubmit"
+msgstr  "پلټل"
+
+msgid  "bydate"
+msgstr  "د نېټې له مخې"
+
+msgid  "sp-newimages-showfrom"
+msgstr  "هغه نوې دوتنې چې په $1 په $2 بجو پيلېږي ښکاره کول"
+
+msgid  "hours-abbrev"
+msgstr  "ساعتونه"
+
+msgid  "bad_image_list"
+msgstr  "بڼه يې په لاندې توګه ده:\n\nيواځې د لړليک توکي (هغه کرښې چې پېلېږي پر *) په پام کې نيول شوي.\nبايد چې په يوه کرښه کې لومړنۍ تړنه د يوې خرابې دوتنې سره وي.\nپه يوې کرښې باندې هر ډول وروستۍ تړنې به د استثنا په توګه وګڼلای شي، د ساري په توګه هغه مخونو کې چې يوه دوتنه پر کرښه پرته وي."
+
+msgid  "metadata"
+msgstr  "مېټاډاټا"
+
+msgid  "metadata-help"
+msgstr  "همدا دوتنه نور اضافه مالومات هم لري، چې کېدای شي ستاسې د ګڼياليزې کامرې او يا هم د ځيرڅار په کارولو سره د ګڼيالېدنې په وخت کې ورسره مل شوي.\nکه همدا دوتنه د خپل آرني دريځ څخه بدله شوې وي نو ځينې تفصيلونه به په بدل شوي دوتنه کې په بشپړه توګه نه وي."
+
+msgid  "metadata-expand"
+msgstr  "غځېدلی تفصيل ښکاره کړی"
+
+msgid  "metadata-collapse"
+msgstr  "غځېدلی تفصيل پټ کړی"
+
+msgid  "metadata-fields"
+msgstr  "د EXIF ميټاډاټا ډګرونه چې لړليک يې په همدې پيغام کې په لاندې توګه راغلی د انځوريز مخ په ښکارېدنه کې به هغه وخت ورګډ شي کله چې د مېټاډاټا چوکاټ پرانيستل کېږي.\n* make\n* model\n* datetimeoriginal\n* exposuretime\n* fnumber\n* isospeedratings\n* focallength"
+
+msgid  "exif-imagewidth"
+msgstr  "سوروالی"
+
+msgid  "exif-imagelength"
+msgstr  "لوړوالی"
+
+msgid  "exif-datetime"
+msgstr  "د دوتنې د بدلون وخت او نېټه"
+
+msgid  "exif-imagedescription"
+msgstr  "د انځور سرليک"
+
+msgid  "exif-make"
+msgstr  "د کامرې جوړونکی"
+
+msgid  "exif-model"
+msgstr  "د کامرې ماډل"
+
+msgid  "exif-software"
+msgstr  "کارېدلې ساوترۍ"
+
+msgid  "exif-artist"
+msgstr  "ليکوال"
+
+msgid  "exif-pixelydimension"
+msgstr  "د انځور سور"
+
+msgid  "exif-usercomment"
+msgstr  "د کارونکي تبصرې"
+
+msgid  "exif-datetimedigitized"
+msgstr  "د ګڼياليز کېدنې وخت او نېټه"
+
+msgid  "exif-fnumber"
+msgstr  "F شمېره"
+
+msgid  "exif-flash"
+msgstr  "فلش"
+
+msgid  "exif-filesource"
+msgstr  "د دوتنې سرچينه"
+
+msgid  "exif-gpsaltituderef"
+msgstr  "د لوړوالي سرچينه"
+
+msgid  "exif-gpsaltitude"
+msgstr  "لوړوالی"
+
+msgid  "exif-gpsimgdirection"
+msgstr  "د انځور لوری"
+
+msgid  "exif-gpsareainformation"
+msgstr  "د جي پي اس د سيمې نوم"
+
+msgid  "exif-gpsdatestamp"
+msgstr  "د جي پي اس نېټه"
+
+msgid  "exif-objectname"
+msgstr  "لنډ سرليک"
+
+msgid  "exif-unknowndate"
+msgstr  "نامالومه نېټه"
+
+msgid  "exif-orientation-1"
+msgstr  "نورمال"
+
+msgid  "exif-componentsconfiguration-0"
+msgstr  "نشته دی"
+
+msgid  "exif-exposureprogram-2"
+msgstr  "نورماله پروګرام"
+
+msgid  "exif-subjectdistance-value"
+msgstr  "$1 متره"
+
+msgid  "exif-meteringmode-0"
+msgstr  "ناجوت"
+
+msgid  "exif-meteringmode-1"
+msgstr  "منځالی"
+
+msgid  "exif-meteringmode-5"
+msgstr  "مخبېلګه"
+
+msgid  "exif-meteringmode-255"
+msgstr  "نور"
+
+msgid  "exif-lightsource-0"
+msgstr  "ناجوت"
+
+msgid  "exif-lightsource-1"
+msgstr  "د ورځې رڼا"
+
+msgid  "exif-lightsource-4"
+msgstr  "فلش"
+
+msgid  "exif-lightsource-9"
+msgstr  "ښه هوا"
+
+msgid  "exif-lightsource-11"
+msgstr  "سيوری"
+
+msgid  "exif-lightsource-255"
+msgstr  "د رڼا بله سرچينه"
+
+msgid  "exif-flash-fired-0"
+msgstr  "فلش و نه ځلېده"
+
+msgid  "exif-focalplaneresolutionunit-2"
+msgstr  "انچه"
+
+msgid  "exif-sensingmethod-1"
+msgstr  "ناڅرګنده"
+
+msgid  "exif-customrendered-0"
+msgstr  "نورماله بهير"
+
+msgid  "exif-scenecapturetype-0"
+msgstr  "معيار"
+
+msgid  "exif-gaincontrol-0"
+msgstr  "هېڅ"
+
+msgid  "exif-contrast-0"
+msgstr  "نورمال"
+
+msgid  "exif-contrast-1"
+msgstr  "پوست"
+
+msgid  "exif-saturation-0"
+msgstr  "نورمال"
+
+msgid  "exif-sharpness-0"
+msgstr  "نورمال"
+
+msgid  "exif-sharpness-1"
+msgstr  "پوست"
+
+msgid  "exif-subjectdistancerange-0"
+msgstr  "ناجوت"
+
+msgid  "exif-subjectdistancerange-1"
+msgstr  "ماکرو"
+
+msgid  "exif-subjectdistancerange-2"
+msgstr  "نژدې ليدون"
+
+msgid  "exif-subjectdistancerange-3"
+msgstr  "لرې ليدون"
+
+msgid  "exif-gpsspeed-k"
+msgstr  "کيلومتره په يوه ساعت کې"
+
+msgid  "exif-gpsspeed-m"
+msgstr  "مايل په ساعت کې"
+
+msgid  "exif-gpsspeed-n"
+msgstr  "غوټې"
+
+msgid  "exif-gpsdirection-t"
+msgstr  "سم لوری"
+
+msgid  "exif-gpsdirection-m"
+msgstr  "مقناطيسي لوری"
+
+msgid  "edit-externally"
+msgstr  "د باندنيو پروګرامونو په کارولو سره دا دوتنه سمول"
+
+msgid  "edit-externally-help"
+msgstr  "د نورو مالوماتو لپاره [http://www.mediawiki.org/wiki/Manual:External_editors د امستنو لارښوونې] وګورۍ."
+
+msgid  "recentchangesall"
+msgstr  "ټول"
+
+msgid  "imagelistall"
+msgstr  "ټول"
+
+msgid  "watchlistall2"
+msgstr  "ټول"
+
+msgid  "namespacesall"
+msgstr  "ټول"
+
+msgid  "monthsall"
+msgstr  "ټول"
+
+msgid  "limitall"
+msgstr  "ټول"
+
+msgid  "confirmemail"
+msgstr  "د برېښليک پتې پخلی وکړی"
+
+msgid  "confirmemail_noemail"
+msgstr  "تاسو يوه سمه برېښناليک پته نه ده ثبته کړې مهرباني وکړی [[Special:Preferences|د کارونکي غوره توبونه]] کې مو بدلون راولی."
+
+msgid  "confirmemail_send"
+msgstr  "يو تاييدي کوډ لېږل"
+
+msgid  "confirmemail_sent"
+msgstr  "تاييدي برېښليک ولېږل شو."
+
+msgid  "confirmemail_oncreate"
+msgstr  "ستاسو د برېښناليک پتې ته يو تاييدي کوډ درولېږل شو.\nددې لپاره چې تاسو غونډال ته ورننوځی تاسو ته د همدغه کوډ اړتيا نشته، خو تاسو ته د همدغه کوډ اړتيا په هغه وخت کې پکارېږي کله چې په ويکي کې خپلې برېښناليکي کړنې چارن کول غواړی."
+
+msgid  "confirmemail_needlogin"
+msgstr  "ددې لپاره چې ستاسې د برېښليک پتې پخلی وشي، تاسې ته پکار ده چې $1."
+
+msgid  "confirmemail_loggedin"
+msgstr  "اوس ستاسې د برېښناليک پتې پخلی وشو."
+
+msgid  "confirmemail_error"
+msgstr  "ستاسې د برېښليک پتې د تاييد په خوندي کولو کې يوه ستونزه رامېنڅ ته شوه."
+
+msgid  "confirmemail_subject"
+msgstr  "د {{SITENAME}} د برېښليک پتې تاييد"
+
+msgid  "confirmemail_body"
+msgstr  "يو چا او يا هم کيدای شي چې تاسې پخپله، د $1 IP پتې نه،\nد \"$2\" په نامه يو ګڼون په همدې بريښليک پتې د {{SITENAME}} په وېبځي کې ثبت کړی.\n\nدا چې موږ د دې پخلی وکړو چې آيا همدا ګڼون په رښتيا ستاسې دی او د دې لپاره چې د همدې برېښليک لپاره په {{SITENAME}} وېبځي کې کړنې فعاله کړو، نو پخپل کتنمل کې لاندينۍ تړنه پرانيزۍ:\n\n$3\n\nکه چېرته تاسې همدا ګڼون *نه وي ثبت کړی*، نو د برېښليک پتې د پخلي د لغوه کولو لپاره همدا لاندې تړنه وڅارۍ:\n\n$5\n\nهمدا تاييدي شفر به په $4 پای ته ورسېږي او تر همدې مودې وروسته به نور و نه چلېږي."
+
+msgid  "scarytranscludetoolong"
+msgstr  "[URL مو ډېر اوږد دی]"
+
+msgid  "trackbackremove"
+msgstr  "([$1 ړنګول])"
+
+msgid  "recreate"
+msgstr  "بياجوړول"
+
+msgid  "confirm_purge_button"
+msgstr  "ښه"
+
+msgid  "confirm-purge-top"
+msgstr  "په رښتيا د همدې مخ حافظه سپينول غواړۍ؟"
+
+msgid  "imgmultipageprev"
+msgstr  "← پخوانی مخ"
+
+msgid  "imgmultipagenext"
+msgstr  "راتلونکی مخ →"
+
+msgid  "imgmultigo"
+msgstr  "ورځه!"
+
+msgid  "imgmultigoto"
+msgstr  "د $1 مخ ته ورځه"
+
+msgid  "ascending_abbrev"
+msgstr  "ختند"
+
+msgid  "descending_abbrev"
+msgstr  "مخښکته"
+
+msgid  "table_pager_next"
+msgstr  "بل مخ"
+
+msgid  "table_pager_prev"
+msgstr  "تېر مخ"
+
+msgid  "table_pager_first"
+msgstr  "لومړی مخ"
+
+msgid  "table_pager_last"
+msgstr  "وروستی مخ"
+
+msgid  "table_pager_limit"
+msgstr  "په يوه مخ $1 توکي ښکاره کړی"
+
+msgid  "table_pager_limit_label"
+msgstr  "په هر مخ د توکو شمېر:"
+
+msgid  "table_pager_limit_submit"
+msgstr  "ورځه"
+
+msgid  "table_pager_empty"
+msgstr  "بې پايلو"
+
+msgid  "autosumm-blank"
+msgstr  "د مخ مېنځپانګه ليرې شوه"
+
+msgid  "autosumm-replace"
+msgstr  "دا مخ د '$1' پرځای راوستل"
+
+msgid  "autoredircomment"
+msgstr  "[[$1]] ته وګرځولی شو"
+
+msgid  "autosumm-new"
+msgstr  "د \"$1\" تورو مخ جوړ شو"
+
+msgid  "livepreview-loading"
+msgstr  "د برسېرېدلو په حال کې..."
+
+msgid  "livepreview-ready"
+msgstr  "برسېرېدنه ... چمتو ده!"
+
+msgid  "watchlistedit-noitems"
+msgstr  "ستاسې کتنلړ کې هېڅ کوم سرليک نشته."
+
+msgid  "watchlistedit-normal-title"
+msgstr  "کتنلړ سمول"
+
+msgid  "watchlistedit-normal-legend"
+msgstr  "د کتنلړ نه سرليکونه لرې کول"
+
+msgid  "watchlistedit-normal-submit"
+msgstr  "سرليکونه لرکول"
+
+msgid  "watchlistedit-normal-done"
+msgstr  "{{PLURAL:$1|1 سرليک ستاسې له کتنلړ نه ليري شو|$1 سرليکونه ستاسې له کتنلړ نه ليري شوه}}:"
+
+msgid  "watchlistedit-raw-title"
+msgstr  "خام کتنلړ سمول"
+
+msgid  "watchlistedit-raw-legend"
+msgstr  "خام کتنلړ سمول"
+
+msgid  "watchlistedit-raw-titles"
+msgstr  "سرليکونه:"
+
+msgid  "watchlistedit-raw-submit"
+msgstr  "کتنلړ اوسمهاله کول"
+
+msgid  "watchlistedit-raw-done"
+msgstr  "ستاسې کتنلړ اوسمهاله شو."
+
+msgid  "watchlistedit-raw-added"
+msgstr  "{{PLURAL:$1|1 سرليک ورګډ شو|$1 سرليکونه ورګډ شوه}}:"
+
+msgid  "watchlistedit-raw-removed"
+msgstr  "{{PLURAL:$1|1 سرليک ليرې شو|$1 سرليکونه ليري شوه}}:"
+
+msgid  "watchlisttools-view"
+msgstr  "اړونده بدلونونه کتل"
+
+msgid  "watchlisttools-edit"
+msgstr  "کتنلړ ليدل او سمول"
+
+msgid  "watchlisttools-raw"
+msgstr  "خام کتنلړ سمول"
+
+msgid  "iranian-calendar-m1"
+msgstr  "وری"
+
+msgid  "iranian-calendar-m2"
+msgstr  "غويی"
+
+msgid  "iranian-calendar-m3"
+msgstr  "غبرګولی"
+
+msgid  "iranian-calendar-m4"
+msgstr  "چنګاښ"
+
+msgid  "iranian-calendar-m5"
+msgstr  "زمری"
+
+msgid  "iranian-calendar-m6"
+msgstr  "وږی"
+
+msgid  "iranian-calendar-m7"
+msgstr  "تله"
+
+msgid  "iranian-calendar-m8"
+msgstr  "لړم"
+
+msgid  "iranian-calendar-m9"
+msgstr  "ليندۍ"
+
+msgid  "iranian-calendar-m10"
+msgstr  "مرغومی"
+
+msgid  "iranian-calendar-m11"
+msgstr  "سلواغه"
+
+msgid  "iranian-calendar-m12"
+msgstr  "کب"
+
+msgid  "version"
+msgstr  "بڼه"
+
+msgid  "version-extensions"
+msgstr  "لګېدلي شاتاړي"
+
+msgid  "version-specialpages"
+msgstr  "ځانګړي مخونه"
+
+msgid  "version-skins"
+msgstr  "پوښۍ"
+
+msgid  "version-other"
+msgstr  "بل"
+
+msgid  "version-version"
+msgstr  "(بڼه $1)"
+
+msgid  "version-license"
+msgstr  "منښتليک"
+
+msgid  "version-poweredby-credits"
+msgstr  "دا ويکي د '''[http://www.mediawiki.org/ مېډياويکي]''' په سېک چلېږي، ټولې رښتې خوندي دي © 2001-$1 $2."
+
+msgid  "version-poweredby-others"
+msgstr  "نور"
+
+msgid  "version-license-info"
+msgstr  "مېډياويکي يو وړيا ساوتری دی؛ تاسې يې په ډاډه زړه د GNU د ټولګړو کارېدنو د منښتليک چې د وړيا ساوتريو د بنسټ له مخې خپور شوی، خپرولی او/يا بدلولی شی؛ د منښتليک ۲ بڼه او يا (ستاسې د خوښې) هر يوه وروستۍ بڼه.\n\nمېډياويکي د ښه کارېدنې په نيت خپور شوی، خو د ضمني سوداګريز او يا د کوم ځانګړي کار د ضمانت نه پرته. د نورو مالوماتو لپاره د GNU د ټولګړو کارېدنو منښتليک وګورۍ.\n\nتاسې بايد د دې پروګرام سره يو [{{SERVER}}{{SCRIPTPATH}}/COPYING a copy of the GNU General Public License] ترلاسه کړی وي؛ که داسې نه وي، نو د وړيا ساوتريو بنسټ، Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA ته يو ليک وليکۍ، او يا يې [http://www.gnu.org/licenses/old-licenses/gpl-2.0.html پرليکه ولولۍ]."
+
+msgid  "version-software"
+msgstr  "نصب شوی ساوتری"
+
+msgid  "version-software-product"
+msgstr  "اېبره"
+
+msgid  "version-software-version"
+msgstr  "بڼه"
+
+msgid  "filepath-page"
+msgstr  "دوتنه:"
+
+msgid  "filepath-submit"
+msgstr  "ورځه"
+
+msgid  "fileduplicatesearch"
+msgstr  "د دوه ګونو دوتنو پلټنه"
+
+msgid  "fileduplicatesearch-legend"
+msgstr  "د دوه ګونو دوتنو پلټنه"
+
+msgid  "fileduplicatesearch-filename"
+msgstr  "د دوتنې نوم:"
+
+msgid  "fileduplicatesearch-submit"
+msgstr  "پلټل"
+
+msgid  "fileduplicatesearch-result-1"
+msgstr  "\"$1\" بله کټ مټ ورته غبرګونې دوتنه نلري."
+
+msgid  "specialpages"
+msgstr  "ځانګړي مخونه"
+
+msgid  "specialpages-note"
+msgstr  "----\n* نورماله ځانګړي مخونه.\n* <strong class=\"mw-specialpagerestricted\">محدوده ځانګړي مخونه.</strong>"
+
+msgid  "specialpages-group-other"
+msgstr  "نور ځانګړي مخونه"
+
+msgid  "specialpages-group-login"
+msgstr  "ننوتل / ګڼون جوړول"
+
+msgid  "specialpages-group-changes"
+msgstr  "وروستي بدلونونه او يادښتونه"
+
+msgid  "specialpages-group-users"
+msgstr  "کارنان او رښتې"
+
+msgid  "specialpages-group-highuse"
+msgstr  "ډېر کارېدونکي مخونه"
+
+msgid  "specialpages-group-pages"
+msgstr  "د مخونو لړليک"
+
+msgid  "specialpages-group-pagetools"
+msgstr  "د مخ اوزارونه"
+
+msgid  "specialpages-group-wiki"
+msgstr  "ويکيډاټا او اوزارونه"
+
+msgid  "blankpage"
+msgstr  "تش مخ"
+
+msgid  "intentionallyblankpage"
+msgstr  "همدا مخ په لوی لاس تش پرېښودل شوی دی"
+
+msgid  "tag-filter-submit"
+msgstr  "چاڼګر"
+
+msgid  "tags-display-header"
+msgstr  "د بدلون په لړليکونو کې ښکارېدنه"
+
+msgid  "tags-description-header"
+msgstr  "د مانا بشپړه څرګندونه"
+
+msgid  "tags-edit"
+msgstr  "سمول"
+
+msgid  "tags-hitcount"
+msgstr  "$1 {{PLURAL:$1|بدلون|بدلونونه}}"
+
+msgid  "comparepages"
+msgstr  "مخونه پرتلل"
+
+msgid  "compare-selector"
+msgstr  "د مخ بڼې سره پرتلل"
+
+msgid  "compare-page1"
+msgstr  "۱ مخ"
+
+msgid  "compare-page2"
+msgstr  "۲ مخ"
+
+msgid  "compare-rev1"
+msgstr  "۱ بڼه"
+
+msgid  "compare-rev2"
+msgstr  "۲ بڼه"
+
+msgid  "compare-submit"
+msgstr  "پرتلل"
+
+msgid  "dberr-header"
+msgstr  "دا ويکي يوه ستونزه لري"
+
+msgid  "dberr-problems"
+msgstr  "اوبخښۍ!\nدم مهال دا وېبپاڼه د تخنيکي ستونزو سره مخامخ شوې."
+
+msgid  "dberr-usegoogle"
+msgstr  "تاسې کولای شی چې هم مهاله د ګووګل له لخوا هم د پلټنې هڅه وکړۍ."
+
+msgid  "htmlform-invalid-input"
+msgstr  "ستاسې ځينې ورکړېينې ستونزې لري"
+
+msgid  "htmlform-select-badoption"
+msgstr  "کوم څه چې تاسو ځانګړي کړي هغه د منلو وړ خوښه نه ده."
+
+msgid  "htmlform-int-invalid"
+msgstr  "کوم څه چې تاسو ځانګړي کړي هغه يوه سمه شمېره نه ده."
+
+msgid  "htmlform-float-invalid"
+msgstr  "کوم څه چې تاسو ځانګړي کړي هغه يوه شمېره نه ده."
+
+msgid  "htmlform-int-toolow"
+msgstr  "کوم ارزښت چې تاسې ځانګړی کړی هغه تر $1 لږ دی"
+
+msgid  "htmlform-int-toohigh"
+msgstr  "کوم ارزښت چې تاسې ځانګړی کړی هغه تر $1 ډېر  دی"
+
+msgid  "htmlform-required"
+msgstr  "دې ارزښت ته اړتيا ده"
+
+msgid  "htmlform-submit"
+msgstr  "سپارل"
+
+msgid  "htmlform-reset"
+msgstr  "بدلونونه ناکړل"
+
+msgid  "htmlform-selectorother-other"
+msgstr  "بل"
+
+msgid  "wikimedialicensetexts-desc"
+msgstr  "د ويکيرسنۍ د منښتليک پيغامونه"
+
+msgid  "wm-license-book-editor"
+msgstr  "سمونګر"
+
+msgid  "wm-license-book-language"
+msgstr  "ژبه"
+
+msgid  "wm-license-book-publisher"
+msgstr  "خپرونکی"
+
+msgid  "wm-license-book-title"
+msgstr  "سرليک"
+
+msgid  "wm-license-book-translator"
+msgstr  "ژباړن"
+
+msgid  "wm-license-cc-wiki-link"
+msgstr  "w:ps:کريېټيو کامانز"
+
+msgid  "wm-license-cc-by-1.0-text"
+msgstr  "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] اجازتليک له مخې ستاسې لاسرسي لپاره پرته ده."
+
+msgid  "wm-license-cc-by-1.0-fi-text"
+msgstr  "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 فېنلاند] اجازتليک له مخې ستاسې لاسرسي لپاره پرته ده."
+
+msgid  "wm-license-cc-by-1.0-il-text"
+msgstr  "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 اسراييل] اجازتليک له مخې ستاسې لاسرسي لپاره پرته ده."
+
+msgid  "wm-license-cc-by-1.0-nl-text"
+msgstr  "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 نېدرلاند] اجازتليک له مخې ستاسې لاسرسي لپاره پرته ده."
+
+msgid  "wm-license-cc-by-2.0-text"
+msgstr  "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/2.0/ Attribution 2.0 Generic] په منښتليک سمبال ده."
+
+msgid  "wm-license-cc-by-2.0-at-text"
+msgstr  "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/2.0/at/ Attribution 2.0 Austria] په منښتليک سمبال ده."
+
+msgid  "wm-license-cc-by-2.0-au-text"
+msgstr  "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/2.0/au/ Attribution 2.0 Australia] په منښتليک سمبال ده."
+
+msgid  "wm-license-cc-by-2.0-be-text"
+msgstr  "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/2.0/be/ Attribution 2.0 Belgium] په منښتليک سمبال ده."
+
+msgid  "wm-license-cc-by-2.0-br-text"
+msgstr  "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/2.0/br/ Attribution 2.0 Brazil] په منښتليک سمبال ده."
+
+msgid  "wm-license-cc-by-2.5-au-text"
+msgstr  "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/2.5/au/ Attribution 2.5 Australia] په منښتليک سمبال ده."
+
+msgid  "wm-license-cc-sa-2.0-jp-text"
+msgstr  "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 جاپان] اجازتليک له مخې د لاسرسي لپاره پرته ده."
+
+msgid  "wm-license-creator-date-of-birth"
+msgstr  "زېږون نېټه"
+
+msgid  "wm-license-information-description"
+msgstr  "څرګندونه"
+
+msgid  "wm-license-information-source"
+msgstr  "سرچينه"
+
+msgid  "wm-license-information-date"
+msgstr  "نېټه"
+
+msgid  "wm-license-information-author"
+msgstr  "ليکوال"
+
+msgid  "wm-license-information-permission"
+msgstr  "اجازه"
+
+msgid  "wm-license-information-permission-see-below"
+msgstr  "لاندې وګورۍ."
+
+msgid  "wm-license-information-other-versions"
+msgstr  "نورې بڼې"
+
+msgid  "wm-license-own-work"
+msgstr  "شخصي اثر"
+
+msgid  "#که"
+msgstr  "#if"
+
+msgid  "#وخت"
+msgstr  "#time"
+
+msgid  "#شمېرل"
+msgstr  "#count"
+

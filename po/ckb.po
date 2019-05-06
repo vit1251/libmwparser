@@ -1,0 +1,6759 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ckb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "وێنۆک"
+msgstr "thumb"
+
+msgid  "thumbnail"
+msgstr "thumb"
+
+msgid  "ڕاست"
+msgstr "right"
+
+msgid  "چەپ"
+msgstr "left"
+
+msgid  "$1پیکسڵ"
+msgstr "$1px"
+
+msgid  "ناوەڕاست"
+msgstr "centre"
+
+msgid  "center"
+msgstr "centre"
+
+msgid  "چوارچێوە"
+msgstr "frame"
+
+msgid  "framed"
+msgstr "frame"
+
+msgid  "enframed"
+msgstr "frame"
+
+msgid  "بێچوارچێوە"
+msgstr "frameless"
+
+msgid  "سنوور"
+msgstr "border"
+
+msgid  "tog-underline"
+msgstr  "ھێڵ ھێنان بەژێر بەستەرەکان:"
+
+msgid  "tog-highlightbroken"
+msgstr  "بەستەرە شکاوەکان <a href=\"\" class=\"new\">بەم جۆرە</a> بڕازێنەوە (یان: بەم جۆرە<a href=\"\" class=\"internal\">؟</a>)"
+
+msgid  "tog-justify"
+msgstr  "پەرەگرافەکان پڕاوپر نیشان بدە"
+
+msgid  "tog-hideminor"
+msgstr  "دەستکارییە بچوکەکان بشارەوە لە دوا گۆڕانکارییەکاندا"
+
+msgid  "tog-hidepatrolled"
+msgstr  "لە دوایین گۆڕانکاریەکان، دەستکاریە پارێزراوەکان داشارە"
+
+msgid  "tog-newpageshidepatrolled"
+msgstr  "لە لیستی لاپەڕە نوێکان، لاپەڕە پارێزراوەکان داشارە"
+
+msgid  "tog-extendwatchlist"
+msgstr  "لیستی چاودێری درێژبکەرەوە بۆ نیشان دانی ھەموو گۆڕانکارییەکان، نەک تەنھا دوایینەکان."
+
+msgid  "tog-usenewrc"
+msgstr  "دوا گۆڕانکارییە پەرە پێدراوەکان بەکار ببە (پێویستی بە جاڤاسکریپتە)"
+
+msgid  "tog-numberheadings"
+msgstr  "ژمارەکردنی خۆکاری سەردێڕەکان"
+
+msgid  "tog-showtoolbar"
+msgstr  "شریتی ئامرازەکانی دەستکاری نیشان بدە (JavaScript پێویستە)"
+
+msgid  "tog-editondblclick"
+msgstr  "دەستکاریی پەڕە بە دووکلیک لەسەر دەق (JavaScript پێویستە)"
+
+msgid  "tog-editsection"
+msgstr  "ڕێگە بدە بۆ دەستکاری کردنی بەشەکان لە ڕێگەی بەستەرەکانی [دەستکاری]"
+
+msgid  "tog-editsectiononrightclick"
+msgstr  "ڕێگە بدە بۆ دەستکاری کردنی بەشەکان لە ڕێگەی کلیکی ڕاست کردن لەسەر سەردێڕی بەشەکان (JavaScript پێویستە)"
+
+msgid  "tog-showtoc"
+msgstr  "پێرستی ناوەڕۆک نیشان بدە (بۆ ئەو پەڕانە کە زیاتر لە ٣ سەردێڕیان تێدایە)"
+
+msgid  "tog-rememberpassword"
+msgstr  "چوونە ژوورەوەم لەسەر ئەم وێبگەڕە پاشەکەوت بکە (ئەو پەڕی $1 {{PLURAL:$1|ڕۆژ|ڕۆژ}}ە)"
+
+msgid  "tog-watchcreations"
+msgstr  "ئەو پەڕانە کە من دروستم کردوون زیاد بکە بە لیستی چاودێڕییەکەم"
+
+msgid  "tog-watchdefault"
+msgstr  "ئەو پەڕانە کە من دەستکاریم کردوون زیاد بکە بە لیستی چاودێڕییەکەم"
+
+msgid  "tog-watchmoves"
+msgstr  "ئەو پەڕانە کە من گواستومنەتەوە زیاد بکە بە لیستی چاودێڕییەکەم"
+
+msgid  "tog-watchdeletion"
+msgstr  "ئەو پەڕانە کە‌ من سڕیومنەتەوە زیاد بکە‌ بە لیستی چاودێڕییەکەم"
+
+msgid  "tog-minordefault"
+msgstr  "ھەموو دەستکارییەکان بە ورد نیشان بکە لە حاڵەتی دیفاڵت"
+
+msgid  "tog-previewontop"
+msgstr  "پێشبینین بەرلە چوارچێوەی دەستکاری نیشان بدە‌"
+
+msgid  "tog-previewonfirst"
+msgstr  "لە یەکەم دەستکاری دا پێشبینین نیشان بدە"
+
+msgid  "tog-nocache"
+msgstr  "کاشکردنی پەڕەکانی وێبگەڕەکە لەکاربخە"
+
+msgid  "tog-enotifwatchlistpages"
+msgstr  "ئەگەر پەڕەیەکی لە لیستی چاودێڕییەکانم گۆڕدرا ئیمەیلم بۆ بنێرە"
+
+msgid  "tog-enotifusertalkpages"
+msgstr  "ئەگەر پەڕەی وتووێژەکەم گۆڕدرا ئیمەیلم بۆ بنێرە"
+
+msgid  "tog-enotifminoredits"
+msgstr  "بۆ گۆڕانکارییە بچووکەکانی پەڕەکانیش ئیمەیلم بۆ بنێرە"
+
+msgid  "tog-enotifrevealaddr"
+msgstr  "ئەدرەسی ئیمەیلەکەم لە ئیمەیلە ئاگاداریدەرەکان دا نیشان بدە"
+
+msgid  "tog-shownumberswatching"
+msgstr  "ژمارەی بەکارھێنەرە چاودێڕەکان نیشان بدە"
+
+msgid  "tog-oldsig"
+msgstr  "پێشبینینی واژۆی ئێستا:"
+
+msgid  "tog-fancysig"
+msgstr  "وەک ویکی‌دەق لەگەڵ واژۆ مامەڵەبکە (بێ بەستەرێکی خۆکار)"
+
+msgid  "tog-externaleditor"
+msgstr  "دەستکاریکەری دەرەکی بەکاربێنە لە حاڵەتی دیفاڵتدا (تەنھا بۆ شارەزایان، ڕێکخستنی تایبەتی پێویستە لە سەر کۆمپیوتەرەکەت [http://www.mediawiki.org/wiki/Manual:External_editors زانیاریی زۆرتر.])"
+
+msgid  "tog-externaldiff"
+msgstr  "لە پرۆگرامێکی دەرەکی بۆ بینینی جیاوازیەکان کەڵک وەرگرە لە دیفاڵتدا (تەنها بۆ شارەزایان، ڕێکخستنی تایبەتی پێویستە لە سەر کۆمپیوتەرەکەت. [http://www.mediawiki.org/wiki/Manual:External_editors زانیاریی زۆرتر.])"
+
+msgid  "tog-showjumplinks"
+msgstr  "ڕێگە بدە بۆ بەستەرەکانی «{{int:jumpto}}»"
+
+msgid  "tog-uselivepreview"
+msgstr  "لە پێشبینینی زیندوو کەڵک وەرگرە (جاڤاسکریپت پێویستە) (تاقیکاری‌)"
+
+msgid  "tog-forceeditsummary"
+msgstr  "ئەگەر پوختەی دەستکاریم نەنووسی پێم بڵێ"
+
+msgid  "tog-watchlisthideown"
+msgstr  "دەستکارییەکانم بشارەوە لە لیستی چاودێری"
+
+msgid  "tog-watchlisthidebots"
+msgstr  "دەستکارییەکانی بات بشارەوە لە لیستی چاودێری"
+
+msgid  "tog-watchlisthideminor"
+msgstr  "دەستکارییە بچووکەکان لە لیستی چاودێریدا بشارەوە"
+
+msgid  "tog-watchlisthideliu"
+msgstr  "دەستکارییەکانی ئەو بەکارهێنەرانەی لە ژوورەوەن بشارەوە لە لیستی چاودێری"
+
+msgid  "tog-watchlisthideanons"
+msgstr  "دەستکارییەکانی بەکارهێنەرانی نەناسراو بشارەوە لە لیستی چاودێری"
+
+msgid  "tog-watchlisthidepatrolled"
+msgstr  "لە لیستی چاودێریەکان، دەستکاریە پارێزراوەکان داشارە"
+
+msgid  "tog-nolangconversion"
+msgstr  "لەکارخستنی ئاڵوگۆڕەکانی شێوەزار"
+
+msgid  "tog-ccmeonemails"
+msgstr  "کۆپییەکانی ئەو ئیمەیلانە کە بۆ بەکارھێنەرانی ترم ناردووە بۆ خۆشم بنێرە"
+
+msgid  "tog-diffonly"
+msgstr  "ناوەڕۆکی پەڕە لەژێر جیاوازییەکان نیشان مەدە"
+
+msgid  "tog-showhiddencats"
+msgstr  "ھاوپۆلە شاراوەکان نیشان بدە"
+
+msgid  "tog-noconvertlink"
+msgstr  "لەکارخستنی ئاڵوگۆڕی سەرناوی بەستەر"
+
+msgid  "tog-norollbackdiff"
+msgstr  "لە دوای گەڕاندنەوە جیاوازی نیشان مەدە"
+
+msgid  "underline-always"
+msgstr  "ھەمیشە"
+
+msgid  "underline-never"
+msgstr  "ھەرگیز"
+
+msgid  "underline-default"
+msgstr  "دیفاڵتی وێبگەڕەکە"
+
+msgid  "editfont-style"
+msgstr  "شێوازی جۆرەپیتی بەشی دەستکاری:"
+
+msgid  "editfont-default"
+msgstr  "بنچینەی وێبگەڕ"
+
+msgid  "editfont-monospace"
+msgstr  "جۆرەپیتی تاکەبۆشایی (Monospaced)"
+
+msgid  "editfont-sansserif"
+msgstr  "جۆرەپیتی Sans-serif"
+
+msgid  "editfont-serif"
+msgstr  "جۆرەپیتی Serif"
+
+msgid  "sunday"
+msgstr  "یەکشەممە"
+
+msgid  "monday"
+msgstr  "دووشەممە"
+
+msgid  "tuesday"
+msgstr  "سێشەممە"
+
+msgid  "wednesday"
+msgstr  "چوارشەممە"
+
+msgid  "thursday"
+msgstr  "پێنجشەممە"
+
+msgid  "friday"
+msgstr  "ھەینی"
+
+msgid  "saturday"
+msgstr  "شه‌ممه‌"
+
+msgid  "sun"
+msgstr  "یەکشەممە"
+
+msgid  "mon"
+msgstr  "دووشەممە"
+
+msgid  "tue"
+msgstr  "سێشەممە"
+
+msgid  "wed"
+msgstr  "چوارشەممە"
+
+msgid  "thu"
+msgstr  "پێنجشەممە"
+
+msgid  "fri"
+msgstr  "ھەینی"
+
+msgid  "sat"
+msgstr  "شەممە"
+
+msgid  "january"
+msgstr  "کانوونی دووەم"
+
+msgid  "february"
+msgstr  "شوبات"
+
+msgid  "march"
+msgstr  "ئازار"
+
+msgid  "april"
+msgstr  "نیسان"
+
+msgid  "may_long"
+msgstr  "ئایار"
+
+msgid  "june"
+msgstr  "حوزەیران"
+
+msgid  "july"
+msgstr  "تەمموز"
+
+msgid  "august"
+msgstr  "ئاب"
+
+msgid  "september"
+msgstr  "ئەیلوول"
+
+msgid  "october"
+msgstr  "تشرینی یەکەم"
+
+msgid  "november"
+msgstr  "تشرینی دووەم"
+
+msgid  "december"
+msgstr  "کانوونی یەکەم"
+
+msgid  "january-gen"
+msgstr  "کانوونی دووەمی"
+
+msgid  "february-gen"
+msgstr  "شوبات"
+
+msgid  "march-gen"
+msgstr  "ئازار"
+
+msgid  "april-gen"
+msgstr  "نیسان"
+
+msgid  "may-gen"
+msgstr  "ئایار"
+
+msgid  "june-gen"
+msgstr  "حوزەیران"
+
+msgid  "july-gen"
+msgstr  "تەمموز"
+
+msgid  "august-gen"
+msgstr  "ئاب"
+
+msgid  "september-gen"
+msgstr  "ئەیلوول"
+
+msgid  "october-gen"
+msgstr  "تشرینی یەکەم"
+
+msgid  "november-gen"
+msgstr  "تشرینی دووەم"
+
+msgid  "december-gen"
+msgstr  "کانوونی یەکەم"
+
+msgid  "jan"
+msgstr  "کانوونی دووەم"
+
+msgid  "feb"
+msgstr  "شوبات"
+
+msgid  "mar"
+msgstr  "ئازار"
+
+msgid  "apr"
+msgstr  "نیسان"
+
+msgid  "may"
+msgstr  "ئایار"
+
+msgid  "jun"
+msgstr  "حوزەیران"
+
+msgid  "jul"
+msgstr  "تەمموز"
+
+msgid  "aug"
+msgstr  "ئاب"
+
+msgid  "sep"
+msgstr  "ئەیلوول"
+
+msgid  "oct"
+msgstr  "تشرینی یەکەم"
+
+msgid  "nov"
+msgstr  "تشرینی دووەم"
+
+msgid  "dec"
+msgstr  "کانوونی یەکەم"
+
+msgid  "pagecategories"
+msgstr  "{{PLURAL:$1|پۆل|پۆلەکان}}"
+
+msgid  "category_header"
+msgstr  "پەڕەکانی پۆلی «$1»"
+
+msgid  "subcategories"
+msgstr  "ژێرپۆلەکان"
+
+msgid  "category-media-header"
+msgstr  "میدیای پۆلی «$1»"
+
+msgid  "category-empty"
+msgstr  "''ئەم پۆلە ھەنووکە ھیچ پەڕە یان پەڕگەیەک لە خۆ ناگرێت.‌''"
+
+msgid  "hidden-categories"
+msgstr  "{{PLURAL:$1|پۆلی شاراوە|پۆلی شاراوە}}"
+
+msgid  "hidden-category-category"
+msgstr  "پۆلە شاراوەکان"
+
+msgid  "category-subcat-count"
+msgstr  "{{PLURAL:$2|ئەم پۆلە تەنھا ژێرپۆلی خوارەوەی تێدایە.| ئەم پۆلە ئەم {{PLURAL:$1|ژێرپۆلەی|$1 ژێرپۆلانەی}} خوارەوەی تێدایە، لە کۆی سەرجەم $2 دانە.}}"
+
+msgid  "category-subcat-count-limited"
+msgstr  "ئەم هاوپۆلە {{PLURAL:$1|ژێرهاوپۆلی}} لەخۆ گرتووە."
+
+msgid  "category-article-count"
+msgstr  "{{PLURAL:$2|ئەم پۆلە تەنھا ئەم پەڕەی لەخۆگرتووە.|{{PLURAL:$1|پەڕە|$1 پەڕە}} لەم پۆلەدا، لە سەرجەم $2 پەڕە.}}"
+
+msgid  "category-article-count-limited"
+msgstr  "ئەم {{PLURAL:$1|لاپەڕە|$1 لاپەڕانە}}، لەم هاوپۆلەدان."
+
+msgid  "category-file-count"
+msgstr  "{{PLURAL:$2|ئەم هاوپۆلە تەنها ئەم پەڕگەی لەخۆ گرتووە.|ئەم‌ {{PLURAL:$1|پەڕگەیە}} کە بەشێکە لە هەموو $2پەڕگەی ئەم هاوپۆلە‌ دەیبینی.}}"
+
+msgid  "category-file-count-limited"
+msgstr  "ئەم {{PLURAL:$1|پەڕگە|پەڕگانە}} لەم هاوپۆلەدایە."
+
+msgid  "listingcontinuesabbrev"
+msgstr  "(درێژە)"
+
+msgid  "mainpagetext"
+msgstr  "'''میدیاویکی بە سەرکەوتوویی دامەزرا.'''"
+
+msgid  "mainpagedocfooter"
+msgstr  "پرس بکە بە [http://meta.wikimedia.org/wiki/Help:Contents ڕێنوێنیی بەکارھێنەران] بۆ زانیاری سەبارەت بە بەکارھێنانی نەرمامێری ویکی.\n\n== دەستپێکردن ==\n* [http://www.mediawiki.org/wiki/Manual:Configuration_settings لیستی ڕێکخستنەکان شێوەپێدان]\n* [http://www.mediawiki.org/wiki/Manual:FAQ پرسیارە دوپاتکراوەکانی میدیاویکی (MediaWiki FAQ)]\n* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce لیستی ئیمەیلی وەشانەکانی میدیاویکی]"
+
+msgid  "about"
+msgstr  "سه‌باره‌ت"
+
+msgid  "article"
+msgstr  "بابەت"
+
+msgid  "newwindow"
+msgstr  "(لە پەڕەیەکی نوێ دەکرێتەوە)"
+
+msgid  "cancel"
+msgstr  "ھەڵیوەشێنەوە"
+
+msgid  "moredotdotdot"
+msgstr  "زیاتر"
+
+msgid  "mypage"
+msgstr  "په‌ڕه‌ی من"
+
+msgid  "mytalk"
+msgstr  "لێدوانەکەم"
+
+msgid  "anontalk"
+msgstr  "وتووێژ بۆ ئەم ئای‌پی یە"
+
+msgid  "navigation"
+msgstr  "ڕێدۆزی"
+
+msgid  "and"
+msgstr  "&#32;و"
+
+msgid  "qbfind"
+msgstr  "بدۆزەرەوە"
+
+msgid  "qbbrowse"
+msgstr  "بگه‌ڕێ"
+
+msgid  "qbedit"
+msgstr  "دەستکاری"
+
+msgid  "qbpageoptions"
+msgstr  "ئەم پەڕەیە"
+
+msgid  "qbpageinfo"
+msgstr  "زانیاریی په‌ڕه‌"
+
+msgid  "qbmyoptions"
+msgstr  "پەڕەکانم"
+
+msgid  "qbspecialpages"
+msgstr  "پەڕە تایبەتەکان"
+
+msgid  "faq"
+msgstr  "پرسیار و وەڵام (FAQ)"
+
+msgid  "faqpage"
+msgstr  "Project:پرسیار و وەڵام"
+
+msgid  "vector-action-addsection"
+msgstr  "بابەت دابنێ"
+
+msgid  "vector-action-delete"
+msgstr  "بیسڕەوە"
+
+msgid  "vector-action-move"
+msgstr  "بیگوازەوە"
+
+msgid  "vector-action-protect"
+msgstr  "بیپارێزە"
+
+msgid  "vector-action-undelete"
+msgstr  "سڕینەوە بگەڕێنەوە"
+
+msgid  "vector-action-unprotect"
+msgstr  "مەیپارێزە"
+
+msgid  "vector-simplesearch-preference"
+msgstr  "ڕێگە بدە بە پێشنیارەکانی گەڕانی پێشکەوتوو (تەنیا بۆ پێستەی ڤێکتۆر)"
+
+msgid  "vector-view-create"
+msgstr  "درووستکردن"
+
+msgid  "vector-view-edit"
+msgstr  "دەستکاریی بکە"
+
+msgid  "vector-view-history"
+msgstr  "مێژووەکەی ببینە"
+
+msgid  "vector-view-view"
+msgstr  "بیخوێنەوە"
+
+msgid  "vector-view-viewsource"
+msgstr  "سەرچاوەکەی ببینە"
+
+msgid  "actions"
+msgstr  "کردارەکان"
+
+msgid  "namespaces"
+msgstr  "شوێنناوەکان"
+
+msgid  "variants"
+msgstr  "شێوەزارەکان"
+
+msgid  "errorpagetitle"
+msgstr  "ھەڵە"
+
+msgid  "returnto"
+msgstr  "بگەڕێوە بۆ $1."
+
+msgid  "tagline"
+msgstr  "لە {{SITENAME}}"
+
+msgid  "help"
+msgstr  "یارمەتی"
+
+msgid  "search"
+msgstr  "گەڕان"
+
+msgid  "searchbutton"
+msgstr  "بگەڕێ"
+
+msgid  "go"
+msgstr  "بڕۆ"
+
+msgid  "searcharticle"
+msgstr  "بڕۆ"
+
+msgid  "history"
+msgstr  "مێژووی پەڕە"
+
+msgid  "history_short"
+msgstr  "مێژووی پەڕە"
+
+msgid  "updatedmarker"
+msgstr  "لە دوای دواسەردانم نوێکراوەتەوە"
+
+msgid  "info_short"
+msgstr  "زانیاری"
+
+msgid  "printableversion"
+msgstr  "وەشانی ئامادەی چاپ"
+
+msgid  "permalink"
+msgstr  "بەستەری ھەمیشەیی"
+
+msgid  "print"
+msgstr  "چاپ"
+
+msgid  "edit"
+msgstr  "دەستکاری"
+
+msgid  "create"
+msgstr  "دروستکردن"
+
+msgid  "editthispage"
+msgstr  "دەستکاری ئەم پەڕەیە بکە‌"
+
+msgid  "create-this-page"
+msgstr  "ئەم پەڕە دروست بکە"
+
+msgid  "delete"
+msgstr  "سڕینەوە"
+
+msgid  "deletethispage"
+msgstr  "سڕینه‌وه‌ی ئه‌م په‌ڕه‌یه‌"
+
+msgid  "undelete_short"
+msgstr  "{{PLURAL:$1|یەک گۆڕانکاریی|$1 گۆڕانکاریی}} سڕاوە بەجێبھێنەرەوە"
+
+msgid  "protect"
+msgstr  "پاراستن"
+
+msgid  "protect_change"
+msgstr  "گۆڕین"
+
+msgid  "protectthispage"
+msgstr  "ئه‌م په‌ڕه‌یه‌ بپارێزه‌"
+
+msgid  "unprotect"
+msgstr  "مه‌پارێزه‌"
+
+msgid  "unprotectthispage"
+msgstr  "ئه‌م په‌ڕه‌یه‌ مه‌پارێزه‌"
+
+msgid  "newpage"
+msgstr  "پەڕەی نوێ"
+
+msgid  "talkpage"
+msgstr  "باس لەسەر ئەم پەڕە بکە‌"
+
+msgid  "talkpagelinktext"
+msgstr  "لێدوان"
+
+msgid  "specialpage"
+msgstr  "په‌ڕه‌ی تایبه‌ت"
+
+msgid  "personaltools"
+msgstr  "ئامڕازە تاکەکەسییەکان"
+
+msgid  "postcomment"
+msgstr  "بەشی نوێ"
+
+msgid  "articlepage"
+msgstr  "پەڕەی ناوەڕۆک ببینە"
+
+msgid  "talk"
+msgstr  "وتووێژ"
+
+msgid  "views"
+msgstr  "بینینەکان"
+
+msgid  "toolbox"
+msgstr  "ئامرازدان"
+
+msgid  "userpage"
+msgstr  "بینینی پەڕەی بەکارھێنەر"
+
+msgid  "projectpage"
+msgstr  "په‌ڕه‌ی پرۆژه‌ نیشانبده‌"
+
+msgid  "imagepage"
+msgstr  "پەڕەی پەڕگە نیشان بدە"
+
+msgid  "mediawikipage"
+msgstr  "په‌ڕه‌ی په‌یام نیشانبده‌"
+
+msgid  "templatepage"
+msgstr  "په‌ڕه‌ی داڕێژە ببینە‌"
+
+msgid  "viewhelppage"
+msgstr  "په‌ڕه‌ی یارمه‌تی نیشانبده‌"
+
+msgid  "categorypage"
+msgstr  "په‌ڕه‌ی هاوپۆل نیشانبده‌"
+
+msgid  "viewtalkpage"
+msgstr  "بینینی لێدوان"
+
+msgid  "otherlanguages"
+msgstr  "بە زمانەکانی تر"
+
+msgid  "redirectedfrom"
+msgstr  "(ڕەوانەکراوە لە $1 ەوە)"
+
+msgid  "redirectpagesub"
+msgstr  "پەڕەی ڕەوانەکردن"
+
+msgid  "lastmodifiedat"
+msgstr  "ئەم پەڕەیە دواجار لە $2ی $1 نوێکراوەتەوە."
+
+msgid  "viewcount"
+msgstr  "ئەم پەڕەیە {{PLURAL:$1|یەکجار|$1 جار}} بینراوە."
+
+msgid  "protectedpage"
+msgstr  "پەڕەی پارێزراو"
+
+msgid  "jumpto"
+msgstr  "باز بدە بۆ:"
+
+msgid  "jumptonavigation"
+msgstr  "ڕێدۆزی"
+
+msgid  "jumptosearch"
+msgstr  "گەڕان"
+
+msgid  "view-pool-error"
+msgstr  "ببورە، لەم کاتەدا ڕاژەکارەکان زیاباریان لە سەرە.<br />\nژمارەیەکی زۆر لە بەکارهێنەران هاوکات هەوڵی دیتنی ئەم لاپەرەیان داوە.<br />\nتکایە پێش هەوڵی دووبارە بۆ دیتنی ئەم لاپەڕە، نەختێک بوەستە.<br /><br />\n\n$1"
+
+msgid  "aboutsite"
+msgstr  "سەبارەت بە {{SITENAME}}"
+
+msgid  "aboutpage"
+msgstr  "Project:سەبارەت"
+
+msgid  "copyright"
+msgstr  "ناوەڕۆک ئامادەیە لە ژێر $1."
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:مافەکانی لەبەرگرتنەوە"
+
+msgid  "currentevents"
+msgstr  "ڕووداوە ھەنووکەییەکان"
+
+msgid  "currentevents-url"
+msgstr  "Project:ڕووداوە بەردەوامەکان"
+
+msgid  "disclaimers"
+msgstr  "نابەرپرسییەکان"
+
+msgid  "disclaimerpage"
+msgstr  "Project:بەرپرسنەبوون"
+
+msgid  "edithelp"
+msgstr  "ڕێنوێنیی دەستکاریکردن"
+
+msgid  "edithelppage"
+msgstr  "Help:دەستکاریکردن"
+
+msgid  "helppage"
+msgstr  "Help:ناوەڕۆک"
+
+msgid  "mainpage"
+msgstr  "دەستپێک"
+
+msgid  "mainpage-description"
+msgstr  "دەستپێک"
+
+msgid  "policy-url"
+msgstr  "Project: سیاسەت"
+
+msgid  "portal"
+msgstr  "دەروازەی بەکارھێنەران"
+
+msgid  "portal-url"
+msgstr  "Project: دەروازەی بەکارھێنەران"
+
+msgid  "privacy"
+msgstr  "سیاسەتی تایبەتێتی"
+
+msgid  "privacypage"
+msgstr  "Project:پاراستنی زانیارییەکان"
+
+msgid  "badaccess"
+msgstr  "ھەڵە لە بە دەست ھێنان"
+
+msgid  "badaccess-group0"
+msgstr  "ڕێگەت پێ نەدراوە بۆ بەجێهێنای ئەو ئەنجامە وا داخوازیت کردووه."
+
+msgid  "badaccess-groups"
+msgstr  "ئەو ئەنجامەی وا داخوازیت کردووه مەحدود کراوە بۆ بەکارهێنەرانی {{PLURAL:$2|دەستەی|یەکێک لە دەستەکانی}}: $1"
+
+msgid  "versionrequired"
+msgstr  "وەشانی $1ی‌ میدیاویکی پێویستە"
+
+msgid  "versionrequiredtext"
+msgstr  "پێویستیت بە وەشانی $1ی ویکیمیدیا ھەیە بۆ بەکاربردنی ئەم پەڕەیە.\nتەماشای [[Special:Version|پەڕەی وەشان]] بکە."
+
+msgid  "ok"
+msgstr  "باشه‌"
+
+msgid  "retrievedfrom"
+msgstr  "وەرگیراو لە «$1»"
+
+msgid  "youhavenewmessages"
+msgstr  "$1ت ھەیە ($2)."
+
+msgid  "newmessageslink"
+msgstr  "پەیامی نوێ"
+
+msgid  "newmessagesdifflink"
+msgstr  "دوا گۆڕانکارییەکان"
+
+msgid  "youhavenewmessagesmulti"
+msgstr  "لە $1 دا پەیامی نوێت ھەیە"
+
+msgid  "editsection"
+msgstr  "دەستکاری"
+
+msgid  "editold"
+msgstr  "دەستکاری"
+
+msgid  "viewsourceold"
+msgstr  "سەرچاوەکەی ببینە"
+
+msgid  "editlink"
+msgstr  "دەستکاری"
+
+msgid  "viewsourcelink"
+msgstr  "سەرچاوەکەی ببینە"
+
+msgid  "editsectionhint"
+msgstr  "دەستکاری کردنی بەشی: $1"
+
+msgid  "toc"
+msgstr  "ناوەڕۆک"
+
+msgid  "showtoc"
+msgstr  "نیشاندان"
+
+msgid  "hidetoc"
+msgstr  "بیشارەوە"
+
+msgid  "thisisdeleted"
+msgstr  "نیشاندان یا گەڕاندنەوەی $1؟"
+
+msgid  "viewdeleted"
+msgstr  "$1 نیشان بده‌؟"
+
+msgid  "restorelink"
+msgstr  "{{PLURAL:$1|گۆڕانکاریی سڕاو|$1 یەک گۆڕانکاریی سڕاو}}"
+
+msgid  "feedlinks"
+msgstr  "خۆراک:"
+
+msgid  "feed-invalid"
+msgstr  "ئەندام بوونی ئەو جۆرە خۆراکە نەناسراوە."
+
+msgid  "feed-unavailable"
+msgstr  "پەیوەندی فییدەکان ئامادەی کەڵک وەرگرتن نیە"
+
+msgid  "site-rss-feed"
+msgstr  "فیدی RSS بۆ $1"
+
+msgid  "site-atom-feed"
+msgstr  "فیدی Atom بۆ $1"
+
+msgid  "page-rss-feed"
+msgstr  "فیدی RSS بۆ «$1»"
+
+msgid  "page-atom-feed"
+msgstr  "فیدی Atom بۆ «$1»"
+
+msgid  "red-link-title"
+msgstr  "$1 (پەڕە بوونی نییە)"
+
+msgid  "nstab-main"
+msgstr  "پەڕە"
+
+msgid  "nstab-user"
+msgstr  "پەڕەی بەکارھێنەر"
+
+msgid  "nstab-media"
+msgstr  "میدیا"
+
+msgid  "nstab-special"
+msgstr  "پەڕەی تایبەت"
+
+msgid  "nstab-project"
+msgstr  "پەڕەی پرۆژە"
+
+msgid  "nstab-image"
+msgstr  "پەڕگە"
+
+msgid  "nstab-mediawiki"
+msgstr  "پەیام"
+
+msgid  "nstab-template"
+msgstr  "داڕێژە"
+
+msgid  "nstab-help"
+msgstr  "پەڕەی یارمەتی"
+
+msgid  "nstab-category"
+msgstr  "پۆل"
+
+msgid  "nosuchaction"
+msgstr  "کردارێک بەم شێوە نییە"
+
+msgid  "nosuchactiontext"
+msgstr  "ئەو چالاکییەی لە لایەن بەستەرەوە دیاریکراوە ناتەواوە.\nلەوانەیە بە هەڵە بەستەرەکەت نووسیبێت، یان بەستەرێکی هەڵەی بە دواوە بێت.\nلەوانەیە ئەمە نیشانەی هەڵەیەک بێت لەو نەرمەکاڵایەی کە بەکاردێت لە لایەن {{SITENAME}}."
+
+msgid  "nosuchspecialpage"
+msgstr  "په‌ڕه‌ی تایبه‌تی له‌و شێوه‌یه‌ نییه‌"
+
+msgid  "nospecialpagetext"
+msgstr  "<strong>پەڕەیەکی تایبەت دەخوازیت کە بوونی نیە.</strong>\n\nلیستێکی پەڕە تایبەتە دروستەکان لە [[Special:SpecialPages|{{int:specialpages}}]] لە بەردەست‌دایە."
+
+msgid  "error"
+msgstr  "هه‌ڵه‌"
+
+msgid  "databaseerror"
+msgstr  "ھەڵەی داتابەیس"
+
+msgid  "dberrortext"
+msgstr  "ھەڵەیەکی ڕستەنووسی لە داواکاریی بنکەیدراو ڕووی داوە.\nلەوانەیە ئەوە نیشاندەری کەلێنێک لە نەرمامێرەکەدا بێت.\nدوایین تێکۆشان بۆ داواکاری بنکەیدراو:\n<blockquote><tt>$1</tt></blockquote>.\nلە نێو کرداری \"<tt>$2</tt>\".\nبنکەیدراو ھەڵەی\"<tt>$3: $4</tt>\" گەڕاندووتەوە."
+
+msgid  "dberrortextcl"
+msgstr  "هەڵەیەکی ڕستەنووسی لە داواکاریی بنکە‌یدراو ڕوویداوە.\nدوایین تێکۆشان بۆ داواکاری بنکەیدراو ئەمە بووە:\n\"$1\"\nلە نێو کرداری \"$2\".\nبنکەیدراو ھەڵەی \"$3: $4\" گەڕاندووەتەوە"
+
+msgid  "laggedslavemode"
+msgstr  "ئاگاداری: لەوانەیە لاپەڕەکە نوێکردنەکان لە بەر نەگرێت."
+
+msgid  "readonly"
+msgstr  "بنکەدراوە داخراوە"
+
+msgid  "enterlockreason"
+msgstr  "هۆیەک بۆ قوفڵ‌کردنەکە بنووسە کە  تێیدا کاتی کردنەوەی قۆفڵەکە باس کرابێت"
+
+msgid  "readonlytext"
+msgstr  "بنکەدراوەکە لەم کاتەدا  لەبەر چاکسازی ئاسایی بۆ نوسینی نوێ و دەستکاری قوفڵ کراوه. دوای ئەوە ئەگرێتەوە بۆ ئاستی خۆی.\n\nئەو بەڕێوبەرەی کە قوفڵی کردووه ئەم ڕوون‌کردنەوەی نووسیوە : $1"
+
+msgid  "missing-article"
+msgstr  "داتابەیسەکە نەیتوانی دەقی پەڕەیەک بەناوی «$1» $2  بدۆزێتەوە کە دەبوا بیدۆزیبایەتەوە.\n\nئەمە زیاتر لە بەدواچوونی بەستەری جیاوازی یان مێژووی کۆنی پەڕەیەکی سڕدراو ڕوودەدات.\n\nئەگەر وا نەبێت، ئەوا ڕەنگە گرفتێکت لەم نەرمامێرەدا دۆزیبێتەوە.\nتکایە ئەمە بە ئاماژەدان بە ناونیشانی URLـەکەیەوە بە [[Special:ListUsers/sysop|بەڕێوبەرێک]] ڕاپۆرت بدە."
+
+msgid  "missingarticle-rev"
+msgstr  "(پیاچوونەوە#: $1)"
+
+msgid  "missingarticle-diff"
+msgstr  "(جیاوازی: $1، $2)"
+
+msgid  "readonly_lag"
+msgstr  "بنكه‌دراوه‌كه‌ به‌شێوه‌ی خۆكار به‌ندكراوه‌، له‌كاتێكدا بنكه‌دراوه‌ی ڕاژه‌كاره‌كه‌ ڕۆڵی له‌خۆگرتن ده‌گێڕێت"
+
+msgid  "internalerror"
+msgstr  "ھەڵەی ناوخۆیی"
+
+msgid  "internalerror_info"
+msgstr  "هه‌ڵه‌ی ناوخۆیی: $1"
+
+msgid  "fileappenderror"
+msgstr  "نه‌تواندرا \"$1\" بخرێته‌سه‌ر \"$2\"."
+
+msgid  "filecopyerror"
+msgstr  "نەکرا پەڕگەی «$1» کۆپی بکرێت بۆ «$2»."
+
+msgid  "filerenameerror"
+msgstr  "ناوی په‌ڕگه‌ی \"$1\" نه‌گۆڕدرا بۆ \"$2\"."
+
+msgid  "filedeleteerror"
+msgstr  "بسڕدرێته‌وه‌\"$1\" نه‌توانرا په‌ڕگه‌ی"
+
+msgid  "directorycreateerror"
+msgstr  "نەتوانرا بوخچەی \"$1\"دروست بکرێت."
+
+msgid  "filenotfound"
+msgstr  "په‌ڕگه‌ی \"$1\" نه‌دۆزرایه‌وه‌"
+
+msgid  "fileexistserror"
+msgstr  "ناتوانی لەسەر پەڕگەی \"$1\" بنووسیت: ئەو پەڕگەیە هەیە."
+
+msgid  "unexpected"
+msgstr  "نرخی چاوەڕوان نەکراو: \"$1\"=\"$2\" ."
+
+msgid  "formerror"
+msgstr  "هەڵە: فورمەکە نانێردرێت."
+
+msgid  "badarticleerror"
+msgstr  "ئەو ئاماژە لەم لاپەڕەدا پێک‌نایە."
+
+msgid  "cannotdelete"
+msgstr  "نەتوانرا پەڕە یان پەڕگەی «$1» بسڕدرێتەوە.\nلەوانەیە پێشتر لە لایەن کەسێکی ترەوە سڕابێتەوە."
+
+msgid  "badtitle"
+msgstr  "ناونیشانی خراپ"
+
+msgid  "badtitletext"
+msgstr  "سەرناوی پەڕەی داواکراو بەتاڵە، واڵایە یان سەرناوێکی نێوان-زمانی یان نێوانی-ویکییە کە بە شێوەیەکی ھەڵە بەستەری بۆ دراوە.\nڕەنگە یەک یان چەند کاراکتەری تێدا بێت کە ناکرێت لە سەرناوەکاندا بەکار بھێنرێت."
+
+msgid  "perfcached"
+msgstr  "ئەم داتای خوارەوە پاشەکەوتی کەشە وە ناکرێ تازەی بکەیەوە."
+
+msgid  "perfcachedts"
+msgstr  "ئەم داتای خوارەوە کەش کراوە، و دوایین جار لە $1 تازە کراوەتەوە"
+
+msgid  "querypage-no-updates"
+msgstr  "تازەکردنەوەی ئەم لاپەڕە لە حاڵی ئێستا دا ناچالاک کراو.\nداتای ئەم شوێنە بەم زووانە تازە ناکرێتەوە."
+
+msgid  "wrong_wfQuery_params"
+msgstr  "پارامێتری ھەڵە بۆ wfQuery()<br />\nکردار: $1<br />\nداواکاری: $2"
+
+msgid  "viewsource"
+msgstr  "سەرچاوەکەی ببینە"
+
+msgid  "viewsourcefor"
+msgstr  "بۆ $1"
+
+msgid  "actionthrottled"
+msgstr  "چالاکی پێشی پێ گیرا"
+
+msgid  "actionthrottledtext"
+msgstr  "بە مەبەستی پێشگریی لە سپەم، ڕێگە نادرێت تۆ لە ماوەیەکی کورت دا لە سەر یەک ئەمە زۆر جار ئەنجام بدەی، وە ئیستا تۆ لە ڕادە بەدەرت کردووە.\nتکایە پاش چەند خولەک دووبارە تاقی بکەوە."
+
+msgid  "protectedpagetext"
+msgstr  "بە مەبەستی پەرگری لە دەستکاریکردن ئەم پەڕە پارێزراوە."
+
+msgid  "viewsourcetext"
+msgstr  "دەتوانی سەرچاوەی ئەم پەڕە ببینی و کۆپیی بکەی:"
+
+msgid  "protectedinterface"
+msgstr  "ئەم پەڕە دەقی ڕوواڵەتی نەرمامێرەکە نیشان دەدات و بۆ پەرگری لە خراپکاریی پارێزراوە."
+
+msgid  "editinginterface"
+msgstr  "'''ئاگاداری:''' تۆ خەریکی دەستکاریی پەڕەیەکی کە بۆ دابینکردنی دەقی ڕوواڵەتی نەرمامێر بە کار دەھێنرێت.\nگۆڕانکاری لە ئەم پەڕە کاریگەر دەبێت لە سەر ڕواڵەتی پەڕەکانی بەکارھێنەرانی دیکە.\nبۆ وەرگێڕان تکایە [http://translatewiki.net/wiki/Main_Page?setlang=en translatewiki.net]، پرۆژەی ناوچەیی‌کردنی میدیاویکی بەکار بێنە."
+
+msgid  "sqlhidden"
+msgstr  "(داواکاریی SQL شاراوەیە)"
+
+msgid  "cascadeprotected"
+msgstr  "ئەم لاپەڕە پارێزراوە لە دەستکاریی، چونکا خراوەتە سەر ڕیزی ئەم {{PLURAL:$1|لاپەڕانه‌، کە}} که‌ به‌ هه‌ڵکردنی بژارده‌ی داڕژان هه‌ڵکراوه‌:\n$2"
+
+msgid  "namespaceprotected"
+msgstr  "تۆ ناتوانی لاپەڕەکانی ناو نەیمسپەیسی '''$1''' بگۆڕی."
+
+msgid  "customcssjsprotected"
+msgstr  "تۆ ناتوانی ئەم لاپەڕە دەستکاریی بکەی، چونکا ڕێکراوە تاکەکەسییەکانی بەکارھێنەرێکی دیکەی تێدایە."
+
+msgid  "ns-specialprotected"
+msgstr  "تۆ ناتوانی لاپەڕە تایبەتەکان دەستکاریی بکەی."
+
+msgid  "titleprotected"
+msgstr  "ئەم سەرناوە پارێزراوە لە دروستکران لە لایەن [[User:$1|$1]].\nھۆکاری ئەمە بریتیە لە \"''$2''\"."
+
+msgid  "virus-badscanner"
+msgstr  "پێکەربەندیی نابەجێ: ڤایرس سکەنێری نەناسراو: ''$1''"
+
+msgid  "virus-scanfailed"
+msgstr  "سکەن ئەنجام نەدرا(کۆد $1)"
+
+msgid  "virus-unknownscanner"
+msgstr  "دژەڤایرس نەناسراوە:"
+
+msgid  "logouttext"
+msgstr  "'''ئێستا تۆ لە ھەژمارەکەت ھاتوویتە دەرەوە.'''\n\nدەتوانی بە شێوەی بێناو درێژە بدەی بە بەرکارھێنانی {{SITENAME}}، یان دەتوانی [[Special:UserLogin|دیسانەوە بچیتەوە ژوورەوە]] ھەر بەو ناوە یان بە ناوی بەکارھێنەرییەکی جیاوازەوە.\nئاگادار بە کە ھەتا کاتێک کە کەشی وێبگەڕەکەت دەسڕیتەوە، سەرەڕای چوونەدەرەوەی تۆ ھەندێک لە پەڕەکان ھەر بە شێوەیەک نیشان دەدرێن کە گوایە تۆ ھێشتا لە ژوورەوەیت."
+
+msgid  "welcomecreation"
+msgstr  "== بەخێربێی، $1! ==\nھەژمارەکەت دروست کرا.\nلە بیرت نەچێت کە گۆڕانکاری لە [[Special:Preferences|ھەڵبژاردەکانی {{SITENAME}}]]ی تایبەتی خۆت بدەی."
+
+msgid  "yourname"
+msgstr  "ناوی بەکارھێنەری:"
+
+msgid  "yourpassword"
+msgstr  "تێپەڕوشە:"
+
+msgid  "yourpasswordagain"
+msgstr  "تێپه‌ڕه‌وشه‌ دووباره:‌"
+
+msgid  "remembermypassword"
+msgstr  "چوونە ژوورەوەم لەسەر ئەم کۆمپیوتەرە پاشەکەوت بکە (ئەو پەڕی $1 {{PLURAL:$1|ڕۆژ|ڕۆژ}}ە)"
+
+msgid  "yourdomainname"
+msgstr  "ناوی دۆمه‌ینی خۆت"
+
+msgid  "externaldberror"
+msgstr  "یان هەڵەی ڕێگەپێدانی بنکەدراو هەیە یان ڕێگات پێ نادرێت بۆ نوێ کردنی هەژماری دەرەکیت."
+
+msgid  "login"
+msgstr  "بچۆ ژوورەوە"
+
+msgid  "nav-login-createaccount"
+msgstr  "بچۆ ژوورەوە / ھەژمار دروست بکە"
+
+msgid  "loginprompt"
+msgstr  "بۆ چوونەژوورەوه لە {{SITENAME}}، دەبێ ڕێگەت دابێت بە کووکییەکان."
+
+msgid  "userlogin"
+msgstr  "بچۆ ژوورەوە / ھەژمار دروست بکە"
+
+msgid  "userloginnocreate"
+msgstr  "بچۆ ژوورەوە"
+
+msgid  "logout"
+msgstr  "بچۆ دەرەوە"
+
+msgid  "userlogout"
+msgstr  "بچۆ دەرەوە"
+
+msgid  "notloggedin"
+msgstr  "له‌ ژووره‌وه‌ نیت"
+
+msgid  "nologin"
+msgstr  "ھەژمارت نییە؟  '''$1'''."
+
+msgid  "nologinlink"
+msgstr  "ھەژمارێک دروست بکە"
+
+msgid  "createaccount"
+msgstr  "ھەژمار دروست بکە"
+
+msgid  "gotaccount"
+msgstr  "خاوه‌نی هه‌ژماری خۆتی؟ '''$1'''."
+
+msgid  "gotaccountlink"
+msgstr  "چوونه‌ ژووره‌وه‌"
+
+msgid  "createaccountmail"
+msgstr  "بە ئیمەیل"
+
+msgid  "createaccountreason"
+msgstr  "هۆکار:"
+
+msgid  "badretype"
+msgstr  "تێپەڕوشەکان لەیەک ناچن."
+
+msgid  "userexists"
+msgstr  "ئەو ناوەی تۆ داوتە پێشتر کەسێکی دیکە بەکاری بردووە.\nناوێکی دیکە ھەڵبژێرە."
+
+msgid  "loginerror"
+msgstr  "ھەڵەی چوونەژوورەوە"
+
+msgid  "nocookiesnew"
+msgstr  "هەژماری بەکارهێنەر درووست‌کرا، بەڵام بە سەرکەوتوویی نەچوویتەوە ژوورەوە.\n{{SITENAME}} بۆ چوونەوە ژووری بەکارهێنەر لە شەکرۆکە کەڵک وەر دەگرێت.\nتۆ بەکار‌هێنانی شەکرۆکەت لەکارخستە.\nتکایە شەکرۆکە کارا بکە و بە ناو و وشەی تێپەڕبوونی بەکارهێنەر بچۆ ژوورەوە."
+
+msgid  "nocookieslogin"
+msgstr  "{{SITENAME}} بۆ چوونەژوورەوە لە کووکی‌یەکان کەڵک وەرئەگرێت.\nڕێگەت نەداوە بە کووکی‌یەکان.\nڕێگەیان پێ بدەو و دیسان تێبکۆشە."
+
+msgid  "noname"
+msgstr  "ناوی بەکارهێنەرییەکی گۆنجاوت دیاری نەکردووه."
+
+msgid  "loginsuccesstitle"
+msgstr  "سەرکەوتی بۆ چوونە ژوورەوە"
+
+msgid  "loginsuccess"
+msgstr  "'''ئێستا بە ناوی «$1»ەوە لە {{SITENAME}} چوویتەتەژوورەوە.'''"
+
+msgid  "nosuchuser"
+msgstr  "بەکارھێنەرێک بە ناوی «$1» نیە.\nناوی بەکارھێنەر بە گەورە و بچووک بوونی پیتەکان ھەستیارە.\nڕێنووسەکەت چاولێکەرەوە، یان [[Special:UserLogin/signup|ھەژمارێکی نوێ دروست بکە]]."
+
+msgid  "nosuchusershort"
+msgstr  "بەکارهێنەر بە ناوی \"<nowiki>$1</nowiki>\" نیە.\nچاو لە ڕێنووسەکە بکە."
+
+msgid  "nouserspecified"
+msgstr  "دەبێ ناوی بەکارهێنەر دابین‌ بکەی."
+
+msgid  "wrongpassword"
+msgstr  "تێپەڕوشەی ھەڵە.\nتکایە دووبارە تێبکۆشە."
+
+msgid  "wrongpasswordempty"
+msgstr  "تێپەڕەوشەی لێدراو بەتاڵبوو.\nتکایە هەوڵ بدەوە."
+
+msgid  "passwordtooshort"
+msgstr  "تێپەڕوشەکەت لانی کەم دەبێ {{PLURAL:$1|١ پیت|$1 پیت}} بێت."
+
+msgid  "password-name-match"
+msgstr  "تێپەڕوشەکەت ئەبێ جیاواز بێت لە ناوی بەکارهێنەریت."
+
+msgid  "mailmypassword"
+msgstr  "تێپەڕوشەیەکی نوێ بنێرە بۆ ئیمەیلەکەم"
+
+msgid  "passwordremindertitle"
+msgstr  "تێپەڕوشەیەکی نوێی کاتی بۆ  {{SITENAME}}"
+
+msgid  "passwordremindertext"
+msgstr  "کەسێک (لەوانەیە خۆت، لە ئای‌پی ئەدرەسی $1) داوای تێپەڕوشەیەکی نوێی کردووە بۆ {{SITENAME}} ($4). تێپەڕوشەیەکی کاتی بۆ بەکارهێنەر «$2» دروستکراو و وەک «$3» دانراوه. ئەگەر ئەمە داخوازی تۆ بووە، پێویستت بەوەیە ئێستا بچیتە ژوورەوە و تێپەڕوشەیەکی نوێ هەڵبژێریت. ماوەی‌ تێپەڕوشە کاتییەکەت لە {{PLURAL:$5|یەک ڕۆژدا|$5 ڕۆژدا}} بەسەردەچێت.\n\nئەگەر کەسێکی تر ئەم داوایەی کردووە یان تێپەڕوشەکەت هاتووەتەوە بیرت و ئیتر پێویستت بە گۆڕانی نییە، دەتوانی گوێ بەم پەیامە نەدەیت و لە تێپەڕوشە کۆنەکەت کەڵک وەربگری."
+
+msgid  "noemail"
+msgstr  "ھیچ ئەدرەسێکی ئیمەیل تۆمار نەکراوە بۆ بەکارھێنەر « $1 »."
+
+msgid  "passwordsent"
+msgstr  "تێپەڕوشەیەکی نوێ ناردرا بۆ ئەدرەسی ئیمەیلی تۆمارکراوی «$1».\nتکایە دوای وەرگرتنی دیسان بچۆ ژوورەوە."
+
+msgid  "blocked-mailpassword"
+msgstr  "ئادرەسی ئای‌پی تۆ بۆ دەستکاری کردن بەستراوه بۆیە بۆ بەرگری لە بەکارهێنانی نابەجێ ئەنجامی گەڕانەوەی تێپەڕوشە ڕیگە نەدراوە."
+
+msgid  "eauthentsent"
+msgstr  "ئی‌مەیلێکی بڕواپێکردن ناردرا بۆ ئەدرەسی ئی‌مەیلی پاڵێوراو. <br />\nپێش ئەوەی ئی‌مەیلی‌تر بنێردرێ بۆ ئەم هەژمارە، بۆ ئەوەی بڕوات پێ‌بکرێ کە ئەو هەژمارە بەڕاستی هین تۆیە، دەبێ ڕێنوماییەکانی ناو ئەو ئی‌مەیلە هەنگاو بە هەنگاو ئەنجام بدەیت."
+
+msgid  "throttled-mailpassword"
+msgstr  "بیرهێنەرەوەیەکی وشەی نهێنی پێش ئەمە لە {{PLURAL:$1|کاتژمێر}}ی ڕابردوودا ناردراوە.\nبۆ بەرگری لە بەکارهێنانی خراپ، تاکە یەک بیرهێنەرەوەی وشەی نهێنی هەر {{PLURAL:$1|کاتژمێر}} دەنێردرێت."
+
+msgid  "mailerror"
+msgstr  "هەڵە ڕوویدا لە ناردنی ئیمەیل: $1"
+
+msgid  "acct_creation_throttle_hit"
+msgstr  "بینەرانی ویکی بەکەڵک وەرگرتن لەم ئای‌پی ئەدرەسەی تۆ لە ڕۆژانی ڕابردوودا، دەستیان کردە بە درووست‌کردنی {{PLURAL:$1|هەژمارە}}، کە زۆرینە ڕیگەپێدان لە یەک ماوە‌دایە.\nوەک ئەنجامی ئەو ڕووداوە، ئەو بینەرانی لەم ئای‌پی ئەدرەسە کەڵک وەر دەگرن لەم کاتەدا ناتوانن هەژماری دیکە درووست‌بکەن."
+
+msgid  "emailauthenticated"
+msgstr  "ئیمەیلەکەت بە ڕاست ناسرا لە $3ی $2 دا"
+
+msgid  "emailnotauthenticated"
+msgstr  "ئیمەیلەکەت ھێشتا نەناسراوە.\nھیچ ئیمەیلێک بۆ ئەم بابەتانەی خوارەوە نانێردرێت."
+
+msgid  "noemailprefs"
+msgstr  "بۆ کەوتنە کاری ئەو تایبەتمەندیانە، لە هەڵبژاردەکانت ئەدرەسەکی ئی‌مێڵ دابین بکە."
+
+msgid  "emailconfirmlink"
+msgstr  "ئیمەیلەکەت پشت‌ڕاست بکەرەوە"
+
+msgid  "invalidemailaddress"
+msgstr  "ئەو ئەدرەسی ئی‌مێڵە لەبەر ئەوەی بە شێوازێکی نەناسراوە، پەسند نەکرا.\nتکایە ئەدرەسێک بە شێوازی ناسراو بنووسە یان ئەو خانەیە بەتاڵ بهێڵەوە."
+
+msgid  "accountcreated"
+msgstr  "ھەژمار دروست کرا"
+
+msgid  "accountcreatedtext"
+msgstr  "هەژماری بەکارهێنەر بۆ $1 درووست‌کرا."
+
+msgid  "createaccount-title"
+msgstr  "درووست‌کردنی هەژمارە بۆ {{SITENAME}}"
+
+msgid  "createaccount-text"
+msgstr  "کەسێک هەژمارەیەکی بۆ ئی‌مێڵ ئەدرەسەکی تۆ لەسەر {{SITENAME}} ($4) بەناوی \"$2\"، بە وشەی نهێنی \"$3\".\nئێستا دەبێ بڕۆیتە ژوورەوە و وشەی نهێنی بگۆڕیت.\n\nئەگەر ئەو هەژمارە بە هەڵە درووست‌کراوە، ئەم برووسکە لە بەرچاو مەگرە."
+
+msgid  "login-throttled"
+msgstr  "ژمارەیەکی زۆر هەوڵت داوە بۆ چوونە ژوورەوە.\nتکایە پێش هەوڵی دووبارە، نەختێک بوەستە."
+
+msgid  "loginlanguagelabel"
+msgstr  "زمان: $1"
+
+msgid  "resetpass"
+msgstr  "گۆڕینی تێپەڕوشە"
+
+msgid  "resetpass_announce"
+msgstr  "بە کۆدی کاتیی ئیمەیل‌کراو ھاتوویتە ژوورەوە.\nبۆ دوایی ھاتنی چوونە ژوورەوە، ئەشێ تێپەڕوشەیەکی نوێ ھەڵبژێری لێرە:"
+
+msgid  "resetpass_text"
+msgstr  "<!-- تێپه‌ڕه‌وشه‌ی هه‌ژماره‌كه‌ سفر بكه‌ره‌وه‌ -->"
+
+msgid  "resetpass_header"
+msgstr  "گۆڕینی تێپەڕوشەی ھەژمار"
+
+msgid  "oldpassword"
+msgstr  "تێپەڕوشەی پێشو:"
+
+msgid  "newpassword"
+msgstr  "تێپەڕوشەی نوێ:"
+
+msgid  "retypenew"
+msgstr  "تێپەڕوشەی نوێ دوبارە بنووسەوە:"
+
+msgid  "resetpass_submit"
+msgstr  "تێپەڕوشە رێکخە و بچۆ ژوورەوە"
+
+msgid  "resetpass_success"
+msgstr  "تێپەروشەکەت بە سەرکەوتوویی گۆڕدرا. ئێستا چوونە ژوورەوەت..."
+
+msgid  "resetpass_forbidden"
+msgstr  "تێپەڕوشەکە ناگۆڕدرێت"
+
+msgid  "resetpass-no-info"
+msgstr  "بۆ گەیشتنی راستەوخۆ بەم پەڕە ئەشێ بچیتە ژوورەوە."
+
+msgid  "resetpass-submit-loggedin"
+msgstr  "تێپەڕوشە بگۆڕە"
+
+msgid  "resetpass-submit-cancel"
+msgstr  "ھەڵوەشاندنەوە"
+
+msgid  "resetpass-wrong-oldpass"
+msgstr  "تێپەڕوشەی ھەنووکەیی یان تێپەڕوشەی کاتی ھەڵەیە.\nوا دیارە تێپەڕوشەکەت بە سەرکەوتوویی گۆڕدراوە یان داوای تێپەڕوشەیەکی نوێت کردووە."
+
+msgid  "resetpass-temp-password"
+msgstr  "تێپەڕوشەی کاتی:"
+
+msgid  "bold_sample"
+msgstr  "دەقی ئەستوور"
+
+msgid  "bold_tip"
+msgstr  "دەقی ئەستوور"
+
+msgid  "italic_sample"
+msgstr  "دەقی لار"
+
+msgid  "italic_tip"
+msgstr  "دەقی لار"
+
+msgid  "link_sample"
+msgstr  "نێوی بەستەر"
+
+msgid  "link_tip"
+msgstr  "بەستەری ناوخۆ"
+
+msgid  "extlink_sample"
+msgstr  "http://www.example.com سەردێڕی بەستەر"
+
+msgid  "extlink_tip"
+msgstr  "بەستەری دەرەکی (لەبیرت بێ نووسینی پێشگری http:// )"
+
+msgid  "headline_sample"
+msgstr  "دەقی سەردێڕ"
+
+msgid  "headline_tip"
+msgstr  "سەردێڕی ئاست ۲"
+
+msgid  "math_sample"
+msgstr  "فۆرموول لێرە بنووسە"
+
+msgid  "math_tip"
+msgstr  "فۆرموولی بیرکاری (LaTeX)"
+
+msgid  "nowiki_sample"
+msgstr  "لەگەرە دەقی نەڕازراو تێ‌بخە"
+
+msgid  "nowiki_tip"
+msgstr  "لەبەرچاو نەگرتنی دارشتنەکانی ویکی"
+
+msgid  "image_sample"
+msgstr  "نموونە.jpg"
+
+msgid  "image_tip"
+msgstr  "وێنەی نێو دەق"
+
+msgid  "media_sample"
+msgstr  "نموونە.ogg"
+
+msgid  "media_tip"
+msgstr  "لینکی پەڕگە"
+
+msgid  "sig_tip"
+msgstr  "ئیمزاکەت بە مۆری ڕێکەوتەوە"
+
+msgid  "hr_tip"
+msgstr  "هێڵی ئاسۆیی (دەگمەن بەکاری بێنە)"
+
+msgid  "summary"
+msgstr  "پوختە:"
+
+msgid  "subject"
+msgstr  "بابەت/سەردێڕ:"
+
+msgid  "minoredit"
+msgstr  "ئەمە دەستکارییەکی بچووکە"
+
+msgid  "watchthis"
+msgstr  "چاودێریی ئەم پەڕە بکە"
+
+msgid  "savearticle"
+msgstr  "پەڕەکە پاشەکەوت بکە"
+
+msgid  "preview"
+msgstr  "پێشبینین"
+
+msgid  "showpreview"
+msgstr  "پێشبینین نیشانبدە"
+
+msgid  "showlivepreview"
+msgstr  "پێشبینینی ڕاسته‌وخۆ"
+
+msgid  "showdiff"
+msgstr  "گۆڕانکارییەکان نیشان بدە"
+
+msgid  "anoneditwarning"
+msgstr  "'''ھۆشیار بە:''' نەچوویتەتە ژوورەوە.\nئەدرەسی IPی تۆ لە مێژووی دەستکارییەکانی ئەم پەڕەدا تۆماردەکرێت."
+
+msgid  "anonpreviewwarning"
+msgstr  "«نەڕۆشتوویتە ژوورەوە. پاشەکەوتکردن، ئەدرەسی IPەکەت لە مێژووی دەستکاریی ئەم پەڕە تۆمار دەکات.»"
+
+msgid  "missingsummary"
+msgstr  "'''وە بیر خستنەوە:''' پوختەیەکت نەنووسیوە بۆ چۆنیەتی گۆڕانکارییەکەت.\nئەگەر جارێکی تر پاشکەوت کردن لێبدەی، بێ پوختە تۆمار دەکرێ."
+
+msgid  "missingcommenttext"
+msgstr  "تکایە لە خوارەوە شرۆڤەیەک بنووسە."
+
+msgid  "missingcommentheader"
+msgstr  "'''بیرهێنانەوە:''' بۆ ئەم بۆچوونەت سەردێڕ\\بابەت ڕاچاو نەکردووە.\nئەگەر دیسان «{{int:savearticle}}» لێبدەی، دەستکاریەکەت بێ سەردێڕ یان بابەت پاشەکەوت دەبێ."
+
+msgid  "summary-preview"
+msgstr  "پێشبینینی کورتە:"
+
+msgid  "subject-preview"
+msgstr  "پێشبینینی بابەت\\سەردێڕ :"
+
+msgid  "blockedtitle"
+msgstr  "به‌کار هینه‌ر له‌کار خراوه"
+
+msgid  "blockedtext"
+msgstr  "'''ناوی بەکارهێنەری یان ئای‌پی ئەدرەسی تۆ بەربەست‌ کراوە.'''\n\nبەربەست لە لایەن $1 کراوە.\nهۆکاری بەربەست کردن ''$2''ە.\n\n* دەستپێکی بەربەست‌کران: $8\n* کۆتایی هاتنی بەربەست‌کران: $6\n* بابەتی بەربەست: $7\n\nبۆ وتووێژ سەبارەت بە بەربەست‌کرانەکە دەبێ پەیوەندی بکەی بە $1 یان یەکێ دی لە [[{{MediaWiki:Grouppage-sysop}}|بەڕێوبەران]].\nلە بیرت بێ تاکوو ئیمەیل ئەدرەسێکی بڕوا پێ‌کراو لە [[Special:Preferences|ھەڵبژاردەکانی بەکارھێنەر]] ڕاچاو نەکەی، نابێت لە هەلی «ئیمەیل ناردن بۆ ئەم بەکارهێنەرە» کەڵک وەر بگری؛ کەڵک وەرگرتن لەوە بەربەست نەکراوە بۆت.\n\nئای‌پی ئەدرەسی ئێستای تۆ $3 و پێناسەی بەربەست‌کراو #$5.\nتکایە لە هەر پرس و داواکاریەکت‌دا هەموو وردەکاریەکانی سەرەوە بگونجێنە."
+
+msgid  "autoblockedtext"
+msgstr  "ئای‌پی ئەدرەسی تۆ بە شێوەی خۆکار بەربەست کراوە چونکە لە لایەن بەکارهێنەرێکی دی کەڵکی لێ وەرگیراوە کە لە لایەن $1 بەربەست کراوە.<br />\nئەمە هۆکارەکەیەتی:<br /><br />\n:''$2''<br /><br />\n* دەستپێکی بەربەست‌کران: $8<br />\n* کۆتایی هاتنی بەربەست‌کران: $6<br />\n* بابەتی بەربەست: $7<br /><br />\n\nدەبێ پەیوەندی بکەی بە $1 یان یەکێ دی لە [[{{MediaWiki:Grouppage-sysop}}|بەڕێوبەران]] بۆ وتووێژ سەبارەت بە بەربەست‌کرانەکە.<br /><br />\n\nلە بیرت بێ تاکوو ئەمەیل ئەدرەسێکی بڕوا پێ‌کراو لە [[Special:Preferences|ھەڵبژاردەکانی بەکارھێنەر]] ڕاچاو نەکەی، نابێت لە هەلی \"ئی‌مەیل ناردن بۆ ئەم بەکارهێنەرە\" کەڵک وەر بگری؛ کەڵک وەرگرتن لەوە بەربەست نەکراوە بۆت.<br /><br />\n\nئای‌پی ئەدرەسی ئێستای تۆ $3 و پەێناسەی بەربەست‌کراو #$5.<br />\nتکایە لە هەر پرس و داواکاریەکت‌دا هەموو وردەکاریەکانی سەرەوە بگونجێنە."
+
+msgid  "blockednoreason"
+msgstr  "هیچ هۆکارێک نەدراوە"
+
+msgid  "blockedoriginalsource"
+msgstr  "سەرچاوەی '''$1''' لەخوارەوە پیشاندراوە:"
+
+msgid  "blockededitsource"
+msgstr  "دەقی '''دەستکاریەکانی تۆ''' بۆ '''$1''' لە خوارەوە نیشان‌دراوە:"
+
+msgid  "whitelistedittitle"
+msgstr  "بۆ دەستکاریکردن پێویستە لەژوورەوە بیت"
+
+msgid  "whitelistedittext"
+msgstr  "بۆ دەستکاری کردنی لاپەڕەکان دەبێ $1."
+
+msgid  "confirmedittext"
+msgstr  "پێویستە پێش هەرجۆرە دەستکاریەکی لاپەڕەکان ئەدرەسی ئیمەیلت ڕاچاو کردبێت .<br />\nتکایە لە [[Special:Preferences|ھەڵبژاردەکانی بەکارھێنەر]] ئی‌مەیلەکەت دانێ و بڕواپێکراوی بکە."
+
+msgid  "nosuchsectiontitle"
+msgstr  "بەش نەدۆزرایەوە"
+
+msgid  "nosuchsectiontext"
+msgstr  "هەوڵی دەستکاریکردنی بەشێکت داوە کە بوونی نیە.\nلەوانەیە لەو کاتە خەریکی بینینی پەڕە بوویت گۆزرابێتەوە یان سڕابێتەوە."
+
+msgid  "loginreqtitle"
+msgstr  "پێویستە بچیه ژور"
+
+msgid  "loginreqlink"
+msgstr  "چونە‌ژوور"
+
+msgid  "loginreqpagetext"
+msgstr  "بۆ دیتنی لاپەڕەکانی دیکە دەبێ $1 ."
+
+msgid  "accmailtitle"
+msgstr  "وشه‌ی نهێنی ناردرا."
+
+msgid  "accmailtext"
+msgstr  "تێپەڕوشەیەکی هەرەمەکی درووست‌کراو بۆ [[User talk:$1|$1]] ناردرا بۆ $2 .\n\nکاتێ چوویتە ‌ژوورەوە، لە ''[[Special:ChangePassword|گۆڕینی تێپەڕوشە]]'' دەتوانی وشەی تێپەڕبوون بۆ ئەم هەژمارە نوێیە بگۆڕی."
+
+msgid  "newarticle"
+msgstr  "(نوێ)"
+
+msgid  "newarticletext"
+msgstr  "بە دوای بەستەری پەڕەیەک کەوتووی کە ھێشتا دروست نەکراوە.\nبۆ دروست کردنی پەڕەکە، لە چوارچێوەکەی خوارەوە دەست بکە بە تایپ کردن. (بۆ زانیاری زورتر\n[[{{MediaWiki:Helppage}}|یارمەتی]] ببینە).\nئەگەر بە ھەڵەوە ھاتویتە ئێرە، لە سەر دوگمەی '''back'''ی وێبگەڕەکەت کلیک بکە."
+
+msgid  "anontalkpagetext"
+msgstr  "----''ئەمە لاپەڕەی وتووێژە بۆ بەکارهێنەرێکی نەناسراوە کە هێشتا هەژمارەی درووست‌نەکردووه یان کەڵکی‌ لێ وەرناگرێ .\nلەبەر ئەوە مەجبوورین ئای‌پی ئەدرەسەکی ژمارەیی بۆ ناساندنی بەکار بێنین.\nئای‌پی ئەدرەسی وا لەوانەیه لە لایەن چەندین بەکارهێنەروە بەکاربێت.\nئەگەر تۆ بەکارهێنەرێکی نەناسراوی و هەست ئەکەی ئەم لێدوانە پەیوەندی بە تۆوە نیە تکایە [[Special:UserLogin/signup|ھەژمارێکی نوێ دروست بکە]] یان [[Special:UserLogin|بچۆ ژوورەوە]] لەبەر ئەوەی لەداهاتوودا دەگەڵ بەکارهێنەرانی‌ نەناسراوی دی تێکەڵ نەکرێیت. ''"
+
+msgid  "noarticletext"
+msgstr  "ھەنووکە ھیچ دەقێک لەم پەڕەدا نییە.\nدەتوانی بۆ ئەم ناوە لە [[Special:Search/{{PAGENAME}}|پەڕەکانی تردا بگەڕێی]]، <span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} لە لۆگەکاندا بگەڕێی]، یان [{{fullurl:{{FULLPAGENAME}}|action=edit}} ئەم پەڕە دەستکاری بکەیت]</span>."
+
+msgid  "userpage-userdoesnotexist"
+msgstr  "هەژماری بەکارهێنەری \"$1\" تۆمار نەکراوە.<br />\nگەر دەتەوێ ئەم لاپەڕە درووست‌کەی یان دەستکاری بکەی تکایە تاقی‌بکەوە ."
+
+msgid  "clearyourcache"
+msgstr  "'''ئاگاداری - دوای پەشەکەوت‌کردن، بۆ بینینی گۆڕانکارییەکان دەبێ کاشی وێبگەڕەکەت دەور لێ‌دەیتەوە.'''<br />\n'''Mozilla / Firefox / Safari:'''کاتێ لەسەر ''Reload'' کرتە دەکەی، دەست لەسەر''Shift'' ڕاگرە، یان ''Ctrl-F5'' لێدە یا ''Ctrl-R''. (لە ماکینتاش ''Command-R'' ئەبێ لێدەی)<br />\n'''Konqueror: ''' لەسەر ''Reload'' کرتە بکە یا ''F5'' لێدە ؛<br />\n'''Opera:''' کاشەکەت لە ''Tools → Preferences'' بسڕەوە ؛<br />\n'''Internet Explorer:''' کاتێ ''Refresh'' لێ‌ئەدەی ''Ctrl'' ڕاگرە، یان ''Ctrl-F5'' لێدە ."
+
+msgid  "usercssyoucanpreview"
+msgstr  "'''سەرچەشن:''' «{{int:showpreview}}» بەکاربێنە بۆ تاقی‌کردنەوەی CSS نوێ‌کەت، پێش پاشەکەوت‌کردن."
+
+msgid  "userjsyoucanpreview"
+msgstr  "'''سەرچەشن:''' «{{int:showpreview}}» بەکاربێنە بۆ تاقی‌کردنەوەی جاڤاسکریپتە نوێ‌کەت، پێش پاشەکەوت‌کردن."
+
+msgid  "usercsspreview"
+msgstr  "'''له‌یادت بێ که‌ ئێسته‌ ته‌نها پێشبینینی CSS به‌کارهێنه‌ریه‌که‌ت ده‌که‌ی.'''\n'''هێشتا پاشه‌که‌وت نه‌بووه !'''"
+
+msgid  "userjspreview"
+msgstr  "'''لەیادت بێ کە ئێستە تەنها پێشبینین\\تاقی‌کردنەوەی جاڤاسکریپتی بەکارهێنەریەکەت دەکەی.'''\n'''هێشتا پاشەکەوت نەبووه !'''"
+
+msgid  "sitecsspreview"
+msgstr  "'''له‌یادت بێ که‌ ئێسته‌ ته‌نها پێشبینینی ئەم CSS ده‌که‌ی.'''\n'''هێشتا پاشه‌که‌وت نه‌کراوە !'''"
+
+msgid  "sitejspreview"
+msgstr  "'''له‌یادت بێ که‌ ئێسته‌ ته‌نها پێشبینینی ئەم کۆدی جاڤاسکریپتە ده‌که‌ی.'''\n'''هێشتا پاشه‌که‌وت نه‌کراوە !'''"
+
+msgid  "userinvalidcssjstitle"
+msgstr  "'''ئاگادارکردنەوە:''' پێست نیە بۆ \"$1\".\nلەیادت بێ کە لاپەڕەکانی‌ .css و .js لە بابەت بە پیتی بچووک کەڵک وەر ئەگرن. وەک {{ns:user}}:Foo/vector.css نە وەک {{ns:user}}:Foo/Vector.css ."
+
+msgid  "updated"
+msgstr  "(نوێ‌کراوە)"
+
+msgid  "note"
+msgstr  "'''تێبینی:'''"
+
+msgid  "previewnote"
+msgstr  "'''لە بیرت بێت کە ئەمە تەنھا پێشبینینە.'''\nگۆڕانکارییەکانت ھێشتا پاشەکەوت نەکراون!"
+
+msgid  "previewconflict"
+msgstr  "ئەم پێشبینینە بە تۆ نیشان ئەدات ئەو دەقەی لە شوێنی دەستکاری سەرەوە داتناوە چۆن بەرچاو ئەکەوێت ئەگەر پاشەکەوتی بکەیت."
+
+msgid  "session_fail_preview"
+msgstr  "'''ببوورە! ناتوانین دەستکارییەکەت پێواژۆ بکەین بە ھۆی لەدەستدانی session data.'''\nتکایە دیسان ھەوڵبدەوە.\nئەگەر ھێشتا کار ناکات، [[Special:UserLogout|چوونەدەرەوە]] و گەڕانەوەژوورەوە تاقی بکەوە."
+
+msgid  "session_fail_preview_html"
+msgstr  "'''ببوورە! ناتوانین دەستکارییەکەت پێواژۆ بکەین بە ھۆی لەدەستدانی session data.'''\n\n''لەبەر ئەوەی {{SITENAME}} ڕێگەی داوە بە raw HTML، بۆ بەرگری بەرامبەر بە هێرشەکانی جاڤاسکریپت، پێشبینین شاردراوەتەوە.''\n\n'''ئەگەر ئەمە ھەوڵێکی دەستکاریکردنی ڕەوایە، تکایە دیسان ھەوڵبدەوە.'''\nئەگەر ھێشتا کار ناکات، [[Special:UserLogout|چوونە دەرەوە]] گەڕانەوەژوورەوە تاقی بکەوە."
+
+msgid  "token_suffix_mismatch"
+msgstr  "'''دەستکاریەکەت پەسەند نەکرا لەبەر ئەوەی ڕاژەخواز یان وێبگەڕەکەت نووسەکانی خاڵبەندی لەیەک پچڕاندوە.'''<br />\nدەستکاریەکەت بۆ بەرگری لە تێکەڵ‌بوونی دەقی لاپەڕەکە وەر نەگیرا.<br />\nئەمە بڕێ‌جار کاتێ ڕوو ئەدات کە لە خزمەتی پرۆکسی سەر وێب کەڵک وەر بگریت."
+
+msgid  "editing"
+msgstr  "دەستکاریکردنی $1"
+
+msgid  "editingsection"
+msgstr  "دەستکاریکردنی: $1 (بەش)"
+
+msgid  "editingcomment"
+msgstr  "دەستکاریکردنی $1 (بەشی  نوێ)"
+
+msgid  "editconflict"
+msgstr  "دەستکاری کێشە : $1"
+
+msgid  "explainconflict"
+msgstr  "کەسێکی تر ئەم پەڕەیە گۆڕیوە لەو کاتەوە تۆ دەستکاریکردنیت دەستپێکردووە.\nبەشی سەرەوەی دەق، شێوازی ئێستای پەڕەکە لە خۆ ئەگرێت.\nگۆڕانکاریەکانی تۆش لە بەشی خوارەوەی دەق نیشان‌دراوە.\nدەبێ گۆڕانکاریەکانی خۆت لەگەڵ ئێستەی پەڕەکەدا تێکەڵبکەی.\n'''تەنیا''' ئەو دەقەی بەشی سەرەوە پاشەکەوت دەبێت، کاتێ «{{int:savearticle}}\" لێدەدەی."
+
+msgid  "yourtext"
+msgstr  "دەقی تۆ"
+
+msgid  "storedversion"
+msgstr  "پیاچوونەوەی ھەڵگیراو"
+
+msgid  "nonunicodebrowser"
+msgstr  "'''ئاگاداری:  وێبگەڕەکەت لە یوونی‌کۆد پاڵپشتی ناکات .'''<br />\nپرۆسەی چارەسەرکردن لە کاردایە بۆ ئەوەی ڕیگەت پێ بدا بە پاراوی دەستکاری لاپەڕەکان بکەیت: ئەو پیتانەی وا ASCII نین لە چوارچێوەی دەستکاری‌کردن‌دا وەک کۆدی ژمارە‌شازدەیی(hexadecimal) نیشان ئەدرێن."
+
+msgid  "editingold"
+msgstr  "'''ئاگاداری:  تۆ خەریکی دەستکاری‌ پێداچوونەوەیەکی کات‌بەسەرچووی ئەم لاپەڕەی.'''<br />\nئەگەر پاشەکەوتی بکەیت، هەموو گۆڕانکاریەکانی پێش ئەم پێداچوونەوە لەدەست ئەڕوا."
+
+msgid  "yourdiff"
+msgstr  "جیاوازیەکان"
+
+msgid  "copyrightwarning"
+msgstr  "تکایە ئاگادار بە کە هەموو بەشدارییەکان لە {{SITENAME}} وا فەرز دەکرێت کە لە ژێر  $2دا بڵاودەبنەوە (سەیری $1 بکە بۆ وردەکاریەکان).\nئەگەر ناتەوێ نووسراوەکانت بە بێبەزەیی دەستکاری بکرێن و بە دڵخواز دابەشبکرێنەوە، مەینێرە بۆ ئێرە.<br />\nھەروەھا تۆ بەڵێنمان پێدەدەی کە خۆت ئەمەت نووسیوە یان لە پاوانێکی گشتی (public domain) یان سەرچاوە ئازادەکانی وەک ئەو وەرتگرتووە.\n'''ئەو کارانە کە مافی لەبەرگرتنەوەیان پارێزراوەکان بە بێ وەرگرتنی ئیجازە مەنێرە!'''"
+
+msgid  "copyrightwarning2"
+msgstr  "ئاگادار بە کە هەموو بەشدارییەکان لە {{SITENAME}} لەوانەیە بەدەستی بەشداربووانی دیکەوە دەستکاری بکرێن، بگۆڕدرێن یا بسڕێنەوە.\nئەگەر ناتەوێ نووسراوەکانت بێبەزەیی دەستکاری بکرێن، ھەر مەینێرە بۆ ئێرە.<br />\nھەروەھا تۆ بەڵێنمان پێدەدەی کە خۆت ئەمەت نووسیوە یان لە پاوانێکی گشتی (public domain) یان سەرچاوە ئازادەکانی وەک ئەو وەرتگرتووە (سەیری $1 بکە بۆ وردەکاریەکان).\n'''ئەو کارانە کە مافی لەبەرگرتنەوەیان پارێزراوەکان بە بێ وەرگرتنی ئیجازە مەنێرە!'''"
+
+msgid  "longpageerror"
+msgstr  "'''هەڵە:  ئەو دەقی ناردووتە $1 کیلوبایت درێژەی هەیە، کە لە زۆرینەی $2 کیلۆبایت درێژترە.'''<br />\nپاشەکەوت ناکرێت."
+
+msgid  "readonlywarning"
+msgstr  "'''ئاگاداری: بنکەدراوە بۆ چاکردنەوە داخراوە، بۆیە ئێستا ناتوانی دەستکاریەکانت پاشەکەوت بکەیت.'''<br />\nباشتر وایە دەقەکە cut و paste بکەیتە ناو پەڕگەیەکی دەق و پاشەکەوتی بکەی بۆ دوایی.<br /><br />\nئەو بەڕێوبەرەی کە دایخستوە، ئەم هۆکارەی بەردەست خستووە: $1"
+
+msgid  "protectedpagewarning"
+msgstr  "'''وشیار بە: ئەم پەڕە پارێزراوە بۆ ئەوی تەنیا ئەو بەکارھێنەرانە کە مافەکانی بەڕێوەبەرایەتییان ھەیە بتوانن دەستکاریی بکەن.'''\nدوایین لۆگ بۆ ژێدەر لە خوارەوەدا ھاتووە:"
+
+msgid  "semiprotectedpagewarning"
+msgstr  "'''ئاگاداری:''' ئەم پەڕە داخراوە بۆ ئەوی تەنھا بەکارھێنەرە تۆمارکراوەکان بتوانن دەستکاریی بکەن.\nدوایین لۆگ بۆ ژێدەر لە خوارەوەدا ھاتووە:"
+
+msgid  "cascadeprotectedwarning"
+msgstr  "'''ئاگاداری:''' ئەم لاپەڕە داخراوە بۆیە تەنها ئەو کەسانەی مافی بەڕێوبەرایەتی‌یان هەیە ئەتوانن دەستکاری بکەن، چۆنکا ئەمە {{PLURAL:$1|لاپه‌ڕه‌|لاپه‌ڕانه‌}} لە زنجیرەی پارێزراوەکانی لە خۆ گرتووە‌:"
+
+msgid  "titleprotectedwarning"
+msgstr  "'''ئاگاداری: ئەم پەڕە داخراوە، بۆئەوەی بۆ درووست‌کردنی [[Special:ListGroupRights|مافە تایبەتەکانت]] پێویستن.'''\nبۆ چاوانە دوایین لۆگ لە خوارەوەدا ھاتووە:"
+
+msgid  "templatesused"
+msgstr  "ئەو {{PLURAL:$1|داڕێژە کە لەم پەڕەیەدا بە کارھێنراوە|داڕێژانە کە لەم پەڕەیەدا بە کارھێنراون}}:"
+
+msgid  "templatesusedpreview"
+msgstr  "ئەو {{PLURAL:$1|داڕێژە کە لەم پێشبینینەدا بە کارھێنراوە|داڕێژانە کە لەم پێشبینینەدا بە کارھێنراون}}:"
+
+msgid  "templatesusedsection"
+msgstr  "ئەو {{PLURAL:$1|داڕێژە|داڕێژانە}} کە لەم بەشەدا بە کارھێنراون:"
+
+msgid  "template-protected"
+msgstr  "(پارێزراو)"
+
+msgid  "template-semiprotected"
+msgstr  "(نیوەپارێزراو)"
+
+msgid  "hiddencategories"
+msgstr  "ئەم پەڕە ئەندامێکی {{PLURAL:$1|١ پۆلی شاراوەیە|$1 پۆلی شاراوەیە}}:"
+
+msgid  "edittools"
+msgstr  "<!-- دەقی ئێرە لە ژێری فۆرمی دەستکاری و بارکردندا نیشان دەدرێت. -->"
+
+msgid  "nocreatetitle"
+msgstr  "درووست‌کردنی لاپەڕە سنووردار کراوە"
+
+msgid  "nocreatetext"
+msgstr  "{{SITENAME}} توانای درووست‌کردنی لاپەڕە نوێکانی داخستووە.<br />\nئەتوانی بگەڕێتەوە دواوە و یەکێک لەو لاپەڕانەی وا هەن دەستکاری بکەیت ، یان [[Special:UserLogin|بچۆ ژوورەوە یان هەژمارێک درووست‌بکە]]"
+
+msgid  "nocreate-loggedin"
+msgstr  "ئیجازەی دروست کردنی پەڕەی نوێت نیە."
+
+msgid  "sectioneditnotsupported-title"
+msgstr  "بەش دەستکاریکردنی پشتیوانی ناکرێ"
+
+msgid  "sectioneditnotsupported-text"
+msgstr  "دەستکاریکردنی بەش لە پەڕەدا پشتیوانی ناکرێ."
+
+msgid  "permissionserrors"
+msgstr  "ھەڵەی ئیجازەکان"
+
+msgid  "permissionserrorstext"
+msgstr  "مافی ئەنجامی ئەوەت نیە لەبەر ئەم {{PLURAL:$1|هۆکار|هۆکارانە}} :"
+
+msgid  "permissionserrorstext-withaction"
+msgstr  "دەسەڵاتت نییە بۆ $2، لەبەر ئەم {{PLURAL:$1|ھۆکارە|ھۆکارانە}}ی خوارەوە:"
+
+msgid  "recreate-moveddeleted-warn"
+msgstr  "'''ئاگاداری: خەریکی دووبارە لاپەڕەیەک درووست‌ ئەکەیته‌وه کە لە پێشدا سڕدراوەتەوە. '''<br /><br />\nدەبێ ئاگات لەوە بێت کە دەستکاری‌کردنی ئەم لاپەڕە قازانجی هەیە یا نا.<br />\nلۆگی سڕینەوە و جێبەجێ کردنی ئەم لاپەڕە بۆ ئاسان‌کاری لێرەدا هاتووە:"
+
+msgid  "moveddeleted-notice"
+msgstr  "ئەم پەڕەیە سڕاوەتەوە.\nلۆگی سڕینەوە و گواستنەوە بۆ پەڕەکە لە خوارەوە دابینکراوە."
+
+msgid  "log-fulllog"
+msgstr  "دیتنی لۆگی تەواو"
+
+msgid  "edit-hook-aborted"
+msgstr  "دەستکاری لە لایەن قولاپەوە هەڵوەشێندرایەوە.<br />\nهۆکاری ئەوەی بەردەست نەخستووە."
+
+msgid  "edit-gone-missing"
+msgstr  "توانای نوێ‌کردنەوەی لاپەڕەکە نیە.<br />\nلەوە دەچی سڕدرابێتەوه.‌"
+
+msgid  "edit-conflict"
+msgstr  "کێشەی دەستکاری."
+
+msgid  "edit-no-change"
+msgstr  "دەستکاریەکەت بەرچاو نەخرا، لەبەر ئەوەی هیچ گۆڕانکارییەکت لەسەر دەقەکە نەکردووە."
+
+msgid  "edit-already-exists"
+msgstr  "توانای درووست‌کردنی لاپەڕەی نوێ نیە.<br />\nئەوە لەپێش‌دا هەبوو."
+
+msgid  "expensive-parserfunction-warning"
+msgstr  "'''ئاگاداری:''' ئەم لاپەڕە ژمارەیەکی زۆر بانگ‌کەری فەنکشێنی لێک‌کەرەوەی لەخۆ گرتوو.<br /><br />\nئەوە دەبێ کەمتر بێت لە $2 {{PLURAL:$2|بانگ‌کەردن|بانگ‌کەردن}} کە ئێستا {{PLURAL:$1|بانگ‌کردنی|بانگ‌کردنی}} تێدایە."
+
+msgid  "expensive-parserfunction-category"
+msgstr  "ئەو لاپەڕانەی  ژمارەیەکی زۆر بانگ‌کەری فەنکشێنی لێک‌کەرەوەیان لەخۆ گرتووە."
+
+msgid  "post-expand-template-inclusion-warning"
+msgstr  "'''ئاگاداری:''' قەبارەی داڕێژەکە زۆر گەورەیە.<br />\nلەوانەیە هێندێ لە داڕێژەکان لەخۆ نەگرێت."
+
+msgid  "post-expand-template-inclusion-category"
+msgstr  "ئەو لاپەڕانەی وا داڕێژە تیێدا قەبارەی تێپەڕیوە"
+
+msgid  "post-expand-template-argument-warning"
+msgstr  "'''ئاگاداری:''' ئەم لاپەڕە لانیکەم یەک بەڵگەی داڕێژە لە خۆ گرتوو کە قەبارەی کردنەوەی زۆر گەورەیە.<br />\nئەم بەڵگە بەکار نەخراوە."
+
+msgid  "post-expand-template-argument-category"
+msgstr  "ئەو لاپەڕانەی بەڵگەی داڕێژەی بەکار نەخراوی لەخۆ گرتووە"
+
+msgid  "parser-template-loop-warning"
+msgstr  "ئەڵقەی داڕێژە دۆزرایەوە: [[$1]]"
+
+msgid  "parser-template-recursion-depth-warning"
+msgstr  "سنووری قووڵی گەڕانەوەی داڕێژە تێپەڕیوە ($1)"
+
+msgid  "undo-success"
+msgstr  "دەکرێ دەستکاریەکە پووچەڵبکرێتەوە.\nتکایە چاو لەو هەڵسەنگاندنەی خوارەوە بکە تا دڵنیا بیت ئەمە ئەوەیە کە‌ دەتویست بیکەی و دواتر گۆڕانکارییەکانی خوارەوە پاشەکەوت بکە بۆ تەواوکردنی پووچەڵکردنەوەکە."
+
+msgid  "undo-failure"
+msgstr  "لەبەر کێشەی دەست‌تێ‌وەردان، ناتوانی دەستکاریەکە ئەنجام‌نەدراو بکەیت."
+
+msgid  "undo-norev"
+msgstr  "ناتوانی دەستکاریەکە ئەنجام‌نەدراو بکەی لەبەر ئەوەی بوونی نیە یا سڕدراوەتەوە."
+
+msgid  "undo-summary"
+msgstr  "پووچەڵکرنەوەی پیاچوونەوەی $1 بەدەستی [[Special:Contributions/$2|$2]] ([[User talk:$2|وتووێژ]])"
+
+msgid  "cantcreateaccounttitle"
+msgstr  "ناتوانرێت هەژمار دروست بکرێت"
+
+msgid  "cantcreateaccount-text"
+msgstr  "درووست‌کردنی هەژمارە بۆ ناونیشانی ئای‌پی ('''$1''') لە لایەن [[User:$3|$3]] داخراوە.<br /><br />\n$3 هۆکاری \"$2\" خستوەتەڕوو"
+
+msgid  "viewpagelogs"
+msgstr  "لۆگەکانی ئەم پەڕەیە ببینە"
+
+msgid  "nohistory"
+msgstr  "هیچ مێژوویەکی دەستکاری نییە بۆ ئەم پەڕەیە."
+
+msgid  "currentrev"
+msgstr  "دوایین پیاچوونەوە"
+
+msgid  "currentrev-asof"
+msgstr  "دوایین پیاچوونەوەی $1"
+
+msgid  "revisionasof"
+msgstr  "وەک پیاچوونەوەی $1"
+
+msgid  "revision-info"
+msgstr  "پێداچوونەوی $1 لە لایەن $2"
+
+msgid  "previousrevision"
+msgstr  "→پیاچوونەوەی کۆنتر"
+
+msgid  "nextrevision"
+msgstr  "پیاچوونەوەی نوێتر←"
+
+msgid  "currentrevisionlink"
+msgstr  "پیاچوونەوەی ئێستا"
+
+msgid  "cur"
+msgstr  "ئێستا"
+
+msgid  "next"
+msgstr  "پاش"
+
+msgid  "last"
+msgstr  "پێشوو"
+
+msgid  "page_first"
+msgstr  "یەکەمین"
+
+msgid  "page_last"
+msgstr  "دوایین"
+
+msgid  "histlegend"
+msgstr  "ھەڵبژاردنی جیاوازی: پیاچوونەوەکان بۆ ھەڵسەنگاندن دیاری بکە و ئینتەر یان دوگمەکەی خوارەوە لێبدە.<br />\nڕێنوێنی: '''({{int:cur}})''' = جیاوازی لەگەڵ دوایین پیاچوونەوە، '''({{int:last}})''' = جیاوازی لەگەڵ پیاچوونەوەی پێشووی، '''{{int:minoreditletter}}''' = دەستکاریی بچووک."
+
+msgid  "history-fieldset-title"
+msgstr  "گەشتی مێژوو"
+
+msgid  "history-show-deleted"
+msgstr  "تەنیا سڕاوەکان"
+
+msgid  "histfirst"
+msgstr  "کۆنترین"
+
+msgid  "histlast"
+msgstr  "نوێترین"
+
+msgid  "historysize"
+msgstr  "({{PLURAL:$1|1 بایت|$1 بایت}})"
+
+msgid  "historyempty"
+msgstr  "(پووچ)"
+
+msgid  "history-feed-title"
+msgstr  "مێژووی پیاچوونەوە"
+
+msgid  "history-feed-description"
+msgstr  "مێژووی پیاچوونەوە بۆ ئەم پەڕە لە ویکییەکە"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$1 لە $2"
+
+msgid  "history-feed-empty"
+msgstr  "لاپەڕەی داخوازی‌کراو بوونی نیە.<br />\nلەوانەیە لەسەر ویکی سڕدرابێتەوە یان ناوی گۆڕدرابێت.<br />\nبۆ لاپەڕەی وەک ئەوە هەوڵی [[Special:Search|گەڕان لەسەر ویکی]] بدە."
+
+msgid  "rev-deleted-comment"
+msgstr  "(پوختەی دەستکاری سڕایەوە)"
+
+msgid  "rev-deleted-user"
+msgstr  "(ناوی بەکارهێنەر سڕایەوە)"
+
+msgid  "rev-deleted-event"
+msgstr  "(لۆگی کردەوە سڕایەوە)"
+
+msgid  "rev-deleted-text-permission"
+msgstr  "ئەم پیاچوونەوەی پەڕەیە '''سڕاوەتەوە'''.\nوردەکاری سەبارەت بەوە لە [{{fullurl:{{#Special:Log}}/suppress|page={{FULLPAGENAMEE}}}} لۆگی سڕینەوە]دا دەست دەکەوێت."
+
+msgid  "rev-deleted-text-unhide"
+msgstr  "پێداچوونەوەی ئەم لاپەڕە '''سڕدراوەتەوە'''.<br />\nلەوانەیە وردەکاری سەبارەت بەوە لێرەدا دەست کەوێ : [{{fullurl:{{#Special:Log}}/suppress|page={{FULLPAGENAMEE}}}} لۆگی بەرگری]<br />\nوەک بەڕێوبەر هێشتا دەتوانی [$1 ئەم پێداچوونەوە] ببینی، گەر دەتەوێ پێشتر بڕۆی."
+
+msgid  "rev-suppressed-text-unhide"
+msgstr  "پێداچوونەوی ئەم لاپەڕە '''بەرگری''' لێ‌کراوە.\nلەوانەیە وردەکاری سەبارەت بەوە لێرەدا دەست کەوێ : [{{fullurl:{{#Special:Log}}/suppress|page={{FULLPAGENAMEE}}}} لۆگی بەرگری].\nوەک بەڕێوبەر هێشتا دەتوانی [$1 ئەم پێداچوونەوە] ببینی، گەر دەتەوێ پێشتر بڕۆی."
+
+msgid  "rev-deleted-text-view"
+msgstr  "پێداچوونەوەی ئەم لاپەڕە '''سڕدراوەتەوە'''.<br />\nوەک بەڕێوبەر هێشتا دەتوانی چاوی لێ‌بکەی؛ لەوانەیە وردەکاری سەبارەت بەوە لێرەدا دەست کەوێ : [{{fullurl:{{#Special:Log}}/suppress|page={{FULLPAGENAMEE}}}} لۆگی بەرگری]."
+
+msgid  "rev-suppressed-text-view"
+msgstr  "پێداچوونەوی ئەم لاپەڕە '''بەرگری''' لێ‌کراوە.\nوەک بەڕێوبەر دەتوانی بیبینی؛ لەوانەیە وردەکاری سەبارەت بەوە لێرەدا دەست کەوێ : [{{fullurl:{{#Special:Log}}/suppress|page={{FULLPAGENAMEE}}}} لۆگی بەرگری]."
+
+msgid  "rev-deleted-no-diff"
+msgstr  "ناتوانی ئەم جیاوازیە ببینی لەبەر ئەوەی یەکێک لە پێداچوونەوەکان '''سڕدراوەتەوه'''‌.<br />\nلەوانەیە وردەکاری سەبارەت بەوە لێرەدا دەست کەوێ : [{{fullurl:{{#Special:Log}}/suppress|page={{FULLPAGENAMEE}}}} لۆگی بەرگری]."
+
+msgid  "rev-deleted-unhide-diff"
+msgstr  "یەکێک لە پێداچوونەوەکانی ئەم جیاوازیە '''سڕدراوەتەوه'''.<br />\nلەوانەیە وردەکاری سەبارەت بەوە لێرەدا دەست کەوێ : [{{fullurl:{{#Special:Log}}/suppress|page={{FULLPAGENAMEE}}}} لۆگی بەرگری].<br />\nوەک بەڕێوبەر هێشتا دەتوانی [$1 ئەم جیاوزیە‌] ببینی، گەر دەتەوێ پێشتر بڕۆی."
+
+msgid  "rev-delundel"
+msgstr  "نیشانبدە/بشارەوە"
+
+msgid  "rev-showdeleted"
+msgstr  "نیشان بدە"
+
+msgid  "revisiondelete"
+msgstr  "سڕینەوە\\هاوردنەوەی پێداچوونەوەکان"
+
+msgid  "revdelete-nooldid-title"
+msgstr  "مەبەستی پێداچوونەوەی نادیار"
+
+msgid  "revdelete-nooldid-text"
+msgstr  "پێداچوەنەوەی مەبەستت ڕاچاو نەکردە بۆ ئەنجامی ئەم فەنکشێنە یان ئەو پێداچوونەوەی ڕاچاوت کردە بوونی نیە، یا خەریکی هەوڵی داشاردنی پێداچوونەوهی ئێستا‌ ئەدەی."
+
+msgid  "revdelete-nologtype-title"
+msgstr  "جۆری لۆگ ڕاچاو نەکراوە"
+
+msgid  "revdelete-nologtype-text"
+msgstr  "جۆری لۆگت ڕاچاو نەکردە بۆ خستنە‌کاری ئەم کردەوە."
+
+msgid  "revdelete-nologid-title"
+msgstr  "پێ‌دراوەی لۆگی نەناسراو"
+
+msgid  "revdelete-nologid-text"
+msgstr  "بۆ ئەنجامی ئەم فەنکشێنە یا لۆگی ڕووداوی مەبەستت ڕاچاو نەکردووە یان ئەو پێ‌دراوەی ڕاچاوت کردە بوونی نیە."
+
+msgid  "revdelete-no-file"
+msgstr  "ئەو پەڕگەی ڕاچاوت کردووە بوونی نیە."
+
+msgid  "revdelete-show-file-confirm"
+msgstr  "ئایا دڵنیایت دەتەوێ پێداچوونەوەی سڕاوەی پەڕگەی \"<nowiki>$1</nowiki>\" لە $2، لە $3دا ببیینی؟"
+
+msgid  "revdelete-show-file-submit"
+msgstr  "بەڵێ"
+
+msgid  "revdelete-selected"
+msgstr  "'''{{PLURAL:$2|پێداچوونەوەی هەڵبژێراوی|پێداچوونەوەکانی هەڵبژێراوی}} [[:$1]]:'''"
+
+msgid  "logdelete-selected"
+msgstr  "'''{{PLURAL:$1|لۆگی ڕووداوەی هەڵبژێراو|لۆگی ڕووداوە هەڵبژێراوەکان}}:'''"
+
+msgid  "revdelete-text"
+msgstr  "'''پێداچوون و ڕووداوە سڕاوەکان هێشتا لە لاپەڕەی مێژوو و لۆگەکان دەست دەکەون، بەڵام ناوەڕۆکی ھێندێکیان بەرچاوی گشتیی ناکەون.'''<br />\nبەڕێوبەرانی دیکە لە {{SITENAME}}دا، هێشتا دەتوانن دەستکارییە شاراوەکان ببینن و لە ڕێگەی ھەر ئەم فۆڕمەوە بیانگەڕێننەوە، مەگەر ئەوەی بەربەستی دیکە داندرابێت."
+
+msgid  "revdelete-confirm"
+msgstr  "تکایە بەڵێن بدە کە دەتەوێ ئەوە بکەی و لە ئەنجامەکانی ئەوە ئاگاداریت و بە پێی [[{{MediaWiki:Policy-url}}|سیاسەتنامە]] ئەنجامی ئەدەی."
+
+msgid  "revdelete-suppress-text"
+msgstr  "بەرگری دەبێ '''تەنها''' بۆ ئەم بابەتانە بەکاربهێندرێت:<br />\n* سووکایەتیکردن بە کەسایەتییەک<br />\n* بڵاوکردنەوەی زانیاریی تاکەکەسی نەگونجاو<br />\n*: '' ناونیشانی ماڵ یا ژمارە تەلەفۆن و وەک ئەمانە.''<br />"
+
+msgid  "revdelete-legend"
+msgstr  "دانانی بەربەستەکانی بەرچاوکەوتن"
+
+msgid  "revdelete-hide-text"
+msgstr  "داشاردنی دەقی پێداچوونەوە"
+
+msgid  "revdelete-hide-image"
+msgstr  "ناوەڕۆکی پەڕگە بشارەوە"
+
+msgid  "revdelete-hide-name"
+msgstr  "داشاردنی مەبەست و کردەوە"
+
+msgid  "revdelete-hide-comment"
+msgstr  "داشاردنی پوختەی دەستکاری"
+
+msgid  "revdelete-hide-user"
+msgstr  "شاردنەوەی ناوی بەکارهێنەری\\ئای-‌پی دەستکاریکەر"
+
+msgid  "revdelete-hide-restricted"
+msgstr  "بەرگری دراوە لە بەڕێوبەران هەر وەک ئەوانی دیکە"
+
+msgid  "revdelete-radio-same"
+msgstr  "(مەیگۆڕە)"
+
+msgid  "revdelete-radio-set"
+msgstr  "بەڵێ"
+
+msgid  "revdelete-radio-unset"
+msgstr  "نا"
+
+msgid  "revdelete-suppress"
+msgstr  "بەرگری دراوە لە بەڕێوبەران هەر وەک ئەوانی دیکە"
+
+msgid  "revdelete-unsuppress"
+msgstr  "لابردنی بەربەستەکان لە سەر پێداچوونەوە گەڕێندراوەکان"
+
+msgid  "revdelete-log"
+msgstr  "هۆکار:"
+
+msgid  "revdelete-submit"
+msgstr  "خستنەکار بۆ سەر پێداچوونەوە {{PLURAL:$1|ھەڵبژێردراوەکە|ھەڵبژێردراوەکان}}"
+
+msgid  "revdelete-logentry"
+msgstr  "گۆڕانی بەرچاوکەوتنی دەستکارییەکی [[$1]]"
+
+msgid  "logdelete-logentry"
+msgstr  "بیندرانی ڕووداوە‌ گۆڕاوەکەی [[$1]]"
+
+msgid  "revdelete-success"
+msgstr  "'''چۆنیەتی بیندرانی پێداچوونەوە بە سەرکەوتوویی نوێکراوە.'''"
+
+msgid  "revdelete-failure"
+msgstr  "'''ناکرێ دەرکەوتنی پێداچوونەوە نوێبکرێتەوە:'''\n$1"
+
+msgid  "logdelete-success"
+msgstr  "'''بیندرانی لۆگ‌ بە سەرکەوتوویی داندرا.'''"
+
+msgid  "logdelete-failure"
+msgstr  "'''بیندرانی لۆگ داناندرێت:'''\n$1"
+
+msgid  "revdel-restore"
+msgstr  "چۆنیەتی دەرکەوتن بگۆڕە"
+
+msgid  "revdel-restore-deleted"
+msgstr  "پێداچوونەوە سڕاوەکان"
+
+msgid  "revdel-restore-visible"
+msgstr  "پێداچوونەوە دەرکەوتووەکان"
+
+msgid  "pagehist"
+msgstr  "مێژووی پەڕە"
+
+msgid  "deletedhist"
+msgstr  "مێژوو بسڕەوە"
+
+msgid  "revdelete-content"
+msgstr  "ناوەڕۆک"
+
+msgid  "revdelete-summary"
+msgstr  "پوختەی دەستکاری"
+
+msgid  "revdelete-uname"
+msgstr  "ناوی بەکارهێنەر"
+
+msgid  "revdelete-restricted"
+msgstr  "ئەو سنووری بەرگریانەی خستراوەتە سەر بەڕێوبەران"
+
+msgid  "revdelete-unrestricted"
+msgstr  "ئەو سنووری بەرگریانەی لابردراوە لە سەر بەڕێوبەران"
+
+msgid  "revdelete-hid"
+msgstr  "$1ـی داشارد"
+
+msgid  "revdelete-unhid"
+msgstr  "$1ـی ئاشکرا کرد"
+
+msgid  "revdelete-log-message"
+msgstr  "$1 بۆ {{PLURAL:$2|پێداچوونەوەی|پێداچوونەوەکانی}} $2"
+
+msgid  "logdelete-log-message"
+msgstr  "$1 بۆ {{PLURAL:$2|ڕووداوی|ڕووداوەکانی}} $2"
+
+msgid  "revdelete-hide-current"
+msgstr  "هەڵە لە شاردنەوەی بابەتی ڕیکەوتی $1، کات $2: ئەم پێداچوونەوە ئێستا لەکاردایە.\nناکرێ داشاردرێت."
+
+msgid  "revdelete-show-no-access"
+msgstr  "هەڵە لە نیشان‌دانی بابەتی ڕیکەوتی $1، کات $2: ئەم بابەتە وەک \"بەرگیراو\"‌ نیشانکراوە.\nدەسەڵاتی دەستپێگەیشتنی ئەوەت نیە."
+
+msgid  "revdelete-modify-no-access"
+msgstr  "هەڵە لە چاکسازی بابەتی ڕیکەوتی $1، کات $2: ئەم بابەتە وەک \"بەرگیراو\"‌ نیشان‌ کراوە.\nدەسەڵاتی دەستپێگەیشتنی ئەوەت نیە."
+
+msgid  "revdelete-modify-missing"
+msgstr  "هەڵە لە چاکسازی بابەت خاوەن پێناسەی $1: لە بنکەدراو ون بووە !"
+
+msgid  "revdelete-no-change"
+msgstr  "'''ئاگاداری:''' بابەتی ڕێکەوتی $2، کات $1، لە پێش‌دا خاوەن داخوازی هەلبژاردەکانی بیندرانە."
+
+msgid  "revdelete-concurrent-change"
+msgstr  "هەڵە لە چاکسازی بابەتی ڕێکەوتی $2 کات $1: لەوانەیە کاتێ تۆ هەوڵی چاکسازیت ئەدا، کەسێکی‌تر دۆخەکەی گۆڕابێت.\nتکایە چاو لە لۆگەکەی بکە."
+
+msgid  "revdelete-only-restricted"
+msgstr  "ھەڵە لە شاردنەوەی بابەتی ڕێکەوتی $2ی $1: ناتوانی لە بینینی بابەتەکان لە لایەن بەڕێوبەرانەوە بەرگری بکەیت، مەگەر یەکێکی تر لە ھەڵبژاردەکانی بەرچاوکەوتن ھەڵبژێریت."
+
+msgid  "revdelete-reasonotherlist"
+msgstr  "هۆکاری دیکە"
+
+msgid  "revdelete-edit-reasonlist"
+msgstr  "دەستکاری هۆکارەکانی سڕینەوە"
+
+msgid  "suppressionlog"
+msgstr  "لۆگی بەرگری‌کردن"
+
+msgid  "suppressionlogtext"
+msgstr  "لە خوارەوە لیستێک لە سڕاوە و بەرگری‌کراوانەی وا ناوەڕۆکیان لە چاو بەڕێوبەران داشاردراوە دەبینیت.\nبۆ دیتنی ئەو بەرگریانەی ئێستا لە کاردایە چاو لە [[Special:IPBlockList|لیستی بەرگری ئای‌پی]] بکە."
+
+msgid  "mergehistory"
+msgstr  "یەک‌خستنی مێژووەکانی لاپەڕە"
+
+msgid  "mergehistory-header"
+msgstr  "ئەم لاپەڕە دەسەڵاتی ئەوەت پێ‌دەدا پێداچوونەوەکانی مێژووی لاپەڕەیەکی مەبەستت بخەیتە سەر لاپەڕەیەکی نوێ.\nئەرخەیان ببە ئەم گۆڕان‌کاریە لاپەڕە مێژوویەکە بەردەوام دەهێڵێتەوە."
+
+msgid  "mergehistory-box"
+msgstr  "سەر یەک‌خستنی پێداچوونەوەکانی دوو لاپەڕە:"
+
+msgid  "mergehistory-from"
+msgstr  "سەرچاوەی پەڕە"
+
+msgid  "mergehistory-into"
+msgstr  "پەڕەی مەبەست:"
+
+msgid  "mergehistory-list"
+msgstr  "ئەو مێژووی لاپەڕانە وا توانای سەر یەک‌خستنیان هەیە"
+
+msgid  "mergehistory-merge"
+msgstr  "ئەم پێداچوونەوانەی [[:$1]] دەتواندرێ بخرێتە سەر [[:$2]].\nدەتوانی لە ستوونی دوکمە ڕادیۆیەکە بۆ تەنها خستنە‌سەر پێداچوونەوەکانی ڕێکەوتێکی تایبەت یا پێش ئەوە کەڵک وەر بگریت.\nلەیادت بێت کە بەکارهێنانی بەستەرەکانی ڕێن‌نیشاندەر، ستوونەکە وەک ئەوەڵ لێ‌دەکاتەوە."
+
+msgid  "mergehistory-go"
+msgstr  "نیشان‌دانی ئەو دەستکاریانە وا توانای خستنەسەر یەکیان هەیە"
+
+msgid  "mergehistory-submit"
+msgstr  "خستنەسەریەکی پێداچوونەوەکان"
+
+msgid  "mergehistory-empty"
+msgstr  "ناتواندرێت هیچ یەک لە پێداچوونەوەکان بخرێتە ‌سەریەک."
+
+msgid  "mergehistory-success"
+msgstr  "$3 {{PLURAL:$3|پێداچوونەوەی|پێداچوونەوەی}} [[:$1]] بە سەرکەوتوویەوە خرایە سەر [[:$2]]."
+
+msgid  "mergehistory-fail"
+msgstr  "سەریەک خستنی مێژوو پێک‌نایەت، تکایە دیسان دیاریکەرەکانی لاپەڕە و کات چاو لێ بکەوە."
+
+msgid  "mergehistory-no-source"
+msgstr  "لاپەڕەی سەرچاوەی $1 بوونی نیە."
+
+msgid  "mergehistory-no-destination"
+msgstr  "لاپەڕەی مەبەستی $1 بوونی نیە."
+
+msgid  "mergehistory-invalid-source"
+msgstr  "لاپەڕەی سەرچاوە دەبێ سەردێڕێکی گونجاو بێت."
+
+msgid  "mergehistory-invalid-destination"
+msgstr  "لاپەڕەی مەبەست دەبێ سەردێڕێکی گونجاو بێت."
+
+msgid  "mergehistory-autocomment"
+msgstr  "[[:$1]] خرایە سەر [[:$2]]"
+
+msgid  "mergehistory-comment"
+msgstr  "[[:$1]] خرایە سەر [[:$2]]: $3"
+
+msgid  "mergehistory-same-destination"
+msgstr  "لاپەڕەی سەرچاوە و مەبەست نابێ یەکێک بن."
+
+msgid  "mergehistory-reason"
+msgstr  "هۆکار:"
+
+msgid  "mergelog"
+msgstr  "لۆگی یەککردن"
+
+msgid  "pagemerge-logentry"
+msgstr  "[[$1]] خرایە سەر [[$2]] (پێداچوونەوەکان تا $3)"
+
+msgid  "revertmerge"
+msgstr  "لەیەک جیاکردنەوە"
+
+msgid  "mergelogpagetext"
+msgstr  "لە خوارەوە دوایین مێژووی‌لاپەڕە خستنە سەر لاپەڕەیەکی‌تر، دەبینی."
+
+msgid  "history-title"
+msgstr  "مێژووی پیاچوونەوەکانی «$1»"
+
+msgid  "difference"
+msgstr  "(جیاوازی نێوان پیاچوونەوەکان)"
+
+msgid  "difference-multipage"
+msgstr  "(جیاوازی نێوان پەڕەکان)"
+
+msgid  "lineno"
+msgstr  "ھێڵی  $1:"
+
+msgid  "compareselectedversions"
+msgstr  "پیاچوونەوە ھەڵبژێردراوەکان ھەڵسەنگێنە"
+
+msgid  "showhideselectedversions"
+msgstr  "پیاچوونەوە ھەڵبژێردراوەکان نیشانبدە/بشارەوە"
+
+msgid  "editundo"
+msgstr  "پووچەڵ‌کردنەوە"
+
+msgid  "diff-multi"
+msgstr  "({{PLURAL:$1|پیاچوونەوەیەکی نێوانی|$1 پیاچوونەوەی نێوانی}}ی {{PLURAL:$2|بەکارھێنەرێک|$2 بەکارھێنەر}} نیشان نەدراوە)"
+
+msgid  "searchresults"
+msgstr  "ئەنجامەکانی گەڕان"
+
+msgid  "searchresults-title"
+msgstr  "ئەنجامەکانی گەڕان بۆ \"$1\""
+
+msgid  "searchresulttext"
+msgstr  "بۆ زانیاری زیاتر دەربارەی گەڕان {{SITENAME}} ، بڕوانە لە  [[{{MediaWiki:Helppage}}|{{int:help}}]]."
+
+msgid  "searchsubtitle"
+msgstr  "گەڕایت بۆ '''[[:$1]]''' ([[Special:Prefixindex/$1|ھەموو ئەو پەڕانەی بە «$1»ەوە دەستپێدەکەن]]{{int:pipe-separator}}[[Special:WhatLinksHere/$1|ھەموو ئەو پەڕانەی بەستەریان ھەیە بۆ «$1»]])"
+
+msgid  "searchsubtitleinvalid"
+msgstr  "گەڕایت بۆ '''$1'''"
+
+msgid  "toomanymatches"
+msgstr  "هاوتای ئەوەی داوات کرد، زۆر هەیە. تکایە داوای‌تر تاقی بکەوە."
+
+msgid  "titlematches"
+msgstr  "سەردێڕی پەڕە پێی ئەخوا"
+
+msgid  "notitlematches"
+msgstr  "لە نێو سەردێڕەکان نەبینرا"
+
+msgid  "textmatches"
+msgstr  "هاوتاکانی دەقی لاپەڕە"
+
+msgid  "notextmatches"
+msgstr  "لە دەقی نووسراوەکان دا نەبینرا"
+
+msgid  "prevn"
+msgstr  "{{PLURAL:$1|$1}}ی پێشوو"
+
+msgid  "nextn"
+msgstr  "{{PLURAL:$1|$1}}ی دواتر"
+
+msgid  "prevn-title"
+msgstr  "$1 {{PLURAL:$1|ئەنجامی|ئەنجامی}} پێشو"
+
+msgid  "nextn-title"
+msgstr  "$1 {{PLURAL:$1|ئەنجامی|ئەنجامی}} دواتر"
+
+msgid  "shown-title"
+msgstr  "لە هەر پەڕەیەک $1 {{PLURAL:$1|ئەنجام|ئەنجام}} نیشان‌ بدە"
+
+msgid  "viewprevnext"
+msgstr  "($1 {{int:pipe-separator}} $2) ($3) ببینە"
+
+msgid  "searchmenu-legend"
+msgstr  "ھەڵبژاردەکانی گەڕان"
+
+msgid  "searchmenu-exists"
+msgstr  "'''لەم ویکیە‌دا لاپەڕەیەک هەیە کە بە \"[[:$1]]\" ناونراوە.'''"
+
+msgid  "searchmenu-new"
+msgstr  "'''لەم ویکییەدا پەڕەی « [[:$1]] » دروست بکە!'''"
+
+msgid  "searchhelp-url"
+msgstr  "Help:پێرست"
+
+msgid  "searchmenu-prefix"
+msgstr  "[[Special:PrefixIndex/$1|گەڕیان لە پەڕەکانی بەم پێشگرەوە]]"
+
+msgid  "searchprofile-articles"
+msgstr  "پەڕە بە ناوەڕۆکەکان"
+
+msgid  "searchprofile-project"
+msgstr  "پەڕەکانی یارمەتی و پڕۆژە"
+
+msgid  "searchprofile-images"
+msgstr  "ڕەنگاڵە"
+
+msgid  "searchprofile-everything"
+msgstr  "ھەموو شتێک"
+
+msgid  "searchprofile-advanced"
+msgstr  "پێشکەوتوو"
+
+msgid  "searchprofile-articles-tooltip"
+msgstr  "بگەڕێ لە $1"
+
+msgid  "searchprofile-project-tooltip"
+msgstr  "بگەڕێ لە $1"
+
+msgid  "searchprofile-images-tooltip"
+msgstr  "بگەڕێ بۆ پەڕگەکان"
+
+msgid  "searchprofile-everything-tooltip"
+msgstr  "لە هەموو ناوەڕۆک بگەڕێ (تەنانەت پەڕەی وتەکانیش)"
+
+msgid  "searchprofile-advanced-tooltip"
+msgstr  "گەڕان لەناو بۆشایی‌ناوە دڵخوازەکان"
+
+msgid  "search-result-size"
+msgstr  "$1 ({{PLURAL:$2|یەک وشە|$2 وشە}})"
+
+msgid  "search-result-score"
+msgstr  "پەیوەندی: $1%"
+
+msgid  "search-redirect"
+msgstr  "(ئاڵوگۆڕ $1)"
+
+msgid  "search-section"
+msgstr  "(بەشی $1)"
+
+msgid  "search-suggest"
+msgstr  "ئایا مەبەستت ئەمە بوو: $1"
+
+msgid  "search-interwiki-caption"
+msgstr  "پرۆژە خوشکەکان"
+
+msgid  "search-interwiki-default"
+msgstr  "$1 ئەنجام:"
+
+msgid  "search-interwiki-more"
+msgstr  "(زیاتر)"
+
+msgid  "search-mwsuggest-enabled"
+msgstr  "بە پێشنیارەکانەوە"
+
+msgid  "search-mwsuggest-disabled"
+msgstr  "بێ پێشنیار"
+
+msgid  "search-relatedarticle"
+msgstr  "پەیوەست"
+
+msgid  "mwsuggest-disable"
+msgstr  "پێشنیارەکانی AJAX نیشان مەدە"
+
+msgid  "searcheverything-enable"
+msgstr  "لە ھەموو بۆشایی‌‌ناوەکان دا بگەڕێ"
+
+msgid  "searchrelated"
+msgstr  "پەیوەست"
+
+msgid  "searchall"
+msgstr  "هەموو"
+
+msgid  "showingresults"
+msgstr  "لە خوارەوە {{PLURAL:$1|'''یەک''' ئەنجام|'''$1''' ئەنجام}} نیشان دراوە، بە دەست پێ کردن لە ژمارەی '''$2'''ەوە."
+
+msgid  "showingresultsnum"
+msgstr  "لە خوارەوە {{PLURAL:$3|'''١''' ئەنجام|'''$3''' ئەنجام}} دەبینن کە لە ئەنجامی ژمارە '''$2'''ەوە دەست{{PLURAL:$3|پێدەکات|پێدەکەن}}"
+
+msgid  "showingresultsheader"
+msgstr  "{{PLURAL:$5|ئەنجامی '''$1''' لە '''$3'''|ئەنجامەکانی '''$1 - $2''' لە '''$3'''}} بۆ '''$4'''"
+
+msgid  "nonefound"
+msgstr  "'''تێبینی''': لە حاڵەتی بنچینەیی تەنھا لە ھەندێک لە بۆشایی‌ناوەکان گەڕان دەکرێت.\nوشەی ''all:'' بکە بە پێشگری پرسەکە بۆ گەڕان لە نێو ھەموو کەرستەکان (پەڕەکانی وتووێژ، داڕێژەکان و هتد)، یان بۆشایی‌ناوێکی دڵخواز وەک پێشگر بەکار بێنە."
+
+msgid  "search-nonefound"
+msgstr  "ھیچ ئەنجامێک کە بە داواکارییەکەت بخوا نەدۆزرایەوە."
+
+msgid  "powersearch"
+msgstr  "پێشکەوتوو بگەڕێ"
+
+msgid  "powersearch-legend"
+msgstr  "گەڕانی پێشکەوتوو"
+
+msgid  "powersearch-ns"
+msgstr  "گەڕان لە بۆشایی‌ناوەکانی:"
+
+msgid  "powersearch-redir"
+msgstr  "ڕەوانەکراوەکان لیست بکرێن"
+
+msgid  "powersearch-field"
+msgstr  "گەڕان بۆ"
+
+msgid  "powersearch-togglelabel"
+msgstr  "پشکنینی:"
+
+msgid  "powersearch-toggleall"
+msgstr  "ھەموو"
+
+msgid  "powersearch-togglenone"
+msgstr  "ھیچیان"
+
+msgid  "search-external"
+msgstr  "گەڕانی دەرەکی"
+
+msgid  "searchdisabled"
+msgstr  "گەڕانی {{SITENAME}} ئێستە کار ناکات.\nدەتوانی بۆ ئێستا لە گەڕانی گووگڵ کەڵک وەرگری.\nلەیادت بێت لەوانەیە پێرستەکانیان بۆ گەڕانی ناو {{SITENAME}}، کات‌بەسەرچوو بێت."
+
+msgid  "qbsettings"
+msgstr  "خێرا-تووڵ"
+
+msgid  "qbsettings-none"
+msgstr  "هیچ"
+
+msgid  "qbsettings-fixedleft"
+msgstr  "چەپ‌ سەپێندراو"
+
+msgid  "qbsettings-fixedright"
+msgstr  "ڕاست سەپێندراو"
+
+msgid  "qbsettings-floatingleft"
+msgstr  "سەراوی چەپ"
+
+msgid  "qbsettings-floatingright"
+msgstr  "سەراوی ڕاست"
+
+msgid  "preferences"
+msgstr  "ھەڵبژاردەکان"
+
+msgid  "mypreferences"
+msgstr  "ھەڵبژاردەکانم"
+
+msgid  "prefs-edits"
+msgstr  "ژمارەی گۆڕانکارییەکان:"
+
+msgid  "prefsnologin"
+msgstr  "لەژوورەوە نیت"
+
+msgid  "prefsnologintext"
+msgstr  "بۆ دانانی هەڵبژاردەکانی بەکارهێنەر دەبێ <span class=\"plainlinks\">[{{fullurl:{{#Special:UserLogin}}|returnto=$1}} بچیتە ژوورەوە]</span>."
+
+msgid  "changepassword"
+msgstr  "تێپەڕوشە بگۆڕە"
+
+msgid  "prefs-skin"
+msgstr  "پێستە"
+
+msgid  "skin-preview"
+msgstr  "پێش بینین"
+
+msgid  "prefs-math"
+msgstr  "بیرکاری"
+
+msgid  "datedefault"
+msgstr  "ھەڵنەبژێردراو"
+
+msgid  "prefs-datetime"
+msgstr  "کات و ڕێکەوت"
+
+msgid  "prefs-personal"
+msgstr  "پرۆفایلی بەکارھێنەر"
+
+msgid  "prefs-rc"
+msgstr  "دوایین گۆڕانکارییەکان"
+
+msgid  "prefs-watchlist"
+msgstr  "لیستی چاودێری"
+
+msgid  "prefs-watchlist-days"
+msgstr  "ژمارەی ڕۆژەکان بۆ نیشاندان لە لیستی چاودێری:"
+
+msgid  "prefs-watchlist-days-max"
+msgstr  "ئه‌وپه‌ڕی ٧ ڕۆژ"
+
+msgid  "prefs-watchlist-edits"
+msgstr  "ئەوپەڕی ژمارەی گۆڕانکارییەکان بۆ نیشاندان لە لیستی چاودێریی پەرەپێدراو:"
+
+msgid  "prefs-watchlist-edits-max"
+msgstr  "ئەوپەڕی ژمارە: ١٠٠٠"
+
+msgid  "prefs-watchlist-token"
+msgstr  "ڕەمزی لیستی چاودێری:"
+
+msgid  "prefs-misc"
+msgstr  "جۆراوجۆر"
+
+msgid  "prefs-resetpass"
+msgstr  "تێپەڕوشە بگۆڕە"
+
+msgid  "prefs-email"
+msgstr  "ھەڵبژاردەکانی ئیمەیل"
+
+msgid  "prefs-rendering"
+msgstr  "ڕواڵەت"
+
+msgid  "saveprefs"
+msgstr  "پاشەکەوت"
+
+msgid  "resetprefs"
+msgstr  "گۆڕانکارییە پاشەکەوت نەکراوەکان پاک بکەرەوە"
+
+msgid  "restoreprefs"
+msgstr  "ھەموو تەنزیمەکان ببەرەوە بۆ حاڵەتی بنچینەیی"
+
+msgid  "prefs-editing"
+msgstr  "دەستکاریکردن"
+
+msgid  "prefs-edit-boxsize"
+msgstr  "قەبارەی پەنجەرەی دەستکاریکردن."
+
+msgid  "rows"
+msgstr  "ڕیزەکان:"
+
+msgid  "columns"
+msgstr  "ستوونەکان:"
+
+msgid  "searchresultshead"
+msgstr  "گەڕان"
+
+msgid  "resultsperpage"
+msgstr  "ژمارەی ئەنجامەکان لە ھەر پەڕەیەک:"
+
+msgid  "contextlines"
+msgstr  "ژمارەی دێڕەکانی ھەر ئەنجام:"
+
+msgid  "contextchars"
+msgstr  "ژمارەی پیتەکانی ھەر دێڕ:"
+
+msgid  "stub-threshold"
+msgstr  "سنوور بۆ شێوازی <a href=\"#\" class=\"stub\">بەستەری کۆڵکە</a> (بایت):"
+
+msgid  "recentchangesdays"
+msgstr  "ژمارە ڕۆژە نیشاندراوەکان لە دوایین گۆڕانکارییەکان:"
+
+msgid  "recentchangesdays-max"
+msgstr  "(ئەوپەڕی $1 {{PLURAL:$1|ڕۆژە|ڕۆژە}})"
+
+msgid  "recentchangescount"
+msgstr  "ژمارەی گۆڕانکارییەکان کە نیشان ئەدرێن لە حاڵەتی دیفاڵت:"
+
+msgid  "prefs-help-recentchangescount"
+msgstr  "ئەمە دوایین گۆڕانکارییەکان، مێژووی پەڕەکان و لۆگەکانیش لەبەردەگرێت."
+
+msgid  "prefs-help-watchlist-token"
+msgstr  "بە پڕ کردنەوەی ئەم شوێنە بۆشاییە بە وشەیەکی نهێنی، فیدی RSS بۆ لیستی چاودێریەکەت درووست دەکرێت.\n هەر کەس ئەو وشە نهێنیەی هەبێ دەتوانێ چاو لە لیستی چاودێریەکەت بکات، بۆیە دراوەیەکی پارێزراو هەڵیبژێرە.\nفەرموو ئەمە دراوەیەکی بە هەڵکەوت درووست‌کراو کە دەتوانی کەڵکی لێ‌وەرگری: $1"
+
+msgid  "savedprefs"
+msgstr  "ھەڵبژاردەکانت پاشەکەوت کران"
+
+msgid  "timezonelegend"
+msgstr  "ناوچەکات:"
+
+msgid  "localtime"
+msgstr  "کاتی ناوچەیی:"
+
+msgid  "timezoneuseserverdefault"
+msgstr  "کەڵک وەرگرتن لە بنچینەی ڕاژەکار"
+
+msgid  "timezoneuseoffset"
+msgstr  "دیکە (ناتەواویەکان دیاری بکە)"
+
+msgid  "timezoneoffset"
+msgstr  "جیاوازی¹:"
+
+msgid  "servertime"
+msgstr  "کاتی ڕاژەکار:"
+
+msgid  "guesstimezone"
+msgstr  "لە وێبگەڕەکە بیگرە"
+
+msgid  "timezoneregion-africa"
+msgstr  "ئافریقا"
+
+msgid  "timezoneregion-america"
+msgstr  "ئەمریکا"
+
+msgid  "timezoneregion-antarctica"
+msgstr  "ئانتارکتیکا"
+
+msgid  "timezoneregion-arctic"
+msgstr  "ئارکتیک"
+
+msgid  "timezoneregion-asia"
+msgstr  "ئاسیا"
+
+msgid  "timezoneregion-atlantic"
+msgstr  "ئوقیانووسی ئاتلانتیک"
+
+msgid  "timezoneregion-australia"
+msgstr  "ئۆسترالیا"
+
+msgid  "timezoneregion-europe"
+msgstr  "ئەورووپا"
+
+msgid  "timezoneregion-indian"
+msgstr  "ئوقیانووسی ھیند"
+
+msgid  "timezoneregion-pacific"
+msgstr  "ئوقیانووسی پاسیفیک"
+
+msgid  "allowemail"
+msgstr  "ڕێگە بدە بە بەکارھێنەرانی تر کە ئیمەیلم بۆ بنێرن"
+
+msgid  "prefs-searchoptions"
+msgstr  "ھەڵبژاردەکانی گەڕان"
+
+msgid  "prefs-namespaces"
+msgstr  "بۆشایی‌ناوەکان"
+
+msgid  "defaultns"
+msgstr  "ئەگەرنا لەم بۆشایی‌ناوانەدا بگەڕێ:"
+
+msgid  "default"
+msgstr  "بنچینەیی"
+
+msgid  "prefs-files"
+msgstr  "پەڕگەکان"
+
+msgid  "prefs-custom-css"
+msgstr  "CSSی دڵخواز"
+
+msgid  "prefs-custom-js"
+msgstr  "JSی دڵخواز"
+
+msgid  "prefs-reset-intro"
+msgstr  "دەتوانی لەم لاپەڕە بۆ گەڕانەوەی هەڵبژاردەکانت بۆ بنچینەیی ماڵپەر کەڵک وەرگریت.\nگەر ئەوە بکەی ئیتر گۆڕانەکەت ناگەڕێتەوە."
+
+msgid  "prefs-emailconfirm-label"
+msgstr  "پشتڕاست کردنەوەی ئیمەیل:"
+
+msgid  "prefs-textboxsize"
+msgstr  "قەبارەی پەنجەرەی دەستکاریکردن"
+
+msgid  "youremail"
+msgstr  "ئیمەیل:"
+
+msgid  "username"
+msgstr  "ناوی به‌كارهێنه‌ر:"
+
+msgid  "uid"
+msgstr  "ژمارەی بەکارھێنەر:"
+
+msgid  "prefs-memberingroups"
+msgstr  "ئەندامی {{PLURAL:$1|گرووپی|گرووپەکانی}}:"
+
+msgid  "prefs-registration"
+msgstr  "کاتی خۆتۆمارکردن:"
+
+msgid  "yourrealname"
+msgstr  "ناوی ڕاستی:"
+
+msgid  "yourlanguage"
+msgstr  "زمان"
+
+msgid  "yourvariant"
+msgstr  "شێوەزارە:"
+
+msgid  "yournick"
+msgstr  "نازناو"
+
+msgid  "prefs-help-signature"
+msgstr  "بۆچوونەکان لە لاپەڕەکانی وتووێژدا دەبێ بە \"<nowiki>~~~~</nowiki>\" دیاری بکرێن، کە دواتر خۆکار دەگۆڕێ بە واژۆکەت و مۆری کاتی."
+
+msgid  "badsig"
+msgstr  "ئیمزاكه‌ هه‌ڵه‌یه‌، ته‌ماشای كۆدی HTML بكه‌‌"
+
+msgid  "badsiglength"
+msgstr  "واژۆکەت زۆر درێژە.\nواژۆ نابێ لە $1 {{PLURAL:$1|نووسە|نووسە}} درێژتر بێت."
+
+msgid  "yourgender"
+msgstr  "ڕەگەز:"
+
+msgid  "gender-unknown"
+msgstr  "ئاشکرا نەکراو"
+
+msgid  "gender-male"
+msgstr  "پیاو"
+
+msgid  "gender-female"
+msgstr  "ژن"
+
+msgid  "prefs-help-gender"
+msgstr  "دڵخواز: بۆ بانگ کردنی دروست بە دەستی نەرمامێر.\nئەم زانیارییە گشتی ئەبێ."
+
+msgid  "email"
+msgstr  "ئیمەیل"
+
+msgid  "prefs-help-realname"
+msgstr  "ناوی ڕاستی دڵخوازە.\nئەگەر پێت خۆش بێت بیدەی، زۆرتر ڕاتدەکێشێت بۆ کارەکانت."
+
+msgid  "prefs-help-email"
+msgstr  "دانانی ناونیشانی ئیمەیل دڵخوازانەیە، بەڵام ئەگەر تێپەڕوشەکەت لەیادکرد، بۆ نوێ کردنەوەی ئیمەیل پێویست دەبێت.<br />\nھەروا دەتوانی ھەڵبژێری کە بەکارھێنەرانی دیکە بێ تێگەیشتن لە کەسایەتیت، لە پەڕەی لێدوان پێوەندیت لەگەڵ بگرن."
+
+msgid  "prefs-help-email-required"
+msgstr  "ناونیشانی ئیمەیل پێویستە."
+
+msgid  "prefs-info"
+msgstr  "زانیاریی سەرەتایی"
+
+msgid  "prefs-i18n"
+msgstr  "نێونەتەویی کردن"
+
+msgid  "prefs-signature"
+msgstr  "واژۆ"
+
+msgid  "prefs-dateformat"
+msgstr  "ڕازاندنەوەی ڕێکەوت"
+
+msgid  "prefs-timeoffset"
+msgstr  "قەرەبووکەری کات"
+
+msgid  "prefs-advancedediting"
+msgstr  "ھەڵبژاردەکانی پێشکەوتوو"
+
+msgid  "prefs-advancedrc"
+msgstr  "ھەڵبژاردەکانی پێشکەوتوو"
+
+msgid  "prefs-advancedrendering"
+msgstr  "هەڵبژاردە پێشکەوتووەکان"
+
+msgid  "prefs-advancedsearchoptions"
+msgstr  "هەڵبژاردە پێشکەوتووەکان"
+
+msgid  "prefs-advancedwatchlist"
+msgstr  "هەڵبژاردە پێشکەوتووەکان"
+
+msgid  "prefs-displayrc"
+msgstr  "هەڵبژاردەکانی نیشان‌دان"
+
+msgid  "prefs-diffs"
+msgstr  "جیاوازییەکان"
+
+msgid  "userrights"
+msgstr  "بەڕێوەبردنی مافەکانی بەکارهێنەران"
+
+msgid  "userrights-lookup-user"
+msgstr  "بەڕێوەبردنی گرووپەکانی بەکارهێنەران"
+
+msgid  "userrights-user-editname"
+msgstr  "ناوی بەکارهێنەرێک بنووسە:"
+
+msgid  "editusergroup"
+msgstr  "گرووپەکانی بەکارهێنەر بگۆڕە"
+
+msgid  "editinguser"
+msgstr  "گۆڕینی مافەکانی بەکارهێنەر بۆ '''[[User:$1|$1]]''' ([[User talk:$1|{{int:talkpagelinktext}}]]{{int:pipe-separator}}[[Special:Contributions/$1|{{int:contribslink}}]])"
+
+msgid  "userrights-editusergroup"
+msgstr  "دەستکاری کردنی گرووپەکانی بەکارهێنەران"
+
+msgid  "saveusergroups"
+msgstr  "گرووپی بەکارهێنەران پاشەکەوت بکە"
+
+msgid  "userrights-groupsmember"
+msgstr  "ئەندامە لە:"
+
+msgid  "userrights-groups-help"
+msgstr  "دەتوانی ئەو گرووپانەی ئەم بەکار‌هێنەرە تێیدایە بگۆڕیت:\n* چوارچێوەی نیشان‌کراو مانای ئەوەیە لەو گرووپەدا هەیە.\n* چوارچێوەی نیشان‌نەکراو مانای ئەوەیە لەو گرووپەدا نیە.\n* A * پێت‌دەڵێ ناتوانی ئەو گرووپی جارێکی دی زیادت کردووە لای‌بەری."
+
+msgid  "userrights-reason"
+msgstr  "هۆکار:"
+
+msgid  "userrights-no-interwiki"
+msgstr  "دەسەڵاتی گۆڕینی مافەکانی بەکارهێنەر لە ویکی‌یەکانی دیکەت نیە."
+
+msgid  "userrights-nodatabase"
+msgstr  "بنکەدراوی $1 بوونی نیە یا لەم شوێنە نیە."
+
+msgid  "userrights-nologin"
+msgstr  "بۆ دانانی مافەکانی بەکارهێنەر دەبێ بە هەژماری بەڕێوبەری [[Special:UserLogin|بچیتە ژووروە]]."
+
+msgid  "userrights-notallowed"
+msgstr  "هەژمارەکەی تۆ دەسەڵاتی دانانی مافەکانی بەکارهێنەری نیە."
+
+msgid  "userrights-changeable-col"
+msgstr  "ئەو گرووپانە بۆت ئەگۆڕدرێن"
+
+msgid  "userrights-unchangeable-col"
+msgstr  "ئەو گرووپانە بۆت ناگۆڕدرێن"
+
+msgid  "group"
+msgstr  "گرووپ:"
+
+msgid  "group-user"
+msgstr  "بەکارهێنەران"
+
+msgid  "group-autoconfirmed"
+msgstr  "بەکارھێنەرە خۆکار پەسندکراوەکان"
+
+msgid  "group-bot"
+msgstr  "بۆتەکان"
+
+msgid  "group-sysop"
+msgstr  "بەڕێوبەران"
+
+msgid  "group-bureaucrat"
+msgstr  "بورووکراتەکان"
+
+msgid  "group-suppress"
+msgstr  "چاودێرەکان"
+
+msgid  "group-all"
+msgstr  "(هەموو)"
+
+msgid  "group-user-member"
+msgstr  "بەکارھێنەر"
+
+msgid  "group-autoconfirmed-member"
+msgstr  "بەکارھێنەری خۆکار پەسەندکراو"
+
+msgid  "group-bot-member"
+msgstr  "بۆت"
+
+msgid  "group-sysop-member"
+msgstr  "بەڕێوەبەر"
+
+msgid  "group-bureaucrat-member"
+msgstr  "بورووکرات"
+
+msgid  "group-suppress-member"
+msgstr  "چاودێر"
+
+msgid  "grouppage-user"
+msgstr  "{{ns:project}}:بەکارھێنەران"
+
+msgid  "grouppage-autoconfirmed"
+msgstr  "{{ns:project}}:بەکارهێنەرانی خۆکار-بڕواکراو"
+
+msgid  "grouppage-bot"
+msgstr  "{{ns:project}}:بۆتەکان"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:بەڕێوبەران"
+
+msgid  "grouppage-bureaucrat"
+msgstr  "{{ns:project}}:بورووکراتەکان"
+
+msgid  "grouppage-suppress"
+msgstr  "{{ns:project}}:چاودێر"
+
+msgid  "right-read"
+msgstr  "خوێندنەوەی پەڕەکان"
+
+msgid  "right-edit"
+msgstr  "دەستکاری کردنی پەڕەکان"
+
+msgid  "right-createpage"
+msgstr  "دروست کردنی پەڕەکان (کە پەڕەی لێدوان نین)"
+
+msgid  "right-createtalk"
+msgstr  "دروست کردنی پەڕەکانی لێدوان"
+
+msgid  "right-createaccount"
+msgstr  "دروست کردنی ھەژماری بەکارھێنەریی نوێ"
+
+msgid  "right-minoredit"
+msgstr  "بچووک دیاری کردنی گۆڕانکارییەکان"
+
+msgid  "right-move"
+msgstr  "گواستنەوەی پەڕەکان"
+
+msgid  "right-move-subpages"
+msgstr  "گواستنەوەی لاپەڕەکان دەگەڵ ژێرلاپەڕەکانی"
+
+msgid  "right-move-rootuserpages"
+msgstr  "گواستنەوەی بنەرەتی لاپەڕەکانی بەکارهێنەر"
+
+msgid  "right-movefile"
+msgstr  "گواستنەوەی پەڕگەکان"
+
+msgid  "right-suppressredirect"
+msgstr  "درووست‌ نەکردنی رەوانەکەر لە لاپەڕەی سەرچاوە کاتی گواستنەوەی لاپەڕەکان"
+
+msgid  "right-upload"
+msgstr  "بارکردنی پەڕگەکان"
+
+msgid  "right-reupload"
+msgstr  "سەرنووسینی ئەو پەڕگانەی وا هەن"
+
+msgid  "right-reupload-own"
+msgstr  "سەرنووسینی ئەو پەڕگانەی وا هەن کاتێ کەسێ خۆی باریان دەکات"
+
+msgid  "right-reupload-shared"
+msgstr  "بەتاڵ‌کردنەوەی پەڕگە لە سەر میدیا هاوبەشە ناوخۆکان"
+
+msgid  "right-upload_by_url"
+msgstr  "بارکردنی پەرگە لە ئەدرەسێکی سەر تۆڕەوە"
+
+msgid  "right-purge"
+msgstr  "خاڵی‌کردنی کاشی وێبگە بۆ لاپەڕەیەک بێ بڕواپێ‌کران"
+
+msgid  "right-autoconfirmed"
+msgstr  "دەستکاری لاپەڕەکانی‌ نیوەپارێزراو"
+
+msgid  "right-bot"
+msgstr  "هەڵسوکەوت لەگەڵ‌کران وەک پرۆسەیەکی خۆکار"
+
+msgid  "right-nominornewtalk"
+msgstr  "دەستکاری بچووکی لاپەڕەی وتووێژ بەو شێوەی نەبێتە هۆی درووست‌بوونی پەیامی نوێ"
+
+msgid  "right-apihighlimits"
+msgstr  "خستنە‌کاری سنووری زیاتر بۆ داخوازیەکانی API"
+
+msgid  "right-writeapi"
+msgstr  "کەڵک وەر گرتن لە نووسینی API"
+
+msgid  "right-delete"
+msgstr  "سڕینەوەی پەڕەکان"
+
+msgid  "right-bigdelete"
+msgstr  "سڕینەوە و هاوردنەوەی پێداچوونەوەیکی تایبەتی لاپەڕەکان"
+
+msgid  "right-deleterevision"
+msgstr  "سڕینەوە و هاوردنەوەی پێداچوونەوەیکی تایبەتی لاپەڕەکان"
+
+msgid  "right-deletedhistory"
+msgstr  "دیتنی دراوە سڕاوەکانی مێژوو بێ دەقە هەڵواسراوەکانی"
+
+msgid  "right-browsearchive"
+msgstr  "گەڕانی ناو لاپەڕە سڕاوەکان"
+
+msgid  "right-undelete"
+msgstr  "هاوەردنەوەی لاپەڕەیەک"
+
+msgid  "right-suppressrevision"
+msgstr  "چاوپێداخشان و هاردنوەی ئەو لاپەڕانەی لە بەڕێوبەران داشاردرابوو."
+
+msgid  "right-suppressionlog"
+msgstr  "دیتنی لۆگە ئەهلیەکان"
+
+msgid  "right-block"
+msgstr  "بەربەستنی بەکارھێنەرانی تر لە دەستکاری کردن"
+
+msgid  "right-blockemail"
+msgstr  "بەرگری‌کردنی بەکارهێنەرێک لە ناردنی ئی‌مەیل"
+
+msgid  "right-hideuser"
+msgstr  "بەربەست‌کردنی ناوێکی بەکارهێنەری، داشاردنی لە بەرچاوی هەموان"
+
+msgid  "right-ipblock-exempt"
+msgstr  "لادان لە بەرگریەکانی ئای‌پی، بەرگریە خۆکارەکان و بەرگریە ڕیزەکان"
+
+msgid  "right-proxyunbannable"
+msgstr  "لادان لە بەرگری خۆکاری پرۆکسیەکان"
+
+msgid  "right-protect"
+msgstr  "گۆڕانی ئاستی پارێزراوی و دەستکاری لاپەڕە پارێزراوەکان"
+
+msgid  "right-editprotected"
+msgstr  "دەستکاری لاپەڕە پارێزراوەکان (بێ پاراستنی زنجیری)"
+
+msgid  "right-editinterface"
+msgstr  "گۆڕانی ڕووکاری بەکارهێنەر"
+
+msgid  "right-editusercssjs"
+msgstr  "دەستکاری پەڕگەکانی CSS و JSـی بەکارهێنەرانی دیکە"
+
+msgid  "right-editusercss"
+msgstr  "گۆڕانی پەڕگەکانی CSSـی دیکەی بەکارهێنەر"
+
+msgid  "right-edituserjs"
+msgstr  "گۆڕانی پەڕگەکانی JSـی دیکەی بەکارهێنەر"
+
+msgid  "right-rollback"
+msgstr  "بەخێرایی گەڕانەوەی دەستکاریەکانی دوایین بەکارهێنەر کە لاپەڕەیەکی تایبەتی دەستکاری کردە"
+
+msgid  "right-markbotedits"
+msgstr  "نیشان‌کردنی دەستکاریە گەڕێنراوەکان وەک دەستکاریەکانی بۆت (bot)"
+
+msgid  "right-noratelimit"
+msgstr  "کاریگەری وەرنەگرتن لە سنوورەکانی ئاست"
+
+msgid  "right-import"
+msgstr  "هێنانەناوەی لاپەڕە لە ویکی‌یەکانی دیکە"
+
+msgid  "right-importupload"
+msgstr  "هێنانەناوەی لاپەڕە لە پەڕگەیەکی بارکراو"
+
+msgid  "right-patrol"
+msgstr  "لەژێرچاودێری نیشان‌کردنی دەستکاریەکانی کەسانی‌تر"
+
+msgid  "right-autopatrol"
+msgstr  "خۆکار لەژێرچاودێری نیشان‌کردنی دەستکاریەکانی کەسێک بۆخۆی"
+
+msgid  "right-patrolmarks"
+msgstr  "دیتنی دوایین دەستکاریەکان وا لەژێرچاودێری نیشان‌کراون"
+
+msgid  "right-unwatchedpages"
+msgstr  "دیتنی لیستێک لەو لاپەڕانەی چاودێری ناکرێن"
+
+msgid  "right-trackback"
+msgstr  "ناردنی ڕێچکەیەک"
+
+msgid  "right-mergehistory"
+msgstr  "سەریەک‌خستنی میژووی لاپەڕەکان"
+
+msgid  "right-userrights"
+msgstr  "دەستکاری مافەکانی هەموو بەکارهێنەران"
+
+msgid  "right-userrights-interwiki"
+msgstr  "دەستکاری مافەکانی بەکارهێنەریی بەکارهێنەران لە ویکی‌یەکانی دیکە‌دا"
+
+msgid  "right-siteadmin"
+msgstr  "داخستن و کردنەوەی بنکەدراو"
+
+msgid  "right-reset-passwords"
+msgstr  "ڕیکخستنەوەی تێپەڕوشەی بەکارهێنەرانی دیکە"
+
+msgid  "right-override-export-depth"
+msgstr  "هەناردنی لاپەڕەکان کە لاپەڕەکانی بەستەر پێ‌دراو تا قووڵایی 5 لەخۆ بگرێت"
+
+msgid  "rightslog"
+msgstr  "لۆگی مافەکانی بەکارھێنەر"
+
+msgid  "rightslogtext"
+msgstr  "ئەمە لۆگی دەستکاری مافەکانی بەکار‌هێنەرە."
+
+msgid  "rightslogentry"
+msgstr  "بۆ $1 ئەندامەتی گرووپی $2 گۆڕدرا بۆ $3"
+
+msgid  "rightsnone"
+msgstr  "(ھیچ)"
+
+msgid  "action-read"
+msgstr  "خوێندنەوەی ئەم پەڕە"
+
+msgid  "action-edit"
+msgstr  "دەستکاریی ئەم پەڕە"
+
+msgid  "action-createpage"
+msgstr  "درووست‌کردنی لاپەڕە"
+
+msgid  "action-createtalk"
+msgstr  "درووست‌کردنی لەپەڕەکانی وتووێژ"
+
+msgid  "action-createaccount"
+msgstr  "درووست‌کردنی هەژمارەی ئەم بەکارهێنەرە"
+
+msgid  "action-minoredit"
+msgstr  "نیشان‌کردنی ئەم دەستکاریە وەک بچووک"
+
+msgid  "action-move"
+msgstr  "گواستنەوەی ئەم پەڕە"
+
+msgid  "action-move-subpages"
+msgstr  "گواستنەوەی ئەم لاپەڕە و ژێرلاپەڕەکانی"
+
+msgid  "action-move-rootuserpages"
+msgstr  "گواستنەوەی بنەرەتی لاپەڕەکانی بەکارهێنەر"
+
+msgid  "action-movefile"
+msgstr  "ئەم پەڕگەیە بگوازەوە"
+
+msgid  "action-upload"
+msgstr  "ئەم پەڕەیە بار بکە"
+
+msgid  "action-reupload"
+msgstr  "سەرنووسینی ئەم پەڕگە وا هەیە"
+
+msgid  "action-reupload-shared"
+msgstr  "بەتاڵ‌کردنی ئەم پەڕگە لە‌سەر شوێنێکی هاوبەش"
+
+msgid  "action-upload_by_url"
+msgstr  "بارکردنی ئەم پەرگە لە ئەدرەسێکی سەر تۆڕەوە"
+
+msgid  "action-writeapi"
+msgstr  "کەڵک وەر گرتن لە نووسینی API"
+
+msgid  "action-delete"
+msgstr  "ئەم پەڕەیە بسڕەوە"
+
+msgid  "action-deleterevision"
+msgstr  "سڕینی ئەم پێداچوونەوە"
+
+msgid  "action-deletedhistory"
+msgstr  "دیتنی مێژووی سڕاوەی ئەم لاپەڕە"
+
+msgid  "action-browsearchive"
+msgstr  "گەران لە نێو لاپەڕە سڕاوەکان"
+
+msgid  "action-undelete"
+msgstr  "گەڕانەوەی ئەم لاپەڕە"
+
+msgid  "action-suppressrevision"
+msgstr  "چاوپێداخشان و هاردنوەی ئەم لاپەڕە شاراوە"
+
+msgid  "action-suppressionlog"
+msgstr  "دیتنی ئەم لۆگە ئەهلیە"
+
+msgid  "action-block"
+msgstr  "بەربەست کردنی ئەم بەکارهێنەرە بۆ دەستکاری‌کردن"
+
+msgid  "action-protect"
+msgstr  "گۆڕانی ئاستی پارێزراوی بۆ ئەم لاپەڕە"
+
+msgid  "action-import"
+msgstr  "هێنانەناوەی ئەم لاپەڕە لە ویکی‌یەکی دیکە"
+
+msgid  "action-importupload"
+msgstr  "هێنانەناوەی ئەم لاپەڕە لە پەڕگەیەکی بارکراو"
+
+msgid  "action-patrol"
+msgstr  "لەژێرچاودێری نیشان‌کردنی دەستکاریەکانی کەسانی‌تر"
+
+msgid  "action-autopatrol"
+msgstr  "دەستکاریەکانت وەک لەژێرچاودێری نیشان کراون"
+
+msgid  "action-unwatchedpages"
+msgstr  "دیتنی لیستێک لەو لاپەڕانەی چاودێری ناکرێن"
+
+msgid  "action-trackback"
+msgstr  "ناردنی ڕێچکەیەک"
+
+msgid  "action-mergehistory"
+msgstr  "سەریەک‌خستنی میژووی ئەم لاپەڕە"
+
+msgid  "action-userrights"
+msgstr  "دەستکاری مافەکانی هەموو بەکارهێنەران"
+
+msgid  "action-userrights-interwiki"
+msgstr  "دەستکاری مافەکانی بەکارهێنەریی بەکارهێنەران لە ویکی‌یەکانی دیکە‌دا"
+
+msgid  "action-siteadmin"
+msgstr  "داخستن یا کردنەوەی بنکەدراو"
+
+msgid  "nchanges"
+msgstr  "$1 {{PLURAL:$1|گۆڕانکاری|گۆڕانکاری}}"
+
+msgid  "recentchanges"
+msgstr  "دوایین گۆڕانکارییەکان"
+
+msgid  "recentchanges-legend"
+msgstr  "ھەڵبژاردەکانی دوایین گۆڕانکارییەکان"
+
+msgid  "recentchangestext"
+msgstr  "دواکەوتنی دوایین گۆڕانکارییەکان لەسەر ویکی لەم لاپەڕەدا."
+
+msgid  "recentchanges-feed-description"
+msgstr  "دوای دوایین گۆڕانکارییەکانی ئەم ویکیە بکەوە لەم «فید»ەوە."
+
+msgid  "recentchanges-label-newpage"
+msgstr  "ئەم دەستکاریە لاپەڕەیەکی نوێی درووست‌کرد"
+
+msgid  "recentchanges-label-minor"
+msgstr  "ئەمە دەستکاریەکی بچووکە"
+
+msgid  "recentchanges-label-bot"
+msgstr  "ئەم دەستکاریە لە لایەن بۆتەوە پێک هاتووە"
+
+msgid  "recentchanges-label-unpatrolled"
+msgstr  "ئەم دەستکاریە هێشتا نەڕۆشتەتە ژێر چاودێری"
+
+msgid  "rcnote"
+msgstr  "لە خوارەوەدا {{PLURAL:$1|'''۱''' گۆڕانکاری |دوایین '''$1''' گۆڕانکارییەکان}} لە دوایین {{PLURAL:$2|ڕۆژ|'''$2''' ڕۆژەوە}} ، تا $5، $4 دەبینن."
+
+msgid  "rcnotefrom"
+msgstr  "ئەوی‌ خوارەوە گۆڕانکارییەکانە لە '''$2'''ەوە (ھەتا '''$1''' نیشاندراو)."
+
+msgid  "rclistfrom"
+msgstr  "گۆڕانکارییە نوێکان نیشان بدە بە دەستپێکردن لە $1"
+
+msgid  "rcshowhideminor"
+msgstr  "دەستکارییە بچووکەکان $1"
+
+msgid  "rcshowhidebots"
+msgstr  "بۆتەکان $1"
+
+msgid  "rcshowhideliu"
+msgstr  "بەکارھێنەرە تۆمارکراوەکان $1"
+
+msgid  "rcshowhideanons"
+msgstr  "بەکارھێنەرە نەناسراوەکان $1"
+
+msgid  "rcshowhidepatr"
+msgstr  "گۆرانکارییە کۆنترۆڵکراوەکان $1"
+
+msgid  "rcshowhidemine"
+msgstr  "دەستکارییەکانی من $1"
+
+msgid  "rclinks"
+msgstr  "دوایین $1 گۆڕانکاریی $2 ڕۆژی ڕابردوو نیشانبدە<br />$3"
+
+msgid  "diff"
+msgstr  "جیاوازی"
+
+msgid  "hist"
+msgstr  "مێژوو"
+
+msgid  "hide"
+msgstr  "بشارەوە"
+
+msgid  "show"
+msgstr  "نیشانبدە"
+
+msgid  "minoreditletter"
+msgstr  "ب"
+
+msgid  "newpageletter"
+msgstr  "ن"
+
+msgid  "boteditletter"
+msgstr  ".بۆت"
+
+msgid  "number_of_watching_users_pageview"
+msgstr  "[$1 چاودێر لەسەر {{PLURAL:$1|بەکارهێنەر|بەکارهێنەر}}]"
+
+msgid  "rc_categories"
+msgstr  "بەرتەسک‌کردنەوە بە هاوپۆلەکان (به \"|\" جودای بکەوە‌)"
+
+msgid  "rc_categories_any"
+msgstr  "هەرکام"
+
+msgid  "newsectionsummary"
+msgstr  "/* $1 */ بەشی نوێ"
+
+msgid  "rc-enhanced-expand"
+msgstr  "وردەکارییەکان پیشان بدە (پێویستی بە جاڤاسکریپتە)"
+
+msgid  "rc-enhanced-hide"
+msgstr  "وردەکارییەکان بشارەوە"
+
+msgid  "recentchangeslinked"
+msgstr  "گۆڕانکارییە پەیوەندیدارەکان"
+
+msgid  "recentchangeslinked-feed"
+msgstr  "گۆڕانکارییە پەیوەندیدارەکان"
+
+msgid  "recentchangeslinked-toolbox"
+msgstr  "گۆڕانکارییە پەیوەندیدارەکان"
+
+msgid  "recentchangeslinked-title"
+msgstr  "گۆڕانکارییە پەیوەندیدارەکان بە \"$1\" ـەوە"
+
+msgid  "recentchangeslinked-noresult"
+msgstr  "هیچ گۆڕانکارییەک لە لاپەڕەکانی بەستەر پێ‌دراو، لە درێژەی ماوەی دراوە."
+
+msgid  "recentchangeslinked-summary"
+msgstr  "ئەمە لیستێکی گۆڕانکارییەکانی ئەم دوایییانەی ئەو پەڕانەیە کە بەستەریان ھەیە لە پەڕەیەکی دیاریکراو (یان بۆ ئەندامەکانی پۆلێکی دیاریکراو)\nپەڕەکانی [[Special:Watchlist|لیستی چاودێرییەکەت]] '''ئەستوورن'''."
+
+msgid  "recentchangeslinked-page"
+msgstr  "ناوی پەڕە:"
+
+msgid  "recentchangeslinked-to"
+msgstr  "بەجێگەی ئەوە گۆڕانکارییەکانی ئەو پەڕانە نیشانبدە کە بەستەریان ھەیە بۆ پەڕەی دیاریکراو"
+
+msgid  "upload"
+msgstr  "پەڕگەیەک بار بکە"
+
+msgid  "uploadbtn"
+msgstr  "پەڕگە بار بکە"
+
+msgid  "reuploaddesc"
+msgstr  "هەڵوەشانەوەی بارکردن و گەڕانەوە بۆ فۆرمی بارکردن"
+
+msgid  "upload-tryagain"
+msgstr  "پێناسەی گۆڕدراوی پەڕگە بنێرە"
+
+msgid  "uploadnologin"
+msgstr  "لەژوورەوە نیت"
+
+msgid  "uploadnologintext"
+msgstr  "بۆ بارکردنی پەڕگەکان ئەشێ [[Special:UserLogin|لە ژوورەوە بیت]]."
+
+msgid  "upload_directory_missing"
+msgstr  "لقی بارکردن ($1) ون بووە و ڕاژەکاری‌وێب بۆی درووست ناکرێت."
+
+msgid  "upload_directory_read_only"
+msgstr  "ڕاژەکاری‌وێب دەسەڵاتی نووسینی سەر لقی بارکردنی ($1) نیە."
+
+msgid  "uploaderror"
+msgstr  "ھەڵە لە بارکردن دا"
+
+msgid  "upload-recreate-warning"
+msgstr  "'''ھۆشیار بە: پەرگەیەک بەو ناوەوە سڕاوەتەوە یان گوێزاوەتەوە.'''\n\nلۆگی سڕینەوە یان گواستنەوەی ئەم پەڕە لێرە لەبەردەستدایە:"
+
+msgid  "uploadtext"
+msgstr  "فۆرمی خوارەوە بەکاربێنە بۆ بارکردنی پەڕگەکان.\nبۆ بینینی و گەڕان لەو پەڕگانەی پێشتر بار کراون، بڕۆ بۆ [[Special:FileList|لیستی پەڕگە بارکراوەکان]]، ھەروەھا [[Special:Log/upload|ڕەشنووسی بارکردنەکان]] و [[Special:Log/delete|ڕەشنووسی سڕینەوەکان]].\n\nبۆ بەکارھێنانی پەڕگەیەک لە پەڕەیەکدا، بەستەرێک بە یەکێک لەم شێوازانەی خوارەوە بە کار بێنە:\n* '''<tt><nowiki>[[</nowiki>{{ns:file}}<nowiki>:File.jpg]]</nowiki></tt>''' بۆ بەکارهێنانی وەشانی تەواوی پەڕگە\n* '''<tt><nowiki>[[</nowiki>{{ns:file}}<nowiki>:File.png|200px|thumb|left|دەقی جێگر]]</nowiki></tt>''' بۆ بەکارهێنانی نمایشێکی بە پانتایی ٢٠٠ پیکسەڵ لە چوارچێوەیەک لە لای چەپەوە بە «دەقی جێگر» وەک شرۆڤە\n* '''<tt><nowiki>[[</nowiki>{{ns:media}}<nowiki>:File.ogg]]</nowiki></tt>''' بۆ بەستەرپێدان بە پەڕگەکە بێ نیشاندانی خودی پەڕگەکە"
+
+msgid  "upload-permitted"
+msgstr  "جۆرە پەڕگە ڕێگەپێدراوەکان: $1."
+
+msgid  "upload-preferred"
+msgstr  "جۆرە پەڕگانەی بە باشتر دەزانرێن: $1."
+
+msgid  "upload-prohibited"
+msgstr  "جۆرە پەڕگانەی قەدەغە کراون: $1."
+
+msgid  "uploadlog"
+msgstr  "لۆگی بارکردن"
+
+msgid  "uploadlogpage"
+msgstr  "لۆگی بارکردن"
+
+msgid  "uploadlogpagetext"
+msgstr  "لەخوارەوە لیستی دوایین بارکراوەکان دەبینی.\nبۆ ئەوەی چاوێکیان لێ بکەی، [[Special:NewFiles|گالەری پەڕگە نوێکان]] ببینە."
+
+msgid  "filename"
+msgstr  "ناوی پەڕگە"
+
+msgid  "filedesc"
+msgstr  "پوختە"
+
+msgid  "fileuploadsummary"
+msgstr  "پوختە:"
+
+msgid  "filereuploadsummary"
+msgstr  "گۆرانکارییەکانی پەڕگە:"
+
+msgid  "filestatus"
+msgstr  "بارودۆخی مافی لەبەرگرتنەوە:"
+
+msgid  "filesource"
+msgstr  "سەرچاوە:"
+
+msgid  "uploadedfiles"
+msgstr  "پەڕگە بارکراوەکان"
+
+msgid  "ignorewarning"
+msgstr  "چاوپۆشان لە ئاگادارییەکان و پاشەکەوت کردن بە هەر شێوەیەک"
+
+msgid  "ignorewarnings"
+msgstr  "گوێ مەدە بە ئاگادارییەکان"
+
+msgid  "minlength1"
+msgstr  "ناوی پەڕگەکان دەبێ لانیکەم یەک پیت ببێت."
+
+msgid  "illegalfilename"
+msgstr  "ناوی‌پەڕگەی \"$1\" پیتێکی تێدایە کە ڕێگەنەدراوە بۆ سەردێڕی لاپەڕە بەکاربێت.\nتکایە ناوی پەڕگەکە بگۆڕە و دیسان باری بکەوە."
+
+msgid  "badfilename"
+msgstr  "ناوی پەڕگە بە \"$1\" گۆڕا ."
+
+msgid  "filetype-badmime"
+msgstr  "ڕێگە نەدراوە پەڕگەی \"$1\" جۆری MIME بار بکرێت."
+
+msgid  "filetype-bad-ie-mime"
+msgstr  "ناتوانین ئەم پەڕگە باربکەین لەبەر ئەوەی وێبگەڕی Internet Explore ئەوە وەک \"$1\" دەناسێت کە ڕێگەنەدراوەیە و جۆرە پەڕگەیەکی مەترسی‌دارە."
+
+msgid  "filetype-unwanted-type"
+msgstr  "'''\".$1\"''' جۆرە پەڕگەی نەخوازراوە.\n$2، ئەو جۆرە {{PLURAL:$3|پەڕگەیە|پەڕگانەیە}} وا بە باش‌ دازاندرێت."
+
+msgid  "filetype-banned-type"
+msgstr  "'''\".$1\"''' جۆرە پەڕگەی ڕێگە پێ‌نەدراوە‌.\n$2، ئەو جۆرە {{PLURAL:$3|پەڕگەیە|پەڕگانەیە}} وا ڕێگە دراوە."
+
+msgid  "filetype-missing"
+msgstr  "پەڕگەکە پاشگری نییە (وەک \".jpg\")."
+
+msgid  "empty-file"
+msgstr  "ئەو پەڕگەیە کە ناردووتە ڤاڵا بوو."
+
+msgid  "file-too-large"
+msgstr  "ئەو پەڕگەیە ناردووتە زۆر گەورەیە."
+
+msgid  "filename-tooshort"
+msgstr  "ناوی پەڕگە زۆر کورتە."
+
+msgid  "filetype-banned"
+msgstr  "ئەم جۆرە پەڕگەیە قەدەغەیە."
+
+msgid  "large-file"
+msgstr  "پێشنیار دەکرێت قەبارەی پەڕگەکان زیاتر لە $1 نەبێت؛\nقەبارەی ئەم پەڕگە $2."
+
+msgid  "largefileserver"
+msgstr  "ئەم پەڕگە گەورەتر لەوەیە کە ڕاژەکار ڕێگەدەدات."
+
+msgid  "emptyfile"
+msgstr  "ئەو پەڕگەی بارت‌کرد لەوەدەچێ بەتاڵ و خاڵی بێت.\nشایەد ئەوە جۆرە هەڵەیەک لە ناوی لاپەڕەکە بێت.\nگەر بە ڕاستی دەتەوێ ئەو پەڕگە باربکەی جارێکی‌کە چاوی لێ‌بکەوە."
+
+msgid  "fileexists"
+msgstr  "پەڕگەیەک هەر بەو ناوە‌ لە پێش‌دا هەیە، تکایە گەر ئەرخەیان نیت بۆ گۆڕینی، چاوێک لە '''<tt>[[:$1]]</tt>''' بکە.\n[[$1|thumb]]"
+
+msgid  "filepageexists"
+msgstr  "پەڕەی ناساندن بۆ ئەم پەڕگە پێشتر لە '''<tt>[[:$1]]</tt>''' درووستکراوە، بەڵام پەڕگەیەک بەو ناوەوە ئێستا نادۆزرێتەوە.\nئەو پوختەی کە نووسیوتە لە پەڕەی ناساندن بەرچاو ناکەوێت.\nگەر دەتەوێ پوختەکەت بەرچاو کەوێت دەبێ خۆت دەستی دەستکاری بکەی.\n[[$1|thumb]]"
+
+msgid  "fileexists-extension"
+msgstr  "پەڕگەیەک هەر بەو ناوە هەیە: [[$2|thumb]]\n* ناوی ئەو پەڕگەی باری ئەکەی:'''<tt>[[:$1]]</tt>'''\n* ناوی ئەو پەڕگەی ئێستا هەیە:'''<tt>[[:$2]]</tt>'''\nتکایە ناوێکی دیکە هەڵبژێرە."
+
+msgid  "fileexists-thumbnail-yes"
+msgstr  "لەوە دەچێ ئەم پەڕگە وێنەیەکی بچووک‌کراوە بێت ''(هێما)''. [[$1|thumb]]\nتکایە چاو لە پەڕگەی '''<tt>[[:$1]]</tt>''' بکه.‌\nگەر ئەوەی چاوت لێ‌کرد قەبارەی ڕەسەنی هەر ئەو وێنەیە، پێویست ناکات دیسان هێماکەی باربکەی."
+
+msgid  "file-thumbnail-no"
+msgstr  "دەستپێکی ناوی ئەم پەڕگە ئەوەیە: '''<tt>$1</tt>'''\nلەوە دەچێ ئەم پەڕگە وێنەیەکی بچووک‌کراوە بێت ''(هێما)''.\nگەر ئەو وێنەت لە قەبارەی ڕەسەنی‌ خۆی‌دا هەیه،‌ تکایە ئەوە بار بکه،‌ دەنا ناوی پەڕگەکە بگۆڕە."
+
+msgid  "fileexists-forbidden"
+msgstr  "پەڕگەیەک بەو ناوە لە پێش‌دا هەیە و سەرنووسین ناکرێت.\nگەر هێشتا دەتەوێ پەڕگەکەت باربکەی، تکایە بگەڕێ دواوە و ناوێکی نوێ بەکاربهێنە.\n[[File:$1|thumb|center|$1]]"
+
+msgid  "fileexists-shared-forbidden"
+msgstr  "پەڕگەیەک بەو ناوە لە پێش‌دا لە شوێنی پەڕگە هاوبەشەکان هەیه.\nگەر هێشتا دەتەوێ پەڕگەکەت باربکەی، تکایە بگەڕێ دواوە و ناوێکی نوێ بەکاربهێنە.\n[[File:$1|thumb|center|$1]]"
+
+msgid  "file-exists-duplicate"
+msgstr  "ئەم پەڕگەیە لێ‌گرتنەوەی ئەم {{PLURAL:$1|پەڕگەیە|پەڕگانەیە}}:"
+
+msgid  "file-deleted-duplicate"
+msgstr  "ئەم پەڕگەیە ڕێک وەک ئەم پەڕگە ([[:$1]]) دەچێت کە لەم دواییانەدا سڕاوەتەوە.\nپێش دەست‌پێ‌کردنی دیسان بارکردنەوەی، تکایە چاو لە مێژووی سڕینەوەی ئەو پەڕگە بکە."
+
+msgid  "uploadwarning"
+msgstr  "ئاگادارییەکانی بارکردن"
+
+msgid  "savefile"
+msgstr  "پەڕگە پاشەکەوت بکە"
+
+msgid  "uploadedimage"
+msgstr  "«[[$1]]»ی بارکرد"
+
+msgid  "overwroteimage"
+msgstr  "وەشانێکی نوێی «[[$1]]» بار کرد"
+
+msgid  "uploaddisabled"
+msgstr  "بارکردن قەدەخە کراوە"
+
+msgid  "uploaddisabledtext"
+msgstr  "بارکردنی پەڕگەکان لە کار خستراوە."
+
+msgid  "php-uploaddisabledtext"
+msgstr  "بارکردنی پەڕگەکان لە PHPدا لە کار خستراوە.\nتکایە چاو لە هەڵبژاردەکانی بارکردنی_پەڕگەکان بکە."
+
+msgid  "uploadscripted"
+msgstr  "ئەم پەڕگە HTML یان کۆدی سکریپتی لەخۆگرتووە کە لەوانەیە ببێتە هۆی هەڵە تێگەیشتنی هێندێ وێبگەڕەکان."
+
+msgid  "uploadvirus"
+msgstr  "ئەم پەڕگە ڤایرۆسی هەیە! وردەکاری: $1"
+
+msgid  "upload-source"
+msgstr  "پەڕگەی سەرچاوە"
+
+msgid  "sourcefilename"
+msgstr  "ناوی پەڕگەی سەرچاوە:"
+
+msgid  "destfilename"
+msgstr  "ناوی مەبەست:"
+
+msgid  "upload-maxfilesize"
+msgstr  "ئەو پەری قەبارەی فایل: $1"
+
+msgid  "upload-description"
+msgstr  "پێناسەی پەڕگە"
+
+msgid  "upload-options"
+msgstr  "ھەڵبژاردەکانی  بارکردن"
+
+msgid  "watchthisupload"
+msgstr  "چاودێریی ئەم پەڕگە بکە"
+
+msgid  "filewasdeleted"
+msgstr  "پەڕگەیەک بەم ناوە لەم دواییانەدا بارکرا و بە خێرایی سڕایەوە.\nباشتر وایە پێش هەوڵی دووبارە بۆ بارکردن سەرنجی $1 بدەی."
+
+msgid  "upload-wasdeleted"
+msgstr  "'''ئاگاداری: خەریکی پەڕگەیەک باردەکەی کە لەم دواییانەدا سڕاوەتەوە.'''\n\nپێش بارکردن ئەرخەیان ببە کە بارکردنی ئەو پەڕگە بەسوودە.\nلۆگی سڕینەوەی ئەم پەڕگە بۆ ئاسوودەیی لێرە دانراوە:"
+
+msgid  "filename-bad-prefix"
+msgstr  "دەستپێکی ناوی ئەو پەڕگەی باری دەکەی '''\"$1\"'''، کە ناوێکی ناسێنەر نیە؛ ئەو جۆرە ناوە زۆربەی کات کامێرا دیجیتاڵەکان خۆکار بەکاری‌دەبەن.\nتکایە ناوێک هەڵبژێرە کە زانیاریی زیاتر بدات سەبارەت بە پەڕگەکەت."
+
+msgid  "upload-success-subj"
+msgstr  "بارکردنی سەرکەوتوو"
+
+msgid  "upload-success-msg"
+msgstr  "بارکردنی [$2] سەرکەوتووانە جێبەجێکرا. لێرە لەبەردەستدایە: [[:{{ns:file}}:$1]]"
+
+msgid  "upload-failure-subj"
+msgstr  "کێشەی بارکردن"
+
+msgid  "upload-failure-msg"
+msgstr  "کێشەیەک لەگەڵ بارکردنی [$2]دا ھەبوو:\n\n$1"
+
+msgid  "upload-proto-error"
+msgstr  "پرۆتۆکۆڵی هەڵە"
+
+msgid  "upload-proto-error-text"
+msgstr  "بۆ بارکردن لە تۆڕ، URL دەبێ بە <code>http://</code>  یان <code>ftp://</code> دەست‌پێ‌بکات."
+
+msgid  "upload-file-error"
+msgstr  "ھەڵەی ناوخۆیی"
+
+msgid  "upload-file-error-text"
+msgstr  "کێشەیەکی ناوخۆ ڕووی‌دا وەختێ هەوڵی درووست‌کردنی پەڕگەی کاتی ئەدرا لە سەر ڕاژەکار.\nتکایە پەیوەندی بکە بە [[Special:ListUsers/sysop|بەڕێوبەر]]."
+
+msgid  "upload-misc-error"
+msgstr  "هەڵەیەکی نەناسراوی بارکردن"
+
+msgid  "upload-misc-error-text"
+msgstr  "هەڵەیەکی نەناسراو لە کاتی بارکردن ڕووی‌دا.\nتکایە لە درووست‌بوون و دەست‌پێ گەیشتنی URL ئەرخەیان ببە و دیسان تاقی‌بکەوە.\nگەر کێشەکە هەر بەردەوام بوو پەیوەندی بکە بە [[Special:ListUsers/sysop|بەڕێوبەر]]."
+
+msgid  "upload-too-many-redirects"
+msgstr  "URL ڕەوانەکەری زۆری لەخۆ گرتووە"
+
+msgid  "upload-unknown-size"
+msgstr  "قەبارەی نادیار"
+
+msgid  "upload-http-error"
+msgstr  "هەڵەیەکی HTTP ڕووئ داوە: $1"
+
+msgid  "img-auth-accessdenied"
+msgstr  "تێپه‌ربوون ره‌تکرایه‌وه‌"
+
+msgid  "img-auth-nofile"
+msgstr  "فایلی \"$1\" بوونی نیه‌"
+
+msgid  "img-auth-isdir"
+msgstr  "هه‌وڵ ده‌ده‌ی بۆ کردنه‌وه‌ی بوخچه‌ی \"$1\" له‌ کاتێکدا ته‌نیا کردنه‌وه‌ی فایل رێپێدراوه‌"
+
+msgid  "upload-curl-error6"
+msgstr  "توانای دەست‌پێ‌گەیشتنی URL نیە"
+
+msgid  "upload-curl-error6-text"
+msgstr  "ئەو URL کە ڕاچاوت کردووە توانای دەست‌پێ‌گەیشتنی نییە.\nتکایە دیسان سەرنجی بدەوە کە URL درووست‌ نووسراوە و ماڵپەڕەکە بەردەوام کار دەکات."
+
+msgid  "upload-curl-error28"
+msgstr  "کات‌بەسەرچوونی بارکردن"
+
+msgid  "upload-curl-error28-text"
+msgstr  "ئەو ماڵپەرە کاتی زۆری خایاند بۆ وەڵام دانەوە.\nتکایە ئەرخەیان بە کە ماڵپەڕ بەردەوامە لە کارکردن، نەختێک ڕاوەستە و دیسان تاقی کەوە.\nلەوانەیە لە کاتێ کە کەمتر سەرقاڵ بێت تاقی بکەیتەوە باشتر بێت."
+
+msgid  "license"
+msgstr  "ئیجازەنامە:"
+
+msgid  "license-header"
+msgstr  "ئیجازەنامە"
+
+msgid  "nolicense"
+msgstr  "هیچ‌کام هەڵنەبژاردراوە"
+
+msgid  "license-nopreview"
+msgstr  "(پێشبینین ئامادەی کەڵک وەرگرتن نییە)"
+
+msgid  "upload_source_url"
+msgstr  " (URLـی بەکار، بۆ دەست‌پێگەیشتنی  گشتی)"
+
+msgid  "upload_source_file"
+msgstr  " (پەڕگەیەک لەسەر کۆمپیوتەرەکەت)"
+
+msgid  "listfiles-summary"
+msgstr  "ئەم پەڕە تایبەتە هەموو پەڕگە بارکراوەکانت پێ نیشان دەدات.\nلە حاڵەتی بنەڕەتدا، دوایین بارکراوەکان لە سەرووی لیستەکەدا دەبیندرێن.\nکرتەیەک لەسەر سەرناوی ستوونەکان بەڕیزکردنەکان دەگۆڕیت."
+
+msgid  "listfiles_search_for"
+msgstr  "بگەڕێ بۆ ناوی میدیای:"
+
+msgid  "imgfile"
+msgstr  "پەڕگە"
+
+msgid  "listfiles"
+msgstr  "لیستی پەرگەکان"
+
+msgid  "listfiles_thumb"
+msgstr  "وێنۆک"
+
+msgid  "listfiles_date"
+msgstr  "ڕێکەوت"
+
+msgid  "listfiles_name"
+msgstr  "ناو"
+
+msgid  "listfiles_user"
+msgstr  "بەکارھێنەر"
+
+msgid  "listfiles_size"
+msgstr  "قەبارە"
+
+msgid  "listfiles_description"
+msgstr  "وەسف"
+
+msgid  "listfiles_count"
+msgstr  "وەشانەکان"
+
+msgid  "file-anchor-link"
+msgstr  "پەڕگە"
+
+msgid  "filehist"
+msgstr  "مێژووی پەڕگە"
+
+msgid  "filehist-help"
+msgstr  "کرتە بکە لەسەر یەکێک لە ڕێکەوت/کاتەکان بۆ بینینی پەڕگەکە بەو شێوەی لەو کاتەدا بووە."
+
+msgid  "filehist-deleteall"
+msgstr  "هەمووی بسڕەوە"
+
+msgid  "filehist-deleteone"
+msgstr  "سڕینەوە"
+
+msgid  "filehist-revert"
+msgstr  "پێچەوانەکردنەوە"
+
+msgid  "filehist-current"
+msgstr  "هەنووکە"
+
+msgid  "filehist-datetime"
+msgstr  "ڕێکەوت/کات"
+
+msgid  "filehist-thumb"
+msgstr  "ھێما"
+
+msgid  "filehist-thumbtext"
+msgstr  "ھێما بۆ وەشانی  $1"
+
+msgid  "filehist-nothumb"
+msgstr  "هێما نییه"
+
+msgid  "filehist-user"
+msgstr  "بەکارھێنەر"
+
+msgid  "filehist-dimensions"
+msgstr  "ئەندازە"
+
+msgid  "filehist-filesize"
+msgstr  "قەبارەی پەڕگە"
+
+msgid  "filehist-comment"
+msgstr  "تێبینی"
+
+msgid  "filehist-missing"
+msgstr  "ون‌بوونی پەڕه"
+
+msgid  "imagelinks"
+msgstr  "بەستەرەکانی پەڕگە"
+
+msgid  "linkstoimage"
+msgstr  "لەم {{PLURAL:$1|پەڕەی خوارەوە بەستەر دراوە|$1 پەڕەی خوارەوە بەستەر دراوە}} بۆ ئەم پەڕگە:"
+
+msgid  "linkstoimage-more"
+msgstr  "زیاتر لە $1 {{PLURAL:$1|بەستەری لاپەڕە|بەستەری لاپەڕە}} بۆ ئەم پەڕگه.\nئەم لیستە {{PLURAL:$1|یەکەم لاپەڕەی بەستەرە|یەکەم لاپەڕە $1 بەستەرە}} بۆ تەنها یەم پەڕگە.\nهەروا [[Special:WhatLinksHere/$2|لیستی تەواو]] ئامادەی کەڵک وەرگرتنە."
+
+msgid  "nolinkstoimage"
+msgstr  "‌لاپەڕەیەک نەدۆزرایەوە کە بەستەری هەبێ بۆ ئەم پەڕگە."
+
+msgid  "morelinkstoimage"
+msgstr  "[[Special:WhatLinksHere/$1|بەستەری زیاتر]] ببینە بۆ ئەم پەڕگە."
+
+msgid  "redirectstofile"
+msgstr  "ئەم {{PLURAL:$1|پەڕگە ڕەوانکەرە|پەڕگانە ڕەوانکەرن}} بۆ ئەم پەڕگە:"
+
+msgid  "duplicatesoffile"
+msgstr  "ئەم {{PLURAL:$1|پەڕگە دووبارەکرنەوەیەکی|پەڕگانە دووبارەکردنەوەی}} ئەم پەڕگەن ([[Special:FileDuplicateSearch/$2|وردەکاری زیاتر]]):"
+
+msgid  "sharedupload"
+msgstr  "ئەم پەڕگە لە $1ەوەیە و لەوە دەچێ لە پرۆژەکانی دیکەش بەکار ببرێت."
+
+msgid  "sharedupload-desc-there"
+msgstr  "ئەم پەڕگە لە $1ەوەیە و لەوە دەچێ لە پرۆژەکانی دیکەش بەکار ببرێت.\nتکایە بۆ زانیاریی زیاتر چاو بکە لە [$2 لاپەڕەی ناساندنی پەڕگە]."
+
+msgid  "sharedupload-desc-here"
+msgstr  "ئەم پەڕگە لە $1ەوەیە و لەوە دەچێ لە پرۆژەکانی دیکەش بەکار ببرێت.\nلە خوارەوە پێناسەکەی کە لە [$2 لاپەڕەی ناساندنی پەڕگە] هەیە، دەبینیت."
+
+msgid  "filepage-nofile"
+msgstr  "پەڕگەیەک بەم ناوە نیە."
+
+msgid  "filepage-nofile-link"
+msgstr  "پەڕگەیەک بەم ناوە نیە بەڵام دەتوانی [$1 باری بکەی]."
+
+msgid  "uploadnewversion-linktext"
+msgstr  "وەشانێکی نوێی ئەم پەڕەیە بار بکە"
+
+msgid  "shared-repo-from"
+msgstr  "لە لایەن $1"
+
+msgid  "shared-repo"
+msgstr  "شوێنێکی هاوبەشی"
+
+msgid  "filerevert"
+msgstr  "پێچەوانەکردنەوەی $1"
+
+msgid  "filerevert-backlink"
+msgstr  "→ $1"
+
+msgid  "filerevert-legend"
+msgstr  "پێچەوانەکردنەوەی پەڕگە"
+
+msgid  "filerevert-intro"
+msgstr  "خەریکی پەڕگەی '''[[Media:$1|$1]]''' دەگەڕینیتەوە بۆ [$4 وەشانی $3، $2]."
+
+msgid  "filerevert-comment"
+msgstr  "هۆکار:"
+
+msgid  "filerevert-defaultcomment"
+msgstr  "گەڕێندراوە بۆ وەشانی $2، $1"
+
+msgid  "filerevert-submit"
+msgstr  "گەڕاندنەوە"
+
+msgid  "filerevert-success"
+msgstr  "'''[[Media:$1|$1]]''' گەڕێندراوەتەوە بۆ [$4 وەشانی $3، $2]."
+
+msgid  "filerevert-badversion"
+msgstr  "وەشانێکی پێشووی ئەم  پەڕگە بەو کاتە ڕاچاوکراوه ‌نەدۆزرایەوە."
+
+msgid  "filedelete"
+msgstr  "سڕینەوەی $1"
+
+msgid  "filedelete-backlink"
+msgstr  "→ $1"
+
+msgid  "filedelete-legend"
+msgstr  "سڕینەوەی پەڕگە"
+
+msgid  "filedelete-intro"
+msgstr  "خەریکی پەڕگەی '''[[Media:$1|$1]]''' دەگەڵ هەموو مێژووی دەسڕیتەوە."
+
+msgid  "filedelete-intro-old"
+msgstr  "خەریکی وەشانی [$4 $3، $2] لە '''[[Media:$1|$1]]''' دەسڕیتەوە."
+
+msgid  "filedelete-comment"
+msgstr  "هۆکار:"
+
+msgid  "filedelete-submit"
+msgstr  "بسڕەوە"
+
+msgid  "filedelete-success"
+msgstr  "'''$1''' سڕاوەتەوە."
+
+msgid  "filedelete-success-old"
+msgstr  "وەشانی $3، $2 لە '''[[Media:$1|$1]]''' سڕاوەتەوە."
+
+msgid  "filedelete-nofile"
+msgstr  "'''$1''' بوونی نییە."
+
+msgid  "filedelete-nofile-old"
+msgstr  "وەشانێکی ئەرشیڤ‌کراوی '''$1''' بەو تایبەتمەندییە دیاری‌کراوانە نییە."
+
+msgid  "filedelete-otherreason"
+msgstr  "هۆکاری دیکە\\زیادی:"
+
+msgid  "filedelete-reason-otherlist"
+msgstr  "هۆکاری دیکە"
+
+msgid  "filedelete-reason-dropdown"
+msgstr  "*هوکارە هاوبەشەکانی سڕینەوە\n**لادان لە مافەکانی بڵاوکردنەوە\n***پەڕگەی دووبارەکراوە"
+
+msgid  "filedelete-edit-reasonlist"
+msgstr  "دەستکاری هۆکارەکانی سڕینەوە"
+
+msgid  "mimesearch"
+msgstr  "گەڕانی MIME"
+
+msgid  "mimesearch-summary"
+msgstr  "ئەم لاپەڕە پاڵێوتنی هەیە بۆ جۆرەکانی MIME.\nناودراو: جۆرەی ناوەڕۆک\\ژێرجۆرە، وەک <tt>image/jpeg</tt>."
+
+msgid  "mimetype"
+msgstr  "جۆرەی MIME:"
+
+msgid  "download"
+msgstr  "داگرتن"
+
+msgid  "unwatchedpages"
+msgstr  "لاپەڕە چاودێری‌نەکراوەکان"
+
+msgid  "listredirects"
+msgstr  "لیستی ئاڕاستەکراوەکان"
+
+msgid  "unusedtemplates"
+msgstr  "داڕێژە بەکارنەھێنراوەکان"
+
+msgid  "unusedtemplatestext"
+msgstr  "ئەم لاپەڕە هەموو لاپەڕەکانی ناوبۆشایی {{ns:template}} کە نەکەوتوونەتە لاپەڕەی دیکە.\nلە یادت بێ سەرنج بدەی بۆ بەستەری دیکە بۆ داڕێژەکان، پێش سڕینەوەیان."
+
+msgid  "unusedtemplateswlh"
+msgstr  "بەستەرەکانی تر"
+
+msgid  "randompage"
+msgstr  "پەڕەیەک بە هەڵکەوت"
+
+msgid  "randompage-nopages"
+msgstr  "هیچ لاپەڕەیەک لەم {{PLURAL:$2|ناوبۆشاییەدا|ناوبۆشاییانەدا}} نیە: $1."
+
+msgid  "randomredirect"
+msgstr  "ڕەوانەکەری ھەرمەکی"
+
+msgid  "randomredirect-nopages"
+msgstr  "لە ناوبۆشایی \"$1\" هیچ ڕەوانکەرێک نییە."
+
+msgid  "statistics"
+msgstr  "ئامارەکان"
+
+msgid  "statistics-header-pages"
+msgstr  "ئامارەکانی پەڕەکان"
+
+msgid  "statistics-header-edits"
+msgstr  "ئامارەکانی گۆڕانکارییەکان"
+
+msgid  "statistics-header-views"
+msgstr  "ئامارەکانی سەردانەکان"
+
+msgid  "statistics-header-users"
+msgstr  "ئامارەکانی بەکارھێنەران"
+
+msgid  "statistics-header-hooks"
+msgstr  "ئامارەکانی دیکە"
+
+msgid  "statistics-articles"
+msgstr  "پەڕە بە ناوەڕۆکەکان"
+
+msgid  "statistics-pages"
+msgstr  "پەڕەکان"
+
+msgid  "statistics-pages-desc"
+msgstr  "گشت پەڕەکانی ویکی، بە لەخۆگرتنی پەڕەکانی وتووێژ، ڕەوانەکراوەکان و ھتد."
+
+msgid  "statistics-files"
+msgstr  "پەڕگە بارکراوەکان"
+
+msgid  "statistics-edits"
+msgstr  "دەستکارییەکانی پەڕەکان لە کاتی دامەزراندنی {{SITENAME}}ەوە"
+
+msgid  "statistics-edits-average"
+msgstr  "نێونجی ژمارەی دەستکارییەکان لە پەڕەیەک دا"
+
+msgid  "statistics-views-total"
+msgstr  "دیتنی هەموو"
+
+msgid  "statistics-views-peredit"
+msgstr  "دیتنی هەر دەستکارییەک"
+
+msgid  "statistics-users"
+msgstr  "[[Special:ListUsers|بەکارھێنەر]]ە تۆمارکراوەکان"
+
+msgid  "statistics-users-active"
+msgstr  "ئەندامە چالاکەکان"
+
+msgid  "statistics-users-active-desc"
+msgstr  "ئەو بەکارھێنەرانە کە لە {{PLURAL:$1|ڕۆژ|$1 ڕۆژ}}ی ڕابردوودا کارێکیان جێبەجێ کردبێت."
+
+msgid  "statistics-mostpopular"
+msgstr  "زۆرترین لاپەڕە بینراوەکان"
+
+msgid  "disambiguations"
+msgstr  "پەڕەکانی ڕوونکردنەوە"
+
+msgid  "disambiguationspage"
+msgstr  "Template:ڕوونکردنەوە"
+
+msgid  "disambiguations-text"
+msgstr  "ئەم پەڕانە بەستەریان ھەیە بۆ '''پەڕەی ڕوونکردنەوە'''.\nئەوانە دەبێ لە جیاتی ئەوە بەستەریان ببێت بۆ بابەتی گونجاو.<br />\nئەگەر پەڕەیەک لە داڕێژەیەک کەڵک وەرگرێت کە بەستەری ھەیە بۆ [[MediaWiki:Disambiguationspage]]، وەک پەڕەی ڕوونکردنەوە مامەڵەی لەگەڵدا دەکرێ."
+
+msgid  "doubleredirects"
+msgstr  "دووجار ڕەوانەکراوەکان"
+
+msgid  "doubleredirectstext"
+msgstr  "ئەم پەڕە لیستی ئەو پەڕانەیە کە ڕەوانەکراون بۆ پەڕەیەکی ڕەوانەکراوی دیکە.\nهەر ڕیزێک، بەستەرەکانی یەکەم و دووەم ڕەوانەکراو و ھەروەھا ئامانجی ڕەوانەکراوی دووەم کە زۆربەی کات مەبەستی «ڕاستی»یە کە ڕەوانەکراوی یەکەمیش دەبێ بۆ ئەوێ ڕەوانە بکاتی لەخۆگرتووە.\nدراوە <del>هێڵ بەسەردا کێشراوەکان</del> چارەسەر کراون."
+
+msgid  "double-redirect-fixed-move"
+msgstr  "[[$1]] گوێسترایەوە.\nئێستا ڕەوانکەرە بۆ [[$2]]."
+
+msgid  "double-redirect-fixer"
+msgstr  "چارەسەرکەری ڕەوانکەر"
+
+msgid  "brokenredirects"
+msgstr  "ڕەوانەکراوە شکاوەکان"
+
+msgid  "brokenredirectstext"
+msgstr  "ئەم ڕەوانەکراوانە بەستەرن بۆ ئەو پەڕانە کە بوونیان نییە:"
+
+msgid  "brokenredirects-edit"
+msgstr  "دەستکاری"
+
+msgid  "brokenredirects-delete"
+msgstr  "سڕینەوە"
+
+msgid  "withoutinterwiki"
+msgstr  "پەڕەکانی بێ بەستەرەکانی زمان"
+
+msgid  "withoutinterwiki-summary"
+msgstr  "ئەم پەڕانە بەستەریان بۆ وەشانەکانی زمانەکانی تر نیە."
+
+msgid  "withoutinterwiki-legend"
+msgstr  "پێشگر"
+
+msgid  "withoutinterwiki-submit"
+msgstr  "پیشاندان"
+
+msgid  "fewestrevisions"
+msgstr  "ئەو پەڕانە کەمترین پیاچوونەوەیان ھەیە"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|بایت|بایت}}"
+
+msgid  "ncategories"
+msgstr  "$1 {{PLURAL:$1|ھاوپۆل|ھاوپۆل}}"
+
+msgid  "nlinks"
+msgstr  "$1 {{PLURAL:$1|بەستەر|بەستەر}}"
+
+msgid  "nmembers"
+msgstr  "$1 {{PLURAL:$1|ئەندام|ئەندام}}"
+
+msgid  "nrevisions"
+msgstr  "$1 {{PLURAL:$1|پیاچوونەوە|پیاچوونەوە}}"
+
+msgid  "nviews"
+msgstr  "$1 جار {{PLURAL:$1|بینراو|بینراو}}"
+
+msgid  "specialpage-empty"
+msgstr  "ئەنجامێک بۆ ئەم ڕاپۆرتە نییە."
+
+msgid  "lonelypages"
+msgstr  "پەڕە ھەتیوەکان"
+
+msgid  "lonelypagestext"
+msgstr  "بەم لاپەڕانە لە هیچ لاپەڕەیەک‌دا لە {{SITENAME}} بەستەر نەدراوە یا هیچ لاپەڕەیەک لەخۆیانی نەگرتووە."
+
+msgid  "uncategorizedpages"
+msgstr  "پەڕە پۆلێن نەکراوەکان"
+
+msgid  "uncategorizedcategories"
+msgstr  "پۆلە پۆلێن نەکراوەکان"
+
+msgid  "uncategorizedimages"
+msgstr  "پەڕگە پۆلێن نەکراوەکان"
+
+msgid  "uncategorizedtemplates"
+msgstr  "داڕێژە پۆلێن نەکراوەکان"
+
+msgid  "unusedcategories"
+msgstr  "پۆلە بەکارنەھێنراوەکان"
+
+msgid  "unusedimages"
+msgstr  "پەڕگە بەکارنەھێنراوەکان"
+
+msgid  "popularpages"
+msgstr  "پەڕە مەحبووبەکان"
+
+msgid  "wantedcategories"
+msgstr  "پۆلە داواکراوەکان"
+
+msgid  "wantedpages"
+msgstr  "پەڕە داواکراوەکان"
+
+msgid  "wantedpages-badtitle"
+msgstr  "سەردێڕی نەگونجاو لە سەرجەمی ئەنجامەکان: $1"
+
+msgid  "wantedfiles"
+msgstr  "پەڕگە داواکراوەکان"
+
+msgid  "wantedtemplates"
+msgstr  "داڕێژە خوازراوەکان"
+
+msgid  "mostlinked"
+msgstr  "ئەو پەڕانە زۆرترین بەستەریان پێدراوە"
+
+msgid  "mostlinkedcategories"
+msgstr  "ئەو پۆلانە زۆرترین بەستەریان پێدراوە"
+
+msgid  "mostlinkedtemplates"
+msgstr  "ئەو داڕێژانە زۆرترین بەستەریان پێدراوە"
+
+msgid  "mostcategories"
+msgstr  "پەڕە زۆرتر پۆلێنکراوەکان"
+
+msgid  "mostimages"
+msgstr  "ئەو پەڕگانە زۆرترین بەستەریان پێدراوە"
+
+msgid  "mostrevisions"
+msgstr  "ئەو پەڕانە زۆرترین پیاچوونەوەیان ھەیە"
+
+msgid  "prefixindex"
+msgstr  "گشت پەڕەکان بە پێشگرەوە"
+
+msgid  "shortpages"
+msgstr  "پەڕە کورتەکان"
+
+msgid  "longpages"
+msgstr  "پەڕە دڕێژەکان"
+
+msgid  "deadendpages"
+msgstr  "پەڕە بنبەستەکان"
+
+msgid  "deadendpagestext"
+msgstr  "ئەم لاپەرانە بە هیچ لاپەڕەیەکی دیکە لە {{SITENAME}}دا بەستەری نەداوە."
+
+msgid  "protectedpages"
+msgstr  "پەڕە پارێزراوەکان"
+
+msgid  "protectedpages-indef"
+msgstr  "تەنها پاراستنە زۆرەکان"
+
+msgid  "protectedpages-cascade"
+msgstr  "تەنها پاراستنە زنجیرییەکان"
+
+msgid  "protectedpagestext"
+msgstr  "ئەم لاپەڕانە لە گواستنەوە و دەستکاری‌کردن پارێزراون"
+
+msgid  "protectedpagesempty"
+msgstr  "هیچ لاپەڕەیک ئێستا بەم دیاریکراوانە نەپارێزراوە."
+
+msgid  "protectedtitles"
+msgstr  "سەرناوە پارێزراوەکان"
+
+msgid  "protectedtitlestext"
+msgstr  "ئەم سەردێڕانە لە درووست‌کردن پارێزراون"
+
+msgid  "protectedtitlesempty"
+msgstr  "هیچ سەردێڕیك ئێستا بەم دیاریکراوانە نەپارێزراوە."
+
+msgid  "listusers"
+msgstr  "لیستی بەکارھێنەران"
+
+msgid  "listusers-editsonly"
+msgstr  "تەنھا ئەو بەکارھێنەرانە نیشان بدە کە دەستکارییان کردووە"
+
+msgid  "listusers-creationsort"
+msgstr  "ڕیز کردن بە پێی ڕێکەوتی دروست کردن"
+
+msgid  "usereditcount"
+msgstr  "$1 {{PLURAL:$1|دەستکاری|دەستکاری}}"
+
+msgid  "usercreated"
+msgstr  "دروست کراو لە $2ی $1"
+
+msgid  "newpages"
+msgstr  "پەڕە نوێکان"
+
+msgid  "newpages-username"
+msgstr  "ناوی بەکارھێنەر:"
+
+msgid  "ancientpages"
+msgstr  "کۆنترین پەڕەکان"
+
+msgid  "move"
+msgstr  "گواستنەوە"
+
+msgid  "movethispage"
+msgstr  "ئەم پەڕەیە بگوازەوە"
+
+msgid  "unusedimagestext"
+msgstr  "ئەم پەڕگانەی خوارەوە بوونیان ھەیە بەڵام لە ھیچ پەڕەیەکدا بەکارنەھێنراون.\nتکایە ئاگادار بە لەوانەیە ماڵپەڕێک بە URLـی سەرڕاست بەستەری دابێت بە پەڕگەیەک و هەر بۆیە لەوانەیە ئێستا لە وەک چالاک لێرەدا لیست‌کرابێت."
+
+msgid  "unusedcategoriestext"
+msgstr  "ئەم پەڕەی پۆلانە ھەن، ئەگەرچی ھیچ پەڕە یان پۆلێکی تر کەڵکیان لێ وەرناگرێ."
+
+msgid  "notargettitle"
+msgstr  "بێ مەبەست"
+
+msgid  "notargettext"
+msgstr  "لاپەڕە یان بەکارهێنەرێکت دیاری نەکردوو تاکەە ئەو فەنکشێنە لەسەر بهێنیتە کار."
+
+msgid  "nopagetitle"
+msgstr  "چاودێری"
+
+msgid  "nopagetext"
+msgstr  "لاپەڕەی مەبەست وا ڕاچاوت کردووە بوونی نییە."
+
+msgid  "pager-newer-n"
+msgstr  "{{PLURAL:$1|یەکێکی نوێتر|$1ی نوێتر}}"
+
+msgid  "pager-older-n"
+msgstr  "{{PLURAL:$1|یەکێک کۆنتر|$1ی کۆنتر}}"
+
+msgid  "suppress"
+msgstr  "چاودێری"
+
+msgid  "booksources"
+msgstr  "سەرچاوەکانی کتێب"
+
+msgid  "booksources-search-legend"
+msgstr  "بۆ سەرچاوەی کتێب بگەڕێ"
+
+msgid  "booksources-go"
+msgstr  "بڕۆ"
+
+msgid  "booksources-text"
+msgstr  "لە خوارەوە لیستێک لە بەستەر بۆ ماڵپەڕهایەک کە کتێبی نوێ و بەکارهێنراو دەفرۆشێت و لەوانەیە لەوێ زانیاریی زیاترت دەست‌کەوێت سەبارەت بەو کتێبانەی لە دووی دەگەڕیت:"
+
+msgid  "booksources-invalid-isbn"
+msgstr  "ISBN دراو لەوە ناچی بەکار بێت، سەرنج بدە لە کاتی کۆپی کردن لە سەرچاوە تووشی هەڵە نوبوبێت."
+
+msgid  "specialloguserlabel"
+msgstr  "بەکارھێنەر:"
+
+msgid  "speciallogtitlelabel"
+msgstr  "ناونیشان:"
+
+msgid  "log"
+msgstr  "لۆگەکان"
+
+msgid  "all-logs-page"
+msgstr  "ھەموو لۆگە گشتییەکان"
+
+msgid  "alllogstext"
+msgstr  "نیشاندانی تێکڕای هەموو لۆگە بەردەستەکانی {{SITENAME}}.\nدەتوانی بە ھەڵبژاردنی جۆرە لۆگێک، ناوی بەکارھێنەرەکە (ھەستیار بە گەورە و بچووکی پیتەکان) یان پەڕە کارتێکراوەکە (ھەستیار بە گەورە و بچووکی پیتەکان)\nبینینەکە سنووردار بکەیتەوە."
+
+msgid  "logempty"
+msgstr  "هیچ بابەتێکی هاوتا لە لۆگەکاندا نەدۆزرایەوە."
+
+msgid  "log-title-wildcard"
+msgstr  "گەڕانی ئەو سەرناوانە بەم دەقەوە دەست پێدەکەن"
+
+msgid  "allpages"
+msgstr  "ھەموو پەڕەکان"
+
+msgid  "alphaindexline"
+msgstr  "$1 تا $2"
+
+msgid  "nextpage"
+msgstr  "پەڕەی پاشەوە ($1)"
+
+msgid  "prevpage"
+msgstr  "پەڕەی پێشەوە ($1)"
+
+msgid  "allpagesfrom"
+msgstr  "بینینی پەڕەکان بە دەست پێ کردن لە:"
+
+msgid  "allpagesto"
+msgstr  "بینینی پەڕەکان بە دوایی ھاتن بە:"
+
+msgid  "allarticles"
+msgstr  "ھەمووی وتارەکان"
+
+msgid  "allinnamespace"
+msgstr  "ھەموو پەڕەکان (بۆشایی-ناوی $1)"
+
+msgid  "allnotinnamespace"
+msgstr  "ھەموو پەڕەکان (ئەوانەی لە بۆشایی-ناوی $1دا نین)"
+
+msgid  "allpagesprev"
+msgstr  "پێش"
+
+msgid  "allpagesnext"
+msgstr  "پاش"
+
+msgid  "allpagessubmit"
+msgstr  "بڕۆ"
+
+msgid  "allpagesprefix"
+msgstr  "نیشاندانی پەڕەکان بە پێشگری:"
+
+msgid  "allpagesbadtitle"
+msgstr  "سەردێڕی لاپەڕە گونجاو نەبوو یان پێشگڕێکی بەینی‌زمانی یان بەینی‌ویکی هەبوو.\nلەوانەیە یەک یان زیاتر پیتی نەگونجاو بۆ سەردێڕی لەخۆ گرتبێ."
+
+msgid  "allpages-bad-ns"
+msgstr  "{{SITENAME}} ناوبۆشایی نیە \"$1\"."
+
+msgid  "categories"
+msgstr  "پۆلەكان"
+
+msgid  "categoriespagetext"
+msgstr  "ئەم {{PLURAL:$1|پۆلە پەڕە یان پەڕگەی|پۆلانە پەڕە یان پەڕگەیان}} لەخۆگرتە.\n[[Special:UnusedCategories|پۆلە بەکارنەھێنراوەکان]] لێرەدا نیشان نەدراون.\n[[Special:WantedCategories|پۆلە خوازراوەکان]]یش ببینە."
+
+msgid  "categoriesfrom"
+msgstr  "نیشاندانی پۆلەکان بە دستپێکردن لە:"
+
+msgid  "special-categories-sort-count"
+msgstr  "ڕیز کردن بە پێی ژمارە"
+
+msgid  "special-categories-sort-abc"
+msgstr  "ڕیز کردن بە پێی ئەلفابێت"
+
+msgid  "deletedcontributions"
+msgstr  "بەشدارییە سڕاوەکان"
+
+msgid  "deletedcontributions-title"
+msgstr  "هاوبەشییەکانی سڕاوەی بەکارهێنەر"
+
+msgid  "sp-deletedcontributions-contribs"
+msgstr  "بەشدارییەکان"
+
+msgid  "linksearch"
+msgstr  "بەستەرە دەرەکییەکان"
+
+msgid  "linksearch-pat"
+msgstr  "گەڕان بۆ نواندن:"
+
+msgid  "linksearch-ns"
+msgstr  "بۆشاییی ناو:"
+
+msgid  "linksearch-ok"
+msgstr  "گەڕان"
+
+msgid  "linksearch-line"
+msgstr  "$1 بەستەرپێ‌دراو لە $2"
+
+msgid  "listusersfrom"
+msgstr  "نیشاندانی بەکارھێنەران بە دست پێکردن لە:"
+
+msgid  "listusers-submit"
+msgstr  "نیشاندان"
+
+msgid  "listusers-noresult"
+msgstr  "ھیچ بەکارھێنەرێک نەدۆزرایەوە."
+
+msgid  "listusers-blocked"
+msgstr  "(بەربەست‌کراو)"
+
+msgid  "activeusers"
+msgstr  "لیستی بەکارھێنەرە چالاکەکان"
+
+msgid  "activeusers-intro"
+msgstr  "ئەمە لیستێکی ئەو بەکارھێنەرانەیە کە لە  $1 {{PLURAL:$1|ڕۆژ|ڕۆژ}}ی ڕابردوودا بە جۆرێک چالاکییەکیان ھەبووە."
+
+msgid  "activeusers-count"
+msgstr  "$1 گۆڕانکاری لە دوایین {{PLURAL:$3|ڕۆژدا|$3 ڕۆژدا}}"
+
+msgid  "activeusers-from"
+msgstr  "نیشاندانی بەکارھێنەران بە دست پێکردن لە:"
+
+msgid  "activeusers-hidebots"
+msgstr  "بۆتەکان بشارەوە"
+
+msgid  "activeusers-hidesysops"
+msgstr  "بەڕێوبەران بشارەوە"
+
+msgid  "activeusers-noresult"
+msgstr  "هیچ بەکارهێنەرێک نەدۆزرایەوە"
+
+msgid  "newuserlogpage"
+msgstr  "لۆگی دروست کردنی بەکارھێنەر"
+
+msgid  "newuserlogpagetext"
+msgstr  "ئەمە لۆگێکی درووست‌کردنی بەکارهێنەرە."
+
+msgid  "newuserlog-byemail"
+msgstr  "تێپەڕوشە بە ئیمەیل نێردرا."
+
+msgid  "newuserlog-create-entry"
+msgstr  "بەکارھێنەری نوێ"
+
+msgid  "newuserlog-create2-entry"
+msgstr  "ھەژماری $1ی دروست کرد"
+
+msgid  "newuserlog-autocreate-entry"
+msgstr  "هەژمارە بە جۆری خۆکار درووست‌کرا"
+
+msgid  "listgrouprights"
+msgstr  "مافەکانی گرووپە بەکارھێنەرییەکان"
+
+msgid  "listgrouprights-summary"
+msgstr  "ئەمە لیستێکە لە گرووپەکانی بەکارهێنەر لەسەر ئەم ویکی‌یە، دەگەڵ مافەکانی دەست‌پێ‌گەیشتنی هاوپەیوەندیان.\nلێرەدا لەوانەیە [[{{MediaWiki:Listgrouprights-helppage}}|زانیاری زیاترت]] دەست‌کەوێت سەبارەت بە مافە تاکەکەسیەکان."
+
+msgid  "listgrouprights-key"
+msgstr  "* <span class=\"listgrouprights-granted\">مافی دراوە</span>\n* <span class=\"listgrouprights-granted\">مافی سەندراوە</span>"
+
+msgid  "listgrouprights-group"
+msgstr  "گرووپ"
+
+msgid  "listgrouprights-rights"
+msgstr  "مافەکان"
+
+msgid  "listgrouprights-helppage"
+msgstr  "Help:مافەکانی گرووپ"
+
+msgid  "listgrouprights-members"
+msgstr  "(لیستی ئەندامەکان)"
+
+msgid  "listgrouprights-addgroup"
+msgstr  "زیادکردنی {{PLURAL:$2|گرووپ|گرووپ}}: $1"
+
+msgid  "listgrouprights-removegroup"
+msgstr  "لابردنی {{PLURAL:$2|گرووپ|گرووپ}}: $1"
+
+msgid  "listgrouprights-addgroup-all"
+msgstr  "زیادکردنی هەموو گرووپەکان"
+
+msgid  "listgrouprights-removegroup-all"
+msgstr  "لابردنی هەموو گرووپەکان"
+
+msgid  "listgrouprights-addgroup-self"
+msgstr  "زیادکردنی {{PLURAL:$2|گرووپ|گرووپه‌کان}} بۆ سه‌ر هه‌ژماری خۆ: $1"
+
+msgid  "listgrouprights-removegroup-self"
+msgstr  "لابردنی {{PLURAL:$2|گرووپ|گرووپه‌کان}} له‌ سه‌ر هه‌ژماری خۆ: $1"
+
+msgid  "listgrouprights-addgroup-self-all"
+msgstr  "زیادکردنی هەموو گرووپەکان بۆ سه‌ر هه‌ژماری خۆ"
+
+msgid  "listgrouprights-removegroup-self-all"
+msgstr  "لابردنی هەموو گرووپەکان له‌ سه‌ر هه‌ژماری خۆ"
+
+msgid  "mailnologin"
+msgstr  "ناونیشان بۆ ناردن نییه‌"
+
+msgid  "mailnologintext"
+msgstr  "ده‌بێ له‌ [[Special:UserLogin|ژووره‌وه‌]] بیت و ناونیشانێکی بڕواپێ‌کراوی ئی‌مه‌یلت له‌ ناو [[Special:Preferences|هه‌ڵبژارده‌کان]] دیاری کردبێت تا بتوانی ئی‌مه‌یل بنێریت بۆ به‌کارهێنه‌رانی دیکه‌."
+
+msgid  "emailuser"
+msgstr  "ئیمەیل بنێرە بۆ ئەم بەکارھێنەرە"
+
+msgid  "emailpage"
+msgstr  "ئیمەیل بۆ بەکارھێنەر"
+
+msgid  "emailpagetext"
+msgstr  "ده‌توانی له‌م فۆرمه‌ی خواره‌وه‌ که‌ڵک وه‌رگریت بۆ ناردنی په‌یامێکی ئی‌مه‌یل بنێریت بۆ ئه‌م به‌کارهێنه‌ره‌.\nناونیشانی ئی‌مه‌یلت وا له‌ ناو [[Special:Preferences|هه‌ڵبژارده‌کانی به‌کارهێنه‌ر‌دا]] نووسیوته‌، بۆ ئه‌دره‌سی \"له‌لایه‌ن\" ئی‌مه‌یل نیشان ئه‌درێت، هه‌ر بۆیه‌ وه‌گر ده‌توانێ ڕاسته‌وخۆ وه‌ڵامت بداته‌وه‌."
+
+msgid  "defemailsubject"
+msgstr  "ئیمەیلی {{SITENAME}}"
+
+msgid  "noemailtitle"
+msgstr  "هیچ ناونیشانێکی ئی‌مەیل نییە"
+
+msgid  "noemailtext"
+msgstr  "ئەم بەکارهێنەرە ناونێشانێکی بڕوا پێکراوی ئی‌مەیلی دانەناوە."
+
+msgid  "nowikiemailtitle"
+msgstr  "ڕێگە بۆ ئی‌مەیل نەدراوە"
+
+msgid  "nowikiemailtext"
+msgstr  "ئەم بەکارهێنەرە تایبەتمەندیی وەرنەگرتنی ئی‌مەیل لە بەکارهێنەرانی دیکەی هەلبژاردووە."
+
+msgid  "email-legend"
+msgstr  "ناردنی ئیمەیلێک بۆ بەکارهێنەرێکی دیکەی {{SITENAME}}"
+
+msgid  "emailfrom"
+msgstr  "لە:"
+
+msgid  "emailto"
+msgstr  "بۆ:"
+
+msgid  "emailsubject"
+msgstr  "بابەت:"
+
+msgid  "emailmessage"
+msgstr  "نامە:"
+
+msgid  "emailsend"
+msgstr  "بینێرە"
+
+msgid  "emailccme"
+msgstr  "کۆپییەک لە نامەکە بنێرە بۆ ئیمەیلەکەم."
+
+msgid  "emailccsubject"
+msgstr  "کۆپیی نامەکەت بۆ $1: $2"
+
+msgid  "emailsent"
+msgstr  "نامەکەت ناردرا"
+
+msgid  "emailsenttext"
+msgstr  "نامەکەت ناردرا"
+
+msgid  "emailuserfooter"
+msgstr  "ئەم ئیمەیلە لە $1ەوە ناردرا بۆ $2 بە \"Email user\" لە {{SITENAME}}ەوە."
+
+msgid  "watchlist"
+msgstr  "لیستی چاودێرییەکانم"
+
+msgid  "mywatchlist"
+msgstr  "لیستی چاودێرییەکانم"
+
+msgid  "nowatchlist"
+msgstr  "لە لیستی چاودێڕییەکانتدا ھیچ نیە."
+
+msgid  "watchlistanontext"
+msgstr  "تکایە بۆ دیتن و دەستکاری بابەتەکانی لە ناو لیستی چاودێریەکەت‌دا $1."
+
+msgid  "watchnologin"
+msgstr  "لە ژوورەوە نیت."
+
+msgid  "watchnologintext"
+msgstr  "دەبی لە [[Special:UserLogin|ژوورەوە]] بیت بۆ ئەوەی بتوانی گۆڕانکاری بکەیت لە لیستی چاودێریەکەت‌دا."
+
+msgid  "addedwatch"
+msgstr  "بە لیستی چاودێریت زێدەکرا"
+
+msgid  "addedwatchtext"
+msgstr  "پەڕەی «[[:$1]]» خرایە سەر [[Special:Watchlist|لیستی چاودێرییەکەت]].\nگۆڕانکارییەکانی داھاتووی ئەم پەڕە و پەڕەی وتووێژەکەی، لەوێدا ڕیزدەکرێ و پەڕەکە لە [[Special:RecentChanges|لیستی دوایین گۆڕانکارییەکاندا]] ئەستوورکراو دەردەکەوێت بۆ ئەوەی ئاسانتر دەستکەوێت."
+
+msgid  "removedwatch"
+msgstr  "لە لیستی چاودێری لابرا"
+
+msgid  "removedwatchtext"
+msgstr  "پەڕەی «[[:$1]]» لە [[Special:Watchlist|لیستی چاودێریەکەت]] لابرا."
+
+msgid  "watch"
+msgstr  "چاودێری بکە"
+
+msgid  "watchthispage"
+msgstr  "چاودێریی ئەم پەڕە بکە"
+
+msgid  "unwatch"
+msgstr  "لابردنی چاودێری"
+
+msgid  "unwatchthispage"
+msgstr  "ئیتر چاودێری مەکە"
+
+msgid  "notanarticle"
+msgstr  "پەڕەی بێ ناوەڕۆک"
+
+msgid  "notvisiblerev"
+msgstr  "پیاچوونەوە سڕاوەتەوە"
+
+msgid  "watchnochange"
+msgstr  "ھیچکام لەو بابەتانە چاودێڕییان دەکەیت، لە ماوەی نیشاندراودا دەستکاری نەکراون."
+
+msgid  "watchlist-details"
+msgstr  "{{PLURAL:$1|$1 پەڕە|$1 پەڕە}} لە لیستی چاودێریەکەتدایە، بێجگە پەڕەکانی لێدوان."
+
+msgid  "wlheader-enotif"
+msgstr  "* ئەکرێ بە E-mail ئاگاداری بدەی"
+
+msgid  "wlheader-showupdated"
+msgstr  "* ‏ئەو پەڕانە کە لە پاش دواین سەردانت دەستکاری کراون بە '''ئەستوور''' نیشان دراون"
+
+msgid  "watchmethod-recent"
+msgstr  "سەرنج‌دانی دوایین دەستکاریەکان بۆ لاپەڕە چاودێری‌کراوەکان"
+
+msgid  "watchmethod-list"
+msgstr  "سەرنج‌دانی لاپەڕە چاودێری‌کراوەکان بۆ دوایین دەستکاریەکان"
+
+msgid  "watchlistcontains"
+msgstr  "لیستی چاودێڕییەکانت $1 {{PLURAL:$1|پەڕە|پەڕە}}ی تێدایە."
+
+msgid  "iteminvalidname"
+msgstr  "ھەڵە لەگەڵ بابەتی '$1'، ناوی نادروست..."
+
+msgid  "wlnote"
+msgstr  "خوارەوە {{PLURAL:$1|دوایین گۆڕانکاریە|دوایین '''$1''' گۆڕانکارییەکانە}} لە دوایین  {{PLURAL:$2|کاتژمێر|'''$2''' کاتژمێر}}دا."
+
+msgid  "wlshowlast"
+msgstr  "دوایین $1 کاتژمێر  $2 ڕۆژی $3 نیشانبدە"
+
+msgid  "watchlist-options"
+msgstr  "ھەڵبژاردەکانی لیستی چاودێری"
+
+msgid  "watching"
+msgstr  "چاودێری..."
+
+msgid  "unwatching"
+msgstr  "لابردنی چاودێری..."
+
+msgid  "enotif_mailer"
+msgstr  "نامەی ڕاگەیاندنی {{SITENAME}}"
+
+msgid  "enotif_reset"
+msgstr  "گشت پەڕەکان وەک بینراو دیاری بکە"
+
+msgid  "enotif_newpagetext"
+msgstr  "ئەمە پەڕەیەکی تازەیە."
+
+msgid  "enotif_impersonal_salutation"
+msgstr  "بەکارهێنەری \t{{SITENAME}}"
+
+msgid  "changed"
+msgstr  "گۆڕدرا"
+
+msgid  "created"
+msgstr  "دروستکرا"
+
+msgid  "enotif_subject"
+msgstr  "‫پەڕەی «$PAGETITLE»ی {{SITENAME}} بەدەستی $PAGEEDITOR $CHANGEDORCREATED"
+
+msgid  "enotif_lastvisited"
+msgstr  "بۆ بینینی ھەموو گۆرانکارییەکانی پاش دوایین سەردانت $1 ببینە."
+
+msgid  "enotif_lastdiff"
+msgstr  "بۆ بینینی ئەم گۆڕانکارییە $1 ببینە."
+
+msgid  "enotif_anon_editor"
+msgstr  "بەکارھێنەری نەناسراو $1"
+
+msgid  "enotif_body"
+msgstr  "‫$WATCHINGUSERNAMEی بەڕێز،\nپەڕەی «$PAGETITLE»ی {{SITENAME}} لە ڕێکەوتی $PAGEEDITDATE بەدەستی $PAGEEDITOR $CHANGEDORCREATED، بۆ بینینی پیاچوونەوەی ئێستای، $PAGETITLE_URL ببینە.\n\n$NEWPAGE\n\nپوختەی دەستکارییەکەی: $PAGESUMMARY $PAGEMINOREDIT\n\nپەیوەندی لەگەڵ دەستکاریکەر:\nنامە: $PAGEEDITOR_EMAIL\nویکی: $PAGEEDITOR_WIKI\n\nتا سەردانی ئەم پەڕە نەکەیت، گۆڕانکارییەکی دیکەی پەڕەکەت پێ ڕاناگەیەندرێت.\nهەروەھا دەتوانی نیشانەکانی ڕاگەیاندن بۆ هەموو پەڕەکانی لیستی چاودێریت لەسەرەتاوە ڕێکبخەیتەوە.\n\n\n             بە سوپاسەوە، سیستەمی ڕاگەیاندنی {{SITENAME}}\n--\nبۆ گۆڕینی ڕێکخستنەکانی لیستی چاودێرییەکەت، سەربدە لە\n{{fullurl:{{#special:Watchlist}}/edit}}\n\nبۆ سڕینەوەی پەڕەکە لە لیستی چاودێرییەکەت، سەربدە لە\n$UNWATCHURL\n\nرێنوێنیی زۆرتر و دەربڕینی بیروڕا:\n{{fullurl:{{MediaWiki:Helppage}}}}"
+
+msgid  "deletepage"
+msgstr  "پەڕە بسڕەوە"
+
+msgid  "confirm"
+msgstr  "پشتدار بکەرەوە"
+
+msgid  "excontent"
+msgstr  "ناوەرۆک ئەمە بوو: «$1»"
+
+msgid  "excontentauthor"
+msgstr  "ناوەرۆک ئەمە بوو: «$1» (و تەنھا بەشداربوو  «[[Special:Contributions/$2|$2]]» بوو)"
+
+msgid  "exbeforeblank"
+msgstr  "ناوەڕۆک بەر لە بەتاڵ کردنەوە ئەمە بوو: '$1'"
+
+msgid  "exblank"
+msgstr  "پەڕە خاڵی بوو"
+
+msgid  "delete-confirm"
+msgstr  "سڕینەوەی «$1»"
+
+msgid  "delete-backlink"
+msgstr  "→ $1"
+
+msgid  "delete-legend"
+msgstr  "بیسڕەوە"
+
+msgid  "historywarning"
+msgstr  "'''وشیار بە:''' پەڕەیەک کە دەتەوێ بیسڕیتەوە مێژوویەکی ھەیە بە نزیکەی $1 {{PLURAL:$1|پێداچوونەوە|پێداچوونەوە}}وە:"
+
+msgid  "confirmdeletetext"
+msgstr  "تۆ خەریکی پەڕەیەک بە ھەموو مێژووەکەیەوە دەسڕیتەو.\nتکایە پشتڕاستی بکەوە کە دەتەوێت ئەم کارە بکەی، لە ئاکامەکەی تێدەگەی، و ئەم کارە بە پێی [[{{MediaWiki:Policy-url}}|سیاسەتنامە]] ئەنجام دەدەی."
+
+msgid  "actioncomplete"
+msgstr  "کردەوە بە ئاکام گەیشت"
+
+msgid  "actionfailed"
+msgstr  "کردارەکە سەرنەکەوت"
+
+msgid  "deletedtext"
+msgstr  "«<nowiki>$1</nowiki>»  سڕایەوە.\nسەیری $2 بکە بۆ تۆمارێکی دوایین سڕینەوەکان."
+
+msgid  "deletedarticle"
+msgstr  "«[[$1]]»ی سڕییەوە"
+
+msgid  "suppressedarticle"
+msgstr  "«[[$1]]»ی دامرکاندەوە"
+
+msgid  "dellogpage"
+msgstr  "لۆگی سڕینەوە"
+
+msgid  "dellogpagetext"
+msgstr  "ئەوەی خوارەوە لیستێكە لە دوایین سڕینەوەکان"
+
+msgid  "deletionlog"
+msgstr  "لۆگی سڕینەوە"
+
+msgid  "reverted"
+msgstr  "گەڕێندراوە بۆ پێداچوونەوەی پێشووتر"
+
+msgid  "deletecomment"
+msgstr  "ھۆکار:"
+
+msgid  "deleteotherreason"
+msgstr  "ھۆکاری دیکە:"
+
+msgid  "deletereasonotherlist"
+msgstr  "ھۆکاری دیکە"
+
+msgid  "deletereason-dropdown"
+msgstr  "* ھۆکاری سڕینەوە\n** داواکاریی نووسەر\n** تێکدانی مافی لەبەرگرتنەوە\n** خراپکاری"
+
+msgid  "delete-edit-reasonlist"
+msgstr  "دەستکاری کردنی ھۆکارەکانی سڕینەوە"
+
+msgid  "delete-toobig"
+msgstr  "ئەم لاپەڕە مێژوویەکی دەستکاری زۆر گەورەی هەیە، زیاتر لە $1 {{PLURAL:$1|پێداچوونەوە|پێداچوونەوە}}.\nبۆ بەرگری لە خراپ‌بوونی چاوەڕوان نەکراوی {{SITENAME}}، سڕینەوەی لاپەڕەی وا بەربەست‌کراوە."
+
+msgid  "delete-warning-toobig"
+msgstr  "ئەم لاپەڕە مێژوویەکی دەستکاری زۆر گەورەی هەیە، زیاتر لە $1 {{PLURAL:$1|پێداچوونەوە|پێداچوونەوە}}.\nسڕینەوی ئەوە لە وانەیە کارەکانی بنکەدراوی {{SITENAME}} تووشی کێشە بکات؛\nدوورنواڕانە جێ‌بەجێی بکە."
+
+msgid  "rollback"
+msgstr  "گەڕاندنەوەی دەستکارییەکان"
+
+msgid  "rollback_short"
+msgstr  "گەڕاندنەوە"
+
+msgid  "rollbacklink"
+msgstr  "گەڕاندنەوە"
+
+msgid  "rollbackfailed"
+msgstr  "گەڕاندنەوە سەرکەوتوو نەبوو"
+
+msgid  "cantrollback"
+msgstr  "دەستکاریەکان ناگەڕێندرێتەوە؛\nدوایین هاوبەش تەنها ڕێکخەری ئەم لاپەڕەیە."
+
+msgid  "alreadyrolled"
+msgstr  "دوایین گۆڕانکاریەکانی لەسەر [[:$1]] لە لایەن [[User:$2|$2]] ناگەڕێندرێنەوە ([[User talk:$2|وتووێژ]]{{int:pipe-separator}}[[Special:Contributions/$2|{{int:contribslink}}]])؛ کەسێکی دیکە لە پێش‌دا دەستکاری کردووە یان گەڕاندوویەتەوە.\n\nدوایین دەستکاری ئەم لاپەڕە [[User:$3|$3]] کردوویە ([[User talk:$3|وتووێژ]]{{int:pipe-separator}}[[Special:Contributions/$3|{{int:contribslink}}]])."
+
+msgid  "editcomment"
+msgstr  "پوختەی دەستکاری \"''$1''\" بوو."
+
+msgid  "revertpage"
+msgstr  "گەڕاندنەوەی دەستکارییەکان لەلایەن [[Special:Contributions/$2|$2]] ([[User talk:$2|لێدوان]]) بۆ دوایین دەستکاریی [[User:$1|$1]]"
+
+msgid  "rollback-success"
+msgstr  "دەستکارییەکانی $1 وەرگێرایەوە؛<br />\nگۆڕدرا بۆ دوایین دەستکاریی $2."
+
+msgid  "sessionfailure"
+msgstr  "لەوەدەچی کێشەیەک لە دانیشتنی چوونەژوورەوەت (login session)دا ببێت.\nئەم کردەوە هەڵوەشێندرایەوە بۆ بەرگری لە دزینی دراوەکانی دانیشتن.\nتکایە بگەڕێوە بۆ پەڕەی پێشوو و نوێی بکەوە، ئینجا دیسان تاقیی بکەوە."
+
+msgid  "protectlogpage"
+msgstr  "لۆگی پاراستن"
+
+msgid  "protectlogtext"
+msgstr  "لەخوارەوە لیستێک لە لاپەڕە داخراوەکان و کراوەکان دەبینی.\nبۆ دیتنی لیستی ئەو لاپەرانەی ئێستە پاراستنیان لە ئارادایە [[Special:ProtectedPages|لیستی لاپەڕە پارێزراوەکان ]] ببینە."
+
+msgid  "protectedarticle"
+msgstr  "«[[$1]]»ی پاراست"
+
+msgid  "modifiedarticleprotection"
+msgstr  "ئاستی پاراستنی «[[$1]]»ی گۆڕا"
+
+msgid  "unprotectedarticle"
+msgstr  "\"[[$1]]\" لە حاڵی ئێستا دا نەپازراوە"
+
+msgid  "movedarticleprotection"
+msgstr  "ڕێککارییەکانی پاراستن لە  \"[[$2]]\" گوازرایەوە بۆ \"[[$1]]\""
+
+msgid  "protect-title"
+msgstr  "گۆڕینی ئاستی پاراستنی \"$1\""
+
+msgid  "prot_1movedto2"
+msgstr  "[[$1]] گوازراوەتەوە بۆ [[$2]]"
+
+msgid  "protect-backlink"
+msgstr  "← $1"
+
+msgid  "protect-legend"
+msgstr  "پاراستن تەیید بکە"
+
+msgid  "protectcomment"
+msgstr  "ھۆکار:"
+
+msgid  "protectexpiry"
+msgstr  "ھەتا:"
+
+msgid  "protect_expiry_invalid"
+msgstr  "کاتی بەسەرچوون نادروستە:"
+
+msgid  "protect_expiry_old"
+msgstr  "کاتی بەسەرچوون ڕابردووە"
+
+msgid  "protect-text"
+msgstr  "دەتوانی لێرەوە ئاستی پاراستنی پەڕەی '''<nowiki>$1</nowiki>''' ببینی و بیشیگۆڕی."
+
+msgid  "protect-locked-blocked"
+msgstr  "ناتوانیت ئاستی پاراستن بگۆڕیت کاتێ بەستراوە.\nئەوە هەڵبژاردەکانی ئێستای ڕێکخستنی بۆ لاپەڕە '''$1''':"
+
+msgid  "protect-locked-dblock"
+msgstr  "ئاستەکانی پاراستن ناگۆڕدرێن کاتێ بنکەدراوی چالاک داخرابێت.\nئەوە هەڵبژاردەکانی ئێستای ڕێکخستنی بۆ لاپەڕە '''$1''':"
+
+msgid  "protect-locked-access"
+msgstr  "ھەژمارەکەت ڕێگەی ئەوەی پێ نەدراوە کە بتوانێت ئاستی پاراستنی پەڕە بگۆڕێت.\nڕێککارییەکانی ئێستای پەڕەی '''$1''' ئەمەتە:"
+
+msgid  "protect-cascadeon"
+msgstr  "ھەنووکە ئەم پەڕە پارێزراوە بۆ ئەوەی کە لە نێو ئەم {{PLURAL:$1|پەڕە کە پاراستنی تاڤگەییی|پەڕانە کە پاراستنی تاڤگەیییان}} بۆ چالاککراوە، ھێنراوە.\nدەتوانی ئاستی پاراستنی ئەم پەڕە بگۆڕی، بەڵام ھیچ کاریگەرییەکی نابێت لە سەر پاراستنی تاڤگەیی"
+
+msgid  "protect-default"
+msgstr  "بە ھەموو بەکارھێنەران ڕێگە بدە"
+
+msgid  "protect-fallback"
+msgstr  "پێویستی بە ئیزنی «$1» ھەیە"
+
+msgid  "protect-level-autoconfirmed"
+msgstr  "بەکارھێنەرانی نوێ و تۆمارنەکراو ئاستەنگ بکە"
+
+msgid  "protect-level-sysop"
+msgstr  "تەنھا بەڕێوەبەران"
+
+msgid  "protect-summary-cascade"
+msgstr  "تاڤگەیی"
+
+msgid  "protect-expiring"
+msgstr  "بەسەردەچێ لە ڕێکەوتی $1 (UTC)"
+
+msgid  "protect-expiry-indefinite"
+msgstr  "بێسنوور"
+
+msgid  "protect-cascade"
+msgstr  "پەڕەکانی نێو ئەم پەڕە بپارێزە (پاراستنی تاڤگەیی)"
+
+msgid  "protect-cantedit"
+msgstr  "ناتوانی ئاستی پاراستنی ئەم پەڕە بگۆڕی، چونکوو تۆ ئیجازەی ئەم کارەت نیە."
+
+msgid  "protect-othertime"
+msgstr  "کاتی دیکە:"
+
+msgid  "protect-othertime-op"
+msgstr  "کاتی دیکە"
+
+msgid  "protect-existing-expiry"
+msgstr  "ئەم کاتی بەسەرچوونی ماوە کە هەیە: $3، $2"
+
+msgid  "protect-otherreason"
+msgstr  "هۆکاری زیادکراو\\دیکە:"
+
+msgid  "protect-otherreason-op"
+msgstr  "ھۆکاری دیکە"
+
+msgid  "protect-dropdown"
+msgstr  "*ھۆکارە باوەکانی پاراستن\n** خراپکاریی لەڕادەبەدەر\n** سپامی لەڕادەبەدەر\n** شەڕە دەستکاریی بێ‌سوود\n** پەڕەی زۆربینەردار"
+
+msgid  "protect-edit-reasonlist"
+msgstr  "دەستکاری کردنی ھۆکارەکانی پاراستن"
+
+msgid  "protect-expiry-options"
+msgstr  "١ کاتژمێر:1 hour,١ ڕۆژ:1 day,١ ھەفتە:1 week,٢ ھەفتە:2 weeks,١ مانگ:1 month,٣ مانگ:3 months,٦ مانگ:6 months,١ ساڵ:1 year,بی‌بڕانەوە:infinite"
+
+msgid  "restriction-type"
+msgstr  "ئیزن:"
+
+msgid  "restriction-level"
+msgstr  "ئاستی سنووردارکردن:"
+
+msgid  "minimum-size"
+msgstr  "کەمترین قەبارە"
+
+msgid  "maximum-size"
+msgstr  "زۆرترین قەبارە:"
+
+msgid  "pagesize"
+msgstr  "(بایت)"
+
+msgid  "restriction-edit"
+msgstr  "دەستکاری"
+
+msgid  "restriction-move"
+msgstr  "گواستنەوە"
+
+msgid  "restriction-create"
+msgstr  "دروستکردن"
+
+msgid  "restriction-upload"
+msgstr  "بارکردن"
+
+msgid  "restriction-level-sysop"
+msgstr  "تەواو پارێزراو"
+
+msgid  "restriction-level-autoconfirmed"
+msgstr  "نیوە پارێزراو"
+
+msgid  "restriction-level-all"
+msgstr  "هەر ئاستێک"
+
+msgid  "undelete"
+msgstr  "پەڕە سڕاوەکان ببینە"
+
+msgid  "undeletepage"
+msgstr  "پەڕە سڕاوەکان ببینە و بگەڕێنەوە"
+
+msgid  "undeletepagetitle"
+msgstr  "'''ئەمە تێکەڵ‌کراوەی پێداچوونەوە سڕدراوەکانی [[:$1|$1]]'''."
+
+msgid  "viewdeletedpage"
+msgstr  "پەڕە سڕاوەکان ببینە"
+
+msgid  "undeletepagetext"
+msgstr  "ئەم {{PLURAL:$1|سڕاوەتەوە|$1 لاپەڕە سڕاونەتەوە}} بەڵام لەبەر ئەوەی لە ئەرشیڤ‌دا هەن هێشتا دەتوانی بیانهێنیتەوە.\nئەرشیڤ چەن‌وەخت جارێ لە کاتی دیاری‌کراودا خاوێن‌دەکرێتەوە."
+
+msgid  "undelete-fieldset-title"
+msgstr  "هێنانەوەی پێداچوونەوەکان"
+
+msgid  "undeleteextrahelp"
+msgstr  "بۆ هێنانەوەی هەموو مێژووی لاپەڕەیەک، تەواوی چوارچێوەکانی نیشان‌کردن بەتاڵ بهێڵەوە و کرتە بکە سەر '''''هێنانەوە'''''.\nبۆ ئەنجامی گەڕانەوەیەکی هەڵبژاردوو، چوارچێوەی بەرامبەر ئەو پێداچوونەوی دەتەوێ بیهێنیتەوە، نیشان‌بکە و  کرتە بکە سەر '''''هێنانەوە'''''.\nکرتەکردن سەر '''''بردنەوە نووک''''' ئەبێتە هۆی سڕینەوەی شوێنی بۆچوونەکان و بەتاڵ بوونەوەی چوارچێوەکان."
+
+msgid  "undeleterevisions"
+msgstr  "$1 {{PLURAL:$1|پێداچوونەوە|پێداچوونەوە}} ئەرشیڤ‌کرا"
+
+msgid  "undeletehistory"
+msgstr  "ئەگەر لاپەڕەیەک بهێنیتەوە، هەموو پێداچوونەوەکانی دەگەڕێنەوە بۆ لاپەڕەی مێژوو.\nئەگەر لە کاتی سڕاوەبوون، لاپەڕەیەک هەر بەو ناوە درووست‌کرابێت، پێداچوونەوە هێنراوەکان لە لاپەڕەی مێژووی کۆن‌دا نیشان ئەدرێت."
+
+msgid  "undeletehistorynoadmin"
+msgstr  "ئەم لاپەڕە سڕاوەتەوە.\nلەو پۆختەی لە خوارەوە دەیبینی، هۆکاری سڕینەوە و هەروا وردەکاریەکان سەبارە بەو کەسەی پێش سڕینەوە دەستکاری لاپەڕەکەی کردووە، دەست‌دەکەوێ.\nدەقی ڕاستی ئەم پێداچوونەوە سڕاوانە تەنها بۆ بەڕێوبەران دەست‌پێ‌گەیشتنی هەیە."
+
+msgid  "undelete-revision"
+msgstr  "پێداچوونەوەی سڕاوەی $1 (لە $4،  $5) لەلایەن $3:"
+
+msgid  "undeleterevision-missing"
+msgstr  "پێداچوونەوەی نادیار یا نەناسراو.\nلەوانەیە خەریکی لە بەستەرێکی خراپ کەڵک وەر ئەگری ئا لەوانەیە پێداچوونەوەکە لە ئەرشیڤ لابرابێت."
+
+msgid  "undelete-nodiff"
+msgstr  "هیچ پێداچوونەوەیەکی پێشو نەدۆزرایەوە."
+
+msgid  "undeletebtn"
+msgstr  "هێنانەوە"
+
+msgid  "undeletelink"
+msgstr  "ببینە/بگەڕێنەوە"
+
+msgid  "undeleteviewlink"
+msgstr  "دیتن"
+
+msgid  "undeletereset"
+msgstr  "بردنەوە نووک"
+
+msgid  "undeleteinvert"
+msgstr  "هەڵگێڕانەوەی هەڵبژاردن"
+
+msgid  "undeletecomment"
+msgstr  "هۆکار:"
+
+msgid  "undeletedarticle"
+msgstr  "«[[$1]]» گێڕایەوە"
+
+msgid  "undeletedrevisions"
+msgstr  "{{PLURAL:$1|1 پێداچوونەوە|$1 پێداچوونەوە}} هێنرایەوە"
+
+msgid  "undeletedrevisions-files"
+msgstr  "{{PLURAL:$1|1 پێداچوونەوە|$1 پێداچوونەوە}} و {{PLURAL:$2|1 پەڕگە|$2 پەڕگە}} هێنرایەوە"
+
+msgid  "undeletedfiles"
+msgstr  "{{PLURAL:$1|1 پەڕگە|$1 پەڕگە}} هێنرایەوه"
+
+msgid  "cannotundelete"
+msgstr  "لە سڕین گەڕانەوە سەرکەوتوو نەبوو؛\nکەسێکی دیکە پێش تۆ گەڕاندوویەتەوە."
+
+msgid  "undeletedpage"
+msgstr  "'''$1 هێنراوەتەوە'''\n\nبۆ دیتنی پێشینەی دوایین سڕینەوەکان و هێنانەوەکان سەرنجی [[Special:Log/delete|لۆگی سڕینەوە]] بدە."
+
+msgid  "undelete-header"
+msgstr  "بۆ دیتنی ئەو لاپەڕانەی لەم داییانەدا سڕاونەتەوە چاو لە [[Special:Log/delete|لۆگی سڕینەوە]] بکە."
+
+msgid  "undelete-search-box"
+msgstr  "گەڕان بۆ لاپەڕە سڕاوەکان"
+
+msgid  "undelete-search-prefix"
+msgstr  "نیشان‌دانی ئەو لاپەڕانەی دەستپێکیان ئەمەیە:"
+
+msgid  "undelete-search-submit"
+msgstr  "گەڕان"
+
+msgid  "undelete-no-results"
+msgstr  "لە ئەرشیڤی سڕاوەکانی لاپەڕەیەکی هاوتا نەدۆزرایەوە."
+
+msgid  "undelete-cleanup-error"
+msgstr  "هەڵە لە سڕینەوەی ئەرشیڤی بەکەڵک نەهاتووی پەڕگە \"$1\"."
+
+msgid  "undelete-missing-filearchive"
+msgstr  "ناکرێ ئەرشیڤی پەڕگە بە پێناسەی $1 بهێنیتەوە لەبەر ئەوەی لە ناو بنکەی دراوە‌دا نییە.\nلەوانەیە لە‌پێش‌دا هێنرابێتەوە."
+
+msgid  "undelete-error-short"
+msgstr  "هەڵە لە گەڕاندنەوەی سڕینەوەی پەڕگە: $1"
+
+msgid  "undelete-error-long"
+msgstr  "هەڵەیەک لە کاتی گەڕاندنەوەی سڕینەوەی پەڕگە ڕووی‌دا:\n\n$1"
+
+msgid  "undelete-show-file-confirm"
+msgstr  "ئایا ئەرخەیانی کە دەتەوێ پێداچوونەوە سراوەکەی پەڕگەی \"<nowiki>$1</nowiki>\" لە $2 لە $3 ببینی؟"
+
+msgid  "undelete-show-file-submit"
+msgstr  "بەڵێ"
+
+msgid  "namespace"
+msgstr  "بۆشاییی ناو:"
+
+msgid  "invert"
+msgstr  "ھەڵبژاردەکان پێچەوانە بکە"
+
+msgid  "blanknamespace"
+msgstr  "(سەرەکی)"
+
+msgid  "contributions"
+msgstr  "بەشدارییەکانی بەکارھێنەر"
+
+msgid  "contributions-title"
+msgstr  "بەشدارییەکانی بەکارھێنەر $1"
+
+msgid  "mycontris"
+msgstr  "بەشدارییەکانم"
+
+msgid  "contribsub2"
+msgstr  "بۆ $1 ($2)"
+
+msgid  "nocontribs"
+msgstr  "هیچ گۆڕانکاریەکی هاوتای ئەم پێوەرانە نودۆزرایەوە"
+
+msgid  "uctop"
+msgstr  "(سەر)"
+
+msgid  "month"
+msgstr  "لە مانگی (و پێشترەوە):"
+
+msgid  "year"
+msgstr  "لە ساڵی (و پێشترەوە):"
+
+msgid  "sp-contributions-newbies"
+msgstr  "تەنھا بەشدارییەکانی بەکارھێنەرە تازەکان نیشان بدە"
+
+msgid  "sp-contributions-newbies-sub"
+msgstr  "لە بەکارھێنەرە تازەکانەوە"
+
+msgid  "sp-contributions-newbies-title"
+msgstr  "هاوبەشیەکانی بەکارهێنەر بۆ هەژمارە نوێکان"
+
+msgid  "sp-contributions-blocklog"
+msgstr  "لۆگی بەربەستن"
+
+msgid  "sp-contributions-deleted"
+msgstr  "بەشدارییە سڕاوەکان"
+
+msgid  "sp-contributions-uploads"
+msgstr  "بارکردنەکان"
+
+msgid  "sp-contributions-logs"
+msgstr  "تۆمارەکان"
+
+msgid  "sp-contributions-talk"
+msgstr  "لێدوان"
+
+msgid  "sp-contributions-userrights"
+msgstr  "بەڕێوبەرایەتی مافەکانی بەکارهێنەر"
+
+msgid  "sp-contributions-search"
+msgstr  "گەڕین بۆ بەشدارییەکان"
+
+msgid  "sp-contributions-username"
+msgstr  "ناونیشانی ئای‌پی یان ناوی‌ بەکارھێنەری:"
+
+msgid  "sp-contributions-toponly"
+msgstr  "تەنیا ئەو دەستکارییانە نیشانبدە کە دوایین پیاچوونەوەن"
+
+msgid  "sp-contributions-submit"
+msgstr  "بگەڕێ"
+
+msgid  "whatlinkshere"
+msgstr  "بەسراوەکان بە ئێرەوە"
+
+msgid  "whatlinkshere-title"
+msgstr  "ئەو پەڕانەی بەستەریان ھەیە بۆ «$1»"
+
+msgid  "whatlinkshere-page"
+msgstr  "پەڕە:"
+
+msgid  "linkshere"
+msgstr  "ئەم پەڕانە بەستەریان ھەیە بۆ '''[[:$1]]''':"
+
+msgid  "nolinkshere"
+msgstr  "هیچ لاپەڕەیەک بەستەری نەداوە بە '''[[:$1]]'''."
+
+msgid  "nolinkshere-ns"
+msgstr  "هیچ لاپەڕەیەک بەستەری نەداوە بە '''[[:$1]]''' لە بۆشایی‌ناوی هەڵبژێردراو."
+
+msgid  "isredirect"
+msgstr  "پەڕەی ڕەوانەکردن"
+
+msgid  "istemplate"
+msgstr  "بەکارھێنراو"
+
+msgid  "isimage"
+msgstr  "بەستەری وێنە"
+
+msgid  "whatlinkshere-prev"
+msgstr  "{{PLURAL:$1|پێشتر|$1 ی پێشتر}}"
+
+msgid  "whatlinkshere-next"
+msgstr  "{{PLURAL:$1|دیکە|$1 ی دیکە}}"
+
+msgid  "whatlinkshere-links"
+msgstr  "← بەستەرەکان"
+
+msgid  "whatlinkshere-hideredirs"
+msgstr  "ڕەوانەکراوەکان $1"
+
+msgid  "whatlinkshere-hidetrans"
+msgstr  "ترانسکلوژنه‌کانی $1"
+
+msgid  "whatlinkshere-hidelinks"
+msgstr  "$1 بەستەر"
+
+msgid  "whatlinkshere-hideimages"
+msgstr  "بەستەرەکانی وێنەی $1"
+
+msgid  "whatlinkshere-filters"
+msgstr  "پاڵێوکەکان"
+
+msgid  "blockip"
+msgstr  "بەربەستنی بەکارھێنەر"
+
+msgid  "blockip-legend"
+msgstr  "بەربەست‌کردنی بەکارهێنەر"
+
+msgid  "blockiptext"
+msgstr  "لەم فۆرمەی خوارەوە دەتوانی بۆ بەربەست‌کردنی دەست‌پێ‌گەیشتنی نووسین لە ناونیشانێکی ئای‌پی تایبەت یا ناوی بەکارهێنەریەک، کەڵک وەرگریت.\nئەمە تەنها دەبێ بۆ بەرگری لە خراپکاری بەکاربێت و ڕێکەوتنی هەبێ دەگەڵ [[{{MediaWiki:Policy-url}}|سیاسەتەکان]].\nلە خوارەوە هۆکارێک بە ڕوونی بنووسە (بۆ نموونە بە وردی ئەو لاپەڕانە و خراپکاری تێدا کراوە وەک، وەک بەڵگە، بنووسە)."
+
+msgid  "ipaddress"
+msgstr  "ناونیشانی IP:"
+
+msgid  "ipadressorusername"
+msgstr  "ناونیشانی ئای‌پی یان ناوی‌ بەکارهێنەری:"
+
+msgid  "ipbexpiry"
+msgstr  "بەسەرچوون:"
+
+msgid  "ipbreason"
+msgstr  "هۆکار:"
+
+msgid  "ipbreasonotherlist"
+msgstr  "هۆکاری تر"
+
+msgid  "ipbreason-dropdown"
+msgstr  "*هۆکارە هاوبەشەکانی بەربست‌کران\n**دانانی زانیاریی هەڵە\n**لابردنی ناوەڕۆکی لاپەڕەکان\n**بەستەر بۆ لاپەڕەی دەرەکی نەگونجاو\n**نووسینی قسەی بێ‌مانا و بێ‌سوود\n**هەڵسووکەوت یان وتاری هاندەر بۆ توندوتیژی\n**بەکارهێنانی چەن هەژمارە پێکەوە\n**ناوی بەکارهێنەریی نەگونجاو"
+
+msgid  "ipbanononly"
+msgstr  "تەنها بەربەست‌کردنی بەکارهێنەرانی نەناسراو"
+
+msgid  "ipbcreateaccount"
+msgstr  "بەرگری لە درووست‌کردنی هەژمارە"
+
+msgid  "ipbemailban"
+msgstr  "بەرگری لە ئی‌مەیل ناردنی بەکارهێنەر"
+
+msgid  "ipbenableautoblock"
+msgstr  "خۆکار بەربەست‌کردنی ئەو ناونیشانی‌ ئای‌پیە وا ئەم بەکار‌هێنەرە کەڵکی لێ‌وەرگرتووە و ئەو ئای‌پی‌یانەی دیکە وا لەوێوە هەوڵی دەستکاری ئەدەن."
+
+msgid  "ipbsubmit"
+msgstr  "بەربەست‌کردنی ئەم بەکارهێنەرە"
+
+msgid  "ipbother"
+msgstr  "کاتی‌ دیکە:"
+
+msgid  "ipboptions"
+msgstr  "٢ کاتژمێر:2 hours,١ ڕۆژ:1 day,٣ ڕۆژ:3 days,١ ھەفتە:1 week,٢ ھەفتە:2 weeks,١ مانگ:1 month,٣ مانگ:3 months,٦ مانگ:6 months,١ ساڵ:1 year,بێ‌سنوور:infinite"
+
+msgid  "ipbotheroption"
+msgstr  "دیکە"
+
+msgid  "ipbotherreason"
+msgstr  "هۆکاری زیادکراو\\دیکە:"
+
+msgid  "ipbhidename"
+msgstr  "شاردنەوەی ناوی‌ بەکارهێنەر لە دەستکاری و لیستەکان"
+
+msgid  "ipbwatchuser"
+msgstr  "دیتنی لاپەڕەی بەکارهێنەر و وتووێژی ئەم بەکارهێنەرە"
+
+msgid  "ipballowusertalk"
+msgstr  "ڕێگەدان بە ئەم بەکارهێنەرە کە لاپەڕەی وتووێژی خۆی دەستکاری بکات، کاتێ بەربەست‌کراوە"
+
+msgid  "ipb-change-block"
+msgstr  "دیسان بەربەست‌کردنەوەی ئەم بەکارهێنەرە بەم هەڵبژاردانە"
+
+msgid  "badipaddress"
+msgstr  "ناونیشانی ئای‌پی نەگونجاو"
+
+msgid  "blockipsuccesssub"
+msgstr  "بەربەست کردن سەرکەوتوو بوو"
+
+msgid  "blockipsuccesstext"
+msgstr  "[[Special:Contributions/$1|$1]] بەربەست‌کراوە.<br />\nبۆ دیتنی بەربەست‌کراوەکان، چاو لە [[Special:IPBlockList|لیستی بەربەستی ئای‌پی]] بکە."
+
+msgid  "ipb-edit-dropdown"
+msgstr  "دەستکاری هۆکارەکانی بەربەست"
+
+msgid  "ipb-unblock-addr"
+msgstr  "لە بەربەست‌دەرهێنانی $1"
+
+msgid  "ipb-unblock"
+msgstr  "لە بەربەست‌دەرهێنانی ناوی بەکارهێنەریەک یا ناونیشانێکی ئای‌پی"
+
+msgid  "ipb-blocklist"
+msgstr  "دیتنی ئەو بەربەستانەی وا هەیە"
+
+msgid  "ipb-blocklist-contribs"
+msgstr  "هاوبەشیەکان بۆ $1"
+
+msgid  "unblockip"
+msgstr  "لە بەربەست‌دەرهێنانی بەکارهێنەر"
+
+msgid  "unblockiptext"
+msgstr  "بۆ گەڕاندنەوەی دەست‌پی‌گەیشتنی نووسین بۆ ئەو دوایین ئای‌پی یان بەکارهێنەری بەربەست کراوە، لەو فۆرمەی خوارەوە کەڵک وەرگرە."
+
+msgid  "ipusubmit"
+msgstr  "لابردنی ئەم بەربەستە"
+
+msgid  "unblocked"
+msgstr  "[[User:$1|$1]] لە بەربەست دەرهێنرا"
+
+msgid  "unblocked-id"
+msgstr  "بەربەستی $1 لابرا"
+
+msgid  "ipblocklist"
+msgstr  "بەکارھێنەر بەربەستنکراوەکان"
+
+msgid  "ipblocklist-legend"
+msgstr  "دۆزینەوەی بەکارهێنەرێکی بەربەست‌کراو"
+
+msgid  "ipblocklist-username"
+msgstr  "ناوی‌ بەکارهێنەری یان ناونیشانی ئای‌پی:"
+
+msgid  "ipblocklist-sh-userblocks"
+msgstr  "$1 بەربەستی هەژمارە"
+
+msgid  "ipblocklist-sh-tempblocks"
+msgstr  "$1 بەربەستی کاتی"
+
+msgid  "ipblocklist-sh-addressblocks"
+msgstr  "$1 بەربەستی تاکە ئای‌پی"
+
+msgid  "ipblocklist-submit"
+msgstr  "گەڕان"
+
+msgid  "blocklistline"
+msgstr  "$1، $2 بەربەستی کرد $3 ($4)"
+
+msgid  "infiniteblock"
+msgstr  "بێکۆتایی"
+
+msgid  "expiringblock"
+msgstr  "لە $2، $1 ماوەی بەسەر دەچێ"
+
+msgid  "anononlyblock"
+msgstr  "تەنها بۆ چەن سات"
+
+msgid  "noautoblockblock"
+msgstr  "بەربەستی خۆکار لەکار خسترا"
+
+msgid  "createaccountblock"
+msgstr  "درووست‌کردنی هەژمارە بەربەست کرا"
+
+msgid  "emailblock"
+msgstr  "ئی‌مەیل بەربەست‌کرا"
+
+msgid  "blocklist-nousertalk"
+msgstr  "دەستکاری لاپەڕەی وتووێژی خۆ ناکرێت"
+
+msgid  "ipblocklist-empty"
+msgstr  "لیستی بەربەستەکان بەتاڵە"
+
+msgid  "ipblocklist-no-results"
+msgstr  "ئای‌پی ئەدرەس یان ناوی‌ بەکارهێنەری داواکراو بەربەست نەکراوە."
+
+msgid  "blocklink"
+msgstr  "بەربەستن"
+
+msgid  "unblocklink"
+msgstr  "بەربەستن لابە"
+
+msgid  "change-blocklink"
+msgstr  "بەربەستن بگۆڕە"
+
+msgid  "contribslink"
+msgstr  "بەشدارییەکان"
+
+msgid  "autoblocker"
+msgstr  "خۆکار بەربەست‌کراوە لەبەر ئەوەی ناونیشانی ئای‌پی تۆ لەم دواییانەدا لە لایەن \"[[User:$1|$1]]\" بەکار هاتووە.\nهۆکاری بەربەست‌کرانی $1 ئەمەیە: \"$2\""
+
+msgid  "blocklogpage"
+msgstr  "لۆگی بەربەستن"
+
+msgid  "blocklogentry"
+msgstr  "[[$1]] ئاستەنگ کرا بۆ ماوەی $2 $3"
+
+msgid  "reblock-logentry"
+msgstr  "دۆخی ئاستەنگ کردنی [[$1]]  بۆ گۆڕدرا بۆ ماوەی $2 $3"
+
+msgid  "blocklogtext"
+msgstr  "ئەمە لۆگی کردەوەکانی بەربەست‌کران یا لابردنی بەربەستی بەکارهێنەرە.\nبەربەست‌کرانی خۆکاری ئای‌پی لەم لیستەدا نەهاتوون.\nبۆ دیتنی ئەو بەربەستانە ئێستە لە ئارادان چاو لە [[Special:IPBlockList|لیستی بەربەستی ئای‌پی]] بکە."
+
+msgid  "unblocklogentry"
+msgstr  "بەربەستنی \"$1\" بەتاڵ کرا"
+
+msgid  "block-log-flags-anononly"
+msgstr  "تەنها بەکارهێنەرە نەناسراوەکان"
+
+msgid  "block-log-flags-nocreate"
+msgstr  "دروستکردنی ھەژمار ناچالاککراوە"
+
+msgid  "block-log-flags-noautoblock"
+msgstr  "بەربست‌کردنی خۆکار لە کار خسترا"
+
+msgid  "block-log-flags-noemail"
+msgstr  "ئی‌مەیل بەربەست‌کراوە"
+
+msgid  "block-log-flags-nousertalk"
+msgstr  "دەستکاری لاپەڕەی وتووێژی خۆ ناکرێت"
+
+msgid  "block-log-flags-angry-autoblock"
+msgstr  "بەربەستی خۆکاری پێشکەوتوو خستراوەتە کار"
+
+msgid  "block-log-flags-hiddenname"
+msgstr  "شاردنەوەی ناوی‌بەکارهێنەری"
+
+msgid  "range_block_disabled"
+msgstr  "تایبەتمەندی بەڕێوەبەر بۆ بەربەست‌کردنی زنجیرە لە کارخستراوە."
+
+msgid  "ipb_expiry_invalid"
+msgstr  "کاتی بەسەرچوونی نەگونجاو."
+
+msgid  "ipb_expiry_temp"
+msgstr  "بەربەستی ناوی‌بەکارهێنەرە شاراوەکان دەبێ پایەدار بێت."
+
+msgid  "ipb_hide_invalid"
+msgstr  "بەرگری لەم هەژمارە ناکرێت، لەوانەیە دەستکاری زۆری هەبێت."
+
+msgid  "ipb_already_blocked"
+msgstr  "\"$1\" لە پێش‌دا بەربەست‌‌کراوە"
+
+msgid  "ipb-needreblock"
+msgstr  "== لەپێش‌دا بەربەست‌کراو ==\n\"$1\" لە پێش‌دا بەربەست‌‌کراوە.\nئایا دەتەو‌ێ هەڵبژاردەکانی بگۆڕیت؟"
+
+msgid  "ipb_cant_unblock"
+msgstr  "پێناسەی بەربەست‌کردنی $1 نەدۆزرایەوە.\nلەوانەیە لە بەربەستی لابرابێت."
+
+msgid  "ipb_blocked_as_range"
+msgstr  "هەڵە: ئای‌پی $1 ڕاستەوخۆ بەربەست نەکراوە بۆیە ناکڕێت لە بەربەست لای‌ بەیت.\nئەوە وەک بەشێک لە زنجیرە ئای‌پیی $2 بەربەست کراوە و هەر بەو شێوە دەکرێ لە بەربەست دەرچێ."
+
+msgid  "ip_range_invalid"
+msgstr  "زنجیرە ئای‌پی نەگونجاو."
+
+msgid  "blockme"
+msgstr  "بەربەست‌کردنی من"
+
+msgid  "proxyblocker"
+msgstr  "بەربەست‌کەری پرۆکسی"
+
+msgid  "proxyblocker-disabled"
+msgstr  "ئەم فەنکشێنە لەکار خستراوە."
+
+msgid  "proxyblockreason"
+msgstr  "ناونیشانی ئای‌پی تۆ بەربەست‌کراوە لەبەر ئەوەی پرۆکسیەکی کراوەیە.\nتکایە پەیوەندی بکە بە دابینکەری خزمەتی ئینتەرنەتی خۆت یان پاڵپشتی تەکنیکی و ئاگادریان کەوە لەو کێشە ئەمنیە گرینگە."
+
+msgid  "proxyblocksuccess"
+msgstr  "جێ‌بەجێ‌کرا."
+
+msgid  "sorbsreason"
+msgstr  "ناونیشانی ئای‌پی تۆ لە DNSBLدا کە {{SITENAME}} کەڵکی لێ‌وەر دەگرێ، وەک پرۆکسیەکی کراوە لیست کراوە."
+
+msgid  "sorbs_create_account_reason"
+msgstr  "ناونیشانی ئای‌پی تۆ لە DNSBLدا کە {{SITENAME}} کەڵکی لێ‌وەر دەگرێ، وەک پرۆکسیەکی کراوە لیست کراوە.\nبۆیە ناتوانی هەژمارە درووست‌بکەی."
+
+msgid  "cant-block-while-blocked"
+msgstr  "کاتێ خۆت بەربەست‌کراوی، ناتوانی بەکارهێنەرانی دیکە بەربەست بکەی."
+
+msgid  "lockdb"
+msgstr  "داخستنی بنکەدراوە"
+
+msgid  "unlockdb"
+msgstr  "کردنەوەی بنکەدراوە"
+
+msgid  "lockdbtext"
+msgstr  "داخستنی بنکەدراوە ئەبێتە هۆی ڕاگرتنی توانای هەموو بەکارهێنەران بۆ دەستکاری لاپەڕەکان، گۆڕانی هەڵبژاردەکانیان، دەستکاری لیستی چاودێرییەکانیان و هەموو ئەموو ئەو شتانە وا پێویستی بە گۆرانکاری لە بنکەدراوە هەیە.\nتکایە ئەرخەیان بە ئەمە هەر ئەوەیە کە دەتەوێ بیکەی و دوای چاکسازیەکەت لەیادت بێ کە بنکەدراوەکە بکەیتەوە."
+
+msgid  "unlockdbtext"
+msgstr  "کردنەوەی بنکەدراوە ئەبێتە هۆی گەڕاندنەوەی توانای هەموو بەکارهێنەران بۆ دەستکاری لاپەڕەکان، گۆڕانی هەڵبژاردەکانیان، دەستکاری لیستی چاودێرییەکانیان و هەموو ئەموو ئەو شتانە وا پێویستی بە گۆرانکاری لە بنکەدراوە هەیە.\nتکایە ئەرخەیان بە ئەمە هەر ئەوەیە کە دەتەوێ بیکەی."
+
+msgid  "lockconfirm"
+msgstr  "بەڵێ، ئەرخەیانم دەمەوێ بنکەدراو داخەم."
+
+msgid  "unlockconfirm"
+msgstr  "بەڵێ، ئەرخەیانم دەمەوێ بنکەدراو بکەمەوە."
+
+msgid  "lockbtn"
+msgstr  "داخستنی بنکەدراو"
+
+msgid  "unlockbtn"
+msgstr  "کردنەوەی بنکەدراو"
+
+msgid  "locknoconfirm"
+msgstr  "چوارچێوەی ئەرخەیانیت نیشان‌ نەکرد."
+
+msgid  "lockdbsuccesssub"
+msgstr  "داخستنی بنکەدراو بەسەرکەوتوویی جێبەجێ کرا"
+
+msgid  "unlockdbsuccesssub"
+msgstr  "بنکەدراو کرایەوە"
+
+msgid  "lockdbsuccesstext"
+msgstr  "بنکەدراو داخرا.<br />\nلەیادت بێ دوای تەواوبوونی چاکسازی [[Special:UnlockDB|بنکەدراو بکەیتەوە]]."
+
+msgid  "unlockdbsuccesstext"
+msgstr  "بنکەدراو کرایەوە."
+
+msgid  "lockfilenotwritable"
+msgstr  "پەڕگەی داخستنی بنکەدراو سەرنووس ناکرێت.\nبۆ کردنەوە یا داخستنی بنکەدراو، پێویستە ڕاژەکار بتوانێ ئەو پەڕگە سەرنووس بکات."
+
+msgid  "databasenotlocked"
+msgstr  "بنکەدراو دانەخراوە."
+
+msgid  "move-page"
+msgstr  "$1 بگوازەوە"
+
+msgid  "move-page-legend"
+msgstr  "گواستنەوەی پەڕە"
+
+msgid  "movepagetext"
+msgstr  "بەکارھێنانی ئەم فۆرمەی خوارەوە ناوی پەڕەیەک دەگۆڕێت، بە گواستنەوەی ھەموو مێژووەکەی بۆ ناوی نوێ.\nناوە کۆنەکە دەبێتە پەڕەیەکی ئاڕاستەکردنەوە بۆ ناوە نوێکە.\nدەتوانی ئاڕاستەکان بۆ پەڕەی سەرەکی بەشێوەی خۆکار نوێ بکەیتەوە.\nدڵنیا بە کە [[Special:DoubleRedirects|دووجار ڕەوانەکراوەکان]] یان [[Special:BrokenRedirects|ڕەوانەکراوە شکاوەکان]] تاقی بکەیتەوە.\nتۆ بەرپرسیاری لەوەی کە دڵنیا ببیتەوە بەستەرەکان ھەر پێوەندییان ھەیە بەو شوێنە کە چاوەڕوان دەکرێت.\n\nدەبێت بزانی کە پەڕەکە '''ناگوازرێتەوە''' ئەگەر پێشتر پەڕەیەک بە ناوە نوێکەوە ھەبێت، مەگەر ئەوەی کە پەڕەکە واڵا یان ڕەوانەکراوەیەک بێت و ھیچ مێژووی گۆڕاندنی پێشووی نەبێت.\nئەمە بەو واتایە کە ئەگەر ھەڵەیەک بکەی دەتوانی ناوی پەڕەکە دیسانەوە بگۆڕی بۆ ناوی پێشووی، و ناتوانی بیخەیتە جێگەی پەڕەیەک کە ھەنووکە ھەیە.\n\n'''ھۆشیار بە!'''\nئەمە دەتوانێت گۆڕانێکی زۆر نابەجێ و چاوەڕێنەکراو بێت بۆ پەڕەیەکی بەناوبانگ؛\nتکایە پێش گۆڕینی ناو باش بیر لە ئاکامەکەی بکەوە."
+
+msgid  "movepagetext-noredirectfixer"
+msgstr  "بەکارھێنانی ئەم فۆرمەی خوارەوە ناوی پەڕەیەک دەگۆڕێت، بە گواستنەوەی ھەموو مێژووەکەی بۆ ناوی نوێ.\nناوە کۆنەکە دەبێتە پەڕەیەکی ڕەوانەکردنەوە بۆ ناوە نوێکە.\nدڵنیا بە کە [[Special:DoubleRedirects|دووجار ڕەوانەکراوەکان]] یان [[Special:BrokenRedirects|ڕەوانەکراوە شکاوەکان]] تاقی بکەیتەوە.\nتۆ بەرپرسیاری لەوەی کە دڵنیا ببیتەوە بەستەرەکان ھەر پێوەندییان ھەیە بەو شوێنە کە چاوەڕوان دەکرێت.\n\nدەبێت بزانی کە پەڕەکە '''ناگوازرێتەوە''' ئەگەر پێشتر پەڕەیەک بە ناوە نوێکەوە ھەبێت، مەگەر ئەوەی کە پەڕەکە واڵا یان ڕەوانەکراوەیەک بێت و ھیچ مێژووی گۆڕاندنی پێشووی نەبێت.\nئەمە بەو واتایە کە ئەگەر ھەڵەیەک بکەی دەتوانی ناوی پەڕەکە دیسانەوە بگۆڕی بۆ ناوی پێشووی، و ناتوانی بیخەیتە جێگەی پەڕەیەک کە ھەنووکە ھەیە.\n\n'''ھۆشیار بە!'''\nئەمە دەتوانێت گۆڕانێکی زۆر نابەجێ و چاوەڕێنەکراو بێت بۆ پەڕەیەکی بەناوبانگ؛\nتکایە پێش گۆڕینی ناو باش بیر لە ئاکامەکەی بکەوە."
+
+msgid  "movepagetalktext"
+msgstr  "پەڕەی وتووێژی پەیوەندیداری بە شێوەی خۆکار لەگەڵیدا دەگوازرێتەوە، '''مەگەر:'''\n* پەڕەیەکی وتووێژی ناواڵا پێشتر ھەبێت لە ژێر ناوە نوێکەدا، یان\n* ئەو چوارچێوەی خوارەوە لێنەدراو بکەی.\n\nلەو حاڵەتەدا، ئەگەر بتەوێت بیگوازیتەوە ناچار دەبیت بە شێوەی دەستی بیگوازیتەوە یان تێکەڵیان بکەی."
+
+msgid  "movearticle"
+msgstr  "ئەم پەڕە بگوازەوە:"
+
+msgid  "movenologin"
+msgstr  "نەچوویتەتە ژوورەوە"
+
+msgid  "movenologintext"
+msgstr  "بۆ گواستنەوەی پەڕەیەک، ئەشێ ببی بە ئەندام و [[Special:UserLogin|لە ژوورەوە]] بیت."
+
+msgid  "movenotallowed"
+msgstr  "ڕێگەت پێ‌نەدراوە بۆ گواستنەوەی لاپەڕەکان."
+
+msgid  "movenotallowedfile"
+msgstr  "ڕێگەت پێ‌نەدراوە بۆ گواستنەوەی پەڕگەکان."
+
+msgid  "cant-move-user-page"
+msgstr  "ڕێگەت پێ‌نەدراوە بۆ گواستنەوەی لاپەڕەکانی بەکارهێنەر (جیاواز لە ژێرلاپەڕەکان)."
+
+msgid  "cant-move-to-user-page"
+msgstr  "ڕێگەت پێ‌نەدراوە بۆ گواستنەوەی لاپەڕەیەک بۆ لاپەڕەی بەکارهێنەر (غەیری بۆ ژێرلاپەڕەی بەکارهێنەر)."
+
+msgid  "newtitle"
+msgstr  "بۆ ناوی نوێی:"
+
+msgid  "move-watch"
+msgstr  "ئەم پەڕە چاودێری بکە"
+
+msgid  "movepagebtn"
+msgstr  "ئەم پەڕە بگوازەوە"
+
+msgid  "pagemovedsub"
+msgstr  "گواستنەوە بە سەرکەوتوویی جێبەجێ کرا"
+
+msgid  "movepage-moved"
+msgstr  "'''«$1» گوازرایەوە بۆ «$2»'''"
+
+msgid  "movepage-moved-redirect"
+msgstr  "ڕەوانکەرێک درووست‌کرا."
+
+msgid  "movepage-moved-noredirect"
+msgstr  "لە دانانی ڕەوانەکەر بەرگری کرا."
+
+msgid  "articleexists"
+msgstr  "پەڕەیەک بەم ناوە ھەیە یان ئەو ناوەی تۆ ھەڵتبژاردووە ڕێگەی پێنەدراوە.\nتکایە ناوێکی دیکە ھەڵبژێرە."
+
+msgid  "cantmove-titleprotected"
+msgstr  "ناتوانی لاپەڕەیەک بگوێزیتەوە بۆ ئەم شوێنە، لەبەر ئەوەی سەردێڕی نوێ لە درووست‌کردن پارێزراوە."
+
+msgid  "talkexists"
+msgstr  "'''خودی پەڕەکە بە سەرکەوتوویی گوازرایەوە، بەڵام پەڕەی وتووێژەکەی ناگوازرێتەوە چونکو پێشتر بە سەردێرە نوێکەوە، یەکێک ھەیە.\nتکایە بە دەستی تێکەڵیان بکە.'''"
+
+msgid  "movedto"
+msgstr  "گواسترایەوە بۆ"
+
+msgid  "movetalk"
+msgstr  "پەڕەی وتووێژی پەیوەندیدار بگوازەوە"
+
+msgid  "move-subpages"
+msgstr  "ژێرپەڕەکانی بگۆزەرەوە (بە ئەندازەی $1)"
+
+msgid  "move-talk-subpages"
+msgstr  "ژێرپەڕەکانی پەڕەی وتووێژی بگۆزەرەوە (ھەتاکوو $1)"
+
+msgid  "movepage-page-exists"
+msgstr  "پەڕەی $1 هەیە و ناتوانرێت خۆکار بخرێتە جێی."
+
+msgid  "movepage-page-moved"
+msgstr  "پەڕەی $1 گۆزرایەوە بۆ $2."
+
+msgid  "movepage-page-unmoved"
+msgstr  "ناکرێ پەڕەی $1 بگوێزرێتەوە بۆ $2."
+
+msgid  "movepage-max-pages"
+msgstr  "زۆرینەی ژمارەی $1 {{PLURAL:$1|لاپەڕە|لاپەڕە}} گوێستراوەتەوە و لەوە زیاتر خۆکار ناگوێسترێتەوە."
+
+msgid  "1movedto2"
+msgstr  "«[[$1]]»ی گواستەوە بۆ «[[$2]]»"
+
+msgid  "1movedto2_redir"
+msgstr  "بە ڕەوانکردنەوە، [[$1]] گۆزرایەوە بۆ [[$2]]"
+
+msgid  "move-redirect-suppressed"
+msgstr  "ڕەوانەکردن بەرگری‌کراوە"
+
+msgid  "movelogpage"
+msgstr  "لۆگی گواستنەوە"
+
+msgid  "movelogpagetext"
+msgstr  "لە خوارەوەدا لیستی ھەموو پەڕە گواستنەوەکان دەبینن."
+
+msgid  "movesubpage"
+msgstr  "{{PLURAL:$1|ژێرپەڕە|ژێرپەڕە}}"
+
+msgid  "movesubpagetext"
+msgstr  "ئەم لاپەڕە $1 {{PLURAL:$1|ژێرلاپەڕەی‌|ژێرلاپەڕەی}} هەیە کە لەخوارە نیشان دراوە."
+
+msgid  "movenosubpage"
+msgstr  "ئەم پەڕە ھیچ ژێرپەڕەیەکی نییە."
+
+msgid  "movereason"
+msgstr  "ھۆکار:"
+
+msgid  "revertmove"
+msgstr  "پێچەوانەکردنەوە"
+
+msgid  "delete_and_move"
+msgstr  "بیسڕەوە و بیگوازەوە"
+
+msgid  "delete_and_move_text"
+msgstr  "== پێویستییەکانی سڕینەوە ==\nلاپەڕەی مەبەست \"[[:$1]]\" لە پێش‌دا هەیە.\nئایا دەتەوێ ئەوە بسڕیتەوە تا ڕێگە بۆ گواستنەوەی بکەیتەوە؟"
+
+msgid  "delete_and_move_confirm"
+msgstr  "بەڵێ، لاپەڕەکە بسڕەوه"
+
+msgid  "delete_and_move_reason"
+msgstr  "بۆ کردنەوەی ڕیگە بۆ گواستنەوەی لاپەڕە، سڕایەوە"
+
+msgid  "selfmove"
+msgstr  "سەردێڕەکانی سەرچاوە و مەبەست یەکێکن؛\nناکرێ لاپەڕەیەک بۆ سەر خۆی‌ بگوازرێتەوە."
+
+msgid  "immobile-source-namespace"
+msgstr  "گواستنەوەی لاپەڕە لە بۆشایی‌ناو \"$1\" ناکرێت."
+
+msgid  "immobile-target-namespace"
+msgstr  "گواستنەوەی لاپەڕە بۆناو بۆشایی‌ناو \"$1\" ناکرێت."
+
+msgid  "immobile-target-namespace-iw"
+msgstr  "بەستەرێکی نێوان‌ویکی ئامانجێکی گونجاو نیە بۆ گواستنەوەی لاپەڕە."
+
+msgid  "immobile-source-page"
+msgstr  "ئەمە لاپەڕە بۆ گواستنەوە نابێت."
+
+msgid  "immobile-target-page"
+msgstr  "بۆ ئەم سەردێڕی ئامانجە جێگۆڕ ناکرێ."
+
+msgid  "imagenocrossnamespace"
+msgstr  "گواستنەوەی پەڕگە بۆ بۆشایی‌نوێکی غەیری پەڕگە گونجاو نیە."
+
+msgid  "imagetypemismatch"
+msgstr  "پاشگری ئەو پەڕگە نوێیە هاوتای جۆری پەڕگەکە نیە."
+
+msgid  "imageinvalidfilename"
+msgstr  "ناوی پەڕگەی ئامانج گونجاو نیە"
+
+msgid  "fix-double-redirects"
+msgstr  "نوێ‌کەردنەوەی هەموو ڕەوانکەرەکان وا ئاماژە بە سەردێڕە سەرەکیەکە دەکەن"
+
+msgid  "move-leave-redirect"
+msgstr  "لە پاشەوە ڕەوانکەرێک دابنە"
+
+msgid  "protectedpagemovewarning"
+msgstr  "'''ھۆشیار بە: ئەم پەڕە پارێزراوە بۆ ئەوی تەنیا ئەو بەکارھێنەرانە کە مافەکانی بەڕێوەبەرایەتییان ھەیە بتوانن بیگوازنەوە.'''\nدوایین لۆگ بۆ ژێدەر لە خوارەوەدا ھاتووە:"
+
+msgid  "semiprotectedpagemovewarning"
+msgstr  "'''ئاگاداری:''' ئەم پەڕە پارێزراوە بۆ ئەوی تەنھا بەکارھێنەرە تۆمارکراوەکان بتوانن بیگوازنەوە.\nدوایین لۆگ بۆ ژێدەر لە خوارەوەدا ھاتووە:"
+
+msgid  "export"
+msgstr  "ھەناردنی پەڕەکان"
+
+msgid  "exporttext"
+msgstr  "دەتوانی دەق و مێژووی دەستکاری لاپەڕەیەکی تایبەت یان دەستە لاپەڕەیەک بۆ ناو پەڕگەیەکی XML هەناردن بکەیت.\nدواتر بە کەڵک‌وەرگرتن لە [[Special:Import|لاپەڕەی هێنانەناوە]] لە مێدیاویکی‌دا، دەتوانی بیهێنیتە ناو ویکی‌یەکانی دیکە.\n\nبۆ هەناردنی لاپەڕەکان، سەردێڕەکان لە چوارچێوەی دەقی خوارەوە بنووسە، هەر هێڵێک یەک سەردێڕ. هەروا هەڵبژێرە ئایا پێداچوونەوەی ئێستا و هەموو پێداچوونەوە کۆنەکانت دەوێ یان هەر پێداچوونەوەی ئێستا و زانیاریی سەبارەت بە دوایین دەستکاری.\n\nلە بابەتی دواتر هەروەها دەتوانی لە بەستەرێک کەڵک وەرگریت، بۆ نموونە [[{{#Special:Export}}/{{MediaWiki:Mainpage}}]] بۆ لەپەڕەی \"[[{{MediaWiki:Mainpage}}]]\"."
+
+msgid  "exportcuronly"
+msgstr  "تەنها پێداچوونەوەی ئێستا لەخۆ بگرێت نەک هەموو مێژوو"
+
+msgid  "exportnohistory"
+msgstr  "----\n'''ئاگاداربە: '''ھەناردنی ھەموو مێژووی پەڕەکان لەم فۆرمەوە لەبەر ھۆکاری ڕێخستن، داخراوە."
+
+msgid  "export-submit"
+msgstr  "هەناردن"
+
+msgid  "export-addcattext"
+msgstr  "پەڕەکان زێدەبکە لە پۆلی:"
+
+msgid  "export-addcat"
+msgstr  "زێدەبکە"
+
+msgid  "export-addnstext"
+msgstr  "پەڕەکان زێدەبکە لە بۆشایی‌ناوی:"
+
+msgid  "export-addns"
+msgstr  "زێدەبکە"
+
+msgid  "export-download"
+msgstr  "وەک پەڕگە پاشەکەوتی بکە"
+
+msgid  "export-templates"
+msgstr  "داڕێژەکانیش لە خۆگرێت"
+
+msgid  "export-pagelinks"
+msgstr  "لەخۆگرتنی لاپەڕەکانی بەستەر پێ‌دراو هەتا قووڵایی:"
+
+msgid  "allmessages"
+msgstr  "پەیامەکانی سیستەم"
+
+msgid  "allmessagesname"
+msgstr  "ناو"
+
+msgid  "allmessagesdefault"
+msgstr  "دەقی بنەڕەتی"
+
+msgid  "allmessagescurrent"
+msgstr  "دەقی ھەنووکە"
+
+msgid  "allmessagestext"
+msgstr  "ئەمە لیستێکە لە پەیامەکانی بەردەست لە بۆشایی‌ناوی میدیاویکی.\nتکایە سەردانی [http://www.mediawiki.org/wiki/Localisation ناوچەیی‌کردنی میدیاویکی] و [http://translatewiki.net translatewiki.net] بکە ئەگەر دەتەوێ لە ناوچەیی‌کردنی میدیاویکی بە گشتی بەشداری بکەیت."
+
+msgid  "allmessagesnotsupportedDB"
+msgstr  "ئەم لاپەڕە ناتوانی بەکاربێت لەبەر ئەوەی '''$wgUseDatabaseMessages''' لەکار خستراوە."
+
+msgid  "allmessages-filter-legend"
+msgstr  "پاڵێو"
+
+msgid  "allmessages-filter-unmodified"
+msgstr  "چاکسازی نەکراو"
+
+msgid  "allmessages-filter-all"
+msgstr  "هەموو"
+
+msgid  "allmessages-filter-modified"
+msgstr  "چاکسازی‌کراو"
+
+msgid  "allmessages-prefix"
+msgstr  "پاڵێو بە پێشگر:"
+
+msgid  "allmessages-language"
+msgstr  "زمان:"
+
+msgid  "allmessages-filter-submit"
+msgstr  "بڕۆ"
+
+msgid  "thumbnail-more"
+msgstr  "گەورە کردنەوە"
+
+msgid  "filemissing"
+msgstr  "ون‌بوونی پەڕگە"
+
+msgid  "thumbnail_error"
+msgstr  "هەڵە کاتی درووست‌کردنی هێما: $1"
+
+msgid  "djvu_page_error"
+msgstr  "لاپەڕەی DjVu لەدەرۆی ڕیز"
+
+msgid  "djvu_no_xml"
+msgstr  "XML بۆ پەڕگەی DjVu ناکێشرێتەوە"
+
+msgid  "thumbnail_invalid_params"
+msgstr  "دیاریکەری نەگونجاوی هێما"
+
+msgid  "thumbnail_dest_directory"
+msgstr  "پێرستی مەبەست درووست‌ناکرێت"
+
+msgid  "thumbnail_image-type"
+msgstr  "جۆرەی وێنە پاڵپشت نەکراوە"
+
+msgid  "thumbnail_gd-library"
+msgstr  "شێوەپێدانی‌ ناتەواوی ژێدەرگەی GD: ون‌بوونی فەنکشێن $1"
+
+msgid  "thumbnail_image-missing"
+msgstr  "لەوە دەچێ پەڕگە ون بوبێت: $1"
+
+msgid  "import"
+msgstr  "هێنانەناوەی لاپەڕەکان"
+
+msgid  "importinterwiki"
+msgstr  "هێنانەناوەی ترانس‌ویکی"
+
+msgid  "import-interwiki-text"
+msgstr  "بۆ هێنانە‌ناوە ویکی‌یەک و سەردێڕێکی لاپەڕە هەڵبژێرە.\nڕێکەوتەکانی پێداچوونەوە و ناوی دەستکاری‌کەرەکان دەپارێزدرێت.\nهەموو کردوەکانی هێنانەناوەی ترانس‌ویکی لە [[Special:Log/import|لۆگی هێنانەناوە]] لۆگ دەکرێت."
+
+msgid  "import-interwiki-source"
+msgstr  "سەرچاوەی ویکی\\لاپەڕە :"
+
+msgid  "import-interwiki-history"
+msgstr  "ڕوونووس‌کردنی هەموو مێژووی پێداچوونەوەکانی ئەم لاپەڕە"
+
+msgid  "import-interwiki-templates"
+msgstr  "لەخۆگرتنی هەموو داڕێژەکان"
+
+msgid  "import-interwiki-submit"
+msgstr  "هاوردن"
+
+msgid  "import-interwiki-namespace"
+msgstr  "بۆشایی‌ناوی مەبەست:"
+
+msgid  "import-upload-filename"
+msgstr  "پەڕگە‌ناو:"
+
+msgid  "import-comment"
+msgstr  "بۆچوون:"
+
+msgid  "importtext"
+msgstr  "تکایە هەناردنی پەڕگە لە سەرچاوەی ویکی‌یەوە بە کەڵک وەرگرتن لە [[Special:Export|ئامێری هەناردن]] بکە.\nلەسەر کۆمپیۆتەرەکەت پاشەکەوتی بکە و باری‌بكە ئێرە."
+
+msgid  "importstart"
+msgstr  "ھاوردنی پەڕەکان..."
+
+msgid  "import-revision-count"
+msgstr  "$1 {{PLURAL:$1|پێداچوونەوە|پێداچوونەوە}}"
+
+msgid  "importnopages"
+msgstr  "هیچ پەڕەیەک نییە بۆ ھاوردن."
+
+msgid  "importfailed"
+msgstr  "هێنانەناوە سەرکەوتوو نەبوو: <nowiki>$1</nowiki>"
+
+msgid  "importunknownsource"
+msgstr  "جۆرەی سەرچاوەی هێنانەناوەی نەناسراو"
+
+msgid  "importcantopen"
+msgstr  "پەڕگەی هێنانەناوە ناکرێتەوە"
+
+msgid  "importbadinterwiki"
+msgstr  "بەستەری خراپی نێوان‌ویکی"
+
+msgid  "importnotext"
+msgstr  "واڵا یان بێ‌دەق"
+
+msgid  "importsuccess"
+msgstr  "هێنانەناوە تەواو بوو!"
+
+msgid  "importhistoryconflict"
+msgstr  "کێشە لەو مێژووی پێداچوونەوانە وا هەیە (لەوانەیە ئەم لاپەڕە لەپێش‌دا هێنرابێتەناوە)"
+
+msgid  "importnosources"
+msgstr  "هیچ سەرچاوەیەکی هێنانەناوەی نێوان‌ویکی دیاری‌نەکراوە و بارکردنی ڕاستەوخۆی مێژوو لەکارخستراوە."
+
+msgid  "importnofile"
+msgstr  "هیچ پەڕگەیەکی هێنانەناوە بارنەکرا."
+
+msgid  "importuploaderrorsize"
+msgstr  "بارکردنی پەڕگەی هێنانەناوە سەرکەوتوو نەبوو.\nپەڕگەکە لەو قەبارەی بۆ بارکردن ڕێگەدراوە گەورەترە."
+
+msgid  "importuploaderrorpartial"
+msgstr  "بارکردنی پەڕگەی هێنانەناوە سەرکەوتوو نەبوو.\nتەنها بەشێک لە پەڕگەکە بارکرا."
+
+msgid  "importuploaderrortemp"
+msgstr  "بارکردنی پەڕگەی هێنانەناوە سەرکەوتوو نەبوو.\nبوخچەیەکی کاتی ون‌بووە."
+
+msgid  "import-parse-failure"
+msgstr  "سەرنەکەوتن لە هێنانەناوەی XML"
+
+msgid  "import-noarticle"
+msgstr  "هیچ لاپەڕەیەک نیە بۆ هێنانەناوە"
+
+msgid  "import-nonewrevisions"
+msgstr  "هەموو پێداچوونەوەکان لە پێش‌دا هێنراونەتەناوە."
+
+msgid  "import-upload"
+msgstr  "بارکردنی دراوەی XML"
+
+msgid  "import-token-mismatch"
+msgstr  "لەدەست‌ڕۆشتنی دراوەکانی ئەو بەشە.\nتکایە دیسان تاقی‌بکەوە."
+
+msgid  "import-invalid-interwiki"
+msgstr  "لە ویکی‌ دیاری‌کراوە ناهێنڕێتەوە ناوە."
+
+msgid  "importlogpage"
+msgstr  "هێنانەناوەی لۆگ"
+
+msgid  "importlogpagetext"
+msgstr  "هێنانەناوەی لاپەڕەکان دەگەل مێژووی دەستکاری لە ویکی‌یەکانی دیکەی لە لایەن بەرێوبەرایەتی."
+
+msgid  "import-logentry-upload"
+msgstr  "هێنراوەناوەی [[$1]] بە بارکردنی پەڕگە"
+
+msgid  "import-logentry-upload-detail"
+msgstr  "$1 {{PLURAL:$1|پێداچوونەوە|پێداچوونەوە}}"
+
+msgid  "import-logentry-interwiki"
+msgstr  "ترانس‌ویکی‌کراو $1"
+
+msgid  "import-logentry-interwiki-detail"
+msgstr  "$1 {{PLURAL:$1|پێداچوونەوە|پێداچوونەوە}} لە $2"
+
+msgid  "tooltip-pt-userpage"
+msgstr  "پەڕە بەکارھێنەریی تۆ"
+
+msgid  "tooltip-pt-anonuserpage"
+msgstr  "پەڕەی بەکارھێنەری بۆ ئای‌پی یەکە کە بەناویەوە خەریکی دەستکاری کردنی"
+
+msgid  "tooltip-pt-mytalk"
+msgstr  "پەڕەی وتوبێژی تۆ"
+
+msgid  "tooltip-pt-anontalk"
+msgstr  "لێدوان لەسەر دەستکارییەکان لەم ئایپی ئەدرەسەوە"
+
+msgid  "tooltip-pt-preferences"
+msgstr  "بژاردەکانت"
+
+msgid  "tooltip-pt-watchlist"
+msgstr  "لیستی ئەو پەڕانە کە چاودێری گۆڕانکارییەکانیانی دەکەی"
+
+msgid  "tooltip-pt-mycontris"
+msgstr  "لیستی بەشدارییەکانت"
+
+msgid  "tooltip-pt-login"
+msgstr  "پێشنیارت پێدەکرێ بچیتە ژوورەوە؛ ھەرچەندە زۆرت لێناکرێ"
+
+msgid  "tooltip-pt-anonlogin"
+msgstr  "پێشنیار دەکەین بڕۆیتەژوورەوە، ئەگەرچی ئەوە زۆرەملیی نیە"
+
+msgid  "tooltip-pt-logout"
+msgstr  "دەرچوون"
+
+msgid  "tooltip-ca-talk"
+msgstr  "لێدوان دەربارەی ناوەڕۆکی پەرە"
+
+msgid  "tooltip-ca-edit"
+msgstr  "دەتوانی دەستکاریی ئەم پەڕەیە بکەیت. تکایە پێش پاشەکەوتکردن دوگمەی پێشبینین بەکاربێنە."
+
+msgid  "tooltip-ca-addsection"
+msgstr  "بەشێکی نوێ دەست پێ بکە"
+
+msgid  "tooltip-ca-viewsource"
+msgstr  "ئەم پەڕەیە پارێزراوە.\nئەتوانی سەرچاوەکەی ببینیت"
+
+msgid  "tooltip-ca-history"
+msgstr  "وەشانەکانی پێشووی ئەم پەڕەیە"
+
+msgid  "tooltip-ca-protect"
+msgstr  "ئەم پەڕەیە بپارێزە"
+
+msgid  "tooltip-ca-delete"
+msgstr  "ئەم پەڕەیە بسڕەوە"
+
+msgid  "tooltip-ca-undelete"
+msgstr  "هێنانەوەی دەستکاریەکانی پیش سڕینەوە وا لەسەر ئەم لاپەڕە ڕووی‌داوە"
+
+msgid  "tooltip-ca-move"
+msgstr  "ئەم پەڕەیە بگوازەوە"
+
+msgid  "tooltip-ca-watch"
+msgstr  "ئەم پەڕە بخە سەر لیستی چاودێریت"
+
+msgid  "tooltip-ca-unwatch"
+msgstr  "ئەم پەڕە لە لیستی چاودێریت لابە"
+
+msgid  "tooltip-search"
+msgstr  "لە {{SITENAME}} بگەڕێ"
+
+msgid  "tooltip-search-go"
+msgstr  "بڕۆ بۆ پەڕەیەک کە بە تەواوەتی ئەم ناوەی تیادایە ئەگەر هەبێت"
+
+msgid  "tooltip-search-fulltext"
+msgstr  "لە پەڕەکاندا بگەڕێ بۆ ئەم دەقە"
+
+msgid  "tooltip-p-logo"
+msgstr  "بینینی پەڕەی دەستپێک"
+
+msgid  "tooltip-n-mainpage"
+msgstr  "سەردانی پەڕەی سەرەکی بکە"
+
+msgid  "tooltip-n-mainpage-description"
+msgstr  "سەردانی پەڕەی سەرەکی بکە"
+
+msgid  "tooltip-n-portal"
+msgstr  "سەبارەت بە پڕۆژەکە، چی دەتوانی بکەیت، لە کوێ شتەکان بدۆزیتەوە"
+
+msgid  "tooltip-n-currentevents"
+msgstr  "زانیاری پێشینە بەدەست بھێنە دەربارەی بۆنە ھەنووکەییەکان"
+
+msgid  "tooltip-n-recentchanges"
+msgstr  "لیستی دوایین گۆڕانکارییەکان لەم ویکییەدا"
+
+msgid  "tooltip-n-randompage"
+msgstr  "پەڕەیەک بە هەڵکەوت نیشان بدە"
+
+msgid  "tooltip-n-help"
+msgstr  "شوێنی تێگەیشتن"
+
+msgid  "tooltip-t-whatlinkshere"
+msgstr  "لیستی ھەموو پەڕەکانی ویکی کە بەستەرکراون بۆ ئێرە"
+
+msgid  "tooltip-t-recentchangeslinked"
+msgstr  "دوایین گۆڕانکارییەکان لەو پەڕانە کە بەگرەوە گرێ دراون"
+
+msgid  "tooltip-feed-rss"
+msgstr  "RSS feed بۆ ئەم پەڕە"
+
+msgid  "tooltip-feed-atom"
+msgstr  "Atom feed بۆ ئەم پەڕە"
+
+msgid  "tooltip-t-contributions"
+msgstr  "لیستی بەشدارییەکانی ئەم بەکارھێنەرە ببینە"
+
+msgid  "tooltip-t-emailuser"
+msgstr  "ئیمەیلێک بنێرە بۆ ئەم بەکارھێنەرە"
+
+msgid  "tooltip-t-upload"
+msgstr  "پەڕگەیەک (فایل) بار بکە"
+
+msgid  "tooltip-t-specialpages"
+msgstr  "لیستی ھەموو پەڕە تایبەتەکان"
+
+msgid  "tooltip-t-print"
+msgstr  "وەشانی چاپی ئەم پەڕەیە"
+
+msgid  "tooltip-t-permalink"
+msgstr  "گرێدەری ھەمیشەیی بۆ ئەم وەشانەی ئەم پەڕەیە"
+
+msgid  "tooltip-ca-nstab-main"
+msgstr  "بینینی پەڕەی ناوەڕۆک"
+
+msgid  "tooltip-ca-nstab-user"
+msgstr  "پەڕەی بەکارھێنەر تەماشا بکە"
+
+msgid  "tooltip-ca-nstab-media"
+msgstr  "پەڕەی میدیا چاو لێ بکە"
+
+msgid  "tooltip-ca-nstab-special"
+msgstr  "ئەمە پەڕەیەکی تایبەتە، ناتوانی خودی ئەم پەڕە دەستکاری بکەیت"
+
+msgid  "tooltip-ca-nstab-project"
+msgstr  "بینینی پەڕەی پرۆژە"
+
+msgid  "tooltip-ca-nstab-image"
+msgstr  "بینینی پەڕەی پەڕگە"
+
+msgid  "tooltip-ca-nstab-mediawiki"
+msgstr  "بینینی پەیامی سیستەم"
+
+msgid  "tooltip-ca-nstab-template"
+msgstr  "بینینی قاڵبەکە"
+
+msgid  "tooltip-ca-nstab-help"
+msgstr  "بینینی پەڕەی رێنمایی"
+
+msgid  "tooltip-ca-nstab-category"
+msgstr  "په‌ڕه‌ی پۆلەکە ببینە"
+
+msgid  "tooltip-minoredit"
+msgstr  "ئەمە وەک گۆڕانکارییەکی بچووک دیاری بکە"
+
+msgid  "tooltip-save"
+msgstr  "گۆڕانکارییەکانی خۆت پاشکەوت بکە"
+
+msgid  "tooltip-preview"
+msgstr  "پێش بینینی گۆڕانکارییەکان، تکایە پێش پاشکەوت کردن ئەمە بەکار بھێنە"
+
+msgid  "tooltip-diff"
+msgstr  "نیشان دانی گۆڕانکارییەکانت لە دەقەکەدا"
+
+msgid  "tooltip-compareselectedversions"
+msgstr  "جیاوازییەکانی دوو وەشانە دیاریکراوەی ئەم پەڕە ببینە."
+
+msgid  "tooltip-watch"
+msgstr  "ئەم پەڕە بخە سەر لیستی چاودێریت"
+
+msgid  "tooltip-recreate"
+msgstr  "درووست‌کردنەوەی لاپەڕە ئەگەرچی سڕاوەتەوە"
+
+msgid  "tooltip-upload"
+msgstr  "دەستپێکردنی بارکردن"
+
+msgid  "tooltip-rollback"
+msgstr  "''گەڕاندنەوە'' بە یەک کلیک گۆڕانکاری (گۆڕانکارییەکانی) ئەم پەڕە ئەباتەوە بۆ ھی دواین بەشدار"
+
+msgid  "tooltip-undo"
+msgstr  "«پووچکردنەوە» ئەم گۆڕانکارییە دەگەڕێنێتەوە و فۆرمی دەستکاریکردنەکە لە حاڵەتی پێشبینیندا دەکاتەوە. بەم شێوە دەکرێ ھۆکارێک لە پوختەدا بنووسرێت."
+
+msgid  "notacceptable"
+msgstr  "ڕاژەکاری ویکی ناتوانێت داتا بەوشێوەی بۆ ڕاژەخوازی تۆ بخوێندرێتەوە، ئامادە بکات."
+
+msgid  "anonymous"
+msgstr  "{{PLURAL:$1|بەکارهێنەری|بەکارهێنەرانی}} نەناسراوی {{SITENAME}}"
+
+msgid  "siteuser"
+msgstr  "بەکارھێنەری {{SITENAME}}، $1"
+
+msgid  "lastmodifiedatby"
+msgstr  "ئەم پەڕە دواجار لە $2ی $1 بە دەستی $3 گۆڕدراوە."
+
+msgid  "othercontribs"
+msgstr  "لەسەر بنەمای کاری $1."
+
+msgid  "others"
+msgstr  "ئەوانی دیکە"
+
+msgid  "siteusers"
+msgstr  "{{PLURAL:$2|بەکارهێنەری|بەکارهێنەرانی}} {{SITENAME}} $1"
+
+msgid  "creditspage"
+msgstr  "بایەخەکانی لاپەڕە"
+
+msgid  "nocredits"
+msgstr  "هیچ زانیارییەکی بایەخ لەبەردەست‌دا نیە بۆ ئەم لاپەڕە."
+
+msgid  "spamprotectiontitle"
+msgstr  "پاڵێوی پاراستن لە سپام"
+
+msgid  "spamprotectiontext"
+msgstr  "ئەو لاپەڕەی دەتویست پاشەکەوتی بکەی، بە پاڵێوی سپام بەربەست‌کرا\nلەوانەیە هۆکاری ئەوە بەستەرەک بووە بۆ ماڵپەڕەکی دەرەکی کە لەناو ڕەش‌لیست‌دایە."
+
+msgid  "spamprotectionmatch"
+msgstr  "ئەم دەقە ئەوەیە کە پاڵێوی سپامەکە دەبزوێنێ: $1"
+
+msgid  "spambot_username"
+msgstr  "خاوێنکردنەوەی سپامی میدیاویکی"
+
+msgid  "spam_reverting"
+msgstr  "گەڕانەوە بۆ دوایین پێداچوونەوە کە بەستەری لەخۆگرتووە بۆ $1"
+
+msgid  "infosubtitle"
+msgstr  "زانیاریی لاپەڕە"
+
+msgid  "numedits"
+msgstr  "ژمارەی دەستکارییەکان (پەڕە): $1"
+
+msgid  "numtalkedits"
+msgstr  "ژمارە گۆڕانکارییەکان (پەڕەی لێدوان): $1"
+
+msgid  "numwatchers"
+msgstr  "ژمارەی چاودێران: $1"
+
+msgid  "numauthors"
+msgstr  "ژمارەی نووسەری جودا (لاپەڕە): $1"
+
+msgid  "skinname-standard"
+msgstr  "کلاسیک"
+
+msgid  "skinname-nostalgia"
+msgstr  "غەریبی"
+
+msgid  "skinname-cologneblue"
+msgstr  "شینی کۆلۆن"
+
+msgid  "skinname-monobook"
+msgstr  "مۆنۆ"
+
+msgid  "skinname-myskin"
+msgstr  "پێستی خۆم"
+
+msgid  "skinname-chick"
+msgstr  "جووچک"
+
+msgid  "skinname-simple"
+msgstr  "ساده‌"
+
+msgid  "skinname-modern"
+msgstr  "مۆدێڕن"
+
+msgid  "skinname-vector"
+msgstr  "ڤێکتۆر"
+
+msgid  "mw_math_png"
+msgstr  "ھەموو جارێک وەک PNG نیشان بدە"
+
+msgid  "mw_math_simple"
+msgstr  "HTML ئەگەر ساکار بێت, ئەگەرنا PNG"
+
+msgid  "mw_math_html"
+msgstr  "ئەگەر بکرێ بە HTML ، ئەگەرنا بە PNG"
+
+msgid  "mw_math_source"
+msgstr  "وەک TeX بمێنێتەوە (بۆ وێبگەڕە دەقی‌یەکان)"
+
+msgid  "mw_math_modern"
+msgstr  "بۆ وێبگەڕە مۆدێڕنەکان باشترە"
+
+msgid  "math_unknown_error"
+msgstr  "هەڵەیەکی نەزانراو"
+
+msgid  "math_unknown_function"
+msgstr  "فەرمانێکی نەناسراو"
+
+msgid  "math_syntax_error"
+msgstr  "ڕستەکار هەڵەیە"
+
+msgid  "markaspatrolleddiff"
+msgstr  "وەک چاودێری‌کراو نیشان‌کردن"
+
+msgid  "markaspatrolledtext"
+msgstr  "ئەم لاپەڕە وەک چاودێری‌کراو نیشان بکە"
+
+msgid  "markedaspatrolled"
+msgstr  "وەک چاودێری‌کراو نیشان‌کرا"
+
+msgid  "markedaspatrolledtext"
+msgstr  "پێداچوونەوەی هەڵبژێراوی [[:$1]] وەک چاودێریکراو نیشان‌کرا."
+
+msgid  "rcpatroldisabled"
+msgstr  "چاودێری دوایین گۆڕانکاریەکان لەکار خسترا"
+
+msgid  "rcpatroldisabledtext"
+msgstr  "تایبەتمەندی چاودێری دوایین گۆڕانکاریەکان ئێستا لەکار خستراوە."
+
+msgid  "markedaspatrollederror"
+msgstr  "ناکرێ وه‌ک چاودێری‌کراو نیشان بکرێت"
+
+msgid  "markedaspatrollederror-noautopatrol"
+msgstr  "ڕێگەت پێ‌نەدراوە گۆڕانکاریەکانی خۆت وەک چاودێری‌کراو نیشان بکەیت."
+
+msgid  "patrol-log-page"
+msgstr  "لۆگی چاودێری"
+
+msgid  "patrol-log-header"
+msgstr  "ئەمە لۆگێکی چاودێری پێداچوونەوەکانە."
+
+msgid  "patrol-log-auto"
+msgstr  "(خۆکار)"
+
+msgid  "patrol-log-diff"
+msgstr  "پێداچوونەوە $1"
+
+msgid  "log-show-hide-patrol"
+msgstr  "لۆگی چاودێری $1"
+
+msgid  "deletedrevision"
+msgstr  "پێداچوونەوەی کۆنی سڕاوە $1"
+
+msgid  "filedeleteerror-short"
+msgstr  "هەڵە لە سڕینەوەی پەڕگە: $1"
+
+msgid  "filedeleteerror-long"
+msgstr  "کاتی سڕینەوەی ئەم پەڕگەی ڕووبەڕووی کێشە بووینەوە:\n\n$1"
+
+msgid  "filedelete-missing"
+msgstr  "فایلی \"$1\"  ناتوانرێت بسردرێته‌وه‌ ،له‌به‌ر ئه‌وه‌ی بونی نیه‌"
+
+msgid  "previousdiff"
+msgstr  "→ گۆڕانکاریی کۆنتر"
+
+msgid  "nextdiff"
+msgstr  "گۆڕانکاریی نوێتر ←"
+
+msgid  "thumbsize"
+msgstr  "قەبارەی وێنۆک:"
+
+msgid  "file-info"
+msgstr  "قه‌باره‌: $1, جۆر: $2"
+
+msgid  "file-info-size"
+msgstr  "$1 × $2 پیکسێل، قەبارەی پەڕگە: $3، جۆری MIME: $4"
+
+msgid  "file-nohires"
+msgstr  "<small>رەزۆلوشنی سەرتر لەمە لە بەردەست دا نیە.</small>"
+
+msgid  "svg-long-desc"
+msgstr  "پەڕگەی SVG، بە ناو $1 × $2 پیکسەڵ، قەبارەی پەڕگە: $3"
+
+msgid  "show-big-image"
+msgstr  "گەورە کردنەوە"
+
+msgid  "show-big-image-thumb"
+msgstr  "<small>قەبارەی ئەم پێشبینینە: $1 × $2 خاڵە</small>"
+
+msgid  "newimages"
+msgstr  "پێشانگای پەڕگە نوێکان"
+
+msgid  "imagelisttext"
+msgstr  "خوارەوە لیستێکیی '''$1''' {{PLURAL:$1|پەڕگە|پەڕگە}}یە کە $2 بەڕیزکراون."
+
+msgid  "newimages-summary"
+msgstr  "ئەم پەڕە تایبەتە دوایین پەڕگە بارکراوەکان نیشان دەدات."
+
+msgid  "newimages-legend"
+msgstr  "پاڵاوتن"
+
+msgid  "newimages-label"
+msgstr  "ناوی پەڕگە (یان بەشێکیی):"
+
+msgid  "showhidebots"
+msgstr  "(بۆتەکان $1)"
+
+msgid  "noimages"
+msgstr  "هیچ بۆ بینین نییە."
+
+msgid  "ilsubmit"
+msgstr  "بگەڕێ"
+
+msgid  "bydate"
+msgstr  "بەپێی ڕێکەوت"
+
+msgid  "sp-newimages-showfrom"
+msgstr  "پەڕگە نوێکان نیشان بدە بە دەستپێکردن لە $2ی $1"
+
+msgid  "bad_image_list"
+msgstr  "فۆرمات بەم شێوەی خوارەوەیە:\n\nتەنھا ئەو بابەتانەی کە کە لیست کراون (واتە ئەو دێڕانەی بە * دەست پێ دەکەن) لێک ئەدرێتەوە.\nیەکەم بەستەر لە سەر دێڕێک دەبێت بەستەری فایلێکی خراپ بێت.\nھەموو بەستەرەکانی دوای ئەو کە لەسەر ھەمان دێڕن وەکوو نائاسایی دێتە ھەژمار، واتە ئەو لاپەڕانەی کە ڕەنگە تێدا فایل بە شێوەی ئینلاین بێت"
+
+msgid  "variantname-ku-arab"
+msgstr  "ئەلفوبێی عەرەبی"
+
+msgid  "variantname-ku-latn"
+msgstr  "ئەلفوبێی لاتینی"
+
+msgid  "metadata"
+msgstr  "دراوی مێتا"
+
+msgid  "metadata-help"
+msgstr  "ئەم پەڕگە زانیاری زێدەی ھەیە، کە لەوە دەچێت کامێرا یان ھێماگر (scanner) خستبێتیە سەری. ئەگەر پەڕگەکە لە حاڵەتی سەرەتاییەکەیەوە دەستکاری کرابێ، شایەد بڕێ لە بڕگەکان بە تەواوی زانیارەکانی وێنە گۆڕدراوەکە نیشان نەدەن."
+
+msgid  "metadata-expand"
+msgstr  "وردەکارییە درێژکراوەکان پیشان بدە"
+
+msgid  "metadata-collapse"
+msgstr  "وردەکارییە درێژکراوەکان بشارەوە"
+
+msgid  "metadata-fields"
+msgstr  "ئەو کێڵگە EXIFانە لەم پەیامە بە ڕیز کراون، کاتێک خشتەی metadata کۆ کراوەش بێ ھەر نیشان ئەدرێت. کێڵگەکانی تر تا خشتەکە باز نەکرێ، شاراوەن.\n* make\n* model\n* datetimeoriginal\n* exposuretime\n* fnumber\n* isospeedratings\n* focallength"
+
+msgid  "exif-imagewidth"
+msgstr  "پانی"
+
+msgid  "exif-imagelength"
+msgstr  "بەرزی"
+
+msgid  "exif-imagedescription"
+msgstr  "ناونیشانی وێنە"
+
+msgid  "exif-model"
+msgstr  "جۆری کامێرا"
+
+msgid  "exif-artist"
+msgstr  "نووسەر"
+
+msgid  "exif-colorspace"
+msgstr  "بۆشایی ره‌نگ"
+
+msgid  "exif-usercomment"
+msgstr  "بۆچوونەکانی بەکارهێنەر"
+
+msgid  "exif-relatedsoundfile"
+msgstr  "فایلی ده‌نگی لێکچوو"
+
+msgid  "exif-lightsource"
+msgstr  "سەرچاوەی ڕووناکی"
+
+msgid  "exif-flash"
+msgstr  "فلاش"
+
+msgid  "exif-filesource"
+msgstr  "سەرچاوەی پەڕگە"
+
+msgid  "exif-saturation"
+msgstr  "تێربوون"
+
+msgid  "exif-gpslatitude"
+msgstr  "پانی"
+
+msgid  "exif-gpslongitude"
+msgstr  "درێژی"
+
+msgid  "exif-gpsmeasuremode"
+msgstr  "جۆری پێوان"
+
+msgid  "exif-gpsdop"
+msgstr  "وردی پێوان"
+
+msgid  "exif-gpsspeedref"
+msgstr  "یەکەی خێرایی"
+
+msgid  "exif-gpsspeed"
+msgstr  "خێرایی وەرگری GPS"
+
+msgid  "exif-gpstrack"
+msgstr  "ئاڕاستەی جوڵان"
+
+msgid  "exif-gpsimgdirection"
+msgstr  "ئاڕاستەی وێنە"
+
+msgid  "exif-gpsdatestamp"
+msgstr  "ڕێکەوتی GPS"
+
+msgid  "exif-compression-1"
+msgstr  "نەپەستێنراو"
+
+msgid  "exif-unknowndate"
+msgstr  "ڕێکەوتی نەزانراو"
+
+msgid  "exif-orientation-1"
+msgstr  "ئاسایی"
+
+msgid  "exif-orientation-2"
+msgstr  "ئاسۆیی هەڵگێڕدراوەتەوە"
+
+msgid  "exif-orientation-3"
+msgstr  "١٨٠° سوڕاوەتەوە"
+
+msgid  "exif-orientation-4"
+msgstr  "ستوونی هەڵگێڕدراوەتەوە"
+
+msgid  "exif-componentsconfiguration-0"
+msgstr  "بوونی نییە"
+
+msgid  "exif-exposureprogram-1"
+msgstr  "دەستکار"
+
+msgid  "exif-meteringmode-0"
+msgstr  "نەزانراو"
+
+msgid  "exif-meteringmode-1"
+msgstr  "تێکڕا"
+
+msgid  "exif-meteringmode-5"
+msgstr  "شێوە"
+
+msgid  "exif-meteringmode-6"
+msgstr  "بەش بەش"
+
+msgid  "exif-meteringmode-255"
+msgstr  "هیتر"
+
+msgid  "exif-lightsource-0"
+msgstr  "نەزانراو"
+
+msgid  "exif-lightsource-1"
+msgstr  "ڕووناکی ڕۆژ"
+
+msgid  "exif-lightsource-2"
+msgstr  "فلۆرسەنت"
+
+msgid  "exif-lightsource-3"
+msgstr  "تانگەستەن"
+
+msgid  "exif-lightsource-4"
+msgstr  "فلاش"
+
+msgid  "exif-lightsource-9"
+msgstr  "ئاسمانی ڕوون"
+
+msgid  "exif-lightsource-10"
+msgstr  "ئاسمانی هەوری"
+
+msgid  "exif-lightsource-11"
+msgstr  "سێبەر"
+
+msgid  "exif-lightsource-12"
+msgstr  "فلۆرسەنتی ڕووناکیی‌ڕۆژ (D 5700 – 7100K)"
+
+msgid  "exif-lightsource-13"
+msgstr  "فلۆرسەنتی سپیی ڕۆژ (N 4600 – 5400K)"
+
+msgid  "exif-lightsource-14"
+msgstr  "فلۆرسەنتی سپیی فێنک (W 3900 – 4500K)"
+
+msgid  "exif-lightsource-15"
+msgstr  "فلۆرسەنتی سپی (WW 3200 – 3700K)"
+
+msgid  "exif-lightsource-17"
+msgstr  "ڕووناکی ستانداردی A"
+
+msgid  "exif-lightsource-18"
+msgstr  "ڕووناکی ستانداردی B"
+
+msgid  "exif-lightsource-19"
+msgstr  "ڕووناکی ستانداردی C"
+
+msgid  "exif-lightsource-24"
+msgstr  "ISOـی تانگەستەنی ستۆدیۆ"
+
+msgid  "exif-lightsource-255"
+msgstr  "سەرچاوەی دیکە ڕووناکی"
+
+msgid  "exif-flash-fired-0"
+msgstr  "فلاش کاری نەکرد"
+
+msgid  "exif-flash-fired-1"
+msgstr  "فلاش کاری کرد"
+
+msgid  "exif-flash-return-0"
+msgstr  "فەنکشێنی بینینەوەی گەڕانەوەی ڕووناکی فلاش نیە"
+
+msgid  "exif-flash-return-2"
+msgstr  "گەڕانەوەی ڕووناکی فلاش نەبینرایەوە"
+
+msgid  "exif-flash-return-3"
+msgstr  "گەڕانەوەی ڕووناکی فلاش بینرایەوە"
+
+msgid  "exif-flash-mode-1"
+msgstr  "کارکردنی ناچاریی فلاش"
+
+msgid  "exif-flash-mode-2"
+msgstr  "بەرگری ناچاری لە کارکردنی فلاش"
+
+msgid  "exif-flash-mode-3"
+msgstr  "شێوازی خۆکار"
+
+msgid  "exif-flash-function-1"
+msgstr  "فەنکشێنی فلاش نیە"
+
+msgid  "exif-flash-redeye-1"
+msgstr  "شێوازی کەم‌کردنەوەی سوور-چاو"
+
+msgid  "exif-focalplaneresolutionunit-2"
+msgstr  "ئینج"
+
+msgid  "exif-sensingmethod-1"
+msgstr  "دیاری نەکراو"
+
+msgid  "exif-sensingmethod-2"
+msgstr  "یەک چیپی هەستەوەری بەشی ڕەنگ"
+
+msgid  "exif-sensingmethod-3"
+msgstr  "دوو چیپی هەستەوەری بەشی ڕەنگ"
+
+msgid  "exif-sensingmethod-4"
+msgstr  "سێ چیپی هەستەوەری بەشی ڕەنگ"
+
+msgid  "exif-sensingmethod-5"
+msgstr  "هەستەوەری بەشی ڕەنگی زنجیری"
+
+msgid  "exif-sensingmethod-7"
+msgstr  "هەستەوەری سێ‌هێڵی"
+
+msgid  "exif-sensingmethod-8"
+msgstr  "هەستەوەری هێڵی ڕەنگی زنجیری"
+
+msgid  "exif-scenetype-1"
+msgstr  "وێنەیەکی ڕاستەوخۆ وێنەگیراو"
+
+msgid  "exif-customrendered-0"
+msgstr  "پرۆسەی ئاسایی"
+
+msgid  "exif-customrendered-1"
+msgstr  "پرۆسەی دڵخواز"
+
+msgid  "exif-exposuremode-0"
+msgstr  "بەرچاو خستنی خۆکار"
+
+msgid  "exif-exposuremode-1"
+msgstr  "بەرچاو خستنی دەستی"
+
+msgid  "exif-exposuremode-2"
+msgstr  "زنجیرە گرتنی خۆکار"
+
+msgid  "exif-whitebalance-0"
+msgstr  "خۆکار یەکسان‌کردنی سپیایی"
+
+msgid  "exif-whitebalance-1"
+msgstr  "دەستی یەکسان‌کردنی سپیایی"
+
+msgid  "exif-scenecapturetype-0"
+msgstr  "ستاندارد"
+
+msgid  "exif-scenecapturetype-1"
+msgstr  "دیمەن"
+
+msgid  "exif-scenecapturetype-2"
+msgstr  "پۆرترە"
+
+msgid  "exif-scenecapturetype-3"
+msgstr  "وێنەی شەو"
+
+msgid  "exif-gaincontrol-0"
+msgstr  "هیچ"
+
+msgid  "exif-contrast-0"
+msgstr  "ئاسایی"
+
+msgid  "exif-contrast-1"
+msgstr  "نەرم"
+
+msgid  "exif-contrast-2"
+msgstr  "ڕەق"
+
+msgid  "exif-saturation-0"
+msgstr  "ئاسایی"
+
+msgid  "exif-saturation-1"
+msgstr  "تێرکردنی کەم"
+
+msgid  "exif-saturation-2"
+msgstr  "تێرکردنی زۆر"
+
+msgid  "exif-sharpness-0"
+msgstr  "ئاسایی"
+
+msgid  "exif-sharpness-1"
+msgstr  "نەرم"
+
+msgid  "exif-sharpness-2"
+msgstr  "ڕەق"
+
+msgid  "exif-subjectdistancerange-0"
+msgstr  "نەزانراو"
+
+msgid  "exif-subjectdistancerange-1"
+msgstr  "گەورە"
+
+msgid  "exif-subjectdistancerange-2"
+msgstr  "دیمەنی نزیک"
+
+msgid  "exif-subjectdistancerange-3"
+msgstr  "دیمەنی دوور"
+
+msgid  "exif-gpslatitude-n"
+msgstr  "پانیی جوگرافیایی باکوور"
+
+msgid  "exif-gpslatitude-s"
+msgstr  "پانیی جوگرافیایی باشوور"
+
+msgid  "exif-gpslongitude-e"
+msgstr  "پانیی جوگرافیایی ڕۆژهەڵات"
+
+msgid  "exif-gpslongitude-w"
+msgstr  "پانیی جوگرافیایی ڕۆژئاوا"
+
+msgid  "exif-gpsspeed-k"
+msgstr  "کیلۆمەتر هەر کاتژمێر"
+
+msgid  "exif-gpsspeed-m"
+msgstr  "مایل هەر کاتژمێر"
+
+msgid  "edit-externally"
+msgstr  "دەستکاریی ئەم پەڕەیە بکە بە بەکارھێنانی پڕۆگرامێکی دەرەکی"
+
+msgid  "edit-externally-help"
+msgstr  "(بۆ زانیاریی زیاتر سەیری [http://www.mediawiki.org/wiki/Manual:External_editors  ڕێنماییەکانی دامەزراندن] بکە)"
+
+msgid  "recentchangesall"
+msgstr  "ھەموو"
+
+msgid  "imagelistall"
+msgstr  "ھەموو"
+
+msgid  "watchlistall2"
+msgstr  "ھەموو"
+
+msgid  "namespacesall"
+msgstr  "ھەموو"
+
+msgid  "monthsall"
+msgstr  "ھەموو"
+
+msgid  "limitall"
+msgstr  "ھەموو"
+
+msgid  "confirmemail"
+msgstr  "بڕواپێکردنی ناونیشانی ئیمەیل"
+
+msgid  "confirmemail_noemail"
+msgstr  "لە [[Special:Preferences|هەڵبژاردەکانی بەکارهێنەر]] ناونیشانی ئی‌مەیلی گونجاوت دیاری نەکردووە."
+
+msgid  "confirmemail_text"
+msgstr  "{{SITENAME}} بە پێویستی دەزانێ پێش کەڵک وەرگرتن لە تایبەتمەندیەکانی ئی‌مەیل، ناونیشانی ئی‌مەیلی خۆت ڕاچاو بکەیت.\nئەو دوکمەی خوارەوە چالاک بکە تاکوو ئی‌مەیلێکی بڕوا پێ‌کردن بنێردرێت بۆ ناونیشانی ئی‌مەیلەکەت.\nئەو ئی‌مەیلە بەستەرەکی تێدایە؛ لە وێبگەڕەکەت ئەو بەستەرە ببینە تاکوو ناونیشانی ئی‌مەیلەکەت بڕوادار بێت."
+
+msgid  "confirmemail_pending"
+msgstr  "کۆدی بڕواپێ‌کردن لە پێش‌دا ئی‌مەیل کراوە بۆت.\nئەگەر بە تازەیی هەژمارەت درووست‌کردووە، لەوانەیە باشتربێت چەن خۆلکێک بوەستی بۆ گەیشتنی ئەو ئەمەیلی، پێش دیسان داواکردنەوەی کۆدی نوێ."
+
+msgid  "confirmemail_send"
+msgstr  "ئی‌مەیل‌کردنی کۆدی بڕواپێ‌کردن"
+
+msgid  "confirmemail_sent"
+msgstr  "ئی‌مەیلی بڕواپێ‌کردن ناردرا."
+
+msgid  "confirmemail_oncreate"
+msgstr  "کۆدی بڕواپێ‌کردنی ناردرا بۆ ناونیشانی ئی‌مەیلت.\nپێویست نیە بڕۆیتە ژوورەوە، تەنها پێویستە پێش کەڵک وەرگرتن لە تایبەتمەندیەکان ئی‌مەیلیی ویکی ئەوە جێبەجێ بکەیت."
+
+msgid  "confirmemail_sendfailed"
+msgstr  "{{SITENAME}} ناتوانێ ئی‌مەیلی برواکردن بنێرێت بۆ تۆ.\nتکایە ئەرخەیان بە هەموو پیتەکانی ناونیشانەکەت گونجاوە.\n\nمەیلکەر ئەوەی گەڕاندەوە: $1"
+
+msgid  "confirmemail_invalid"
+msgstr  "کۆدی بڕواپێ‌کردنی نەگونجاو.\nلەوانەیە ئەو کۆدە ماوەی بەسەر چووبێت."
+
+msgid  "confirmemail_needlogin"
+msgstr  "بۆ بڕواپێ‌کردنی ناونیشانی ئی‌مەیلەکەت، دەبێ $1."
+
+msgid  "confirmemail_success"
+msgstr  "ناونیشانی ئی‌میلەکەت بڕوای‌پێ‌کرا.\nئێستە دەتوانی [[Special:UserLogin|بڕۆیتە ژوورەوە]] و لە ویکی کەڵک بگری."
+
+msgid  "confirmemail_loggedin"
+msgstr  "ئێستا بڕواکراوە بە ئیمەیلەکەت."
+
+msgid  "confirmemail_error"
+msgstr  "کێشەیەک هەیە لە پاشەکەوت‌کردنی بڕواپێ‌کردنی تۆدا."
+
+msgid  "confirmemail_subject"
+msgstr  "بڕوا پێ‌کردنی ناونیشانی ئی‌مەیلی {{SITENAME}}"
+
+msgid  "confirmemail_body"
+msgstr  "کەسێک، لەوانەیە خۆت، لە ناونیشانی ئای‌پی $1،\nلە {{SITENAME}} بەم ناونیشانی ئی‌مەیلە، هەژمارەیەکی تۆمارکردووە \"$2\" .\n\nبۆ ئەوەی بڕا بکرێت کە ئەم هەژمارە لە ڕاستیدا بۆتۆیە و بۆ چالاک‌کردنی تایبەتمەندیەکانی ئی‌مەیل لە {{SITENAME}}دا، ئەو بەستەرەی خوارەوە لە وێبگەڕەکەت‌دا بکەوە:\n\n$3\n\nئەگەر تۆ ئەو هەژمارەت تۆمار *نەکردووە*، بۆ هەڵوەشاندنەوەی بڕوا‌پێ‌کردنی ناونیشانی ئی‌مەیل بڕۆ بۆ ئەم بەستەرە:\n\n$5\n\nئەم کۆدی بڕواپێ‌کردنە لە $4 ماوەی بەسەردێت."
+
+msgid  "confirmemail_body_changed"
+msgstr  "کەسێک، لەوانەیە خۆت، لە ئای‌پی ئەدرەسی $1،\nئەدرەسی ئەیمەیلی ھەژماری «$2» لە {{SITENAME}}دا گۆڕاوە بۆ ئەم ئەدرەسە.\n\nبۆ ئەوەی بڕوا بکرێت کە ئەم ھەژمارە لە ڕاستیدا بۆتۆیە و بۆ چالاککردنەوەی تایبەتمەندیەکانی ئیمەیل لە {{SITENAME}}دا، ئەم بەستەرەی خوارەوە لە وێبگەڕەکەتدا بکەوە:\n\n$3\n\nئەگەر ھەژمارە ھی تۆ *نییە*، بۆ هەڵوەشاندنەوەی بڕوا‌پێکردنی ئەدرەسی ئیمەیل بەدوای ئەم بەستەرە بکەوە:\n\n$5\n\nئەم کۆدی بڕواپێکردنە لە $4 ماوەی بەسەردێت."
+
+msgid  "confirmemail_body_set"
+msgstr  "کەسێک، لەوانەیە خۆت، لە ئای‌پی ئەدرەسی $1،\nئەدرەسی ئەیمەیلی ھەژماری «$2» لە {{SITENAME}}دا کردووە بەم ئەدرەسە.\n\nبۆ ئەوەی بڕوا بکرێت کە ئەم ھەژمارە لە ڕاستیدا بۆتۆیە و بۆ چالاککردنەوەی تایبەتمەندیەکانی ئیمەیل لە {{SITENAME}}دا، ئەم بەستەرەی خوارەوە لە وێبگەڕەکەتدا بکەوە:\n\n$3\n\nئەگەر ھەژمارە ھی تۆ *نییە*، بۆ هەڵوەشاندنەوەی بڕوا‌پێکردنی ئەدرەسی ئیمەیل بەدوای ئەم بەستەرە بکەوە:\n\n$5\n\nئەم کۆدی بڕواپێکردنە لە $4 ماوەی بەسەردێت."
+
+msgid  "confirmemail_invalidated"
+msgstr  "بڕواپی‌کردنی ناونیشانی ئی‌مەیل هەڵوەشێندراوە"
+
+msgid  "invalidateemail"
+msgstr  "هەڵوەشاندنەوەی بڕواپێ‌کردنی ئی‌مەیل"
+
+msgid  "scarytranscludetoolong"
+msgstr  "[URL زۆر درێژە]"
+
+msgid  "trackbackremove"
+msgstr  "([سڕینەوە $1])"
+
+msgid  "deletedwhileediting"
+msgstr  "'''ھۆشیار بە''': ئەم پەڕە دوای ئەوە تۆ دەستکاریکردنیت دەستپێکرد سڕاوەتەوە!"
+
+msgid  "recreate"
+msgstr  "درووست‌کردنەوە"
+
+msgid  "confirm_purge_button"
+msgstr  "باشە"
+
+msgid  "semicolon-separator"
+msgstr  "؛&#32;"
+
+msgid  "comma-separator"
+msgstr  "،&#32;"
+
+msgid  "imgmultipageprev"
+msgstr  "← پەڕەی پێشوو"
+
+msgid  "imgmultipagenext"
+msgstr  "پەڕەی داهاتوو →"
+
+msgid  "imgmultigo"
+msgstr  "بڕۆ!"
+
+msgid  "imgmultigoto"
+msgstr  "بڕۆ بۆ پەڕەی $1"
+
+msgid  "table_pager_next"
+msgstr  "پەڕەی داهاتوو"
+
+msgid  "table_pager_prev"
+msgstr  "پەڕەی پێشوو"
+
+msgid  "table_pager_first"
+msgstr  "پەرەی یەکەم"
+
+msgid  "table_pager_last"
+msgstr  "دوا پەڕە"
+
+msgid  "table_pager_limit"
+msgstr  "$1 بابەت نیشانبدە لە هەر پەڕەیەک"
+
+msgid  "table_pager_limit_submit"
+msgstr  "بڕۆ"
+
+msgid  "table_pager_empty"
+msgstr  "هیچ ئەنجامێک نییە"
+
+msgid  "autosumm-blank"
+msgstr  "پەڕەکەی واڵا کردەوە"
+
+msgid  "autosumm-replace"
+msgstr  "ناوەڕۆکی کرد بە «$1»"
+
+msgid  "autoredircomment"
+msgstr  "ڕەوانە کرا بۆ [[$1]]"
+
+msgid  "autosumm-new"
+msgstr  "پەڕەی دروستکرد بە «$1»ەوە"
+
+msgid  "size-bytes"
+msgstr  "$1 بایت"
+
+msgid  "size-kilobytes"
+msgstr  "$1 کیلۆبایت"
+
+msgid  "size-megabytes"
+msgstr  "$1 مێگابایت"
+
+msgid  "size-gigabytes"
+msgstr  "$1 گیگابایت"
+
+msgid  "livepreview-loading"
+msgstr  "باركردن‌..."
+
+msgid  "livepreview-ready"
+msgstr  "بارکردن... ئامادە!"
+
+msgid  "lag-warn-normal"
+msgstr  "گۆڕانکاریەکانی نوێ‌تر لە $1 {{PLURAL:$1|چرکە|چرکە}} لەوانەیە لەم لیستەدا نیشان نەدرێن."
+
+msgid  "lag-warn-high"
+msgstr  "لەبەر زۆر دواکەوتنی ڕاژەکاری بنکەدراو، گۆڕانکاریەکانی نوێ‌تر لە $1 {{PLURAL:$1|چرکە|چرکە}} لەوانەیە لەم لیستەدا نیشان نەدرێن."
+
+msgid  "watchlistedit-numitems"
+msgstr  "بێجگە لە پەڕەی وتووێژەکان، لیستی چاودێڕییەکانت {{PLURAL:$1|1 بابەت|$1 بابەت}}ی تێدایە،"
+
+msgid  "watchlistedit-noitems"
+msgstr  "لیستی چاودێڕییەکانت ھیچ بابەتێکی تێدا نییە."
+
+msgid  "watchlistedit-normal-title"
+msgstr  "دە‌ستکاری لیستی چاودێری"
+
+msgid  "watchlistedit-normal-legend"
+msgstr  "لابردنی سەردێڕەکان لە لیستی چاودێری"
+
+msgid  "watchlistedit-normal-explain"
+msgstr  "سەردێڕی بڕگەکانی لیستی چاودێریەکەت لە خوارەوە نیشان‌دراون.\nبۆ لابردنی هەرکام، چوارچێوەی بەرامبەری نیشان بکە و کرتە بکە سەر {{int:Watchlistedit-normal-submit}} بۆ لابردنی سەردێڕەکان\nھەروەھا دەتوانی [[Special:Watchlist/raw|دەستکاری لیستی خاو]] بکەیت."
+
+msgid  "watchlistedit-normal-submit"
+msgstr  "ناونیشانەکان لاببە"
+
+msgid  "watchlistedit-normal-done"
+msgstr  "{{PLURAL:$1|1 سەردێڕ |$1 سەردێڕ}} لە لیستی چاودێریت سڕایەوە:"
+
+msgid  "watchlistedit-raw-title"
+msgstr  "دەستکاری لیستی خاوی چاودێری"
+
+msgid  "watchlistedit-raw-legend"
+msgstr  "دەستکاری لیستی خاوی چاودێری"
+
+msgid  "watchlistedit-raw-explain"
+msgstr  "سەردێڕی بەڕگەکانی لیستی چاودێریەکەت لە خوارەوە نیشان‌دراون و دەتوانی بە زیادکردن و لابردن دەستکاری بکەیت؛\nهەر هێڵێک، سەردێڕێک.\nکاتێ تەواوت‌کرد، لەسەر «{{int:Watchlistedit-raw-submit}}» کرتە بکە.\nهەروا دەتوانی لە [[Special:Watchlist/edit|دەستکاریکەری ستاندارد]] کەڵک‌وەرگریت."
+
+msgid  "watchlistedit-raw-titles"
+msgstr  "ناونیشانەکان:"
+
+msgid  "watchlistedit-raw-submit"
+msgstr  "نوێکردنەوەی لیستی چاودێری"
+
+msgid  "watchlistedit-raw-done"
+msgstr  "لیستی چاودێریەکەت نوێ‌کرایەوە"
+
+msgid  "watchlistedit-raw-added"
+msgstr  "{{PLURAL:$1|1 سەردێڕ|$1 سەردێڕ}} زیادکرا:"
+
+msgid  "watchlistedit-raw-removed"
+msgstr  "{{PLURAL:$1|1 سەردێڕ|$1 سەردێڕ}} لابرا:"
+
+msgid  "watchlisttools-view"
+msgstr  "گۆڕانکارییە پەیوەندیدارەکان ببینە"
+
+msgid  "watchlisttools-edit"
+msgstr  "لیستی چاودێری ببینە و دەستکاری بکە"
+
+msgid  "watchlisttools-raw"
+msgstr  "لیستی خاوی چاودێری دەستکاری بکە"
+
+msgid  "iranian-calendar-m1"
+msgstr  "خاکەلێوە"
+
+msgid  "iranian-calendar-m2"
+msgstr  "گوڵان"
+
+msgid  "iranian-calendar-m3"
+msgstr  "جۆزەردان"
+
+msgid  "iranian-calendar-m4"
+msgstr  "پووشپەڕ"
+
+msgid  "iranian-calendar-m5"
+msgstr  "گەلاوێژ"
+
+msgid  "iranian-calendar-m6"
+msgstr  "خەرمانان"
+
+msgid  "iranian-calendar-m7"
+msgstr  "ڕەزبەر"
+
+msgid  "iranian-calendar-m8"
+msgstr  "خەزەڵوەر"
+
+msgid  "iranian-calendar-m9"
+msgstr  "سەرماوەز"
+
+msgid  "iranian-calendar-m10"
+msgstr  "بەفرانبار"
+
+msgid  "iranian-calendar-m11"
+msgstr  "ڕێبەندان"
+
+msgid  "iranian-calendar-m12"
+msgstr  "ڕەشەمە"
+
+msgid  "hijri-calendar-m1"
+msgstr  "موحەڕەم"
+
+msgid  "hijri-calendar-m2"
+msgstr  "سەفەر"
+
+msgid  "hijri-calendar-m3"
+msgstr  "ڕەبيع ئەلئەووەڵ"
+
+msgid  "hijri-calendar-m7"
+msgstr  "ڕەجەب"
+
+msgid  "hijri-calendar-m8"
+msgstr  "شەعبان"
+
+msgid  "hijri-calendar-m9"
+msgstr  "ڕەمەزان"
+
+msgid  "hijri-calendar-m10"
+msgstr  "شەووال"
+
+msgid  "hijri-calendar-m11"
+msgstr  "زولقەعدە"
+
+msgid  "hijri-calendar-m12"
+msgstr  "زولحەججە"
+
+msgid  "unknown_extension_tag"
+msgstr  "تاگی درێژکراوەی نەناسراو \"$1\""
+
+msgid  "version"
+msgstr  "وەشان"
+
+msgid  "version-extensions"
+msgstr  "پێوەکراوە دامەزراوەکان"
+
+msgid  "version-specialpages"
+msgstr  "پەڕە تایبەتەکان"
+
+msgid  "version-parserhooks"
+msgstr  "قولاپە لێککەرەکان"
+
+msgid  "version-variables"
+msgstr  "گۆڕاوەکان"
+
+msgid  "version-skins"
+msgstr  "پێستەکان"
+
+msgid  "version-other"
+msgstr  "ھی دیکە"
+
+msgid  "version-mediahandlers"
+msgstr  "بایەخ‌دەرانی مێدیا"
+
+msgid  "version-hooks"
+msgstr  "قولاپەکان"
+
+msgid  "version-extension-functions"
+msgstr  "فەنکشێنەکانی درێژەکراو"
+
+msgid  "version-parser-extensiontags"
+msgstr  "تاگەکانی درێژکراوی لێککەرەوە"
+
+msgid  "version-parser-function-hooks"
+msgstr  "قولاپەکانی فەنکشێنی لێککەرەوە"
+
+msgid  "version-skin-extension-functions"
+msgstr  "فەنکشێنەکانی درێژکراوی ڕووبەرگ"
+
+msgid  "version-hook-name"
+msgstr  "ناوی قولاپ"
+
+msgid  "version-hook-subscribedby"
+msgstr  "بەشداربوو لە لایەن"
+
+msgid  "version-version"
+msgstr  "(وەشانی $1)"
+
+msgid  "version-license"
+msgstr  "مۆڵەت"
+
+msgid  "version-software"
+msgstr  "نەرمەکاڵای دامەزراو"
+
+msgid  "version-software-product"
+msgstr  "بەرهەم"
+
+msgid  "version-software-version"
+msgstr  "وەشان"
+
+msgid  "filepath"
+msgstr  "ڕێڕەوی پەڕگە"
+
+msgid  "filepath-page"
+msgstr  "پەڕگە:"
+
+msgid  "filepath-submit"
+msgstr  "بڕۆ"
+
+msgid  "filepath-summary"
+msgstr  "ئەم لاپەڕە تایبەتە ڕێڕەوی تەواو بۆ پەڕگەیەک دەگەڕێنێتەوە.\nوێنەکان لە قەبارەی تەواو‌دا نیشان‌ دەدرێن و جۆرە پەڕگەکانی دیکە بە پڕۆگرامی هاوپەیوەندی خۆی ڕاستەوخۆ دەست‌پێ‌دەکات.\n\nناوی پەڕگەکە بێ پێشگری \"{{ns:file}}\" بنووسە."
+
+msgid  "fileduplicatesearch"
+msgstr  "گەڕان بۆ پەڕگە دووپات کراوەکان"
+
+msgid  "fileduplicatesearch-summary"
+msgstr  "گەڕان بۆ پەڕگە دووبارەکراوەکان لەسەر بنەمای نرخی hash.\n\nناوی پەڕگەکە بێ پێشگری \"{{ns:file}}\" بنووسە."
+
+msgid  "fileduplicatesearch-legend"
+msgstr  "گەڕان بۆ دووبارەکردنێک"
+
+msgid  "fileduplicatesearch-filename"
+msgstr  "ناوی پەرگە:"
+
+msgid  "fileduplicatesearch-submit"
+msgstr  "گەڕان"
+
+msgid  "fileduplicatesearch-info"
+msgstr  "$1 × $2 پیکسەل<br />قەبارەی پەڕگە: $3<br />MIME جۆری: $4"
+
+msgid  "fileduplicatesearch-result-1"
+msgstr  "پەڕگەی \"$1\" دووپاتکراوەیەکی کوتوموتی نییە."
+
+msgid  "fileduplicatesearch-result-n"
+msgstr  "پەڕگەی «$1» {{PLURAL:$2|١ دووپاتکراوەی کوتوموتی|$2 دووپاتکراوەی کوتوموتی}} ھەیە."
+
+msgid  "specialpages"
+msgstr  "پەڕە تایبەتەکان"
+
+msgid  "specialpages-note"
+msgstr  "----\n* لاپەڕە تایبەتە ئاساییەکان\n* <strong class=\"mw-specialpagerestricted\">لاپەڕە تایبەتە بەربەست‌کراوەکان.</strong>"
+
+msgid  "specialpages-group-maintenance"
+msgstr  "ڕاپۆرتەکانی چاکسازی"
+
+msgid  "specialpages-group-other"
+msgstr  "پەڕە تایبەتەکانی دیکە"
+
+msgid  "specialpages-group-login"
+msgstr  "چوونەژوورەوە / ناونووسین"
+
+msgid  "specialpages-group-changes"
+msgstr  "دوایین گۆڕانکارییەکان و ڕەشنووسەکان"
+
+msgid  "specialpages-group-media"
+msgstr  "ڕاپۆرتەکان و بارکردنەکانی میدیا"
+
+msgid  "specialpages-group-users"
+msgstr  "بەکارھێنەران و مافەکان"
+
+msgid  "specialpages-group-highuse"
+msgstr  "پەڕە زۆر بەکار ھێنراوەکان"
+
+msgid  "specialpages-group-pages"
+msgstr  "لیستەکانی پەڕەکان"
+
+msgid  "specialpages-group-pagetools"
+msgstr  "ئامرازەکانی پەڕە"
+
+msgid  "specialpages-group-wiki"
+msgstr  "داتا و ئامرازەکانی ویکی"
+
+msgid  "specialpages-group-redirects"
+msgstr  "پەڕە تایبەتەکانی رەوانکردنەوە"
+
+msgid  "specialpages-group-spam"
+msgstr  "ئامرازەکانی سپەم"
+
+msgid  "blankpage"
+msgstr  "پەڕەی واڵا"
+
+msgid  "intentionallyblankpage"
+msgstr  "ئەم لاپەڕە بەقەستی بەتاڵ هێڵراوەتەوە"
+
+msgid  "tags"
+msgstr  "گۆڕانکاری گونجاوی تاگەکان"
+
+msgid  "tag-filter"
+msgstr  "پاڵێوی [[Special:Tags|تاگ]]:"
+
+msgid  "tag-filter-submit"
+msgstr  "پاڵاوتن"
+
+msgid  "tags-title"
+msgstr  "تاگەکان"
+
+msgid  "tags-intro"
+msgstr  "ئەم لاپەڕە ئەو تاگانەی لیست دەکات کە لەوانەیە نەرمامێر دەستکاریەکی بۆ نیشان بکات و مەبەستی نیشان بدات."
+
+msgid  "tags-tag"
+msgstr  "ناوی تاگ"
+
+msgid  "tags-display-header"
+msgstr  "دیمەن لەسەر لیستەکانی گۆڕان"
+
+msgid  "tags-description-header"
+msgstr  "پێناسەی تەواوی مەبەست"
+
+msgid  "tags-hitcount-header"
+msgstr  "گۆڕانکاریە تاگ‌کراوەکان"
+
+msgid  "tags-edit"
+msgstr  "دەستکاری"
+
+msgid  "tags-hitcount"
+msgstr  "$1 {{PLURAL:$1|گۆڕان|گۆڕانکاری}}"
+
+msgid  "comparepages"
+msgstr  "پەڕەکان ھەڵسەنگێنە"
+
+msgid  "compare-selector"
+msgstr  "پیاچوونەوەکانی پەڕە ھەڵسەنگێنە"
+
+msgid  "compare-page1"
+msgstr  "پەڕەی ١"
+
+msgid  "compare-page2"
+msgstr  "پەڕەی ٢"
+
+msgid  "compare-rev1"
+msgstr  "پێداچوونەوەی ١"
+
+msgid  "compare-rev2"
+msgstr  "پێداچوونەوەی ٢"
+
+msgid  "compare-submit"
+msgstr  "ھەڵسەنگاندن"
+
+msgid  "dberr-header"
+msgstr  "ئەم ویکی‌یە کێشەی هەیە"
+
+msgid  "dberr-problems"
+msgstr  "ببورە! ئەم ماڵپەڕە ئێستا خەریک ئەزموونێکی کێشەی تەکنیکیە."
+
+msgid  "dberr-again"
+msgstr  "چەن خولک ڕاوەستە و نوێی بکەوە."
+
+msgid  "dberr-info"
+msgstr  "(پەیوەندی دەگەڵ ڕاژەکاری بنکەدراو پێک‌نایەت: $1)"
+
+msgid  "dberr-usegoogle"
+msgstr  "دەتوانی هاوکات هەوڵی گەڕان بە گووگڵ بدەیت."
+
+msgid  "dberr-outofdate"
+msgstr  "لەیادت بێ لەوانەیە پێرستەکەیان سەبارەت نە ناوەڕۆک ئەم ماڵپەڕە ماوە بەسەرچوو بێت."
+
+msgid  "dberr-cachederror"
+msgstr  "ئەمە ڕوونووسێکی کاش‌کراوی لاپەڕەی داواکراوە و لەوانەیە بەڕۆژ نەبێت."
+
+msgid  "htmlform-invalid-input"
+msgstr  "هێندێ کێشە هەیە لە بڕێک لە ناودراوەکانت"
+
+msgid  "htmlform-select-badoption"
+msgstr  "ئەو نرخەی دیاریت‌کردووە هەڵبژاردەیەکی گونجاو نیە."
+
+msgid  "htmlform-int-invalid"
+msgstr  "ئەو نرخەی دیاریت‌کردووه ژمارەیەکی تەواو نیە."
+
+msgid  "htmlform-float-invalid"
+msgstr  "ئەو نرخەی دیاریت‌کردووه ژمارە نیە."
+
+msgid  "htmlform-int-toolow"
+msgstr  "ئەو نرخەی دیاریت‌کردووه کەمترە لە ئەمپەڕی $1."
+
+msgid  "htmlform-int-toohigh"
+msgstr  "ئەو نرخەی دیاریت‌کردووه زیاترە لە ئەوپەڕی $1."
+
+msgid  "htmlform-submit"
+msgstr  "ناردن"
+
+msgid  "htmlform-reset"
+msgstr  "پووچەڵکردنەوەی دەستکارییەکان"
+
+msgid  "htmlform-selectorother-other"
+msgstr  "دیکە"
+
+msgid  "wm-license-book-publisher"
+msgstr  "بڵاوکار"
+
+msgid  "wm-license-book-title"
+msgstr  "سەرناو"
+
+msgid  "wm-license-book-year-of-publication"
+msgstr  "ساڵی بڵاوکردنەوە"
+
+msgid  "wm-license-cc-free"
+msgstr  "تۆ ئازادی:"
+
+msgid  "wm-license-cc-free-to-share-text"
+msgstr  "بۆ کۆپی کردن، دابەشکردن و دەستبەدەست ناردنی"
+
+msgid  "wm-license-creator-description"
+msgstr  "وەسف"
+
+msgid  "wm-license-creator-date-of-birth"
+msgstr  "ڕێکەوتی لەدایکبوون"
+
+msgid  "wm-license-creator-date-of-birth-and-death"
+msgstr  "ڕێکەوتی لەدایکبوون/مردن"
+
+msgid  "wm-license-creator-location-of-birth"
+msgstr  "شوێنی لەدایکبوون"
+
+msgid  "wm-license-creator-location-of-birth-and-death"
+msgstr  "شوێنی لەدایکبوون/مردن"
+
+msgid  "wm-license-creator-work-location"
+msgstr  "شوێنی بەرھەم"
+
+msgid  "wm-license-free-software-wiki-link"
+msgstr  "w:ckb:نەرمەکاڵا خۆڕاییەکان"
+
+msgid  "wm-license-information-description"
+msgstr  "وەسف"
+
+msgid  "wm-license-information-source"
+msgstr  "سەرچاوە"
+
+msgid  "wm-license-information-source-missing"
+msgstr  "ئەم پەڕگەیە کەم و کۆڕیی زانیاریی '''سەرچاوە'''ی ھەیە."
+
+msgid  "wm-license-information-date"
+msgstr  "ڕێکەوت"
+
+msgid  "wm-license-information-author"
+msgstr  "بەرھەمھێنەر"
+
+msgid  "wm-license-information-author-missing"
+msgstr  "ئەم پەڕگەیە کەم و کۆڕیی زانیاریی '''بەرھەمھێنەر'''ی ھەیە."
+
+msgid  "wm-license-information-permission-reusing-text"
+msgstr  "بەکارھێنانەوەی ئەم پەڕگەیە"
+
+msgid  "wm-license-information-permission-see-below"
+msgstr  "خوارەوە ببینە."
+
+msgid  "wm-license-information-other-versions"
+msgstr  "وەشانەکانی تر"
+
+msgid  "wm-license-pd-author-self-text"
+msgstr  "‫من، هەڵگری مافی لەبەرگرتنەوەی ئەم بەرھەمە، ئەم بەرھەمە بڵاودەکەمەوە بۆ '''[[{{int:wm-license-pd-wiki-link}}|پاوانی گشتی (public domain)]]'''. ئەم مافە بۆ سەرانسەری جیھانە."
+
+msgid  "wm-license-pd-author-with-author-text"
+msgstr  "ئەم بەرھەمە بەدەستی بەرھەمھێنەرەکەی '''$1'''، بڵاوکراوەتەوە بۆ '''[[{{int:wm-license-pd-wiki-link}}|پاوانی گشتی (public domain)]]'''. ئەم مافە بۆ سەرانسەری جیھانە."
+
+msgid  "wm-license-pd-author-not-legally-possible"
+msgstr  "لە ھەندێ وڵاتدا لەوانەیە یاسا، ڕێگە بەمە نەدات؛ لەو کاتەدا:"
+
+msgid  "wm-license-pd-author-self-any-purpose"
+msgstr  "من مافی بەکارھێنانی ئەم بەرھەمە '''بۆ ھەر مەبەستێک''' دەبەخشم بە ھەموو کەسێک، بێ ھیچ مەرجێک، مەگەر ئەو چەشنە مەرجانە کە یاسا ھەبوونیانی بە پێویستی بزانێت."
+
+msgid  "wm-license-pd-author-with-author-any-purpose"
+msgstr  "‫$1 مافی بەکارھێنانی ئەم بەرھەمە '''بۆ ھەر مەبەستێک''' دەبەخشێ بە ھەموو کەسێک، بێ ھیچ مەرجێک، مەگەر ئەو چەشنە مەرجانە کە یاسا ھەبوونیانی بە پێویستی بزانێت."
+
+msgid  "wm-license-self-one-license"
+msgstr  "من، ھەڵگری مافی لەبەرگرتنەوەی ئەم بەرھەمە، لەژێر ئەم مۆڵەتنامەیەدا بڵاوی دەکەمەوە:"
+
+msgid  "wm-license-self-one-license-with-author"
+msgstr  "$1، ھەڵگری مافی لەبەرگرتنەوەی ئەم بەرھەمە، لەژێر ئەم مۆڵەتنامەیەدا بڵاوی دەکاتەوە:"
+
+msgid  "wm-license-self-multiple-licenses"
+msgstr  "من، ھەڵگری مافی لەبەرگرتنەوەی ئەم بەرھەمە، لەژێر ئەم مۆڵەتنامەیانەدا بڵاوی دەکەمەوە:"
+
+msgid  "wm-license-self-multiple-licenses-with-author"
+msgstr  "‫‫$1، ھەڵگری مافی لەبەرگرتنەوەی ئەم بەرھەمە، لەژێر ئەم مۆڵەتنامەیانەدا بڵاوی دەکاتەوە:"
+
+msgid  "wm-license-self-multiple-licenses-select"
+msgstr  "دەتوانی مۆڵەتنامەی دڵخوازت ھەڵبژێریت."
+

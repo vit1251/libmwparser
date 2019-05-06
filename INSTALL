@@ -1,0 +1,58 @@
+Don't install. Just compile and run it from here.
+
+Requirements
+============
+- libeina (>= 1.0)
+- libpcre
+- libicu (>= 4.0)
+- libxml-2.0
+- libsqlite3
+- zlib
+- libbz2
+- libmicrohttpd
+- libcurl
+
+Compiling
+=========
+./autogen.sh && make
+
+Note: Devel is done with Debian/sid amd64 and tested with Debian/sid i386.
+Support for other OS/versions will be taken care of later, unless you have
+enough knowledge and want to be an active developper.
+
+Getting started
+===============
+First, you will need to get desired xml and sql dumps from wikipedia. See:
+http://dumps.wikimedia.org/backup-index.html
+
+For enwikiversity (http://dumps.wikimedia.org/enwikiversity/20110620/) you
+will need:
+ - pages-meta-current.xml.bz2 or pages-articles.xml.bz2 
+   don't fetch history since it's unsupported.
+
+ - image.sql.gz 
+   this is needed to fetch files/images info (size, width, height, mimetype)
+
+ - categorylinks.sql.gz
+   this is for filling the pages_in_cat table without having to parse all
+   pages
+
+Then build the sqlitedb using wikidump_sqlite:
+
+$ WIKIDUMP_SQLITE_DB="enwikiversity.sqlite" PATH/to/wikidump_sqlite \
+   pages-meta-current.xml.bz2 en_US.UTF-8 image.sql.gz categorylinks.sql.gz
+
+WARNING: 
+ - this tool doesn't parse the command line so please respect the following
+   sequence:
+   xml_dump locale image_file category_file
+ - You can re-use a database to replace data but on larger wiki it is
+   better to build a new db because index are built at the end.
+ - it is possible to have more than one wikimedia in a single sqlite database,
+   but larger wikis such as commons, dewiki, enwiki, frwiki etc. may require
+	 their own db.
+
+Launch the wikidump_server. See tools/ws . You may need to change 
+DB_SEARCH_PATH, WIKIDUMP_STATIC_DATA, WIKIDUMP_SERVER.
+
+Then just go to http://localhost:8888/ with your web browser.

@@ -1,0 +1,5238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libmwparser\n"
+"POT-Creation-Date: 2011-09-02 09:41+0000\n"
+"PO-Revision-Date: 2011-09-02 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid  "#athsheoladh"
+msgstr "#REDIRECT"
+
+msgid  "__GANCÁ__"
+msgstr "__NOTOC__"
+
+msgid  "__CÁGACHUAIR__"
+msgstr "__FORCETOC__"
+
+msgid  "__CÁ__"
+msgstr "__TOC__"
+
+msgid  "__GANMHÍRATHRÚ__"
+msgstr "__NOEDITSECTION__"
+
+msgid  "MÍLÁITHREACH"
+msgstr "CURRENTMONTH2"
+
+msgid  "CURRENTMONTH"
+msgstr "CURRENTMONTH2"
+
+msgid  "AINMNAMÍOSALÁITHREAÍ"
+msgstr "CURRENTMONTHNAME"
+
+msgid  "GINAINMNAMÍOSALÁITHREAÍ"
+msgstr "CURRENTMONTHNAMEGEN"
+
+msgid  "GIORRÚNAMÍOSALÁITHREAÍ"
+msgstr "CURRENTMONTHABBREV"
+
+msgid  "LÁLÁITHREACH"
+msgstr "CURRENTDAY"
+
+msgid  "AINMANLAELÁITHRIGH"
+msgstr "CURRENTDAYNAME"
+
+msgid  "BLIAINLÁITHREACH"
+msgstr "CURRENTYEAR"
+
+msgid  "AMLÁITHREACH"
+msgstr "CURRENTTIME"
+
+msgid  "LÍONNANALT"
+msgstr "NUMBEROFARTICLES"
+
+msgid  "LÍONNAGCOMHAD"
+msgstr "NUMBEROFFILES"
+
+msgid  "AINMANLGH"
+msgstr "PAGENAME"
+
+msgid  "AINMANLGHB"
+msgstr "PAGENAMEE"
+
+msgid  "AINMSPÁS"
+msgstr "NAMESPACE"
+
+msgid  "TCHT:"
+msgstr "MSG:"
+
+msgid  "IONAD:"
+msgstr "SUBST:"
+
+msgid  "TCHTFS:"
+msgstr "MSGNW:"
+
+msgid  "mionsamhail"
+msgstr "thumb"
+
+msgid  "mion"
+msgstr "thumb"
+
+msgid  "thumbnail"
+msgstr "thumb"
+
+msgid  "deas"
+msgstr "right"
+
+msgid  "clé"
+msgstr "left"
+
+msgid  "faic"
+msgstr "none"
+
+msgid  "lár"
+msgstr "centre"
+
+msgid  "center"
+msgstr "centre"
+
+msgid  "fráma"
+msgstr "frame"
+
+msgid  "frámaithe"
+msgstr "frame"
+
+msgid  "framed"
+msgstr "frame"
+
+msgid  "enframed"
+msgstr "frame"
+
+msgid  "INMH:"
+msgstr "INT:"
+
+msgid  "AINMANTSUÍMH"
+msgstr "SITENAME"
+
+msgid  "AS:"
+msgstr "NS:"
+
+msgid  "URLÁITIÚIL"
+msgstr "LOCALURL:"
+
+msgid  "URLÁITIÚILB"
+msgstr "LOCALURLE:"
+
+msgid  "FREASTALAÍ"
+msgstr "SERVER"
+
+msgid  "AINMANFHREASTALAÍ"
+msgstr "SERVERNAME"
+
+msgid  "SCRIPTCHOSÁN"
+msgstr "SCRIPTPATH"
+
+msgid  "GRAMADACH:"
+msgstr "GRAMMAR:"
+
+msgid  "__GANTIONTÚNADTEIDEAL__"
+msgstr "__NOTC__"
+
+msgid  "__GANTT__"
+msgstr "__NOTC__"
+
+msgid  "__NOTITLECONVERT__"
+msgstr "__NOTC__"
+
+msgid  "__GANTIONTÚNANÁBHAIR__"
+msgstr "__NOCC__"
+
+msgid  "__GANTA__"
+msgstr "__NOCC__"
+
+msgid  "__NOCONTENTCONVERT__"
+msgstr "__NOCC__"
+
+msgid  "SEACHTAINLÁITHREACH"
+msgstr "CURRENTWEEK"
+
+msgid  "LÁLÁITHREACHNAS"
+msgstr "CURRENTDOW"
+
+msgid  "IDANLEASAITHE"
+msgstr "REVISIONID"
+
+msgid  "tog-underline"
+msgstr  "Folínte faoi naisc:"
+
+msgid  "tog-highlightbroken"
+msgstr  "Formáidigh na naisc briste, <a href=\"\" class=\"new\">mar seo</a>\n(rogha malartach: mar seo<a href=\"\" class=\"internal\">?</a>)."
+
+msgid  "tog-justify"
+msgstr  "Comhfhadaigh na paragraif"
+
+msgid  "tog-hideminor"
+msgstr  "Ná taispeáin mionathruithe i measc na n-athruithe is déanaí"
+
+msgid  "tog-hidepatrolled"
+msgstr  "Folaigh giotaí eagartha smachtaithe sna athruithe is déanaí"
+
+msgid  "tog-newpageshidepatrolled"
+msgstr  "Folaigh leathanaigh smachtaithe ó liosta leathanaigh úire"
+
+msgid  "tog-extendwatchlist"
+msgstr  "Leathnaigh an liosta faire chun gach athrú cuí a thaispeáint"
+
+msgid  "tog-usenewrc"
+msgstr  "Stíl nua do na hathruithe is déanaí (JavaScript riachtanach)"
+
+msgid  "tog-numberheadings"
+msgstr  "Uimhrigh ceannteidil go huathoibríoch"
+
+msgid  "tog-showtoolbar"
+msgstr  "Taispeáin an barra uirlisí eagair (JavaScript)"
+
+msgid  "tog-editondblclick"
+msgstr  "Déghliogáil chun leathanaigh a chur in eagar (JavaScript)"
+
+msgid  "tog-editsection"
+msgstr  "Cumasaigh mír-eagarthóireacht le naisc mar seo: [athrú]"
+
+msgid  "tog-editsectiononrightclick"
+msgstr  "Cumasaigh mír-eagarthóireacht le deaschliceáil<br /> ar cheannteidil (JavaScript)"
+
+msgid  "tog-showtoc"
+msgstr  "Taispeáin an clár ábhair (d'ailt le níos mó ná 3 ceannteidil)"
+
+msgid  "tog-rememberpassword"
+msgstr  "Cuimhnigh orm ar an ríomhaire seo (ar feadh uastréimhse de $1 {{PLURAL:$1|lá|lá}})"
+
+msgid  "tog-watchcreations"
+msgstr  "Cuir ar mo liosta faire leathanaigh a chruthaím"
+
+msgid  "tog-watchdefault"
+msgstr  "Déan faire ar leathanaigh a athraím"
+
+msgid  "tog-watchmoves"
+msgstr  "Cuir ar mo liosta faire leathanaigh a athainmnaím"
+
+msgid  "tog-watchdeletion"
+msgstr  "Cuir ar mo liosta faire leathanaigh a scriosaim"
+
+msgid  "tog-minordefault"
+msgstr  "Déan mionathruithe de gach aon athrú, mar réamhshocrú"
+
+msgid  "tog-previewontop"
+msgstr  "Cuir an réamhamharc os cionn an bhosca eagair, <br />agus ná cuir é taobh thíos de"
+
+msgid  "tog-previewonfirst"
+msgstr  "Taispeáin réamhamharc don chéad athrú"
+
+msgid  "tog-nocache"
+msgstr  "Ná sábháil leathanaigh i dtaisce an bhrabhsálaí"
+
+msgid  "tog-enotifwatchlistpages"
+msgstr  "Cuir ríomhphost chugam nuair a athraítear leathanaigh"
+
+msgid  "tog-enotifusertalkpages"
+msgstr  "Cuir ríomhphost chugam nuair a athraítear mo leathanach phlé úsáideora"
+
+msgid  "tog-enotifminoredits"
+msgstr  "Cuir ríomhphost chugam nuair a dhéantar mionathruithe chomh maith"
+
+msgid  "tog-enotifrevealaddr"
+msgstr  "Taispeáin mo sheoladh ríomhphoist i dteachtaireachtaí fógra"
+
+msgid  "tog-shownumberswatching"
+msgstr  "Taispeán an méid úsáideoirí atá ag faire"
+
+msgid  "tog-oldsig"
+msgstr  "Réamhamharc ar an síniú atá ann:"
+
+msgid  "tog-fancysig"
+msgstr  "Sínithe bunúsacha mar vicítéacs (gan nasc uathoibríoch)"
+
+msgid  "tog-externaleditor"
+msgstr  "Bain úsáid as eagarthóir seachtrach mar réamhshocrú (saineolaithe amháin, tá socrú speisialta de dhíth ort. [http://www.mediawiki.org/wiki/Manual:External_editors Tuilleadh eolais.])"
+
+msgid  "tog-externaldiff"
+msgstr  "Bain úsáid as difríocht sheachtrach mar réamhshocrú (saineolaithe amháin, tá socrú speisialta de dhíth ort. [http://www.mediawiki.org/wiki/Manual:External_editors Tuilleadh eolais.])"
+
+msgid  "tog-showjumplinks"
+msgstr  "Cumasaigh naisc insroichteachta “léim go dtí”"
+
+msgid  "tog-uselivepreview"
+msgstr  "Bain úsáid as réamhamharc beo (JavaScript) (Turgnamhach)"
+
+msgid  "tog-forceeditsummary"
+msgstr  "Cuir in iúl dom nuair a chuirim isteach achoimre eagair folamh"
+
+msgid  "tog-watchlisthideown"
+msgstr  "Folaigh mo chuid athruithe ón liosta faire"
+
+msgid  "tog-watchlisthidebots"
+msgstr  "Folaigh athruithe de chuid róbat ón liosta faire"
+
+msgid  "tog-watchlisthideminor"
+msgstr  "Folaigh mionathruithe ón liosta faire"
+
+msgid  "tog-watchlisthideliu"
+msgstr  "Folaigh athruithe ó úsáideoirí logáilte isteach ón liosta faire"
+
+msgid  "tog-watchlisthideanons"
+msgstr  "Folaigh athruithe ó úsáideoirí gan ainm ón liosta faire"
+
+msgid  "tog-watchlisthidepatrolled"
+msgstr  "Folaigh athruithe patrólta ón liosta faire"
+
+msgid  "tog-ccmeonemails"
+msgstr  "Cuir cóip chugam de gach teactaireacht r-phoist a chuirim chuig úsáideoirí eile"
+
+msgid  "tog-diffonly"
+msgstr  "Ná taispeáin inneachar an leathanaigh faoi difríochteanna"
+
+msgid  "tog-showhiddencats"
+msgstr  "Taispeáin chatagóirí folaithe"
+
+msgid  "tog-norollbackdiff"
+msgstr  "Fág an difr ar lár tar éis athruithe a rolladh siar"
+
+msgid  "underline-always"
+msgstr  "Ar siúl i gcónaí"
+
+msgid  "underline-never"
+msgstr  "Múchta"
+
+msgid  "underline-default"
+msgstr  "Mar atá réamhshocraithe sa bhrabhsálaí"
+
+msgid  "editfont-default"
+msgstr  "Réamhshocrú an bhrabhsálaí"
+
+msgid  "editfont-monospace"
+msgstr  "Cló aonleithid"
+
+msgid  "editfont-sansserif"
+msgstr  "Cló gan trasmhíreanna"
+
+msgid  "editfont-serif"
+msgstr  "Cló le trasmhíreanna"
+
+msgid  "sunday"
+msgstr  "an Domhnach"
+
+msgid  "monday"
+msgstr  "an Luan"
+
+msgid  "tuesday"
+msgstr  "an Mháirt"
+
+msgid  "wednesday"
+msgstr  "an Chéadaoin"
+
+msgid  "thursday"
+msgstr  "an Déardaoin"
+
+msgid  "friday"
+msgstr  "an Aoine"
+
+msgid  "saturday"
+msgstr  "an Satharn"
+
+msgid  "sun"
+msgstr  "Domh"
+
+msgid  "mon"
+msgstr  "Luan"
+
+msgid  "tue"
+msgstr  "Máirt"
+
+msgid  "wed"
+msgstr  "Céad"
+
+msgid  "thu"
+msgstr  "Déar"
+
+msgid  "fri"
+msgstr  "Aoine"
+
+msgid  "sat"
+msgstr  "Sath"
+
+msgid  "january"
+msgstr  "Eanáir"
+
+msgid  "february"
+msgstr  "Feabhra"
+
+msgid  "march"
+msgstr  "Márta"
+
+msgid  "april"
+msgstr  "Aibreán"
+
+msgid  "may_long"
+msgstr  "Bealtaine"
+
+msgid  "june"
+msgstr  "Meitheamh"
+
+msgid  "july"
+msgstr  "Iúil"
+
+msgid  "august"
+msgstr  "Lúnasa"
+
+msgid  "september"
+msgstr  "Meán Fómhair"
+
+msgid  "october"
+msgstr  "Deireadh Fómhair"
+
+msgid  "november"
+msgstr  "Mí na Samhna"
+
+msgid  "december"
+msgstr  "Mí na Nollag"
+
+msgid  "january-gen"
+msgstr  "Eanáir"
+
+msgid  "february-gen"
+msgstr  "Feabhra"
+
+msgid  "march-gen"
+msgstr  "an Mhárta"
+
+msgid  "april-gen"
+msgstr  "an Aibreáin"
+
+msgid  "may-gen"
+msgstr  "na Bealtaine"
+
+msgid  "june-gen"
+msgstr  "an Mheithimh"
+
+msgid  "july-gen"
+msgstr  "Iúil"
+
+msgid  "august-gen"
+msgstr  "Lúnasa"
+
+msgid  "september-gen"
+msgstr  "Mheán Fómhair"
+
+msgid  "october-gen"
+msgstr  "Dheireadh Fómhair"
+
+msgid  "november-gen"
+msgstr  "na Samhna"
+
+msgid  "december-gen"
+msgstr  "na Nollag"
+
+msgid  "jan"
+msgstr  "Ean"
+
+msgid  "feb"
+msgstr  "Feabh"
+
+msgid  "mar"
+msgstr  "Márta"
+
+msgid  "apr"
+msgstr  "Aib"
+
+msgid  "may"
+msgstr  "Beal"
+
+msgid  "jun"
+msgstr  "Meith"
+
+msgid  "jul"
+msgstr  "Iúil"
+
+msgid  "aug"
+msgstr  "Lún"
+
+msgid  "sep"
+msgstr  "MFómh"
+
+msgid  "oct"
+msgstr  "DFómh"
+
+msgid  "nov"
+msgstr  "Samh"
+
+msgid  "dec"
+msgstr  "Noll"
+
+msgid  "pagecategories"
+msgstr  "{{PLURAL:$1|Catagóir|Catagóirí}}"
+
+msgid  "category_header"
+msgstr  "Ailt sa chatagóir \"$1\""
+
+msgid  "subcategories"
+msgstr  "Fo-chatagóirí"
+
+msgid  "category-media-header"
+msgstr  "Meáin sa chatagóir \"$1\""
+
+msgid  "category-empty"
+msgstr  "''Níl aon leathanaigh ná méid sa chatagóir ar an am seo.''"
+
+msgid  "hidden-categories"
+msgstr  "{{PLURAL:$1|Catagóir folaithe|Catagóirí folaithe}}"
+
+msgid  "hidden-category-category"
+msgstr  "Catagóirí folaithe"
+
+msgid  "category-subcat-count"
+msgstr  "{{PLURAL:$2| Níl ach an fo-chatagóir seo a leanas ag an gcatagóir seo.|Tá {{PLURAL:$1|fo-chatagóir|fo-chatagóirí}} ag an gcatagóir seo, as $2 san iomlán.}}"
+
+msgid  "category-subcat-count-limited"
+msgstr  "Is {{PLURAL:$1|é an líon fochatagóir|$1 iad na líon fochatagóirí}} atá ag an gcatagóir seo ná: $1."
+
+msgid  "category-article-count"
+msgstr  "{{PLURAL:$2|Níl sa chatagóir seo ach an leathanach seo a leanas.|Tá {{PLURAL:$1|$1 leathanach|$1 leathanaigh}} sa chatagóir seo, as iomlán de $2.}}"
+
+msgid  "category-article-count-limited"
+msgstr  "Tá {{PLURAL:$1|an leathanach|na $1 leathanaigh}} seo a leanas sa chatagóir reatha."
+
+msgid  "category-file-count"
+msgstr  "{{PLURAL:$2|Tá ach an comhad a leanas sa chatagóir seo|Tá {{PLURAL:$1|an comhad seo|$1 na comhaid seo}} a leanas sa chatagóir seo, as $2 san iomlán.}}"
+
+msgid  "category-file-count-limited"
+msgstr  "Tá {{PLURAL:$1|an comhad seo|$1 na comhaid seo}} a leanas sa chatagóir reatha."
+
+msgid  "listingcontinuesabbrev"
+msgstr  "ar lean."
+
+msgid  "index-category"
+msgstr  "Leathanaigh innéacsaithe"
+
+msgid  "linkprefix"
+msgstr  "/^(.*?)([a-zA-Z\\x80-\\xff]+)$/sD"
+
+msgid  "mainpagetext"
+msgstr  "'''D'éirigh le suiteáil MediaWiki.'''"
+
+msgid  "mainpagedocfooter"
+msgstr  "Féach ar [http://meta.wikimedia.org/wiki/MediaWiki_localisation doiciméid um conas an chomhéadán a athrú]\nagus an [http://meta.wikimedia.org/wiki/MediaWiki_User%27s_Guide Lámhleabhar úsáideora] chun cabhair úsáide agus fíoraíochta a fháil."
+
+msgid  "about"
+msgstr  "Maidir leis"
+
+msgid  "article"
+msgstr  "Leathanach ábhair"
+
+msgid  "newwindow"
+msgstr  "(a osclófar i bhfuinneog nua)"
+
+msgid  "cancel"
+msgstr  "Cealaigh"
+
+msgid  "moredotdotdot"
+msgstr  "Tuilleadh..."
+
+msgid  "mypage"
+msgstr  "Mo leathanach"
+
+msgid  "mytalk"
+msgstr  "Mo chuid phlé"
+
+msgid  "anontalk"
+msgstr  "Plé don seoladh IP seo"
+
+msgid  "navigation"
+msgstr  "Nascleanúint"
+
+msgid  "and"
+msgstr  "&#32;agus"
+
+msgid  "qbfind"
+msgstr  "Aimsigh"
+
+msgid  "qbbrowse"
+msgstr  "Brabhsáil"
+
+msgid  "qbedit"
+msgstr  "Cuir in eagar"
+
+msgid  "qbpageoptions"
+msgstr  "An leathanach seo"
+
+msgid  "qbpageinfo"
+msgstr  "Comhthéacs"
+
+msgid  "qbmyoptions"
+msgstr  "Mo chuid leathanaigh"
+
+msgid  "qbspecialpages"
+msgstr  "Leathanaigh speisialta"
+
+msgid  "faq"
+msgstr  "Ceisteanna Coiteanta"
+
+msgid  "faqpage"
+msgstr  "Project:Ceisteanna_Coiteanta"
+
+msgid  "vector-action-addsection"
+msgstr  "Cuir topaic leis"
+
+msgid  "vector-action-delete"
+msgstr  "Scrios"
+
+msgid  "vector-action-move"
+msgstr  "Athainmnigh"
+
+msgid  "vector-action-protect"
+msgstr  "Glasáil"
+
+msgid  "vector-action-undelete"
+msgstr  "Díscrios"
+
+msgid  "vector-action-unprotect"
+msgstr  "Díghlasáil"
+
+msgid  "vector-view-create"
+msgstr  "Cruthaigh"
+
+msgid  "vector-view-edit"
+msgstr  "Athraigh an lch seo"
+
+msgid  "vector-view-history"
+msgstr  "Féach ar stair"
+
+msgid  "vector-view-view"
+msgstr  "Léigh"
+
+msgid  "vector-view-viewsource"
+msgstr  "Féach ar fhoinse"
+
+msgid  "actions"
+msgstr  "Gníomhartha"
+
+msgid  "namespaces"
+msgstr  "Ainmspásanna"
+
+msgid  "variants"
+msgstr  "Leaganacha Malartacha"
+
+msgid  "errorpagetitle"
+msgstr  "Earráid"
+
+msgid  "returnto"
+msgstr  "Fill ar ais go $1."
+
+msgid  "tagline"
+msgstr  "Ó {{SITENAME}}."
+
+msgid  "help"
+msgstr  "Cabhair"
+
+msgid  "search"
+msgstr  "Cuardaigh"
+
+msgid  "searchbutton"
+msgstr  "Cuardaigh"
+
+msgid  "go"
+msgstr  "Gabh"
+
+msgid  "searcharticle"
+msgstr  "Gabh"
+
+msgid  "history"
+msgstr  "Stair an lch seo"
+
+msgid  "history_short"
+msgstr  "Stair"
+
+msgid  "updatedmarker"
+msgstr  "leasaithe (ó shin mo chuairt dheireanach)"
+
+msgid  "info_short"
+msgstr  "Eolas"
+
+msgid  "printableversion"
+msgstr  "Eagrán inphriontáilte"
+
+msgid  "permalink"
+msgstr  "Nasc buan"
+
+msgid  "print"
+msgstr  "Priontáil"
+
+msgid  "edit"
+msgstr  "Athraigh an lch seo"
+
+msgid  "create"
+msgstr  "Cruthaigh"
+
+msgid  "editthispage"
+msgstr  "Athraigh an lch seo"
+
+msgid  "create-this-page"
+msgstr  "Cruthaigh an lch seo"
+
+msgid  "delete"
+msgstr  "Scrios"
+
+msgid  "deletethispage"
+msgstr  "Scrios an lch seo"
+
+msgid  "undelete_short"
+msgstr  "Díscrios {{PLURAL:$1|athrú amháin|$1 athrú}}"
+
+msgid  "protect"
+msgstr  "Glasáil"
+
+msgid  "protect_change"
+msgstr  "athraigh"
+
+msgid  "protectthispage"
+msgstr  "Glasáil an lch seo"
+
+msgid  "unprotect"
+msgstr  "Díghlasáil"
+
+msgid  "unprotectthispage"
+msgstr  "Díghlasáil an lch seo"
+
+msgid  "newpage"
+msgstr  "Leathanach nua"
+
+msgid  "talkpage"
+msgstr  "Pléigh an lch seo"
+
+msgid  "talkpagelinktext"
+msgstr  "Plé"
+
+msgid  "specialpage"
+msgstr  "Leathanach Speisialta"
+
+msgid  "personaltools"
+msgstr  "Do chuid uirlisí"
+
+msgid  "postcomment"
+msgstr  "Mír nua"
+
+msgid  "articlepage"
+msgstr  "Féach ar an alt"
+
+msgid  "talk"
+msgstr  "Plé"
+
+msgid  "views"
+msgstr  "Radhairc"
+
+msgid  "toolbox"
+msgstr  "Bosca uirlisí"
+
+msgid  "userpage"
+msgstr  "Féach ar lch úsáideora"
+
+msgid  "projectpage"
+msgstr  "Féach ar lch thionscadail"
+
+msgid  "imagepage"
+msgstr  "Féach ar lch comhaid"
+
+msgid  "mediawikipage"
+msgstr  "Féach ar lch teachtaireacht"
+
+msgid  "templatepage"
+msgstr  "Féach ar leathanach an teimpléad"
+
+msgid  "viewhelppage"
+msgstr  "Féach ar lch chabhair"
+
+msgid  "categorypage"
+msgstr  "Féach ar lch chatagóir"
+
+msgid  "viewtalkpage"
+msgstr  "Féach ar phlé"
+
+msgid  "otherlanguages"
+msgstr  "I dteangacha eile"
+
+msgid  "redirectedfrom"
+msgstr  "(Athsheolta ó $1)"
+
+msgid  "redirectpagesub"
+msgstr  "Lch athdhírithe"
+
+msgid  "lastmodifiedat"
+msgstr  "Athraíodh an leathanach seo ag $2, $1."
+
+msgid  "viewcount"
+msgstr  "Rochtainíodh an leathanach seo {{PLURAL:$1|uair amháin|$1 uaire}}."
+
+msgid  "protectedpage"
+msgstr  "Leathanach glasáilte"
+
+msgid  "jumpto"
+msgstr  "Léim go:"
+
+msgid  "jumptonavigation"
+msgstr  "nascleanúint"
+
+msgid  "jumptosearch"
+msgstr  "cuardaigh"
+
+msgid  "pool-timeout"
+msgstr  "Thar am ag feitheamh leis an nglas"
+
+msgid  "pool-errorunknown"
+msgstr  "Earráid anaithnid"
+
+msgid  "aboutsite"
+msgstr  "Maidir leis an {{SITENAME}}"
+
+msgid  "aboutpage"
+msgstr  "Project:Maidir leis"
+
+msgid  "copyright"
+msgstr  "Tá an t-ábhar le fáil faoin $1."
+
+msgid  "copyrightpage"
+msgstr  "{{ns:project}}:Cóipchearta"
+
+msgid  "currentevents"
+msgstr  "Cúrsaí reatha"
+
+msgid  "currentevents-url"
+msgstr  "Project:Cúrsaí reatha"
+
+msgid  "disclaimers"
+msgstr  "Séanadh"
+
+msgid  "disclaimerpage"
+msgstr  "Project:Séanadh_ginearálta"
+
+msgid  "edithelp"
+msgstr  "Cabhair eagarthóireachta"
+
+msgid  "edithelppage"
+msgstr  "Help:Eagarthóireacht"
+
+msgid  "helppage"
+msgstr  "Help:Clár_ábhair"
+
+msgid  "mainpage"
+msgstr  "Príomhleathanach"
+
+msgid  "mainpage-description"
+msgstr  "Príomhleathanach"
+
+msgid  "policy-url"
+msgstr  "Project:Polasaí"
+
+msgid  "portal"
+msgstr  "Lárionad comhphobail"
+
+msgid  "portal-url"
+msgstr  "Project:Ionad pobail"
+
+msgid  "privacy"
+msgstr  "Polasaí príobháideachta"
+
+msgid  "privacypage"
+msgstr  "Project:Polasaí príobháideachta"
+
+msgid  "badaccess"
+msgstr  "Earráid ceada"
+
+msgid  "badaccess-group0"
+msgstr  "Níl cead agat an gníomh a roghnaigh tú a dhéanamh."
+
+msgid  "badaccess-groups"
+msgstr  "Níl cead ag daoine é sin a dhéanamh ach amháin {{PLURAL:$2|duine sa ghrúpa|daoine sna grúpaí}}: $1."
+
+msgid  "versionrequired"
+msgstr  "Tá leagan $1 de MediaWiki de dhíth"
+
+msgid  "versionrequiredtext"
+msgstr  "Tá an leagan $1 de MediaWiki riachtanach chun an leathanach seo a úsáid. Féach ar [[Special:Version]]"
+
+msgid  "ok"
+msgstr  "Déan"
+
+msgid  "pagetitle"
+msgstr  "$1 - {{SITENAME}}"
+
+msgid  "pagetitle-view-mainpage"
+msgstr  "{{SITENAME}}"
+
+msgid  "retrievedfrom"
+msgstr  "Aisghabháil ó \"$1\""
+
+msgid  "youhavenewmessages"
+msgstr  "Tá $1 agat ($2)."
+
+msgid  "newmessageslink"
+msgstr  "teachtaireachtaí nua"
+
+msgid  "newmessagesdifflink"
+msgstr  "difear ón leasú leathdhéanach"
+
+msgid  "youhavenewmessagesmulti"
+msgstr  "Tá teachtaireachtaí nua agat ar $1"
+
+msgid  "editsection"
+msgstr  "athraigh"
+
+msgid  "editsection-brackets"
+msgstr  "[$1]"
+
+msgid  "editold"
+msgstr  "athraigh"
+
+msgid  "viewsourceold"
+msgstr  "féach ar foinse"
+
+msgid  "editlink"
+msgstr  "cur in eagar"
+
+msgid  "viewsourcelink"
+msgstr  "féach ar an foinse"
+
+msgid  "editsectionhint"
+msgstr  "Athraigh mír: $1"
+
+msgid  "toc"
+msgstr  "Clár ábhair"
+
+msgid  "showtoc"
+msgstr  "taispeáin"
+
+msgid  "hidetoc"
+msgstr  "folaigh"
+
+msgid  "thisisdeleted"
+msgstr  "Breathnaigh nó cuir ar ais $1?"
+
+msgid  "viewdeleted"
+msgstr  "Féach ar $1?"
+
+msgid  "restorelink"
+msgstr  "{{PLURAL:$1|athrú scriosta amháin|$1 athruithe scriosta}}"
+
+msgid  "feedlinks"
+msgstr  "Fotha:"
+
+msgid  "feed-invalid"
+msgstr  "Cineál liostáil fotha neamhbhailí."
+
+msgid  "feed-unavailable"
+msgstr  "Níl fotha sindeacáitiú ar fáil"
+
+msgid  "site-rss-feed"
+msgstr  "$1 Fotha RSS"
+
+msgid  "site-atom-feed"
+msgstr  "$1 Fotha Atom"
+
+msgid  "page-rss-feed"
+msgstr  "\"$1\" Fotha RSS"
+
+msgid  "page-atom-feed"
+msgstr  "\"$1\" Fotha Atom"
+
+msgid  "feed-atom"
+msgstr  "Atom"
+
+msgid  "feed-rss"
+msgstr  "RSS"
+
+msgid  "red-link-title"
+msgstr  "$1 (níl an leathanach ann)"
+
+msgid  "nstab-main"
+msgstr  "Alt"
+
+msgid  "nstab-user"
+msgstr  "Lch úsáideora"
+
+msgid  "nstab-media"
+msgstr  "Lch meáin"
+
+msgid  "nstab-special"
+msgstr  "Leathanach speisialta"
+
+msgid  "nstab-project"
+msgstr  "Tionscadal"
+
+msgid  "nstab-image"
+msgstr  "Comhad"
+
+msgid  "nstab-mediawiki"
+msgstr  "Teachtaireacht"
+
+msgid  "nstab-template"
+msgstr  "Teimpléad"
+
+msgid  "nstab-help"
+msgstr  "Cabhair"
+
+msgid  "nstab-category"
+msgstr  "Catagóir"
+
+msgid  "nosuchaction"
+msgstr  "Níl a leithéid de ghníomh ann"
+
+msgid  "nosuchactiontext"
+msgstr  "Níl aithníonn an vicí an gníomh atá ann san URL.\nAn ndearna tú botún san URL, no ar lean tú nasc mícheart?\nAn bhfuil fadhb sna bogearraí atá in usáid ar {{SITENAME}}?"
+
+msgid  "nosuchspecialpage"
+msgstr  "Níl a leithéid de leathanach speisialta ann"
+
+msgid  "nospecialpagetext"
+msgstr  "<strong>Tá tú tar éis iarradh ar leathanach speisialta neamhbhailí.</strong>\n\nTá liosta de leathanaigh speisialta bhailí ar fáil ag [[Special:SpecialPages|{{int:specialpages}}]]."
+
+msgid  "error"
+msgstr  "Earráid"
+
+msgid  "databaseerror"
+msgstr  "Earráid sa bhunachar sonraí"
+
+msgid  "dberrortext"
+msgstr  "Tharla earráid chomhréire in iarratas chuig an mbunachar sonraí.\nB'fhéidir gur fabht sa bhogearraí é seo.\nSeo é an t-iarratas deireanach chuig an mbunachar sonrai:\n<blockquote><tt>$1</tt></blockquote>\nón bhfeidhm \"<tt>$2</tt>\".\nThug MySQL an earráid seo: \"<tt>$3: $4</tt>\"."
+
+msgid  "dberrortextcl"
+msgstr  "Tharla earráid chomhréire in iarratas chuig an bhunachar sonraí.\n\"$1\",\nón bhfeidhm \"$2\",\nab ea an t-iarratas deireanach chuig an mbunachar sonrai.\nThug MySQL an earráid seo: \"$3: $4\"."
+
+msgid  "laggedslavemode"
+msgstr  "Rabhadh: B'fhéidir nach bhfuil na nuashonrúcháin is déanaí le feiceáil ar an leathanach seo."
+
+msgid  "readonly"
+msgstr  "Bunachar sonraí faoi ghlas"
+
+msgid  "enterlockreason"
+msgstr  "Iontráil cúis don glasáil, agus meastachán\nden uair a díghlasálfar an bunachar sonraí."
+
+msgid  "readonlytext"
+msgstr  "Tá an bunachar sonraí {{GRAMMAR:genitive|{{SITENAME}}}} glasáilte anois do iontráilí agus athruithe nua\n(is dócha go bhfuil sé do gnáthchothabháil).\nTar éis seo, díghlasálfar an bunachar sonraí arís.\nTugadh an míniú seo ag an riarthóir a ghlasáil é:\n$1"
+
+msgid  "missing-article"
+msgstr  "Ní bhfuarthas téacs an leathanaigh ceart, darbh ainm \"$1\" $2.\n\nDe ghnáth, tarlaíonn sé seo nuair a leantar nasc stáire nó difr chuig leathanach a scriosadh.\n\nMurab fhíor é seo, is féidir go bhfuair tú fabht sa bhogearraí. Beimid buíoch duit é a chur in iúl do [[Special:ListUsers/sysop|riarthóir]], chomh maith le URL an suíoimh."
+
+msgid  "missingarticle-rev"
+msgstr  "(leagan#: $1)"
+
+msgid  "missingarticle-diff"
+msgstr  "(Dif: $1, $2)"
+
+msgid  "readonly_lag"
+msgstr  "Glasáladh an bunachar sonraí go huathoibríoch, go dtiocfaidh na sclábhfhreastalaithe suas leis an máistirfhreastalaí."
+
+msgid  "internalerror"
+msgstr  "Earráid inmhéanach"
+
+msgid  "internalerror_info"
+msgstr  "Earráid inmhéanach: $1"
+
+msgid  "fileappenderrorread"
+msgstr  "Níorbh fhéidir \"$1\" a léamh le linn ceangal."
+
+msgid  "fileappenderror"
+msgstr  "Níorbh fhéidir \"$1\" a cheangal le \"$2\"."
+
+msgid  "filecopyerror"
+msgstr  "Ní féidir an comhad \"$1\" a chóipeáil go \"$2\"."
+
+msgid  "filerenameerror"
+msgstr  "Ní féidir an comhad \"$1\" a athainmnigh mar \"$2\"."
+
+msgid  "filedeleteerror"
+msgstr  "Ní féidir an comhad \"$1\" a scriosaigh amach."
+
+msgid  "directorycreateerror"
+msgstr  "Ní féidir an chomhadlann \"$1\" a chruth."
+
+msgid  "filenotfound"
+msgstr  "Ní bhfuarthas an comhad \"$1\"."
+
+msgid  "fileexistserror"
+msgstr  "Unable to write to file  file exists\nNí-abálta scríobh chuif comhad \"$1\": is ann don chomhad"
+
+msgid  "unexpected"
+msgstr  "Luach gan súil leis: \"$1\"=\"$2\"."
+
+msgid  "formerror"
+msgstr  "Earráid: ní féidir an foirm a tabhair isteach"
+
+msgid  "badarticleerror"
+msgstr  "Ní féidir an gníomh seo a dhéanamh ar an leathanach seo."
+
+msgid  "cannotdelete"
+msgstr  "Ní féidir an leathanach nó comhad \"$1\" a scriosadh.\nB'fhéidir gur scrios duine eile é cheana féin."
+
+msgid  "badtitle"
+msgstr  "Teideal neamhbhailí"
+
+msgid  "badtitletext"
+msgstr  "Bhí teideal an leathanaigh a d'iarr tú ar neamhbhailí, folamh, nó\nteideal idirtheangach nó idirvicí nasctha go mícheart."
+
+msgid  "perfcached"
+msgstr  "Fuarthas na sonraí a leanas as taisce, agus is dócha go bhfuil siad as dáta."
+
+msgid  "perfcachedts"
+msgstr  "Tá na sonraí seo a leanas sa taisce, nuashonraithe $1."
+
+msgid  "wrong_wfQuery_params"
+msgstr  "Paraiméadair mhíchearta don wfQuery()<br />\nFeidhm: $1<br />\nIarratas: $2"
+
+msgid  "viewsource"
+msgstr  "Féach ar fhoinse"
+
+msgid  "viewsourcefor"
+msgstr  "le haghaidh $1"
+
+msgid  "actionthrottled"
+msgstr  "Gníomh scóigthe"
+
+msgid  "actionthrottledtext"
+msgstr  "Mar theicníc frithurscair, ní féidir lear an gníomh seo a dhéanamh barraíocht taobh istigh de thréimhse ghairid ama, agus tá an méid sáraithe agat.\nBain trial arís as i gcionn cúpla bomaite más é do thoil é."
+
+msgid  "protectedpagetext"
+msgstr  "Tá an leathanach seo glasáilte chun coisc ar eagarthóireacht."
+
+msgid  "viewsourcetext"
+msgstr  "Is féidir foinse an leathanach seo a fheiceáil ná a cóipeáil:"
+
+msgid  "editinginterface"
+msgstr  "'''Rabhadh:''' Tá tú ag athrú leathanaigh a bhfuil téacs comhéadain do na bogearraí air. Cuirfear athruithe ar an leathanach seo i bhfeidhm ar an gcomhéadan úsáideora.\nMás maith leat MediaWiki a aistriú, cuimhnigh ar [http://translatewiki.net/wiki/Main_Page?setlang=ga translatewiki.net] (tionscadal logánaithe MediaWiki) a úsáid."
+
+msgid  "sqlhidden"
+msgstr  "(Iarratas SQL folaithe)"
+
+msgid  "namespaceprotected"
+msgstr  "Ní chead agat leathanaigh a chur in eagar san ainmspás '''$1'''."
+
+msgid  "customcssjsprotected"
+msgstr  "Níl cead agat an leathanach seo a athrú, mar is sainroghanna úsáideora eile atá ann."
+
+msgid  "ns-specialprotected"
+msgstr  "Ní féidir leathanaigh speisialta a chur in eagar."
+
+msgid  "titleprotected"
+msgstr  "Tá an teideal seo cosanta ar chruthú le [[User:$1|$1]].\nAn fáth ná ''$2''."
+
+msgid  "virus-scanfailed"
+msgstr  "theip an scan (cód $1)"
+
+msgid  "virus-unknownscanner"
+msgstr  "frithvíreas anaithnid:"
+
+msgid  "logouttext"
+msgstr  "'''Tá tú logáilte amach anois.'''\n\nIs féidir leat an {{SITENAME}} a úsáid fós gan ainm, nó is féidir leat [[Special:UserLogin|logáil isteach arís]] mar an úsáideoir céanna, nó mar úsáideoir eile.\nTabhair faoi deara go taispeáinfear roinnt leathanaigh mar atá tú logáilte isteach fós, go dtí go ghlanfá amach do taisce líonleitheora."
+
+msgid  "welcomecreation"
+msgstr  "== Tá fáilte romhat, $1! ==\n\nCruthaíodh do chuntas. Ná déan dearmad athrú a dhéanamh ar do chuid [[Special:Preferences|sainroghanna {{GRAMMAR:genitive|{{SITENAME}}}}]]."
+
+msgid  "yourname"
+msgstr  "D'ainm úsáideora"
+
+msgid  "yourpassword"
+msgstr  "D'fhocal faire"
+
+msgid  "yourpasswordagain"
+msgstr  "Athiontráil d'fhocal faire"
+
+msgid  "remembermypassword"
+msgstr  "Cuimhnigh ar m'fhocal faire ar an ríomhaire seo (ar feadh uastréimhse de $1 {{PLURAL:$1|lá|lá}})"
+
+msgid  "yourdomainname"
+msgstr  "D'fhearann"
+
+msgid  "externaldberror"
+msgstr  "Bhí earráid bhunachair sonraí ann maidir le fíordheimhniú seachtrach, nóThere was either an external authentication database error or you are not allowed to update your external account."
+
+msgid  "login"
+msgstr  "Logáil isteach"
+
+msgid  "nav-login-createaccount"
+msgstr  "Logáil isteach"
+
+msgid  "loginprompt"
+msgstr  "Tá sé riachtanach fianáin a chur i ngníomh chun logáil isteach a dhéanamh ag {{SITENAME}}."
+
+msgid  "userlogin"
+msgstr  "Logáil isteach / cruthaigh cuntas"
+
+msgid  "userloginnocreate"
+msgstr  "Logáil isteach"
+
+msgid  "logout"
+msgstr  "Logáil amach"
+
+msgid  "userlogout"
+msgstr  "Logáil amach"
+
+msgid  "notloggedin"
+msgstr  "Níl tú logáilte isteach"
+
+msgid  "nologin"
+msgstr  "Nach bhfuil logáil isteach agat? '''$1'''."
+
+msgid  "nologinlink"
+msgstr  "Cruthaigh cuntas"
+
+msgid  "createaccount"
+msgstr  "Cruthaigh cuntas nua"
+
+msgid  "gotaccount"
+msgstr  "An bhfuil cuntas agat cheana féin? '''$1'''."
+
+msgid  "gotaccountlink"
+msgstr  "Logáil isteach"
+
+msgid  "createaccountmail"
+msgstr  "le ríomhphost"
+
+msgid  "createaccountreason"
+msgstr  "Fáth:"
+
+msgid  "badretype"
+msgstr  "D'iontráil tú dhá fhocal faire difriúla."
+
+msgid  "userexists"
+msgstr  "Tá an ainm úsáideora sin in úsáid cheana féin.<br />\nRoghnaigh ainm eile agus bain triail eile as."
+
+msgid  "loginerror"
+msgstr  "Earráid leis an logáil isteach"
+
+msgid  "createaccounterror"
+msgstr  "Theip ar an cuntas a chruthú: $1"
+
+msgid  "nocookiesnew"
+msgstr  "Cruthaíodh an cuntas úsáideora, ach níl tú logáilte isteach.\n\nÚsáideann {{SITENAME}} fianáin chun úsáideoirí a logáil isteach.\nTá fianáin díchumasaithe agat.\nCumasaigh iad le do thoil, agus ansin logáil isteach le d'ainm úsáideora agus d'fhocal faire úrnua."
+
+msgid  "nocookieslogin"
+msgstr  "Úsáideann {{SITENAME}} fianáin chun úsáideoirí a logáil isteach.\nTá fianáin díchumasaithe agat.\nCumasaigh iad agus bain triail eile as, le do thoil."
+
+msgid  "noname"
+msgstr  "Níor thug tú ainm úsáideora bailí."
+
+msgid  "loginsuccesstitle"
+msgstr  "Logáladh isteach thú"
+
+msgid  "loginsuccess"
+msgstr  "'''Tá tú logáilte isteach anois sa {{SITENAME}} mar \"<nowiki>$1</nowiki>\".'''"
+
+msgid  "nosuchuser"
+msgstr  "Níl aon úsáideoir ann leis an ainm \"$1\".\nTá ainmneacha úsáideoir cásíogair.\nCinntigh do litriú, nó [[Special:UserLogin/signup|bain úsáid as an foirm thíos]] chun cuntas úsáideora nua a chruthú."
+
+msgid  "nosuchusershort"
+msgstr  "Níl aon úsáideoir ann leis an ainm \"<nowiki>$1</nowiki>\". Cinntigh do litriú."
+
+msgid  "nouserspecified"
+msgstr  "Caithfidh ainm úsáideoir a shonrú."
+
+msgid  "login-userblocked"
+msgstr  "Tá an t-úsáideoir seo faoi bhac. Níl cead aige/aici logáil isteach."
+
+msgid  "wrongpassword"
+msgstr  "D'iontráil tú focal faire mícheart.<br />\nBain triail eile as."
+
+msgid  "wrongpasswordempty"
+msgstr  "Níor iontráil tú focal faire. Bain triail eile as."
+
+msgid  "passwordtooshort"
+msgstr  "Is riachtanach go bhfuil {{PLURAL:$1|carachtar amháin|$1 carachtair}} ann ar a laghad i bhfocal faire."
+
+msgid  "mailmypassword"
+msgstr  "Seol m'fhocal faire chugam."
+
+msgid  "passwordremindertitle"
+msgstr  "Cuimneachán an fhocail faire ó {{SITENAME}}"
+
+msgid  "passwordremindertext"
+msgstr  "D'iarr duine éigin (tusa de réir cosúlachta, ón seoladh IP $1) go sheolfaimis focal faire {{GRAMMAR:genitive|{{SITENAME}}}} nua  ($4).\n\"$3\" an focal faire don úsáideoir \"$2\" anois. Ba chóir duit lógail isteach anois agus d'fhocal faire a athrú.\n\nRachaidh d'fhocail faire sealadach as feidhm i gceann {{PLURAL:$5|lá amháin|$5 lae}}."
+
+msgid  "noemail"
+msgstr  "Níl aon seoladh ríomhphoist i gcuntas don úsáideoir \"$1\"."
+
+msgid  "noemailcreate"
+msgstr  "Caithfidh tú ríomhphost bailí a thabhairt"
+
+msgid  "passwordsent"
+msgstr  "Cuireadh focal nua faire chuig an ríomhsheoladh atá cláraithe do \"$1\".\nNuair atá sé agat, logáil isteach arís chun fíordheimhniu a dhéanamh."
+
+msgid  "eauthentsent"
+msgstr  "Cuireadh teachtaireacht ríomhphoist chuig an seoladh\nchun fíordheimhniú a dhéanamh. Chun fíordheimhniú a dhéanamh gur leatsa an cuntas, caithfidh tú glac leis an teachtaireacht sin nó ní sheolfar aon rud eile chuig do chuntas."
+
+msgid  "throttled-mailpassword"
+msgstr  "Seoladh meabhrúchán fhocal faire cheana, níos lú ná {{PLURAL:$1|uair amháin|$1 uair}} ó shin.\nChun droch-úsáid a choscadh, ní sheolfar ach meabhrúchán fhocal faire amháin gach {{PLURAL:$1|uair|$1 uair}}."
+
+msgid  "mailerror"
+msgstr  "Tharlaigh earráid leis an seoladh: $1"
+
+msgid  "acct_creation_throttle_hit"
+msgstr  "Gabh ár leithscéal, ach tá {{PLURAL:$1|cuntas amháin|$1 cuntais}} a chruthaigh tú cheana féin.\nNí féidir leat níos mó ná an méid sin a chruthú."
+
+msgid  "emailauthenticated"
+msgstr  "Fíordheimhníodh do sheoladh ríomhphoist ar an $2 ar $3."
+
+msgid  "emailnotauthenticated"
+msgstr  "Ní dhearna fíordheimhniú ar do sheoladh ríomhphoist fós, agu díchumasaítear na hardtréithe ríomhphoist go dtí go fíordheimhneofaí é (d.c.f.).\nChun fíordheimhniú a dhéanamh, logáil isteach leis an focal faire neamhbhuan atá seolta chugat, nó iarr ar ceann nua ar an leathanach logála istigh."
+
+msgid  "noemailprefs"
+msgstr  "Is gá do sheoladh r-phoist a chur isteach chun na gnéithe seo a úsáid."
+
+msgid  "emailconfirmlink"
+msgstr  "Deimhnigh do ríomhsheoladh"
+
+msgid  "invalidemailaddress"
+msgstr  "Ní féidir an seoladh ríomhphoist a ghlacadh leis mar is dócha go bhfuil formáid neamhbhailí aige.\nIontráil seoladh dea-fhormáidte le do thoil, nó glan an réimse sin."
+
+msgid  "accountcreated"
+msgstr  "Cúntas cruthaithe"
+
+msgid  "accountcreatedtext"
+msgstr  "Cruthaíodh cúntas úsáideora le haghaidh $1."
+
+msgid  "createaccount-title"
+msgstr  "Cuntas cruthú le {{SITENAME}}"
+
+msgid  "createaccount-text"
+msgstr  "Chruthaigh duine éigin cuntas do do sheoladh ríomhphoist ar {{SITENAME}} ($4) leis an ainm \"$2\" agus pasfhocal \"$3\". Ba cheart duit logáil isteach agus do phasfhocal a athrú anois. Is féidir leat neamhaird a thabhairt don teachtaireacht seo má cruthaíodh trí earráid í."
+
+msgid  "usernamehasherror"
+msgstr  "Ní cheadaítear hais a úsáid in ainm úsáideora"
+
+msgid  "loginlanguagelabel"
+msgstr  "Teanga: $1"
+
+msgid  "php-mail-error-unknown"
+msgstr  "Earráid anaithnid i bhfeidhm mail() de chuid PHP"
+
+msgid  "resetpass"
+msgstr  "Athraigh d'fhocal faire"
+
+msgid  "resetpass_announce"
+msgstr  "Tá tú logáilte isteach le cód sealadach a seoladh chugat i r-phost.\nChun d'iarratas logáil isteach a chríochnú, caithfidh tú focal faire nua a roghnú anseo:"
+
+msgid  "resetpass_text"
+msgstr  "<!-- Cur téacs anseo -->"
+
+msgid  "resetpass_header"
+msgstr  "Athshocraigh pasfhocail chuntais"
+
+msgid  "oldpassword"
+msgstr  "Focal faire reatha:"
+
+msgid  "newpassword"
+msgstr  "Focal faire nua:"
+
+msgid  "retypenew"
+msgstr  "Athiontráil an focal nua faire:"
+
+msgid  "resetpass_submit"
+msgstr  "Roghnaigh focal faire agus logáil isteach"
+
+msgid  "resetpass_forbidden"
+msgstr  "Ní féidir focail faire a athrú"
+
+msgid  "resetpass-no-info"
+msgstr  "Caithfidh tú bheith logáilte istigh chun teacht ar an leathanach seo go díreach."
+
+msgid  "resetpass-submit-loggedin"
+msgstr  "Athraigh d'fhocal faire"
+
+msgid  "resetpass-submit-cancel"
+msgstr  "Cealaigh"
+
+msgid  "resetpass-temp-password"
+msgstr  "Focal faire sealadach:"
+
+msgid  "bold_sample"
+msgstr  "Cló trom"
+
+msgid  "bold_tip"
+msgstr  "Cló trom"
+
+msgid  "italic_sample"
+msgstr  "Cló iodálach"
+
+msgid  "italic_tip"
+msgstr  "Cló iodálach"
+
+msgid  "link_sample"
+msgstr  "Teideal an naisc"
+
+msgid  "link_tip"
+msgstr  "Nasc inmheánach"
+
+msgid  "extlink_sample"
+msgstr  "http://www.example.com ainm naisc"
+
+msgid  "extlink_tip"
+msgstr  "Nasc seachtrach (cuimhnigh an réimír http://)"
+
+msgid  "headline_sample"
+msgstr  "Cló ceannlíne"
+
+msgid  "headline_tip"
+msgstr  "Ceannlíne Leibhéil 2"
+
+msgid  "math_sample"
+msgstr  "Cuir foirmle isteach anseo"
+
+msgid  "math_tip"
+msgstr  "Foirmle mhatamataice (LaTeX)"
+
+msgid  "nowiki_sample"
+msgstr  "Cuir téacs neamhfhormáidithe anseo"
+
+msgid  "nowiki_tip"
+msgstr  "Cuir vicífhormáidiú ar ceal"
+
+msgid  "image_sample"
+msgstr  "Sámpla.jpg"
+
+msgid  "image_tip"
+msgstr  "Íomhá leabaithe"
+
+msgid  "media_sample"
+msgstr  "Sámpla.ogg"
+
+msgid  "media_tip"
+msgstr  "Nasc do chomhad meáin"
+
+msgid  "sig_tip"
+msgstr  "Do shíniú le stampa ama"
+
+msgid  "hr_tip"
+msgstr  "Líne cothrománach (inúsáidte go coigilteach)"
+
+msgid  "summary"
+msgstr  "Achoimriú:"
+
+msgid  "subject"
+msgstr  "Ábhar/ceannlíne:"
+
+msgid  "minoredit"
+msgstr  "Mionathrú é seo"
+
+msgid  "watchthis"
+msgstr  "Déan faire ar an lch seo"
+
+msgid  "savearticle"
+msgstr  "Sábháil an lch"
+
+msgid  "preview"
+msgstr  "Réamhamharc"
+
+msgid  "showpreview"
+msgstr  "Taispeáin réamhamharc"
+
+msgid  "showlivepreview"
+msgstr  "Réamhamharc beo"
+
+msgid  "showdiff"
+msgstr  "Taispeáin athruithe"
+
+msgid  "anoneditwarning"
+msgstr  "'''Rabhadh:''' Níl tú logáilte isteach. Cuirfear do sheoladh IP i stair eagarthóireachta an leathanaigh seo."
+
+msgid  "missingsummary"
+msgstr  "'''Cuimhneachán:''' Níor thug tú achoimriú don athrú. Má chliceáileann tú Sábháil arís, sábhálfar an t-athrú gan é a hachoimriú."
+
+msgid  "missingcommenttext"
+msgstr  "Cuir nóta tráchta isteach faoi seo, le do thoil."
+
+msgid  "summary-preview"
+msgstr  "Réamhamharc an achoimriú:"
+
+msgid  "blockedtitle"
+msgstr  "Tá an úsáideoir seo faoi chosc"
+
+msgid  "blockedtext"
+msgstr  "'''Chuir $1 cosc ar d’ainm úsáideora nó ar do sheoladh IP.'''\n\nIs í seo an chúis a thugadh:<br />''$2''.<p>Is féidir leat teagmháil a dhéanamh le $1 nó le duine eile de na [[{{MediaWiki:Grouppage-sysop}}|riarthóirí]] chun an cosc a phlé.\n\n* Tús an choisc: $8\n* Dul as feidhm: $6\n* Sprioc an choisc: $7\n<br />\nTabhair faoi deara nach féidir leat an gné \"cuir ríomhphost chuig an úsáideoir seo\" a úsáid mura bhfuil seoladh ríomhphoist bailí cláraithe i do [[Special:Preferences|shocruithe úsáideora]].\n\nIs é $3 do sheoladh IP agus #$5 do ID coisc. Déan tagairt don seoladh seo le gach ceist a chuirfeá."
+
+msgid  "blockednoreason"
+msgstr  "níl chúis a thugadh"
+
+msgid  "blockedoriginalsource"
+msgstr  "Tá an foinse '''$1''' le feiceáil a leanas:"
+
+msgid  "whitelistedittitle"
+msgstr  "Logáil isteach chun athrú a dhéanamh"
+
+msgid  "whitelistedittext"
+msgstr  "Ní mór duit $1 chun ailt a athrú."
+
+msgid  "nosuchsectiontitle"
+msgstr  "Níl a leithéad de mhír ann"
+
+msgid  "loginreqtitle"
+msgstr  "Tá logáil isteach de dhíth ort"
+
+msgid  "loginreqlink"
+msgstr  "logáil isteach"
+
+msgid  "loginreqpagetext"
+msgstr  "Caithfidh tú $1 chun leathanaigh a amharc."
+
+msgid  "accmailtitle"
+msgstr  "Seoladh an focal faire."
+
+msgid  "accmailtext"
+msgstr  "Seoladh focal faire don úsáideoir '$1' go dtí '$2'."
+
+msgid  "newarticle"
+msgstr  "(Nua)"
+
+msgid  "newarticletext"
+msgstr  "Lean tú nasc chuig leathanach nach bhfuil ann fós.\nChun an leathanach a chruthú, tosaigh ag clóscríobh sa bhosca thíos\n(féach ar an [[{{MediaWiki:Helppage}}|leathanach cabhrach]] chun a thuilleadh eolais a fháil).\nMá tháinig tú anseo as dearmad, brúigh an cnaipe '''ar ais''' ar do bhrabhsálaí."
+
+msgid  "anontalkpagetext"
+msgstr  "---- ''Leathanach plé é seo a bhaineann le húsáideoir gan ainm nár chruthaigh cuntas fós, nó nach bhfuil ag úsáid an chuntais. Dá bhrí sin, caithfimid an seoladh IP a úsáid chun é/í a (h)ionannú. Is féidir le níos mó ná úsáideoir amháin an seoladh IP céanna a úsáid. Má tá tú i d'úsáideoir gan ainm agus má cheapann tú go bhfuil teachtaireachtaí nach mbaineann leat seolta chugat, [[Special:UserLogin|cruthaigh cuntas]] nó [[Special:UserLogin|logáil isteach]] chun mearbhall le húsáideoirí eile gan ainmneacha a éalú amach anseo.''"
+
+msgid  "noarticletext"
+msgstr  "Níl aon téacs ar an leathanach seo faoi láthair.\nIs féidir [[Special:Search/{{PAGENAME}}|cuardach a dhéanamh le haghaidh an teidil seo]] i leathanaigh eile, nó <span class=\"plainlinks\">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAMEE}}}} cuardach a dhéanamh sna logaí gaolmhara],\nnó [{{fullurl:{{FULLPAGENAME}}|action=edit}} an leathanach seo a chur in eagar].</span>"
+
+msgid  "userpage-userdoesnotexist-view"
+msgstr  "Níl cuntas úsáideora \"$1\" cláraithe."
+
+msgid  "clearyourcache"
+msgstr  "'''Tugtar faoi deara:''' Tar éis duit athruithe a shábháil, caithfear gabháil thar thaisce do bhrabhsálaí chun iad a fheiceáil. '''Internet Explorer:''' cliceáil ar an gcnaipe ''Athnuaigh'' nó ''Athlódáil'', agus an eochair ''Ctrl'' á bhrú agat. '''Firefox:''' cliceáil ar ''Athlódáil'', agus an eochair ''Iomlaoid'' á bhrú agat (nó brúigh ''Ctrl-Iomlaoid-R''). '''Opera:''' caithfear d'úsáideoirí a dtaiscí a ghlanadh trí ''Uirlisí→Sainroghanna''. Ní mór d'úsáideoirí '''Konqueror''' nó '''Safari''' ach cliceáil ar an gcnaipe ''Athlódáil''."
+
+msgid  "usercssyoucanpreview"
+msgstr  "'''Leid:''' Sula sábhálann tú, úsáid an cnaipe \"{{int:showpreview}}\" chun do CSS nua a thástáil."
+
+msgid  "userjsyoucanpreview"
+msgstr  "'''Leid:''' Sula sábhálann tú, úsáid an cnaipe \"{{int:showpreview}}\" chun do JavaScript nua a thástáil."
+
+msgid  "usercsspreview"
+msgstr  "'''Cuimhnigh nach bhfuil seo ach réamhamharc do CSS úsáideora -\nníor sábháladh é go fóill!'''"
+
+msgid  "userjspreview"
+msgstr  "'''Cuimhnigh nach bhfuil seo ach réamhamharc do JavaScript úsáideora\n- níor sábháladh é go fóill!'''"
+
+msgid  "userinvalidcssjstitle"
+msgstr  "'''Rabhadh:''' Níl an craiceann \"$1\" ann.\nCuimhnigh go n-úsáideann leathanaigh shaincheaptha .css agus .js teideal i gcás íochtar, m.sh. {{ns:user}}:Foo/vector.css i leapa {{ns:user}}:Foo/Vector.css."
+
+msgid  "updated"
+msgstr  "(Leasaithe)"
+
+msgid  "note"
+msgstr  "'''Tabhair faoi deara:'''"
+
+msgid  "previewnote"
+msgstr  "'''Cuimhnigh nach bhfuil ach réamhamharc sa leathanach seo, agus nach sábháladh fós é!'''"
+
+msgid  "previewconflict"
+msgstr  "San réamhamharc seo, feachann tú an téacs dé réir an eagarbhosca\nthuas mar a taispeáinfear é má sábháilfear é."
+
+msgid  "editing"
+msgstr  "Ag athrú $1"
+
+msgid  "editingsection"
+msgstr  "Ag athrú $1 (mir)"
+
+msgid  "editingcomment"
+msgstr  "Ag athrú $1 (mír nua)"
+
+msgid  "editconflict"
+msgstr  "Coimhlint athraithe: $1"
+
+msgid  "explainconflict"
+msgstr  "D'athraigh duine eile an leathanach seo ó thosaigh tú ar a athrú.\nTá téacs an leathanaigh mar atá sé faoi láthair le feiceáil thuas.\nTá do chuid athruithe le feiceáil thíos.\nCaithfidh tú do chuid athruithe a chumasc leis an leagan reatha.\nNí shábhálfar '''ach''' an téacs thuas nuair a bhrúnn tú ar an gcnaipe \"{{int:savearticle}}\"."
+
+msgid  "yourtext"
+msgstr  "Do chuid téacs"
+
+msgid  "storedversion"
+msgstr  "Leagan sábháilte"
+
+msgid  "editingold"
+msgstr  "'''Rabhadh: Tá tú ag athrú leagan an leathanaigh seo atá as dáta.\nMá shábhálfar é, caillfear gach athrú a rinneadh i ndiaidh an leagain seo.'''"
+
+msgid  "yourdiff"
+msgstr  "Difríochtaí"
+
+msgid  "copyrightwarning"
+msgstr  "Tabhair faoi deara go dtuigtear go bhfuil gach dréacht do {{SITENAME}} eisithe faoi $2 (féach ar $1 le haghaidh tuilleadh eolais).\nMurar mian leat go gcuirfí do chuid scríbhinne in eagar go héadrócaireach agus go n-athdálfaí gan teorainn í, ná cuir isteach anseo í.<br />\nIna theannta sin, geallann tú gur scríobh tú féin an dréacht seo, nó gur chóipeáil tú é ó fhoinse san fhearann poiblí nó acmhainn eile saor ó chóipcheart (féach ar $1 le haghaidh tuilleadh eolais).\n'''NÁ CUIR ISTEACH OBAIR LE CÓIPCHEART GAN CHEAD!'''"
+
+msgid  "copyrightwarning2"
+msgstr  "Tabhair faoi deara gur féidir le heagarthóirí eile gach dréacht do {{SITENAME}} a chur in eagar, a athrú agus a scriosadh.\nMurar mian leat go gcuirfí do chuid scríbhinne in eagar go héadrócaireach, ná cuir isteach anseo í.<br />\nIna theannta sin, geallann tú gur scríobh tú féin an dréacht seo, nó gur chóipeáil tú é ó fhoinse san fhearann poiblí nó acmhainn eile saor ó chóipcheart (féach ar $1 le haghaidh tuilleadh eolais).\n'''NÁ CUIR ISTEACH OBAIR LE CÓIPCHEART GAN CHEAD!'''"
+
+msgid  "longpageerror"
+msgstr  "'''EARRÁID: Tá an téacs a chuir isteach $1 cilibheart ar fad, sin níos faide ná $2 cilibheart, an uasmhéid.\nNí féidir é a shábháil.'''"
+
+msgid  "readonlywarning"
+msgstr  "'''Rabhadh: Glasáladh an bunachar sonraí chun cothabháil a dhéanamh, agus mar sin ní féidir leat do chuid athruithe a shábháil go díreach anois.\nB'fhéidir gur mhaith leat an téacs a ghearradh is ghreamú isteach i gcomhad téacs agus é a úsáid níos déanaí.'''\n\nAn fáth ar thug an riarthóir a ghlasáil é: $1"
+
+msgid  "protectedpagewarning"
+msgstr  "'''Rabhadh: Glasáladh an leathanach seo. Is féidir le riarthóirí amháin é a athrú.'''"
+
+msgid  "templatesused"
+msgstr  "{{PLURAL:$1|Teimpléad|Teimpléid}} a úsáidtear ar an leathanach seo:"
+
+msgid  "templatesusedpreview"
+msgstr  "{{PLURAL:$1|Teimpléad|Teimpléid}} a úsáidtear sa réamhamharc seo:"
+
+msgid  "templatesusedsection"
+msgstr  "{{PLURAL:$1|Teimpléad amháin|$1 Teimpléad}} in úsáid sa mhír seo:"
+
+msgid  "template-protected"
+msgstr  "(glasáilte)"
+
+msgid  "template-semiprotected"
+msgstr  "(leathghlasáilte)"
+
+msgid  "edittools"
+msgstr  "<!-- Taispeánfar an téacs seo faoi foirmeacha eagarthóireachta agus uaslódála. -->"
+
+msgid  "nocreatetext"
+msgstr  "Tá srianadh ar {{SITENAME}} faoin leathanaigh nua a cruthaidh.\nIs féidir leat dul ar ais chun leathanach láithreach a athrú, nó [[Special:UserLogin|log isteach nó cruthaigh cuntas nua]]."
+
+msgid  "nocreate-loggedin"
+msgstr  "Níl cead agat leathanaigh nua a chruthú."
+
+msgid  "permissionserrors"
+msgstr  "Cead rochtana earráidí"
+
+msgid  "permissionserrorstext-withaction"
+msgstr  "Níl cead agat $2, mar gheall ar {{PLURAL:$1|an fáth|na fáthanna}} seo a leanas:"
+
+msgid  "recreate-moveddeleted-warn"
+msgstr  "'''Rabhadh: Tá tú ag athchruthú leathanaigh a scriosadh cheana.'''\n\nAn bhfuil tú cinnte go bhfuil sé oiriúnach an leathanach seo a cur in eagar?\nCuirtear an loga scriosta ar fáil anseo mar áis:"
+
+msgid  "log-fulllog"
+msgstr  "Féach ar an logchomhad iomlán"
+
+msgid  "undo-summary"
+msgstr  "Cealaíodh athrú $1 le [[Special:Contributions/$2|$2]] ([[User talk:$2|plé]])"
+
+msgid  "cantcreateaccounttitle"
+msgstr  "Ní féidir cuntas a chruthú"
+
+msgid  "viewpagelogs"
+msgstr  "Féach ar logaí faoin leathanach seo"
+
+msgid  "nohistory"
+msgstr  "Níl aon stáir athraithe ag an leathanach seo."
+
+msgid  "currentrev"
+msgstr  "Leagan reatha"
+
+msgid  "currentrev-asof"
+msgstr  "Leagan reatha ó $1"
+
+msgid  "revisionasof"
+msgstr  "Leagan ó $1"
+
+msgid  "revision-info"
+msgstr  "Leagan ó $1 le $2"
+
+msgid  "previousrevision"
+msgstr  "← An leasú roimhe seo"
+
+msgid  "nextrevision"
+msgstr  "An chéad leasú eile →"
+
+msgid  "currentrevisionlink"
+msgstr  "Leagan reatha"
+
+msgid  "cur"
+msgstr  "rth"
+
+msgid  "next"
+msgstr  "i ndiadh"
+
+msgid  "last"
+msgstr  "rmh"
+
+msgid  "page_first"
+msgstr  "céad"
+
+msgid  "page_last"
+msgstr  "deireanach"
+
+msgid  "histlegend"
+msgstr  "Chun difríochtaí a roghnú, marcáil na cnaipíní de na heagráin atá tú ag iarraidh comparáid a dhéanamh astu, agus brúigh Iontráil nó an cnaipe ag bun an leathanaigh.<br />\nTreoir: (rth) = difríocht ón leagan reatha, (rmh) = difríocht ón leagan roimhe, <b>m</b> = mionathrú."
+
+msgid  "history-fieldset-title"
+msgstr  "Brabhsáil an stáir"
+
+msgid  "histfirst"
+msgstr  "An ceann is luaithe"
+
+msgid  "histlast"
+msgstr  "An ceann is déanaí"
+
+msgid  "historysize"
+msgstr  "({{PLURAL:$1|Beart amháin|$1 bearta}})"
+
+msgid  "historyempty"
+msgstr  "(folamh)"
+
+msgid  "history-feed-title"
+msgstr  "Stáir leasú"
+
+msgid  "history-feed-description"
+msgstr  "Stair leasú an leathanach seo ar an vicí"
+
+msgid  "history-feed-item-nocomment"
+msgstr  "$1 ag $2"
+
+msgid  "rev-deleted-user"
+msgstr  "(ainm úsáideora dealaithe)"
+
+msgid  "rev-delundel"
+msgstr  "taispeáin/folaigh"
+
+msgid  "revisiondelete"
+msgstr  "Scrios/díscrios leagain"
+
+msgid  "revdelete-show-file-confirm"
+msgstr  "An bhfuil tú cinnte gur mhaith leat féach ar leasú scriosta don chomhad \"<nowiki>$1</nowiki>\" ó $2 ag $3?"
+
+msgid  "revdelete-show-file-submit"
+msgstr  "Tá"
+
+msgid  "revdelete-selected"
+msgstr  "'''{{PLURAL:$2|Leagan roghnaithe|Leagain roghnaithe}} [[:$1]]:'''"
+
+msgid  "logdelete-selected"
+msgstr  "'''{{PLURAL:$1|Teagmhas log roghnaithe|Teagmhais log roghnaithe}}:'''"
+
+msgid  "revdelete-hide-text"
+msgstr  "Folaigh leagan téacs"
+
+msgid  "revdelete-radio-same"
+msgstr  "ná hathraigh"
+
+msgid  "revdel-restore"
+msgstr  "athraigh infheictheacht"
+
+msgid  "pagehist"
+msgstr  "Stair leathanach"
+
+msgid  "deletedhist"
+msgstr  "Stair scriosta"
+
+msgid  "revdelete-uname"
+msgstr  "ainm úsáideora"
+
+msgid  "revdelete-log-message"
+msgstr  "$1 le $2 {{PLURAL:$2|leagan|leagain}}"
+
+msgid  "mergehistory-from"
+msgstr  "Leathanach fhoinse:"
+
+msgid  "mergehistory-reason"
+msgstr  "Fáth:"
+
+msgid  "revertmerge"
+msgstr  "Díchumaisc"
+
+msgid  "history-title"
+msgstr  "Stair leasú \"$1\""
+
+msgid  "difference"
+msgstr  "(Difríochtaí idir leaganacha)"
+
+msgid  "lineno"
+msgstr  "Líne $1:"
+
+msgid  "compareselectedversions"
+msgstr  "Cuir na leagain roghnaithe i gcomparáid"
+
+msgid  "editundo"
+msgstr  "cealaigh"
+
+msgid  "diff-multi"
+msgstr  "({{PLURAL:$1|Leasú idirmheánach amháin|$1 leasú idirmheánach}} nach thaispeántar.)"
+
+msgid  "searchresults"
+msgstr  "Torthaí an chuardaigh"
+
+msgid  "searchresults-title"
+msgstr  "Torthaí an chuardaigh do \"$1\""
+
+msgid  "searchresulttext"
+msgstr  "Féach ar [[{{MediaWiki:Helppage}}|{{int:help}}]] chun a thuilleadh eolais a fháil maidir le cuardaigh {{GRAMMAR:genitive|{{SITENAME}}}}."
+
+msgid  "searchsubtitle"
+msgstr  "Cuardaigh le '''[[:$1]]''' ([[Special:Prefixindex/$1|gach leathanaigh ag tosú le \"$1\"]]{{int:pipe-separator}}[[Special:WhatLinksHere/$1|gach leathanaigh naiscthe le \"$1\"]])"
+
+msgid  "searchsubtitleinvalid"
+msgstr  "Don iarratas \"$1\""
+
+msgid  "titlematches"
+msgstr  "Fuarthas leathanaigh faoin teideal seo"
+
+msgid  "notitlematches"
+msgstr  "Ní bhfuarthas leathanach faoin teideal seo"
+
+msgid  "textmatches"
+msgstr  "Fuarthas an téacs ar leathanaigh"
+
+msgid  "notextmatches"
+msgstr  "Ní bhfuarthas an téacs ar leathanach ar bith"
+
+msgid  "prevn"
+msgstr  "na {{PLURAL:$1|$1}} cinn roimhe seo"
+
+msgid  "nextn"
+msgstr  "an {{PLURAL:$1|$1}} i ndiadh"
+
+msgid  "viewprevnext"
+msgstr  "Taispeáin ($1 {{int:pipe-separator}} $2) ($3)."
+
+msgid  "searchmenu-legend"
+msgstr  "Sainroghanna cuardaithe"
+
+msgid  "searchmenu-new"
+msgstr  "'''Cruthaigh an leathanach \"[[:$1]]\" ar an vicí seo!'''"
+
+msgid  "searchhelp-url"
+msgstr  "Help:Clár_ábhair"
+
+msgid  "searchprofile-project"
+msgstr  "Leathanaigh thionscadail"
+
+msgid  "searchprofile-images"
+msgstr  "Ilmheáin"
+
+msgid  "searchprofile-everything"
+msgstr  "Gach rud"
+
+msgid  "searchprofile-articles-tooltip"
+msgstr  "Cuardaigh i $1"
+
+msgid  "searchprofile-project-tooltip"
+msgstr  "Cuardaigh i $1"
+
+msgid  "searchprofile-images-tooltip"
+msgstr  "Cuardaigh le comhaid"
+
+msgid  "search-result-size"
+msgstr  "$1 ({{PLURAL:$2|focal amháin|$2 focail}})"
+
+msgid  "search-redirect"
+msgstr  "(athsheoladh $1)"
+
+msgid  "search-section"
+msgstr  "(gearradh $1)"
+
+msgid  "search-suggest"
+msgstr  "An raibh $1 á lorg agat?"
+
+msgid  "search-interwiki-caption"
+msgstr  "Comhthionscadail"
+
+msgid  "search-interwiki-default"
+msgstr  "$1 torthaí:"
+
+msgid  "search-interwiki-more"
+msgstr  "(níos mó)"
+
+msgid  "search-mwsuggest-enabled"
+msgstr  "le moltaí"
+
+msgid  "search-mwsuggest-disabled"
+msgstr  "gan mholtaí"
+
+msgid  "search-relatedarticle"
+msgstr  "Gaolmhar"
+
+msgid  "mwsuggest-disable"
+msgstr  "Díchumasaigh moltaí AJAX"
+
+msgid  "searchrelated"
+msgstr  "gaolmhara"
+
+msgid  "searchall"
+msgstr  "an t-iomlán"
+
+msgid  "showingresults"
+msgstr  "Ag taispeáint thíos {{PLURAL:$1|'''toradh amháin'''|'''$1''' torthaí}}, ag tosú le #'''$2'''."
+
+msgid  "showingresultsnum"
+msgstr  "Ag taispeáint thíos {{PLURAL:$3|'''toradh amháin'''|'''$3''' torthaí}}, ag tosú le #'''$2'''."
+
+msgid  "nonefound"
+msgstr  "<strong>Tabhair faoi deara:</strong> Ní chuardaítear ach ainmspásanna áirithe de réir réamhshocraithe.\nBain triail as ''all:'' a chur roimh d'iarratas chun an t-inneachar ar fad (leathanaigh phlé, teimpléid, srl. san áireamh) a chuardach, nó cuir isteach réimír an ainmspáis."
+
+msgid  "search-nonefound"
+msgstr  "Ní bhfuarthas toradh ar bith ar an iarratas."
+
+msgid  "powersearch"
+msgstr  "Cuardaigh"
+
+msgid  "powersearch-legend"
+msgstr  "Cuardach casta"
+
+msgid  "powersearch-ns"
+msgstr  "Cuardaigh in ainmspásanna:"
+
+msgid  "powersearch-redir"
+msgstr  "Liosta athsheoltaí"
+
+msgid  "powersearch-field"
+msgstr  "Cuardaigh le"
+
+msgid  "powersearch-toggleall"
+msgstr  "Uile"
+
+msgid  "searchdisabled"
+msgstr  "Tá brón orainn! Mhíchumasaíodh an cuardach téacs iomlán go sealadach chun luas an tsuímh a chosaint. Idir an dá linn, is féidir leat an cuardach Google anseo thíos a úsáid - b'fhéidir go bhfuil sé as dáta."
+
+msgid  "qbsettings"
+msgstr  "Sainroghanna an bosca uirlisí"
+
+msgid  "qbsettings-none"
+msgstr  "Faic"
+
+msgid  "qbsettings-fixedleft"
+msgstr  "Greamaithe ar chlé"
+
+msgid  "qbsettings-fixedright"
+msgstr  "Greamaithe ar dheis"
+
+msgid  "qbsettings-floatingleft"
+msgstr  "Ag faoileáil ar chlé"
+
+msgid  "qbsettings-floatingright"
+msgstr  "Ag faoileáil ar dheis"
+
+msgid  "preferences"
+msgstr  "Sainroghanna"
+
+msgid  "mypreferences"
+msgstr  "Mo shainroghanna"
+
+msgid  "prefsnologin"
+msgstr  "Níl tú logáilte isteach"
+
+msgid  "prefsnologintext"
+msgstr  "Ní mór duit <span class=\"plainlinks\">[{{fullurl:{{#Special:UserLogin}}|returnto=$1}} logáil isteach]</span> chun do chuid sainroghanna phearsanta a shocrú."
+
+msgid  "changepassword"
+msgstr  "Athraigh d'fhocal faire"
+
+msgid  "prefs-skin"
+msgstr  "Craiceann"
+
+msgid  "skin-preview"
+msgstr  "Réamhamharc"
+
+msgid  "prefs-math"
+msgstr  "Matamaitice"
+
+msgid  "datedefault"
+msgstr  "Is cuma liom"
+
+msgid  "prefs-datetime"
+msgstr  "Dáta agus am"
+
+msgid  "prefs-personal"
+msgstr  "Sonraí úsáideora"
+
+msgid  "prefs-rc"
+msgstr  "Athruithe is déanaí"
+
+msgid  "prefs-watchlist"
+msgstr  "Liosta faire"
+
+msgid  "prefs-watchlist-days"
+msgstr  "Líon na laethanta le taispeáint sa liosta faire:"
+
+msgid  "prefs-watchlist-days-max"
+msgstr  "Uasmhéid 7 lá"
+
+msgid  "prefs-watchlist-edits"
+msgstr  "Líon na n-athruithe le taispeáint sa liosta leathnaithe faire:"
+
+msgid  "prefs-watchlist-edits-max"
+msgstr  "Uasmhéid: 1000"
+
+msgid  "prefs-misc"
+msgstr  "Éagsúla"
+
+msgid  "prefs-resetpass"
+msgstr  "Athraigh focal faire"
+
+msgid  "saveprefs"
+msgstr  "Sábháil"
+
+msgid  "resetprefs"
+msgstr  "Athshocraigh sainroghanna"
+
+msgid  "restoreprefs"
+msgstr  "Cuir ar ais gach sainrogha réamhshocraithe"
+
+msgid  "prefs-editing"
+msgstr  "Eagarthóireacht"
+
+msgid  "rows"
+msgstr  "Sraitheanna"
+
+msgid  "columns"
+msgstr  "Colúin"
+
+msgid  "searchresultshead"
+msgstr  "Cuardaigh"
+
+msgid  "resultsperpage"
+msgstr  "Torthaí le taispeáint ó leathanach:"
+
+msgid  "contextlines"
+msgstr  "Línte le taispeáint do gach toradh:"
+
+msgid  "contextchars"
+msgstr  "Litreacha chomhthéacs ar gach líne:"
+
+msgid  "stub-threshold-disabled"
+msgstr  "Díchumasaithe"
+
+msgid  "recentchangesdays"
+msgstr  "Méid laethanta le taispeáint sna hathruithe is déanaí:"
+
+msgid  "recentchangesdays-max"
+msgstr  "(uasmhéid $1 {{PLURAL:$1|lá|lá}})"
+
+msgid  "recentchangescount"
+msgstr  "Méid athrú le taispeáint:"
+
+msgid  "savedprefs"
+msgstr  "Sábháladh do chuid sainroghanna."
+
+msgid  "timezonelegend"
+msgstr  "Crios ama:"
+
+msgid  "localtime"
+msgstr  "An t-am áitiúil:"
+
+msgid  "timezoneuseserverdefault"
+msgstr  "Úsáid am réamhshocraithe an fhreastalaí"
+
+msgid  "timezoneuseoffset"
+msgstr  "Eile (cuir isteach an difear)"
+
+msgid  "timezoneoffset"
+msgstr  "Difear¹:"
+
+msgid  "servertime"
+msgstr  "Am an fhreastalaí:"
+
+msgid  "guesstimezone"
+msgstr  "Líon ón mbrabhsálaí"
+
+msgid  "timezoneregion-africa"
+msgstr  "An Afraic"
+
+msgid  "timezoneregion-america"
+msgstr  "Meiriceá"
+
+msgid  "timezoneregion-antarctica"
+msgstr  "Antartaice"
+
+msgid  "timezoneregion-arctic"
+msgstr  "Artach"
+
+msgid  "timezoneregion-asia"
+msgstr  "an Áise"
+
+msgid  "timezoneregion-atlantic"
+msgstr  "An tAigéan Atlantach"
+
+msgid  "timezoneregion-australia"
+msgstr  "An Astráil"
+
+msgid  "timezoneregion-europe"
+msgstr  "An Eoraip"
+
+msgid  "timezoneregion-indian"
+msgstr  "An tAigéan Indiach"
+
+msgid  "timezoneregion-pacific"
+msgstr  "An tAigéan Ciúin"
+
+msgid  "allowemail"
+msgstr  "Tabhair cead d'úsáideoirí eile ríomhphost a sheoladh chugat."
+
+msgid  "prefs-namespaces"
+msgstr  "Ainmspáis"
+
+msgid  "defaultns"
+msgstr  "Cuardaigh sna ranna seo a los éagmaise:"
+
+msgid  "default"
+msgstr  "réamhshocrú"
+
+msgid  "prefs-files"
+msgstr  "Comhaid"
+
+msgid  "youremail"
+msgstr  "Do ríomhsheoladh:"
+
+msgid  "username"
+msgstr  "D'ainm úsáideora:"
+
+msgid  "uid"
+msgstr  "D’uimhir úsáideora:"
+
+msgid  "prefs-memberingroups"
+msgstr  "Comhalta {{PLURAL:$1|an ghrúpa|na ghrúpaí}}:"
+
+msgid  "yourrealname"
+msgstr  "D'fhíorainm **"
+
+msgid  "yourlanguage"
+msgstr  "Teanga"
+
+msgid  "yourvariant"
+msgstr  "Difríocht teanga:"
+
+msgid  "yournick"
+msgstr  "Do leasainm (mar a bheidh i sínithe)"
+
+msgid  "badsig"
+msgstr  "Amhsíniú neamhbhailí; scrúdaigh na clibeanna HTML."
+
+msgid  "badsiglength"
+msgstr  "Tá do shíniú ró-fhada.<br />\nCaithfidh sé bheith níos giorra ná {{PLURAL:$1|carachtar|carachtair}}."
+
+msgid  "yourgender"
+msgstr  "Inscne:"
+
+msgid  "gender-unknown"
+msgstr  "Gan sonrú"
+
+msgid  "gender-male"
+msgstr  "Fireann"
+
+msgid  "gender-female"
+msgstr  "Baineann"
+
+msgid  "prefs-help-gender"
+msgstr  "Roghnach: úsáidtear an rogha seo chun an t-inscne cheart a úsáid agus na bogearraí ag tagairt don úsaideoir.\nBeidh an t-eolas seo poiblí."
+
+msgid  "email"
+msgstr  "Ríomhphost"
+
+msgid  "prefs-help-realname"
+msgstr  "* <strong>Fíorainm</strong> (roghnach): má toghaíonn tú é sin a chur ar fáil, úsáidfear é chun\ndo chuid dreachtaí a chur i leith tusa."
+
+msgid  "prefs-help-email"
+msgstr  "<strong>Ríomhphost</strong> (roghnach): Leis an tréith seo is féidir teagmháil a dhéanamh leat tríd do leathanach úsáideora nó leathanach phlé gan do sheoladh ríomhphost a thaispeáint."
+
+msgid  "prefs-help-email-required"
+msgstr  "Ní foláir seoladh ríomhpoist a thabhairt."
+
+msgid  "prefs-info"
+msgstr  "Buneolas"
+
+msgid  "prefs-i18n"
+msgstr  "Logánú"
+
+msgid  "prefs-signature"
+msgstr  "Síniú"
+
+msgid  "prefs-dateformat"
+msgstr  "Formáid dáta"
+
+msgid  "prefs-timeoffset"
+msgstr  "Difear ama"
+
+msgid  "prefs-advancedediting"
+msgstr  "Ardroghanna"
+
+msgid  "prefs-advancedrc"
+msgstr  "Ardroghanna"
+
+msgid  "prefs-advancedrendering"
+msgstr  "Ardroghanna"
+
+msgid  "prefs-advancedsearchoptions"
+msgstr  "Ardroghanna"
+
+msgid  "prefs-advancedwatchlist"
+msgstr  "Ardroghanna"
+
+msgid  "userrights"
+msgstr  "Bainistíocht cearta úsáideora"
+
+msgid  "userrights-user-editname"
+msgstr  "Iontráil ainm úsáideora:"
+
+msgid  "editusergroup"
+msgstr  "Cuir Grúpái Úsáideoirí In Eagar"
+
+msgid  "editinguser"
+msgstr  "Ag athrú ceart don úsáideoir '''[[User:$1|$1]]''' ([[User talk:$1|{{int:talkpagelinktext}}]]{{int:pipe-separator}}[[Special:Contributions/$1|{{int:contribslink}}]])"
+
+msgid  "userrights-editusergroup"
+msgstr  "Cuir grúpaí na n-úsáideoirí in eagar"
+
+msgid  "saveusergroups"
+msgstr  "Sabháil cnuasach úsáideora"
+
+msgid  "userrights-groupsmember"
+msgstr  "Ball de:"
+
+msgid  "userrights-reason"
+msgstr  "Fáth:"
+
+msgid  "userrights-notallowed"
+msgstr  "Níl cead ag do chuntas ceartanna úsáideora a athrú."
+
+msgid  "group"
+msgstr  "Grúpa:"
+
+msgid  "group-user"
+msgstr  "Úsáideoirí"
+
+msgid  "group-bot"
+msgstr  "Róbónna"
+
+msgid  "group-sysop"
+msgstr  "Riarthóirí"
+
+msgid  "group-bureaucrat"
+msgstr  "Maorlathaigh"
+
+msgid  "group-all"
+msgstr  "(iad uile)"
+
+msgid  "group-user-member"
+msgstr  "Úsáideoir"
+
+msgid  "group-bot-member"
+msgstr  "Róbó"
+
+msgid  "group-sysop-member"
+msgstr  "Riarthóir"
+
+msgid  "group-bureaucrat-member"
+msgstr  "Maorlathach"
+
+msgid  "grouppage-bot"
+msgstr  "{{ns:project}}:Róbónna"
+
+msgid  "grouppage-sysop"
+msgstr  "{{ns:project}}:Riarthóirí"
+
+msgid  "grouppage-bureaucrat"
+msgstr  "{{ns:project}}:Maorlathaigh"
+
+msgid  "right-upload"
+msgstr  "Uaslódáil comhaid"
+
+msgid  "right-delete"
+msgstr  "Scrios leathanaigh"
+
+msgid  "right-undelete"
+msgstr  "Díscrios leathanach"
+
+msgid  "right-userrights"
+msgstr  "Cur gach cearta usáideoira in eagar"
+
+msgid  "rightslog"
+msgstr  "Log cearta úsáideoira"
+
+msgid  "action-edit"
+msgstr  "an leathanach seo a athrú"
+
+msgid  "action-createpage"
+msgstr  "cruthaigh leathanaigh"
+
+msgid  "action-createaccount"
+msgstr  "an cuntas seo a chruthú"
+
+msgid  "action-minoredit"
+msgstr  "an athrú seo a mharcáil mar mionathrú"
+
+msgid  "action-upload"
+msgstr  "uaslódáil an comhad"
+
+msgid  "nchanges"
+msgstr  "{{PLURAL:$1|Athrú amháin|$1 athruithe}}"
+
+msgid  "recentchanges"
+msgstr  "Athruithe is déanaí"
+
+msgid  "recentchanges-legend"
+msgstr  "Roghanna do na hathruithe is déanaí"
+
+msgid  "recentchangestext"
+msgstr  "Déan faire ar na hathruithe is déanaí sa vicí ar an leathanach seo."
+
+msgid  "recentchanges-feed-description"
+msgstr  "Rianaigh na n-athruite vicí is déanaí sa fotha seo."
+
+msgid  "recentchanges-label-bot"
+msgstr  "Chomhlíon róbó an t-athrú seo"
+
+msgid  "rcnote"
+msgstr  "Is {{PLURAL:$1|é seo a leanas <strong>an t-athrú amháin</strong>|iad seo a leanas na <strong>$1</strong> athruithe is déanaí}} {{PLURAL:$2|ar feadh an lae dheireanaigh|ar feadh na '''$2''' lá deireanacha}}, as $5, $4."
+
+msgid  "rcnotefrom"
+msgstr  "Is iad seo a leanas na hathruithe ó <b>$2</b> (go dti <b>$1</b> taispeánaithe)."
+
+msgid  "rclistfrom"
+msgstr  "Taispeáin athruithe nua ó $1 anuas."
+
+msgid  "rcshowhideminor"
+msgstr  "$1 mionathruithe"
+
+msgid  "rcshowhidebots"
+msgstr  "$1 róbónna"
+
+msgid  "rcshowhideliu"
+msgstr  "$1 úsáideoirí atá logáilte isteach"
+
+msgid  "rcshowhideanons"
+msgstr  "$1 úsáideoirí gan ainm"
+
+msgid  "rcshowhidepatr"
+msgstr  "$1 athruithe faoi phatról"
+
+msgid  "rcshowhidemine"
+msgstr  "$1 mo chuid athruithe"
+
+msgid  "rclinks"
+msgstr  "Taispeáin an $1 athrú is déanaí sa $2 lá seo caite<br />$3"
+
+msgid  "diff"
+msgstr  "difr"
+
+msgid  "hist"
+msgstr  "stair"
+
+msgid  "hide"
+msgstr  "Folaigh"
+
+msgid  "show"
+msgstr  "Taispeáin"
+
+msgid  "minoreditletter"
+msgstr  "m"
+
+msgid  "newpageletter"
+msgstr  "N"
+
+msgid  "boteditletter"
+msgstr  "r"
+
+msgid  "number_of_watching_users_pageview"
+msgstr  "[{{PLURAL:$1|úsáideoir amháin|$1 úsáideoirí}} ag faire]"
+
+msgid  "rc_categories_any"
+msgstr  "Aon chatagóir"
+
+msgid  "newsectionsummary"
+msgstr  "/* $1 */ mír nua"
+
+msgid  "rc-enhanced-expand"
+msgstr  "Taispeáin mionsonraithe (JavaScript riachtanach)"
+
+msgid  "rc-enhanced-hide"
+msgstr  "Folaigh shonraí"
+
+msgid  "recentchangeslinked"
+msgstr  "Athruithe gaolmhara"
+
+msgid  "recentchangeslinked-feed"
+msgstr  "Athruithe gaolmhara"
+
+msgid  "recentchangeslinked-toolbox"
+msgstr  "Athruithe gaolmhara"
+
+msgid  "recentchangeslinked-title"
+msgstr  "Athruithe gaolmhara le \"$1\""
+
+msgid  "recentchangeslinked-noresult"
+msgstr  "Níl aon athraithe ar na leathanaigh naiscthe le linn an tréimhse tugtha."
+
+msgid  "recentchangeslinked-summary"
+msgstr  "Seo liosta na n-athruithe atá deanta is déanaí le leathanaigh atá naiscthe as leathanach sonraithe (nó baill an chatagóir sonraithe).\nTá na leathanaigh ar do [[Special:Watchlist|liosta faire]] i '''gcló trom'''."
+
+msgid  "recentchangeslinked-page"
+msgstr  "Ainm leathanaigh:"
+
+msgid  "recentchangeslinked-to"
+msgstr  "Taispeáin athruithe do leathanaigh nasctha leis an leathanach áirithe sin ina áit."
+
+msgid  "upload"
+msgstr  "Uaslódaigh comhad"
+
+msgid  "uploadbtn"
+msgstr  "Uaslódaigh comhad"
+
+msgid  "reuploaddesc"
+msgstr  "Dul ar ais chuig an fhoirm uaslódála."
+
+msgid  "uploadnologin"
+msgstr  "Nil tú logáilte isteach"
+
+msgid  "uploadnologintext"
+msgstr  "Ní mór duit [[Special:UserLogin|logáil isteach]] chun comhaid a huaslódáil."
+
+msgid  "uploaderror"
+msgstr  "Earráid uaslódála"
+
+msgid  "uploadtext"
+msgstr  "Bain úsáid as an bhfoirm thíos chun comhaid a uaslódáil.\nChun comhaid atá ann cheana a fheiceáil nó a chuardach téigh chuig an [[Special:FileList|liosta comhad uaslódáilte]]. Gheobhaidh tú liosta de chomhaid uaslódáilte sa [[Special:Log/upload|loga uaslódála]] agus liosta de chomhaid scriosta sa [[Special:Log/delete|loga scriosta]] freisin.\n\nChun comhad a úsáid ar leathanach, cuir isteach nasc mar seo:\n* '''<tt><nowiki>[[</nowiki>{{ns:file}}<nowiki>:comhad.jpg]]</nowiki></tt>''' chun leagan iomlán an chomhad a úsáid\n* '''<tt><nowiki>[[</nowiki>{{ns:file}}<nowiki>:comhad.png|200px|thumb|left|téacs eile]]</nowiki></tt>''' chun comhad le 200 picteillín ar leithead i mbosca san imeall clé le 'téacs eile' mar tuairisc\n* '''<tt><nowiki>[[</nowiki>{{ns:media}}<nowiki>:comhad.ogg]]</nowiki></tt>''' más comhad fuaime atá i gceist"
+
+msgid  "upload-permitted"
+msgstr  "Cineálacha comhaid ceadaithe: $1."
+
+msgid  "uploadlog"
+msgstr  "Stair uaslódála"
+
+msgid  "uploadlogpage"
+msgstr  "Stair_uaslódála"
+
+msgid  "uploadlogpagetext"
+msgstr  "Is liosta é seo a leanas de na uaslódáil comhad is deanaí.\nIs am an freastalaí iad na hamanna atá anseo thíos."
+
+msgid  "filename"
+msgstr  "Comhadainm"
+
+msgid  "filedesc"
+msgstr  "Achoimriú"
+
+msgid  "fileuploadsummary"
+msgstr  "Achoimre:"
+
+msgid  "filestatus"
+msgstr  "Stádas cóipchirt:"
+
+msgid  "filesource"
+msgstr  "Foinse:"
+
+msgid  "uploadedfiles"
+msgstr  "Comhaid uaslódáilte"
+
+msgid  "ignorewarning"
+msgstr  "Déan neamhaird den rabhadh agus sábháil an comhad ar an chor"
+
+msgid  "ignorewarnings"
+msgstr  "Déan neamhaird aon rabhaidh"
+
+msgid  "illegalfilename"
+msgstr  "Tá litreacha san comhadainm  \"$1\" nach ceadaítear in ainm leathanaigh. Athainmnigh\nan comhad agus déan athiarracht, más é do thoil é."
+
+msgid  "badfilename"
+msgstr  "D'athraíodh an ainm íomhá bheith \"$1\"."
+
+msgid  "filetype-badmime"
+msgstr  "Ní ceadaítear comhaid den saghas MIME \"$1\" a uaslódáil."
+
+msgid  "emptyfile"
+msgstr  "De réir a chuma, ní aon rud san chomhad a d'uaslódáil tú ach comhad folamh. Is dócha gur\nmíchruinneas é seo san ainm chomhaid. Seiceáil más é an comhad seo atá le huaslódáil agat."
+
+msgid  "fileexists-forbidden"
+msgstr  "Tá comhad eile leis an ainm seo ann fós, agus ní féidie é a forscríobh.\nMá theastáilann uait do chomhad a uaslódáil fós, téigh ar ais agus úsáid ainm nua, le do thoil. [[File:$1|thumb|center|$1]]"
+
+msgid  "uploadwarning"
+msgstr  "Rabhadh suaslódála"
+
+msgid  "savefile"
+msgstr  "Sábháil comhad"
+
+msgid  "uploadedimage"
+msgstr  "uaslódáladh \"[[$1]]\""
+
+msgid  "uploaddisabled"
+msgstr  "Tá brón orainn, ní féidir aon rud a uaslódáil faoi láthair."
+
+msgid  "uploaddisabledtext"
+msgstr  "Tá cosc ar uaslódáil comhad."
+
+msgid  "uploadvirus"
+msgstr  "Tá víreas ann sa comhad seo! Eolas: $1"
+
+msgid  "sourcefilename"
+msgstr  "Comhadainm foinse:"
+
+msgid  "destfilename"
+msgstr  "Comhadainm sprice:"
+
+msgid  "upload-maxfilesize"
+msgstr  "Méad comhad is mó: $1"
+
+msgid  "watchthisupload"
+msgstr  "Déan faire ar an leathanach seo"
+
+msgid  "upload-success-subj"
+msgstr  "D'éirigh leis an uaslódáil"
+
+msgid  "upload-proto-error"
+msgstr  "Prótacal mícheart"
+
+msgid  "upload-file-error"
+msgstr  "Earráid inmheánach"
+
+msgid  "license"
+msgstr  "Ceadúnas:"
+
+msgid  "license-header"
+msgstr  "Ceadúnú"
+
+msgid  "nolicense"
+msgstr  "Níl aon cheann roghnaithe"
+
+msgid  "upload_source_url"
+msgstr  " (URL bailí is féidir a rochtain go poiblí)"
+
+msgid  "upload_source_file"
+msgstr  " (comhad ar do riomhaire)"
+
+msgid  "listfiles_search_for"
+msgstr  "Cuardaigh le íomhá ab ainm:"
+
+msgid  "imgfile"
+msgstr  "comhad"
+
+msgid  "listfiles"
+msgstr  "Liosta íomhánna"
+
+msgid  "listfiles_date"
+msgstr  "Dáta"
+
+msgid  "listfiles_name"
+msgstr  "Ainm"
+
+msgid  "listfiles_user"
+msgstr  "Úsáideoir"
+
+msgid  "listfiles_size"
+msgstr  "Méid"
+
+msgid  "listfiles_description"
+msgstr  "Tuairisc"
+
+msgid  "file-anchor-link"
+msgstr  "Comhad"
+
+msgid  "filehist"
+msgstr  "Stair comhad"
+
+msgid  "filehist-help"
+msgstr  "Clic ar dáta/am chun an comhad a radharc mar a bhí sé ar an am."
+
+msgid  "filehist-deleteone"
+msgstr  "scrios"
+
+msgid  "filehist-current"
+msgstr  "reatha"
+
+msgid  "filehist-datetime"
+msgstr  "Dáta/Am"
+
+msgid  "filehist-thumb"
+msgstr  "Mionsamhail"
+
+msgid  "filehist-thumbtext"
+msgstr  "Mionsamhail do leagan ó $1"
+
+msgid  "filehist-user"
+msgstr  "Úsáideoir"
+
+msgid  "filehist-dimensions"
+msgstr  "Toisí"
+
+msgid  "filehist-filesize"
+msgstr  "Méid an comhad"
+
+msgid  "filehist-comment"
+msgstr  "Nóta tráchta"
+
+msgid  "imagelinks"
+msgstr  "Naisc comhaid"
+
+msgid  "linkstoimage"
+msgstr  "Tá nasc chuig an gcomhad seo ar {{PLURAL:$1|na leathanaigh|$1 an leathanach}} seo a leanas:"
+
+msgid  "nolinkstoimage"
+msgstr  "Níl nasc ó aon leathanach eile don íomhá seo."
+
+msgid  "sharedupload"
+msgstr  "Is uaslodáil roinnte atá ann sa comhad seo, as $1, agus is féidir le tionscadail eile é a úsáid."
+
+msgid  "uploadnewversion-linktext"
+msgstr  "Uaslódáil leagan nua den comhad seo"
+
+msgid  "shared-repo"
+msgstr  "comhstóráil"
+
+msgid  "shared-repo-name-wikimediacommons"
+msgstr  "an Cómhaoin Vicíméid"
+
+msgid  "filerevert"
+msgstr  "Fill $1 ar ais"
+
+msgid  "filerevert-legend"
+msgstr  "Fill comhad ar ais"
+
+msgid  "filerevert-comment"
+msgstr  "Nóta tráchta:"
+
+msgid  "filerevert-defaultcomment"
+msgstr  "Filleadh ar ais go leagan ó $2, $1"
+
+msgid  "filerevert-submit"
+msgstr  "Athúsáid"
+
+msgid  "filerevert-success"
+msgstr  "Filleadh '''[[Media:$1|$1]]''' go leagan [$4 ó $3, $2]."
+
+msgid  "filedelete"
+msgstr  "Scrios $1"
+
+msgid  "filedelete-legend"
+msgstr  "Scrios comhad"
+
+msgid  "filedelete-submit"
+msgstr  "Scrios"
+
+msgid  "filedelete-success"
+msgstr  "'''$1''' a bheith scriosta."
+
+msgid  "filedelete-success-old"
+msgstr  "An leagan '''[[Media:$1|$1]]''' as $3, $2 a bheith scriosta."
+
+msgid  "filedelete-reason-otherlist"
+msgstr  "Fáth eile"
+
+msgid  "mimesearch"
+msgstr  "Cuardaigh MIME"
+
+msgid  "download"
+msgstr  "íoslódáil"
+
+msgid  "unwatchedpages"
+msgstr  "Leathanaigh gan faire"
+
+msgid  "listredirects"
+msgstr  "Liosta athsheoltaí"
+
+msgid  "unusedtemplates"
+msgstr  "Teimpléid nach n-úsáidtear"
+
+msgid  "unusedtemplateswlh"
+msgstr  "naisc eile"
+
+msgid  "randompage"
+msgstr  "Leathanach fánach"
+
+msgid  "randompage-nopages"
+msgstr  "Níl aon leathanaigh san ainmspás \"$1\"."
+
+msgid  "randomredirect"
+msgstr  "Atreorú randamach"
+
+msgid  "statistics"
+msgstr  "Staidrimh"
+
+msgid  "statistics-header-users"
+msgstr  "Staidreamh úsáideora"
+
+msgid  "statistics-pages"
+msgstr  "Leathanaigh"
+
+msgid  "disambiguations"
+msgstr  "Leathanaigh idirdhealaithe"
+
+msgid  "disambiguationspage"
+msgstr  "{{ns:project}}:Naisc_go_leathanaigh_idirdhealaithe"
+
+msgid  "doubleredirects"
+msgstr  "Athsheoltaí dúbailte"
+
+msgid  "doubleredirectstext"
+msgstr  "<b>Tabhair faoi deara:</b> B'fheidir go bhfuil toraidh bréagacha ar an liosta seo.\nDe ghnáth cíallaíonn sé sin go bhfuil téacs breise le naisc thíos sa chéad #REDIRECT no #ATHSHEOLADH.<br />\n Sa\ngach sraith tá náisc chuig an chéad is an dara athsheoladh, chomh maith le chéad líne an dara téacs athsheolaidh. De\nghnáth tugann sé sin an sprioc-alt \"fíor\"."
+
+msgid  "brokenredirects"
+msgstr  "Atreoruithe briste"
+
+msgid  "brokenredirectstext"
+msgstr  "Is iad na athsheolaidh seo a leanas a nascaíonn go ailt nach bhfuil ann fós:"
+
+msgid  "brokenredirects-edit"
+msgstr  "athraigh"
+
+msgid  "brokenredirects-delete"
+msgstr  "scrios"
+
+msgid  "withoutinterwiki"
+msgstr  "Leathanaigh gan naisc idirvicí"
+
+msgid  "withoutinterwiki-legend"
+msgstr  "Réimír"
+
+msgid  "withoutinterwiki-submit"
+msgstr  "Taispeáin"
+
+msgid  "fewestrevisions"
+msgstr  "Leathanaigh leis na leasaithe is lú"
+
+msgid  "nbytes"
+msgstr  "$1 {{PLURAL:$1|bheart amháin|bearta}}"
+
+msgid  "ncategories"
+msgstr  "$1 {{PLURAL:$1|chatagóir amháin|catagóirí}}"
+
+msgid  "nlinks"
+msgstr  "{{PLURAL:$1|nasc amháin|$1 naisc}}"
+
+msgid  "nmembers"
+msgstr  "{{PLURAL:$1|ball amháin|$1 baill}}"
+
+msgid  "nrevisions"
+msgstr  "{{PLURAL:$1|Leagan amháin|$1 leagain}}"
+
+msgid  "nviews"
+msgstr  "{{PLURAL:$1|radharc amháin|$1 radhairc}}"
+
+msgid  "lonelypages"
+msgstr  "Leathanaigh aonair"
+
+msgid  "uncategorizedpages"
+msgstr  "Leathanaigh gan chatagóir"
+
+msgid  "uncategorizedcategories"
+msgstr  "Catagóirí gan chatagórú"
+
+msgid  "uncategorizedimages"
+msgstr  "Íomhánna gan chatagóir"
+
+msgid  "uncategorizedtemplates"
+msgstr  "Teimpléid gan chatagóir"
+
+msgid  "unusedcategories"
+msgstr  "Catagóirí nach n-úsáidtear"
+
+msgid  "unusedimages"
+msgstr  "Íomhánna nach n-úsáidtear"
+
+msgid  "popularpages"
+msgstr  "Leathanaigh is mó cuairteanna orthu"
+
+msgid  "wantedcategories"
+msgstr  "Catagóirí agus iarraidh ag gabháil leis"
+
+msgid  "wantedpages"
+msgstr  "Leathanaigh de dhíth"
+
+msgid  "mostlinked"
+msgstr  "Leathanaigh is mó naisc chucu"
+
+msgid  "mostlinkedcategories"
+msgstr  "Catagóirí is mó naisc chucu"
+
+msgid  "mostlinkedtemplates"
+msgstr  "Na teimpléid naiscthe is mó"
+
+msgid  "mostcategories"
+msgstr  "Leathanaigh is mó catagóirí acu"
+
+msgid  "mostimages"
+msgstr  "Na comhaid naiscthe is mó"
+
+msgid  "mostrevisions"
+msgstr  "Leathanaigh leis na leasaithe is mó"
+
+msgid  "prefixindex"
+msgstr  "Gach leathanach le réimír"
+
+msgid  "shortpages"
+msgstr  "Leathanaigh ghearra"
+
+msgid  "longpages"
+msgstr  "Leathanaigh fhada"
+
+msgid  "deadendpages"
+msgstr  "Leathanaigh chaocha"
+
+msgid  "protectedpages"
+msgstr  "Leathanaigh chosanta"
+
+msgid  "protectedtitles"
+msgstr  "Teidil chosanta"
+
+msgid  "listusers"
+msgstr  "Liosta úsáideoirí"
+
+msgid  "newpages"
+msgstr  "Leathanaigh nua"
+
+msgid  "newpages-username"
+msgstr  "Ainm úsáideora:"
+
+msgid  "ancientpages"
+msgstr  "Na leathanaigh is sine"
+
+msgid  "move"
+msgstr  "Athainmnigh"
+
+msgid  "movethispage"
+msgstr  "Athainmnigh an leathanach seo"
+
+msgid  "unusedimagestext"
+msgstr  "Tá na comhaid a leanas ann ach níl siad leabaithe i leathanach ar bith.\nTabhair faoi deara gur féidir le suímh eile nasc a dhéanamh le comhad trí URL díreach, agus mar sin bheadh siad ar an liosta seo fós cé go bhfuil siad in úsáid faoi láthair."
+
+msgid  "unusedcategoriestext"
+msgstr  "Tá na leathanaigh catagóire seo a leanas ann, cé nach n-úsáidtear iad in aon alt eile nó in aon chatagóir eile."
+
+msgid  "notargettitle"
+msgstr  "Níl aon cuspóir ann"
+
+msgid  "notargettext"
+msgstr  "Níor thug tú leathanach nó úsáideoir sprice\nchun an gníomh seo a dhéanamh ar."
+
+msgid  "pager-newer-n"
+msgstr  "{{PLURAL:$1|1 níos nuaí|$1 níos nuaí}}"
+
+msgid  "pager-older-n"
+msgstr  "{{PLURAL:$1|1 níos sine|$1 níos sine}}"
+
+msgid  "booksources"
+msgstr  "Leabharfhoinsí"
+
+msgid  "booksources-search-legend"
+msgstr  "Cuardaigh le foinsí leabhar"
+
+msgid  "booksources-go"
+msgstr  "Gabh"
+
+msgid  "specialloguserlabel"
+msgstr  "Úsáideoir:"
+
+msgid  "speciallogtitlelabel"
+msgstr  "Teideal:"
+
+msgid  "log"
+msgstr  "Loganna"
+
+msgid  "all-logs-page"
+msgstr  "Gach loga poiblí"
+
+msgid  "alllogstext"
+msgstr  "Bailiúchán cuimsitheach de gach loga {{SITENAME}}.\nIs féidir leat an méid ar taispeáint a chúngú trí roghnú an saghas loga, an t-ainm úsáideora (cásíogair), nó an leathanach (cásíogair freisin) atá i gceist agat."
+
+msgid  "allpages"
+msgstr  "Gach leathanach"
+
+msgid  "alphaindexline"
+msgstr  "$1 go $2"
+
+msgid  "nextpage"
+msgstr  "An leathanach a leanas ($1)"
+
+msgid  "prevpage"
+msgstr  "Leathanach roimhe sin ($1)"
+
+msgid  "allpagesfrom"
+msgstr  "Taispeáin leathanaigh ó:"
+
+msgid  "allpagesto"
+msgstr  "Go:"
+
+msgid  "allarticles"
+msgstr  "Gach alt"
+
+msgid  "allinnamespace"
+msgstr  "Gach leathanach (ainmspás $1)"
+
+msgid  "allnotinnamespace"
+msgstr  "Gach leathanach (lasmuigh den ainmspás $1)"
+
+msgid  "allpagesprev"
+msgstr  "Siar"
+
+msgid  "allpagesnext"
+msgstr  "Ar aghaidh"
+
+msgid  "allpagessubmit"
+msgstr  "Gabh"
+
+msgid  "allpagesprefix"
+msgstr  "Taispeáin leathanaigh leis an réimír:"
+
+msgid  "allpages-bad-ns"
+msgstr  "Níl an t-ainmspás \"$1\" ar {{SITENAME}}"
+
+msgid  "categories"
+msgstr  "Catagóirí"
+
+msgid  "categoriespagetext"
+msgstr  "Tá leathanaigh nó meáin {{PLURAL:$1|sa chatagóir|sna catagóirí}} seo a leanas.\nNí thaispeántar [[Special:UnusedCategories|catagóiri neamhúsáidte]] anseo.\nFéach freisin ar [[Special:WantedCategories|catagóirí faoi iarraidh]]."
+
+msgid  "deletedcontributions"
+msgstr  "Dréachtaí úsáideora scriosta"
+
+msgid  "deletedcontributions-title"
+msgstr  "Dréachtaí úsáideora scriosta"
+
+msgid  "linksearch"
+msgstr  "Naisc eachtraigh"
+
+msgid  "linksearch-ns"
+msgstr  "Ainmspás:"
+
+msgid  "linksearch-ok"
+msgstr  "Cuardaigh"
+
+msgid  "linksearch-line"
+msgstr  "$1 naiscthe as $2"
+
+msgid  "listusers-submit"
+msgstr  "Taispeáin"
+
+msgid  "newuserlogpage"
+msgstr  "Log cruthú úsáideoira"
+
+msgid  "newuserlog-create-entry"
+msgstr  "Úsáideoir nua"
+
+msgid  "newuserlog-create2-entry"
+msgstr  "cuntas cruthú le $1"
+
+msgid  "listgrouprights-group"
+msgstr  "Ghrúpa"
+
+msgid  "listgrouprights-rights"
+msgstr  "Cearta"
+
+msgid  "listgrouprights-members"
+msgstr  "(liostaigh baill)"
+
+msgid  "mailnologin"
+msgstr  "Níl aon seoladh maith ann"
+
+msgid  "mailnologintext"
+msgstr  "Ní mór duit bheith  [[Special:UserLogin|logáilte isteach]]\nagus bheith le seoladh ríomhphoist bhailí i do chuid [[Special:Preferences|sainroghanna]]\nmás mian leat ríomhphost a sheoladh chuig úsáideoirí eile."
+
+msgid  "emailuser"
+msgstr  "Cuir ríomhphost chuig an úsáideoir seo"
+
+msgid  "emailpage"
+msgstr  "Seol ríomhphost"
+
+msgid  "emailpagetext"
+msgstr  "Má d'iontráil an úsáideoir seo seoladh ríomhphoist bhailí ina chuid sainroghanna úsáideora, cuirfidh an foirm anseo thíos teachtaireacht amháin do.\nBeidh do seoladh ríomhphoist a d'iontráil tú i [[Special:Preferences|do chuid sainroghanna úsáideora]] sa bhosca \"Seoltóir\" an riomhphoist, agus mar sin ba féidir léis an faighteoir ríomhphost eile a chur leatsa."
+
+msgid  "usermailererror"
+msgstr  "Earráid leis an píosa ríomhphoist:"
+
+msgid  "defemailsubject"
+msgstr  "Ríomhphost {{GRAMMAR:genitive|{{SITENAME}}}}"
+
+msgid  "noemailtitle"
+msgstr  "Níl aon seoladh ríomhphoist ann"
+
+msgid  "noemailtext"
+msgstr  "Níor thug an úsáideoir seo seoladh ríomhphoist bhailí."
+
+msgid  "emailfrom"
+msgstr  "Seoltóir:"
+
+msgid  "emailto"
+msgstr  "Chuig:"
+
+msgid  "emailsubject"
+msgstr  "Ábhar:"
+
+msgid  "emailmessage"
+msgstr  "Teachtaireacht:"
+
+msgid  "emailsend"
+msgstr  "Seol"
+
+msgid  "emailsent"
+msgstr  "Ríomhphost seolta"
+
+msgid  "emailsenttext"
+msgstr  "Seoladh do theachtaireacht ríomhphoist go ráthúil."
+
+msgid  "watchlist"
+msgstr  "Mo liosta faire"
+
+msgid  "mywatchlist"
+msgstr  "Mo liosta faire"
+
+msgid  "nowatchlist"
+msgstr  "Níl aon rud ar do liosta faire."
+
+msgid  "watchlistanontext"
+msgstr  "$1, le d'thoil, chun míreanna ar do liosta faire a fheiceáil ná a athrú."
+
+msgid  "watchnologin"
+msgstr  "Níl tú logáilte isteach"
+
+msgid  "watchnologintext"
+msgstr  "Tá ort a bheith [[Special:UserLogin|logáilte isteach]] chun do liosta faire a athrú."
+
+msgid  "addedwatch"
+msgstr  "Curtha ar an liosta faire"
+
+msgid  "addedwatchtext"
+msgstr  "Cuireadh an leathanach \"<nowiki>$1</nowiki>\" le do [[Special:Watchlist|liosta faire]].\nAmach anseo liostálfar athruithe don leathanach seo agus dá leathanach plé ansin,\nagus beidh '''cló trom''' ar a theideal san [[Special:RecentChanges|liosta de na hathruithe is déanaí]] sa chaoi go bhfeicfeá iad go héasca."
+
+msgid  "removedwatch"
+msgstr  "Bainte den liosta faire"
+
+msgid  "removedwatchtext"
+msgstr  "Baineadh an leathanach \"[[:$1]]\" as [[Special:Watchlist|do liosta faire]]."
+
+msgid  "watch"
+msgstr  "Déan faire"
+
+msgid  "watchthispage"
+msgstr  "Déan faire ar an leathanach seo"
+
+msgid  "unwatch"
+msgstr  "Ná fair"
+
+msgid  "unwatchthispage"
+msgstr  "Ná fair fós"
+
+msgid  "notanarticle"
+msgstr  "Níl alt ann"
+
+msgid  "notvisiblerev"
+msgstr  "Scriosadh an leagan"
+
+msgid  "watchnochange"
+msgstr  "Níor athraíodh ceann ar bith de na leathanaigh atá ar do liosta faire,\ntaobh istigh den tréimhse atá roghnaithe agat."
+
+msgid  "watchlist-details"
+msgstr  "Tá tú ag faire ar {{PLURAL:$1|leathanach amháin|$1 leathanaigh}}, gan leathanaigh phlé a chur san áireamh."
+
+msgid  "wlheader-enotif"
+msgstr  "* Cumasaíodh fógraí riomhphoist."
+
+msgid  "wlheader-showupdated"
+msgstr  "* Tá '''cló trom''' ar leathanaigh a athraíodh ón uair is deireanaí a d'fhéach tú orthu."
+
+msgid  "watchmethod-recent"
+msgstr  "ag seiceáil na athruithe deireanacha ar do chuid leathanaigh faire"
+
+msgid  "watchmethod-list"
+msgstr  "ag seiceáil na leathanaigh faire ar do chuid athruithe deireanacha"
+
+msgid  "watchlistcontains"
+msgstr  "Tá {{PLURAL:$1|leathanach amháin|$1 leathanaigh}} ar do liosta faire."
+
+msgid  "iteminvalidname"
+msgstr  "Fadhb leis an mír '$1', ainm neamhbhailí..."
+
+msgid  "wlnote"
+msgstr  "Is {{PLURAL:$1|é seo thíos an t-athrú deireanach|iad seo thíos na '''$1''' athruithe deireanacha}} {{PLURAL:$2|san uair deireanach|sna '''$2''' uaire deireanacha}}."
+
+msgid  "wlshowlast"
+msgstr  "Líon na n-uair is déanaí le taispeáint: $1. Líon na laethanta is déanaí le taispeáint: $2. Taispeáin $3."
+
+msgid  "watchlist-options"
+msgstr  "Roghanna don liosta faire"
+
+msgid  "watching"
+msgstr  "Ag faire..."
+
+msgid  "unwatching"
+msgstr  "Á bhaint de do liosta faire..."
+
+msgid  "enotif_mailer"
+msgstr  "Fógrasheoltóir as {{SITENAME}}"
+
+msgid  "enotif_reset"
+msgstr  "Marcáil gach leathanach bheith tadhlaithe"
+
+msgid  "enotif_newpagetext"
+msgstr  "Is leathanach nua é seo."
+
+msgid  "enotif_impersonal_salutation"
+msgstr  "úsáideoir {{SITENAME}}"
+
+msgid  "changed"
+msgstr  "D'athraigh"
+
+msgid  "created"
+msgstr  "Chruthaigh"
+
+msgid  "enotif_subject"
+msgstr  "  $CHANGEDORCREATED $PAGEEDITOR an leathanach $PAGETITLE ag {{SITENAME}}."
+
+msgid  "enotif_lastvisited"
+msgstr  "Féach ar $1 le haghaidh gach athrú a rinneadh ó thús na cuairte seo caite a rinne tú."
+
+msgid  "enotif_anon_editor"
+msgstr  "úsáideoir gan ainm $1"
+
+msgid  "enotif_body"
+msgstr  "A $WATCHINGUSERNAME, a chara,\n\n$CHANGEDORCREATED $PAGEEDITOR an leathanach $PAGETITLE  ag {{SITENAME}} ar $PAGEEDITDATE, féach ar $PAGETITLE_URL chun an leagan reatha a fháil.\n\n$NEWPAGE\n\nAthchoimriú an úsáideora a rinne é: $PAGESUMMARY $PAGEMINOREDIT\n\nSonraí teagmhála an úsáideora:\nr-phost: $PAGEEDITOR_EMAIL\nvicí: $PAGEEDITOR_WIKI\n\nI gcás athruithe eile, ní bheidh aon fhógra eile muna dtéann tú go dtí an leathanach seo.\nIs féidir freisin na bratacha fógartha a athrú do gach leathanach ar do liosta faire.\n\n\t     Is mise le meas,\n\t     Fógrachóras cairdiúil {{GRAMMAR:genitive|{{SITENAME}}}}\n\n--\nChun socruithe do liosta faire a athrú, tabhair cuairt ar\n{{fullurl:Special:Watchlist/edit}}\n\nChun an leathanach a bhaint de do liosta faire, tabhair cuairt ar\n$UNWATCHURL\n\nAiseolas agus a thuilleadh cabhrach:\n{{fullurl:{{MediaWiki:Helppage}}}}"
+
+msgid  "deletepage"
+msgstr  "Scrios an leathanach"
+
+msgid  "confirm"
+msgstr  "Cinntigh"
+
+msgid  "excontent"
+msgstr  "téacs an lch: '$1'"
+
+msgid  "excontentauthor"
+msgstr  "seo a bhí an t-inneachar: '$1' (agus ba é '[[Special:Contributions/$2|$2]]' an t-aon dhréachtóir)"
+
+msgid  "exbeforeblank"
+msgstr  "is é seo a raibh an ábhar roimh an folmhadh: '$1'"
+
+msgid  "exblank"
+msgstr  "bhí an leathanach folamh"
+
+msgid  "delete-confirm"
+msgstr  "Scrios \"$1\""
+
+msgid  "delete-legend"
+msgstr  "Scrios"
+
+msgid  "historywarning"
+msgstr  "'''Rabhadh:''' Tá stair (tuairim is {{PLURAL:$1|leagan amháin|$1 leaganacha}}) ag an leathanach a bhfuil tú ar tí é a scriosadh:"
+
+msgid  "confirmdeletetext"
+msgstr  "Tá tú ar tí leathanach, agus a chuid staire, a scriosadh.\nDeimhnigh, le do thoil, gur mhian leat é seo a dhéanamh, go dtuigeann tú torthaí an ghnímh seo agus go bhfuil tú dá dhéanamh de réir [[{{MediaWiki:Policy-url}}|an pholasaí]]."
+
+msgid  "actioncomplete"
+msgstr  "Gníomh críochnaithe"
+
+msgid  "deletedtext"
+msgstr  "scriosadh \"<nowiki>$1</nowiki>\".\nFéach ar $2 chun cuntas na scriosiadh deireanacha a fháil."
+
+msgid  "deletedarticle"
+msgstr  "scriosadh \"[[$1]]\""
+
+msgid  "dellogpage"
+msgstr  "Loga scriosta"
+
+msgid  "dellogpagetext"
+msgstr  "Seo é liosta de na scriosaidh is déanaí."
+
+msgid  "deletionlog"
+msgstr  "cuntas scriosaidh"
+
+msgid  "reverted"
+msgstr  "Tá eagrán níos luaithe in úsáid anois"
+
+msgid  "deletecomment"
+msgstr  "Fáth:"
+
+msgid  "deleteotherreason"
+msgstr  "Fáth eile/breise:"
+
+msgid  "deletereasonotherlist"
+msgstr  "Fáth eile"
+
+msgid  "deletereason-dropdown"
+msgstr  "*Fáthanna coitianta scriosta\n** Iarratas ón údar\n** Sárú cóipchirt\n** Loitiméireacht"
+
+msgid  "rollback"
+msgstr  "Athruithe a rolladh siar"
+
+msgid  "rollback_short"
+msgstr  "Roll siar"
+
+msgid  "rollbacklink"
+msgstr  "roll siar"
+
+msgid  "rollbackfailed"
+msgstr  "Theip an rolladh siar"
+
+msgid  "cantrollback"
+msgstr  "Ní féidir an athrú a athúsáid; ba é údar an ailt an t-aon duine a rinne athrú dó."
+
+msgid  "alreadyrolled"
+msgstr  "Ní féidir eagrán níos luaí an leathanaigh [[:$1]] le [[User:$2|$2]] ([[User talk:$2|Plé]]{{int:pipe-separator}}[[Special:Contributions/$2|{{int:contribslink}}]]) a athúsáid; d'athraigh duine eile é cheana fein, nó d'athúsáid duine eile eagrán níos luaí cheana féin.\n\n[[User:$3|$3]] ([[User talk:$3|Plé]]{{int:pipe-separator}}[[Special:Contributions/$3|{{int:contribslink}}]]) an té a rinne an athrú is déanaí."
+
+msgid  "editcomment"
+msgstr  "Seo a raibh an achoimre eagarthóireacht: \"''$1''\"."
+
+msgid  "revertpage"
+msgstr  "Cealaíodh athruithe [[Special:Contributions/$2|$2]] ([[User talk:$2|Plé]]); ar ais chuig leagan le [[User:$1|$1]]"
+
+msgid  "protectlogpage"
+msgstr  "Log cosanta"
+
+msgid  "protectlogtext"
+msgstr  "Seo é liosta de glais a cuireadh ar / baineadh de leathanaigh.\nFéach ar [[Special:ProtectedPages|Leathanach glasáilte]] chun a thuilleadh eolais a fháil."
+
+msgid  "protectedarticle"
+msgstr  "glasáladh \"[[$1]]\""
+
+msgid  "modifiedarticleprotection"
+msgstr  "tar éis an leibhéal cosanta a athrú do \"[[$1]]\""
+
+msgid  "unprotectedarticle"
+msgstr  "díghlasáladh \"[[$1]]\""
+
+msgid  "protect-title"
+msgstr  "Ag glasáil \"$1\""
+
+msgid  "prot_1movedto2"
+msgstr  "Athainmníodh $1 mar $2"
+
+msgid  "protect-legend"
+msgstr  "Cinntigh an glasáil"
+
+msgid  "protectcomment"
+msgstr  "Fáth:"
+
+msgid  "protectexpiry"
+msgstr  "As feidhm:"
+
+msgid  "protect_expiry_invalid"
+msgstr  "Am éaga neamhbhailí."
+
+msgid  "protect_expiry_old"
+msgstr  "Am éaga san am atá thart."
+
+msgid  "protect-text"
+msgstr  "Is féidir leat an leibhéal glasála a athrú anseo don leathanach '''<nowiki>$1</nowiki>'''."
+
+msgid  "protect-locked-access"
+msgstr  "Ní chead ag do chuntas chun athraigh leibhéal cosaint an leathanach.\nSeo iad na socruithe reatha faoin leathanach '''$1''':"
+
+msgid  "protect-cascadeon"
+msgstr  "Tá an leathanach seo ghlasáil le athrú mar tá se iniata ar {{PLURAL:$1|an leathanach seo|na leathanaigh seo}} a leanas, agus iad ghlasáil le glasáil cascáideach.\nIs féidir an leibhéal glasála a athrú, ach ní féidir cur isteach ar an ghlasáil cascáideach."
+
+msgid  "protect-default"
+msgstr  "Ceadaigh gach úsáideoir"
+
+msgid  "protect-fallback"
+msgstr  "Ceadúnas \"$1\" riachtanach"
+
+msgid  "protect-level-autoconfirmed"
+msgstr  "Cuir cosc ar úsáideoirí neamhchláraithe/nua"
+
+msgid  "protect-level-sysop"
+msgstr  "Riarthóirí amháin"
+
+msgid  "protect-summary-cascade"
+msgstr  "cascáidithe"
+
+msgid  "protect-expiring"
+msgstr  "as feidhm $1 (UTC)"
+
+msgid  "protect-expiry-indefinite"
+msgstr  "gan teorainn"
+
+msgid  "protect-cascade"
+msgstr  "Coisc leathanaigh san áireamh an leathanach seo (cosanta cascáideach)"
+
+msgid  "protect-cantedit"
+msgstr  "Ní féidir leat na leibhéil cosanta a athrú faoin leathanach seo, mar níl cead agat é a cur in eagar."
+
+msgid  "protect-othertime"
+msgstr  "Am eile:"
+
+msgid  "protect-othertime-op"
+msgstr  "am eile"
+
+msgid  "protect-expiry-options"
+msgstr  "uair amháin:1 hour,lá amháin:1 day,seachtain amháin:1 week,2 sheachtain:2 weeks,mí amháin:1 month,3 mhí:3 months,6 mhí:6 months,bliain amháin:1 year,gan teorainn:infinite"
+
+msgid  "restriction-type"
+msgstr  "Ceadúnas:"
+
+msgid  "restriction-level"
+msgstr  "Leibhéal srianadh:"
+
+msgid  "pagesize"
+msgstr  "(bearta)"
+
+msgid  "restriction-create"
+msgstr  "Cruthaigh"
+
+msgid  "restriction-upload"
+msgstr  "Uaslódaigh"
+
+msgid  "restriction-level-autoconfirmed"
+msgstr  "leathghlasáil"
+
+msgid  "undelete"
+msgstr  "Díscrios leathanach scriosta"
+
+msgid  "undeletepage"
+msgstr  "Féach ar leathanaigh scriosta agus díscrios iad"
+
+msgid  "viewdeletedpage"
+msgstr  "Féach ar leathanaigh scriosta"
+
+msgid  "undeletepagetext"
+msgstr  "Scriosaíodh {{PLURAL:$1|an leathanach|na $1 leathanaigh}} seo a leanas cheana féin, ach tá síad sa cartlann fós agus is féidir iad a dhíscrios.\nÓ am go ham, is féidir an cartlann a fholmhú."
+
+msgid  "undelete-fieldset-title"
+msgstr  "Díscrios leagain"
+
+msgid  "undeleterevisions"
+msgstr  "Cuireadh {{PLURAL:$1|leagan amháin|$1 leagain}} sa chartlann"
+
+msgid  "undeletehistory"
+msgstr  "Dá díscriosfá an leathanach, díscriosfar gach leasú i stair an leathanaigh.\nDá gcruthaíodh leathanach nua leis an teideal céanna ó shin an scriosadh, taispeáinfear na sean-athruithe san stair roimhe seo, agus ní athshuífear leagan láithreach an leathanaigh go huathoibríoch."
+
+msgid  "undeletehistorynoadmin"
+msgstr  "Tá an leathanach seo scriosta.\nAn fáth scriosadh ná a leanas san achoimre faoi bhun, agus le sonraí na úsáideoirí é a chur in eagar roimh scriosadh.\nIs an téacs as na leagan scriosta seo ar fáil do riarthóirí amháin."
+
+msgid  "undelete-revision"
+msgstr  "Leagan scriosta $1 (ó $4, ar $5) le $3:"
+
+msgid  "undeletebtn"
+msgstr  "Díscrios!"
+
+msgid  "undeletelink"
+msgstr  "féach/díscrios"
+
+msgid  "undeletereset"
+msgstr  "Athshocraigh"
+
+msgid  "undeleteinvert"
+msgstr  "Cuir an roghnú bun os cionn"
+
+msgid  "undeletecomment"
+msgstr  "Tuairisc:"
+
+msgid  "undeletedarticle"
+msgstr  "Díscriosadh \"$1\" ar ais"
+
+msgid  "undeletedrevisions"
+msgstr  "{{PLURAL:$1|Leagan amháin|$1 leagain}} díscriosta"
+
+msgid  "undeletedrevisions-files"
+msgstr  "{{PLURAL:$1|Leagan amháin|$1 leagain}} agus {{PLURAL:$2|comhad amháin|$2 comhaid}} a chur ar ais"
+
+msgid  "undeletedfiles"
+msgstr  "{{PLURAL:$1|Comhad amháin|$1 comhaid}} díscriosta"
+
+msgid  "undelete-search-box"
+msgstr  "Cuardaigh leathanaigh scriosta"
+
+msgid  "undelete-search-submit"
+msgstr  "Cuardaigh"
+
+msgid  "namespace"
+msgstr  "Ainmspás:"
+
+msgid  "invert"
+msgstr  "Iompaigh rogha bunoscionn"
+
+msgid  "blanknamespace"
+msgstr  "(Gnáth)"
+
+msgid  "contributions"
+msgstr  "Dréachtaí úsáideora"
+
+msgid  "contributions-title"
+msgstr  "Dréachtaí úsáideora do $1"
+
+msgid  "mycontris"
+msgstr  "Mo chuid dréachtaí"
+
+msgid  "contribsub2"
+msgstr  "Do $1 ($2)"
+
+msgid  "nocontribs"
+msgstr  "Ní bhfuarthas aon athrú a bhí cosúil le na crítéir seo."
+
+msgid  "uctop"
+msgstr  " (barr)"
+
+msgid  "month"
+msgstr  "Ón mhí seo (agus níos luaithe):"
+
+msgid  "year"
+msgstr  "Ón bhliain seo (agus níos luaithe):"
+
+msgid  "sp-contributions-newbies"
+msgstr  "Taispeáin dréachtaí ó chuntais nua amháin"
+
+msgid  "sp-contributions-newbies-sub"
+msgstr  "Le cuntais nua"
+
+msgid  "sp-contributions-newbies-title"
+msgstr  "Dréachtaí úsáideora do chuntasaí nua"
+
+msgid  "sp-contributions-blocklog"
+msgstr  "Log coisc"
+
+msgid  "sp-contributions-deleted"
+msgstr  "dréachtaí úsáideora scriosta"
+
+msgid  "sp-contributions-talk"
+msgstr  "plé"
+
+msgid  "sp-contributions-userrights"
+msgstr  "bainistíocht cearta úsáideora"
+
+msgid  "sp-contributions-search"
+msgstr  "Cuardaigh dréachtaí"
+
+msgid  "sp-contributions-username"
+msgstr  "Seoladh IP nó ainm úsáideora:"
+
+msgid  "sp-contributions-submit"
+msgstr  "Cuardaigh"
+
+msgid  "whatlinkshere"
+msgstr  "Naisc go dtí an lch seo"
+
+msgid  "whatlinkshere-title"
+msgstr  "Naisc chuig $1"
+
+msgid  "whatlinkshere-page"
+msgstr  "Leathanach:"
+
+msgid  "linkshere"
+msgstr  "Tá nasc chuig '''[[:$1]]''' ar na leathanaigh seo a leanas:"
+
+msgid  "nolinkshere"
+msgstr  "Níl leathanach ar bith ann a bhfuil nasc chuig '''[[:$1]]''' air."
+
+msgid  "nolinkshere-ns"
+msgstr  "Níl leathanach ar bith ann san ainmspás roghnaithe a bhfuil nasc chuig '''[[:$1]]''' air."
+
+msgid  "isredirect"
+msgstr  "Leathanach athsheolaidh"
+
+msgid  "istemplate"
+msgstr  "iniamh"
+
+msgid  "isimage"
+msgstr  "nasc íomhá"
+
+msgid  "whatlinkshere-prev"
+msgstr  "{{PLURAL:$1|roimhe|$1 roimhe}}"
+
+msgid  "whatlinkshere-next"
+msgstr  "{{PLURAL:$1|ar aghaidh|$1 ar aghaidh}}"
+
+msgid  "whatlinkshere-links"
+msgstr  "← naisc"
+
+msgid  "whatlinkshere-hideredirs"
+msgstr  "$1 athsheolaidh"
+
+msgid  "whatlinkshere-hidetrans"
+msgstr  "$1 trasiamh"
+
+msgid  "whatlinkshere-hidelinks"
+msgstr  "$1 nasc"
+
+msgid  "whatlinkshere-hideimages"
+msgstr  "$1 nasc íomhá"
+
+msgid  "whatlinkshere-filters"
+msgstr  "Scagairí"
+
+msgid  "blockip"
+msgstr  "Coisc úsáideoir"
+
+msgid  "blockip-legend"
+msgstr  "Coisc úsáideoir"
+
+msgid  "blockiptext"
+msgstr  "Úsáid an foirm anseo thíos chun bealach scríofa a chosc ó\nseoladh IP nó ainm úsáideora áirithe.\nIs féidir leat an rud seo a dhéanamh amháin chun an chreachadóireacht a chosc, de réir\nmar a deirtear sa [[{{MediaWiki:Policy-url}}|polasaí {{GRAMMAR:genitive|{{SITENAME}}}}]].\nLíonaigh cúis áirithe anseo thíos (mar shampla, is féidir leat a luaigh\nleathanaigh áirithe a rinne an duine damáiste ar)."
+
+msgid  "ipaddress"
+msgstr  "Seoladh IP / ainm úsáideora"
+
+msgid  "ipadressorusername"
+msgstr  "Seoladh IP nó ainm úsáideora:"
+
+msgid  "ipbexpiry"
+msgstr  "Am éaga"
+
+msgid  "ipbreason"
+msgstr  "Fáth:"
+
+msgid  "ipbreasonotherlist"
+msgstr  "Fáth eile"
+
+msgid  "ipbreason-dropdown"
+msgstr  "*Fáthanna coitianta\n** Loitiméaracht\n** Naisc turscar\n** Fadhbanna cóipcheart\n** Ag iarraidh ciapadh daoine eile\n** Drochúsáid as cuntais iolrach\n** Fadhbanna idirvicí\n** Feallaire\n** Seachfhreastalaí Oscailte"
+
+msgid  "ipbsubmit"
+msgstr  "Coisc an úsáideoir seo"
+
+msgid  "ipbother"
+msgstr  "Méid eile ama"
+
+msgid  "ipboptions"
+msgstr  "2 uair:2 hours,1 lá amháin:1 day,3 lá:3 days,1 sheachtain amháin:1 week,2 sheachtain:2 weeks,1 mhí amháin:1 month,3 mhí:3 months,6 mhí:6 months,1 bhliain amháin:1 year,gan teorainn:infinite"
+
+msgid  "ipbotheroption"
+msgstr  "eile"
+
+msgid  "badipaddress"
+msgstr  "Níl aon úsáideoir ann leis an ainm seo."
+
+msgid  "blockipsuccesssub"
+msgstr  "D'éirigh leis an cosc"
+
+msgid  "blockipsuccesstext"
+msgstr  "Choisceadh [[Special:Contributions/$1|$1]].\n<br />Féach ar an g[[Special:IPBlockList|liosta coisc IP]] chun coisc a athbhreithniú."
+
+msgid  "ipb-unblock-addr"
+msgstr  "Díchoisc $1"
+
+msgid  "ipb-unblock"
+msgstr  "Díchosc ainm úsáideora ná seoladh IP"
+
+msgid  "unblockip"
+msgstr  "Díchoisc úsáideoir"
+
+msgid  "unblockiptext"
+msgstr  "Úsáid an foirm anseo thíos chun bealach scríofa a thabhairt ar ais do seoladh\nIP nó ainm úsáideora a raibh faoi chosc roimhe seo."
+
+msgid  "ipusubmit"
+msgstr  "Bain an chosc seo"
+
+msgid  "unblocked"
+msgstr  "Díchoisceadh [[User:$1|$1]]"
+
+msgid  "ipblocklist"
+msgstr  "Liosta seoltaí IP agus ainmneacha úsáideoirí coiscthe"
+
+msgid  "ipblocklist-legend"
+msgstr  "Aimsigh úsáideoir coiscthe"
+
+msgid  "ipblocklist-username"
+msgstr  "Ainm úsáideora ná seoladh IP:"
+
+msgid  "ipblocklist-submit"
+msgstr  "Cuardaigh"
+
+msgid  "blocklistline"
+msgstr  "$1, $2 a choisc $3 (am éaga $4)"
+
+msgid  "infiniteblock"
+msgstr  "gan teorainn"
+
+msgid  "anononlyblock"
+msgstr  "úsáideoirí gan ainm agus iad amháin"
+
+msgid  "ipblocklist-empty"
+msgstr  "Tá an liosta coisc folamh."
+
+msgid  "blocklink"
+msgstr  "coisc"
+
+msgid  "unblocklink"
+msgstr  "bain an cosc"
+
+msgid  "change-blocklink"
+msgstr  "athraigh cosc"
+
+msgid  "contribslink"
+msgstr  "dréachtaí"
+
+msgid  "autoblocker"
+msgstr  "Coisceadh go huathoibríoch thú dá bharr gur úsáid an t-úsáideoir \"[[User:$1|$1]]\" do sheoladh IP le déanaí.\nIs é seo an chúis don chosc ar $1: \"$2\"."
+
+msgid  "blocklogpage"
+msgstr  "Cuntas_coisc"
+
+msgid  "blocklogentry"
+msgstr  "coisceadh [[$1]]; am éaga $2. $3"
+
+msgid  "blocklogtext"
+msgstr  "Seo é cuntas de gníomhartha coisc úsáideoirí agus míchoisc úsáideoirí. Ní cuirtear\nseoltaí IP a raibh coiscthe go huathoibríoch ar an liosta seo. Féach ar an\n[[Special:IPBlockList|Liosta coisc IP]] chun\nliosta a fháil de coisc atá i bhfeidhm faoi láthair."
+
+msgid  "unblocklogentry"
+msgstr  "díchoisceadh $1"
+
+msgid  "block-log-flags-nocreate"
+msgstr  "cuntas chruthú díchumasaithe"
+
+msgid  "block-log-flags-noemail"
+msgstr  "cosc ar ríomhphost"
+
+msgid  "range_block_disabled"
+msgstr  "Faoi láthair, míchumasaítear an cumas riarthóra chun réimsechoisc a dhéanamh."
+
+msgid  "ipb_expiry_invalid"
+msgstr  "Am éaga neamhbhailí."
+
+msgid  "ipb_already_blocked"
+msgstr  "Tá cosc ar \"$1\" cheana féin"
+
+msgid  "ip_range_invalid"
+msgstr  "Réimse IP neamhbhailí."
+
+msgid  "proxyblocker"
+msgstr  "Cosc ar seachfhreastalaithe"
+
+msgid  "proxyblockreason"
+msgstr  "Coisceadh do sheoladh IP dá bharr gur seachfhreastalaí\nneamhshlándála is ea é. Déan teagmháil le do chomhlacht idirlín nó le do lucht cabhrach teicneolaíochta\ngo mbeidh 'fhios acu faoin fadhb slándála tábhachtach seo."
+
+msgid  "proxyblocksuccess"
+msgstr  "Rinneadh."
+
+msgid  "sorbsreason"
+msgstr  "Liostalaítear do sheoladh IP mar sheachfhreastalaí oscailte sa DNSBL."
+
+msgid  "lockdb"
+msgstr  "Glasáil an bunachar sonraí"
+
+msgid  "unlockdb"
+msgstr  "Díghlasáil bunachar sonraí"
+
+msgid  "lockdbtext"
+msgstr  "Dá nglasálfá an bunachar sonraí, ní beidh cead ar aon úsáideoir\nleathanaigh a chur in eagar, a socruithe a athrú, a liostaí faire a athrú, nó rudaí eile a thrachtann le\nathruithe san bunachar sonraí.\nCinntigh go bhfuil an scéal seo d'intinn agat, is go díghlasálfaidh tú an bunachar sonraí nuair a bhfuil\ndo chuid cothabháile críochnaithe."
+
+msgid  "unlockdbtext"
+msgstr  "Dá díghlasálfá an bunachar sonraí, beidh ceat ag gach úsáideoirí aris\nna leathanaigh a chur in eagar, a sainroghanna a athrú, a liostaí faire a athrú, agus rudaí eile\na dhéanamh a thrachtann le athruithe san bunachar sonraí.\nCinntigh go bhfuil an scéal seo d'intinn agat."
+
+msgid  "lockconfirm"
+msgstr  "Sea, is mian liom an bunachar sonraí a ghlasáil."
+
+msgid  "unlockconfirm"
+msgstr  "Sea, is mian liom an bunachar sonraí a dhíghlasáil."
+
+msgid  "lockbtn"
+msgstr  "Glasáil an bunachar sonraí"
+
+msgid  "unlockbtn"
+msgstr  "Díghlasáil an bunachar sonraí"
+
+msgid  "locknoconfirm"
+msgstr  "Níor mharcáil tú an bosca daingnithe."
+
+msgid  "lockdbsuccesssub"
+msgstr  "D'éirigh le glasáil an bhunachair sonraí"
+
+msgid  "unlockdbsuccesssub"
+msgstr  "D'éirigh le díghlasáil an bhunachair sonraí"
+
+msgid  "lockdbsuccesstext"
+msgstr  "Glasáladh an bunachar sonraí {{GRAMMAR:genitive|{{SITENAME}}}}.\n<br />Cuimhnigh nach mór duit é a dhíghlasáil tar éis do chuid cothabháil."
+
+msgid  "unlockdbsuccesstext"
+msgstr  "Díghlasáladh an bunachar sonraí {{GRAMMAR:genitive|{{SITENAME}}}}."
+
+msgid  "databasenotlocked"
+msgstr  "Níl an bunachar sonraí faoi ghlas."
+
+msgid  "move-page"
+msgstr  "Athainmnigh $1"
+
+msgid  "move-page-legend"
+msgstr  "Athainmnigh an leathanach"
+
+msgid  "movepagetext"
+msgstr  "Úsáid an fhoirm seo thíos chun leathanach a athainmniú. Aistreofar a chuid staire go léir chuig an teideal nua.\nDéanfar leathanach atreoraithe den sean-teideal chuig an teideal nua.\nIs féidir atreoruithe don bhunteideal a nuashonrú go huathoibríoch.\nMura ndéanfaidh tú sin, bí cinnte go ndéanfaidh tú cuardach ar atreoruithe [[Special:DoubleRedirects|dúbailte]] nó [[Special:BrokenRedirects|briste]].\nTá dualgas ort bheith cinnte go rachaidh na naisc chuig an áit is ceart.\n\nTabhair faoi deara '''nach''' n-athainmneofar an leathanach má tá leathanach ann cheana féin faoin teideal nua, ach amháin más folamh nó atreorú é nó mura bhfuil aon stair athraithe aige cheana.\nMar sin, is féidir leathanach a athainmniú ar ais chuig an teideal a raibh air roimhe má tá botún déanta agat, agus ní féidir leathanach atá ann cheana a fhorscríobh.\n\n<font color=\"red\">'''Rabhadh!'''</font>\nIs féidir gur dianbheart gan choinne é athrú a dhéanamh ar leathanach móréilimh;\ncinntigh go dtuigeann tú na hiarmhairtí go léir roimh dul ar aghaigh."
+
+msgid  "movepagetalktext"
+msgstr  "Aistreofar an leathanach plé go huathoibríoch '''ach ní tharlófar sin''':\n* má tá leathanach plé neamhfholamh ann cheana leis an teideal nua, nó\n* má bhaineann tú an tic den bhosca thíos.\n\nSna cásanna sin, caithfidh tú an leathanach a aistrigh nó a chumasc tú féin más maith leat."
+
+msgid  "movearticle"
+msgstr  "Athainmnigh an leathanach"
+
+msgid  "movenologin"
+msgstr  "Níl tú logáilte isteach"
+
+msgid  "movenologintext"
+msgstr  "Ní mór duit bheith i d'úsáideoir cláraithe agus [[Special:UserLogin|logáilte isteach]] chun leathanach a hathainmniú."
+
+msgid  "movenotallowed"
+msgstr  "Níl cead agat leathanaigh a athainmniú."
+
+msgid  "newtitle"
+msgstr  "Go teideal nua"
+
+msgid  "move-watch"
+msgstr  "Déan faire an leathanach seo"
+
+msgid  "movepagebtn"
+msgstr  "Athainmnigh an leathanach"
+
+msgid  "pagemovedsub"
+msgstr  "D'éirigh leis an athainmniú"
+
+msgid  "movepage-moved"
+msgstr  "'''Athainmníodh \"$1\" mar \"$2\"'''"
+
+msgid  "articleexists"
+msgstr  "Tá leathanach leis an teideal seo ann cheana féin, nó níl an teideal a roghnaigh tú ina theideal bailí. Roghnaigh teideal eile le do thoil."
+
+msgid  "talkexists"
+msgstr  "'''D’athainmníodh an leathanach é féin go rathúil, ach ní raibh sé ar a chumas an leathanach phlé a hathainmniú dá bharr go bhfuil ceann ann cheana féin ag an teideal nua.'''<br />\n'''Báigh tusa féin iad.'''"
+
+msgid  "movedto"
+msgstr  "athainmnithe bheith"
+
+msgid  "movetalk"
+msgstr  "Athainmnigh an leathanach plé freisin."
+
+msgid  "1movedto2"
+msgstr  "tar éis [[$1]] a athainmniú mar [[$2]]"
+
+msgid  "1movedto2_redir"
+msgstr  "rinneadh athsheoladh de [[$1]] go [[$2]]"
+
+msgid  "movelogpage"
+msgstr  "Log athainmnithe"
+
+msgid  "movelogpagetext"
+msgstr  "Liosta is ea seo thíos de leathanaigh athainmnithe."
+
+msgid  "movereason"
+msgstr  "Fáth:"
+
+msgid  "revertmove"
+msgstr  "athúsáid"
+
+msgid  "delete_and_move"
+msgstr  "Scrios agus athainmnigh"
+
+msgid  "delete_and_move_text"
+msgstr  "==Tá scriosadh riachtanach==\nTá an leathanach sprice (\"[[:$1]]\") ann cheana féin.\nAr mhaith leat é a scriosadh chun áit a dhéanamh don athainmniú?"
+
+msgid  "delete_and_move_confirm"
+msgstr  "Tá, scrios an leathanach"
+
+msgid  "delete_and_move_reason"
+msgstr  "Scriosta chun áit a dhéanamh d'athainmniú"
+
+msgid  "selfmove"
+msgstr  "Tá an ainm céanna ag an bhfoinse mar atá ar an ainm sprice; ní féidir leathanach a athainmniú bheith é féin."
+
+msgid  "export"
+msgstr  "Easportáil leathanaigh"
+
+msgid  "exporttext"
+msgstr  "Is féidir an téacs agus an stair athraithe de leathanach áirithe nó sraith leathanach a easpórtáil, fillte i bpíosa XML.\nIs féidir é seo a iompórtáil i vicí eile MediaWiki trí úsáid an [[Special:Import|leathanach iompórtála]].\n\nChun leathanaigh a easpórtáil, cuir isteach na teidil sa bhosca thíos, gach teideal ar a líne féin, agus roghnaigh an leagan reatha in éineacht leis na sean-leaganacha agus stair an leathanaigh, nó an leagan reatha in éineacht le faisnéis faoin athrú deireanach.\n\nSa dara cás, is féidir leat nasc a úsáid, mar shampla [[{{#Special:Export}}/{{MediaWiki:Mainpage}}]] le haghaidh an leathanaigh \"[[{{MediaWiki:Mainpage}}]]\"."
+
+msgid  "exportcuronly"
+msgstr  "Ná cuir san áireamh ach an leagan láithreach; ná cuir an stair iomlán ann"
+
+msgid  "export-submit"
+msgstr  "Easportáil"
+
+msgid  "export-download"
+msgstr  "Sábháil mar comhad"
+
+msgid  "allmessages"
+msgstr  "Teachtaireachtaí córais"
+
+msgid  "allmessagesname"
+msgstr  "Ainm"
+
+msgid  "allmessagesdefault"
+msgstr  "Téacs réamhshocraithe"
+
+msgid  "allmessagescurrent"
+msgstr  "Téacs reatha"
+
+msgid  "allmessagestext"
+msgstr  "Is liosta é seo de theachtaireachtaí córais atá le fáil san ainmspás MediaWiki.\nTabhair cuairt ar [http://www.mediawiki.org/wiki/Localisation MediaWiki Localisation] agus [http://translatewiki.net translatewiki.net] le do thoil más mian leat cur leis an logánú ginearálta MediaWiki."
+
+msgid  "allmessagesnotsupportedDB"
+msgstr  "Ní féidir an leathanach seo a úsáid dá bharr gur díchumasaíodh '''$wgUseDatabaseMessages'''."
+
+msgid  "thumbnail-more"
+msgstr  "Méadaigh"
+
+msgid  "filemissing"
+msgstr  "Comhad ar iarraidh"
+
+msgid  "thumbnail_error"
+msgstr  "Earráid agus mionsamhail a chruthú: $1"
+
+msgid  "import"
+msgstr  "Iompórtáil leathanaigh"
+
+msgid  "importinterwiki"
+msgstr  "Iompórtáil trasna vicithe"
+
+msgid  "import-interwiki-submit"
+msgstr  "iompórtáil"
+
+msgid  "importtext"
+msgstr  "Easportáil an comhad ón vici-fhoinse (le húsáid na [[Special:Export|tréithe easportáil]]), sábháil ar do dhíosca é agus uaslódáil anseo é."
+
+msgid  "import-revision-count"
+msgstr  "{{PLURAL:$1|Leagan amháin|$1 leagain}}"
+
+msgid  "importnopages"
+msgstr  "Níl aon leathanaigh chun iompórtáil"
+
+msgid  "importfailed"
+msgstr  "Theip ar an iompórtáil: $1"
+
+msgid  "importnotext"
+msgstr  "Folamh nó gan téacs"
+
+msgid  "importsuccess"
+msgstr  "D'eirigh leis an iompórtáil!"
+
+msgid  "importhistoryconflict"
+msgstr  "Tá stair athraithe contrártha ann cheana féin (is dócha go\nuaslódáladh an leathanach seo roimh ré)"
+
+msgid  "importnosources"
+msgstr  "Níl aon fhoinse curtha i leith d'iompórtáil trasna vicíonna, agus\nní féidir uaslódála staire díreacha a dhéanamh faoi láthair."
+
+msgid  "xml-error-string"
+msgstr  "$1 ag líne $2, col $3 ($4 bearta): $5"
+
+msgid  "import-upload"
+msgstr  "Uaslódaigh sonraí XML"
+
+msgid  "import-token-mismatch"
+msgstr  "Sonraí seisiún a bheith caillte. Déan iarracht arís."
+
+msgid  "importlogpage"
+msgstr  "Log iompórtáil"
+
+msgid  "import-logentry-interwiki"
+msgstr  "traisvicithe $1"
+
+msgid  "tooltip-pt-userpage"
+msgstr  "Do leathanach úsáideora"
+
+msgid  "tooltip-pt-anonuserpage"
+msgstr  "Leathanach úsáideora don IP ina dhéanann tú do chuid athruithe"
+
+msgid  "tooltip-pt-mytalk"
+msgstr  "Do leathanach phlé"
+
+msgid  "tooltip-pt-anontalk"
+msgstr  "Plé maidir le na hathruithe a dhéantar ón seoladh IP seo"
+
+msgid  "tooltip-pt-preferences"
+msgstr  "Mo chuid sainroghanna"
+
+msgid  "tooltip-pt-watchlist"
+msgstr  "Liosta de na leathanaigh a bhfuil tú á bhfaire ar athruithe"
+
+msgid  "tooltip-pt-mycontris"
+msgstr  "Liosta do chuid dréachtaí"
+
+msgid  "tooltip-pt-login"
+msgstr  "Moltar duit logáil isteach, ach níl sé riachtanach."
+
+msgid  "tooltip-pt-anonlogin"
+msgstr  "Moltar duit logáil isteach, ach níl sé riachtanach."
+
+msgid  "tooltip-pt-logout"
+msgstr  "Logáil amach"
+
+msgid  "tooltip-ca-talk"
+msgstr  "Plé maidir leis an leathanach ábhair"
+
+msgid  "tooltip-ca-edit"
+msgstr  "Is féidir leat an leathanach seo a athrú. Más é do thoil é, bain úsáid as an cnaipe réamhamhairc roimh sábháil a dhéanamh."
+
+msgid  "tooltip-ca-addsection"
+msgstr  "Cur tús le alt nua"
+
+msgid  "tooltip-ca-viewsource"
+msgstr  "Tá an leathanach seo glasáilte. Is féidir leat a fhoinse a fheiceáil."
+
+msgid  "tooltip-ca-history"
+msgstr  "Leagain stairiúla den leathanach seo."
+
+msgid  "tooltip-ca-protect"
+msgstr  "Glasáil an leathanach seo"
+
+msgid  "tooltip-ca-delete"
+msgstr  "Scrios an leathanach seo"
+
+msgid  "tooltip-ca-undelete"
+msgstr  "Díscrios na hathruithe a rinneadh don leathanach seo roimh a scriosadh é"
+
+msgid  "tooltip-ca-move"
+msgstr  "Athainmnigh an leathanach"
+
+msgid  "tooltip-ca-watch"
+msgstr  "Cuir an leathanach seo le do liosta faire"
+
+msgid  "tooltip-ca-unwatch"
+msgstr  "Bain an leathanach seo de do liosta faire"
+
+msgid  "tooltip-search"
+msgstr  "Cuardaigh sa vicí seo"
+
+msgid  "tooltip-search-go"
+msgstr  "Téigh chuig leathanach den ainm cruinn seo má tá sé ann"
+
+msgid  "tooltip-search-fulltext"
+msgstr  "Cuardaigh an téacs seo sna leathanaigh"
+
+msgid  "tooltip-p-logo"
+msgstr  "Príomhleathanach"
+
+msgid  "tooltip-n-mainpage"
+msgstr  "Tabhair cuairt ar an bPríomhleathanach"
+
+msgid  "tooltip-n-mainpage-description"
+msgstr  "Tabhair cuairt ar an bpríomhleathanach"
+
+msgid  "tooltip-n-portal"
+msgstr  "Maidir leis an tionscadal, cad is féidir leat a dhéanamh, conas achmhainní a fháil"
+
+msgid  "tooltip-n-currentevents"
+msgstr  "Faigh eolas cúlrach maidir le chursaí reatha"
+
+msgid  "tooltip-n-recentchanges"
+msgstr  "Liosta de na hathruithe is déanaí sa vicí."
+
+msgid  "tooltip-n-randompage"
+msgstr  "Lódáil leathanach fánach"
+
+msgid  "tooltip-n-help"
+msgstr  "An áit chun cabhair a fháil."
+
+msgid  "tooltip-t-whatlinkshere"
+msgstr  "Liosta de gach leathanach sa vicí ina bhfuil nasc chuig an leathanach seo"
+
+msgid  "tooltip-t-recentchangeslinked"
+msgstr  "Na hathruithe is déanaí ar leathanaigh a nascaíonn chuig an leathanach seo"
+
+msgid  "tooltip-feed-rss"
+msgstr  "Fotha RSS don leathanach seo"
+
+msgid  "tooltip-feed-atom"
+msgstr  "Fotha Atom don leathanach seo"
+
+msgid  "tooltip-t-contributions"
+msgstr  "Féach ar an liosta dréachtaí a rinne an t-úsáideoir seo"
+
+msgid  "tooltip-t-emailuser"
+msgstr  "Cuir teachtaireacht chuig an úsáideoir seo"
+
+msgid  "tooltip-t-upload"
+msgstr  "Comhaid íomhá nó meáin a uaslódáil"
+
+msgid  "tooltip-t-specialpages"
+msgstr  "Liosta de gach leathanach speisialta"
+
+msgid  "tooltip-t-print"
+msgstr  "Leagan inphriontáilte an leathanaigh seo"
+
+msgid  "tooltip-t-permalink"
+msgstr  "Nasc buan do leasú seo an leathanaigh"
+
+msgid  "tooltip-ca-nstab-main"
+msgstr  "Féach ar an leathanach ábhair"
+
+msgid  "tooltip-ca-nstab-user"
+msgstr  "Féach ar an leathanach úsáideora"
+
+msgid  "tooltip-ca-nstab-media"
+msgstr  "Féach ar an leathanach meáin"
+
+msgid  "tooltip-ca-nstab-special"
+msgstr  "Is leathanach speisialta é seo, ní féidir leat an leathanach é fhéin a athrú."
+
+msgid  "tooltip-ca-nstab-project"
+msgstr  "Féach ar an leathanach thionscadail"
+
+msgid  "tooltip-ca-nstab-image"
+msgstr  "Féach ar an leathanach íomhá"
+
+msgid  "tooltip-ca-nstab-mediawiki"
+msgstr  "Féach ar an teachtaireacht córais"
+
+msgid  "tooltip-ca-nstab-template"
+msgstr  "Féach ar an teimpléad"
+
+msgid  "tooltip-ca-nstab-help"
+msgstr  "Féach ar an leathanach cabhrach"
+
+msgid  "tooltip-ca-nstab-category"
+msgstr  "Féach ar an leathanach catagóire"
+
+msgid  "tooltip-minoredit"
+msgstr  "Déan mionathrú den athrú seo"
+
+msgid  "tooltip-save"
+msgstr  "Sábháil do chuid athruithe"
+
+msgid  "tooltip-preview"
+msgstr  "Réamhamharc ar do chuid athruithe; úsáid an gné seo roimh a shábhálaíonn tú!"
+
+msgid  "tooltip-diff"
+msgstr  "Taispeáin na difríochtaí áirithe a rinne tú don téacs"
+
+msgid  "tooltip-compareselectedversions"
+msgstr  "Féach na difríochtaí idir an dhá leagain roghnaithe den leathanach seo."
+
+msgid  "tooltip-watch"
+msgstr  "Cuir an leathanach seo le do liosta faire"
+
+msgid  "tooltip-undo"
+msgstr  "Cuirtear \"Cealaigh\" an t-athrú seo ar cheal agus osclaítear an fhoirm eagair i mód réamhamhairc. Is féidir cúis na hathruithe a chur san achoimre."
+
+msgid  "monobook.css"
+msgstr  "/* athraigh an comhad seo chun an craiceann MonoBook a athrú don suíomh ar fad */"
+
+msgid  "nodublincore"
+msgstr  "Míchumasaítear meitea-shonraí Dublin Core RDF ar an freastalaí seo."
+
+msgid  "nocreativecommons"
+msgstr  "Míchumasaítear meitea-shonraí Creative Commons RDF ar an freastalaí seo."
+
+msgid  "notacceptable"
+msgstr  "Ní féidir leis an freastalaí vicí na sonraí a chur ar fáil i bhformáid atá inléite ag do chliant."
+
+msgid  "anonymous"
+msgstr  "{{PLURAL:$1|Úsáideoir|Úsáideoirí}} gan ainm ar {{SITENAME}}"
+
+msgid  "siteuser"
+msgstr  "Úsáideoir $1 ag {{SITENAME}}"
+
+msgid  "lastmodifiedatby"
+msgstr  "Leasaigh $3 an leathanach seo go déanaí ag $2, $1."
+
+msgid  "othercontribs"
+msgstr  "Bunaithe ar saothair le $1."
+
+msgid  "others"
+msgstr  "daoine eile"
+
+msgid  "siteusers"
+msgstr  "{{PLURAL:$2|Úsáideoirí|Úsáideoir}} ag {{SITENAME}} $1"
+
+msgid  "creditspage"
+msgstr  "Creidiúintí leathanaigh"
+
+msgid  "nocredits"
+msgstr  "Níl aon eolas creidiúna le fáil don leathanach seo."
+
+msgid  "spamprotectiontitle"
+msgstr  "Scagaire in aghaidh ríomhphost dramhála"
+
+msgid  "spamprotectiontext"
+msgstr  "Chuir an scagaire dramhála bac ar an leathanach a raibh tú ar\niarradh sábháil. Is dócha gur nasc chuig suíomh seachtrach ba chúis leis."
+
+msgid  "spamprotectionmatch"
+msgstr  "Truicear ár scagaire dramhála ag an téacs seo a leanas: $1"
+
+msgid  "spambot_username"
+msgstr  "MediaWiki turscar glanadh"
+
+msgid  "infosubtitle"
+msgstr  "Eolas don leathanach"
+
+msgid  "numedits"
+msgstr  "Méid athruithe (alt): $1"
+
+msgid  "numtalkedits"
+msgstr  "Méid athruithe (leathanach phlé): $1"
+
+msgid  "numwatchers"
+msgstr  "Méid féachnóirí: $1"
+
+msgid  "numauthors"
+msgstr  "Méid údair ar leith (alt): $1"
+
+msgid  "numtalkauthors"
+msgstr  "Méid údair ar leith (leathanach phlé): $1"
+
+msgid  "skinname-standard"
+msgstr  "Clasaiceach"
+
+msgid  "skinname-nostalgia"
+msgstr  "Sean-nós"
+
+msgid  "skinname-cologneblue"
+msgstr  "Gorm Köln"
+
+msgid  "skinname-monobook"
+msgstr  "MonoBook"
+
+msgid  "skinname-myskin"
+msgstr  "MoChraiceann"
+
+msgid  "skinname-chick"
+msgstr  "Sicín"
+
+msgid  "skinname-simple"
+msgstr  "Simplí"
+
+msgid  "skinname-modern"
+msgstr  "Nua-aimseartha"
+
+msgid  "skinname-vector"
+msgstr  "Veicteoir"
+
+msgid  "mw_math_png"
+msgstr  "Déan PNG-íomhá gach uair"
+
+msgid  "mw_math_simple"
+msgstr  "Déan HTML má tá sin an-easca, nó PNG ar mhodh eile"
+
+msgid  "mw_math_html"
+msgstr  "Déan HTML más féidir, nó PNG ar mhodh eile"
+
+msgid  "mw_math_source"
+msgstr  "Fág mar cló TeX (do teacsleitheoirí)"
+
+msgid  "mw_math_modern"
+msgstr  "Inmholta do bhrabhsálaithe nua"
+
+msgid  "mw_math_mathml"
+msgstr  "MathML más féidir (turgnamhach)"
+
+msgid  "math_failure"
+msgstr  "Theip ó anailís na foirmle"
+
+msgid  "math_unknown_error"
+msgstr  "earráid anaithnid"
+
+msgid  "math_unknown_function"
+msgstr  "foirmle anaithnid"
+
+msgid  "math_lexing_error"
+msgstr  "Theip ó anailís an fhoclóra"
+
+msgid  "math_syntax_error"
+msgstr  "earráid comhréire"
+
+msgid  "math_image_error"
+msgstr  "Theip ó aistriú an PNG; tástáil má tá na ríomh-oidis latex, dvips, gs, agus convert i suite go maith."
+
+msgid  "math_bad_tmpdir"
+msgstr  "Ní féidir scríobh chuig an fillteán mata sealadach, nó é a chruthú"
+
+msgid  "math_bad_output"
+msgstr  "Ní féidir scríobh chuig an fillteán mata aschomhaid, nó é a chruthú"
+
+msgid  "math_notexvc"
+msgstr  "Níl an ríomhchlár texvc ann; féach ar mata/EOLAIS chun é a sainathrú."
+
+msgid  "markaspatrolleddiff"
+msgstr  "Comharthaigh mar patrólta."
+
+msgid  "markaspatrolledtext"
+msgstr  "Comharthaigh an t-alt seo mar patrólta"
+
+msgid  "markedaspatrolled"
+msgstr  "Comharthaithe mar patrólta"
+
+msgid  "markedaspatrolledtext"
+msgstr  "Marcáladh an t-athrú roghnaithe de [[:$1]] \"patrólaithe\"."
+
+msgid  "rcpatroldisabled"
+msgstr  "Mhíchumasaíodh Patról na n-Athruithe is Déanaí"
+
+msgid  "rcpatroldisabledtext"
+msgstr  "Tá an tréith Patról na n-Athruithe is Déanaí míchumasaithe faoi láthair."
+
+msgid  "patrol-log-page"
+msgstr  "Log phatról"
+
+msgid  "patrol-log-auto"
+msgstr  "(uathoibríoch)"
+
+msgid  "log-show-hide-patrol"
+msgstr  "$1 log phatról"
+
+msgid  "deletedrevision"
+msgstr  "Scriosadh an seanleagan $1"
+
+msgid  "filedeleteerror-short"
+msgstr  "Earráid comhad a scriosadh: $1"
+
+msgid  "previousdiff"
+msgstr  "← Gabh chuig an difear roimhe seo"
+
+msgid  "nextdiff"
+msgstr  "An chéad dhifear eile →"
+
+msgid  "mediawarning"
+msgstr  "'''Rabhadh''': Tá seans ann go bhfuil cód mailíseach sa chineál comhaid seo.\nB'fheidir go gcuirfear do chóras i gcontúirt dá rithfeá é."
+
+msgid  "imagemaxsize"
+msgstr  "Teorainn mhéid íomhá:<br />''(leathanaigh thuarascáil chomhaid)''"
+
+msgid  "thumbsize"
+msgstr  "Méid mionsamhlacha:"
+
+msgid  "file-info"
+msgstr  "méid comhad : $1, saghas MIME: $2"
+
+msgid  "file-info-size"
+msgstr  "$1 × $2 picteilín, méid comhaid: $3, cineál MIME: $4"
+
+msgid  "file-nohires"
+msgstr  "<small>Níl aon taifeach is mó ar fáil.</small>"
+
+msgid  "svg-long-desc"
+msgstr  "Comhad SVG, ainmniúil $1 × $2 picteilíni, méid comhaid: $3"
+
+msgid  "show-big-image"
+msgstr  "Taispeáin leagan ardtaifigh den íomhá"
+
+msgid  "show-big-image-thumb"
+msgstr  "<small>Méid an réamhamhairc seo: $1 × $2 picteilín</small>"
+
+msgid  "newimages"
+msgstr  "Gailearaí na n-íomhánna nua"
+
+msgid  "imagelisttext"
+msgstr  "Tá liosta thíos de {{PLURAL:$1|comhad amháin|$1 comhaid $2}}."
+
+msgid  "newimages-label"
+msgstr  "Comhadainm (nó cuid de):"
+
+msgid  "showhidebots"
+msgstr  "($1 róbónna)"
+
+msgid  "noimages"
+msgstr  "Tada le feiceáil."
+
+msgid  "ilsubmit"
+msgstr  "Cuardaigh"
+
+msgid  "bydate"
+msgstr  "de réir dáta"
+
+msgid  "sp-newimages-showfrom"
+msgstr  "Taispeáin íomhánna nua as $2, $1"
+
+msgid  "bad_image_list"
+msgstr  "An formáid ná a leanas:\n\nMíreanna liosta amháin (líonta a tosú le *) atá eisithe.\nTá ar an chead nasc ar líne, naiscthe le drochchomhad.\nAon naisc a leanas ar an líne céanna atá eisithe mar eisceachtaí; leathanaigh ina tarlaigh an comhad inlíne."
+
+msgid  "metadata"
+msgstr  "Meiteasonraí"
+
+msgid  "metadata-help"
+msgstr  "Tá breis eolais sa comhad seo, curtha, is dócha, as ceamara digiteach ná scanóir a chruthaigh ná a digitigh é.\nMá tá an comhad mionathraithe as an bunleagan, b'fhéidir nach mbeidh ceann de na sonraí fágtha sa comhad atá athruithe."
+
+msgid  "metadata-expand"
+msgstr  "Taispeáin sonraí síneadh"
+
+msgid  "metadata-collapse"
+msgstr  "Folaigh sonraí síneadh"
+
+msgid  "metadata-fields"
+msgstr  "Beidh meiteasonraí EXIF atá liosta sa teachtaireacht seo san áireamh ar an leathanach íomhá nuair ata an clár meiteasonraí ceilte.\nBeidh na cinn eile ceilte de réir réamhshocraithe.\n* make\n* model\n* datetimeoriginal\n* exposuretime\n* fnumber\n* isospeedratings\n* focallength"
+
+msgid  "exif-imagewidth"
+msgstr  "Leithead"
+
+msgid  "exif-imagelength"
+msgstr  "Airde"
+
+msgid  "exif-bitspersample"
+msgstr  "Gíotáin sa chomhpháirt"
+
+msgid  "exif-compression"
+msgstr  "Scéim comhbhrúite"
+
+msgid  "exif-photometricinterpretation"
+msgstr  "Comhbhrú picteilíní"
+
+msgid  "exif-orientation"
+msgstr  "Treoshuíomh"
+
+msgid  "exif-samplesperpixel"
+msgstr  "Líon na gcomhpháirt"
+
+msgid  "exif-planarconfiguration"
+msgstr  "Eagar na sonraí"
+
+msgid  "exif-ycbcrsubsampling"
+msgstr  "Cóimheas foshamplála de Y i gcoinne C"
+
+msgid  "exif-ycbcrpositioning"
+msgstr  "Suí Y agus C"
+
+msgid  "exif-xresolution"
+msgstr  "Taifeach íomhá i dtreo an leithid"
+
+msgid  "exif-yresolution"
+msgstr  "Taifeach íomhá i dtreo an airde"
+
+msgid  "exif-resolutionunit"
+msgstr  "Aonad an taifigh X agus Y"
+
+msgid  "exif-stripoffsets"
+msgstr  "Suíomh na sonraí íomhá"
+
+msgid  "exif-rowsperstrip"
+msgstr  "Líon na rónna sa stráice"
+
+msgid  "exif-stripbytecounts"
+msgstr  "Bearta sa stráice comhbhrúite"
+
+msgid  "exif-jpeginterchangeformat"
+msgstr  "Aischló don SOI JPEG"
+
+msgid  "exif-jpeginterchangeformatlength"
+msgstr  "Bearta sonraí JPEG"
+
+msgid  "exif-transferfunction"
+msgstr  "Feidhm aistrithe"
+
+msgid  "exif-whitepoint"
+msgstr  "Crómatacht na bpointí bán"
+
+msgid  "exif-primarychromaticities"
+msgstr  "Crómatachta na bpríomhacht"
+
+msgid  "exif-ycbcrcoefficients"
+msgstr  "Comhéifeachtaí mhaitrís trasfhoirmithe an dathspáis"
+
+msgid  "exif-referenceblackwhite"
+msgstr  "Péire luachanna tagartha don dubh is don bán"
+
+msgid  "exif-datetime"
+msgstr  "Dáta agus am athrú an chomhaid"
+
+msgid  "exif-imagedescription"
+msgstr  "Íomhátheideal"
+
+msgid  "exif-make"
+msgstr  "Déantóir an ceamara"
+
+msgid  "exif-model"
+msgstr  "Déanamh an ceamara"
+
+msgid  "exif-software"
+msgstr  "Na bogearraí a úsáideadh"
+
+msgid  "exif-artist"
+msgstr  "Údar"
+
+msgid  "exif-copyright"
+msgstr  "Úinéir an chóipchirt"
+
+msgid  "exif-exifversion"
+msgstr  "Leagan EXIF"
+
+msgid  "exif-flashpixversion"
+msgstr  "Leagan Flashpix atá á thacú"
+
+msgid  "exif-colorspace"
+msgstr  "Dathspás"
+
+msgid  "exif-componentsconfiguration"
+msgstr  "Ciall le gach giota"
+
+msgid  "exif-compressedbitsperpixel"
+msgstr  "Modh chomhbhrú na n-íomhánna"
+
+msgid  "exif-pixelydimension"
+msgstr  "Leithead bailí don íomhá"
+
+msgid  "exif-pixelxdimension"
+msgstr  "Airde bailí don íomhá"
+
+msgid  "exif-makernote"
+msgstr  "Nótaí an déantóra"
+
+msgid  "exif-usercomment"
+msgstr  "Nótaí an úsáideora"
+
+msgid  "exif-relatedsoundfile"
+msgstr  "comhad gaolmhara fuaime"
+
+msgid  "exif-datetimeoriginal"
+msgstr  "Dáta agus am ghiniúint na sonraí"
+
+msgid  "exif-datetimedigitized"
+msgstr  "Dáta agus am digitithe"
+
+msgid  "exif-subsectime"
+msgstr  "Foshoicindí DateTime"
+
+msgid  "exif-subsectimeoriginal"
+msgstr  "Foshoicindí DateTimeOriginal"
+
+msgid  "exif-subsectimedigitized"
+msgstr  "Foshoicindí DateTimeDigitized"
+
+msgid  "exif-exposuretime"
+msgstr  "Am nochta"
+
+msgid  "exif-exposuretime-format"
+msgstr  "$1 soic ($2)"
+
+msgid  "exif-fnumber"
+msgstr  "Uimhir F"
+
+msgid  "exif-exposureprogram"
+msgstr  "Clár nochta"
+
+msgid  "exif-spectralsensitivity"
+msgstr  "Íogaireacht an speictrim"
+
+msgid  "exif-isospeedratings"
+msgstr  "Grádú ISO luais"
+
+msgid  "exif-oecf"
+msgstr  "Fachtóir optaileictreonach tiontaithe"
+
+msgid  "exif-shutterspeedvalue"
+msgstr  "Luas nochta"
+
+msgid  "exif-aperturevalue"
+msgstr  "Cró"
+
+msgid  "exif-brightnessvalue"
+msgstr  "Gile"
+
+msgid  "exif-exposurebiasvalue"
+msgstr  "Laobh nochta"
+
+msgid  "exif-maxaperturevalue"
+msgstr  "Cró tíre uasmhéideach"
+
+msgid  "exif-subjectdistance"
+msgstr  "Fad ón ábhar"
+
+msgid  "exif-meteringmode"
+msgstr  "Modh meadarachta"
+
+msgid  "exif-lightsource"
+msgstr  "Foinse solais"
+
+msgid  "exif-flash"
+msgstr  "Splanc"
+
+msgid  "exif-focallength"
+msgstr  "Fad fócasach an lionsa"
+
+msgid  "exif-subjectarea"
+msgstr  "Achar an ábhair"
+
+msgid  "exif-flashenergy"
+msgstr  "Splancfhuinneamh"
+
+msgid  "exif-spatialfrequencyresponse"
+msgstr  "Freagairt minicíochta spáis"
+
+msgid  "exif-focalplanexresolution"
+msgstr  "Taifeach an plána fócasaigh X"
+
+msgid  "exif-focalplaneyresolution"
+msgstr  "Taifeach an plána fócasaigh Y"
+
+msgid  "exif-focalplaneresolutionunit"
+msgstr  "Aonad taifigh an plána fócasaigh"
+
+msgid  "exif-subjectlocation"
+msgstr  "Suíomh an ábhair"
+
+msgid  "exif-exposureindex"
+msgstr  "Innéacs nochta"
+
+msgid  "exif-sensingmethod"
+msgstr  "Modh braite"
+
+msgid  "exif-filesource"
+msgstr  "Foinse comhaid"
+
+msgid  "exif-scenetype"
+msgstr  "Cineál radhairc"
+
+msgid  "exif-cfapattern"
+msgstr  "Patrún CFA"
+
+msgid  "exif-customrendered"
+msgstr  "Íomháphróiseáil saincheaptha"
+
+msgid  "exif-exposuremode"
+msgstr  "Modh nochta"
+
+msgid  "exif-whitebalance"
+msgstr  "Bánchothromaíocht"
+
+msgid  "exif-digitalzoomratio"
+msgstr  "Cóimheas zúmála digiteaí"
+
+msgid  "exif-focallengthin35mmfilm"
+msgstr  "Fad fócasach i scannán 35 mm"
+
+msgid  "exif-scenecapturetype"
+msgstr  "Cineál gabhála radhairc"
+
+msgid  "exif-gaincontrol"
+msgstr  "Rialú radhairc"
+
+msgid  "exif-contrast"
+msgstr  "Codarsnacht"
+
+msgid  "exif-saturation"
+msgstr  "Sáithiú"
+
+msgid  "exif-sharpness"
+msgstr  "Géire"
+
+msgid  "exif-devicesettingdescription"
+msgstr  "Cur síos ar socruithe gléis"
+
+msgid  "exif-subjectdistancerange"
+msgstr  "Raon fada ón ábhar"
+
+msgid  "exif-imageuniqueid"
+msgstr  "Aitheantas uathúil an íomhá"
+
+msgid  "exif-gpsversionid"
+msgstr  "Leagan clibe GPS"
+
+msgid  "exif-gpslatituderef"
+msgstr  "Domhan-leithead Thuaidh no Theas"
+
+msgid  "exif-gpslatitude"
+msgstr  "Domhan-leithead"
+
+msgid  "exif-gpslongituderef"
+msgstr  "Domhanfhad Thoir nó Thiar"
+
+msgid  "exif-gpslongitude"
+msgstr  "Domhanfhad"
+
+msgid  "exif-gpsaltituderef"
+msgstr  "Tagairt airde"
+
+msgid  "exif-gpsaltitude"
+msgstr  "Airde"
+
+msgid  "exif-gpstimestamp"
+msgstr  "Am GPS (clog adamhach)"
+
+msgid  "exif-gpssatellites"
+msgstr  "Satailítí úsáidte don tomhas"
+
+msgid  "exif-gpsstatus"
+msgstr  "Stádas an ghlacadóra"
+
+msgid  "exif-gpsmeasuremode"
+msgstr  "Modh tomhais"
+
+msgid  "exif-gpsdop"
+msgstr  "Beachtas tomhais"
+
+msgid  "exif-gpsspeedref"
+msgstr  "Aonad luais"
+
+msgid  "exif-gpsspeed"
+msgstr  "Luas an ghlacadóra GPS"
+
+msgid  "exif-gpstrackref"
+msgstr  "Tagairt don treo gluaiseachta"
+
+msgid  "exif-gpstrack"
+msgstr  "Treo gluaiseachta"
+
+msgid  "exif-gpsimgdirectionref"
+msgstr  "Tagairt do treo an íomhá"
+
+msgid  "exif-gpsimgdirection"
+msgstr  "Treo an íomhá"
+
+msgid  "exif-gpsmapdatum"
+msgstr  "Sonraí suirbhéireachta geodasaí a úsáideadh"
+
+msgid  "exif-gpsdestlatituderef"
+msgstr  "Tagairt don domhan-leithead sprice"
+
+msgid  "exif-gpsdestlatitude"
+msgstr  "Domhan-leithead sprice"
+
+msgid  "exif-gpsdestlongituderef"
+msgstr  "Tagairt don domhanfhad sprice"
+
+msgid  "exif-gpsdestlongitude"
+msgstr  "Domhanfhad sprice"
+
+msgid  "exif-gpsdestbearingref"
+msgstr  "Tagairt don treo-uillinn sprice"
+
+msgid  "exif-gpsdestbearing"
+msgstr  "Treo-uillinn sprice"
+
+msgid  "exif-gpsdestdistanceref"
+msgstr  "Tagairt don fad ón áit sprice"
+
+msgid  "exif-gpsdestdistance"
+msgstr  "Fad ón áit sprice"
+
+msgid  "exif-gpsprocessingmethod"
+msgstr  "Ainm an modha próiseála GPS"
+
+msgid  "exif-gpsareainformation"
+msgstr  "Ainm an cheantair GPS"
+
+msgid  "exif-gpsdatestamp"
+msgstr  "Dáta GPS"
+
+msgid  "exif-gpsdifferential"
+msgstr  "Ceartú difreálach GPS"
+
+msgid  "exif-compression-1"
+msgstr  "Neamh-chomhbhrúite"
+
+msgid  "exif-unknowndate"
+msgstr  "Dáta anaithnid"
+
+msgid  "exif-orientation-1"
+msgstr  "Gnáth"
+
+msgid  "exif-orientation-2"
+msgstr  "Iompaithe go cothrománach"
+
+msgid  "exif-orientation-3"
+msgstr  "Rothlaithe trí 180°"
+
+msgid  "exif-orientation-4"
+msgstr  "Iompaithe go hingearach"
+
+msgid  "exif-orientation-5"
+msgstr  "Rothlaithe trí 90° CCW agus iompaithe go hingearach"
+
+msgid  "exif-orientation-6"
+msgstr  "Rothlaithe trí 90° CW"
+
+msgid  "exif-orientation-7"
+msgstr  "Rothlaithe trí 90° CW agus iompaithe go hingearach"
+
+msgid  "exif-orientation-8"
+msgstr  "Rothlaithe trí 90° CCW"
+
+msgid  "exif-planarconfiguration-1"
+msgstr  "Formáid shmutánach"
+
+msgid  "exif-planarconfiguration-2"
+msgstr  "Formáid phlánach"
+
+msgid  "exif-componentsconfiguration-0"
+msgstr  "níl a leithéid ann"
+
+msgid  "exif-exposureprogram-0"
+msgstr  "Gan sainiú"
+
+msgid  "exif-exposureprogram-1"
+msgstr  "Leis na lámha"
+
+msgid  "exif-exposureprogram-2"
+msgstr  "Gnáthchlár"
+
+msgid  "exif-exposureprogram-3"
+msgstr  "Tosaíocht nochta"
+
+msgid  "exif-exposureprogram-4"
+msgstr  "Tosaíocht cró"
+
+msgid  "exif-exposureprogram-5"
+msgstr  "Clár cúise (laofa do doimhneacht réimse)"
+
+msgid  "exif-exposureprogram-6"
+msgstr  "Clár gnímh (laofa do cróluas tapaidh)"
+
+msgid  "exif-exposureprogram-7"
+msgstr  "Modh portráide (do grianghraif i ngar don ábhar,\nle cúlra as fócas)"
+
+msgid  "exif-exposureprogram-8"
+msgstr  "Modh tírdhreacha (do grianghraif tírdhreacha le\ncúlra i bhfócas)"
+
+msgid  "exif-subjectdistance-value"
+msgstr  "$1 méadair"
+
+msgid  "exif-meteringmode-0"
+msgstr  "Anaithnid"
+
+msgid  "exif-meteringmode-1"
+msgstr  "Meán"
+
+msgid  "exif-meteringmode-2"
+msgstr  "MeánUalaitheDonLár"
+
+msgid  "exif-meteringmode-3"
+msgstr  "Spota"
+
+msgid  "exif-meteringmode-4"
+msgstr  "Ilspotach"
+
+msgid  "exif-meteringmode-5"
+msgstr  "Patrún"
+
+msgid  "exif-meteringmode-6"
+msgstr  "Páirteach"
+
+msgid  "exif-meteringmode-255"
+msgstr  "Eile"
+
+msgid  "exif-lightsource-0"
+msgstr  "Anaithnid"
+
+msgid  "exif-lightsource-1"
+msgstr  "Solas lae"
+
+msgid  "exif-lightsource-2"
+msgstr  "Fluaraiseach"
+
+msgid  "exif-lightsource-3"
+msgstr  "Tungstan (solas gealbhruthach)"
+
+msgid  "exif-lightsource-4"
+msgstr  "Splanc"
+
+msgid  "exif-lightsource-9"
+msgstr  "Aimsir breá"
+
+msgid  "exif-lightsource-10"
+msgstr  "Aimsir scamallach"
+
+msgid  "exif-lightsource-11"
+msgstr  "Scáth"
+
+msgid  "exif-lightsource-12"
+msgstr  "Solas lae fluaraiseach (D 5700 â€“ 7100K)"
+
+msgid  "exif-lightsource-13"
+msgstr  "Solas bán lae fluaraiseach (N 4600 â€“ 5400K)"
+
+msgid  "exif-lightsource-14"
+msgstr  "Solas fuar bán fluaraiseach (W 3900 â€“ 4500K)"
+
+msgid  "exif-lightsource-15"
+msgstr  "Solas bán fluaraiseach (WW 3200 â€“ 3700K)"
+
+msgid  "exif-lightsource-17"
+msgstr  "Gnáthsholas A"
+
+msgid  "exif-lightsource-18"
+msgstr  "Gnáthsholas B"
+
+msgid  "exif-lightsource-19"
+msgstr  "Gnáthsholas C"
+
+msgid  "exif-lightsource-24"
+msgstr  "Tungstan stiúideó ISO"
+
+msgid  "exif-lightsource-255"
+msgstr  "Foinse eile solais"
+
+msgid  "exif-focalplaneresolutionunit-2"
+msgstr  "orlaigh"
+
+msgid  "exif-sensingmethod-1"
+msgstr  "Gan sainiú"
+
+msgid  "exif-sensingmethod-2"
+msgstr  "Braiteoir aonshliseach ceantair datha"
+
+msgid  "exif-sensingmethod-3"
+msgstr  "Braiteoir dháshliseach ceantair datha"
+
+msgid  "exif-sensingmethod-4"
+msgstr  "Braiteoir tríshliseach ceantair datha"
+
+msgid  "exif-sensingmethod-5"
+msgstr  "Braiteoir dathsheicheamhach ceantair"
+
+msgid  "exif-sensingmethod-7"
+msgstr  "Braiteoir trílíneach"
+
+msgid  "exif-sensingmethod-8"
+msgstr  "Braiteoir dathsheicheamhach línte"
+
+msgid  "exif-scenetype-1"
+msgstr  "Grianghraf a rinneadh go díreach"
+
+msgid  "exif-customrendered-0"
+msgstr  "Gnáthphróiseas"
+
+msgid  "exif-customrendered-1"
+msgstr  "Próiseas saincheaptha"
+
+msgid  "exif-exposuremode-0"
+msgstr  "Nochtadh uathoibríoch"
+
+msgid  "exif-exposuremode-1"
+msgstr  "Nochtadh láimhe"
+
+msgid  "exif-exposuremode-2"
+msgstr  "Brac uathoibríoch"
+
+msgid  "exif-whitebalance-0"
+msgstr  "Bánchothromaíocht uathoibríoch"
+
+msgid  "exif-whitebalance-1"
+msgstr  "Bánchothromaíocht láimhe"
+
+msgid  "exif-scenecapturetype-0"
+msgstr  "Gnáth"
+
+msgid  "exif-scenecapturetype-1"
+msgstr  "Tírdhreach"
+
+msgid  "exif-scenecapturetype-2"
+msgstr  "Portráid"
+
+msgid  "exif-scenecapturetype-3"
+msgstr  "Radharc oíche"
+
+msgid  "exif-gaincontrol-0"
+msgstr  "Dada"
+
+msgid  "exif-gaincontrol-1"
+msgstr  "Íosneartúchán suas"
+
+msgid  "exif-gaincontrol-2"
+msgstr  "Uasneartúchán suas"
+
+msgid  "exif-gaincontrol-3"
+msgstr  "Íosneartúchán síos"
+
+msgid  "exif-gaincontrol-4"
+msgstr  "Uasneartúchán síos"
+
+msgid  "exif-contrast-0"
+msgstr  "Gnáth"
+
+msgid  "exif-contrast-1"
+msgstr  "Bog"
+
+msgid  "exif-contrast-2"
+msgstr  "Crua"
+
+msgid  "exif-saturation-0"
+msgstr  "Gnáth"
+
+msgid  "exif-saturation-1"
+msgstr  "Sáithiúchán íseal"
+
+msgid  "exif-saturation-2"
+msgstr  "Ard-sáithiúchán"
+
+msgid  "exif-sharpness-0"
+msgstr  "Gnáth"
+
+msgid  "exif-sharpness-1"
+msgstr  "Bog"
+
+msgid  "exif-sharpness-2"
+msgstr  "Crua"
+
+msgid  "exif-subjectdistancerange-0"
+msgstr  "Anaithnid"
+
+msgid  "exif-subjectdistancerange-1"
+msgstr  "Macra"
+
+msgid  "exif-subjectdistancerange-2"
+msgstr  "Radharc teann"
+
+msgid  "exif-subjectdistancerange-3"
+msgstr  "Cianradharc"
+
+msgid  "exif-gpslatitude-n"
+msgstr  "Domhan-leithead thuaidh"
+
+msgid  "exif-gpslatitude-s"
+msgstr  "Domhan-leithead theas"
+
+msgid  "exif-gpslongitude-e"
+msgstr  "Domhanfhad Thoir"
+
+msgid  "exif-gpslongitude-w"
+msgstr  "Domhanfhad Thiar"
+
+msgid  "exif-gpsstatus-a"
+msgstr  "Tomhas ar siúl"
+
+msgid  "exif-gpsstatus-v"
+msgstr  "Tomhas dodhéanta"
+
+msgid  "exif-gpsmeasuremode-2"
+msgstr  "Tomhas déthoiseach"
+
+msgid  "exif-gpsmeasuremode-3"
+msgstr  "Tomhas tríthoiseach"
+
+msgid  "exif-gpsspeed-k"
+msgstr  "Ciliméadair san uair"
+
+msgid  "exif-gpsspeed-m"
+msgstr  "Mílte san uair"
+
+msgid  "exif-gpsspeed-n"
+msgstr  "Muirmhílte"
+
+msgid  "exif-gpsdirection-t"
+msgstr  "Fíorthreo"
+
+msgid  "exif-gpsdirection-m"
+msgstr  "Treo maighnéadach"
+
+msgid  "edit-externally"
+msgstr  "Athraigh an comhad seo le feidhmchlár seachtrach"
+
+msgid  "edit-externally-help"
+msgstr  "(Féach ar na [http://www.mediawiki.org/wiki/Manual:External_editors treoracha cumraíochta] as Béarla le tuilleadh eolais)"
+
+msgid  "recentchangesall"
+msgstr  "iad uile"
+
+msgid  "imagelistall"
+msgstr  "iad uile"
+
+msgid  "watchlistall2"
+msgstr  "an t-iomlán"
+
+msgid  "namespacesall"
+msgstr  "iad uile"
+
+msgid  "monthsall"
+msgstr  "gach mí"
+
+msgid  "confirmemail"
+msgstr  "Deimhnigh do ríomhsheoladh"
+
+msgid  "confirmemail_text"
+msgstr  "Tá sé de dhíth an an vicí seo do ríomhsheoladh a bhailíochtú sula n-úsáideann tú na gnéithe ríomhphoist. Brúigh an cnaipe seo thíos chun teachtaireacht deimhnithe a sheoladh chuig do chuntas ríomhphoist. Beidh nasc ann sa chomhad ina mbeidh cód áirithe; lódáil an nasc i do bhrabhsálaí chun deimhniú go bhfuil do ríomhsheoladh bailí."
+
+msgid  "confirmemail_send"
+msgstr  "Seol cód deimhnithe"
+
+msgid  "confirmemail_sent"
+msgstr  "Teachtaireacht deimhnithe seolta chugat."
+
+msgid  "confirmemail_sendfailed"
+msgstr  "Ní féidir {{SITENAME}} do theachtaireacht deimhnithe a sheoladh.\nFéach an bhfuil carachtair neamh-bhailí ann sa seoladh.\n\nD'fhreagair an clár ríomhphoist: $1"
+
+msgid  "confirmemail_invalid"
+msgstr  "Cód deimhnithe neamh-bhailí. B'fhéidir gur chuaidh an cód as feidhm."
+
+msgid  "confirmemail_success"
+msgstr  "Deimhníodh do ríomhsheoladh. Is féidir leat logáil isteach anois agus sult a bhaint as an vicí!"
+
+msgid  "confirmemail_loggedin"
+msgstr  "Deimhníodh do sheoladh ríomhphoist."
+
+msgid  "confirmemail_error"
+msgstr  "Tharlaigh botún éigin le sabháil do dheimhniú."
+
+msgid  "confirmemail_subject"
+msgstr  "Deimhniú do ríomhsheoladh ar an {{SITENAME}}"
+
+msgid  "confirmemail_body"
+msgstr  "Chláraigh duine éigin (tusa is dócha) an cuntas \"$2\" ar {{SITENAME}}\nagus rinneadh é seo ón seoladh IP $1, ag úsáid an ríomhsheolta seo.\n\nChun deimhniú gur leatsa an cuntas seo, agus chun gnéithe ríomhphoist\na chur i ngníomh ag {{SITENAME}}, oscail an nasc seo i do bhrabhsálaí:\n\n$3\n\n<nowiki>*</nowiki>Mura* tusa a chláraigh an cuntas, lean an nasc seo chun\ndeimhniú an ríomhsheolta a chur ar cheal:\n\n$5\n\nRachaidh an cód deimhnithe seo as feidhm ag $4."
+
+msgid  "scarytranscludedisabled"
+msgstr  "[Díchumasaíodh trasáireamh idir vicíonna]"
+
+msgid  "scarytranscludefailed"
+msgstr  "[Theip leis an iarradh teimpléid do $1]"
+
+msgid  "scarytranscludetoolong"
+msgstr  "[Tá an URL ró-fhada]"
+
+msgid  "trackbackremove"
+msgstr  "([$1 Scrios])"
+
+msgid  "deletedwhileediting"
+msgstr  "'''Aire''': scriosadh an leathanach seo nuair a bhí tu ag athrú é!"
+
+msgid  "recreate"
+msgstr  "Athchruthaigh"
+
+msgid  "confirm_purge_button"
+msgstr  "Tá"
+
+msgid  "confirm-purge-top"
+msgstr  "An bhfuil tú cinnte go dteastaíonn uait taisce an leathanaigh seo a bhánú?"
+
+msgid  "imgmultipageprev"
+msgstr  "'← leathanach roimhe sin"
+
+msgid  "imgmultipagenext"
+msgstr  "leathanach a leanas →"
+
+msgid  "imgmultigoto"
+msgstr  "Téigh go leathanach $1"
+
+msgid  "table_pager_next"
+msgstr  "Leathanach a leanas"
+
+msgid  "table_pager_prev"
+msgstr  "Leathanach roimhe"
+
+msgid  "table_pager_first"
+msgstr  "Céad leathanach"
+
+msgid  "table_pager_last"
+msgstr  "Deireadh leathanach"
+
+msgid  "table_pager_empty"
+msgstr  "Folamh"
+
+msgid  "autoredircomment"
+msgstr  "Ag athdhíriú go [[$1]]"
+
+msgid  "autosumm-new"
+msgstr  "Leathanach cruthaithe le '$1'"
+
+msgid  "livepreview-loading"
+msgstr  "Ag lódáil…"
+
+msgid  "livepreview-ready"
+msgstr  "Ag lódáil… Réidh!"
+
+msgid  "watchlistedit-numitems"
+msgstr  "Tá {{PLURAL:$1|teideal amháin|$1 teideail}} i do liosta faire, gan leathanaigh phlé a chur san áireamh."
+
+msgid  "watchlistedit-noitems"
+msgstr  "Níl aon teideail ar do liosta faire."
+
+msgid  "watchlistedit-normal-title"
+msgstr  "Athraigh do liosta faire"
+
+msgid  "watchlistedit-normal-legend"
+msgstr  "Bain teideail as do liosta faire"
+
+msgid  "watchlistedit-normal-submit"
+msgstr  "Bain Teideail as"
+
+msgid  "watchlistedit-raw-title"
+msgstr  "Athraigh do amhliosta faire"
+
+msgid  "watchlistedit-raw-legend"
+msgstr  "Athraigh do amhliosta faire"
+
+msgid  "watchlistedit-raw-titles"
+msgstr  "Teideail:"
+
+msgid  "watchlistedit-raw-submit"
+msgstr  "Nuashonraigh do liosta faire"
+
+msgid  "watchlistedit-raw-done"
+msgstr  "Tá do liosta faire nuashonraithe."
+
+msgid  "watchlisttools-view"
+msgstr  "Féach ar na hathruithe ábhartha"
+
+msgid  "watchlisttools-edit"
+msgstr  "Féach ar do liosta faire ná cuir in eagar é"
+
+msgid  "watchlisttools-raw"
+msgstr  "Cuir do amhliosta faire in eagar"
+
+msgid  "version"
+msgstr  "Leagan"
+
+msgid  "version-other"
+msgstr  "Eile"
+
+msgid  "version-version"
+msgstr  "(Leagan $1)"
+
+msgid  "version-license"
+msgstr  "Ceadúnas"
+
+msgid  "version-software"
+msgstr  "Bogearraí suiteáilte"
+
+msgid  "version-software-version"
+msgstr  "Leagan"
+
+msgid  "filepath"
+msgstr  "Cosán comhaid"
+
+msgid  "filepath-page"
+msgstr  "Comhad:"
+
+msgid  "filepath-submit"
+msgstr  "Gabh"
+
+msgid  "fileduplicatesearch-filename"
+msgstr  "Ainm comhaid:"
+
+msgid  "fileduplicatesearch-submit"
+msgstr  "Cuardaigh"
+
+msgid  "fileduplicatesearch-info"
+msgstr  "$1 × $2 picteillín<br />Méid comhad: $3<br />Saghas MIME: $4"
+
+msgid  "specialpages"
+msgstr  "Leathanaigh speisialta"
+
+msgid  "specialpages-group-other"
+msgstr  "Leathanaigh speisialta eile"
+
+msgid  "specialpages-group-login"
+msgstr  "Logáil isteach / cruthaigh cuntas"
+
+msgid  "specialpages-group-changes"
+msgstr  "Athruithe is déanaí agus logaí"
+
+msgid  "specialpages-group-users"
+msgstr  "Úsáideoirí agus cearta"
+
+msgid  "specialpages-group-pages"
+msgstr  "Liostaí leathanaigh"
+
+msgid  "specialpages-group-pagetools"
+msgstr  "Uirslí leathanach"
+
+msgid  "specialpages-group-wiki"
+msgstr  "Sonraí vicí agus uirslí"
+
+msgid  "specialpages-group-spam"
+msgstr  "Uirlisí turscar"
+
+msgid  "blankpage"
+msgstr  "Leathanach bán"
+
+msgid  "wikimedialicensetexts-desc"
+msgstr  "Teachtaireachtaí cheadúnas Wikimedia"
+
+msgid  "wm-license-attribution-with-author-text"
+msgstr  "Ceadaíonn sealbhóir cóipcheart an chomhaid seo, $1, úsáid a bhaint as '''i gcomhair aidhm ar bith''' má aimnítear sealbhóir an chóipchirt. Is féidir é a athroinnt, obair díorthach a dhéanamh de, agus úsáid tráchtála a bhaint as, agus tá gach úsáid eile ceadaithe freisin."
+
+msgid  "wm-license-attribution-without-author-text"
+msgstr  "Ceadaíonn sealbhóir cóipcheart an chomhaid seo úsáid a bhaint as '''i gcomhair aidhm ar bith''' má aimnítear sealbhóir an chóipchirt. Is féidir é a athroinnt, obair díorthach a dhéanamh de, agus úsáid tráchtála a bhaint as, agus tá gach úsáid eile ceadaithe freisin."
+
+msgid  "wm-license-artwork-artist"
+msgstr  "Cumadóir"
+
+msgid  "wm-license-artwork-dimensions"
+msgstr  "Toisí"
+
+msgid  "wm-license-artwork-current-location"
+msgstr  "Suíomh"
+
+msgid  "wm-license-artwork-credit-line"
+msgstr  "Fuarthas ó/Cnuasach"
+
+msgid  "wm-license-artwork-references"
+msgstr  "Tagairtí"
+
+msgid  "wm-license-artwork-id"
+msgstr  "Uimhir shealbú"
+
+msgid  "wm-license-artwork-source"
+msgstr  "Foinse/Grianghrafadóir"
+
+msgid  "wm-license-cc-wiki-link"
+msgstr  "w:ga:Creative Commons"
+
+msgid  "wm-license-cc-attribution"
+msgstr  "Creidiúint"
+
+msgid  "wm-license-cc-by-1.0-text"
+msgstr  "Ceadaítear úsáid an chomhaid seo faoi thearmaí an cheadúnais [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0 Crediúint 1.0 Cineálach]."
+
+msgid  "wm-license-cc-free"
+msgstr  "Is féidir:"
+
+msgid  "wm-license-cc-free-to-share-header"
+msgstr  "an saothar seo a roinnt"
+
+msgid  "wm-license-cc-free-to-share-text"
+msgstr  "an saothar seo a chóipeáil, a dháil amach, agus a tharchur"
+
+msgid  "wm-license-cc-free-to-remix-header"
+msgstr  "an saothar seo a athmheascadh"
+
+msgid  "wm-license-cc-free-to-remix-text"
+msgstr  "an saothar seo a oiriúnú"
+
+msgid  "wm-license-cc-conditions"
+msgstr  "Ach amháin má leantar na coinníollacha seo a leanas:"
+
+msgid  "wm-license-cc-conditions-attribution-header"
+msgstr  "Crediúint"
+
+msgid  "wm-license-cc-conditions-attribution-text"
+msgstr  "Ní mor creidiúint a thabhairt leis an saothar, faoi mar a shonraigh an údar nó tabharthóir an ceadúnais (ach ná húsáid modh a thugann le fios go thacaíonn sé/sí tú féin nó an úsáid a bhaineann tú as an saothar)."
+
+msgid  "wm-license-cc-conditions-share_alike-header"
+msgstr  "comhroinn araon"
+
+msgid  "wm-license-cc-conditions-share_alike-text"
+msgstr  "Má athraíonn tú nó síneann tú amach an saothar seo, ní féidir é a dháileadh ach amhaín faoin gceadúnas céanna nó ceann cosúil leis an gceann seo."
+
+msgid  "wm-license-fsf-wiki-link"
+msgstr  "w:ga:Free Software Foundation"
+
+msgid  "wm-license-free-software-wiki-link"
+msgstr  "w:ga:Bogearraí saora"
+
+msgid  "wm-license-gfdl-1.2-and-later"
+msgstr  "Tugtar cead an doiciméad seo a chóipeáil, a dháil amach agus/nó a athrú de réir choinníollacha '''[[{{int:wm-license-gfdl-wiki-link}}|Cheadúnas GNU na nDoiciméad Saor]]''', Leagan 1.2 nó leagan ar bith níos nuaí a fhoilsítear ag an [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; gan Ranna Do-athraithe, gan Téacsanna an Chlúdaigh Tosaigh, gan Téacsanna an Chlúdaigh Deiridh."
+
+msgid  "wm-license-gfdl-wiki-link"
+msgstr  "w:ga:Ceadúnas GNU do Dhoiciméadú Saor"
+
+msgid  "wm-license-information-table-summary"
+msgstr  "Seo tábla caighdeánaithe a sholáthraíonn faisnéis iomlán maidir leis an comhad, lena n-áirítear cur síos ar cad a léiríonn sé agus conas a bhí déanta aige, stádas cóipchirt agus foinse."
+
+msgid  "wm-license-information-description"
+msgstr  "Tuairisc"
+
+msgid  "wm-license-information-description-missing"
+msgstr  "Níl aon '''cur síos''' ar an meán seo, agus a d'fhéadfadh faisnéis eile in easnamh."
+
+msgid  "wm-license-information-description-missing-request"
+msgstr  "Tabhair cur síos chiallmhar ar an meán comhad seo, le do thoil."
+
+msgid  "wm-license-information-source"
+msgstr  "Foinse"
+
+msgid  "wm-license-information-source-missing"
+msgstr  "Tá eolas '''foinse''' de dhíth ag an gcomhad seo."
+
+msgid  "wm-license-information-source-missing-request"
+msgstr  "Cuir cur síos an chomhaid seo in eagar chun foinse a sholáthar, le do thoil."
+
+msgid  "wm-license-information-date"
+msgstr  "Dáta"
+
+msgid  "wm-license-information-author"
+msgstr  "Údar"
+
+msgid  "wm-license-information-author-missing"
+msgstr  "Níl aon eolas faoin '''údar''' an meáin seo."
+
+msgid  "wm-license-information-permission"
+msgstr  "Ceadúnas"
+
+msgid  "wm-license-information-permission-reusing-text"
+msgstr  "Athúsáid a bhaint as an gcomhad seo"
+
+msgid  "wm-license-information-permission-see-below"
+msgstr  "Féach thíos"
+
+msgid  "wm-license-information-other-versions"
+msgstr  "Leaganacha eile"
+
+msgid  "wm-license-own-work"
+msgstr  "Obair féin"
+
+msgid  "wm-license-self-one-license"
+msgstr  "Is mise sealbhóir cóipchirt an shaothair seo, agus foilsím é faoin gceadúnas seo a leanas:"
+
+msgid  "wm-license-self-one-license-with-author"
+msgstr  "Is mise $1, sealbhóir cóipchirt an shaothair seo, agus foilsím é faoi na ceadúnais seo a leanas:"
+
+msgid  "wm-license-self-multiple-licenses"
+msgstr  "Is mise sealbhóir cóipchirt an shaothair seo, agus foilsím é faoi na ceadúnais seo a leanas:"
+
+msgid  "wm-license-self-multiple-licenses-with-author"
+msgstr  "Is mise $1, sealbhóir cóipchirt an shaothair seo, agus foilsím é faoi na ceadúnais seo a leanas:"
+
+msgid  "wm-license-self-multiple-licenses-select"
+msgstr  "Is féidir leat a roghnú an ceadúnas do rogha"
+
